@@ -1,0 +1,381 @@
+date;home_team;away_team;home_score;away_score;League
+04.06.2023;Mallorca;Rayo Vallecano;3;0;La Liga
+04.06.2023;R. Sociedad;Sevilla;2;1;La Liga
+04.06.2023;Real Madrid;Ath. Bilbao;1;1;La Liga
+04.06.2023;Villarreal;Atl. Madrid;2;2;La Liga
+04.06.2023;Osasuna;Girona;2;1;La Liga
+04.06.2023;Real Betis;Valencia;1;1;La Liga
+04.06.2023;Celta Vigo;Barcelona;2;1;La Liga
+04.06.2023;R. Valladolid;Getafe;0;0;La Liga
+04.06.2023;Elche;Cadiz;1;1;La Liga
+04.06.2023;Espanyol;Almeria;3;3;La Liga
+27.05.2023;Sevilla;Real Madrid;1;2;La Liga
+28.05.2023;Ath. Bilbao;Elche;0;1;La Liga
+28.05.2023;Atl. Madrid;R. Sociedad;2;1;La Liga
+28.05.2023;Barcelona;Mallorca;3;0;La Liga
+28.05.2023;Getafe;Osasuna;2;1;La Liga
+28.05.2023;Cadiz;Celta Vigo;1;0;La Liga
+28.05.2023;Rayo Vallecano;Villarreal;2;1;La Liga
+28.05.2023;Almeria;R. Valladolid;0;0;La Liga
+28.05.2023;Girona;Real Betis;1;2;La Liga
+28.05.2023;Valencia;Espanyol;2;2;La Liga
+23.05.2023;Celta Vigo;Girona;1;1;La Liga
+23.05.2023;R. Sociedad;Almeria;1;0;La Liga
+23.05.2023;R. Valladolid;Barcelona;3;1;La Liga
+24.05.2023;Elche;Sevilla;1;1;La Liga
+24.05.2023;Villarreal;Cadiz;2;0;La Liga
+24.05.2023;Real Madrid;Rayo Vallecano;2;1;La Liga
+24.05.2023;Real Betis;Getafe;0;1;La Liga
+24.05.2023;Espanyol;Atl. Madrid;3;3;La Liga
+25.05.2023;Mallorca;Valencia;1;0;La Liga
+25.05.2023;Osasuna;Ath. Bilbao;2;0;La Liga
+19.05.2023;Cadiz;R. Valladolid;2;0;La Liga
+20.05.2023;Girona;Villarreal;1;2;La Liga
+20.05.2023;Ath. Bilbao;Celta Vigo;2;1;La Liga
+20.05.2023;Almeria;Mallorca;3;0;La Liga
+20.05.2023;Getafe;Elche;1;1;La Liga
+20.05.2023;Barcelona;R. Sociedad;1;2;La Liga
+21.05.2023;Rayo Vallecano;Espanyol;1;2;La Liga
+21.05.2023;Atl. Madrid;Osasuna;3;0;La Liga
+21.05.2023;Valencia;Real Madrid;1;0;La Liga
+21.05.2023;Sevilla;Real Betis;0;0;La Liga
+12.05.2023;Mallorca;Cadiz;1;0;La Liga
+13.05.2023;R. Sociedad;Girona;2;2;La Liga
+13.05.2023;Osasuna;Almeria;3;1;La Liga
+13.05.2023;Villarreal;Ath. Bilbao;5;1;La Liga
+13.05.2023;Real Madrid;Getafe;1;0;La Liga
+14.05.2023;Celta Vigo;Valencia;1;2;La Liga
+14.05.2023;Elche;Atl. Madrid;1;0;La Liga
+14.05.2023;R. Valladolid;Sevilla;0;3;La Liga
+14.05.2023;Espanyol;Barcelona;2;4;La Liga
+15.05.2023;Real Betis;Rayo Vallecano;3;1;La Liga
+02.05.2023;Barcelona;Osasuna;1;0;La Liga
+02.05.2023;Almeria;Elche;2;1;La Liga
+02.05.2023;R. Sociedad;Real Madrid;2;0;La Liga
+03.05.2023;Valencia;Villarreal;1;1;La Liga
+03.05.2023;Atl. Madrid;Cadiz;5;1;La Liga
+03.05.2023;Getafe;Celta Vigo;1;0;La Liga
+04.05.2023;Girona;Mallorca;2;1;La Liga
+04.05.2023;Sevilla;Espanyol;3;2;La Liga
+04.05.2023;Ath. Bilbao;Real Betis;0;1;La Liga
+04.05.2023;Rayo Vallecano;R. Valladolid;2;1;La Liga
+28.04.2023;Osasuna;R. Sociedad;0;2;La Liga
+29.04.2023;Elche;Rayo Vallecano;4;0;La Liga
+29.04.2023;Real Madrid;Almeria;4;2;La Liga
+29.04.2023;Barcelona;Real Betis;4;0;La Liga
+30.04.2023;Cadiz;Valencia;2;1;La Liga
+30.04.2023;Villarreal;Celta Vigo;3;1;La Liga
+30.04.2023;Espanyol;Getafe;1;0;La Liga
+30.04.2023;R. Valladolid;Atl. Madrid;2;5;La Liga
+01.05.2023;Mallorca;Ath. Bilbao;1;1;La Liga
+01.05.2023;Sevilla;Girona;0;2;La Liga
+25.04.2023;Cadiz;Osasuna;0;1;La Liga
+25.04.2023;Girona;Real Madrid;4;2;La Liga
+25.04.2023;Real Betis;R. Sociedad;0;0;La Liga
+26.04.2023;Atl. Madrid;Mallorca;3;1;La Liga
+26.04.2023;Getafe;Almeria;1;2;La Liga
+26.04.2023;Celta Vigo;Elche;1;0;La Liga
+26.04.2023;Rayo Vallecano;Barcelona;2;1;La Liga
+27.04.2023;Valencia;R. Valladolid;2;1;La Liga
+27.04.2023;Villarreal;Espanyol;4;2;La Liga
+27.04.2023;Ath. Bilbao;Sevilla;0;1;La Liga
+21.04.2023;Espanyol;Cadiz;0;0;La Liga
+22.04.2023;Osasuna;Real Betis;3;2;La Liga
+22.04.2023;Almeria;Ath. Bilbao;1;2;La Liga
+22.04.2023;R. Sociedad;Rayo Vallecano;2;1;La Liga
+22.04.2023;R. Valladolid;Girona;1;0;La Liga
+22.04.2023;Real Madrid;Celta Vigo;2;0;La Liga
+23.04.2023;Elche;Valencia;0;2;La Liga
+23.04.2023;Barcelona;Atl. Madrid;1;0;La Liga
+23.04.2023;Mallorca;Getafe;3;1;La Liga
+23.04.2023;Sevilla;Villarreal;2;1;La Liga
+14.04.2023;Rayo Vallecano;Osasuna;2;1;La Liga
+15.04.2023;Villarreal;R. Valladolid;1;2;La Liga
+15.04.2023;Ath. Bilbao;R. Sociedad;2;0;La Liga
+15.04.2023;Real Betis;Espanyol;3;1;La Liga
+15.04.2023;Cadiz;Real Madrid;0;2;La Liga
+16.04.2023;Girona;Elche;2;0;La Liga
+16.04.2023;Getafe;Barcelona;0;0;La Liga
+16.04.2023;Atl. Madrid;Almeria;2;1;La Liga
+16.04.2023;Valencia;Sevilla;0;2;La Liga
+17.04.2023;Celta Vigo;Mallorca;0;1;La Liga
+07.04.2023;Sevilla;Celta Vigo;2;2;La Liga
+08.04.2023;Osasuna;Elche;2;1;La Liga
+08.04.2023;Espanyol;Ath. Bilbao;1;2;La Liga
+08.04.2023;R. Sociedad;Getafe;2;0;La Liga
+08.04.2023;Real Madrid;Villarreal;2;3;La Liga
+09.04.2023;R. Valladolid;Mallorca;3;3;La Liga
+09.04.2023;Real Betis;Cadiz;0;2;La Liga
+09.04.2023;Almeria;Valencia;2;1;La Liga
+09.04.2023;Rayo Vallecano;Atl. Madrid;1;2;La Liga
+10.04.2023;Barcelona;Girona;0;0;La Liga
+31.03.2023;Mallorca;Osasuna;0;0;La Liga
+01.04.2023;Girona;Espanyol;2;1;La Liga
+01.04.2023;Ath. Bilbao;Getafe;0;0;La Liga
+01.04.2023;Cadiz;Sevilla;0;2;La Liga
+01.04.2023;Elche;Barcelona;0;4;La Liga
+02.04.2023;Celta Vigo;Almeria;2;2;La Liga
+02.04.2023;Real Madrid;R. Valladolid;6;0;La Liga
+02.04.2023;Villarreal;R. Sociedad;2;0;La Liga
+02.04.2023;Atl. Madrid;Real Betis;1;0;La Liga
+03.04.2023;Valencia;Rayo Vallecano;1;1;La Liga
+17.03.2023;R. Valladolid;Ath. Bilbao;1;3;La Liga
+18.03.2023;Almeria;Cadiz;1;1;La Liga
+18.03.2023;Rayo Vallecano;Girona;2;2;La Liga
+18.03.2023;Espanyol;Celta Vigo;1;3;La Liga
+18.03.2023;Atl. Madrid;Valencia;3;0;La Liga
+19.03.2023;Real Betis;Mallorca;1;0;La Liga
+19.03.2023;Osasuna;Villarreal;0;3;La Liga
+19.03.2023;R. Sociedad;Elche;2;0;La Liga
+19.03.2023;Getafe;Sevilla;2;0;La Liga
+19.03.2023;Barcelona;Real Madrid;2;1;La Liga
+10.03.2023;Cadiz;Getafe;2;2;La Liga
+11.03.2023;Real Madrid;Espanyol;3;1;La Liga
+11.03.2023;Elche;R. Valladolid;1;1;La Liga
+11.03.2023;Celta Vigo;Rayo Vallecano;3;0;La Liga
+11.03.2023;Valencia;Osasuna;1;0;La Liga
+12.03.2023;Mallorca;R. Sociedad;1;1;La Liga
+12.03.2023;Sevilla;Almeria;2;1;La Liga
+12.03.2023;Villarreal;Real Betis;1;1;La Liga
+12.03.2023;Ath. Bilbao;Barcelona;0;1;La Liga
+13.03.2023;Girona;Atl. Madrid;0;1;La Liga
+03.03.2023;R. Sociedad;Cadiz;0;0;La Liga
+04.03.2023;Getafe;Girona;3;2;La Liga
+04.03.2023;Almeria;Villarreal;0;2;La Liga
+04.03.2023;Mallorca;Elche;0;1;La Liga
+04.03.2023;Atl. Madrid;Sevilla;6;1;La Liga
+05.03.2023;R. Valladolid;Espanyol;2;1;La Liga
+05.03.2023;Barcelona;Valencia;1;0;La Liga
+05.03.2023;Rayo Vallecano;Ath. Bilbao;0;0;La Liga
+05.03.2023;Real Betis;Real Madrid;0;0;La Liga
+06.03.2023;Osasuna;Celta Vigo;0;0;La Liga
+24.02.2023;Elche;Real Betis;2;3;La Liga
+25.02.2023;Espanyol;Mallorca;2;1;La Liga
+25.02.2023;Cadiz;Rayo Vallecano;1;0;La Liga
+25.02.2023;Real Madrid;Atl. Madrid;1;1;La Liga
+25.02.2023;Valencia;R. Sociedad;1;0;La Liga
+26.02.2023;Ath. Bilbao;Girona;2;3;La Liga
+26.02.2023;Celta Vigo;R. Valladolid;3;0;La Liga
+26.02.2023;Almeria;Barcelona;1;0;La Liga
+26.02.2023;Sevilla;Osasuna;2;3;La Liga
+27.02.2023;Villarreal;Getafe;2;1;La Liga
+17.02.2023;Girona;Almeria;6;2;La Liga
+18.02.2023;R. Sociedad;Celta Vigo;1;1;La Liga
+18.02.2023;Real Betis;R. Valladolid;2;1;La Liga
+18.02.2023;Mallorca;Villarreal;4;2;La Liga
+18.02.2023;Osasuna;Real Madrid;0;2;La Liga
+19.02.2023;Elche;Espanyol;0;1;La Liga
+19.02.2023;Rayo Vallecano;Sevilla;1;1;La Liga
+19.02.2023;Atl. Madrid;Ath. Bilbao;1;0;La Liga
+19.02.2023;Barcelona;Cadiz;2;0;La Liga
+20.02.2023;Getafe;Valencia;1;0;La Liga
+10.02.2023;Cadiz;Girona;2;0;La Liga
+11.02.2023;Almeria;Real Betis;2;3;La Liga
+11.02.2023;Sevilla;Mallorca;2;0;La Liga
+11.02.2023;Valencia;Ath. Bilbao;1;2;La Liga
+12.02.2023;Getafe;Rayo Vallecano;1;1;La Liga
+12.02.2023;Celta Vigo;Atl. Madrid;0;1;La Liga
+12.02.2023;R. Valladolid;Osasuna;0;0;La Liga
+12.02.2023;Villarreal;Barcelona;0;1;La Liga
+13.02.2023;Espanyol;R. Sociedad;2;3;La Liga
+15.02.2023;Real Madrid;Elche;4;0;La Liga
+03.02.2023;Ath. Bilbao;Cadiz;4;1;La Liga
+04.02.2023;Espanyol;Osasuna;1;1;La Liga
+04.02.2023;Elche;Villarreal;3;1;La Liga
+04.02.2023;Atl. Madrid;Getafe;1;1;La Liga
+04.02.2023;Real Betis;Celta Vigo;3;4;La Liga
+05.02.2023;Mallorca;Real Madrid;1;0;La Liga
+05.02.2023;Girona;Valencia;1;0;La Liga
+05.02.2023;R. Sociedad;R. Valladolid;0;1;La Liga
+05.02.2023;Barcelona;Sevilla;3;0;La Liga
+06.02.2023;Rayo Vallecano;Almeria;2;0;La Liga
+27.01.2023;Almeria;Espanyol;3;1;La Liga
+28.01.2023;Cadiz;Mallorca;2;0;La Liga
+28.01.2023;Girona;Barcelona;0;1;La Liga
+28.01.2023;Sevilla;Elche;3;0;La Liga
+28.01.2023;Getafe;Real Betis;0;1;La Liga
+29.01.2023;R. Valladolid;Valencia;1;0;La Liga
+29.01.2023;Osasuna;Atl. Madrid;0;1;La Liga
+29.01.2023;Celta Vigo;Ath. Bilbao;1;0;La Liga
+29.01.2023;Real Madrid;R. Sociedad;0;0;La Liga
+30.01.2023;Villarreal;Rayo Vallecano;0;1;La Liga
+20.01.2023;Mallorca;Celta Vigo;1;0;La Liga
+21.01.2023;Rayo Vallecano;R. Sociedad;0;2;La Liga
+21.01.2023;Espanyol;Real Betis;1;0;La Liga
+21.01.2023;Atl. Madrid;R. Valladolid;3;0;La Liga
+21.01.2023;Sevilla;Cadiz;1;0;La Liga
+22.01.2023;Villarreal;Girona;1;0;La Liga
+22.01.2023;Elche;Osasuna;1;1;La Liga
+22.01.2023;Barcelona;Getafe;1;0;La Liga
+22.01.2023;Ath. Bilbao;Real Madrid;0;2;La Liga
+23.01.2023;Valencia;Almeria;2;2;La Liga
+13.01.2023;Celta Vigo;Villarreal;1;1;La Liga
+14.01.2023;R. Valladolid;Rayo Vallecano;0;1;La Liga
+14.01.2023;Girona;Sevilla;2;1;La Liga
+14.01.2023;Osasuna;Mallorca;1;0;La Liga
+14.01.2023;R. Sociedad;Ath. Bilbao;3;1;La Liga
+15.01.2023;Getafe;Espanyol;1;2;La Liga
+15.01.2023;Almeria;Atl. Madrid;1;1;La Liga
+16.01.2023;Cadiz;Elche;1;1;La Liga
+01.02.2023;Real Betis;Barcelona;1;2;La Liga
+02.02.2023;Real Madrid;Valencia;2;0;La Liga
+06.01.2023;Elche;Celta Vigo;0;1;La Liga
+06.01.2023;Valencia;Cadiz;0;1;La Liga
+07.01.2023;Villarreal;Real Madrid;2;1;La Liga
+07.01.2023;Mallorca;R. Valladolid;1;0;La Liga
+07.01.2023;Espanyol;Girona;2;2;La Liga
+08.01.2023;Almeria;R. Sociedad;0;2;La Liga
+08.01.2023;Rayo Vallecano;Real Betis;1;2;La Liga
+08.01.2023;Sevilla;Getafe;2;1;La Liga
+08.01.2023;Atl. Madrid;Barcelona;0;1;La Liga
+09.01.2023;Ath. Bilbao;Osasuna;0;0;La Liga
+29.12.2022;Girona;Rayo Vallecano;2;2;La Liga
+29.12.2022;Real Betis;Ath. Bilbao;0;0;La Liga
+29.12.2022;Atl. Madrid;Elche;2;0;La Liga
+30.12.2022;Getafe;Mallorca;2;0;La Liga
+30.12.2022;Celta Vigo;Sevilla;1;1;La Liga
+30.12.2022;Cadiz;Almeria;1;1;La Liga
+30.12.2022;R. Valladolid;Real Madrid;0;2;La Liga
+31.12.2022;Barcelona;Espanyol;1;1;La Liga
+31.12.2022;R. Sociedad;Osasuna;2;0;La Liga
+31.12.2022;Villarreal;Valencia;2;1;La Liga
+08.11.2022;Elche;Girona;1;2;La Liga
+08.11.2022;Ath. Bilbao;R. Valladolid;3;0;La Liga
+08.11.2022;Osasuna;Barcelona;1;2;La Liga
+09.11.2022;Almeria;Getafe;1;0;La Liga
+09.11.2022;Sevilla;R. Sociedad;1;2;La Liga
+09.11.2022;Espanyol;Villarreal;0;1;La Liga
+09.11.2022;Mallorca;Atl. Madrid;1;0;La Liga
+10.11.2022;Rayo Vallecano;Celta Vigo;0;0;La Liga
+10.11.2022;Valencia;Real Betis;3;0;La Liga
+10.11.2022;Real Madrid;Cadiz;2;1;La Liga
+04.11.2022;Girona;Ath. Bilbao;2;1;La Liga
+05.11.2022;Getafe;Cadiz;0;0;La Liga
+05.11.2022;R. Valladolid;Elche;2;1;La Liga
+05.11.2022;Celta Vigo;Osasuna;1;2;La Liga
+05.11.2022;Barcelona;Almeria;2;0;La Liga
+06.11.2022;Atl. Madrid;Espanyol;1;1;La Liga
+06.11.2022;R. Sociedad;Valencia;1;1;La Liga
+06.11.2022;Villarreal;Mallorca;0;2;La Liga
+06.11.2022;Real Betis;Sevilla;1;1;La Liga
+07.11.2022;Rayo Vallecano;Real Madrid;3;2;La Liga
+28.10.2022;Mallorca;Espanyol;1;1;La Liga
+29.10.2022;Almeria;Celta Vigo;3;1;La Liga
+29.10.2022;Cadiz;Atl. Madrid;3;2;La Liga
+29.10.2022;Sevilla;Rayo Vallecano;0;1;La Liga
+29.10.2022;Valencia;Barcelona;0;1;La Liga
+30.10.2022;Osasuna;R. Valladolid;2;0;La Liga
+30.10.2022;Real Madrid;Girona;1;1;La Liga
+30.10.2022;Ath. Bilbao;Villarreal;1;0;La Liga
+30.10.2022;R. Sociedad;Real Betis;0;2;La Liga
+31.10.2022;Elche;Getafe;0;1;La Liga
+22.10.2022;Rayo Vallecano;Cadiz;5;1;La Liga
+22.10.2022;R. Valladolid;R. Sociedad;1;0;La Liga
+22.10.2022;Valencia;Mallorca;1;2;La Liga
+22.10.2022;Real Madrid;Sevilla;3;1;La Liga
+23.10.2022;Espanyol;Elche;2;2;La Liga
+23.10.2022;Real Betis;Atl. Madrid;1;2;La Liga
+23.10.2022;Girona;Osasuna;1;1;La Liga
+23.10.2022;Villarreal;Almeria;2;1;La Liga
+23.10.2022;Barcelona;Ath. Bilbao;4;0;La Liga
+24.10.2022;Celta Vigo;Getafe;1;1;La Liga
+18.10.2022;Sevilla;Valencia;1;1;La Liga
+18.10.2022;Getafe;Ath. Bilbao;2;2;La Liga
+18.10.2022;Atl. Madrid;Rayo Vallecano;1;1;La Liga
+19.10.2022;Cadiz;Real Betis;0;0;La Liga
+19.10.2022;R. Valladolid;Celta Vigo;4;1;La Liga
+19.10.2022;R. Sociedad;Mallorca;1;0;La Liga
+19.10.2022;Elche;Real Madrid;0;3;La Liga
+20.10.2022;Almeria;Girona;3;2;La Liga
+20.10.2022;Osasuna;Espanyol;1;0;La Liga
+20.10.2022;Barcelona;Villarreal;3;0;La Liga
+14.10.2022;Rayo Vallecano;Getafe;0;0;La Liga
+15.10.2022;Girona;Cadiz;1;1;La Liga
+15.10.2022;Valencia;Elche;2;2;La Liga
+15.10.2022;Mallorca;Sevilla;0;1;La Liga
+15.10.2022;Ath. Bilbao;Atl. Madrid;0;1;La Liga
+16.10.2022;Celta Vigo;R. Sociedad;1;2;La Liga
+16.10.2022;Real Madrid;Barcelona;3;1;La Liga
+16.10.2022;Espanyol;R. Valladolid;1;0;La Liga
+16.10.2022;Real Betis;Almeria;3;1;La Liga
+17.10.2022;Villarreal;Osasuna;2;0;La Liga
+07.10.2022;Osasuna;Valencia;1;2;La Liga
+08.10.2022;Almeria;Rayo Vallecano;3;1;La Liga
+08.10.2022;Atl. Madrid;Girona;2;1;La Liga
+08.10.2022;Sevilla;Ath. Bilbao;1;1;La Liga
+08.10.2022;Getafe;Real Madrid;0;1;La Liga
+09.10.2022;R. Valladolid;Real Betis;0;0;La Liga
+09.10.2022;Cadiz;Espanyol;2;2;La Liga
+09.10.2022;R. Sociedad;Villarreal;1;0;La Liga
+09.10.2022;Barcelona;Celta Vigo;1;0;La Liga
+10.10.2022;Elche;Mallorca;1;1;La Liga
+30.09.2022;Ath. Bilbao;Almeria;4;0;La Liga
+01.10.2022;Cadiz;Villarreal;0;0;La Liga
+01.10.2022;Getafe;R. Valladolid;2;3;La Liga
+01.10.2022;Sevilla;Atl. Madrid;0;2;La Liga
+01.10.2022;Mallorca;Barcelona;0;1;La Liga
+02.10.2022;Espanyol;Valencia;2;2;La Liga
+02.10.2022;Celta Vigo;Real Betis;1;0;La Liga
+02.10.2022;Girona;R. Sociedad;3;5;La Liga
+02.10.2022;Real Madrid;Osasuna;1;1;La Liga
+03.10.2022;Rayo Vallecano;Elche;2;1;La Liga
+16.09.2022;R. Valladolid;Cadiz;0;1;La Liga
+17.09.2022;Mallorca;Almeria;1;0;La Liga
+17.09.2022;Barcelona;Elche;3;0;La Liga
+17.09.2022;Valencia;Celta Vigo;3;0;La Liga
+17.09.2022;Ath. Bilbao;Rayo Vallecano;3;2;La Liga
+18.09.2022;Osasuna;Getafe;0;2;La Liga
+18.09.2022;Villarreal;Sevilla;1;1;La Liga
+18.09.2022;Real Betis;Girona;2;1;La Liga
+18.09.2022;R. Sociedad;Espanyol;2;1;La Liga
+18.09.2022;Atl. Madrid;Real Madrid;1;2;La Liga
+09.09.2022;Girona;R. Valladolid;2;1;La Liga
+10.09.2022;Rayo Vallecano;Valencia;2;1;La Liga
+10.09.2022;Espanyol;Sevilla;2;3;La Liga
+10.09.2022;Cadiz;Barcelona;0;4;La Liga
+10.09.2022;Atl. Madrid;Celta Vigo;4;1;La Liga
+11.09.2022;Real Madrid;Mallorca;4;1;La Liga
+11.09.2022;Elche;Ath. Bilbao;1;4;La Liga
+11.09.2022;Getafe;R. Sociedad;2;1;La Liga
+11.09.2022;Real Betis;Villarreal;1;0;La Liga
+12.09.2022;Almeria;Osasuna;0;1;La Liga
+02.09.2022;Celta Vigo;Cadiz;3;0;La Liga
+03.09.2022;Mallorca;Girona;1;1;La Liga
+03.09.2022;Real Madrid;Real Betis;2;1;La Liga
+03.09.2022;R. Sociedad;Atl. Madrid;1;1;La Liga
+03.09.2022;Sevilla;Barcelona;0;3;La Liga
+04.09.2022;Osasuna;Rayo Vallecano;2;1;La Liga
+04.09.2022;Ath. Bilbao;Espanyol;0;1;La Liga
+04.09.2022;Villarreal;Elche;4;0;La Liga
+04.09.2022;Valencia;Getafe;5;1;La Liga
+05.09.2022;R. Valladolid;Almeria;1;0;La Liga
+26.08.2022;Girona;Celta Vigo;0;1;La Liga
+26.08.2022;Real Betis;Osasuna;1;0;La Liga
+27.08.2022;Elche;R. Sociedad;0;1;La Liga
+27.08.2022;Rayo Vallecano;Mallorca;0;2;La Liga
+27.08.2022;Almeria;Sevilla;2;1;La Liga
+28.08.2022;Getafe;Villarreal;0;0;La Liga
+28.08.2022;Barcelona;R. Valladolid;4;0;La Liga
+28.08.2022;Espanyol;Real Madrid;1;3;La Liga
+29.08.2022;Cadiz;Ath. Bilbao;0;4;La Liga
+29.08.2022;Valencia;Atl. Madrid;0;1;La Liga
+19.08.2022;Espanyol;Rayo Vallecano;0;2;La Liga
+19.08.2022;Sevilla;R. Valladolid;1;1;La Liga
+20.08.2022;Osasuna;Cadiz;2;0;La Liga
+20.08.2022;Mallorca;Real Betis;1;2;La Liga
+20.08.2022;Celta Vigo;Real Madrid;1;4;La Liga
+21.08.2022;Ath. Bilbao;Valencia;1;0;La Liga
+21.08.2022;Atl. Madrid;Villarreal;0;2;La Liga
+21.08.2022;R. Sociedad;Barcelona;1;4;La Liga
+22.08.2022;Elche;Almeria;1;1;La Liga
+22.08.2022;Girona;Getafe;3;1;La Liga
+12.08.2022;Osasuna;Sevilla;2;1;La Liga
+13.08.2022;Celta Vigo;Espanyol;2;2;La Liga
+13.08.2022;R. Valladolid;Villarreal;0;3;La Liga
+13.08.2022;Barcelona;Rayo Vallecano;0;0;La Liga
+14.08.2022;Cadiz;R. Sociedad;0;1;La Liga
+14.08.2022;Valencia;Girona;1;0;La Liga
+14.08.2022;Almeria;Real Madrid;1;2;La Liga
+15.08.2022;Ath. Bilbao;Mallorca;0;0;La Liga
+15.08.2022;Getafe;Atl. Madrid;0;3;La Liga
+15.08.2022;Real Betis;Elche;3;0;La Liga

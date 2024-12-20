@@ -1,0 +1,381 @@
+date;home_team;away_team;home_score;away_score;League
+19.05.2018;Caen;PSG;0;0;Ligue 1
+19.05.2018;Dijon;Angers;2;1;Ligue 1
+19.05.2018;Lyon;Nice;3;2;Ligue 1
+19.05.2018;Marsilya;Amiens;2;1;Ligue 1
+19.05.2018;Metz;Bordeaux;0;4;Ligue 1
+19.05.2018;Nantes;Strasbourg;1;0;Ligue 1
+19.05.2018;Rennes;Montpellier;1;1;Ligue 1
+19.05.2018;St Etienne;Lille;5;0;Ligue 1
+19.05.2018;Toulouse;Guingamp;2;1;Ligue 1
+19.05.2018;Troyes;Monaco;0;3;Ligue 1
+11.05.2018;Guingamp;Marsilya;3;3;Ligue 1
+12.05.2018;Amiens;Metz;2;0;Ligue 1
+12.05.2018;Angers;Nantes;0;2;Ligue 1
+12.05.2018;Bordeaux;Toulouse;4;2;Ligue 1
+12.05.2018;Lille;Dijon;2;1;Ligue 1
+12.05.2018;Monaco;St Etienne;1;0;Ligue 1
+12.05.2018;Montpellier;Troyes;1;1;Ligue 1
+12.05.2018;Nice;Caen;4;1;Ligue 1
+12.05.2018;PSG;Rennes;0;2;Ligue 1
+12.05.2018;Strasbourg;Lyon;3;2;Ligue 1
+04.05.2018;Amiens;PSG;2;2;Ligue 1
+06.05.2018;St Etienne;Bordeaux;1;3;Ligue 1
+06.05.2018;Lyon;Troyes;3;0;Ligue 1
+06.05.2018;Caen;Monaco;1;2;Ligue 1
+06.05.2018;Dijon;Guingamp;3;1;Ligue 1
+06.05.2018;Metz;Angers;1;2;Ligue 1
+06.05.2018;Nantes;Montpellier;0;2;Ligue 1
+06.05.2018;Rennes;Strasbourg;2;1;Ligue 1
+06.05.2018;Toulouse;Lille;2;3;Ligue 1
+06.05.2018;Marsilya;Nice;2;1;Ligue 1
+27.04.2018;Montpellier;St Etienne;0;1;Ligue 1
+28.04.2018;Lyon;Nantes;2;0;Ligue 1
+28.04.2018;Bordeaux;Dijon;3;1;Ligue 1
+28.04.2018;Lille;Metz;3;1;Ligue 1
+28.04.2018;Monaco;Amiens;0;0;Ligue 1
+28.04.2018;Strasbourg;Nice;1;1;Ligue 1
+28.04.2018;Troyes;Caen;3;1;Ligue 1
+29.04.2018;Rennes;Toulouse;2;1;Ligue 1
+29.04.2018;Angers;Marsilya;1;1;Ligue 1
+29.04.2018;PSG;Guingamp;2;2;Ligue 1
+20.04.2018;Nantes;Rennes;1;1;Ligue 1
+20.04.2018;Dijon;Lyon;2;5;Ligue 1
+21.04.2018;Marsilya;Lille;5;1;Ligue 1
+21.04.2018;Amiens;Strasbourg;3;1;Ligue 1
+21.04.2018;Guingamp;Monaco;3;1;Ligue 1
+21.04.2018;Metz;Caen;1;1;Ligue 1
+21.04.2018;Toulouse;Angers;2;0;Ligue 1
+22.04.2018;Nice;Montpellier;1;0;Ligue 1
+22.04.2018;St Etienne;Troyes;2;1;Ligue 1
+22.04.2018;Bordeaux;PSG;0;1;Ligue 1
+13.04.2018;Angers;Nice;1;1;Ligue 1
+14.04.2018;Lyon;Amiens;3;0;Ligue 1
+14.04.2018;Lille;Guingamp;2;2;Ligue 1
+14.04.2018;Nantes;Dijon;1;1;Ligue 1
+14.04.2018;Rennes;Metz;1;2;Ligue 1
+14.04.2018;Strasbourg;St Etienne;0;1;Ligue 1
+15.04.2018;Montpellier;Bordeaux;1;3;Ligue 1
+15.04.2018;Troyes;Marsilya;2;3;Ligue 1
+15.04.2018;PSG;Monaco;7;1;Ligue 1
+25.04.2018;Caen;Toulouse;0;0;Ligue 1
+06.04.2018;St Etienne;PSG;1;1;Ligue 1
+07.04.2018;Monaco;Nantes;2;1;Ligue 1
+07.04.2018;Amiens;Caen;3;0;Ligue 1
+07.04.2018;Angers;Strasbourg;1;1;Ligue 1
+07.04.2018;Bordeaux;Lille;2;1;Ligue 1
+07.04.2018;Guingamp;Troyes;4;0;Ligue 1
+07.04.2018;Toulouse;Dijon;0;1;Ligue 1
+08.04.2018;Nice;Rennes;1;1;Ligue 1
+08.04.2018;Metz;Lyon;0;5;Ligue 1
+08.04.2018;Marsilya;Montpellier;0;0;Ligue 1
+14.03.2018;PSG;Angers;2;1;Ligue 1
+31.03.2018;Dijon;Marsilya;1;3;Ligue 1
+01.04.2018;Guingamp;Bordeaux;2;1;Ligue 1
+01.04.2018;Caen;Montpellier;1;3;Ligue 1
+01.04.2018;Lille;Amiens;0;1;Ligue 1
+01.04.2018;Nantes;St Etienne;0;3;Ligue 1
+01.04.2018;Strasbourg;Metz;2;2;Ligue 1
+01.04.2018;Troyes;Nice;0;2;Ligue 1
+01.04.2018;Lyon;Toulouse;2;0;Ligue 1
+04.04.2018;Rennes;Monaco;1;1;Ligue 1
+16.03.2018;Monaco;Lille;2;1;Ligue 1
+17.03.2018;Bordeaux;Rennes;0;2;Ligue 1
+17.03.2018;Amiens;Troyes;1;1;Ligue 1
+17.03.2018;Angers;Caen;3;0;Ligue 1
+17.03.2018;Montpellier;Dijon;2;2;Ligue 1
+17.03.2018;Toulouse;Strasbourg;2;2;Ligue 1
+18.03.2018;Nice;PSG;1;2;Ligue 1
+18.03.2018;Metz;Nantes;1;1;Ligue 1
+18.03.2018;St Etienne;Guingamp;2;0;Ligue 1
+18.03.2018;Marsilya;Lyon;2;3;Ligue 1
+09.03.2018;Strasbourg;Monaco;1;3;Ligue 1
+10.03.2018;PSG;Metz;5;0;Ligue 1
+10.03.2018;Bordeaux;Angers;0;0;Ligue 1
+10.03.2018;Dijon;Amiens;1;1;Ligue 1
+10.03.2018;Lille;Montpellier;1;1;Ligue 1
+10.03.2018;Nantes;Troyes;1;0;Ligue 1
+10.03.2018;Rennes;St Etienne;1;1;Ligue 1
+11.03.2018;Guingamp;Nice;2;5;Ligue 1
+11.03.2018;Lyon;Caen;1;0;Ligue 1
+11.03.2018;Toulouse;Marsilya;1;2;Ligue 1
+02.03.2018;Nice;Lille;2;1;Ligue 1
+02.03.2018;Monaco;Bordeaux;2;1;Ligue 1
+03.03.2018;Troyes;PSG;0;2;Ligue 1
+03.03.2018;Amiens;Rennes;0;2;Ligue 1
+03.03.2018;Angers;Guingamp;3;0;Ligue 1
+03.03.2018;Metz;Toulouse;1;1;Ligue 1
+03.03.2018;St Etienne;Dijon;2;2;Ligue 1
+04.03.2018;Caen;Strasbourg;2;0;Ligue 1
+04.03.2018;Montpellier;Lyon;1;1;Ligue 1
+04.03.2018;Marsilya;Nantes;1;1;Ligue 1
+23.02.2018;Strasbourg;Montpellier;0;0;Ligue 1
+24.02.2018;Toulouse;Monaco;3;3;Ligue 1
+24.02.2018;Dijon;Caen;2;0;Ligue 1
+24.02.2018;Guingamp;Metz;2;2;Ligue 1
+24.02.2018;Lille;Angers;1;2;Ligue 1
+24.02.2018;Nantes;Amiens;0;1;Ligue 1
+24.02.2018;Rennes;Troyes;2;0;Ligue 1
+25.02.2018;Bordeaux;Nice;0;0;Ligue 1
+25.02.2018;Lyon;St Etienne;1;1;Ligue 1
+25.02.2018;PSG;Marsilya;3;0;Ligue 1
+16.02.2018;Monaco;Dijon;4;0;Ligue 1
+17.02.2018;PSG;Strasbourg;5;2;Ligue 1
+17.02.2018;Amiens;Toulouse;0;0;Ligue 1
+17.02.2018;Angers;St Etienne;0;1;Ligue 1
+17.02.2018;Caen;Rennes;2;2;Ligue 1
+17.02.2018;Montpellier;Guingamp;1;1;Ligue 1
+17.02.2018;Troyes;Metz;1;0;Ligue 1
+18.02.2018;Nice;Nantes;1;1;Ligue 1
+18.02.2018;Lille;Lyon;2;2;Ligue 1
+18.02.2018;Marsilya;Bordeaux;1;0;Ligue 1
+09.02.2018;St Etienne;Marsilya;2;2;Ligue 1
+10.02.2018;Toulouse;PSG;0;1;Ligue 1
+10.02.2018;Angers;Monaco;0;4;Ligue 1
+10.02.2018;Bordeaux;Amiens;3;2;Ligue 1
+10.02.2018;Dijon;Nice;3;2;Ligue 1
+10.02.2018;Guingamp;Caen;0;0;Ligue 1
+10.02.2018;Metz;Montpellier;0;1;Ligue 1
+11.02.2018;Strasbourg;Troyes;2;1;Ligue 1
+11.02.2018;Nantes;Lille;2;2;Ligue 1
+11.02.2018;Lyon;Rennes;0;2;Ligue 1
+02.02.2018;Marsilya;Metz;6;3;Ligue 1
+03.02.2018;Lille;PSG;0;3;Ligue 1
+03.02.2018;Amiens;St Etienne;0;2;Ligue 1
+03.02.2018;Montpellier;Angers;2;1;Ligue 1
+03.02.2018;Nice;Toulouse;0;1;Ligue 1
+03.02.2018;Strasbourg;Bordeaux;0;2;Ligue 1
+04.02.2018;Rennes;Guingamp;0;1;Ligue 1
+04.02.2018;Caen;Nantes;3;2;Ligue 1
+04.02.2018;Monaco;Lyon;3;2;Ligue 1
+20.02.2018;Troyes;Dijon;0;0;Ligue 1
+26.01.2018;Dijon;Rennes;2;1;Ligue 1
+27.01.2018;PSG;Montpellier;4;0;Ligue 1
+27.01.2018;Angers;Amiens;1;0;Ligue 1
+27.01.2018;Guingamp;Nantes;0;3;Ligue 1
+27.01.2018;Metz;Nice;2;1;Ligue 1
+27.01.2018;St Etienne;Caen;2;1;Ligue 1
+27.01.2018;Toulouse;Troyes;1;0;Ligue 1
+28.01.2018;Lille;Strasbourg;2;1;Ligue 1
+28.01.2018;Bordeaux;Lyon;3;1;Ligue 1
+28.01.2018;Marsilya;Monaco;2;2;Ligue 1
+19.01.2018;Caen;Marsilya;0;2;Ligue 1
+20.01.2018;Nantes;Bordeaux;0;1;Ligue 1
+20.01.2018;Amiens;Guingamp;3;1;Ligue 1
+20.01.2018;Montpellier;Toulouse;2;1;Ligue 1
+20.01.2018;Rennes;Angers;1;0;Ligue 1
+20.01.2018;Strasbourg;Dijon;3;2;Ligue 1
+20.01.2018;Troyes;Lille;1;0;Ligue 1
+21.01.2018;Nice;St Etienne;1;0;Ligue 1
+21.01.2018;Monaco;Metz;3;1;Ligue 1
+21.01.2018;Lyon;PSG;2;1;Ligue 1
+16.01.2018;Bordeaux;Caen;0;2;Ligue 1
+16.01.2018;Marsilya;Strasbourg;2;0;Ligue 1
+16.01.2018;Monaco;Nice;2;2;Ligue 1
+17.01.2018;Amiens;Montpellier;1;1;Ligue 1
+17.01.2018;Angers;Troyes;3;1;Ligue 1
+17.01.2018;Guingamp;Lyon;0;2;Ligue 1
+17.01.2018;Lille;Rennes;1;2;Ligue 1
+17.01.2018;Metz;St Etienne;3;0;Ligue 1
+17.01.2018;Toulouse;Nantes;1;1;Ligue 1
+17.01.2018;PSG;Dijon;8;0;Ligue 1
+12.01.2018;Strasbourg;Guingamp;0;2;Ligue 1
+13.01.2018;Rennes;Marsilya;0;3;Ligue 1
+13.01.2018;Caen;Lille;0;1;Ligue 1
+13.01.2018;Dijon;Metz;1;1;Ligue 1
+13.01.2018;Montpellier;Monaco;0;0;Ligue 1
+13.01.2018;Nice;Amiens;1;0;Ligue 1
+13.01.2018;Troyes;Bordeaux;0;1;Ligue 1
+14.01.2018;St Etienne;Toulouse;2;0;Ligue 1
+14.01.2018;Lyon;Angers;1;1;Ligue 1
+14.01.2018;Nantes;PSG;0;1;Ligue 1
+20.12.2017;Amiens;Nantes;0;1;Ligue 1
+20.12.2017;Angers;Dijon;2;1;Ligue 1
+20.12.2017;Bordeaux;Montpellier;0;2;Ligue 1
+20.12.2017;Guingamp;St Etienne;2;1;Ligue 1
+20.12.2017;Lille;Nice;1;1;Ligue 1
+20.12.2017;Marsilya;Troyes;3;1;Ligue 1
+20.12.2017;Metz;Strasbourg;3;0;Ligue 1
+20.12.2017;Monaco;Rennes;2;1;Ligue 1
+20.12.2017;PSG;Caen;3;1;Ligue 1
+20.12.2017;Toulouse;Lyon;1;2;Ligue 1
+15.12.2017;St Etienne;Monaco;0;4;Ligue 1
+16.12.2017;Rennes;PSG;1;4;Ligue 1
+16.12.2017;Caen;Guingamp;0;0;Ligue 1
+16.12.2017;Dijon;Lille;3;0;Ligue 1
+16.12.2017;Montpellier;Metz;1;3;Ligue 1
+16.12.2017;Strasbourg;Toulouse;2;1;Ligue 1
+16.12.2017;Troyes;Amiens;1;0;Ligue 1
+17.12.2017;Nantes;Angers;1;0;Ligue 1
+17.12.2017;Nice;Bordeaux;1;0;Ligue 1
+17.12.2017;Lyon;Marsilya;2;0;Ligue 1
+08.12.2017;Bordeaux;Strasbourg;0;3;Ligue 1
+09.12.2017;PSG;Lille;3;1;Ligue 1
+09.12.2017;Angers;Montpellier;1;1;Ligue 1
+09.12.2017;Guingamp;Dijon;4;0;Ligue 1
+09.12.2017;Metz;Rennes;1;1;Ligue 1
+09.12.2017;Monaco;Troyes;3;2;Ligue 1
+09.12.2017;Toulouse;Caen;2;0;Ligue 1
+10.12.2017;Amiens;Lyon;1;2;Ligue 1
+10.12.2017;Nantes;Nice;1;2;Ligue 1
+10.12.2017;Marsilya;St Etienne;3;0;Ligue 1
+01.12.2017;Dijon;Bordeaux;3;2;Ligue 1
+02.12.2017;Strasbourg;PSG;2;1;Ligue 1
+02.12.2017;Lille;Toulouse;1;0;Ligue 1
+02.12.2017;Monaco;Angers;1;0;Ligue 1
+02.12.2017;Nice;Metz;3;1;Ligue 1
+02.12.2017;Rennes;Amiens;2;0;Ligue 1
+02.12.2017;Troyes;Guingamp;0;1;Ligue 1
+03.12.2017;St Etienne;Nantes;1;1;Ligue 1
+03.12.2017;Caen;Lyon;1;2;Ligue 1
+03.12.2017;Montpellier;Marsilya;1;1;Ligue 1
+28.11.2017;Amiens;Dijon;2;1;Ligue 1
+28.11.2017;Strasbourg;Caen;0;0;Ligue 1
+28.11.2017;Bordeaux;St Etienne;3;0;Ligue 1
+29.11.2017;Angers;Rennes;1;2;Ligue 1
+29.11.2017;Guingamp;Montpellier;0;0;Ligue 1
+29.11.2017;Lyon;Lille;1;2;Ligue 1
+29.11.2017;Metz;Marsilya;0;3;Ligue 1
+29.11.2017;Nantes;Monaco;1;0;Ligue 1
+29.11.2017;Toulouse;Nice;1;2;Ligue 1
+29.11.2017;PSG;Troyes;2;0;Ligue 1
+24.11.2017;St Etienne;Strasbourg;2;2;Ligue 1
+25.11.2017;Rennes;Nantes;2;1;Ligue 1
+25.11.2017;Caen;Bordeaux;1;0;Ligue 1
+25.11.2017;Dijon;Toulouse;3;1;Ligue 1
+25.11.2017;Metz;Amiens;0;2;Ligue 1
+25.11.2017;Montpellier;Lille;3;0;Ligue 1
+25.11.2017;Troyes;Angers;3;0;Ligue 1
+26.11.2017;Nice;Lyon;0;5;Ligue 1
+26.11.2017;Marsilya;Guingamp;1;0;Ligue 1
+26.11.2017;Monaco;PSG;1;2;Ligue 1
+17.11.2017;Lille;St Etienne;3;1;Ligue 1
+17.11.2017;Amiens;Monaco;1;1;Ligue 1
+18.11.2017;PSG;Nantes;4;1;Ligue 1
+18.11.2017;Dijon;Troyes;3;1;Ligue 1
+18.11.2017;Guingamp;Angers;1;1;Ligue 1
+18.11.2017;Strasbourg;Rennes;2;1;Ligue 1
+18.11.2017;Toulouse;Metz;0;0;Ligue 1
+19.11.2017;Caen;Nice;1;1;Ligue 1
+19.11.2017;Lyon;Montpellier;0;0;Ligue 1
+19.11.2017;Bordeaux;Marsilya;1;1;Ligue 1
+03.11.2017;Rennes;Bordeaux;1;0;Ligue 1
+04.11.2017;Angers;PSG;0;5;Ligue 1
+04.11.2017;Monaco;Guingamp;6;0;Ligue 1
+04.11.2017;Montpellier;Amiens;1;1;Ligue 1
+04.11.2017;Nantes;Toulouse;2;1;Ligue 1
+04.11.2017;Troyes;Strasbourg;3;0;Ligue 1
+05.11.2017;Nice;Dijon;1;0;Ligue 1
+05.11.2017;Marsilya;Caen;5;0;Ligue 1
+05.11.2017;Metz;Lille;0;3;Ligue 1
+05.11.2017;St Etienne;Lyon;0;5;Ligue 1
+27.10.2017;PSG;Nice;3;0;Ligue 1
+28.10.2017;Bordeaux;Monaco;0;2;Ligue 1
+28.10.2017;Caen;Troyes;1;0;Ligue 1
+28.10.2017;Dijon;Nantes;1;0;Ligue 1
+28.10.2017;Guingamp;Amiens;1;1;Ligue 1
+28.10.2017;Montpellier;Rennes;0;1;Ligue 1
+28.10.2017;Strasbourg;Angers;2;2;Ligue 1
+29.10.2017;Lyon;Metz;2;0;Ligue 1
+29.10.2017;Toulouse;St Etienne;0;0;Ligue 1
+29.10.2017;Lille;Marsilya;0;1;Ligue 1
+20.10.2017;St Etienne;Montpellier;0;1;Ligue 1
+21.10.2017;Monaco;Caen;2;0;Ligue 1
+21.10.2017;Amiens;Bordeaux;1;0;Ligue 1
+21.10.2017;Angers;Toulouse;0;1;Ligue 1
+21.10.2017;Metz;Dijon;1;2;Ligue 1
+21.10.2017;Nantes;Guingamp;2;1;Ligue 1
+21.10.2017;Rennes;Lille;1;0;Ligue 1
+22.10.2017;Nice;Strasbourg;1;2;Ligue 1
+22.10.2017;Troyes;Lyon;0;5;Ligue 1
+22.10.2017;Marsilya;PSG;2;2;Ligue 1
+13.10.2017;Lyon;Monaco;3;2;Ligue 1
+14.10.2017;Dijon;PSG;1;2;Ligue 1
+14.10.2017;Caen;Angers;0;2;Ligue 1
+14.10.2017;Guingamp;Rennes;2;0;Ligue 1
+14.10.2017;Lille;Troyes;2;2;Ligue 1
+14.10.2017;St Etienne;Metz;3;1;Ligue 1
+14.10.2017;Toulouse;Amiens;1;0;Ligue 1
+15.10.2017;Bordeaux;Nantes;1;1;Ligue 1
+15.10.2017;Montpellier;Nice;2;0;Ligue 1
+15.10.2017;Strasbourg;Marsilya;3;3;Ligue 1
+29.09.2017;Monaco;Montpellier;1;1;Ligue 1
+30.09.2017;PSG;Bordeaux;6;2;Ligue 1
+30.09.2017;Dijon;Strasbourg;1;1;Ligue 1
+30.09.2017;Guingamp;Toulouse;1;1;Ligue 1
+30.09.2017;Nantes;Metz;1;0;Ligue 1
+30.09.2017;Rennes;Caen;0;1;Ligue 1
+01.10.2017;Troyes;St Etienne;2;1;Ligue 1
+01.10.2017;Angers;Lyon;3;3;Ligue 1
+01.10.2017;Nice;Marsilya;2;4;Ligue 1
+20.11.2017;Amiens;Lille;3;0;Ligue 1
+22.09.2017;Nice;Angers;2;2;Ligue 1
+22.09.2017;Lille;Monaco;0;4;Ligue 1
+23.09.2017;Montpellier;PSG;0;0;Ligue 1
+23.09.2017;Bordeaux;Guingamp;3;1;Ligue 1
+23.09.2017;Caen;Amiens;1;0;Ligue 1
+23.09.2017;Lyon;Dijon;3;3;Ligue 1
+23.09.2017;Metz;Troyes;0;1;Ligue 1
+24.09.2017;St Etienne;Rennes;2;2;Ligue 1
+24.09.2017;Strasbourg;Nantes;1;2;Ligue 1
+24.09.2017;Marsilya;Toulouse;2;0;Ligue 1
+15.09.2017;Toulouse;Bordeaux;0;1;Ligue 1
+16.09.2017;Monaco;Strasbourg;3;0;Ligue 1
+16.09.2017;Dijon;St Etienne;0;1;Ligue 1
+16.09.2017;Guingamp;Lille;1;0;Ligue 1
+16.09.2017;Nantes;Caen;1;0;Ligue 1
+16.09.2017;Troyes;Montpellier;0;1;Ligue 1
+17.09.2017;Amiens;Marsilya;0;2;Ligue 1
+17.09.2017;Angers;Metz;0;1;Ligue 1
+17.09.2017;Rennes;Nice;0;1;Ligue 1
+17.09.2017;PSG;Lyon;2;0;Ligue 1
+08.09.2017;Lille;Bordeaux;0;0;Ligue 1
+08.09.2017;Metz;PSG;1;5;Ligue 1
+09.09.2017;Nice;Monaco;4;0;Ligue 1
+09.09.2017;Caen;Dijon;2;1;Ligue 1
+09.09.2017;Montpellier;Nantes;0;1;Ligue 1
+09.09.2017;Strasbourg;Amiens;0;1;Ligue 1
+09.09.2017;Troyes;Toulouse;0;0;Ligue 1
+10.09.2017;St Etienne;Angers;1;1;Ligue 1
+10.09.2017;Lyon;Guingamp;2;1;Ligue 1
+10.09.2017;Marsilya;Rennes;1;3;Ligue 1
+25.08.2017;PSG;St Etienne;3;0;Ligue 1
+26.08.2017;Nantes;Lyon;0;0;Ligue 1
+26.08.2017;Amiens;Nice;3;0;Ligue 1
+26.08.2017;Bordeaux;Troyes;2;1;Ligue 1
+26.08.2017;Caen;Metz;1;0;Ligue 1
+26.08.2017;Dijon;Montpellier;2;1;Ligue 1
+26.08.2017;Toulouse;Rennes;3;2;Ligue 1
+27.08.2017;Guingamp;Strasbourg;2;0;Ligue 1
+27.08.2017;Angers;Lille;1;1;Ligue 1
+27.08.2017;Monaco;Marsilya;6;1;Ligue 1
+18.08.2017;Metz;Monaco;0;1;Ligue 1
+19.08.2017;Lyon;Bordeaux;3;3;Ligue 1
+19.08.2017;Montpellier;Strasbourg;1;1;Ligue 1
+19.08.2017;Nice;Guingamp;2;0;Ligue 1
+19.08.2017;Rennes;Dijon;2;2;Ligue 1
+19.08.2017;St Etienne;Amiens;3;0;Ligue 1
+19.08.2017;Troyes;Nantes;0;1;Ligue 1
+20.08.2017;Lille;Caen;0;2;Ligue 1
+20.08.2017;Marsilya;Angers;1;1;Ligue 1
+20.08.2017;PSG;Toulouse;6;2;Ligue 1
+11.08.2017;Nice;Troyes;1;2;Ligue 1
+11.08.2017;Rennes;Lyon;1;2;Ligue 1
+12.08.2017;Nantes;Marsilya;0;1;Ligue 1
+12.08.2017;Amiens;Angers;0;2;Ligue 1
+12.08.2017;Bordeaux;Metz;2;0;Ligue 1
+12.08.2017;Caen;St Etienne;0;1;Ligue 1
+12.08.2017;Toulouse;Montpellier;1;0;Ligue 1
+13.08.2017;Strasbourg;Lille;3;0;Ligue 1
+13.08.2017;Dijon;Monaco;1;4;Ligue 1
+13.08.2017;Guingamp;PSG;0;3;Ligue 1
+04.08.2017;Monaco;Toulouse;3;2;Ligue 1
+05.08.2017;PSG;Amiens;2;0;Ligue 1
+05.08.2017;Lyon;Strasbourg;4;0;Ligue 1
+05.08.2017;Metz;Guingamp;1;3;Ligue 1
+05.08.2017;Montpellier;Caen;1;0;Ligue 1
+05.08.2017;St Etienne;Nice;1;0;Ligue 1
+05.08.2017;Troyes;Rennes;1;1;Ligue 1
+06.08.2017;Lille;Nantes;3;0;Ligue 1
+06.08.2017;Angers;Bordeaux;2;2;Ligue 1
+06.08.2017;Marsilya;Dijon;3;0;Ligue 1

@@ -1,0 +1,381 @@
+date;home_team;away_team;home_score;away_score;League
+09.09.2000;R. Sociedad;R. Santander;2;2;La Liga
+09.09.2000;Real Madrid;Valencia;2;1;La Liga
+09.09.2000;Barcelona;Malaga;2;1;La Liga
+09.09.2000;Real Zaragoza;Espanyol;1;2;La Liga
+09.09.2000;Deportivo;Ath. Bilbao;2;0;La Liga
+10.09.2000;Osasuna;Celta Vigo;0;2;La Liga
+10.09.2000;Villarreal;Rayo Vallecano;1;5;La Liga
+10.09.2000;Las Palmas;Alaves;0;3;La Liga
+10.09.2000;Numancia;Real Oviedo;1;0;La Liga
+10.09.2000;Mallorca;R. Valladolid;1;1;La Liga
+16.09.2000;Ath. Bilbao;Barcelona;3;1;La Liga
+16.09.2000;R. Valladolid;Numancia;2;0;La Liga
+16.09.2000;R. Santander;Deportivo;0;3;La Liga
+16.09.2000;Valencia;Mallorca;4;0;La Liga
+16.09.2000;Malaga;Real Madrid;3;3;La Liga
+17.09.2000;Celta Vigo;R. Sociedad;4;1;La Liga
+17.09.2000;Espanyol;Osasuna;1;2;La Liga
+17.09.2000;Alaves;Villarreal;0;1;La Liga
+17.09.2000;Real Oviedo;Las Palmas;2;2;La Liga
+17.09.2000;Rayo Vallecano;Real Zaragoza;0;0;La Liga
+23.09.2000;R. Sociedad;Deportivo;1;1;La Liga
+23.09.2000;Real Zaragoza;Alaves;2;2;La Liga
+23.09.2000;Real Madrid;Ath. Bilbao;4;1;La Liga
+23.09.2000;Barcelona;R. Santander;3;1;La Liga
+23.09.2000;Las Palmas;R. Valladolid;1;1;La Liga
+24.09.2000;Celta Vigo;Espanyol;1;0;La Liga
+24.09.2000;Osasuna;Rayo Vallecano;2;2;La Liga
+24.09.2000;Villarreal;Real Oviedo;1;0;La Liga
+24.09.2000;Numancia;Valencia;0;3;La Liga
+24.09.2000;Mallorca;Malaga;0;1;La Liga
+30.09.2000;R. Santander;Real Madrid;0;0;La Liga
+01.10.2000;Alaves;Osasuna;2;0;La Liga
+01.10.2000;Real Oviedo;Real Zaragoza;2;1;La Liga
+01.10.2000;R. Valladolid;Villarreal;0;0;La Liga
+01.10.2000;Deportivo;Barcelona;2;0;La Liga
+01.10.2000;Rayo Vallecano;Celta Vigo;3;0;La Liga
+01.10.2000;Malaga;Numancia;1;3;La Liga
+01.10.2000;Ath. Bilbao;Mallorca;2;1;La Liga
+01.10.2000;Valencia;Las Palmas;5;1;La Liga
+14.10.2000;Espanyol;Rayo Vallecano;0;0;La Liga
+14.10.2000;Villarreal;Valencia;1;1;La Liga
+14.10.2000;Real Madrid;Deportivo;3;0;La Liga
+14.10.2000;R. Sociedad;Barcelona;0;6;La Liga
+14.10.2000;Las Palmas;Malaga;2;1;La Liga
+15.10.2000;Osasuna;Real Oviedo;0;0;La Liga
+15.10.2000;Real Zaragoza;R. Valladolid;0;0;La Liga
+15.10.2000;Numancia;Ath. Bilbao;0;0;La Liga
+15.10.2000;Mallorca;R. Santander;2;1;La Liga
+15.10.2000;Celta Vigo;Alaves;1;1;La Liga
+18.10.2000;Espanyol;R. Sociedad;1;2;La Liga
+21.10.2000;Valencia;Real Zaragoza;1;0;La Liga
+21.10.2000;Barcelona;Real Madrid;2;0;La Liga
+21.10.2000;Deportivo;Mallorca;1;1;La Liga
+22.10.2000;Rayo Vallecano;R. Sociedad;4;1;La Liga
+22.10.2000;Alaves;Espanyol;1;0;La Liga
+22.10.2000;Real Oviedo;Celta Vigo;3;1;La Liga
+22.10.2000;R. Valladolid;Osasuna;1;1;La Liga
+22.10.2000;Malaga;Villarreal;2;1;La Liga
+22.10.2000;R. Santander;Numancia;4;2;La Liga
+22.10.2000;Ath. Bilbao;Las Palmas;0;3;La Liga
+28.10.2000;Numancia;Deportivo;1;2;La Liga
+28.10.2000;Villarreal;Ath. Bilbao;0;0;La Liga
+28.10.2000;Real Zaragoza;Malaga;1;1;La Liga
+28.10.2000;Mallorca;Barcelona;2;0;La Liga
+28.10.2000;Las Palmas;R. Santander;2;1;La Liga
+29.10.2000;Rayo Vallecano;Alaves;0;1;La Liga
+29.10.2000;R. Sociedad;Real Madrid;1;4;La Liga
+29.10.2000;Espanyol;Real Oviedo;2;0;La Liga
+29.10.2000;Celta Vigo;R. Valladolid;2;1;La Liga
+29.10.2000;Osasuna;Valencia;1;2;La Liga
+31.10.2000;Deportivo;Las Palmas;4;0;La Liga
+01.11.2000;Alaves;R. Sociedad;0;1;La Liga
+01.11.2000;Malaga;Osasuna;3;1;La Liga
+01.11.2000;Ath. Bilbao;Real Zaragoza;1;2;La Liga
+01.11.2000;Real Madrid;Mallorca;0;2;La Liga
+01.11.2000;Real Oviedo;Rayo Vallecano;4;1;La Liga
+01.11.2000;R. Valladolid;Espanyol;1;1;La Liga
+01.11.2000;R. Santander;Villarreal;3;1;La Liga
+01.11.2000;Valencia;Celta Vigo;1;0;La Liga
+01.11.2000;Barcelona;Numancia;1;1;La Liga
+04.11.2000;Numancia;Real Madrid;3;1;La Liga
+04.11.2000;Villarreal;Deportivo;3;2;La Liga
+04.11.2000;Espanyol;Valencia;1;0;La Liga
+04.11.2000;Celta Vigo;Malaga;1;0;La Liga
+04.11.2000;Las Palmas;Barcelona;0;1;La Liga
+05.11.2000;Alaves;Real Oviedo;4;0;La Liga
+05.11.2000;Osasuna;Ath. Bilbao;1;1;La Liga
+05.11.2000;Real Zaragoza;R. Santander;2;0;La Liga
+05.11.2000;R. Sociedad;Mallorca;0;1;La Liga
+05.11.2000;Rayo Vallecano;R. Valladolid;2;1;La Liga
+11.11.2000;Deportivo;Real Zaragoza;2;0;La Liga
+12.11.2000;Real Oviedo;R. Sociedad;1;0;La Liga
+12.11.2000;R. Valladolid;Alaves;2;1;La Liga
+12.11.2000;Valencia;Rayo Vallecano;2;2;La Liga
+12.11.2000;Malaga;Espanyol;0;0;La Liga
+12.11.2000;Ath. Bilbao;Celta Vigo;2;1;La Liga
+12.11.2000;R. Santander;Osasuna;0;0;La Liga
+12.11.2000;Real Madrid;Las Palmas;5;1;La Liga
+12.11.2000;Mallorca;Numancia;2;1;La Liga
+12.11.2000;Barcelona;Villarreal;1;2;La Liga
+18.11.2000;Osasuna;Deportivo;1;1;La Liga
+18.11.2000;Alaves;Valencia;1;1;La Liga
+18.11.2000;Villarreal;Real Madrid;0;1;La Liga
+18.11.2000;Las Palmas;Mallorca;1;0;La Liga
+19.11.2000;Real Oviedo;R. Valladolid;4;1;La Liga
+19.11.2000;Rayo Vallecano;Malaga;4;2;La Liga
+19.11.2000;Espanyol;Ath. Bilbao;2;1;La Liga
+19.11.2000;Celta Vigo;R. Santander;1;1;La Liga
+19.11.2000;R. Sociedad;Numancia;4;1;La Liga
+19.11.2000;Real Zaragoza;Barcelona;3;1;La Liga
+25.11.2000;Mallorca;Villarreal;2;1;La Liga
+26.11.2000;R. Valladolid;R. Sociedad;2;1;La Liga
+26.11.2000;Valencia;Real Oviedo;2;0;La Liga
+26.11.2000;Malaga;Alaves;3;1;La Liga
+26.11.2000;Ath. Bilbao;Rayo Vallecano;4;2;La Liga
+26.11.2000;R. Santander;Espanyol;1;2;La Liga
+26.11.2000;Deportivo;Celta Vigo;1;0;La Liga
+26.11.2000;Barcelona;Osasuna;2;0;La Liga
+26.11.2000;Numancia;Las Palmas;0;1;La Liga
+02.12.2000;R. Valladolid;Valencia;0;0;La Liga
+02.12.2000;Espanyol;Deportivo;0;2;La Liga
+02.12.2000;Rayo Vallecano;R. Santander;4;1;La Liga
+02.12.2000;Osasuna;Real Madrid;2;3;La Liga
+02.12.2000;Celta Vigo;Barcelona;3;3;La Liga
+03.12.2000;Real Oviedo;Malaga;3;2;La Liga
+03.12.2000;Alaves;Ath. Bilbao;2;1;La Liga
+03.12.2000;Villarreal;Numancia;0;0;La Liga
+03.12.2000;R. Sociedad;Las Palmas;1;1;La Liga
+03.12.2000;Real Zaragoza;Mallorca;1;1;La Liga
+09.12.2000;Numancia;Real Zaragoza;1;1;La Liga
+09.12.2000;Valencia;R. Sociedad;2;0;La Liga
+09.12.2000;Las Palmas;Villarreal;1;5;La Liga
+10.12.2000;Malaga;R. Valladolid;3;1;La Liga
+10.12.2000;Ath. Bilbao;Real Oviedo;4;0;La Liga
+10.12.2000;R. Santander;Alaves;2;1;La Liga
+10.12.2000;Barcelona;Espanyol;4;2;La Liga
+10.12.2000;Real Madrid;Celta Vigo;3;0;La Liga
+10.12.2000;Mallorca;Osasuna;1;1;La Liga
+10.12.2000;Deportivo;Rayo Vallecano;1;1;La Liga
+16.12.2000;Rayo Vallecano;Barcelona;2;2;La Liga
+16.12.2000;Alaves;Deportivo;3;1;La Liga
+16.12.2000;Espanyol;Real Madrid;1;2;La Liga
+16.12.2000;Real Zaragoza;Las Palmas;3;1;La Liga
+16.12.2000;R. Sociedad;Villarreal;0;2;La Liga
+17.12.2000;R. Valladolid;Ath. Bilbao;0;0;La Liga
+17.12.2000;Real Oviedo;R. Santander;1;0;La Liga
+17.12.2000;Celta Vigo;Mallorca;2;2;La Liga
+17.12.2000;Osasuna;Numancia;2;0;La Liga
+17.12.2000;Valencia;Malaga;2;0;La Liga
+19.12.2000;Real Madrid;Rayo Vallecano;3;1;La Liga
+20.12.2000;R. Santander;R. Valladolid;2;2;La Liga
+20.12.2000;Deportivo;Real Oviedo;3;0;La Liga
+20.12.2000;Barcelona;Alaves;3;2;La Liga
+20.12.2000;Mallorca;Espanyol;3;2;La Liga
+20.12.2000;Numancia;Celta Vigo;4;2;La Liga
+20.12.2000;Malaga;R. Sociedad;3;0;La Liga
+20.12.2000;Ath. Bilbao;Valencia;1;1;La Liga
+20.12.2000;Villarreal;Real Zaragoza;1;1;La Liga
+20.12.2000;Las Palmas;Osasuna;3;2;La Liga
+06.01.2001;Malaga;Ath. Bilbao;2;1;La Liga
+07.01.2001;Valencia;R. Santander;1;0;La Liga
+07.01.2001;R. Valladolid;Deportivo;3;1;La Liga
+07.01.2001;Alaves;Real Madrid;1;3;La Liga
+07.01.2001;Rayo Vallecano;Mallorca;2;2;La Liga
+07.01.2001;Espanyol;Numancia;2;0;La Liga
+07.01.2001;Celta Vigo;Las Palmas;0;1;La Liga
+07.01.2001;Osasuna;Villarreal;1;0;La Liga
+07.01.2001;R. Sociedad;Real Zaragoza;1;1;La Liga
+07.01.2001;Real Oviedo;Barcelona;2;3;La Liga
+13.01.2001;Deportivo;Valencia;2;0;La Liga
+13.01.2001;Barcelona;R. Valladolid;3;1;La Liga
+14.01.2001;R. Sociedad;Ath. Bilbao;0;2;La Liga
+14.01.2001;R. Santander;Malaga;0;1;La Liga
+14.01.2001;Mallorca;Alaves;4;3;La Liga
+14.01.2001;Numancia;Rayo Vallecano;0;2;La Liga
+14.01.2001;Villarreal;Celta Vigo;2;0;La Liga
+14.01.2001;Real Zaragoza;Osasuna;4;2;La Liga
+14.01.2001;Las Palmas;Espanyol;1;0;La Liga
+14.01.2001;Real Madrid;Real Oviedo;4;0;La Liga
+20.01.2001;Valencia;Barcelona;0;1;La Liga
+21.01.2001;Ath. Bilbao;R. Santander;3;1;La Liga
+21.01.2001;Malaga;Deportivo;1;3;La Liga
+21.01.2001;Real Oviedo;Mallorca;1;1;La Liga
+21.01.2001;Alaves;Numancia;0;2;La Liga
+21.01.2001;Rayo Vallecano;Las Palmas;1;1;La Liga
+21.01.2001;Espanyol;Villarreal;2;1;La Liga
+21.01.2001;Celta Vigo;Real Zaragoza;1;1;La Liga
+21.01.2001;Osasuna;R. Sociedad;1;1;La Liga
+21.01.2001;R. Valladolid;Real Madrid;2;2;La Liga
+24.01.2001;Real Madrid;Real Zaragoza;3;0;La Liga
+27.01.2001;Espanyol;Real Zaragoza;5;0;La Liga
+27.01.2001;Malaga;Barcelona;0;0;La Liga
+27.01.2001;Ath. Bilbao;Deportivo;2;2;La Liga
+28.01.2001;Celta Vigo;Osasuna;1;0;La Liga
+28.01.2001;Rayo Vallecano;Villarreal;0;1;La Liga
+28.01.2001;Alaves;Las Palmas;1;0;La Liga
+28.01.2001;Real Oviedo;Numancia;3;0;La Liga
+28.01.2001;R. Valladolid;Mallorca;2;0;La Liga
+28.01.2001;Valencia;Real Madrid;0;1;La Liga
+28.01.2001;R. Santander;R. Sociedad;1;4;La Liga
+03.02.2001;Barcelona;Ath. Bilbao;7;0;La Liga
+04.02.2001;R. Sociedad;Celta Vigo;2;2;La Liga
+04.02.2001;Osasuna;Espanyol;1;3;La Liga
+04.02.2001;Real Zaragoza;Rayo Vallecano;6;1;La Liga
+04.02.2001;Villarreal;Alaves;2;0;La Liga
+04.02.2001;Numancia;R. Valladolid;0;0;La Liga
+04.02.2001;Real Madrid;Malaga;4;3;La Liga
+04.02.2001;Las Palmas;Real Oviedo;1;0;La Liga
+04.02.2001;Deportivo;R. Santander;2;1;La Liga
+04.02.2001;Mallorca;Valencia;2;2;La Liga
+10.02.2001;Ath. Bilbao;Real Madrid;1;0;La Liga
+10.02.2001;Rayo Vallecano;Osasuna;2;1;La Liga
+10.02.2001;Deportivo;R. Sociedad;4;1;La Liga
+10.02.2001;Espanyol;Celta Vigo;0;1;La Liga
+10.02.2001;Valencia;Numancia;3;0;La Liga
+11.02.2001;Malaga;Mallorca;0;1;La Liga
+11.02.2001;Alaves;Real Zaragoza;1;0;La Liga
+11.02.2001;Real Oviedo;Villarreal;1;3;La Liga
+11.02.2001;R. Valladolid;Las Palmas;1;0;La Liga
+11.02.2001;R. Santander;Barcelona;4;0;La Liga
+17.02.2001;Real Madrid;R. Santander;1;0;La Liga
+17.02.2001;Barcelona;Deportivo;2;3;La Liga
+17.02.2001;Las Palmas;Valencia;0;2;La Liga
+18.02.2001;R. Sociedad;Espanyol;2;1;La Liga
+18.02.2001;Celta Vigo;Rayo Vallecano;1;1;La Liga
+18.02.2001;Osasuna;Alaves;0;1;La Liga
+18.02.2001;Real Zaragoza;Real Oviedo;5;2;La Liga
+18.02.2001;Villarreal;R. Valladolid;2;1;La Liga
+18.02.2001;Numancia;Malaga;3;2;La Liga
+18.02.2001;Mallorca;Ath. Bilbao;1;0;La Liga
+24.02.2001;Deportivo;Real Madrid;2;2;La Liga
+25.02.2001;Rayo Vallecano;Espanyol;1;1;La Liga
+25.02.2001;Alaves;Celta Vigo;2;2;La Liga
+25.02.2001;Real Oviedo;Osasuna;2;3;La Liga
+25.02.2001;R. Valladolid;Real Zaragoza;2;0;La Liga
+25.02.2001;Valencia;Villarreal;3;1;La Liga
+25.02.2001;Malaga;Las Palmas;2;1;La Liga
+25.02.2001;Ath. Bilbao;Numancia;3;1;La Liga
+25.02.2001;R. Santander;Mallorca;2;1;La Liga
+25.02.2001;Barcelona;R. Sociedad;3;0;La Liga
+03.03.2001;Mallorca;Deportivo;2;1;La Liga
+03.03.2001;Real Zaragoza;Valencia;1;1;La Liga
+03.03.2001;R. Sociedad;Rayo Vallecano;2;0;La Liga
+03.03.2001;Real Madrid;Barcelona;2;2;La Liga
+04.03.2001;Espanyol;Alaves;0;0;La Liga
+04.03.2001;Celta Vigo;Real Oviedo;1;0;La Liga
+04.03.2001;Osasuna;R. Valladolid;2;1;La Liga
+04.03.2001;Las Palmas;Ath. Bilbao;0;0;La Liga
+04.03.2001;Numancia;R. Santander;1;0;La Liga
+04.03.2001;Villarreal;Malaga;1;2;La Liga
+10.03.2001;Valencia;Osasuna;1;0;La Liga
+10.03.2001;Ath. Bilbao;Villarreal;1;1;La Liga
+10.03.2001;Deportivo;Numancia;4;1;La Liga
+11.03.2001;Alaves;Rayo Vallecano;4;2;La Liga
+11.03.2001;Real Oviedo;Espanyol;2;2;La Liga
+11.03.2001;R. Valladolid;Celta Vigo;1;2;La Liga
+11.03.2001;Malaga;Real Zaragoza;2;0;La Liga
+11.03.2001;R. Santander;Las Palmas;2;1;La Liga
+11.03.2001;Real Madrid;R. Sociedad;4;0;La Liga
+11.03.2001;Barcelona;Mallorca;1;1;La Liga
+17.03.2001;Las Palmas;Deportivo;2;0;La Liga
+18.03.2001;R. Sociedad;Alaves;1;1;La Liga
+18.03.2001;Rayo Vallecano;Real Oviedo;0;2;La Liga
+18.03.2001;Espanyol;R. Valladolid;1;0;La Liga
+18.03.2001;Osasuna;Malaga;3;3;La Liga
+18.03.2001;Real Zaragoza;Ath. Bilbao;2;2;La Liga
+18.03.2001;Numancia;Barcelona;1;1;La Liga
+18.03.2001;Mallorca;Real Madrid;1;0;La Liga
+18.03.2001;Villarreal;R. Santander;4;2;La Liga
+18.03.2001;Celta Vigo;Valencia;3;2;La Liga
+31.03.2001;Real Madrid;Numancia;1;0;La Liga
+31.03.2001;Deportivo;Villarreal;4;2;La Liga
+31.03.2001;Valencia;Espanyol;0;1;La Liga
+31.03.2001;Malaga;Celta Vigo;1;4;La Liga
+01.04.2001;Real Oviedo;Alaves;3;3;La Liga
+01.04.2001;R. Valladolid;Rayo Vallecano;1;3;La Liga
+01.04.2001;Ath. Bilbao;Osasuna;0;1;La Liga
+01.04.2001;R. Santander;Real Zaragoza;2;1;La Liga
+01.04.2001;Barcelona;Las Palmas;4;1;La Liga
+01.04.2001;Mallorca;R. Sociedad;1;1;La Liga
+07.04.2001;Rayo Vallecano;Valencia;1;4;La Liga
+08.04.2001;R. Sociedad;Real Oviedo;3;0;La Liga
+08.04.2001;Alaves;R. Valladolid;4;2;La Liga
+08.04.2001;Espanyol;Malaga;1;2;La Liga
+08.04.2001;Celta Vigo;Ath. Bilbao;2;1;La Liga
+08.04.2001;Osasuna;R. Santander;1;1;La Liga
+08.04.2001;Villarreal;Barcelona;4;4;La Liga
+08.04.2001;Las Palmas;Real Madrid;0;1;La Liga
+08.04.2001;Numancia;Mallorca;0;2;La Liga
+08.04.2001;Real Zaragoza;Deportivo;2;1;La Liga
+14.04.2001;Deportivo;Osasuna;2;1;La Liga
+14.04.2001;Valencia;Alaves;1;2;La Liga
+14.04.2001;Barcelona;Real Zaragoza;4;4;La Liga
+14.04.2001;Real Madrid;Villarreal;4;0;La Liga
+15.04.2001;R. Valladolid;Real Oviedo;1;0;La Liga
+15.04.2001;Malaga;Rayo Vallecano;1;1;La Liga
+15.04.2001;Ath. Bilbao;Espanyol;0;1;La Liga
+15.04.2001;R. Santander;Celta Vigo;3;0;La Liga
+15.04.2001;Mallorca;Las Palmas;2;1;La Liga
+15.04.2001;Numancia;R. Sociedad;3;3;La Liga
+21.04.2001;Celta Vigo;Deportivo;2;1;La Liga
+22.04.2001;R. Sociedad;R. Valladolid;3;1;La Liga
+22.04.2001;Villarreal;Mallorca;2;2;La Liga
+22.04.2001;Alaves;Malaga;1;2;La Liga
+22.04.2001;Rayo Vallecano;Ath. Bilbao;1;2;La Liga
+22.04.2001;Espanyol;R. Santander;3;0;La Liga
+22.04.2001;Real Zaragoza;Real Madrid;2;3;La Liga
+22.04.2001;Las Palmas;Numancia;1;1;La Liga
+22.04.2001;Osasuna;Barcelona;3;1;La Liga
+22.04.2001;Real Oviedo;Valencia;0;0;La Liga
+28.04.2001;Valencia;R. Valladolid;1;0;La Liga
+28.04.2001;Real Madrid;Osasuna;1;1;La Liga
+29.04.2001;Malaga;Real Oviedo;2;2;La Liga
+29.04.2001;Ath. Bilbao;Alaves;2;0;La Liga
+29.04.2001;R. Santander;Rayo Vallecano;1;1;La Liga
+29.04.2001;Deportivo;Espanyol;1;0;La Liga
+29.04.2001;Mallorca;Real Zaragoza;2;1;La Liga
+29.04.2001;Las Palmas;R. Sociedad;2;1;La Liga
+29.04.2001;Numancia;Villarreal;1;3;La Liga
+29.04.2001;Barcelona;Celta Vigo;1;1;La Liga
+05.05.2001;Celta Vigo;Real Madrid;3;0;La Liga
+05.05.2001;R. Sociedad;Valencia;1;2;La Liga
+05.05.2001;Espanyol;Barcelona;0;0;La Liga
+06.05.2001;R. Valladolid;Malaga;0;0;La Liga
+06.05.2001;Real Oviedo;Ath. Bilbao;5;0;La Liga
+06.05.2001;Alaves;R. Santander;5;1;La Liga
+06.05.2001;Osasuna;Mallorca;1;0;La Liga
+06.05.2001;Villarreal;Las Palmas;2;1;La Liga
+06.05.2001;Rayo Vallecano;Deportivo;1;1;La Liga
+06.05.2001;Real Zaragoza;Numancia;3;1;La Liga
+11.05.2001;Deportivo;Alaves;2;1;La Liga
+12.05.2001;Villarreal;R. Sociedad;1;3;La Liga
+13.05.2001;Malaga;Valencia;3;0;La Liga
+13.05.2001;Ath. Bilbao;R. Valladolid;1;1;La Liga
+13.05.2001;Las Palmas;Real Zaragoza;2;1;La Liga
+13.05.2001;Mallorca;Celta Vigo;2;0;La Liga
+13.05.2001;Barcelona;Rayo Vallecano;5;1;La Liga
+13.05.2001;Real Madrid;Espanyol;2;2;La Liga
+13.05.2001;Numancia;Osasuna;1;0;La Liga
+13.05.2001;R. Santander;Real Oviedo;2;0;La Liga
+18.05.2001;Valencia;Ath. Bilbao;1;0;La Liga
+19.05.2001;Alaves;Barcelona;0;1;La Liga
+20.05.2001;R. Valladolid;R. Santander;1;1;La Liga
+20.05.2001;R. Sociedad;Malaga;4;0;La Liga
+20.05.2001;Espanyol;Mallorca;0;1;La Liga
+20.05.2001;Celta Vigo;Numancia;1;1;La Liga
+20.05.2001;Real Zaragoza;Villarreal;0;0;La Liga
+20.05.2001;Osasuna;Las Palmas;3;3;La Liga
+20.05.2001;Real Oviedo;Deportivo;2;3;La Liga
+20.05.2001;Rayo Vallecano;Real Madrid;0;1;La Liga
+26.05.2001;Real Madrid;Alaves;5;0;La Liga
+26.05.2001;Las Palmas;Celta Vigo;0;1;La Liga
+27.05.2001;Ath. Bilbao;Malaga;1;3;La Liga
+27.05.2001;R. Santander;Valencia;1;1;La Liga
+27.05.2001;Numancia;Espanyol;2;1;La Liga
+27.05.2001;Mallorca;Rayo Vallecano;4;0;La Liga
+27.05.2001;Villarreal;Osasuna;2;0;La Liga
+27.05.2001;Deportivo;R. Valladolid;1;2;La Liga
+27.05.2001;Barcelona;Real Oviedo;0;1;La Liga
+27.05.2001;Real Zaragoza;R. Sociedad;1;1;La Liga
+10.06.2001;Espanyol;Las Palmas;3;2;La Liga
+10.06.2001;Ath. Bilbao;R. Sociedad;1;3;La Liga
+10.06.2001;Malaga;R. Santander;2;1;La Liga
+10.06.2001;Valencia;Deportivo;0;1;La Liga
+10.06.2001;R. Valladolid;Barcelona;2;2;La Liga
+10.06.2001;Real Oviedo;Real Madrid;1;1;La Liga
+10.06.2001;Alaves;Mallorca;2;4;La Liga
+10.06.2001;Rayo Vallecano;Numancia;2;1;La Liga
+10.06.2001;Celta Vigo;Villarreal;1;0;La Liga
+10.06.2001;Osasuna;Real Zaragoza;1;0;La Liga
+16.06.2001;R. Santander;Ath. Bilbao;3;0;La Liga
+16.06.2001;Villarreal;Espanyol;4;0;La Liga
+16.06.2001;Numancia;Alaves;2;1;La Liga
+16.06.2001;Las Palmas;Rayo Vallecano;1;0;La Liga
+17.06.2001;Deportivo;Malaga;4;0;La Liga
+17.06.2001;Barcelona;Valencia;3;2;La Liga
+17.06.2001;Real Madrid;R. Valladolid;2;1;La Liga
+17.06.2001;Mallorca;Real Oviedo;4;2;La Liga
+17.06.2001;Real Zaragoza;Celta Vigo;1;1;La Liga
+17.06.2001;R. Sociedad;Osasuna;0;1;La Liga

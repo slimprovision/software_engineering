@@ -1,0 +1,381 @@
+date;home_team;away_team;home_score;away_score;League
+02.08.2002;Guingamp;Lyon;3;3;Ligue 1
+03.08.2002;PSG;AJ Auxerre;1;0;Ligue 1
+03.08.2002;Marsilya;Nantes;0;2;Ligue 1
+03.08.2002;Nice;Le Havre;1;2;Ligue 1
+03.08.2002;Lille;Bordeaux;0;3;Ligue 1
+03.08.2002;Bastia;Lens;1;1;Ligue 1
+03.08.2002;Strasbourg;AC Ajaccio;1;1;Ligue 1
+03.08.2002;Montpellier;Rennes;1;0;Ligue 1
+03.08.2002;Sedan;Sochaux;0;0;Ligue 1
+03.08.2002;Troyes;Monaco;0;4;Ligue 1
+08.08.2002;AJ Auxerre;Montpellier;2;0;Ligue 1
+09.08.2002;Bordeaux;PSG;0;0;Ligue 1
+10.08.2002;Lyon;Sedan;6;1;Ligue 1
+10.08.2002;Monaco;Marsilya;0;1;Ligue 1
+10.08.2002;Nantes;Bastia;1;0;Ligue 1
+10.08.2002;Lens;Sochaux;1;1;Ligue 1
+10.08.2002;Rennes;Troyes;0;0;Ligue 1
+10.08.2002;Nice;Strasbourg;4;0;Ligue 1
+10.08.2002;AC Ajaccio;Guingamp;0;2;Ligue 1
+10.08.2002;Le Havre;Lille;0;0;Ligue 1
+16.08.2002;Marsilya;Lyon;1;1;Ligue 1
+17.08.2002;PSG;AC Ajaccio;2;2;Ligue 1
+17.08.2002;Sochaux;Nantes;4;2;Ligue 1
+17.08.2002;Lille;Nice;0;3;Ligue 1
+17.08.2002;Bastia;Monaco;1;0;Ligue 1
+17.08.2002;Strasbourg;Le Havre;1;1;Ligue 1
+17.08.2002;Guingamp;Rennes;3;0;Ligue 1
+17.08.2002;Montpellier;Bordeaux;0;1;Ligue 1
+17.08.2002;Sedan;Lens;0;1;Ligue 1
+17.08.2002;Troyes;AJ Auxerre;1;2;Ligue 1
+23.08.2002;Lille;Troyes;0;0;Ligue 1
+24.08.2002;Lyon;Bastia;4;1;Ligue 1
+24.08.2002;Monaco;Sochaux;1;0;Ligue 1
+24.08.2002;AJ Auxerre;Guingamp;2;1;Ligue 1
+24.08.2002;Nantes;Lens;2;2;Ligue 1
+24.08.2002;Bordeaux;Strasbourg;1;2;Ligue 1
+24.08.2002;Rennes;Marsilya;1;3;Ligue 1
+24.08.2002;Nice;Montpellier;2;1;Ligue 1
+24.08.2002;AC Ajaccio;Sedan;1;0;Ligue 1
+25.08.2002;Le Havre;PSG;0;1;Ligue 1
+31.08.2002;PSG;Nice;1;1;Ligue 1
+31.08.2002;Sochaux;Lyon;2;1;Ligue 1
+31.08.2002;Lens;Monaco;1;0;Ligue 1
+31.08.2002;Bastia;Rennes;3;1;Ligue 1
+31.08.2002;Strasbourg;Lille;2;2;Ligue 1
+31.08.2002;Guingamp;Bordeaux;0;0;Ligue 1
+31.08.2002;Montpellier;Le Havre;0;0;Ligue 1
+31.08.2002;Sedan;Nantes;1;0;Ligue 1
+31.08.2002;Troyes;AC Ajaccio;1;0;Ligue 1
+01.09.2002;Marsilya;AJ Auxerre;0;0;Ligue 1
+10.09.2002;Lyon;Lens;1;0;Ligue 1
+11.09.2002;Monaco;Nantes;2;1;Ligue 1
+11.09.2002;AJ Auxerre;Bastia;1;0;Ligue 1
+11.09.2002;Bordeaux;Troyes;1;0;Ligue 1
+11.09.2002;Rennes;Sochaux;2;2;Ligue 1
+11.09.2002;Nice;Marsilya;2;0;Ligue 1
+11.09.2002;Lille;PSG;2;1;Ligue 1
+11.09.2002;Strasbourg;Sedan;1;1;Ligue 1
+11.09.2002;AC Ajaccio;Montpellier;0;0;Ligue 1
+11.09.2002;Le Havre;Guingamp;1;2;Ligue 1
+14.09.2002;PSG;Strasbourg;3;0;Ligue 1
+14.09.2002;Sochaux;AJ Auxerre;1;1;Ligue 1
+14.09.2002;Nantes;Lyon;1;0;Ligue 1
+14.09.2002;Marsilya;Bordeaux;2;1;Ligue 1
+14.09.2002;Lens;Rennes;1;0;Ligue 1
+14.09.2002;Guingamp;Nice;0;0;Ligue 1
+14.09.2002;Montpellier;Lille;1;0;Ligue 1
+14.09.2002;Sedan;Monaco;2;2;Ligue 1
+14.09.2002;Troyes;Le Havre;1;1;Ligue 1
+15.09.2002;Bastia;AC Ajaccio;1;2;Ligue 1
+21.09.2002;Lyon;Monaco;1;3;Ligue 1
+21.09.2002;Bordeaux;Lens;1;0;Ligue 1
+21.09.2002;Rennes;Nantes;1;0;Ligue 1
+21.09.2002;Nice;Troyes;1;0;Ligue 1
+21.09.2002;Lille;Guingamp;2;1;Ligue 1
+21.09.2002;Strasbourg;Montpellier;3;2;Ligue 1
+21.09.2002;AC Ajaccio;Sochaux;0;1;Ligue 1
+21.09.2002;Le Havre;Marsilya;1;3;Ligue 1
+22.09.2002;PSG;Bastia;1;1;Ligue 1
+27.09.2002;Marsilya;AC Ajaccio;3;1;Ligue 1
+28.09.2002;Monaco;Rennes;2;1;Ligue 1
+28.09.2002;Sochaux;Nice;1;0;Ligue 1
+28.09.2002;Nantes;AJ Auxerre;1;4;Ligue 1
+28.09.2002;Lens;Lille;0;0;Ligue 1
+28.09.2002;Bastia;Bordeaux;2;1;Ligue 1
+28.09.2002;Guingamp;Strasbourg;2;3;Ligue 1
+28.09.2002;Montpellier;PSG;1;1;Ligue 1
+28.09.2002;Sedan;Le Havre;4;0;Ligue 1
+28.09.2002;Troyes;Lyon;1;1;Ligue 1
+05.10.2002;Rennes;Lyon;0;1;Ligue 1
+05.10.2002;Nice;Bastia;2;0;Ligue 1
+05.10.2002;Lille;Marsilya;3;0;Ligue 1
+05.10.2002;Strasbourg;Troyes;2;1;Ligue 1
+05.10.2002;AC Ajaccio;Nantes;1;0;Ligue 1
+05.10.2002;Montpellier;Lens;0;2;Ligue 1
+05.10.2002;Le Havre;Sochaux;1;0;Ligue 1
+06.10.2002;PSG;Guingamp;5;0;Ligue 1
+06.10.2002;AJ Auxerre;Monaco;1;1;Ligue 1
+06.10.2002;Bordeaux;Sedan;2;2;Ligue 1
+19.10.2002;Lyon;AJ Auxerre;3;0;Ligue 1
+19.10.2002;Monaco;Lille;1;1;Ligue 1
+19.10.2002;Sochaux;Bordeaux;2;0;Ligue 1
+19.10.2002;Nantes;Nice;0;0;Ligue 1
+19.10.2002;Lens;AC Ajaccio;1;1;Ligue 1
+19.10.2002;Bastia;Le Havre;3;1;Ligue 1
+19.10.2002;Guingamp;Montpellier;3;1;Ligue 1
+19.10.2002;Sedan;Rennes;1;3;Ligue 1
+19.10.2002;Troyes;PSG;1;2;Ligue 1
+20.10.2002;Marsilya;Strasbourg;1;0;Ligue 1
+25.10.2002;Bordeaux;Monaco;2;2;Ligue 1
+26.10.2002;PSG;Marsilya;3;0;Ligue 1
+26.10.2002;AJ Auxerre;Rennes;1;0;Ligue 1
+26.10.2002;Nice;Lens;0;0;Ligue 1
+26.10.2002;Lille;Sochaux;1;0;Ligue 1
+26.10.2002;Strasbourg;Bastia;2;0;Ligue 1
+26.10.2002;AC Ajaccio;Lyon;0;1;Ligue 1
+26.10.2002;Guingamp;Sedan;0;1;Ligue 1
+26.10.2002;Montpellier;Troyes;2;2;Ligue 1
+26.10.2002;Le Havre;Nantes;1;1;Ligue 1
+02.11.2002;Lyon;Nice;2;2;Ligue 1
+02.11.2002;Monaco;Le Havre;1;1;Ligue 1
+02.11.2002;Sochaux;Strasbourg;2;0;Ligue 1
+02.11.2002;Marsilya;Montpellier;2;0;Ligue 1
+02.11.2002;Lens;AJ Auxerre;3;1;Ligue 1
+02.11.2002;Rennes;AC Ajaccio;0;0;Ligue 1
+02.11.2002;Bastia;Lille;1;0;Ligue 1
+02.11.2002;Troyes;Guingamp;0;2;Ligue 1
+03.11.2002;Nantes;Bordeaux;0;0;Ligue 1
+03.11.2002;Sedan;PSG;3;1;Ligue 1
+07.11.2002;AC Ajaccio;AJ Auxerre;1;0;Ligue 1
+07.11.2002;Le Havre;Lyon;1;2;Ligue 1
+08.11.2002;Nice;Monaco;1;0;Ligue 1
+09.11.2002;PSG;Sochaux;1;1;Ligue 1
+09.11.2002;Bordeaux;Rennes;2;0;Ligue 1
+09.11.2002;Lille;Nantes;0;1;Ligue 1
+09.11.2002;Strasbourg;Lens;2;0;Ligue 1
+09.11.2002;Guingamp;Marsilya;0;0;Ligue 1
+09.11.2002;Montpellier;Sedan;2;0;Ligue 1
+09.11.2002;Troyes;Bastia;3;0;Ligue 1
+14.11.2002;Monaco;AC Ajaccio;3;2;Ligue 1
+16.11.2002;Lyon;Bordeaux;4;2;Ligue 1
+16.11.2002;Sochaux;Montpellier;0;0;Ligue 1
+16.11.2002;AJ Auxerre;Nice;0;2;Ligue 1
+16.11.2002;Nantes;Strasbourg;4;1;Ligue 1
+16.11.2002;Marsilya;Troyes;0;0;Ligue 1
+16.11.2002;Rennes;Le Havre;0;0;Ligue 1
+16.11.2002;Bastia;Guingamp;0;2;Ligue 1
+16.11.2002;Sedan;Lille;0;1;Ligue 1
+17.11.2002;Lens;PSG;3;2;Ligue 1
+22.11.2002;PSG;Nantes;0;1;Ligue 1
+23.11.2002;Marsilya;Lens;1;0;Ligue 1
+23.11.2002;Bordeaux;AC Ajaccio;1;0;Ligue 1
+23.11.2002;Nice;Rennes;0;0;Ligue 1
+23.11.2002;Lille;Lyon;2;1;Ligue 1
+23.11.2002;Guingamp;Sochaux;2;0;Ligue 1
+23.11.2002;Montpellier;Bastia;2;2;Ligue 1
+23.11.2002;Le Havre;AJ Auxerre;0;1;Ligue 1
+23.11.2002;Troyes;Sedan;2;0;Ligue 1
+24.11.2002;Strasbourg;Monaco;1;0;Ligue 1
+30.11.2002;Monaco;PSG;3;1;Ligue 1
+30.11.2002;Sochaux;Troyes;1;0;Ligue 1
+30.11.2002;Nantes;Montpellier;3;1;Ligue 1
+30.11.2002;Rennes;Lille;5;1;Ligue 1
+30.11.2002;Bastia;Marsilya;2;0;Ligue 1
+30.11.2002;AC Ajaccio;Le Havre;1;2;Ligue 1
+30.11.2002;Sedan;Nice;3;0;Ligue 1
+01.12.2002;Lyon;Strasbourg;2;1;Ligue 1
+01.12.2002;AJ Auxerre;Bordeaux;1;0;Ligue 1
+01.12.2002;Lens;Guingamp;1;3;Ligue 1
+03.12.2002;Nice;AC Ajaccio;3;0;Ligue 1
+04.12.2002;PSG;Lyon;2;0;Ligue 1
+04.12.2002;Marsilya;Sochaux;1;0;Ligue 1
+04.12.2002;Lille;AJ Auxerre;2;2;Ligue 1
+04.12.2002;Bastia;Sedan;0;1;Ligue 1
+04.12.2002;Strasbourg;Rennes;1;3;Ligue 1
+04.12.2002;Guingamp;Nantes;2;0;Ligue 1
+04.12.2002;Montpellier;Monaco;1;2;Ligue 1
+04.12.2002;Le Havre;Bordeaux;1;0;Ligue 1
+04.12.2002;Troyes;Lens;0;0;Ligue 1
+14.12.2002;Sochaux;Bastia;2;0;Ligue 1
+14.12.2002;Sedan;Marsilya;1;2;Ligue 1
+15.12.2002;Lyon;Montpellier;1;1;Ligue 1
+15.12.2002;Monaco;Guingamp;4;0;Ligue 1
+15.12.2002;AJ Auxerre;Strasbourg;0;0;Ligue 1
+15.12.2002;Nantes;Troyes;2;1;Ligue 1
+15.12.2002;Bordeaux;Nice;4;0;Ligue 1
+15.12.2002;Lens;Le Havre;1;0;Ligue 1
+15.12.2002;Rennes;PSG;1;0;Ligue 1
+15.12.2002;AC Ajaccio;Lille;2;2;Ligue 1
+19.12.2002;PSG;Bordeaux;1;1;Ligue 1
+20.12.2002;Sochaux;Lens;3;0;Ligue 1
+20.12.2002;Marsilya;Monaco;1;1;Ligue 1
+20.12.2002;Lille;Le Havre;1;0;Ligue 1
+20.12.2002;Bastia;Nantes;3;1;Ligue 1
+20.12.2002;Strasbourg;Nice;0;0;Ligue 1
+20.12.2002;Guingamp;AC Ajaccio;3;1;Ligue 1
+20.12.2002;Sedan;Lyon;1;1;Ligue 1
+20.12.2002;Troyes;Rennes;0;1;Ligue 1
+10.01.2003;Lyon;Marsilya;1;0;Ligue 1
+11.01.2003;Monaco;Bastia;0;0;Ligue 1
+11.01.2003;AJ Auxerre;Troyes;1;0;Ligue 1
+11.01.2003;Bordeaux;Montpellier;3;1;Ligue 1
+11.01.2003;Rennes;Guingamp;2;1;Ligue 1
+11.01.2003;Nice;Lille;2;0;Ligue 1
+11.01.2003;AC Ajaccio;PSG;0;0;Ligue 1
+14.01.2003;Marsilya;Rennes;2;0;Ligue 1
+15.01.2003;PSG;Le Havre;1;0;Ligue 1
+15.01.2003;Sochaux;Monaco;0;0;Ligue 1
+15.01.2003;Bastia;Lyon;2;0;Ligue 1
+15.01.2003;Guingamp;AJ Auxerre;0;2;Ligue 1
+15.01.2003;Montpellier;Nice;2;2;Ligue 1
+15.01.2003;Sedan;AC Ajaccio;1;1;Ligue 1
+18.01.2003;Lens;Sedan;4;0;Ligue 1
+18.01.2003;Montpellier;AJ Auxerre;0;0;Ligue 1
+18.01.2003;Le Havre;Strasbourg;1;1;Ligue 1
+21.01.2003;AJ Auxerre;Marsilya;0;0;Ligue 1
+22.01.2003;Lyon;Sochaux;4;1;Ligue 1
+22.01.2003;Monaco;Lens;1;1;Ligue 1
+22.01.2003;Nantes;Sedan;4;1;Ligue 1
+22.01.2003;Bordeaux;Guingamp;4;2;Ligue 1
+22.01.2003;Rennes;Bastia;0;1;Ligue 1
+22.01.2003;Nice;PSG;0;0;Ligue 1
+22.01.2003;Lille;Strasbourg;0;1;Ligue 1
+22.01.2003;AC Ajaccio;Troyes;1;0;Ligue 1
+22.01.2003;Le Havre;Montpellier;1;0;Ligue 1
+28.01.2003;Marsilya;Nice;2;0;Ligue 1
+29.01.2003;PSG;Lille;1;0;Ligue 1
+29.01.2003;Sochaux;Rennes;1;0;Ligue 1
+29.01.2003;Nantes;Monaco;0;2;Ligue 1
+29.01.2003;Lens;Lyon;2;2;Ligue 1
+29.01.2003;Bastia;AJ Auxerre;2;0;Ligue 1
+29.01.2003;Guingamp;Le Havre;1;2;Ligue 1
+29.01.2003;Montpellier;AC Ajaccio;0;1;Ligue 1
+29.01.2003;Sedan;Strasbourg;2;1;Ligue 1
+29.01.2003;Troyes;Bordeaux;0;1;Ligue 1
+01.02.2003;Lyon;Nantes;0;0;Ligue 1
+01.02.2003;Monaco;Sedan;3;0;Ligue 1
+01.02.2003;AJ Auxerre;Sochaux;2;0;Ligue 1
+01.02.2003;Rennes;Lens;1;1;Ligue 1
+01.02.2003;Nice;Guingamp;1;0;Ligue 1
+01.02.2003;Strasbourg;PSG;0;1;Ligue 1
+01.02.2003;AC Ajaccio;Bastia;1;1;Ligue 1
+01.02.2003;Le Havre;Troyes;1;0;Ligue 1
+02.02.2003;Bordeaux;Marsilya;3;1;Ligue 1
+04.02.2003;Monaco;Lyon;2;0;Ligue 1
+05.02.2003;Nantes;Rennes;1;0;Ligue 1
+05.02.2003;Marsilya;Le Havre;2;0;Ligue 1
+05.02.2003;Lens;Bordeaux;3;3;Ligue 1
+05.02.2003;Bastia;PSG;1;0;Ligue 1
+05.02.2003;Montpellier;Strasbourg;2;1;Ligue 1
+05.02.2003;Sedan;AJ Auxerre;1;2;Ligue 1
+05.02.2003;Troyes;Nice;1;0;Ligue 1
+08.02.2003;Lyon;Troyes;0;0;Ligue 1
+08.02.2003;PSG;Montpellier;1;3;Ligue 1
+08.02.2003;Bordeaux;Bastia;0;2;Ligue 1
+08.02.2003;Rennes;Monaco;0;0;Ligue 1
+08.02.2003;Nice;Sochaux;2;2;Ligue 1
+08.02.2003;Lille;Lens;0;2;Ligue 1
+08.02.2003;Strasbourg;Guingamp;3;1;Ligue 1
+08.02.2003;AC Ajaccio;Marsilya;0;2;Ligue 1
+08.02.2003;Le Havre;Sedan;2;1;Ligue 1
+09.02.2003;AJ Auxerre;Nantes;0;1;Ligue 1
+15.02.2003;Nantes;Sochaux;0;1;Ligue 1
+19.02.2003;Troyes;Lille;2;0;Ligue 1
+22.02.2003;Lyon;Rennes;4;1;Ligue 1
+22.02.2003;Sochaux;Le Havre;1;0;Ligue 1
+22.02.2003;Nantes;AC Ajaccio;1;0;Ligue 1
+22.02.2003;Marsilya;Lille;2;0;Ligue 1
+22.02.2003;Lens;Montpellier;4;0;Ligue 1
+22.02.2003;Bastia;Nice;1;1;Ligue 1
+22.02.2003;Guingamp;PSG;3;2;Ligue 1
+22.02.2003;Sedan;Bordeaux;0;1;Ligue 1
+22.02.2003;Troyes;Strasbourg;1;0;Ligue 1
+23.02.2003;Monaco;AJ Auxerre;3;1;Ligue 1
+28.02.2003;Nice;Nantes;1;1;Ligue 1
+01.03.2003;PSG;Troyes;4;2;Ligue 1
+01.03.2003;Bordeaux;Sochaux;2;0;Ligue 1
+01.03.2003;Rennes;Sedan;1;0;Ligue 1
+01.03.2003;Lille;Monaco;1;3;Ligue 1
+01.03.2003;Strasbourg;Marsilya;0;0;Ligue 1
+01.03.2003;AC Ajaccio;Lens;0;0;Ligue 1
+01.03.2003;Montpellier;Guingamp;2;0;Ligue 1
+01.03.2003;Le Havre;Bastia;2;0;Ligue 1
+02.03.2003;AJ Auxerre;Lyon;1;2;Ligue 1
+08.03.2003;Lyon;AC Ajaccio;3;1;Ligue 1
+08.03.2003;Monaco;Bordeaux;0;1;Ligue 1
+08.03.2003;Sochaux;Lille;2;2;Ligue 1
+08.03.2003;Nantes;Le Havre;2;0;Ligue 1
+08.03.2003;Lens;Nice;0;0;Ligue 1
+08.03.2003;Rennes;AJ Auxerre;0;0;Ligue 1
+08.03.2003;Bastia;Strasbourg;1;1;Ligue 1
+08.03.2003;Sedan;Guingamp;2;0;Ligue 1
+08.03.2003;Troyes;Montpellier;0;2;Ligue 1
+09.03.2003;Marsilya;PSG;0;3;Ligue 1
+14.03.2003;Sochaux;AC Ajaccio;1;1;Ligue 1
+14.03.2003;Lens;Nantes;0;1;Ligue 1
+14.03.2003;Lille;Montpellier;2;0;Ligue 1
+18.03.2003;Guingamp;Lille;1;0;Ligue 1
+19.03.2003;Strasbourg;Bordeaux;1;1;Ligue 1
+22.03.2003;PSG;Sedan;2;0;Ligue 1
+22.03.2003;AJ Auxerre;Lens;0;0;Ligue 1
+22.03.2003;Bordeaux;Nantes;0;0;Ligue 1
+22.03.2003;Nice;Lyon;0;1;Ligue 1
+22.03.2003;Lille;Bastia;1;1;Ligue 1
+22.03.2003;Strasbourg;Sochaux;1;3;Ligue 1
+22.03.2003;AC Ajaccio;Rennes;1;0;Ligue 1
+22.03.2003;Guingamp;Troyes;2;0;Ligue 1
+22.03.2003;Montpellier;Marsilya;1;2;Ligue 1
+22.03.2003;Le Havre;Monaco;0;3;Ligue 1
+05.04.2003;Lyon;Le Havre;2;1;Ligue 1
+05.04.2003;Sochaux;PSG;0;0;Ligue 1
+05.04.2003;AJ Auxerre;AC Ajaccio;1;0;Ligue 1
+05.04.2003;Nantes;Lille;1;0;Ligue 1
+05.04.2003;Marsilya;Guingamp;0;2;Ligue 1
+05.04.2003;Lens;Strasbourg;1;1;Ligue 1
+05.04.2003;Rennes;Bordeaux;3;4;Ligue 1
+05.04.2003;Bastia;Troyes;1;1;Ligue 1
+05.04.2003;Sedan;Montpellier;1;2;Ligue 1
+06.04.2003;Monaco;Nice;0;1;Ligue 1
+08.04.2003;AJ Auxerre;Sedan;3;1;Ligue 1
+11.04.2003;Bordeaux;Lyon;0;1;Ligue 1
+12.04.2003;PSG;Lens;0;1;Ligue 1
+12.04.2003;Nice;AJ Auxerre;1;0;Ligue 1
+12.04.2003;Lille;Sedan;0;0;Ligue 1
+12.04.2003;Strasbourg;Nantes;2;0;Ligue 1
+12.04.2003;AC Ajaccio;Monaco;2;4;Ligue 1
+12.04.2003;Guingamp;Bastia;3;0;Ligue 1
+12.04.2003;Montpellier;Sochaux;0;2;Ligue 1
+12.04.2003;Le Havre;Rennes;0;1;Ligue 1
+12.04.2003;Troyes;Marsilya;0;0;Ligue 1
+19.04.2003;Lyon;Lille;0;0;Ligue 1
+19.04.2003;Sochaux;Guingamp;0;0;Ligue 1
+19.04.2003;AJ Auxerre;Le Havre;1;0;Ligue 1
+19.04.2003;Nantes;PSG;1;1;Ligue 1
+19.04.2003;Rennes;Nice;2;2;Ligue 1
+19.04.2003;Bastia;Montpellier;1;2;Ligue 1
+19.04.2003;AC Ajaccio;Bordeaux;1;6;Ligue 1
+19.04.2003;Sedan;Troyes;4;0;Ligue 1
+20.04.2003;Monaco;Strasbourg;2;0;Ligue 1
+20.04.2003;Lens;Marsilya;0;1;Ligue 1
+03.05.2003;Marsilya;Bastia;2;1;Ligue 1
+03.05.2003;Bordeaux;AJ Auxerre;0;1;Ligue 1
+03.05.2003;Nice;Sedan;0;0;Ligue 1
+03.05.2003;Lille;Rennes;1;0;Ligue 1
+03.05.2003;Strasbourg;Lyon;0;4;Ligue 1
+03.05.2003;Guingamp;Lens;1;0;Ligue 1
+03.05.2003;Montpellier;Nantes;1;0;Ligue 1
+03.05.2003;Le Havre;AC Ajaccio;0;1;Ligue 1
+03.05.2003;Troyes;Sochaux;0;2;Ligue 1
+04.05.2003;PSG;Monaco;2;1;Ligue 1
+10.05.2003;Monaco;Montpellier;3;1;Ligue 1
+10.05.2003;Sochaux;Marsilya;3;0;Ligue 1
+10.05.2003;AJ Auxerre;Lille;0;0;Ligue 1
+10.05.2003;Nantes;Guingamp;0;4;Ligue 1
+10.05.2003;Bordeaux;Le Havre;2;0;Ligue 1
+10.05.2003;Lens;Troyes;1;0;Ligue 1
+10.05.2003;Rennes;Strasbourg;2;3;Ligue 1
+10.05.2003;AC Ajaccio;Nice;2;0;Ligue 1
+10.05.2003;Sedan;Bastia;2;2;Ligue 1
+11.05.2003;Lyon;PSG;1;0;Ligue 1
+20.05.2003;PSG;Rennes;0;0;Ligue 1
+20.05.2003;Marsilya;Sedan;4;2;Ligue 1
+20.05.2003;Nice;Bordeaux;1;1;Ligue 1
+20.05.2003;Lille;AC Ajaccio;2;0;Ligue 1
+20.05.2003;Bastia;Sochaux;2;2;Ligue 1
+20.05.2003;Strasbourg;AJ Auxerre;1;2;Ligue 1
+20.05.2003;Guingamp;Monaco;3;1;Ligue 1
+20.05.2003;Montpellier;Lyon;1;1;Ligue 1
+20.05.2003;Le Havre;Lens;1;3;Ligue 1
+20.05.2003;Troyes;Nantes;2;0;Ligue 1
+24.05.2003;Lyon;Guingamp;1;4;Ligue 1
+24.05.2003;Monaco;Troyes;6;0;Ligue 1
+24.05.2003;Sochaux;Sedan;2;1;Ligue 1
+24.05.2003;AJ Auxerre;PSG;2;0;Ligue 1
+24.05.2003;Nantes;Marsilya;1;0;Ligue 1
+24.05.2003;Bordeaux;Lille;2;0;Ligue 1
+24.05.2003;Lens;Bastia;2;0;Ligue 1
+24.05.2003;Rennes;Montpellier;3;1;Ligue 1
+24.05.2003;AC Ajaccio;Strasbourg;0;0;Ligue 1
+24.05.2003;Le Havre;Nice;2;1;Ligue 1

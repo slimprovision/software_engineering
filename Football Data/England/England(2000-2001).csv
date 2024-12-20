@@ -1,0 +1,381 @@
+date;home_team;away_team;home_score;away_score;League
+19.08.2000;Chelsea;West Ham;4;2;Premier League
+19.08.2000;Liverpool;Bradford;1;0;Premier League
+19.08.2000;Charlton;Man. City;4;0;Premier League
+19.08.2000;Tottenham;Ipswich Town;3;1;Premier League
+19.08.2000;Leeds United;Everton;2;0;Premier League
+19.08.2000;Leicester City;Aston Villa;0;0;Premier League
+19.08.2000;Sunderland;Arsenal;1;0;Premier League
+19.08.2000;Coventry;Middlesbrough;1;3;Premier League
+19.08.2000;Derby County;Southampton;2;2;Premier League
+20.08.2000;Man. United;Newcastle;2;0;Premier League
+21.08.2000;Arsenal;Liverpool;2;0;Premier League
+22.08.2000;Middlesbrough;Tottenham;1;1;Premier League
+22.08.2000;Ipswich Town;Man. United;1;1;Premier League
+22.08.2000;Bradford;Chelsea;2;0;Premier League
+23.08.2000;Newcastle;Derby County;3;2;Premier League
+23.08.2000;Southampton;Coventry;1;2;Premier League
+23.08.2000;Everton;Charlton;3;0;Premier League
+23.08.2000;Man. City;Sunderland;4;2;Premier League
+23.08.2000;West Ham;Leicester City;0;1;Premier League
+26.08.2000;Arsenal;Charlton;5;3;Premier League
+26.08.2000;Newcastle;Tottenham;2;0;Premier League
+26.08.2000;Southampton;Liverpool;3;3;Premier League
+26.08.2000;Middlesbrough;Leeds United;1;2;Premier League
+26.08.2000;Everton;Derby County;2;2;Premier League
+26.08.2000;Man. City;Coventry;1;2;Premier League
+26.08.2000;West Ham;Man. United;2;2;Premier League
+26.08.2000;Ipswich Town;Sunderland;1;0;Premier League
+26.08.2000;Bradford;Leicester City;0;0;Premier League
+27.08.2000;Aston Villa;Chelsea;1;1;Premier League
+05.09.2000;Man. United;Bradford;6;0;Premier League
+05.09.2000;Tottenham;Everton;3;2;Premier League
+05.09.2000;Leeds United;Man. City;1;2;Premier League
+05.09.2000;Sunderland;West Ham;1;1;Premier League
+06.09.2000;Chelsea;Arsenal;2;2;Premier League
+06.09.2000;Liverpool;Aston Villa;3;1;Premier League
+06.09.2000;Charlton;Southampton;1;1;Premier League
+06.09.2000;Leicester City;Ipswich Town;2;1;Premier League
+06.09.2000;Coventry;Newcastle;0;2;Premier League
+06.09.2000;Derby County;Middlesbrough;3;3;Premier League
+09.09.2000;Man. United;Sunderland;3;0;Premier League
+09.09.2000;Liverpool;Man. City;3;2;Premier League
+09.09.2000;Newcastle;Chelsea;0;0;Premier League
+09.09.2000;Middlesbrough;Everton;1;2;Premier League
+09.09.2000;Leicester City;Southampton;1;0;Premier League
+09.09.2000;Ipswich Town;Aston Villa;1;2;Premier League
+09.09.2000;Coventry;Leeds United;0;0;Premier League
+09.09.2000;Bradford;Arsenal;1;1;Premier League
+10.09.2000;Derby County;Charlton;2;2;Premier League
+11.09.2000;Tottenham;West Ham;1;0;Premier League
+16.09.2000;Arsenal;Coventry;2;1;Premier League
+16.09.2000;Aston Villa;Bradford;2;0;Premier League
+16.09.2000;Charlton;Tottenham;1;0;Premier League
+16.09.2000;Southampton;Newcastle;2;0;Premier League
+16.09.2000;Everton;Man. United;1;3;Premier League
+16.09.2000;Leeds United;Ipswich Town;1;2;Premier League
+16.09.2000;Sunderland;Derby County;2;1;Premier League
+17.09.2000;Chelsea;Leicester City;0;2;Premier League
+17.09.2000;Man. City;Middlesbrough;1;1;Premier League
+17.09.2000;West Ham;Liverpool;1;1;Premier League
+23.09.2000;Man. United;Chelsea;3;3;Premier League
+23.09.2000;Liverpool;Sunderland;1;1;Premier League
+23.09.2000;Newcastle;Charlton;0;1;Premier League
+23.09.2000;Middlesbrough;Aston Villa;1;1;Premier League
+23.09.2000;Tottenham;Man. City;0;0;Premier League
+23.09.2000;Ipswich Town;Arsenal;1;1;Premier League
+23.09.2000;Coventry;West Ham;0;3;Premier League
+23.09.2000;Derby County;Leeds United;1;1;Premier League
+23.09.2000;Bradford;Southampton;0;1;Premier League
+24.09.2000;Leicester City;Everton;1;1;Premier League
+30.09.2000;Aston Villa;Derby County;4;1;Premier League
+30.09.2000;Charlton;Coventry;2;2;Premier League
+30.09.2000;Southampton;Middlesbrough;1;3;Premier League
+30.09.2000;Everton;Ipswich Town;0;3;Premier League
+30.09.2000;Man. City;Newcastle;0;1;Premier League
+30.09.2000;Leeds United;Tottenham;4;3;Premier League
+30.09.2000;West Ham;Bradford;1;1;Premier League
+01.10.2000;Arsenal;Man. United;1;0;Premier League
+01.10.2000;Chelsea;Liverpool;3;0;Premier League
+01.10.2000;Sunderland;Leicester City;0;0;Premier League
+14.10.2000;Arsenal;Aston Villa;1;0;Premier League
+14.10.2000;Everton;Southampton;1;1;Premier League
+14.10.2000;Man. City;Bradford;2;0;Premier League
+14.10.2000;Leeds United;Charlton;3;1;Premier League
+14.10.2000;Leicester City;Man. United;0;3;Premier League
+14.10.2000;Sunderland;Chelsea;1;0;Premier League
+14.10.2000;Ipswich Town;West Ham;1;1;Premier League
+14.10.2000;Coventry;Tottenham;2;1;Premier League
+15.10.2000;Derby County;Liverpool;0;4;Premier League
+16.10.2000;Middlesbrough;Newcastle;1;3;Premier League
+21.10.2000;Chelsea;Coventry;6;1;Premier League
+21.10.2000;Man. United;Leeds United;3;0;Premier League
+21.10.2000;Liverpool;Leicester City;1;0;Premier League
+21.10.2000;Newcastle;Everton;0;1;Premier League
+21.10.2000;Charlton;Middlesbrough;1;0;Premier League
+21.10.2000;Tottenham;Derby County;3;1;Premier League
+21.10.2000;West Ham;Arsenal;1;2;Premier League
+21.10.2000;Bradford;Ipswich Town;0;2;Premier League
+22.10.2000;Aston Villa;Sunderland;0;0;Premier League
+23.10.2000;Southampton;Man. City;0;2;Premier League
+28.10.2000;Arsenal;Man. City;5;0;Premier League
+28.10.2000;Chelsea;Tottenham;3;0;Premier League
+28.10.2000;Man. United;Southampton;5;0;Premier League
+28.10.2000;Aston Villa;Charlton;2;1;Premier League
+28.10.2000;Leicester City;Derby County;2;1;Premier League
+28.10.2000;Sunderland;Coventry;1;0;Premier League
+28.10.2000;West Ham;Newcastle;1;0;Premier League
+28.10.2000;Ipswich Town;Middlesbrough;2;1;Premier League
+29.10.2000;Liverpool;Everton;3;1;Premier League
+29.10.2000;Bradford;Leeds United;1;1;Premier League
+04.11.2000;Newcastle;Ipswich Town;2;1;Premier League
+04.11.2000;Charlton;Bradford;2;0;Premier League
+04.11.2000;Southampton;Chelsea;3;2;Premier League
+04.11.2000;Middlesbrough;Arsenal;0;1;Premier League
+04.11.2000;Tottenham;Sunderland;2;1;Premier League
+04.11.2000;Man. City;Leicester City;0;1;Premier League
+04.11.2000;Leeds United;Liverpool;4;3;Premier League
+04.11.2000;Coventry;Man. United;1;2;Premier League
+05.11.2000;Everton;Aston Villa;0;1;Premier League
+06.11.2000;Derby County;West Ham;0;0;Premier League
+11.11.2000;Arsenal;Derby County;0;0;Premier League
+11.11.2000;Man. United;Middlesbrough;2;1;Premier League
+11.11.2000;Aston Villa;Tottenham;2;0;Premier League
+11.11.2000;Leicester City;Newcastle;1;1;Premier League
+11.11.2000;Sunderland;Southampton;2;2;Premier League
+11.11.2000;West Ham;Man. City;4;1;Premier League
+11.11.2000;Ipswich Town;Charlton;2;0;Premier League
+11.11.2000;Bradford;Everton;0;1;Premier League
+12.11.2000;Chelsea;Leeds United;1;1;Premier League
+12.11.2000;Liverpool;Coventry;4;1;Premier League
+18.11.2000;Newcastle;Sunderland;1;2;Premier League
+18.11.2000;Charlton;Chelsea;2;0;Premier League
+18.11.2000;Southampton;Aston Villa;2;0;Premier League
+18.11.2000;Middlesbrough;Leicester City;0;3;Premier League
+18.11.2000;Everton;Arsenal;2;0;Premier League
+18.11.2000;Man. City;Man. United;0;1;Premier League
+18.11.2000;Leeds United;West Ham;0;1;Premier League
+18.11.2000;Derby County;Bradford;2;0;Premier League
+19.11.2000;Tottenham;Liverpool;2;1;Premier League
+20.11.2000;Coventry;Ipswich Town;0;1;Premier League
+25.11.2000;Charlton;Sunderland;0;1;Premier League
+25.11.2000;Southampton;West Ham;2;3;Premier League
+25.11.2000;Middlesbrough;Bradford;2;2;Premier League
+25.11.2000;Everton;Chelsea;2;1;Premier League
+25.11.2000;Tottenham;Leicester City;3;0;Premier League
+25.11.2000;Man. City;Ipswich Town;2;3;Premier League
+25.11.2000;Coventry;Aston Villa;1;1;Premier League
+25.11.2000;Derby County;Man. United;0;3;Premier League
+26.11.2000;Newcastle;Liverpool;2;1;Premier League
+26.11.2000;Leeds United;Arsenal;1;0;Premier League
+02.12.2000;Arsenal;Southampton;1;0;Premier League
+02.12.2000;Man. United;Tottenham;2;0;Premier League
+02.12.2000;Liverpool;Charlton;3;0;Premier League
+02.12.2000;Aston Villa;Newcastle;1;1;Premier League
+02.12.2000;Leicester City;Leeds United;3;1;Premier League
+02.12.2000;West Ham;Middlesbrough;1;0;Premier League
+02.12.2000;Ipswich Town;Derby County;0;1;Premier League
+02.12.2000;Bradford;Coventry;2;1;Premier League
+03.12.2000;Chelsea;Man. City;2;1;Premier League
+04.12.2000;Sunderland;Everton;2;0;Premier League
+09.12.2000;Arsenal;Newcastle;5;0;Premier League
+09.12.2000;Chelsea;Derby County;4;1;Premier League
+09.12.2000;Charlton;Man. United;3;3;Premier League
+09.12.2000;Southampton;Leeds United;1;0;Premier League
+09.12.2000;Man. City;Everton;5;0;Premier League
+09.12.2000;Sunderland;Middlesbrough;1;0;Premier League
+09.12.2000;West Ham;Aston Villa;1;1;Premier League
+09.12.2000;Bradford;Tottenham;3;3;Premier League
+10.12.2000;Liverpool;Ipswich Town;0;1;Premier League
+10.12.2000;Coventry;Leicester City;1;0;Premier League
+16.12.2000;Newcastle;Bradford;2;1;Premier League
+16.12.2000;Aston Villa;Man. City;2;2;Premier League
+16.12.2000;Middlesbrough;Chelsea;1;0;Premier League
+16.12.2000;Everton;West Ham;1;1;Premier League
+16.12.2000;Leeds United;Sunderland;2;0;Premier League
+16.12.2000;Leicester City;Charlton;3;1;Premier League
+16.12.2000;Ipswich Town;Southampton;3;1;Premier League
+16.12.2000;Derby County;Coventry;1;0;Premier League
+17.12.2000;Man. United;Liverpool;0;1;Premier League
+18.12.2000;Tottenham;Arsenal;1;1;Premier League
+22.12.2000;Coventry;Southampton;1;1;Premier League
+23.12.2000;Chelsea;Bradford;3;0;Premier League
+23.12.2000;Man. United;Ipswich Town;2;0;Premier League
+23.12.2000;Liverpool;Arsenal;4;0;Premier League
+23.12.2000;Charlton;Everton;1;0;Premier League
+23.12.2000;Tottenham;Middlesbrough;0;0;Premier League
+23.12.2000;Leeds United;Aston Villa;1;2;Premier League
+23.12.2000;Leicester City;West Ham;2;1;Premier League
+23.12.2000;Sunderland;Man. City;1;0;Premier League
+23.12.2000;Derby County;Newcastle;2;0;Premier League
+26.12.2000;Arsenal;Leicester City;6;1;Premier League
+26.12.2000;Newcastle;Leeds United;2;1;Premier League
+26.12.2000;Aston Villa;Man. United;0;1;Premier League
+26.12.2000;Middlesbrough;Liverpool;1;0;Premier League
+26.12.2000;Everton;Coventry;1;2;Premier League
+26.12.2000;Man. City;Derby County;0;0;Premier League
+26.12.2000;West Ham;Charlton;5;0;Premier League
+26.12.2000;Ipswich Town;Chelsea;2;2;Premier League
+26.12.2000;Bradford;Sunderland;1;4;Premier League
+27.12.2000;Southampton;Tottenham;2;0;Premier League
+30.12.2000;Arsenal;Sunderland;2;2;Premier League
+30.12.2000;Newcastle;Man. United;1;1;Premier League
+30.12.2000;Southampton;Derby County;1;0;Premier League
+30.12.2000;Middlesbrough;Coventry;1;1;Premier League
+30.12.2000;Man. City;Charlton;1;4;Premier League
+30.12.2000;Ipswich Town;Tottenham;3;0;Premier League
+01.01.2001;Chelsea;Aston Villa;1;0;Premier League
+01.01.2001;Man. United;West Ham;3;1;Premier League
+01.01.2001;Liverpool;Southampton;2;1;Premier League
+01.01.2001;Charlton;Arsenal;1;0;Premier League
+01.01.2001;Leeds United;Middlesbrough;1;1;Premier League
+01.01.2001;Leicester City;Bradford;1;2;Premier League
+01.01.2001;Sunderland;Ipswich Town;4;1;Premier League
+01.01.2001;Coventry;Man. City;1;1;Premier League
+01.01.2001;Derby County;Everton;1;0;Premier League
+02.01.2001;Tottenham;Newcastle;4;2;Premier League
+13.01.2001;Arsenal;Chelsea;1;1;Premier League
+13.01.2001;Newcastle;Coventry;3;1;Premier League
+13.01.2001;Aston Villa;Liverpool;0;3;Premier League
+13.01.2001;Southampton;Charlton;0;0;Premier League
+13.01.2001;Middlesbrough;Derby County;4;0;Premier League
+13.01.2001;Everton;Tottenham;0;0;Premier League
+13.01.2001;Man. City;Leeds United;0;4;Premier League
+13.01.2001;West Ham;Sunderland;0;2;Premier League
+13.01.2001;Bradford;Man. United;0;3;Premier League
+14.01.2001;Ipswich Town;Leicester City;2;0;Premier League
+20.01.2001;Chelsea;Ipswich Town;4;1;Premier League
+20.01.2001;Man. United;Aston Villa;2;0;Premier League
+20.01.2001;Liverpool;Middlesbrough;0;0;Premier League
+20.01.2001;Tottenham;Southampton;0;0;Premier League
+20.01.2001;Leeds United;Newcastle;1;3;Premier League
+20.01.2001;Leicester City;Arsenal;0;0;Premier League
+20.01.2001;Coventry;Everton;1;3;Premier League
+20.01.2001;Derby County;Man. City;1;1;Premier League
+21.01.2001;Sunderland;Bradford;0;0;Premier League
+22.01.2001;Charlton;West Ham;1;1;Premier League
+24.01.2001;Aston Villa;Leeds United;1;2;Premier League
+30.01.2001;Arsenal;Bradford;2;0;Premier League
+30.01.2001;Charlton;Derby County;2;1;Premier League
+31.01.2001;Chelsea;Newcastle;3;1;Premier League
+31.01.2001;Southampton;Leicester City;1;0;Premier League
+31.01.2001;Everton;Middlesbrough;2;2;Premier League
+31.01.2001;Man. City;Liverpool;1;1;Premier League
+31.01.2001;Leeds United;Coventry;1;0;Premier League
+31.01.2001;Sunderland;Man. United;0;1;Premier League
+31.01.2001;West Ham;Tottenham;0;0;Premier League
+03.02.2001;Man. United;Everton;1;0;Premier League
+03.02.2001;Liverpool;West Ham;3;0;Premier League
+03.02.2001;Middlesbrough;Man. City;1;1;Premier League
+03.02.2001;Tottenham;Charlton;0;0;Premier League
+03.02.2001;Leicester City;Chelsea;2;1;Premier League
+03.02.2001;Ipswich Town;Leeds United;1;2;Premier League
+03.02.2001;Coventry;Arsenal;0;1;Premier League
+03.02.2001;Derby County;Sunderland;1;0;Premier League
+03.02.2001;Bradford;Aston Villa;0;3;Premier League
+07.02.2001;Everton;Leeds United;2;2;Premier League
+10.02.2001;Arsenal;Ipswich Town;1;0;Premier League
+10.02.2001;Chelsea;Man. United;1;1;Premier League
+10.02.2001;Aston Villa;Middlesbrough;1;1;Premier League
+10.02.2001;Southampton;Bradford;2;0;Premier League
+10.02.2001;Everton;Leicester City;2;1;Premier League
+10.02.2001;Man. City;Tottenham;0;1;Premier League
+10.02.2001;Leeds United;Derby County;0;0;Premier League
+10.02.2001;Sunderland;Liverpool;1;1;Premier League
+11.02.2001;Charlton;Newcastle;2;0;Premier League
+12.02.2001;West Ham;Coventry;1;1;Premier League
+24.02.2001;Newcastle;Man. City;0;1;Premier League
+24.02.2001;Middlesbrough;Southampton;0;1;Premier League
+24.02.2001;Tottenham;Leeds United;1;2;Premier League
+24.02.2001;Leicester City;Sunderland;2;0;Premier League
+24.02.2001;Ipswich Town;Everton;2;0;Premier League
+24.02.2001;Coventry;Charlton;2;2;Premier League
+24.02.2001;Derby County;Aston Villa;1;0;Premier League
+24.02.2001;Bradford;West Ham;1;2;Premier League
+25.02.2001;Man. United;Arsenal;6;1;Premier League
+03.03.2001;Arsenal;West Ham;3;0;Premier League
+03.03.2001;Middlesbrough;Charlton;0;0;Premier League
+03.03.2001;Everton;Newcastle;1;1;Premier League
+03.03.2001;Man. City;Southampton;0;1;Premier League
+03.03.2001;Leeds United;Man. United;1;1;Premier League
+03.03.2001;Leicester City;Liverpool;2;0;Premier League
+03.03.2001;Coventry;Chelsea;0;0;Premier League
+03.03.2001;Derby County;Tottenham;2;1;Premier League
+04.03.2001;Ipswich Town;Bradford;3;1;Premier League
+05.03.2001;Sunderland;Aston Villa;1;1;Premier League
+07.03.2001;West Ham;Chelsea;0;2;Premier League
+10.03.2001;Aston Villa;Ipswich Town;2;1;Premier League
+17.03.2001;Chelsea;Sunderland;2;4;Premier League
+17.03.2001;Man. United;Leicester City;2;0;Premier League
+17.03.2001;Newcastle;Middlesbrough;1;2;Premier League
+17.03.2001;Charlton;Leeds United;1;2;Premier League
+17.03.2001;Southampton;Everton;1;0;Premier League
+17.03.2001;Tottenham;Coventry;3;0;Premier League
+17.03.2001;West Ham;Ipswich Town;0;1;Premier League
+17.03.2001;Bradford;Man. City;2;2;Premier League
+18.03.2001;Liverpool;Derby County;1;1;Premier League
+18.03.2001;Aston Villa;Arsenal;0;0;Premier League
+31.03.2001;Arsenal;Tottenham;2;0;Premier League
+31.03.2001;Chelsea;Middlesbrough;2;1;Premier League
+31.03.2001;Liverpool;Man. United;2;0;Premier League
+31.03.2001;Man. City;Aston Villa;1;3;Premier League
+31.03.2001;Sunderland;Leeds United;0;2;Premier League
+31.03.2001;West Ham;Everton;0;2;Premier League
+31.03.2001;Coventry;Derby County;2;0;Premier League
+31.03.2001;Bradford;Newcastle;2;2;Premier League
+01.04.2001;Charlton;Leicester City;2;0;Premier League
+02.04.2001;Southampton;Ipswich Town;0;3;Premier League
+04.04.2001;Aston Villa;Leicester City;2;1;Premier League
+07.04.2001;Aston Villa;West Ham;2;2;Premier League
+07.04.2001;Leeds United;Southampton;2;0;Premier League
+07.04.2001;Leicester City;Coventry;1;3;Premier League
+07.04.2001;Derby County;Chelsea;0;4;Premier League
+08.04.2001;Everton;Man. City;3;1;Premier League
+09.04.2001;Middlesbrough;Sunderland;0;0;Premier League
+10.04.2001;Man. United;Charlton;2;1;Premier League
+10.04.2001;Tottenham;Bradford;2;1;Premier League
+10.04.2001;Ipswich Town;Liverpool;1;1;Premier League
+11.04.2001;Man. City;Arsenal;0;4;Premier League
+13.04.2001;Liverpool;Leeds United;1;2;Premier League
+13.04.2001;Bradford;Charlton;2;0;Premier League
+14.04.2001;Arsenal;Middlesbrough;0;3;Premier League
+14.04.2001;Chelsea;Southampton;1;0;Premier League
+14.04.2001;Man. United;Coventry;4;2;Premier League
+14.04.2001;Aston Villa;Everton;2;1;Premier League
+14.04.2001;Leicester City;Man. City;1;2;Premier League
+14.04.2001;Sunderland;Tottenham;2;3;Premier League
+14.04.2001;West Ham;Derby County;3;1;Premier League
+14.04.2001;Ipswich Town;Newcastle;1;0;Premier League
+16.04.2001;Newcastle;West Ham;2;1;Premier League
+16.04.2001;Middlesbrough;Ipswich Town;1;2;Premier League
+16.04.2001;Everton;Liverpool;2;3;Premier League
+16.04.2001;Coventry;Sunderland;1;0;Premier League
+16.04.2001;Derby County;Leicester City;2;0;Premier League
+17.04.2001;Charlton;Aston Villa;3;3;Premier League
+17.04.2001;Tottenham;Chelsea;0;3;Premier League
+21.04.2001;Arsenal;Everton;4;1;Premier League
+21.04.2001;Chelsea;Charlton;0;1;Premier League
+21.04.2001;Man. United;Man. City;1;1;Premier League
+21.04.2001;Aston Villa;Southampton;0;0;Premier League
+21.04.2001;Leicester City;Middlesbrough;0;3;Premier League
+21.04.2001;Sunderland;Newcastle;1;1;Premier League
+21.04.2001;West Ham;Leeds United;0;2;Premier League
+21.04.2001;Ipswich Town;Coventry;2;0;Premier League
+21.04.2001;Bradford;Derby County;2;0;Premier League
+22.04.2001;Liverpool;Tottenham;3;1;Premier League
+28.04.2001;Newcastle;Leicester City;1;0;Premier League
+28.04.2001;Southampton;Sunderland;0;1;Premier League
+28.04.2001;Middlesbrough;Man. United;0;2;Premier League
+28.04.2001;Everton;Bradford;2;1;Premier League
+28.04.2001;Tottenham;Aston Villa;0;0;Premier League
+28.04.2001;Man. City;West Ham;1;0;Premier League
+28.04.2001;Leeds United;Chelsea;2;0;Premier League
+28.04.2001;Coventry;Liverpool;0;2;Premier League
+28.04.2001;Derby County;Arsenal;1;2;Premier League
+30.04.2001;Charlton;Ipswich Town;2;1;Premier League
+01.05.2001;Newcastle;Southampton;1;1;Premier League
+01.05.2001;Bradford;Liverpool;0;2;Premier League
+05.05.2001;Arsenal;Leeds United;2;1;Premier League
+05.05.2001;Chelsea;Everton;2;1;Premier League
+05.05.2001;Man. United;Derby County;0;1;Premier League
+05.05.2001;Liverpool;Newcastle;3;0;Premier League
+05.05.2001;Aston Villa;Coventry;3;2;Premier League
+05.05.2001;Leicester City;Tottenham;4;2;Premier League
+05.05.2001;Sunderland;Charlton;3;2;Premier League
+05.05.2001;West Ham;Southampton;3;0;Premier League
+05.05.2001;Bradford;Middlesbrough;1;1;Premier League
+07.05.2001;Ipswich Town;Man. City;2;1;Premier League
+08.05.2001;Liverpool;Chelsea;2;2;Premier League
+13.05.2001;Southampton;Man. United;2;1;Premier League
+13.05.2001;Leeds United;Bradford;6;1;Premier League
+15.05.2001;Newcastle;Arsenal;0;0;Premier League
+19.05.2001;Newcastle;Aston Villa;3;0;Premier League
+19.05.2001;Charlton;Liverpool;0;4;Premier League
+19.05.2001;Southampton;Arsenal;3;2;Premier League
+19.05.2001;Middlesbrough;West Ham;2;1;Premier League
+19.05.2001;Everton;Sunderland;2;2;Premier League
+19.05.2001;Tottenham;Man. United;3;1;Premier League
+19.05.2001;Man. City;Chelsea;1;2;Premier League
+19.05.2001;Leeds United;Leicester City;3;1;Premier League
+19.05.2001;Coventry;Bradford;0;0;Premier League
+19.05.2001;Derby County;Ipswich Town;1;1;Premier League

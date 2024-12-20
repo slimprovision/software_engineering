@@ -1,0 +1,381 @@
+date;home_team;away_team;home_score;away_score;League
+15.05.2016;Arsenal;Aston Villa;4;0;Premier League
+15.05.2016;Southampton;Crystal Palace;4;1;Premier League
+15.05.2016;Chelsea;Leicester City;1;1;Premier League
+15.05.2016;West Bromwich;Liverpool;1;1;Premier League
+15.05.2016;Swansea City;Man. City;1;1;Premier League
+15.05.2016;Everton;Norwich;3;0;Premier League
+15.05.2016;Watford;Sunderland;2;2;Premier League
+15.05.2016;Newcastle;Tottenham;5;1;Premier League
+15.05.2016;Stoke City;West Ham;2;1;Premier League
+17.05.2016;Man. United;Bournemouth;3;1;Premier League
+07.05.2016;Norwich;Man. United;0;1;Premier League
+07.05.2016;Sunderland;Chelsea;3;2;Premier League
+07.05.2016;Aston Villa;Newcastle;0;0;Premier League
+07.05.2016;Crystal Palace;Stoke City;2;1;Premier League
+07.05.2016;West Ham;Swansea City;1;4;Premier League
+07.05.2016;Bournemouth;West Bromwich;1;1;Premier League
+07.05.2016;Leicester City;Everton;3;1;Premier League
+08.05.2016;Tottenham;Southampton;1;2;Premier League
+08.05.2016;Man. City;Arsenal;2;2;Premier League
+08.05.2016;Liverpool;Watford;2;0;Premier League
+30.04.2016;Watford;Aston Villa;3;2;Premier League
+30.04.2016;Everton;Bournemouth;2;1;Premier League
+30.04.2016;Newcastle;Crystal Palace;1;0;Premier League
+30.04.2016;Stoke City;Sunderland;1;1;Premier League
+30.04.2016;West Bromwich;West Ham;0;3;Premier League
+30.04.2016;Arsenal;Norwich;1;0;Premier League
+01.05.2016;Swansea City;Liverpool;3;1;Premier League
+01.05.2016;Man. United;Leicester City;1;1;Premier League
+01.05.2016;Southampton;Man. City;4;2;Premier League
+02.05.2016;Chelsea;Tottenham;2;2;Premier League
+13.04.2016;Crystal Palace;Everton;0;0;Premier League
+23.04.2016;Man. City;Stoke City;4;0;Premier League
+23.04.2016;Bournemouth;Chelsea;1;4;Premier League
+23.04.2016;Liverpool;Newcastle;2;2;Premier League
+23.04.2016;Aston Villa;Southampton;2;4;Premier League
+24.04.2016;Sunderland;Arsenal;0;0;Premier League
+24.04.2016;Leicester City;Swansea City;4;0;Premier League
+25.04.2016;Tottenham;West Bromwich;1;1;Premier League
+10.05.2016;West Ham;Man. United;3;2;Premier League
+11.05.2016;Norwich;Watford;4;2;Premier League
+16.04.2016;Norwich;Sunderland;0;3;Premier League
+16.04.2016;Man. United;Aston Villa;1;0;Premier League
+16.04.2016;Everton;Southampton;1;1;Premier League
+16.04.2016;Newcastle;Swansea City;3;0;Premier League
+16.04.2016;West Bromwich;Watford;0;1;Premier League
+16.04.2016;Chelsea;Man. City;0;3;Premier League
+17.04.2016;Bournemouth;Liverpool;1;2;Premier League
+17.04.2016;Leicester City;West Ham;2;2;Premier League
+17.04.2016;Arsenal;Crystal Palace;1;1;Premier League
+18.04.2016;Stoke City;Tottenham;0;4;Premier League
+09.04.2016;West Ham;Arsenal;3;3;Premier League
+09.04.2016;Aston Villa;Bournemouth;1;2;Premier League
+09.04.2016;Swansea City;Chelsea;1;0;Premier League
+09.04.2016;Watford;Everton;1;1;Premier League
+09.04.2016;Southampton;Newcastle;3;1;Premier League
+09.04.2016;Crystal Palace;Norwich;1;0;Premier League
+09.04.2016;Man. City;West Bromwich;2;1;Premier League
+10.04.2016;Sunderland;Leicester City;0;2;Premier League
+10.04.2016;Liverpool;Stoke City;4;1;Premier League
+10.04.2016;Tottenham;Man. United;3;0;Premier League
+02.04.2016;Aston Villa;Chelsea;0;4;Premier League
+02.04.2016;West Ham;Crystal Palace;2;2;Premier League
+02.04.2016;Bournemouth;Man. City;0;4;Premier League
+02.04.2016;Norwich;Newcastle;3;2;Premier League
+02.04.2016;Stoke City;Swansea City;2;2;Premier League
+02.04.2016;Arsenal;Watford;4;0;Premier League
+02.04.2016;Sunderland;West Bromwich;0;0;Premier League
+02.04.2016;Liverpool;Tottenham;1;1;Premier League
+03.04.2016;Leicester City;Southampton;1;0;Premier League
+03.04.2016;Man. United;Everton;1;0;Premier League
+19.03.2016;Everton;Arsenal;0;2;Premier League
+19.03.2016;Crystal Palace;Leicester City;0;1;Premier League
+19.03.2016;West Bromwich;Norwich;0;1;Premier League
+19.03.2016;Watford;Stoke City;1;2;Premier League
+19.03.2016;Chelsea;West Ham;2;2;Premier League
+19.03.2016;Swansea City;Aston Villa;1;0;Premier League
+20.03.2016;Southampton;Liverpool;3;2;Premier League
+20.03.2016;Newcastle;Sunderland;1;1;Premier League
+20.03.2016;Tottenham;Bournemouth;3;0;Premier League
+20.03.2016;Man. City;Man. United;0;1;Premier League
+12.03.2016;Norwich;Man. City;0;0;Premier League
+12.03.2016;Stoke City;Southampton;1;2;Premier League
+12.03.2016;Bournemouth;Swansea City;3;2;Premier League
+13.03.2016;Aston Villa;Tottenham;0;2;Premier League
+14.03.2016;Leicester City;Newcastle;1;0;Premier League
+20.04.2016;West Ham;Watford;3;1;Premier League
+20.04.2016;Man. United;Crystal Palace;2;0;Premier League
+21.04.2016;Arsenal;West Bromwich;2;0;Premier League
+11.05.2016;Sunderland;Everton;3;0;Premier League
+11.05.2016;Liverpool;Chelsea;1;1;Premier League
+05.03.2016;Tottenham;Arsenal;2;2;Premier League
+05.03.2016;Man. City;Aston Villa;4;0;Premier League
+05.03.2016;Newcastle;Bournemouth;1;3;Premier League
+05.03.2016;Swansea City;Norwich;1;0;Premier League
+05.03.2016;Chelsea;Stoke City;1;1;Premier League
+05.03.2016;Southampton;Sunderland;1;1;Premier League
+05.03.2016;Everton;West Ham;2;3;Premier League
+05.03.2016;Watford;Leicester City;0;1;Premier League
+06.03.2016;Crystal Palace;Liverpool;1;2;Premier League
+06.03.2016;West Bromwich;Man. United;1;0;Premier League
+01.03.2016;Norwich;Chelsea;1;2;Premier League
+01.03.2016;Sunderland;Crystal Palace;2;2;Premier League
+01.03.2016;Aston Villa;Everton;1;3;Premier League
+01.03.2016;Bournemouth;Southampton;2;0;Premier League
+01.03.2016;Leicester City;West Bromwich;2;2;Premier League
+02.03.2016;Arsenal;Swansea City;1;2;Premier League
+02.03.2016;West Ham;Tottenham;1;0;Premier League
+02.03.2016;Stoke City;Newcastle;1;0;Premier League
+02.03.2016;Liverpool;Man. City;3;0;Premier League
+02.03.2016;Man. United;Watford;1;0;Premier League
+27.02.2016;West Ham;Sunderland;1;0;Premier League
+27.02.2016;Stoke City;Aston Villa;2;1;Premier League
+27.02.2016;Watford;Bournemouth;0;0;Premier League
+27.02.2016;Southampton;Chelsea;1;2;Premier League
+27.02.2016;Leicester City;Norwich;1;0;Premier League
+27.02.2016;West Bromwich;Crystal Palace;3;2;Premier League
+28.02.2016;Man. United;Arsenal;3;2;Premier League
+28.02.2016;Tottenham;Swansea City;2;1;Premier League
+19.04.2016;Newcastle;Man. City;1;1;Premier League
+20.04.2016;Liverpool;Everton;4;0;Premier League
+13.02.2016;Sunderland;Man. United;2;1;Premier League
+13.02.2016;Swansea City;Southampton;0;1;Premier League
+13.02.2016;Bournemouth;Stoke City;1;3;Premier League
+13.02.2016;Crystal Palace;Watford;1;2;Premier League
+13.02.2016;Everton;West Bromwich;0;1;Premier League
+13.02.2016;Norwich;West Ham;2;2;Premier League
+13.02.2016;Chelsea;Newcastle;5;1;Premier League
+14.02.2016;Arsenal;Leicester City;2;1;Premier League
+14.02.2016;Aston Villa;Liverpool;0;6;Premier League
+14.02.2016;Man. City;Tottenham;1;2;Premier League
+06.02.2016;Man. City;Leicester City;1;3;Premier League
+06.02.2016;Swansea City;Crystal Palace;1;1;Premier League
+06.02.2016;Stoke City;Everton;0;3;Premier League
+06.02.2016;Aston Villa;Norwich;2;0;Premier League
+06.02.2016;Liverpool;Sunderland;2;2;Premier League
+06.02.2016;Tottenham;Watford;1;0;Premier League
+06.02.2016;Newcastle;West Bromwich;1;0;Premier League
+06.02.2016;Southampton;West Ham;1;0;Premier League
+07.02.2016;Bournemouth;Arsenal;0;2;Premier League
+07.02.2016;Chelsea;Man. United;1;1;Premier League
+02.02.2016;West Ham;Aston Villa;2;0;Premier League
+02.02.2016;Leicester City;Liverpool;2;0;Premier League
+02.02.2016;Sunderland;Man. City;0;1;Premier League
+02.02.2016;Arsenal;Southampton;0;0;Premier League
+02.02.2016;Norwich;Tottenham;0;3;Premier League
+02.02.2016;Crystal Palace;Bournemouth;1;2;Premier League
+02.02.2016;Man. United;Stoke City;3;0;Premier League
+02.02.2016;West Bromwich;Swansea City;1;1;Premier League
+03.02.2016;Watford;Chelsea;0;0;Premier League
+03.02.2016;Everton;Newcastle;3;0;Premier League
+23.01.2016;Norwich;Liverpool;4;5;Premier League
+23.01.2016;West Bromwich;Aston Villa;0;0;Premier League
+23.01.2016;Sunderland;Bournemouth;1;1;Premier League
+23.01.2016;Watford;Newcastle;2;1;Premier League
+23.01.2016;Man. United;Southampton;0;1;Premier League
+23.01.2016;Leicester City;Stoke City;3;0;Premier League
+23.01.2016;Crystal Palace;Tottenham;1;3;Premier League
+23.01.2016;West Ham;Man. City;2;2;Premier League
+24.01.2016;Everton;Swansea City;1;2;Premier League
+24.01.2016;Arsenal;Chelsea;0;1;Premier League
+16.01.2016;Tottenham;Sunderland;4;1;Premier League
+16.01.2016;Man. City;Crystal Palace;4;0;Premier League
+16.01.2016;Chelsea;Everton;3;3;Premier League
+16.01.2016;Bournemouth;Norwich;3;0;Premier League
+16.01.2016;Southampton;West Bromwich;3;0;Premier League
+16.01.2016;Newcastle;West Ham;2;1;Premier League
+16.01.2016;Aston Villa;Leicester City;1;1;Premier League
+17.01.2016;Liverpool;Man. United;0;1;Premier League
+17.01.2016;Stoke City;Arsenal;0;0;Premier League
+18.01.2016;Swansea City;Watford;1;0;Premier League
+12.01.2016;Aston Villa;Crystal Palace;1;0;Premier League
+12.01.2016;Bournemouth;West Ham;1;3;Premier League
+12.01.2016;Newcastle;Man. United;3;3;Premier League
+13.01.2016;Swansea City;Sunderland;2;4;Premier League
+13.01.2016;Man. City;Everton;0;0;Premier League
+13.01.2016;Stoke City;Norwich;3;1;Premier League
+13.01.2016;Southampton;Watford;2;0;Premier League
+13.01.2016;Chelsea;West Bromwich;2;2;Premier League
+13.01.2016;Liverpool;Arsenal;3;3;Premier League
+13.01.2016;Tottenham;Leicester City;0;1;Premier League
+02.01.2016;West Ham;Liverpool;2;0;Premier League
+02.01.2016;Sunderland;Aston Villa;3;1;Premier League
+02.01.2016;Leicester City;Bournemouth;0;0;Premier League
+02.01.2016;Arsenal;Newcastle;1;0;Premier League
+02.01.2016;Norwich;Southampton;1;0;Premier League
+02.01.2016;West Bromwich;Stoke City;2;1;Premier League
+02.01.2016;Man. United;Swansea City;2;1;Premier League
+02.01.2016;Watford;Man. City;1;2;Premier League
+03.01.2016;Crystal Palace;Chelsea;0;3;Premier League
+03.01.2016;Everton;Tottenham;1;1;Premier League
+28.12.2015;Norwich;Aston Villa;2;0;Premier League
+28.12.2015;West Bromwich;Newcastle;1;0;Premier League
+28.12.2015;Everton;Stoke City;3;4;Premier League
+28.12.2015;Crystal Palace;Swansea City;0;0;Premier League
+28.12.2015;Watford;Tottenham;1;2;Premier League
+28.12.2015;Arsenal;Bournemouth;2;0;Premier League
+28.12.2015;Man. United;Chelsea;0;0;Premier League
+28.12.2015;West Ham;Southampton;2;1;Premier League
+29.12.2015;Leicester City;Man. City;0;0;Premier League
+30.12.2015;Sunderland;Liverpool;0;1;Premier League
+26.12.2015;Stoke City;Man. United;2;0;Premier League
+26.12.2015;Bournemouth;Crystal Palace;0;0;Premier League
+26.12.2015;Liverpool;Leicester City;1;0;Premier League
+26.12.2015;Tottenham;Norwich;3;0;Premier League
+26.12.2015;Man. City;Sunderland;4;1;Premier League
+26.12.2015;Chelsea;Watford;2;2;Premier League
+26.12.2015;Swansea City;West Bromwich;1;0;Premier League
+26.12.2015;Aston Villa;West Ham;1;1;Premier League
+26.12.2015;Newcastle;Everton;0;1;Premier League
+26.12.2015;Southampton;Arsenal;4;0;Premier League
+19.12.2015;West Bromwich;Bournemouth;1;2;Premier League
+19.12.2015;Stoke City;Crystal Palace;1;2;Premier League
+19.12.2015;Everton;Leicester City;2;3;Premier League
+19.12.2015;Man. United;Norwich;1;2;Premier League
+19.12.2015;Chelsea;Sunderland;3;1;Premier League
+19.12.2015;Southampton;Tottenham;0;2;Premier League
+19.12.2015;Newcastle;Aston Villa;1;1;Premier League
+20.12.2015;Watford;Liverpool;3;0;Premier League
+20.12.2015;Swansea City;West Ham;0;0;Premier League
+21.12.2015;Arsenal;Man. City;2;1;Premier League
+12.12.2015;Norwich;Everton;1;1;Premier League
+12.12.2015;Crystal Palace;Southampton;1;0;Premier League
+12.12.2015;West Ham;Stoke City;0;0;Premier League
+12.12.2015;Man. City;Swansea City;2;1;Premier League
+12.12.2015;Sunderland;Watford;0;1;Premier League
+12.12.2015;Bournemouth;Man. United;2;1;Premier League
+13.12.2015;Aston Villa;Arsenal;0;2;Premier League
+13.12.2015;Tottenham;Newcastle;1;2;Premier League
+13.12.2015;Liverpool;West Bromwich;2;2;Premier League
+14.12.2015;Leicester City;Chelsea;2;1;Premier League
+05.12.2015;Stoke City;Man. City;2;0;Premier League
+05.12.2015;Southampton;Aston Villa;1;1;Premier League
+05.12.2015;Swansea City;Leicester City;0;3;Premier League
+05.12.2015;Watford;Norwich;2;0;Premier League
+05.12.2015;Arsenal;Sunderland;3;1;Premier League
+05.12.2015;West Bromwich;Tottenham;1;1;Premier League
+05.12.2015;Man. United;West Ham;0;0;Premier League
+05.12.2015;Chelsea;Bournemouth;0;1;Premier League
+06.12.2015;Newcastle;Liverpool;2;0;Premier League
+07.12.2015;Everton;Crystal Palace;1;1;Premier League
+28.11.2015;Bournemouth;Everton;3;3;Premier League
+28.11.2015;Crystal Palace;Newcastle;5;1;Premier League
+28.11.2015;Man. City;Southampton;3;1;Premier League
+28.11.2015;Sunderland;Stoke City;2;0;Premier League
+28.11.2015;Aston Villa;Watford;2;3;Premier League
+28.11.2015;Leicester City;Man. United;1;1;Premier League
+29.11.2015;Tottenham;Chelsea;0;0;Premier League
+29.11.2015;West Ham;West Bromwich;1;1;Premier League
+29.11.2015;Norwich;Arsenal;1;1;Premier League
+29.11.2015;Liverpool;Swansea City;1;0;Premier League
+21.11.2015;Watford;Man. United;1;2;Premier League
+21.11.2015;West Bromwich;Arsenal;2;1;Premier League
+21.11.2015;Everton;Aston Villa;4;0;Premier League
+21.11.2015;Swansea City;Bournemouth;2;2;Premier League
+21.11.2015;Newcastle;Leicester City;0;3;Premier League
+21.11.2015;Chelsea;Norwich;1;0;Premier League
+21.11.2015;Southampton;Stoke City;0;1;Premier League
+21.11.2015;Man. City;Liverpool;1;4;Premier League
+22.11.2015;Tottenham;West Ham;4;1;Premier League
+23.11.2015;Crystal Palace;Sunderland;0;1;Premier League
+07.11.2015;Bournemouth;Newcastle;0;1;Premier League
+07.11.2015;West Ham;Everton;1;1;Premier League
+07.11.2015;Sunderland;Southampton;0;1;Premier League
+07.11.2015;Norwich;Swansea City;1;0;Premier League
+07.11.2015;Leicester City;Watford;2;1;Premier League
+07.11.2015;Man. United;West Bromwich;2;0;Premier League
+07.11.2015;Stoke City;Chelsea;1;0;Premier League
+08.11.2015;Aston Villa;Man. City;0;0;Premier League
+08.11.2015;Liverpool;Crystal Palace;1;2;Premier League
+08.11.2015;Arsenal;Tottenham;1;1;Premier League
+31.10.2015;Chelsea;Liverpool;1;3;Premier League
+31.10.2015;Swansea City;Arsenal;0;3;Premier League
+31.10.2015;West Bromwich;Leicester City;2;3;Premier League
+31.10.2015;Crystal Palace;Man. United;0;0;Premier League
+31.10.2015;Man. City;Norwich;2;1;Premier League
+31.10.2015;Newcastle;Stoke City;0;0;Premier League
+31.10.2015;Watford;West Ham;2;0;Premier League
+01.11.2015;Everton;Sunderland;6;2;Premier League
+01.11.2015;Southampton;Bournemouth;2;0;Premier League
+02.11.2015;Tottenham;Aston Villa;3;1;Premier League
+24.10.2015;West Ham;Chelsea;2;1;Premier League
+24.10.2015;Leicester City;Crystal Palace;1;0;Premier League
+24.10.2015;Aston Villa;Swansea City;1;2;Premier League
+24.10.2015;Stoke City;Watford;0;2;Premier League
+24.10.2015;Norwich;West Bromwich;0;1;Premier League
+24.10.2015;Arsenal;Everton;2;1;Premier League
+25.10.2015;Sunderland;Newcastle;3;0;Premier League
+25.10.2015;Man. United;Man. City;0;0;Premier League
+25.10.2015;Bournemouth;Tottenham;1;5;Premier League
+25.10.2015;Liverpool;Southampton;1;1;Premier League
+17.10.2015;Tottenham;Liverpool;0;0;Premier League
+17.10.2015;Chelsea;Aston Villa;2;0;Premier League
+17.10.2015;Man. City;Bournemouth;5;1;Premier League
+17.10.2015;Southampton;Leicester City;2;2;Premier League
+17.10.2015;Everton;Man. United;0;3;Premier League
+17.10.2015;West Bromwich;Sunderland;1;0;Premier League
+17.10.2015;Crystal Palace;West Ham;1;3;Premier League
+17.10.2015;Watford;Arsenal;0;3;Premier League
+18.10.2015;Newcastle;Norwich;6;2;Premier League
+19.10.2015;Swansea City;Stoke City;0;1;Premier League
+03.10.2015;Crystal Palace;West Bromwich;2;0;Premier League
+03.10.2015;Norwich;Leicester City;1;2;Premier League
+03.10.2015;Man. City;Newcastle;6;1;Premier League
+03.10.2015;Aston Villa;Stoke City;0;1;Premier League
+03.10.2015;Bournemouth;Watford;1;1;Premier League
+03.10.2015;Sunderland;West Ham;2;2;Premier League
+03.10.2015;Chelsea;Southampton;1;3;Premier League
+04.10.2015;Everton;Liverpool;1;1;Premier League
+04.10.2015;Arsenal;Man. United;3;0;Premier League
+04.10.2015;Swansea City;Tottenham;2;2;Premier League
+26.09.2015;Tottenham;Man. City;4;1;Premier League
+26.09.2015;Leicester City;Arsenal;2;5;Premier League
+26.09.2015;Liverpool;Aston Villa;3;2;Premier League
+26.09.2015;Stoke City;Bournemouth;2;1;Premier League
+26.09.2015;West Ham;Norwich;2;2;Premier League
+26.09.2015;Man. United;Sunderland;3;0;Premier League
+26.09.2015;Southampton;Swansea City;3;1;Premier League
+26.09.2015;Newcastle;Chelsea;2;2;Premier League
+27.09.2015;Watford;Crystal Palace;0;1;Premier League
+28.09.2015;West Bromwich;Everton;2;3;Premier League
+19.09.2015;Chelsea;Arsenal;2;0;Premier League
+19.09.2015;Swansea City;Everton;0;0;Premier League
+19.09.2015;Stoke City;Leicester City;2;2;Premier League
+19.09.2015;Bournemouth;Sunderland;2;0;Premier League
+19.09.2015;Newcastle;Watford;1;2;Premier League
+19.09.2015;Aston Villa;West Bromwich;0;1;Premier League
+19.09.2015;Man. City;West Ham;1;2;Premier League
+20.09.2015;Tottenham;Crystal Palace;1;0;Premier League
+20.09.2015;Southampton;Man. United;2;3;Premier League
+20.09.2015;Liverpool;Norwich;1;1;Premier League
+12.09.2015;Everton;Chelsea;3;1;Premier League
+12.09.2015;Norwich;Bournemouth;3;1;Premier League
+12.09.2015;Crystal Palace;Man. City;0;1;Premier League
+12.09.2015;West Bromwich;Southampton;0;0;Premier League
+12.09.2015;Arsenal;Stoke City;2;0;Premier League
+12.09.2015;Watford;Swansea City;1;0;Premier League
+12.09.2015;Man. United;Liverpool;3;1;Premier League
+13.09.2015;Sunderland;Tottenham;0;1;Premier League
+13.09.2015;Leicester City;Aston Villa;3;2;Premier League
+14.09.2015;West Ham;Newcastle;2;0;Premier League
+29.08.2015;Newcastle;Arsenal;0;1;Premier League
+29.08.2015;Chelsea;Crystal Palace;1;2;Premier League
+29.08.2015;Bournemouth;Leicester City;1;1;Premier League
+29.08.2015;Aston Villa;Sunderland;2;2;Premier League
+29.08.2015;Man. City;Watford;2;0;Premier League
+29.08.2015;Stoke City;West Bromwich;0;1;Premier League
+29.08.2015;Liverpool;West Ham;0;3;Premier League
+29.08.2015;Tottenham;Everton;0;0;Premier League
+30.08.2015;Southampton;Norwich;3;0;Premier League
+30.08.2015;Swansea City;Man. United;2;1;Premier League
+22.08.2015;Man. United;Newcastle;0;0;Premier League
+22.08.2015;Crystal Palace;Aston Villa;2;1;Premier League
+22.08.2015;West Ham;Bournemouth;3;4;Premier League
+22.08.2015;Norwich;Stoke City;1;1;Premier League
+22.08.2015;Sunderland;Swansea City;1;1;Premier League
+22.08.2015;Leicester City;Tottenham;1;1;Premier League
+23.08.2015;West Bromwich;Chelsea;2;3;Premier League
+23.08.2015;Everton;Man. City;0;2;Premier League
+23.08.2015;Watford;Southampton;0;0;Premier League
+24.08.2015;Arsenal;Liverpool;0;0;Premier League
+14.08.2015;Aston Villa;Man. United;0;1;Premier League
+15.08.2015;Southampton;Everton;0;3;Premier League
+15.08.2015;West Ham;Leicester City;1;2;Premier League
+15.08.2015;Swansea City;Newcastle;2;0;Premier League
+15.08.2015;Sunderland;Norwich;1;3;Premier League
+15.08.2015;Tottenham;Stoke City;2;2;Premier League
+15.08.2015;Watford;West Bromwich;0;0;Premier League
+16.08.2015;Crystal Palace;Arsenal;1;2;Premier League
+16.08.2015;Man. City;Chelsea;3;0;Premier League
+17.08.2015;Liverpool;Bournemouth;1;0;Premier League
+08.08.2015;Man. United;Tottenham;1;0;Premier League
+08.08.2015;Bournemouth;Aston Villa;0;1;Premier League
+08.08.2015;Norwich;Crystal Palace;1;3;Premier League
+08.08.2015;Leicester City;Sunderland;4;2;Premier League
+08.08.2015;Everton;Watford;2;2;Premier League
+08.08.2015;Chelsea;Swansea City;2;2;Premier League
+09.08.2015;Newcastle;Southampton;2;2;Premier League
+09.08.2015;Arsenal;West Ham;0;2;Premier League
+09.08.2015;Stoke City;Liverpool;0;1;Premier League
+10.08.2015;West Bromwich;Man. City;0;3;Premier League

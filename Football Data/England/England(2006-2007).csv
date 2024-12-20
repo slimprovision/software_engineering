@@ -1,0 +1,381 @@
+date;home_team;away_team;home_score;away_score;League
+19.08.2006;Sheffield Utd;Liverpool;1;1;Premier League
+19.08.2006;Arsenal;Aston Villa;1;1;Premier League
+19.08.2006;Everton;Watford;2;1;Premier League
+19.08.2006;Newcastle;Wigan Ath;2;1;Premier League
+19.08.2006;Portsmouth;Blackburn;3;0;Premier League
+19.08.2006;Reading;Middlesbrough;3;2;Premier League
+19.08.2006;West Ham;Charlton;3;1;Premier League
+19.08.2006;Bolton;Tottenham;2;0;Premier League
+20.08.2006;Man. United;Fulham;5;1;Premier League
+20.08.2006;Chelsea;Man. City;3;0;Premier League
+22.08.2006;Watford;West Ham;1;1;Premier League
+22.08.2006;Tottenham;Sheffield Utd;2;0;Premier League
+23.08.2006;Aston Villa;Reading;2;1;Premier League
+23.08.2006;Man. City;Portsmouth;0;0;Premier League
+23.08.2006;Charlton;Man. United;0;3;Premier League
+23.08.2006;Middlesbrough;Chelsea;2;1;Premier League
+23.08.2006;Blackburn;Everton;1;1;Premier League
+23.08.2006;Fulham;Bolton;1;1;Premier League
+26.08.2006;Liverpool;West Ham;2;1;Premier League
+26.08.2006;Charlton;Bolton;2;0;Premier League
+26.08.2006;Fulham;Sheffield Utd;1;0;Premier League
+26.08.2006;Tottenham;Everton;0;2;Premier League
+26.08.2006;Watford;Man. United;1;2;Premier League
+26.08.2006;Wigan Ath;Reading;1;0;Premier League
+26.08.2006;Man. City;Arsenal;1;0;Premier League
+27.08.2006;Aston Villa;Newcastle;2;0;Premier League
+27.08.2006;Blackburn;Chelsea;0;2;Premier League
+28.08.2006;Middlesbrough;Portsmouth;0;4;Premier League
+09.09.2006;Everton;Liverpool;3;0;Premier League
+09.09.2006;Arsenal;Middlesbrough;1;1;Premier League
+09.09.2006;Bolton;Watford;1;0;Premier League
+09.09.2006;Chelsea;Charlton;2;1;Premier League
+09.09.2006;Newcastle;Fulham;1;2;Premier League
+09.09.2006;Portsmouth;Wigan Ath;1;0;Premier League
+09.09.2006;Sheffield Utd;Blackburn;0;0;Premier League
+09.09.2006;Man. United;Tottenham;1;0;Premier League
+10.09.2006;West Ham;Aston Villa;1;1;Premier League
+11.09.2006;Reading;Man. City;1;0;Premier League
+16.09.2006;Charlton;Portsmouth;0;1;Premier League
+16.09.2006;Bolton;Middlesbrough;0;0;Premier League
+16.09.2006;Everton;Wigan Ath;2;2;Premier League
+16.09.2006;Sheffield Utd;Reading;1;2;Premier League
+16.09.2006;Watford;Aston Villa;0;0;Premier League
+17.09.2006;Chelsea;Liverpool;1;0;Premier League
+17.09.2006;Blackburn;Man. City;4;2;Premier League
+17.09.2006;Tottenham;Fulham;0;0;Premier League
+17.09.2006;West Ham;Newcastle;0;2;Premier League
+17.09.2006;Man. United;Arsenal;0;1;Premier League
+20.09.2006;Liverpool;Newcastle;2;0;Premier League
+23.09.2006;Liverpool;Tottenham;3;0;Premier League
+23.09.2006;Arsenal;Sheffield Utd;3;0;Premier League
+23.09.2006;Aston Villa;Charlton;2;0;Premier League
+23.09.2006;Fulham;Chelsea;0;2;Premier League
+23.09.2006;Man. City;West Ham;2;0;Premier League
+23.09.2006;Middlesbrough;Blackburn;0;1;Premier League
+23.09.2006;Wigan Ath;Watford;1;1;Premier League
+23.09.2006;Reading;Man. United;1;1;Premier League
+24.09.2006;Newcastle;Everton;1;1;Premier League
+25.09.2006;Portsmouth;Bolton;0;1;Premier League
+30.09.2006;Bolton;Liverpool;2;0;Premier League
+30.09.2006;Charlton;Arsenal;1;2;Premier League
+30.09.2006;Chelsea;Aston Villa;1;1;Premier League
+30.09.2006;Everton;Man. City;1;1;Premier League
+30.09.2006;Sheffield Utd;Middlesbrough;2;1;Premier League
+01.10.2006;West Ham;Reading;0;1;Premier League
+01.10.2006;Blackburn;Wigan Ath;2;1;Premier League
+01.10.2006;Man. United;Newcastle;2;0;Premier League
+01.10.2006;Tottenham;Portsmouth;2;1;Premier League
+02.10.2006;Watford;Fulham;3;3;Premier League
+14.10.2006;Wigan Ath;Man. United;1;3;Premier League
+14.10.2006;Arsenal;Watford;3;0;Premier League
+14.10.2006;Aston Villa;Tottenham;1;1;Premier League
+14.10.2006;Liverpool;Blackburn;1;1;Premier League
+14.10.2006;Man. City;Sheffield Utd;0;0;Premier League
+14.10.2006;Middlesbrough;Everton;2;1;Premier League
+14.10.2006;Portsmouth;West Ham;2;0;Premier League
+14.10.2006;Reading;Chelsea;0;1;Premier League
+15.10.2006;Newcastle;Bolton;1;2;Premier League
+16.10.2006;Fulham;Charlton;2;1;Premier League
+21.10.2006;Wigan Ath;Man. City;4;0;Premier League
+21.10.2006;Charlton;Watford;0;0;Premier League
+21.10.2006;Chelsea;Portsmouth;2;1;Premier League
+21.10.2006;Everton;Sheffield Utd;2;0;Premier League
+21.10.2006;Aston Villa;Fulham;1;1;Premier League
+22.10.2006;Man. United;Liverpool;2;0;Premier League
+22.10.2006;Blackburn;Bolton;0;1;Premier League
+22.10.2006;Middlesbrough;Newcastle;1;0;Premier League
+22.10.2006;Reading;Arsenal;0;4;Premier League
+22.10.2006;Tottenham;West Ham;1;0;Premier League
+28.10.2006;Sheffield Utd;Chelsea;0;2;Premier League
+28.10.2006;Arsenal;Everton;1;1;Premier League
+28.10.2006;Bolton;Man. United;0;4;Premier League
+28.10.2006;Fulham;Wigan Ath;0;1;Premier League
+28.10.2006;Liverpool;Aston Villa;3;1;Premier League
+28.10.2006;Portsmouth;Reading;3;1;Premier League
+28.10.2006;Watford;Tottenham;0;0;Premier League
+28.10.2006;Newcastle;Charlton;0;0;Premier League
+29.10.2006;West Ham;Blackburn;2;1;Premier League
+30.10.2006;Man. City;Middlesbrough;1;0;Premier League
+04.11.2006;Fulham;Everton;1;0;Premier League
+04.11.2006;Bolton;Wigan Ath;0;1;Premier League
+04.11.2006;Charlton;Man. City;1;0;Premier League
+04.11.2006;Liverpool;Reading;2;0;Premier League
+04.11.2006;Man. United;Portsmouth;3;0;Premier League
+04.11.2006;Watford;Middlesbrough;2;0;Premier League
+04.11.2006;Newcastle;Sheffield Utd;0;1;Premier League
+05.11.2006;West Ham;Arsenal;1;0;Premier League
+05.11.2006;Aston Villa;Blackburn;2;0;Premier League
+05.11.2006;Tottenham;Chelsea;2;1;Premier League
+11.11.2006;Man. City;Newcastle;0;0;Premier League
+11.11.2006;Chelsea;Watford;4;0;Premier League
+11.11.2006;Everton;Aston Villa;0;1;Premier League
+11.11.2006;Middlesbrough;West Ham;1;0;Premier League
+11.11.2006;Portsmouth;Fulham;1;1;Premier League
+11.11.2006;Sheffield Utd;Bolton;2;2;Premier League
+11.11.2006;Wigan Ath;Charlton;3;2;Premier League
+11.11.2006;Blackburn;Man. United;0;1;Premier League
+12.11.2006;Reading;Tottenham;3;1;Premier League
+12.11.2006;Arsenal;Liverpool;3;0;Premier League
+18.11.2006;Man. City;Fulham;3;1;Premier League
+18.11.2006;Arsenal;Newcastle;1;1;Premier League
+18.11.2006;Chelsea;West Ham;1;0;Premier League
+18.11.2006;Everton;Bolton;1;0;Premier League
+18.11.2006;Portsmouth;Watford;2;1;Premier League
+18.11.2006;Reading;Charlton;2;0;Premier League
+18.11.2006;Sheffield Utd;Man. United;1;2;Premier League
+18.11.2006;Middlesbrough;Liverpool;0;0;Premier League
+19.11.2006;Wigan Ath;Aston Villa;0;0;Premier League
+19.11.2006;Blackburn;Tottenham;1;1;Premier League
+25.11.2006;Charlton;Everton;1;1;Premier League
+25.11.2006;Aston Villa;Middlesbrough;1;1;Premier League
+25.11.2006;Fulham;Reading;0;1;Premier League
+25.11.2006;Liverpool;Man. City;1;0;Premier League
+25.11.2006;West Ham;Sheffield Utd;1;0;Premier League
+25.11.2006;Bolton;Arsenal;3;1;Premier League
+26.11.2006;Newcastle;Portsmouth;1;0;Premier League
+26.11.2006;Tottenham;Wigan Ath;3;1;Premier League
+26.11.2006;Man. United;Chelsea;1;1;Premier League
+28.11.2006;Watford;Sheffield Utd;0;1;Premier League
+29.11.2006;Aston Villa;Man. City;1;3;Premier League
+29.11.2006;Fulham;Arsenal;2;1;Premier League
+29.11.2006;Bolton;Chelsea;0;1;Premier League
+29.11.2006;Liverpool;Portsmouth;0;0;Premier League
+29.11.2006;Man. United;Everton;3;0;Premier League
+02.12.2006;Arsenal;Tottenham;3;0;Premier League
+02.12.2006;Blackburn;Fulham;2;0;Premier League
+02.12.2006;Portsmouth;Aston Villa;2;2;Premier League
+02.12.2006;Reading;Bolton;1;0;Premier League
+02.12.2006;Sheffield Utd;Charlton;2;1;Premier League
+02.12.2006;Wigan Ath;Liverpool;0;4;Premier League
+02.12.2006;Middlesbrough;Man. United;1;2;Premier League
+03.12.2006;Everton;West Ham;2;0;Premier League
+04.12.2006;Man. City;Watford;0;0;Premier League
+05.12.2006;Charlton;Blackburn;1;0;Premier League
+05.12.2006;Tottenham;Middlesbrough;2;1;Premier League
+06.12.2006;Newcastle;Reading;3;2;Premier League
+06.12.2006;West Ham;Wigan Ath;0;2;Premier League
+09.12.2006;Man. United;Man. City;3;1;Premier League
+09.12.2006;Blackburn;Newcastle;1;3;Premier League
+09.12.2006;Liverpool;Fulham;4;0;Premier League
+09.12.2006;Middlesbrough;Wigan Ath;1;1;Premier League
+09.12.2006;Portsmouth;Everton;2;0;Premier League
+09.12.2006;Tottenham;Charlton;5;1;Premier League
+09.12.2006;Watford;Reading;0;0;Premier League
+09.12.2006;Bolton;West Ham;4;0;Premier League
+10.12.2006;Chelsea;Arsenal;1;1;Premier League
+11.12.2006;Sheffield Utd;Aston Villa;2;2;Premier League
+13.12.2006;Wigan Ath;Arsenal;0;1;Premier League
+13.12.2006;Chelsea;Newcastle;1;0;Premier League
+16.12.2006;Charlton;Liverpool;0;3;Premier League
+16.12.2006;Arsenal;Portsmouth;2;2;Premier League
+16.12.2006;Newcastle;Watford;2;1;Premier League
+16.12.2006;Reading;Blackburn;1;2;Premier League
+16.12.2006;Wigan Ath;Sheffield Utd;0;1;Premier League
+16.12.2006;Aston Villa;Bolton;0;1;Premier League
+17.12.2006;Everton;Chelsea;2;3;Premier League
+17.12.2006;Man. City;Tottenham;1;2;Premier League
+17.12.2006;West Ham;Man. United;1;0;Premier League
+18.12.2006;Fulham;Middlesbrough;2;1;Premier League
+23.12.2006;Fulham;West Ham;0;0;Premier League
+23.12.2006;Arsenal;Blackburn;6;2;Premier League
+23.12.2006;Aston Villa;Man. United;0;3;Premier League
+23.12.2006;Liverpool;Watford;2;0;Premier League
+23.12.2006;Man. City;Bolton;0;2;Premier League
+23.12.2006;Middlesbrough;Charlton;2;0;Premier League
+23.12.2006;Newcastle;Tottenham;3;1;Premier League
+23.12.2006;Portsmouth;Sheffield Utd;3;1;Premier League
+23.12.2006;Reading;Everton;0;2;Premier League
+23.12.2006;Wigan Ath;Chelsea;2;3;Premier League
+26.12.2006;Chelsea;Reading;2;2;Premier League
+26.12.2006;Tottenham;Aston Villa;2;1;Premier League
+26.12.2006;West Ham;Portsmouth;1;2;Premier League
+26.12.2006;Blackburn;Liverpool;1;0;Premier League
+26.12.2006;Bolton;Newcastle;2;1;Premier League
+26.12.2006;Everton;Middlesbrough;0;0;Premier League
+26.12.2006;Man. United;Wigan Ath;3;1;Premier League
+26.12.2006;Sheffield Utd;Man. City;0;1;Premier League
+26.12.2006;Watford;Arsenal;1;2;Premier League
+27.12.2006;Charlton;Fulham;2;2;Premier League
+30.12.2006;Charlton;Aston Villa;2;1;Premier League
+30.12.2006;Blackburn;Middlesbrough;2;1;Premier League
+30.12.2006;Bolton;Portsmouth;3;2;Premier League
+30.12.2006;Chelsea;Fulham;2;2;Premier League
+30.12.2006;Everton;Newcastle;3;0;Premier League
+30.12.2006;Man. United;Reading;3;2;Premier League
+30.12.2006;Tottenham;Liverpool;0;1;Premier League
+30.12.2006;West Ham;Man. City;0;1;Premier League
+30.12.2006;Sheffield Utd;Arsenal;1;0;Premier League
+01.01.2007;Liverpool;Bolton;3;0;Premier League
+01.01.2007;Fulham;Watford;0;0;Premier League
+01.01.2007;Man. City;Everton;2;1;Premier League
+01.01.2007;Middlesbrough;Sheffield Utd;3;1;Premier League
+01.01.2007;Portsmouth;Tottenham;1;1;Premier League
+01.01.2007;Reading;West Ham;6;0;Premier League
+01.01.2007;Wigan Ath;Blackburn;0;3;Premier League
+01.01.2007;Newcastle;Man. United;2;2;Premier League
+02.01.2007;Arsenal;Charlton;4;0;Premier League
+02.01.2007;Aston Villa;Chelsea;0;0;Premier League
+13.01.2007;Watford;Liverpool;0;3;Premier League
+13.01.2007;Bolton;Man. City;0;0;Premier League
+13.01.2007;Charlton;Middlesbrough;1;3;Premier League
+13.01.2007;Chelsea;Wigan Ath;4;0;Premier League
+13.01.2007;Man. United;Aston Villa;3;1;Premier League
+13.01.2007;Sheffield Utd;Portsmouth;1;1;Premier League
+13.01.2007;West Ham;Fulham;3;3;Premier League
+13.01.2007;Blackburn;Arsenal;0;2;Premier League
+14.01.2007;Everton;Reading;1;1;Premier League
+14.01.2007;Tottenham;Newcastle;2;3;Premier League
+20.01.2007;Liverpool;Chelsea;2;0;Premier League
+20.01.2007;Aston Villa;Watford;2;0;Premier League
+20.01.2007;Fulham;Tottenham;1;1;Premier League
+20.01.2007;Middlesbrough;Bolton;5;1;Premier League
+20.01.2007;Newcastle;West Ham;2;2;Premier League
+20.01.2007;Portsmouth;Charlton;0;1;Premier League
+20.01.2007;Reading;Sheffield Utd;3;1;Premier League
+20.01.2007;Man. City;Blackburn;0;3;Premier League
+21.01.2007;Wigan Ath;Everton;0;2;Premier League
+21.01.2007;Arsenal;Man. United;2;1;Premier League
+23.01.2007;Watford;Blackburn;2;1;Premier League
+30.01.2007;Portsmouth;Middlesbrough;0;0;Premier League
+30.01.2007;Sheffield Utd;Fulham;2;0;Premier League
+30.01.2007;West Ham;Liverpool;1;2;Premier League
+30.01.2007;Reading;Wigan Ath;3;2;Premier League
+31.01.2007;Chelsea;Blackburn;3;0;Premier League
+31.01.2007;Bolton;Charlton;1;1;Premier League
+31.01.2007;Man. United;Watford;4;0;Premier League
+31.01.2007;Newcastle;Aston Villa;3;1;Premier League
+03.02.2007;Liverpool;Everton;0;0;Premier League
+03.02.2007;Aston Villa;West Ham;1;0;Premier League
+03.02.2007;Blackburn;Sheffield Utd;2;1;Premier League
+03.02.2007;Charlton;Chelsea;0;1;Premier League
+03.02.2007;Fulham;Newcastle;2;1;Premier League
+03.02.2007;Man. City;Reading;0;2;Premier League
+03.02.2007;Watford;Bolton;0;1;Premier League
+03.02.2007;Wigan Ath;Portsmouth;1;0;Premier League
+03.02.2007;Middlesbrough;Arsenal;1;1;Premier League
+04.02.2007;Tottenham;Man. United;0;4;Premier League
+10.02.2007;Reading;Aston Villa;2;0;Premier League
+10.02.2007;Chelsea;Middlesbrough;3;0;Premier League
+10.02.2007;Everton;Blackburn;1;0;Premier League
+10.02.2007;Man. United;Charlton;2;0;Premier League
+10.02.2007;Newcastle;Liverpool;2;1;Premier League
+10.02.2007;Sheffield Utd;Tottenham;2;1;Premier League
+10.02.2007;West Ham;Watford;0;1;Premier League
+10.02.2007;Portsmouth;Man. City;2;1;Premier League
+11.02.2007;Bolton;Fulham;2;1;Premier League
+11.02.2007;Arsenal;Wigan Ath;2;1;Premier League
+21.02.2007;Watford;Wigan Ath;1;1;Premier League
+21.02.2007;Everton;Tottenham;1;2;Premier League
+24.02.2007;Fulham;Man. United;1;2;Premier League
+24.02.2007;Charlton;West Ham;4;0;Premier League
+24.02.2007;Liverpool;Sheffield Utd;4;0;Premier League
+24.02.2007;Middlesbrough;Reading;2;1;Premier League
+24.02.2007;Watford;Everton;0;3;Premier League
+25.02.2007;Wigan Ath;Newcastle;1;0;Premier League
+25.02.2007;Blackburn;Portsmouth;3;0;Premier League
+25.02.2007;Tottenham;Bolton;4;1;Premier League
+03.03.2007;Liverpool;Man. United;0;1;Premier League
+03.03.2007;Arsenal;Reading;2;1;Premier League
+03.03.2007;Fulham;Aston Villa;1;1;Premier League
+03.03.2007;Man. City;Wigan Ath;0;1;Premier League
+03.03.2007;Newcastle;Middlesbrough;0;0;Premier League
+03.03.2007;Sheffield Utd;Everton;1;1;Premier League
+03.03.2007;Watford;Charlton;2;2;Premier League
+03.03.2007;Portsmouth;Chelsea;0;2;Premier League
+04.03.2007;Bolton;Blackburn;1;2;Premier League
+04.03.2007;West Ham;Tottenham;3;4;Premier League
+14.03.2007;Aston Villa;Arsenal;0;1;Premier League
+14.03.2007;Man. City;Chelsea;0;1;Premier League
+17.03.2007;Man. United;Bolton;4;1;Premier League
+17.03.2007;Chelsea;Sheffield Utd;3;0;Premier League
+17.03.2007;Middlesbrough;Man. City;0;2;Premier League
+17.03.2007;Reading;Portsmouth;0;0;Premier League
+17.03.2007;Tottenham;Watford;3;1;Premier League
+17.03.2007;Wigan Ath;Fulham;0;0;Premier League
+17.03.2007;Blackburn;West Ham;1;2;Premier League
+18.03.2007;Charlton;Newcastle;2;0;Premier League
+18.03.2007;Aston Villa;Liverpool;0;0;Premier League
+18.03.2007;Everton;Arsenal;1;0;Premier League
+31.03.2007;Liverpool;Arsenal;4;1;Premier League
+31.03.2007;Bolton;Sheffield Utd;1;0;Premier League
+31.03.2007;Charlton;Wigan Ath;1;0;Premier League
+31.03.2007;Fulham;Portsmouth;1;1;Premier League
+31.03.2007;Man. United;Blackburn;4;1;Premier League
+31.03.2007;Newcastle;Man. City;0;1;Premier League
+31.03.2007;West Ham;Middlesbrough;2;0;Premier League
+31.03.2007;Watford;Chelsea;0;1;Premier League
+01.04.2007;Tottenham;Reading;1;0;Premier League
+02.04.2007;Aston Villa;Everton;1;1;Premier League
+06.04.2007;Man. City;Charlton;0;0;Premier League
+06.04.2007;Everton;Fulham;4;1;Premier League
+07.04.2007;Chelsea;Tottenham;1;0;Premier League
+07.04.2007;Arsenal;West Ham;0;1;Premier League
+07.04.2007;Blackburn;Aston Villa;1;2;Premier League
+07.04.2007;Middlesbrough;Watford;4;1;Premier League
+07.04.2007;Reading;Liverpool;1;2;Premier League
+07.04.2007;Sheffield Utd;Newcastle;1;2;Premier League
+07.04.2007;Wigan Ath;Bolton;1;3;Premier League
+07.04.2007;Portsmouth;Man. United;2;1;Premier League
+09.04.2007;Watford;Portsmouth;4;2;Premier League
+09.04.2007;Aston Villa;Wigan Ath;1;1;Premier League
+09.04.2007;Bolton;Everton;1;1;Premier League
+09.04.2007;Fulham;Man. City;1;3;Premier League
+09.04.2007;Newcastle;Arsenal;0;0;Premier League
+09.04.2007;Charlton;Reading;0;0;Premier League
+14.04.2007;Arsenal;Bolton;2;1;Premier League
+14.04.2007;Man. City;Liverpool;0;0;Premier League
+14.04.2007;Middlesbrough;Aston Villa;1;3;Premier League
+14.04.2007;Portsmouth;Newcastle;2;1;Premier League
+14.04.2007;Reading;Fulham;1;0;Premier League
+14.04.2007;Sheffield Utd;West Ham;3;0;Premier League
+15.04.2007;Wigan Ath;Tottenham;3;3;Premier League
+15.04.2007;Everton;Charlton;2;1;Premier League
+17.04.2007;Arsenal;Man. City;3;1;Premier League
+17.04.2007;Man. United;Sheffield Utd;2;0;Premier League
+18.04.2007;Liverpool;Middlesbrough;2;0;Premier League
+18.04.2007;West Ham;Chelsea;1;4;Premier League
+18.04.2007;Blackburn;Watford;3;1;Premier League
+21.04.2007;Tottenham;Arsenal;2;2;Premier League
+21.04.2007;Bolton;Reading;1;3;Premier League
+21.04.2007;Charlton;Sheffield Utd;1;1;Premier League
+21.04.2007;Fulham;Blackburn;1;1;Premier League
+21.04.2007;Liverpool;Wigan Ath;2;0;Premier League
+21.04.2007;Watford;Man. City;1;1;Premier League
+21.04.2007;West Ham;Everton;1;0;Premier League
+21.04.2007;Man. United;Middlesbrough;1;1;Premier League
+22.04.2007;Newcastle;Chelsea;0;0;Premier League
+22.04.2007;Aston Villa;Portsmouth;0;0;Premier League
+28.04.2007;Chelsea;Bolton;2;2;Premier League
+28.04.2007;Everton;Man. United;2;4;Premier League
+28.04.2007;Blackburn;Charlton;4;1;Premier League
+28.04.2007;Man. City;Aston Villa;0;2;Premier League
+28.04.2007;Middlesbrough;Tottenham;2;3;Premier League
+28.04.2007;Portsmouth;Liverpool;2;1;Premier League
+28.04.2007;Sheffield Utd;Watford;1;0;Premier League
+28.04.2007;Wigan Ath;West Ham;0;3;Premier League
+29.04.2007;Arsenal;Fulham;3;1;Premier League
+30.04.2007;Reading;Newcastle;1;0;Premier League
+05.05.2007;Man. City;Man. United;0;1;Premier League
+05.05.2007;Everton;Portsmouth;3;0;Premier League
+05.05.2007;Fulham;Liverpool;1;0;Premier League
+05.05.2007;Newcastle;Blackburn;0;2;Premier League
+05.05.2007;Reading;Watford;0;2;Premier League
+05.05.2007;West Ham;Bolton;3;1;Premier League
+05.05.2007;Wigan Ath;Middlesbrough;0;1;Premier League
+05.05.2007;Aston Villa;Sheffield Utd;3;0;Premier League
+06.05.2007;Arsenal;Chelsea;1;1;Premier League
+07.05.2007;Charlton;Tottenham;0;2;Premier League
+09.05.2007;Chelsea;Man. United;0;0;Premier League
+10.05.2007;Tottenham;Blackburn;1;1;Premier League
+13.05.2007;Blackburn;Reading;3;3;Premier League
+13.05.2007;Bolton;Aston Villa;2;2;Premier League
+13.05.2007;Chelsea;Everton;1;1;Premier League
+13.05.2007;Liverpool;Charlton;2;2;Premier League
+13.05.2007;Man. United;West Ham;0;1;Premier League
+13.05.2007;Middlesbrough;Fulham;3;1;Premier League
+13.05.2007;Portsmouth;Arsenal;0;0;Premier League
+13.05.2007;Sheffield Utd;Wigan Ath;1;2;Premier League
+13.05.2007;Tottenham;Man. City;2;1;Premier League
+13.05.2007;Watford;Newcastle;1;1;Premier League

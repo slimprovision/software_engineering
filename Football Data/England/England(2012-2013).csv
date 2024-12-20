@@ -1,0 +1,381 @@
+date;home_team;away_team;home_score;away_score;League
+19.05.2013;Chelsea;Everton;2;1;Premier League
+19.05.2013;Liverpool;QPR;1;0;Premier League
+19.05.2013;Man. City;Norwich;2;3;Premier League
+19.05.2013;Newcastle;Arsenal;0;1;Premier League
+19.05.2013;Southampton;Stoke City;1;1;Premier League
+19.05.2013;Swansea City;Fulham;0;3;Premier League
+19.05.2013;Tottenham;Sunderland;1;0;Premier League
+19.05.2013;West Bromwich;Man. United;5;5;Premier League
+19.05.2013;West Ham;Reading;4;2;Premier League
+19.05.2013;Wigan Ath;Aston Villa;2;2;Premier League
+11.05.2013;Aston Villa;Chelsea;1;2;Premier League
+12.05.2013;Stoke City;Tottenham;1;2;Premier League
+12.05.2013;Everton;West Ham;2;0;Premier League
+12.05.2013;Fulham;Liverpool;1;3;Premier League
+12.05.2013;Norwich;West Bromwich;4;0;Premier League
+12.05.2013;QPR;Newcastle;1;2;Premier League
+12.05.2013;Sunderland;Southampton;1;1;Premier League
+12.05.2013;Man. United;Swansea City;2;1;Premier League
+14.05.2013;Arsenal;Wigan Ath;4;1;Premier League
+14.05.2013;Reading;Man. City;0;2;Premier League
+04.05.2013;Fulham;Reading;2;4;Premier League
+04.05.2013;Norwich;Aston Villa;1;2;Premier League
+04.05.2013;Swansea City;Man. City;0;0;Premier League
+04.05.2013;West Bromwich;Wigan Ath;2;3;Premier League
+04.05.2013;West Ham;Newcastle;0;0;Premier League
+04.05.2013;Tottenham;Southampton;1;0;Premier League
+04.05.2013;QPR;Arsenal;0;1;Premier League
+05.05.2013;Liverpool;Everton;0;0;Premier League
+05.05.2013;Man. United;Chelsea;0;1;Premier League
+06.05.2013;Sunderland;Stoke City;1;1;Premier League
+27.04.2013;Man. City;West Ham;2;1;Premier League
+27.04.2013;Everton;Fulham;1;0;Premier League
+27.04.2013;Southampton;West Bromwich;0;3;Premier League
+27.04.2013;Stoke City;Norwich;1;0;Premier League
+27.04.2013;Wigan Ath;Tottenham;2;2;Premier League
+27.04.2013;Newcastle;Liverpool;0;6;Premier League
+28.04.2013;Reading;QPR;0;0;Premier League
+28.04.2013;Chelsea;Swansea City;2;0;Premier League
+28.04.2013;Arsenal;Man. United;1;1;Premier League
+29.04.2013;Aston Villa;Sunderland;6;1;Premier League
+20.04.2013;Fulham;Arsenal;0;1;Premier League
+20.04.2013;Norwich;Reading;2;1;Premier League
+20.04.2013;QPR;Stoke City;0;2;Premier League
+20.04.2013;Sunderland;Everton;1;0;Premier League
+20.04.2013;Swansea City;Southampton;0;0;Premier League
+20.04.2013;West Bromwich;Newcastle;1;1;Premier League
+20.04.2013;West Ham;Wigan Ath;2;0;Premier League
+21.04.2013;Tottenham;Man. City;3;1;Premier League
+21.04.2013;Liverpool;Chelsea;2;2;Premier League
+22.04.2013;Man. United;Aston Villa;3;0;Premier League
+13.04.2013;Arsenal;Norwich;3;1;Premier League
+13.04.2013;Aston Villa;Fulham;1;1;Premier League
+13.04.2013;Everton;QPR;2;0;Premier League
+13.04.2013;Reading;Liverpool;0;0;Premier League
+13.04.2013;Southampton;West Ham;1;1;Premier League
+14.04.2013;Newcastle;Sunderland;0;3;Premier League
+14.04.2013;Stoke City;Man. United;0;2;Premier League
+07.05.2013;Man. City;West Bromwich;1;0;Premier League
+07.05.2013;Wigan Ath;Swansea City;2;3;Premier League
+08.05.2013;Chelsea;Tottenham;2;2;Premier League
+06.04.2013;Reading;Southampton;0;2;Premier League
+06.04.2013;Norwich;Swansea City;2;2;Premier League
+06.04.2013;Stoke City;Aston Villa;1;3;Premier League
+06.04.2013;West Bromwich;Arsenal;1;2;Premier League
+07.04.2013;Liverpool;West Ham;0;0;Premier League
+07.04.2013;Tottenham;Everton;2;2;Premier League
+07.04.2013;Chelsea;Sunderland;2;1;Premier League
+07.04.2013;Newcastle;Fulham;1;0;Premier League
+07.04.2013;QPR;Wigan Ath;1;1;Premier League
+08.04.2013;Man. United;Man. City;1;2;Premier League
+30.03.2013;Sunderland;Man. United;0;1;Premier League
+30.03.2013;Arsenal;Reading;4;1;Premier League
+30.03.2013;Man. City;Newcastle;4;0;Premier League
+30.03.2013;Southampton;Chelsea;2;1;Premier League
+30.03.2013;Swansea City;Tottenham;1;2;Premier League
+30.03.2013;West Ham;West Bromwich;3;1;Premier League
+30.03.2013;Wigan Ath;Norwich;1;0;Premier League
+30.03.2013;Everton;Stoke City;1;0;Premier League
+31.03.2013;Aston Villa;Liverpool;1;2;Premier League
+01.04.2013;Fulham;QPR;3;2;Premier League
+16.03.2013;Everton;Man. City;2;0;Premier League
+16.03.2013;Aston Villa;QPR;3;2;Premier League
+16.03.2013;Southampton;Liverpool;3;1;Premier League
+16.03.2013;Stoke City;West Bromwich;0;0;Premier League
+16.03.2013;Swansea City;Arsenal;0;2;Premier League
+16.03.2013;Man. United;Reading;1;0;Premier League
+17.03.2013;Sunderland;Norwich;1;1;Premier League
+17.03.2013;Tottenham;Fulham;0;1;Premier League
+17.03.2013;Chelsea;West Ham;2;0;Premier League
+17.03.2013;Wigan Ath;Newcastle;2;1;Premier League
+09.03.2013;Norwich;Southampton;0;0;Premier League
+09.03.2013;QPR;Sunderland;3;1;Premier League
+09.03.2013;Reading;Aston Villa;1;2;Premier League
+09.03.2013;West Bromwich;Swansea City;2;1;Premier League
+10.03.2013;Newcastle;Stoke City;2;1;Premier League
+10.03.2013;Liverpool;Tottenham;3;2;Premier League
+16.04.2013;Arsenal;Everton;0;0;Premier League
+17.04.2013;Man. City;Wigan Ath;1;0;Premier League
+17.04.2013;West Ham;Man. United;2;2;Premier League
+17.04.2013;Fulham;Chelsea;0;3;Premier League
+02.03.2013;Chelsea;West Bromwich;1;0;Premier League
+02.03.2013;Everton;Reading;3;1;Premier League
+02.03.2013;Man. United;Norwich;4;0;Premier League
+02.03.2013;Southampton;QPR;1;2;Premier League
+02.03.2013;Stoke City;West Ham;0;1;Premier League
+02.03.2013;Sunderland;Fulham;2;2;Premier League
+02.03.2013;Swansea City;Newcastle;1;0;Premier League
+02.03.2013;Wigan Ath;Liverpool;0;4;Premier League
+03.03.2013;Tottenham;Arsenal;2;1;Premier League
+04.03.2013;Aston Villa;Man. City;0;1;Premier League
+17.02.2013;Liverpool;Swansea City;5;0;Premier League
+23.02.2013;Fulham;Stoke City;1;0;Premier League
+23.02.2013;Arsenal;Aston Villa;2;1;Premier League
+23.02.2013;Norwich;Everton;2;1;Premier League
+23.02.2013;QPR;Man. United;0;2;Premier League
+23.02.2013;Reading;Wigan Ath;0;3;Premier League
+23.02.2013;West Bromwich;Sunderland;2;1;Premier League
+24.02.2013;Man. City;Chelsea;2;0;Premier League
+24.02.2013;Newcastle;Southampton;4;2;Premier League
+25.02.2013;West Ham;Tottenham;2;3;Premier League
+09.02.2013;Tottenham;Newcastle;2;1;Premier League
+09.02.2013;Chelsea;Wigan Ath;4;1;Premier League
+09.02.2013;Norwich;Fulham;0;0;Premier League
+09.02.2013;Stoke City;Reading;2;1;Premier League
+09.02.2013;Sunderland;Arsenal;0;1;Premier League
+09.02.2013;Swansea City;QPR;4;1;Premier League
+09.02.2013;Southampton;Man. City;3;1;Premier League
+10.02.2013;Aston Villa;West Ham;2;1;Premier League
+10.02.2013;Man. United;Everton;2;0;Premier League
+11.02.2013;Liverpool;West Bromwich;0;2;Premier League
+02.02.2013;QPR;Norwich;0;0;Premier League
+02.02.2013;Arsenal;Stoke City;1;0;Premier League
+02.02.2013;Everton;Aston Villa;3;3;Premier League
+02.02.2013;Newcastle;Chelsea;3;2;Premier League
+02.02.2013;Reading;Sunderland;2;1;Premier League
+02.02.2013;West Ham;Swansea City;1;0;Premier League
+02.02.2013;Wigan Ath;Southampton;2;2;Premier League
+02.02.2013;Fulham;Man. United;0;1;Premier League
+03.02.2013;West Bromwich;Tottenham;0;1;Premier League
+03.02.2013;Man. City;Liverpool;2;2;Premier League
+29.01.2013;Aston Villa;Newcastle;1;2;Premier League
+29.01.2013;QPR;Man. City;0;0;Premier League
+29.01.2013;Stoke City;Wigan Ath;2;2;Premier League
+29.01.2013;Sunderland;Swansea City;0;0;Premier League
+30.01.2013;Arsenal;Liverpool;2;2;Premier League
+30.01.2013;Norwich;Tottenham;1;1;Premier League
+30.01.2013;Everton;West Bromwich;2;1;Premier League
+30.01.2013;Man. United;Southampton;2;1;Premier League
+30.01.2013;Reading;Chelsea;2;2;Premier League
+30.01.2013;Fulham;West Ham;3;1;Premier League
+19.01.2013;Liverpool;Norwich;5;0;Premier League
+19.01.2013;Man. City;Fulham;2;0;Premier League
+19.01.2013;Newcastle;Reading;1;2;Premier League
+19.01.2013;Swansea City;Stoke City;3;1;Premier League
+19.01.2013;West Ham;QPR;1;1;Premier League
+19.01.2013;Wigan Ath;Sunderland;2;3;Premier League
+19.01.2013;West Bromwich;Aston Villa;2;2;Premier League
+20.01.2013;Chelsea;Arsenal;2;1;Premier League
+20.01.2013;Tottenham;Man. United;1;1;Premier League
+21.01.2013;Southampton;Everton;0;0;Premier League
+12.01.2013;QPR;Tottenham;0;0;Premier League
+12.01.2013;Aston Villa;Southampton;0;1;Premier League
+12.01.2013;Everton;Swansea City;0;0;Premier League
+12.01.2013;Fulham;Wigan Ath;1;1;Premier League
+12.01.2013;Norwich;Newcastle;0;0;Premier League
+12.01.2013;Reading;West Bromwich;3;2;Premier League
+12.01.2013;Stoke City;Chelsea;0;4;Premier League
+12.01.2013;Sunderland;West Ham;3;0;Premier League
+13.01.2013;Man. United;Liverpool;2;1;Premier League
+13.01.2013;Arsenal;Man. City;0;2;Premier League
+01.01.2013;West Bromwich;Fulham;1;2;Premier League
+01.01.2013;Man. City;Stoke City;3;0;Premier League
+01.01.2013;Swansea City;Aston Villa;2;2;Premier League
+01.01.2013;Tottenham;Reading;3;1;Premier League
+01.01.2013;West Ham;Norwich;2;1;Premier League
+01.01.2013;Wigan Ath;Man. United;0;4;Premier League
+01.01.2013;Southampton;Arsenal;1;1;Premier League
+02.01.2013;Chelsea;QPR;0;1;Premier League
+02.01.2013;Liverpool;Sunderland;3;0;Premier League
+02.01.2013;Newcastle;Everton;1;2;Premier League
+29.12.2012;Sunderland;Tottenham;1;2;Premier League
+29.12.2012;Aston Villa;Wigan Ath;0;3;Premier League
+29.12.2012;Fulham;Swansea City;1;2;Premier League
+29.12.2012;Man. United;West Bromwich;2;0;Premier League
+29.12.2012;Norwich;Man. City;3;4;Premier League
+29.12.2012;Reading;West Ham;1;0;Premier League
+29.12.2012;Stoke City;Southampton;3;3;Premier League
+29.12.2012;Arsenal;Newcastle;7;3;Premier League
+30.12.2012;Everton;Chelsea;1;2;Premier League
+30.12.2012;QPR;Liverpool;0;3;Premier League
+26.12.2012;Everton;Wigan Ath;2;1;Premier League
+26.12.2012;Fulham;Southampton;1;1;Premier League
+26.12.2012;Man. United;Newcastle;4;3;Premier League
+26.12.2012;Norwich;Chelsea;0;1;Premier League
+26.12.2012;Reading;Swansea City;0;0;Premier League
+26.12.2012;Sunderland;Man. City;1;0;Premier League
+26.12.2012;QPR;West Bromwich;1;2;Premier League
+26.12.2012;Aston Villa;Tottenham;0;4;Premier League
+26.12.2012;Stoke City;Liverpool;3;1;Premier League
+23.01.2013;Arsenal;West Ham;5;1;Premier League
+22.12.2012;Wigan Ath;Arsenal;0;1;Premier League
+22.12.2012;Man. City;Reading;1;0;Premier League
+22.12.2012;Newcastle;QPR;1;0;Premier League
+22.12.2012;Southampton;Sunderland;0;1;Premier League
+22.12.2012;Tottenham;Stoke City;0;0;Premier League
+22.12.2012;West Bromwich;Norwich;2;1;Premier League
+22.12.2012;West Ham;Everton;1;2;Premier League
+22.12.2012;Liverpool;Fulham;4;0;Premier League
+23.12.2012;Swansea City;Man. United;1;1;Premier League
+23.12.2012;Chelsea;Aston Villa;8;0;Premier League
+15.12.2012;Newcastle;Man. City;1;3;Premier League
+15.12.2012;Liverpool;Aston Villa;1;3;Premier League
+15.12.2012;Man. United;Sunderland;3;1;Premier League
+15.12.2012;Norwich;Wigan Ath;2;1;Premier League
+15.12.2012;QPR;Fulham;2;1;Premier League
+15.12.2012;Stoke City;Everton;1;1;Premier League
+16.12.2012;Tottenham;Swansea City;1;0;Premier League
+16.12.2012;West Bromwich;West Ham;0;0;Premier League
+17.12.2012;Reading;Arsenal;2;5;Premier League
+16.01.2013;Chelsea;Southampton;2;2;Premier League
+08.12.2012;Arsenal;West Bromwich;2;0;Premier League
+08.12.2012;Aston Villa;Stoke City;0;0;Premier League
+08.12.2012;Southampton;Reading;1;0;Premier League
+08.12.2012;Sunderland;Chelsea;1;3;Premier League
+08.12.2012;Swansea City;Norwich;3;4;Premier League
+08.12.2012;Wigan Ath;QPR;2;2;Premier League
+09.12.2012;Man. City;Man. United;2;3;Premier League
+09.12.2012;Everton;Tottenham;2;1;Premier League
+09.12.2012;West Ham;Liverpool;2;3;Premier League
+10.12.2012;Fulham;Newcastle;2;1;Premier League
+01.12.2012;West Ham;Chelsea;3;1;Premier League
+01.12.2012;Arsenal;Swansea City;0;2;Premier League
+01.12.2012;Fulham;Tottenham;0;3;Premier League
+01.12.2012;Liverpool;Southampton;1;0;Premier League
+01.12.2012;Man. City;Everton;1;1;Premier League
+01.12.2012;QPR;Aston Villa;1;1;Premier League
+01.12.2012;West Bromwich;Stoke City;0;1;Premier League
+01.12.2012;Reading;Man. United;3;4;Premier League
+02.12.2012;Norwich;Sunderland;2;1;Premier League
+03.12.2012;Newcastle;Wigan Ath;3;0;Premier League
+27.11.2012;Sunderland;QPR;0;0;Premier League
+27.11.2012;Aston Villa;Reading;1;0;Premier League
+28.11.2012;Southampton;Norwich;1;1;Premier League
+28.11.2012;Stoke City;Newcastle;2;1;Premier League
+28.11.2012;Swansea City;West Bromwich;3;1;Premier League
+28.11.2012;Tottenham;Liverpool;2;1;Premier League
+28.11.2012;Chelsea;Fulham;0;0;Premier League
+28.11.2012;Everton;Arsenal;1;1;Premier League
+28.11.2012;Man. United;West Ham;1;0;Premier League
+28.11.2012;Wigan Ath;Man. City;0;2;Premier League
+24.11.2012;Sunderland;West Bromwich;2;4;Premier League
+24.11.2012;Everton;Norwich;1;1;Premier League
+24.11.2012;Man. United;QPR;3;1;Premier League
+24.11.2012;Stoke City;Fulham;1;0;Premier League
+24.11.2012;Wigan Ath;Reading;3;2;Premier League
+24.11.2012;Aston Villa;Arsenal;0;0;Premier League
+25.11.2012;Swansea City;Liverpool;0;0;Premier League
+25.11.2012;Southampton;Newcastle;2;0;Premier League
+25.11.2012;Chelsea;Man. City;0;0;Premier League
+25.11.2012;Tottenham;West Ham;3;1;Premier League
+17.11.2012;Arsenal;Tottenham;5;2;Premier League
+17.11.2012;Liverpool;Wigan Ath;3;0;Premier League
+17.11.2012;Man. City;Aston Villa;5;0;Premier League
+17.11.2012;Newcastle;Swansea City;1;2;Premier League
+17.11.2012;QPR;Southampton;1;3;Premier League
+17.11.2012;Reading;Everton;2;1;Premier League
+17.11.2012;West Bromwich;Chelsea;2;1;Premier League
+17.11.2012;Norwich;Man. United;1;0;Premier League
+18.11.2012;Fulham;Sunderland;1;3;Premier League
+19.11.2012;West Ham;Stoke City;1;1;Premier League
+10.11.2012;Arsenal;Fulham;3;3;Premier League
+10.11.2012;Everton;Sunderland;2;1;Premier League
+10.11.2012;Reading;Norwich;0;0;Premier League
+10.11.2012;Southampton;Swansea City;1;1;Premier League
+10.11.2012;Stoke City;QPR;1;0;Premier League
+10.11.2012;Wigan Ath;West Bromwich;1;2;Premier League
+10.11.2012;Aston Villa;Man. United;2;3;Premier League
+11.11.2012;Man. City;Tottenham;2;1;Premier League
+11.11.2012;Newcastle;West Ham;0;1;Premier League
+11.11.2012;Chelsea;Liverpool;1;1;Premier League
+03.11.2012;Man. United;Arsenal;2;1;Premier League
+03.11.2012;Fulham;Everton;2;2;Premier League
+03.11.2012;Norwich;Stoke City;1;0;Premier League
+03.11.2012;Sunderland;Aston Villa;0;1;Premier League
+03.11.2012;Swansea City;Chelsea;1;1;Premier League
+03.11.2012;Tottenham;Wigan Ath;0;1;Premier League
+03.11.2012;West Ham;Man. City;0;0;Premier League
+04.11.2012;QPR;Reading;1;1;Premier League
+04.11.2012;Liverpool;Newcastle;1;1;Premier League
+05.11.2012;West Bromwich;Southampton;2;0;Premier League
+27.10.2012;Aston Villa;Norwich;1;1;Premier League
+27.10.2012;Arsenal;QPR;1;0;Premier League
+27.10.2012;Reading;Fulham;3;3;Premier League
+27.10.2012;Stoke City;Sunderland;0;0;Premier League
+27.10.2012;Wigan Ath;West Ham;2;1;Premier League
+27.10.2012;Man. City;Swansea City;1;0;Premier League
+28.10.2012;Everton;Liverpool;2;2;Premier League
+28.10.2012;Newcastle;West Bromwich;2;1;Premier League
+28.10.2012;Southampton;Tottenham;1;2;Premier League
+28.10.2012;Chelsea;Man. United;2;3;Premier League
+20.10.2012;Tottenham;Chelsea;2;4;Premier League
+20.10.2012;Fulham;Aston Villa;1;0;Premier League
+20.10.2012;Liverpool;Reading;1;0;Premier League
+20.10.2012;Man. United;Stoke City;4;2;Premier League
+20.10.2012;Swansea City;Wigan Ath;2;1;Premier League
+20.10.2012;West Bromwich;Man. City;1;2;Premier League
+20.10.2012;West Ham;Southampton;4;1;Premier League
+20.10.2012;Norwich;Arsenal;1;0;Premier League
+21.10.2012;Sunderland;Newcastle;1;1;Premier League
+21.10.2012;QPR;Everton;1;1;Premier League
+06.10.2012;Man. City;Sunderland;3;0;Premier League
+06.10.2012;Chelsea;Norwich;4;1;Premier League
+06.10.2012;Swansea City;Reading;2;2;Premier League
+06.10.2012;West Bromwich;QPR;3;2;Premier League
+06.10.2012;Wigan Ath;Everton;2;2;Premier League
+06.10.2012;West Ham;Arsenal;1;3;Premier League
+07.10.2012;Southampton;Fulham;2;2;Premier League
+07.10.2012;Liverpool;Stoke City;0;0;Premier League
+07.10.2012;Tottenham;Aston Villa;2;0;Premier League
+07.10.2012;Newcastle;Man. United;0;3;Premier League
+29.09.2012;Arsenal;Chelsea;1;2;Premier League
+29.09.2012;Everton;Southampton;3;1;Premier League
+29.09.2012;Fulham;Man. City;1;2;Premier League
+29.09.2012;Norwich;Liverpool;2;5;Premier League
+29.09.2012;Reading;Newcastle;2;2;Premier League
+29.09.2012;Stoke City;Swansea City;2;0;Premier League
+29.09.2012;Sunderland;Wigan Ath;1;0;Premier League
+29.09.2012;Man. United;Tottenham;2;3;Premier League
+30.09.2012;Aston Villa;West Bromwich;1;1;Premier League
+01.10.2012;QPR;West Ham;1;2;Premier League
+22.09.2012;Swansea City;Everton;0;3;Premier League
+22.09.2012;Chelsea;Stoke City;1;0;Premier League
+22.09.2012;Southampton;Aston Villa;4;1;Premier League
+22.09.2012;West Bromwich;Reading;1;0;Premier League
+22.09.2012;West Ham;Sunderland;1;1;Premier League
+22.09.2012;Wigan Ath;Fulham;1;2;Premier League
+23.09.2012;Liverpool;Man. United;1;2;Premier League
+23.09.2012;Newcastle;Norwich;1;0;Premier League
+23.09.2012;Man. City;Arsenal;1;1;Premier League
+23.09.2012;Tottenham;QPR;2;1;Premier League
+15.09.2012;Norwich;West Ham;0;0;Premier League
+15.09.2012;Arsenal;Southampton;6;1;Premier League
+15.09.2012;Aston Villa;Swansea City;2;0;Premier League
+15.09.2012;Fulham;West Bromwich;3;0;Premier League
+15.09.2012;Man. United;Wigan Ath;4;0;Premier League
+15.09.2012;QPR;Chelsea;0;0;Premier League
+15.09.2012;Stoke City;Man. City;1;1;Premier League
+15.09.2012;Sunderland;Liverpool;1;1;Premier League
+16.09.2012;Reading;Tottenham;1;3;Premier League
+17.09.2012;Everton;Newcastle;2;2;Premier League
+22.08.2012;Chelsea;Reading;4;2;Premier League
+01.09.2012;West Ham;Fulham;3;0;Premier League
+01.09.2012;Swansea City;Sunderland;2;2;Premier League
+01.09.2012;Tottenham;Norwich;1;1;Premier League
+01.09.2012;West Bromwich;Everton;2;0;Premier League
+01.09.2012;Wigan Ath;Stoke City;2;2;Premier League
+01.09.2012;Man. City;QPR;3;1;Premier League
+02.09.2012;Liverpool;Arsenal;0;2;Premier League
+02.09.2012;Newcastle;Aston Villa;1;1;Premier League
+02.09.2012;Southampton;Man. United;2;3;Premier League
+25.08.2012;Swansea City;West Ham;3;0;Premier League
+25.08.2012;Aston Villa;Everton;1;3;Premier League
+25.08.2012;Man. United;Fulham;3;2;Premier League
+25.08.2012;Norwich;QPR;1;1;Premier League
+25.08.2012;Southampton;Wigan Ath;0;2;Premier League
+25.08.2012;Tottenham;West Bromwich;1;1;Premier League
+25.08.2012;Chelsea;Newcastle;2;0;Premier League
+26.08.2012;Stoke City;Arsenal;0;0;Premier League
+26.08.2012;Liverpool;Man. City;2;2;Premier League
+11.12.2012;Sunderland;Reading;3;0;Premier League
+18.08.2012;Arsenal;Sunderland;0;0;Premier League
+18.08.2012;Fulham;Norwich;5;0;Premier League
+18.08.2012;QPR;Swansea City;0;5;Premier League
+18.08.2012;Reading;Stoke City;1;1;Premier League
+18.08.2012;West Bromwich;Liverpool;3;0;Premier League
+18.08.2012;West Ham;Aston Villa;1;0;Premier League
+18.08.2012;Newcastle;Tottenham;2;1;Premier League
+19.08.2012;Wigan Ath;Chelsea;0;2;Premier League
+19.08.2012;Man. City;Southampton;3;2;Premier League
+20.08.2012;Everton;Man. United;1;0;Premier League

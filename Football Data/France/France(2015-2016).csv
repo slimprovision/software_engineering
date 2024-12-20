@@ -1,0 +1,381 @@
+date;home_team;away_team;home_score;away_score;League
+14.05.2016;Angers;Toulouse;2;3;Ligue 1
+14.05.2016;Monaco;Montpellier;2;0;Ligue 1
+14.05.2016;St Etienne;Lille;0;1;Ligue 1
+14.05.2016;Guingamp;Nice;2;3;Ligue 1
+14.05.2016;Troyes;Marsilya;1;1;Ligue 1
+14.05.2016;Lorient;Gazelec;1;0;Ligue 1
+14.05.2016;PSG;Nantes;4;0;Ligue 1
+14.05.2016;Caen;Bordeaux;1;0;Ligue 1
+14.05.2016;Reims;Lyon;4;1;Ligue 1
+14.05.2016;Rennes;Bastia;1;2;Ligue 1
+07.05.2016;Bordeaux;Lorient;3;0;Ligue 1
+07.05.2016;Nantes;Caen;1;2;Ligue 1
+07.05.2016;Gazelec;PSG;0;4;Ligue 1
+07.05.2016;Lille;Guingamp;0;0;Ligue 1
+07.05.2016;Montpellier;Rennes;2;0;Ligue 1
+07.05.2016;Nice;St Etienne;2;0;Ligue 1
+07.05.2016;Marsilya;Reims;1;0;Ligue 1
+07.05.2016;Lyon;Monaco;6;1;Ligue 1
+07.05.2016;Bastia;Angers;1;0;Ligue 1
+07.05.2016;Toulouse;Troyes;1;0;Ligue 1
+29.04.2016;PSG;Rennes;4;0;Ligue 1
+30.04.2016;Nantes;Nice;1;0;Ligue 1
+30.04.2016;St Etienne;Toulouse;0;0;Ligue 1
+30.04.2016;Monaco;Guingamp;3;2;Ligue 1
+30.04.2016;Troyes;Bordeaux;2;4;Ligue 1
+30.04.2016;Lorient;Lille;0;1;Ligue 1
+30.04.2016;Caen;Bastia;0;0;Ligue 1
+30.04.2016;Reims;Montpellier;2;3;Ligue 1
+30.04.2016;Lyon;Gazelec;2;1;Ligue 1
+01.05.2016;Angers;Marsilya;0;1;Ligue 1
+22.04.2016;Nice;Reims;2;0;Ligue 1
+23.04.2016;Toulouse;Lyon;2;3;Ligue 1
+24.04.2016;Marsilya;Nantes;1;1;Ligue 1
+24.04.2016;St Etienne;Lorient;2;0;Ligue 1
+24.04.2016;Guingamp;Caen;1;1;Ligue 1
+24.04.2016;Gazelec;Bastia;3;2;Ligue 1
+24.04.2016;Montpellier;Troyes;4;1;Ligue 1
+24.04.2016;Rennes;Monaco;1;1;Ligue 1
+27.04.2016;Lille;Angers;0;0;Ligue 1
+11.05.2016;Bordeaux;PSG;1;1;Ligue 1
+15.04.2016;Lyon;Nice;1;1;Ligue 1
+16.04.2016;PSG;Caen;6;0;Ligue 1
+16.04.2016;Troyes;Reims;2;1;Ligue 1
+16.04.2016;Bordeaux;Angers;1;3;Ligue 1
+16.04.2016;Lorient;Toulouse;1;1;Ligue 1
+16.04.2016;Gazelec;Lille;2;4;Ligue 1
+16.04.2016;Bastia;St Etienne;0;1;Ligue 1
+17.04.2016;Nantes;Montpellier;0;2;Ligue 1
+17.04.2016;Rennes;Guingamp;0;3;Ligue 1
+17.04.2016;Monaco;Marsilya;2;1;Ligue 1
+08.04.2016;Montpellier;Lyon;0;2;Ligue 1
+09.04.2016;Guingamp;PSG;0;2;Ligue 1
+09.04.2016;Angers;Gazelec;0;0;Ligue 1
+09.04.2016;St Etienne;Troyes;1;0;Ligue 1
+09.04.2016;Caen;Lorient;1;2;Ligue 1
+09.04.2016;Reims;Nantes;2;1;Ligue 1
+09.04.2016;Toulouse;Bastia;4;0;Ligue 1
+10.04.2016;Lille;Monaco;4;1;Ligue 1
+10.04.2016;Nice;Rennes;3;0;Ligue 1
+10.04.2016;Marsilya;Bordeaux;0;0;Ligue 1
+01.04.2016;Monaco;Bordeaux;1;2;Ligue 1
+02.04.2016;PSG;Nice;4;1;Ligue 1
+02.04.2016;Guingamp;Montpellier;2;2;Ligue 1
+02.04.2016;Troyes;Angers;0;1;Ligue 1
+02.04.2016;Gazelec;St Etienne;0;2;Ligue 1
+02.04.2016;Rennes;Reims;3;1;Ligue 1
+02.04.2016;Toulouse;Caen;2;0;Ligue 1
+03.04.2016;Nantes;Lille;0;3;Ligue 1
+03.04.2016;Bastia;Marsilya;2;1;Ligue 1
+03.04.2016;Lorient;Lyon;1;3;Ligue 1
+18.03.2016;Marsilya;Rennes;2;5;Ligue 1
+19.03.2016;St Etienne;Montpellier;3;0;Ligue 1
+19.03.2016;Angers;Lorient;5;1;Ligue 1
+19.03.2016;Lille;Toulouse;1;0;Ligue 1
+19.03.2016;Caen;Troyes;2;1;Ligue 1
+19.03.2016;Reims;Guingamp;0;1;Ligue 1
+19.03.2016;Lyon;Nantes;2;0;Ligue 1
+20.03.2016;Bordeaux;Bastia;1;1;Ligue 1
+20.03.2016;Nice;Gazelec;3;0;Ligue 1
+20.03.2016;PSG;Monaco;0;2;Ligue 1
+11.03.2016;Monaco;Reims;2;2;Ligue 1
+12.03.2016;Lorient;Marsilya;1;1;Ligue 1
+12.03.2016;Guingamp;St Etienne;2;0;Ligue 1
+12.03.2016;Gazelec;Caen;1;0;Ligue 1
+12.03.2016;Montpellier;Nice;0;2;Ligue 1
+12.03.2016;Bastia;Lille;1;2;Ligue 1
+12.03.2016;Toulouse;Bordeaux;4;0;Ligue 1
+13.03.2016;Troyes;PSG;0;9;Ligue 1
+13.03.2016;Nantes;Angers;2;0;Ligue 1
+13.03.2016;Rennes;Lyon;2;2;Ligue 1
+04.03.2016;Caen;Monaco;2;2;Ligue 1
+05.03.2016;PSG;Montpellier;0;0;Ligue 1
+05.03.2016;Angers;St Etienne;0;0;Ligue 1
+05.03.2016;Bordeaux;Gazelec;1;1;Ligue 1
+05.03.2016;Lille;Reims;2;0;Ligue 1
+05.03.2016;Nice;Troyes;2;1;Ligue 1
+05.03.2016;Bastia;Lorient;0;0;Ligue 1
+06.03.2016;Marsilya;Toulouse;1;1;Ligue 1
+06.03.2016;Rennes;Nantes;4;1;Ligue 1
+06.03.2016;Lyon;Guingamp;5;1;Ligue 1
+26.02.2016;Nice;Bastia;0;2;Ligue 1
+27.02.2016;Montpellier;Lille;3;0;Ligue 1
+27.02.2016;Guingamp;Angers;2;2;Ligue 1
+27.02.2016;Troyes;Lorient;0;1;Ligue 1
+27.02.2016;Reims;Bordeaux;4;1;Ligue 1
+27.02.2016;Toulouse;Rennes;1;2;Ligue 1
+28.02.2016;Nantes;Monaco;0;0;Ligue 1
+28.02.2016;St Etienne;Caen;1;2;Ligue 1
+28.02.2016;Lyon;PSG;2;1;Ligue 1
+09.03.2016;Gazelec;Marsilya;1;1;Ligue 1
+19.02.2016;Bordeaux;Nice;0;0;Ligue 1
+20.02.2016;PSG;Reims;4;1;Ligue 1
+20.02.2016;Angers;Montpellier;2;3;Ligue 1
+20.02.2016;Monaco;Troyes;3;1;Ligue 1
+20.02.2016;Lorient;Guingamp;4;3;Ligue 1
+20.02.2016;Toulouse;Gazelec;1;1;Ligue 1
+21.02.2016;Marsilya;St Etienne;1;1;Ligue 1
+21.02.2016;Caen;Rennes;1;0;Ligue 1
+21.02.2016;Lille;Lyon;1;0;Ligue 1
+09.03.2016;Bastia;Nantes;0;0;Ligue 1
+12.02.2016;Rennes;Angers;1;0;Ligue 1
+13.02.2016;PSG;Lille;0;0;Ligue 1
+13.02.2016;Gazelec;Troyes;2;3;Ligue 1
+13.02.2016;Guingamp;Bordeaux;2;4;Ligue 1
+13.02.2016;Nantes;Lorient;2;1;Ligue 1
+13.02.2016;Montpellier;Toulouse;2;0;Ligue 1
+13.02.2016;Reims;Bastia;0;1;Ligue 1
+14.02.2016;Lyon;Caen;4;1;Ligue 1
+14.02.2016;St Etienne;Monaco;1;1;Ligue 1
+14.02.2016;Nice;Marsilya;1;1;Ligue 1
+06.02.2016;Monaco;Nice;1;0;Ligue 1
+06.02.2016;Angers;Lyon;0;3;Ligue 1
+06.02.2016;Lorient;Montpellier;1;1;Ligue 1
+06.02.2016;Gazelec;Guingamp;0;0;Ligue 1
+06.02.2016;Bastia;Troyes;2;0;Ligue 1
+06.02.2016;Caen;Reims;0;2;Ligue 1
+06.02.2016;Toulouse;Nantes;0;0;Ligue 1
+07.02.2016;Lille;Rennes;1;1;Ligue 1
+07.02.2016;Bordeaux;St Etienne;1;4;Ligue 1
+07.02.2016;Marsilya;PSG;1;2;Ligue 1
+02.02.2016;Monaco;Bastia;2;0;Ligue 1
+02.02.2016;Montpellier;Marsilya;0;1;Ligue 1
+03.02.2016;Guingamp;Troyes;4;0;Ligue 1
+03.02.2016;Nantes;Gazelec;3;1;Ligue 1
+03.02.2016;Lille;Caen;1;0;Ligue 1
+03.02.2016;Nice;Toulouse;1;0;Ligue 1
+03.02.2016;Lyon;Bordeaux;3;0;Ligue 1
+03.02.2016;Reims;Angers;2;1;Ligue 1
+03.02.2016;PSG;Lorient;3;1;Ligue 1
+04.02.2016;Rennes;St Etienne;0;1;Ligue 1
+29.01.2016;Marsilya;Lille;1;1;Ligue 1
+30.01.2016;Angers;Monaco;3;0;Ligue 1
+30.01.2016;Troyes;Nantes;0;1;Ligue 1
+30.01.2016;Lorient;Reims;2;0;Ligue 1
+30.01.2016;Gazelec;Montpellier;0;4;Ligue 1
+30.01.2016;Bastia;Lyon;1;0;Ligue 1
+30.01.2016;Toulouse;Guingamp;1;2;Ligue 1
+31.01.2016;Caen;Nice;2;0;Ligue 1
+31.01.2016;Bordeaux;Rennes;4;0;Ligue 1
+31.01.2016;St Etienne;PSG;0;2;Ligue 1
+22.01.2016;Rennes;Gazelec;1;0;Ligue 1
+23.01.2016;PSG;Angers;5;1;Ligue 1
+23.01.2016;Guingamp;Bastia;1;0;Ligue 1
+23.01.2016;Nantes;Bordeaux;2;2;Ligue 1
+23.01.2016;Lille;Troyes;1;3;Ligue 1
+23.01.2016;Montpellier;Caen;1;2;Ligue 1
+23.01.2016;Nice;Lorient;2;1;Ligue 1
+24.01.2016;Monaco;Toulouse;4;0;Ligue 1
+24.01.2016;Reims;St Etienne;1;1;Ligue 1
+24.01.2016;Lyon;Marsilya;1;1;Ligue 1
+15.01.2016;Nice;Angers;2;1;Ligue 1
+16.01.2016;Toulouse;PSG;0;1;Ligue 1
+16.01.2016;Guingamp;Nantes;2;2;Ligue 1
+16.01.2016;Troyes;Rennes;2;4;Ligue 1
+16.01.2016;Bordeaux;Lille;1;0;Ligue 1
+16.01.2016;Gazelec;Reims;2;2;Ligue 1
+16.01.2016;Bastia;Montpellier;1;0;Ligue 1
+17.01.2016;Lorient;Monaco;0;2;Ligue 1
+17.01.2016;Caen;Marsilya;1;3;Ligue 1
+17.01.2016;St Etienne;Lyon;1;0;Ligue 1
+08.01.2016;PSG;Bastia;2;0;Ligue 1
+09.01.2016;Lyon;Troyes;4;1;Ligue 1
+09.01.2016;Angers;Caen;2;0;Ligue 1
+09.01.2016;Monaco;Gazelec;2;2;Ligue 1
+09.01.2016;Montpellier;Bordeaux;0;1;Ligue 1
+09.01.2016;Reims;Toulouse;1;3;Ligue 1
+09.01.2016;Rennes;Lorient;2;2;Ligue 1
+10.01.2016;Nantes;St Etienne;2;1;Ligue 1
+10.01.2016;Lille;Nice;1;1;Ligue 1
+10.01.2016;Marsilya;Guingamp;0;0;Ligue 1
+18.12.2015;Nice;Montpellier;1;0;Ligue 1
+19.12.2015;Caen;PSG;0;3;Ligue 1
+19.12.2015;Guingamp;Rennes;0;2;Ligue 1
+19.12.2015;Troyes;Monaco;0;0;Ligue 1
+19.12.2015;Lorient;Nantes;0;0;Ligue 1
+19.12.2015;Bastia;Reims;2;0;Ligue 1
+19.12.2015;Toulouse;Lille;1;1;Ligue 1
+20.12.2015;St Etienne;Angers;1;0;Ligue 1
+20.12.2015;Gazelec;Lyon;2;1;Ligue 1
+20.12.2015;Bordeaux;Marsilya;1;1;Ligue 1
+11.12.2015;Rennes;Caen;1;1;Ligue 1
+12.12.2015;Reims;Nice;1;1;Ligue 1
+12.12.2015;Troyes;Bastia;1;1;Ligue 1
+12.12.2015;Nantes;Toulouse;1;1;Ligue 1
+12.12.2015;Lille;Lorient;3;0;Ligue 1
+12.12.2015;Montpellier;Guingamp;2;1;Ligue 1
+13.12.2015;Monaco;St Etienne;1;0;Ligue 1
+13.12.2015;Angers;Bordeaux;1;1;Ligue 1
+13.12.2015;Marsilya;Gazelec;1;1;Ligue 1
+13.12.2015;PSG;Lyon;5;1;Ligue 1
+04.12.2015;Nice;PSG;0;3;Ligue 1
+05.12.2015;Lyon;Angers;0;2;Ligue 1
+05.12.2015;Gazelec;Nantes;1;1;Ligue 1
+05.12.2015;Bastia;Monaco;1;2;Ligue 1
+05.12.2015;Caen;Lille;1;2;Ligue 1
+05.12.2015;Reims;Troyes;1;1;Ligue 1
+05.12.2015;Toulouse;Lorient;2;3;Ligue 1
+06.12.2015;Marsilya;Montpellier;2;2;Ligue 1
+06.12.2015;Bordeaux;Guingamp;1;0;Ligue 1
+06.12.2015;St Etienne;Rennes;1;1;Ligue 1
+01.12.2015;Angers;PSG;0;0;Ligue 1
+01.12.2015;Lorient;Nice;0;0;Ligue 1
+01.12.2015;Nantes;Lyon;0;0;Ligue 1
+02.12.2015;Monaco;Caen;1;1;Ligue 1
+02.12.2015;Guingamp;Reims;1;2;Ligue 1
+02.12.2015;Troyes;Toulouse;0;3;Ligue 1
+02.12.2015;Montpellier;Gazelec;0;2;Ligue 1
+02.12.2015;Bastia;Bordeaux;1;0;Ligue 1
+02.12.2015;Lille;St Etienne;1;0;Ligue 1
+03.12.2015;Rennes;Marsilya;0;1;Ligue 1
+27.11.2015;Lyon;Montpellier;2;4;Ligue 1
+28.11.2015;PSG;Troyes;4;1;Ligue 1
+28.11.2015;Angers;Lille;2;0;Ligue 1
+28.11.2015;Nantes;Bastia;0;0;Ligue 1
+28.11.2015;Gazelec;Lorient;1;1;Ligue 1
+28.11.2015;Reims;Rennes;2;2;Ligue 1
+28.11.2015;Toulouse;Nice;2;0;Ligue 1
+29.11.2015;St Etienne;Guingamp;3;0;Ligue 1
+29.11.2015;Bordeaux;Caen;1;4;Ligue 1
+29.11.2015;Marsilya;Monaco;3;3;Ligue 1
+20.11.2015;Nice;Lyon;3;0;Ligue 1
+21.11.2015;Lorient;PSG;1;2;Ligue 1
+21.11.2015;Monaco;Nantes;1;0;Ligue 1
+21.11.2015;Guingamp;Toulouse;2;0;Ligue 1
+21.11.2015;Troyes;Lille;1;1;Ligue 1
+21.11.2015;Montpellier;Reims;3;1;Ligue 1
+22.11.2015;Bastia;Gazelec;1;2;Ligue 1
+22.11.2015;Caen;Angers;0;0;Ligue 1
+22.11.2015;Rennes;Bordeaux;2;2;Ligue 1
+22.11.2015;St Etienne;Marsilya;0;2;Ligue 1
+06.11.2015;Angers;Rennes;0;2;Ligue 1
+07.11.2015;PSG;Toulouse;5;0;Ligue 1
+07.11.2015;Lorient;Troyes;4;1;Ligue 1
+07.11.2015;Lille;Bastia;1;1;Ligue 1
+07.11.2015;Montpellier;Nantes;2;1;Ligue 1
+07.11.2015;Caen;Guingamp;2;1;Ligue 1
+07.11.2015;Reims;Gazelec;1;2;Ligue 1
+08.11.2015;Marsilya;Nice;0;1;Ligue 1
+08.11.2015;Bordeaux;Monaco;3;1;Ligue 1
+08.11.2015;Lyon;St Etienne;3;0;Ligue 1
+30.10.2015;Rennes;PSG;0;1;Ligue 1
+31.10.2015;St Etienne;Reims;3;0;Ligue 1
+31.10.2015;Guingamp;Lorient;2;2;Ligue 1
+31.10.2015;Troyes;Lyon;0;1;Ligue 1
+31.10.2015;Gazelec;Bordeaux;2;0;Ligue 1
+31.10.2015;Bastia;Caen;1;0;Ligue 1
+31.10.2015;Toulouse;Montpellier;1;1;Ligue 1
+01.11.2015;Nice;Lille;0;0;Ligue 1
+01.11.2015;Monaco;Angers;1;0;Ligue 1
+01.11.2015;Nantes;Marsilya;0;1;Ligue 1
+23.10.2015;Caen;Nantes;0;2;Ligue 1
+23.10.2015;Lyon;Toulouse;3;0;Ligue 1
+24.10.2015;Lorient;Rennes;1;1;Ligue 1
+24.10.2015;Angers;Guingamp;0;0;Ligue 1
+24.10.2015;Gazelec;Nice;3;1;Ligue 1
+24.10.2015;Montpellier;Bastia;2;0;Ligue 1
+25.10.2015;Reims;Monaco;0;1;Ligue 1
+25.10.2015;Bordeaux;Troyes;1;0;Ligue 1
+25.10.2015;Lille;Marsilya;1;2;Ligue 1
+25.10.2015;PSG;St Etienne;4;1;Ligue 1
+16.10.2015;Monaco;Lyon;1;1;Ligue 1
+17.10.2015;Bastia;PSG;0;2;Ligue 1
+17.10.2015;St Etienne;Gazelec;2;0;Ligue 1
+17.10.2015;Guingamp;Lille;1;1;Ligue 1
+17.10.2015;Nantes;Troyes;3;0;Ligue 1
+17.10.2015;Reims;Caen;0;1;Ligue 1
+17.10.2015;Toulouse;Angers;1;2;Ligue 1
+18.10.2015;Marsilya;Lorient;1;1;Ligue 1
+18.10.2015;Bordeaux;Montpellier;0;0;Ligue 1
+18.10.2015;Rennes;Nice;1;4;Ligue 1
+02.10.2015;Lille;Montpellier;2;0;Ligue 1
+03.10.2015;Lyon;Reims;1;0;Ligue 1
+03.10.2015;Angers;Bastia;1;0;Ligue 1
+03.10.2015;Troyes;Guingamp;0;1;Ligue 1
+03.10.2015;Gazelec;Toulouse;2;2;Ligue 1
+04.10.2015;Monaco;Rennes;1;1;Ligue 1
+04.10.2015;Lorient;Bordeaux;3;2;Ligue 1
+04.10.2015;Caen;St Etienne;1;0;Ligue 1
+04.10.2015;PSG;Marsilya;2;1;Ligue 1
+04.11.2015;Nice;Nantes;1;2;Ligue 1
+25.09.2015;Reims;Lille;1;0;Ligue 1
+26.09.2015;Nantes;PSG;1;4;Ligue 1
+26.09.2015;Bordeaux;Lyon;3;1;Ligue 1
+26.09.2015;Bastia;Toulouse;3;0;Ligue 1
+26.09.2015;Caen;Gazelec;2;0;Ligue 1
+26.09.2015;Rennes;Troyes;1;1;Ligue 1
+27.09.2015;Marsilya;Angers;1;2;Ligue 1
+27.09.2015;Guingamp;Monaco;3;3;Ligue 1
+27.09.2015;Montpellier;Lorient;2;1;Ligue 1
+27.09.2015;St Etienne;Nice;1;4;Ligue 1
+22.09.2015;Angers;Reims;0;0;Ligue 1
+22.09.2015;PSG;Guingamp;3;0;Ligue 1
+23.09.2015;Troyes;St Etienne;0;1;Ligue 1
+23.09.2015;Lorient;Caen;2;0;Ligue 1
+23.09.2015;Gazelec;Rennes;1;1;Ligue 1
+23.09.2015;Nice;Bordeaux;6;1;Ligue 1
+23.09.2015;Lyon;Bastia;2;0;Ligue 1
+23.09.2015;Toulouse;Marsilya;1;1;Ligue 1
+24.09.2015;Montpellier;Monaco;2;3;Ligue 1
+29.09.2015;Lille;Nantes;0;1;Ligue 1
+18.09.2015;Rennes;Lille;1;1;Ligue 1
+19.09.2015;Reims;PSG;1;1;Ligue 1
+19.09.2015;Angers;Troyes;1;0;Ligue 1
+19.09.2015;Guingamp;Gazelec;2;1;Ligue 1
+19.09.2015;Bastia;Nice;1;3;Ligue 1
+19.09.2015;Caen;Montpellier;2;1;Ligue 1
+20.09.2015;Bordeaux;Toulouse;1;1;Ligue 1
+20.09.2015;Monaco;Lorient;2;3;Ligue 1
+20.09.2015;St Etienne;Nantes;2;0;Ligue 1
+20.09.2015;Marsilya;Lyon;1;1;Ligue 1
+11.09.2015;PSG;Bordeaux;2;2;Ligue 1
+12.09.2015;Lyon;Lille;0;0;Ligue 1
+12.09.2015;Troyes;Caen;1;3;Ligue 1
+12.09.2015;Lorient;Angers;3;1;Ligue 1
+12.09.2015;Montpellier;St Etienne;1;2;Ligue 1
+12.09.2015;Nice;Guingamp;0;1;Ligue 1
+12.09.2015;Toulouse;Reims;2;2;Ligue 1
+13.09.2015;Gazelec;Monaco;0;1;Ligue 1
+13.09.2015;Nantes;Rennes;0;2;Ligue 1
+13.09.2015;Marsilya;Bastia;4;1;Ligue 1
+28.08.2015;Guingamp;Marsilya;2;0;Ligue 1
+29.08.2015;Caen;Lyon;0;4;Ligue 1
+29.08.2015;Angers;Nice;1;1;Ligue 1
+29.08.2015;Troyes;Montpellier;0;0;Ligue 1
+29.08.2015;Lille;Gazelec;1;0;Ligue 1
+29.08.2015;Reims;Lorient;4;1;Ligue 1
+29.08.2015;Rennes;Toulouse;3;1;Ligue 1
+30.08.2015;St Etienne;Bastia;2;1;Ligue 1
+30.08.2015;Bordeaux;Nantes;2;0;Ligue 1
+30.08.2015;Monaco;PSG;0;3;Ligue 1
+21.08.2015;Montpellier;PSG;0;1;Ligue 1
+22.08.2015;Lyon;Rennes;1;2;Ligue 1
+22.08.2015;Nantes;Reims;1;0;Ligue 1
+22.08.2015;Gazelec;Angers;0;2;Ligue 1
+22.08.2015;Nice;Caen;2;1;Ligue 1
+22.08.2015;Bastia;Guingamp;3;0;Ligue 1
+22.08.2015;Toulouse;Monaco;1;1;Ligue 1
+23.08.2015;Lille;Bordeaux;0;0;Ligue 1
+23.08.2015;Lorient;St Etienne;0;1;Ligue 1
+23.08.2015;Marsilya;Troyes;6;0;Ligue 1
+14.08.2015;Monaco;Lille;0;0;Ligue 1
+15.08.2015;St Etienne;Bordeaux;1;1;Ligue 1
+15.08.2015;Angers;Nantes;0;0;Ligue 1
+15.08.2015;Guingamp;Lyon;0;1;Ligue 1
+15.08.2015;Troyes;Nice;3;3;Ligue 1
+15.08.2015;Caen;Toulouse;1;0;Ligue 1
+15.08.2015;Rennes;Montpellier;1;0;Ligue 1
+16.08.2015;Reims;Marsilya;1;0;Ligue 1
+16.08.2015;Lorient;Bastia;1;1;Ligue 1
+16.08.2015;PSG;Gazelec;2;0;Ligue 1
+07.08.2015;Lille;PSG;0;1;Ligue 1
+08.08.2015;Nantes;Guingamp;1;0;Ligue 1
+08.08.2015;Montpellier;Angers;0;2;Ligue 1
+08.08.2015;Nice;Monaco;1;2;Ligue 1
+08.08.2015;Marsilya;Caen;0;1;Ligue 1
+08.08.2015;Bastia;Rennes;2;1;Ligue 1
+08.08.2015;Troyes;Gazelec;0;0;Ligue 1
+09.08.2015;Bordeaux;Reims;1;2;Ligue 1
+09.08.2015;Toulouse;St Etienne;2;1;Ligue 1
+09.08.2015;Lyon;Lorient;0;0;Ligue 1

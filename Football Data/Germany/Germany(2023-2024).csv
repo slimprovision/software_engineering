@@ -1,0 +1,309 @@
+﻿date;home_team;away_team;home_score;away_score;League
+23.05.2024;Bochum;F. Düsseldorf;0;3;Bundesliga
+27.05.2024;F. Düsseldorf;Bochum;0;3;Bundesliga
+18.05.2024;B. Dortmund;Darmstadt 98;4;0;Bundesliga
+18.05.2024;Union Berlin;Freiburg;2;1;Bundesliga
+18.05.2024;B. Leverkusen;Augsburg;2;1;Bundesliga
+18.05.2024;E. Frankfurt;Leipzig;2;2;Bundesliga
+18.05.2024;Wolfsburg;Mainz;1;3;Bundesliga
+18.05.2024;Hoffenheim;Bayern Münih;4;2;Bundesliga
+18.05.2024;Werder Bremen;Bochum;4;1;Bundesliga
+18.05.2024;Stuttgart;M'gladbach;4;0;Bundesliga
+18.05.2024;Heidenheim;Köln;4;1;Bundesliga
+10.05.2024;Augsburg;Stuttgart;0;1;Bundesliga
+11.05.2024;Leipzig;Werder Bremen;1;1;Bundesliga
+11.05.2024;Freiburg;Heidenheim;1;1;Bundesliga
+11.05.2024;M'gladbach;E. Frankfurt;1;1;Bundesliga
+11.05.2024;Köln;Union Berlin;3;2;Bundesliga
+11.05.2024;Mainz;B. Dortmund;3;0;Bundesliga
+12.05.2024;Darmstadt 98;Hoffenheim;0;6;Bundesliga
+12.05.2024;Bayern Münih;Wolfsburg;2;0;Bundesliga
+12.05.2024;Bochum;B. Leverkusen;0;5;Bundesliga
+03.05.2024;Hoffenheim;Leipzig;1;1;Bundesliga
+04.05.2024;B. Dortmund;Augsburg;5;1;Bundesliga
+04.05.2024;Wolfsburg;Darmstadt 98;3;0;Bundesliga
+04.05.2024;Werder Bremen;M'gladbach;2;2;Bundesliga
+04.05.2024;Stuttgart;Bayern Münih;3;1;Bundesliga
+04.05.2024;Köln;Freiburg;0;0;Bundesliga
+05.05.2024;Union Berlin;Bochum;3;4;Bundesliga
+05.05.2024;E. Frankfurt;B. Leverkusen;1;5;Bundesliga
+05.05.2024;Heidenheim;Mainz;1;1;Bundesliga
+26.04.2024;Bochum;Hoffenheim;3;2;Bundesliga
+27.04.2024;Bayern Münih;E. Frankfurt;2;1;Bundesliga
+27.04.2024;Leipzig;B. Dortmund;4;1;Bundesliga
+27.04.2024;Freiburg;Wolfsburg;1;2;Bundesliga
+27.04.2024;Augsburg;Werder Bremen;0;3;Bundesliga
+27.04.2024;B. Leverkusen;Stuttgart;2;2;Bundesliga
+28.04.2024;M'gladbach;Union Berlin;0;0;Bundesliga
+28.04.2024;Mainz;Köln;1;1;Bundesliga
+28.04.2024;Darmstadt 98;Heidenheim;0;1;Bundesliga
+19.04.2024;E. Frankfurt;Augsburg;3;1;Bundesliga
+20.04.2024;Wolfsburg;Bochum;1;0;Bundesliga
+20.04.2024;Köln;Darmstadt 98;0;2;Bundesliga
+20.04.2024;Hoffenheim;M'gladbach;4;3;Bundesliga
+20.04.2024;Heidenheim;Leipzig;1;2;Bundesliga
+20.04.2024;Union Berlin;Bayern Münih;1;5;Bundesliga
+21.04.2024;Werder Bremen;Stuttgart;2;1;Bundesliga
+21.04.2024;B. Dortmund;B. Leverkusen;1;1;Bundesliga
+21.04.2024;Freiburg;Mainz;1;1;Bundesliga
+12.04.2024;Augsburg;Union Berlin;2;0;Bundesliga
+13.04.2024;Bayern Münih;Köln;2;0;Bundesliga
+13.04.2024;Leipzig;Wolfsburg;3;0;Bundesliga
+13.04.2024;Mainz;Hoffenheim;4;1;Bundesliga
+13.04.2024;M'gladbach;B. Dortmund;1;2;Bundesliga
+13.04.2024;Bochum;Heidenheim;1;1;Bundesliga
+13.04.2024;Stuttgart;E. Frankfurt;3;0;Bundesliga
+14.04.2024;Darmstadt 98;Freiburg;0;1;Bundesliga
+14.04.2024;B. Leverkusen;Werder Bremen;5;0;Bundesliga
+05.04.2024;E. Frankfurt;Werder Bremen;1;1;Bundesliga
+06.04.2024;Union Berlin;B. Leverkusen;0;1;Bundesliga
+06.04.2024;Freiburg;Leipzig;1;4;Bundesliga
+06.04.2024;Mainz;Darmstadt 98;4;0;Bundesliga
+06.04.2024;Köln;Bochum;2;1;Bundesliga
+06.04.2024;Heidenheim;Bayern Münih;3;2;Bundesliga
+06.04.2024;B. Dortmund;Stuttgart;0;1;Bundesliga
+07.04.2024;Hoffenheim;Augsburg;3;1;Bundesliga
+07.04.2024;Wolfsburg;M'gladbach;1;3;Bundesliga
+30.03.2024;Leipzig;Mainz;0;0;Bundesliga
+30.03.2024;B. Leverkusen;Hoffenheim;2;1;Bundesliga
+30.03.2024;E. Frankfurt;Union Berlin;0;0;Bundesliga
+30.03.2024;M'gladbach;Freiburg;0;3;Bundesliga
+30.03.2024;Werder Bremen;Wolfsburg;0;2;Bundesliga
+30.03.2024;Bayern Münih;B. Dortmund;0;2;Bundesliga
+31.03.2024;Augsburg;Köln;1;1;Bundesliga
+31.03.2024;Stuttgart;Heidenheim;3;3;Bundesliga
+31.03.2024;Bochum;Darmstadt 98;2;2;Bundesliga
+15.03.2024;Köln;Leipzig;1;5;Bundesliga
+16.03.2024;Union Berlin;Werder Bremen;2;1;Bundesliga
+16.03.2024;Wolfsburg;Augsburg;1;3;Bundesliga
+16.03.2024;Mainz;Bochum;2;0;Bundesliga
+16.03.2024;Heidenheim;M'gladbach;1;1;Bundesliga
+16.03.2024;Darmstadt 98;Bayern Münih;2;5;Bundesliga
+16.03.2024;Hoffenheim;Stuttgart;0;3;Bundesliga
+17.03.2024;Freiburg;B. Leverkusen;2;3;Bundesliga
+17.03.2024;B. Dortmund;E. Frankfurt;3;1;Bundesliga
+08.03.2024;Stuttgart;Union Berlin;2;0;Bundesliga
+09.03.2024;Bayern Münih;Mainz;8;1;Bundesliga
+09.03.2024;Leipzig;Darmstadt 98;2;0;Bundesliga
+09.03.2024;M'gladbach;Köln;3;3;Bundesliga
+09.03.2024;Augsburg;Heidenheim;1;0;Bundesliga
+09.03.2024;Werder Bremen;B. Dortmund;1;2;Bundesliga
+10.03.2024;Bochum;Freiburg;1;2;Bundesliga
+10.03.2024;E. Frankfurt;Hoffenheim;3;1;Bundesliga
+10.03.2024;B. Leverkusen;Wolfsburg;2;0;Bundesliga
+01.03.2024;Freiburg;Bayern Münih;2;2;Bundesliga
+02.03.2024;Union Berlin;B. Dortmund;0;2;Bundesliga
+02.03.2024;Mainz;M'gladbach;1;1;Bundesliga
+02.03.2024;Bochum;Leipzig;1;4;Bundesliga
+02.03.2024;Heidenheim;E. Frankfurt;1;2;Bundesliga
+02.03.2024;Darmstadt 98;Augsburg;0;6;Bundesliga
+02.03.2024;Wolfsburg;Stuttgart;2;3;Bundesliga
+03.03.2024;Köln;B. Leverkusen;0;2;Bundesliga
+03.03.2024;Hoffenheim;Werder Bremen;2;1;Bundesliga
+23.02.2024;B. Leverkusen;Mainz;2;1;Bundesliga
+24.02.2024;Union Berlin;Heidenheim;2;2;Bundesliga
+24.02.2024;M'gladbach;Bochum;5;2;Bundesliga
+24.02.2024;Werder Bremen;Darmstadt 98;1;1;Bundesliga
+24.02.2024;Stuttgart;Köln;1;1;Bundesliga
+24.02.2024;Bayern Münih;Leipzig;2;1;Bundesliga
+25.02.2024;E. Frankfurt;Wolfsburg;2;2;Bundesliga
+25.02.2024;B. Dortmund;Hoffenheim;2;3;Bundesliga
+25.02.2024;Augsburg;Freiburg;2;1;Bundesliga
+16.02.2024;Köln;Werder Bremen;0;1;Bundesliga
+17.02.2024;Wolfsburg;B. Dortmund;1;1;Bundesliga
+17.02.2024;Mainz;Augsburg;1;0;Bundesliga
+17.02.2024;Hoffenheim;Union Berlin;0;1;Bundesliga
+17.02.2024;Heidenheim;B. Leverkusen;1;2;Bundesliga
+17.02.2024;Darmstadt 98;Stuttgart;1;2;Bundesliga
+17.02.2024;Leipzig;M'gladbach;2;0;Bundesliga
+18.02.2024;Freiburg;E. Frankfurt;3;3;Bundesliga
+18.02.2024;Bochum;Bayern Münih;3;2;Bundesliga
+09.02.2024;B. Dortmund;Freiburg;3;0;Bundesliga
+10.02.2024;Union Berlin;Wolfsburg;1;0;Bundesliga
+10.02.2024;E. Frankfurt;Bochum;1;1;Bundesliga
+10.02.2024;M'gladbach;Darmstadt 98;0;0;Bundesliga
+10.02.2024;Werder Bremen;Heidenheim;1;2;Bundesliga
+10.02.2024;Augsburg;Leipzig;2;2;Bundesliga
+10.02.2024;B. Leverkusen;Bayern Münih;3;0;Bundesliga
+11.02.2024;Stuttgart;Mainz;3;1;Bundesliga
+11.02.2024;Hoffenheim;Köln;1;1;Bundesliga
+02.02.2024;Heidenheim;B. Dortmund;0;0;Bundesliga
+03.02.2024;Bayern Münih;M'gladbach;3;1;Bundesliga
+03.02.2024;Freiburg;Stuttgart;1;3;Bundesliga
+03.02.2024;Mainz;Werder Bremen;0;1;Bundesliga
+03.02.2024;Bochum;Augsburg;1;1;Bundesliga
+03.02.2024;Darmstadt 98;B. Leverkusen;0;2;Bundesliga
+03.02.2024;Köln;E. Frankfurt;2;0;Bundesliga
+04.02.2024;Wolfsburg;Hoffenheim;2;2;Bundesliga
+04.02.2024;Leipzig;Union Berlin;2;0;Bundesliga
+26.01.2024;E. Frankfurt;Mainz;1;0;Bundesliga
+27.01.2024;Wolfsburg;Köln;1;1;Bundesliga
+27.01.2024;Hoffenheim;Heidenheim;1;1;Bundesliga
+27.01.2024;Werder Bremen;Freiburg;3;1;Bundesliga
+27.01.2024;Augsburg;Bayern Münih;2;3;Bundesliga
+27.01.2024;Stuttgart;Leipzig;5;2;Bundesliga
+27.01.2024;B. Leverkusen;M'gladbach;0;0;Bundesliga
+28.01.2024;Union Berlin;Darmstadt 98;1;0;Bundesliga
+28.01.2024;B. Dortmund;Bochum;3;1;Bundesliga
+20.01.2024;Freiburg;Hoffenheim;3;2;Bundesliga
+20.01.2024;Köln;B. Dortmund;0;4;Bundesliga
+20.01.2024;Bochum;Stuttgart;1;0;Bundesliga
+20.01.2024;Heidenheim;Wolfsburg;1;1;Bundesliga
+20.01.2024;Darmstadt 98;E. Frankfurt;2;2;Bundesliga
+20.01.2024;Leipzig;B. Leverkusen;2;3;Bundesliga
+21.01.2024;Bayern Münih;Werder Bremen;0;1;Bundesliga
+21.01.2024;M'gladbach;Augsburg;1;2;Bundesliga
+07.02.2024;Mainz;Union Berlin;1;1;Bundesliga
+12.01.2024;Bayern Münih;Hoffenheim;3;0;Bundesliga
+13.01.2024;Leipzig;E. Frankfurt;0;1;Bundesliga
+13.01.2024;Freiburg;Union Berlin;0;0;Bundesliga
+13.01.2024;Mainz;Wolfsburg;1;1;Bundesliga
+13.01.2024;Köln;Heidenheim;1;1;Bundesliga
+13.01.2024;Augsburg;B. Leverkusen;0;1;Bundesliga
+13.01.2024;Darmstadt 98;B. Dortmund;0;3;Bundesliga
+14.01.2024;Bochum;Werder Bremen;1;1;Bundesliga
+14.01.2024;M'gladbach;Stuttgart;3;1;Bundesliga
+19.12.2023;Werder Bremen;Leipzig;1;1;Bundesliga
+19.12.2023;B. Dortmund;Mainz;1;1;Bundesliga
+19.12.2023;Hoffenheim;Darmstadt 98;3;3;Bundesliga
+20.12.2023;Union Berlin;Köln;2;0;Bundesliga
+20.12.2023;B. Leverkusen;Bochum;4;0;Bundesliga
+20.12.2023;E. Frankfurt;M'gladbach;2;1;Bundesliga
+20.12.2023;Wolfsburg;Bayern Münih;1;2;Bundesliga
+20.12.2023;Stuttgart;Augsburg;3;0;Bundesliga
+20.12.2023;Heidenheim;Freiburg;3;2;Bundesliga
+15.12.2023;M'gladbach;Werder Bremen;2;2;Bundesliga
+16.12.2023;Mainz;Heidenheim;0;1;Bundesliga
+16.12.2023;Bochum;Union Berlin;3;0;Bundesliga
+16.12.2023;Augsburg;B. Dortmund;1;1;Bundesliga
+16.12.2023;Darmstadt 98;Wolfsburg;0;1;Bundesliga
+16.12.2023;Leipzig;Hoffenheim;3;1;Bundesliga
+17.12.2023;Freiburg;Köln;2;0;Bundesliga
+17.12.2023;B. Leverkusen;E. Frankfurt;3;0;Bundesliga
+17.12.2023;Bayern Münih;Stuttgart;3;0;Bundesliga
+08.12.2023;Hoffenheim;Bochum;3;1;Bundesliga
+09.12.2023;Union Berlin;M'gladbach;3;1;Bundesliga
+09.12.2023;E. Frankfurt;Bayern Münih;5;1;Bundesliga
+09.12.2023;Wolfsburg;Freiburg;0;1;Bundesliga
+09.12.2023;Werder Bremen;Augsburg;2;0;Bundesliga
+09.12.2023;Heidenheim;Darmstadt 98;3;2;Bundesliga
+09.12.2023;B. Dortmund;Leipzig;2;3;Bundesliga
+10.12.2023;Stuttgart;B. Leverkusen;1;1;Bundesliga
+10.12.2023;Köln;Mainz;0;0;Bundesliga
+01.12.2023;Darmstadt 98;Köln;0;1;Bundesliga
+02.12.2023;Leipzig;Heidenheim;2;1;Bundesliga
+02.12.2023;M'gladbach;Hoffenheim;2;1;Bundesliga
+02.12.2023;Bochum;Wolfsburg;3;1;Bundesliga
+02.12.2023;Stuttgart;Werder Bremen;2;0;Bundesliga
+03.12.2023;Mainz;Freiburg;0;1;Bundesliga
+03.12.2023;B. Leverkusen;B. Dortmund;1;1;Bundesliga
+03.12.2023;Augsburg;E. Frankfurt;2;1;Bundesliga
+24.01.2024;Bayern Münih;Union Berlin;1;0;Bundesliga
+24.11.2023;Köln;Bayern Münih;0;1;Bundesliga
+25.11.2023;B. Dortmund;M'gladbach;4;2;Bundesliga
+25.11.2023;Union Berlin;Augsburg;1;1;Bundesliga
+25.11.2023;Freiburg;Darmstadt 98;1;1;Bundesliga
+25.11.2023;Wolfsburg;Leipzig;2;1;Bundesliga
+25.11.2023;Werder Bremen;B. Leverkusen;0;3;Bundesliga
+25.11.2023;E. Frankfurt;Stuttgart;1;2;Bundesliga
+26.11.2023;Heidenheim;Bochum;0;0;Bundesliga
+26.11.2023;Hoffenheim;Mainz;1;1;Bundesliga
+10.11.2023;M'gladbach;Wolfsburg;4;0;Bundesliga
+11.11.2023;Bayern Münih;Heidenheim;4;2;Bundesliga
+11.11.2023;Augsburg;Hoffenheim;1;1;Bundesliga
+11.11.2023;Stuttgart;B. Dortmund;2;1;Bundesliga
+11.11.2023;Darmstadt 98;Mainz;0;0;Bundesliga
+11.11.2023;Bochum;Köln;1;1;Bundesliga
+12.11.2023;B. Leverkusen;Union Berlin;4;0;Bundesliga
+12.11.2023;Werder Bremen;E. Frankfurt;2;2;Bundesliga
+12.11.2023;Leipzig;Freiburg;3;1;Bundesliga
+03.11.2023;Darmstadt 98;Bochum;1;2;Bundesliga
+04.11.2023;Union Berlin;E. Frankfurt;0;3;Bundesliga
+04.11.2023;Freiburg;M'gladbach;3;3;Bundesliga
+04.11.2023;Mainz;Leipzig;2;0;Bundesliga
+04.11.2023;Köln;Augsburg;1;1;Bundesliga
+04.11.2023;Hoffenheim;B. Leverkusen;2;3;Bundesliga
+04.11.2023;B. Dortmund;Bayern Münih;0;4;Bundesliga
+05.11.2023;Wolfsburg;Werder Bremen;2;2;Bundesliga
+05.11.2023;Heidenheim;Stuttgart;2;0;Bundesliga
+27.10.2023;Bochum;Mainz;2;2;Bundesliga
+28.10.2023;Bayern Münih;Darmstadt 98;8;0;Bundesliga
+28.10.2023;M'gladbach;Heidenheim;2;1;Bundesliga
+28.10.2023;Werder Bremen;Union Berlin;2;0;Bundesliga
+28.10.2023;Augsburg;Wolfsburg;3;2;Bundesliga
+28.10.2023;Stuttgart;Hoffenheim;2;3;Bundesliga
+28.10.2023;Leipzig;Köln;6;0;Bundesliga
+29.10.2023;E. Frankfurt;B. Dortmund;3;3;Bundesliga
+29.10.2023;B. Leverkusen;Freiburg;2;1;Bundesliga
+20.10.2023;B. Dortmund;Werder Bremen;1;0;Bundesliga
+21.10.2023;Union Berlin;Stuttgart;0;3;Bundesliga
+21.10.2023;Freiburg;Bochum;2;1;Bundesliga
+21.10.2023;Wolfsburg;B. Leverkusen;1;2;Bundesliga
+21.10.2023;Hoffenheim;E. Frankfurt;1;3;Bundesliga
+21.10.2023;Darmstadt 98;Leipzig;1;3;Bundesliga
+21.10.2023;Mainz;Bayern Münih;1;3;Bundesliga
+22.10.2023;Köln;M'gladbach;3;1;Bundesliga
+22.10.2023;Heidenheim;Augsburg;2;5;Bundesliga
+06.10.2023;M'gladbach;Mainz;2;2;Bundesliga
+07.10.2023;B. Dortmund;Union Berlin;4;2;Bundesliga
+07.10.2023;Leipzig;Bochum;0;0;Bundesliga
+07.10.2023;Augsburg;Darmstadt 98;1;2;Bundesliga
+07.10.2023;Stuttgart;Wolfsburg;3;1;Bundesliga
+07.10.2023;Werder Bremen;Hoffenheim;2;3;Bundesliga
+08.10.2023;B. Leverkusen;Köln;3;0;Bundesliga
+08.10.2023;Bayern Münih;Freiburg;3;0;Bundesliga
+08.10.2023;E. Frankfurt;Heidenheim;2;0;Bundesliga
+29.09.2023;Hoffenheim;B. Dortmund;1;3;Bundesliga
+30.09.2023;Wolfsburg;E. Frankfurt;2;0;Bundesliga
+30.09.2023;Mainz;B. Leverkusen;0;3;Bundesliga
+30.09.2023;Köln;Stuttgart;0;2;Bundesliga
+30.09.2023;Bochum;M'gladbach;1;3;Bundesliga
+30.09.2023;Heidenheim;Union Berlin;1;0;Bundesliga
+30.09.2023;Leipzig;Bayern Münih;2;2;Bundesliga
+01.10.2023;Darmstadt 98;Werder Bremen;4;2;Bundesliga
+01.10.2023;Freiburg;Augsburg;2;0;Bundesliga
+22.09.2023;Stuttgart;Darmstadt 98;3;1;Bundesliga
+23.09.2023;Bayern Münih;Bochum;7;0;Bundesliga
+23.09.2023;B. Dortmund;Wolfsburg;1;0;Bundesliga
+23.09.2023;Union Berlin;Hoffenheim;0;2;Bundesliga
+23.09.2023;M'gladbach;Leipzig;0;1;Bundesliga
+23.09.2023;Augsburg;Mainz;2;1;Bundesliga
+23.09.2023;Werder Bremen;Köln;2;1;Bundesliga
+24.09.2023;B. Leverkusen;Heidenheim;4;1;Bundesliga
+24.09.2023;E. Frankfurt;Freiburg;0;0;Bundesliga
+15.09.2023;Bayern Münih;B. Leverkusen;2;2;Bundesliga
+16.09.2023;Leipzig;Augsburg;3;0;Bundesliga
+16.09.2023;Freiburg;B. Dortmund;2;4;Bundesliga
+16.09.2023;Wolfsburg;Union Berlin;2;1;Bundesliga
+16.09.2023;Mainz;Stuttgart;1;3;Bundesliga
+16.09.2023;Köln;Hoffenheim;1;3;Bundesliga
+16.09.2023;Bochum;E. Frankfurt;1;1;Bundesliga
+17.09.2023;Heidenheim;Werder Bremen;4;2;Bundesliga
+17.09.2023;Darmstadt 98;M'gladbach;3;3;Bundesliga
+01.09.2023;B. Dortmund;Heidenheim;2;2;Bundesliga
+02.09.2023;B. Leverkusen;Darmstadt 98;5;1;Bundesliga
+02.09.2023;Hoffenheim;Wolfsburg;3;1;Bundesliga
+02.09.2023;Werder Bremen;Mainz;4;0;Bundesliga
+02.09.2023;Augsburg;Bochum;2;2;Bundesliga
+02.09.2023;Stuttgart;Freiburg;5;0;Bundesliga
+02.09.2023;M'gladbach;Bayern Münih;1;2;Bundesliga
+03.09.2023;E. Frankfurt;Köln;1;1;Bundesliga
+03.09.2023;Union Berlin;Leipzig;0;3;Bundesliga
+25.08.2023;Leipzig;Stuttgart;5;1;Bundesliga
+26.08.2023;Freiburg;Werder Bremen;1;0;Bundesliga
+26.08.2023;Köln;Wolfsburg;1;2;Bundesliga
+26.08.2023;Bochum;B. Dortmund;1;1;Bundesliga
+26.08.2023;Heidenheim;Hoffenheim;2;3;Bundesliga
+26.08.2023;Darmstadt 98;Union Berlin;1;4;Bundesliga
+26.08.2023;M'gladbach;B. Leverkusen;0;3;Bundesliga
+27.08.2023;Mainz;E. Frankfurt;1;1;Bundesliga
+27.08.2023;Bayern Münih;Augsburg;3;1;Bundesliga
+18.08.2023;Werder Bremen;Bayern Münih;0;4;Bundesliga
+19.08.2023;B. Leverkusen;Leipzig;3;2;Bundesliga
+19.08.2023;Wolfsburg;Heidenheim;2;0;Bundesliga
+19.08.2023;Hoffenheim;Freiburg;1;2;Bundesliga
+19.08.2023;Augsburg;M'gladbach;4;4;Bundesliga
+19.08.2023;Stuttgart;Bochum;5;0;Bundesliga
+19.08.2023;B. Dortmund;Köln;1;0;Bundesliga
+20.08.2023;Union Berlin;Mainz;4;1;Bundesliga
+20.08.2023;E. Frankfurt;Darmstadt 98;1;0;Bundesliga

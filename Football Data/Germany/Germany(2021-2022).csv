@@ -1,0 +1,307 @@
+﻿date;home_team;away_team;home_score;away_score;League
+14.05.2022;B. Dortmund;Hertha Berlin;2;1;Bundesliga
+14.05.2022;Wolfsburg;Bayern Münih;2;2;Bundesliga
+14.05.2022;B. Leverkusen;Freiburg;2;1;Bundesliga
+14.05.2022;Union Berlin;Bochum;3;2;Bundesliga
+14.05.2022;M'gladbach;Hoffenheim;5;1;Bundesliga
+14.05.2022;Stuttgart;Köln;2;1;Bundesliga
+14.05.2022;Mainz;E. Frankfurt;2;2;Bundesliga
+14.05.2022;Augsburg;Greuther Fürth;2;1;Bundesliga
+14.05.2022;A. Bielefeld;Leipzig;1;1;Bundesliga
+06.05.2022;Bochum;A. Bielefeld;2;1;Bundesliga
+07.05.2022;Freiburg;Union Berlin;1;4;Bundesliga
+07.05.2022;Hoffenheim;B. Leverkusen;2;4;Bundesliga
+07.05.2022;Köln;Wolfsburg;0;1;Bundesliga
+07.05.2022;Greuther Fürth;B. Dortmund;1;3;Bundesliga
+07.05.2022;Hertha Berlin;Mainz;1;2;Bundesliga
+08.05.2022;E. Frankfurt;M'gladbach;1;1;Bundesliga
+08.05.2022;Bayern Münih;Stuttgart;2;2;Bundesliga
+08.05.2022;Leipzig;Augsburg;4;0;Bundesliga
+29.04.2022;Union Berlin;Greuther Fürth;1;1;Bundesliga
+30.04.2022;B. Dortmund;Bochum;3;4;Bundesliga
+30.04.2022;Stuttgart;Wolfsburg;1;1;Bundesliga
+30.04.2022;Mainz;Bayern Münih;3;1;Bundesliga
+30.04.2022;Augsburg;Köln;1;4;Bundesliga
+30.04.2022;A. Bielefeld;Hertha Berlin;1;1;Bundesliga
+30.04.2022;Hoffenheim;Freiburg;3;4;Bundesliga
+02.05.2022;B. Leverkusen;E. Frankfurt;2;0;Bundesliga
+02.05.2022;M'gladbach;Leipzig;3;1;Bundesliga
+22.04.2022;Wolfsburg;Mainz;5;0;Bundesliga
+23.04.2022;Leipzig;Union Berlin;1;2;Bundesliga
+23.04.2022;E. Frankfurt;Hoffenheim;2;2;Bundesliga
+23.04.2022;Freiburg;M'gladbach;3;3;Bundesliga
+23.04.2022;Köln;A. Bielefeld;3;1;Bundesliga
+23.04.2022;Greuther Fürth;B. Leverkusen;1;4;Bundesliga
+23.04.2022;Bayern Münih;B. Dortmund;3;1;Bundesliga
+24.04.2022;Bochum;Augsburg;0;2;Bundesliga
+24.04.2022;Hertha Berlin;Stuttgart;2;0;Bundesliga
+16.04.2022;B. Dortmund;Wolfsburg;6;1;Bundesliga
+16.04.2022;Freiburg;Bochum;3;0;Bundesliga
+16.04.2022;Mainz;Stuttgart;0;0;Bundesliga
+16.04.2022;Augsburg;Hertha Berlin;0;1;Bundesliga
+16.04.2022;M'gladbach;Köln;1;3;Bundesliga
+17.04.2022;A. Bielefeld;Bayern Münih;0;3;Bundesliga
+17.04.2022;Union Berlin;E. Frankfurt;2;0;Bundesliga
+17.04.2022;Hoffenheim;Greuther Fürth;0;0;Bundesliga
+17.04.2022;B. Leverkusen;Leipzig;0;1;Bundesliga
+08.04.2022;Stuttgart;B. Dortmund;0;2;Bundesliga
+09.04.2022;Bayern Münih;Augsburg;1;0;Bundesliga
+09.04.2022;Wolfsburg;A. Bielefeld;4;0;Bundesliga
+09.04.2022;Köln;Mainz;3;2;Bundesliga
+09.04.2022;Greuther Fürth;M'gladbach;0;2;Bundesliga
+09.04.2022;Hertha Berlin;Union Berlin;1;4;Bundesliga
+10.04.2022;Bochum;B. Leverkusen;0;0;Bundesliga
+10.04.2022;E. Frankfurt;Freiburg;1;2;Bundesliga
+10.04.2022;Leipzig;Hoffenheim;3;0;Bundesliga
+01.04.2022;Union Berlin;Köln;1;0;Bundesliga
+02.04.2022;E. Frankfurt;Greuther Fürth;0;0;Bundesliga
+02.04.2022;B. Leverkusen;Hertha Berlin;2;1;Bundesliga
+02.04.2022;Freiburg;Bayern Münih;1;4;Bundesliga
+02.04.2022;Hoffenheim;Bochum;1;2;Bundesliga
+02.04.2022;A. Bielefeld;Stuttgart;1;1;Bundesliga
+02.04.2022;B. Dortmund;Leipzig;1;4;Bundesliga
+03.04.2022;Augsburg;Wolfsburg;3;0;Bundesliga
+03.04.2022;M'gladbach;Mainz;1;1;Bundesliga
+18.03.2022;Bochum;M'gladbach;0;2;Bundesliga
+19.03.2022;Stuttgart;Augsburg;3;2;Bundesliga
+19.03.2022;Mainz;A. Bielefeld;4;0;Bundesliga
+19.03.2022;Hertha Berlin;Hoffenheim;3;0;Bundesliga
+19.03.2022;Greuther Fürth;Freiburg;0;0;Bundesliga
+19.03.2022;Bayern Münih;Union Berlin;4;0;Bundesliga
+20.03.2022;Leipzig;E. Frankfurt;0;0;Bundesliga
+20.03.2022;Wolfsburg;B. Leverkusen;0;2;Bundesliga
+20.03.2022;Köln;B. Dortmund;1;1;Bundesliga
+12.03.2022;Union Berlin;Stuttgart;1;1;Bundesliga
+12.03.2022;Freiburg;Wolfsburg;3;2;Bundesliga
+12.03.2022;Hoffenheim;Bayern Münih;1;1;Bundesliga
+12.03.2022;M'gladbach;Hertha Berlin;2;0;Bundesliga
+13.03.2022;B. Leverkusen;Köln;0;1;Bundesliga
+13.03.2022;B. Dortmund;A. Bielefeld;1;0;Bundesliga
+13.03.2022;E. Frankfurt;Bochum;2;1;Bundesliga
+13.03.2022;Greuther Fürth;Leipzig;1;6;Bundesliga
+06.04.2022;Augsburg;Mainz;2;1;Bundesliga
+04.03.2022;A. Bielefeld;Augsburg;0;1;Bundesliga
+05.03.2022;Bayern Münih;B. Leverkusen;1;1;Bundesliga
+05.03.2022;Leipzig;Freiburg;1;1;Bundesliga
+05.03.2022;Wolfsburg;Union Berlin;1;0;Bundesliga
+05.03.2022;Hertha Berlin;E. Frankfurt;1;4;Bundesliga
+05.03.2022;Bochum;Greuther Fürth;2;1;Bundesliga
+05.03.2022;Stuttgart;M'gladbach;3;2;Bundesliga
+06.03.2022;Köln;Hoffenheim;0;1;Bundesliga
+16.03.2022;Mainz;B. Dortmund;0;1;Bundesliga
+25.02.2022;Hoffenheim;Stuttgart;2;1;Bundesliga
+26.02.2022;B. Leverkusen;A. Bielefeld;3;0;Bundesliga
+26.02.2022;Union Berlin;Mainz;3;1;Bundesliga
+26.02.2022;M'gladbach;Wolfsburg;2;2;Bundesliga
+26.02.2022;Freiburg;Hertha Berlin;3;0;Bundesliga
+26.02.2022;Greuther Fürth;Köln;1;1;Bundesliga
+26.02.2022;E. Frankfurt;Bayern Münih;0;1;Bundesliga
+27.02.2022;Bochum;Leipzig;0;1;Bundesliga
+27.02.2022;Augsburg;B. Dortmund;1;1;Bundesliga
+18.02.2022;Mainz;B. Leverkusen;3;2;Bundesliga
+19.02.2022;Wolfsburg;Hoffenheim;1;2;Bundesliga
+19.02.2022;Stuttgart;Bochum;1;1;Bundesliga
+19.02.2022;Augsburg;Freiburg;1;2;Bundesliga
+19.02.2022;A. Bielefeld;Union Berlin;1;0;Bundesliga
+19.02.2022;Köln;E. Frankfurt;1;0;Bundesliga
+20.02.2022;Bayern Münih;Greuther Fürth;4;1;Bundesliga
+20.02.2022;B. Dortmund;M'gladbach;6;0;Bundesliga
+20.02.2022;Hertha Berlin;Leipzig;1;6;Bundesliga
+11.02.2022;Leipzig;Köln;3;1;Bundesliga
+12.02.2022;E. Frankfurt;Wolfsburg;0;2;Bundesliga
+12.02.2022;M'gladbach;Augsburg;3;2;Bundesliga
+12.02.2022;Freiburg;Mainz;1;1;Bundesliga
+12.02.2022;Bochum;Bayern Münih;4;2;Bundesliga
+12.02.2022;Greuther Fürth;Hertha Berlin;2;1;Bundesliga
+12.02.2022;B. Leverkusen;Stuttgart;4;2;Bundesliga
+13.02.2022;Union Berlin;B. Dortmund;0;3;Bundesliga
+13.02.2022;Hoffenheim;A. Bielefeld;2;0;Bundesliga
+04.02.2022;Hertha Berlin;Bochum;1;1;Bundesliga
+05.02.2022;Stuttgart;E. Frankfurt;2;3;Bundesliga
+05.02.2022;Mainz;Hoffenheim;2;0;Bundesliga
+05.02.2022;Augsburg;Union Berlin;2;0;Bundesliga
+05.02.2022;A. Bielefeld;M'gladbach;1;1;Bundesliga
+05.02.2022;Köln;Freiburg;1;0;Bundesliga
+05.02.2022;Bayern Münih;Leipzig;3;2;Bundesliga
+06.02.2022;B. Dortmund;B. Leverkusen;2;5;Bundesliga
+06.02.2022;Wolfsburg;Greuther Fürth;4;1;Bundesliga
+21.01.2022;E. Frankfurt;A. Bielefeld;0;2;Bundesliga
+22.01.2022;B. Leverkusen;Augsburg;5;1;Bundesliga
+22.01.2022;M'gladbach;Union Berlin;1;2;Bundesliga
+22.01.2022;Freiburg;Stuttgart;2;0;Bundesliga
+22.01.2022;Hoffenheim;B. Dortmund;2;3;Bundesliga
+22.01.2022;Greuther Fürth;Mainz;2;1;Bundesliga
+22.01.2022;Bochum;Köln;2;2;Bundesliga
+23.01.2022;Leipzig;Wolfsburg;2;0;Bundesliga
+23.01.2022;Hertha Berlin;Bayern Münih;1;4;Bundesliga
+14.01.2022;B. Dortmund;Freiburg;5;1;Bundesliga
+15.01.2022;Wolfsburg;Hertha Berlin;0;0;Bundesliga
+15.01.2022;Union Berlin;Hoffenheim;2;1;Bundesliga
+15.01.2022;Stuttgart;Leipzig;0;2;Bundesliga
+15.01.2022;Mainz;Bochum;1;0;Bundesliga
+15.01.2022;Köln;Bayern Münih;0;4;Bundesliga
+15.01.2022;M'gladbach;B. Leverkusen;1;2;Bundesliga
+16.01.2022;Augsburg;E. Frankfurt;1;1;Bundesliga
+16.01.2022;A. Bielefeld;Greuther Fürth;2;2;Bundesliga
+07.01.2022;Bayern Münih;M'gladbach;1;2;Bundesliga
+08.01.2022;Leipzig;Mainz;4;1;Bundesliga
+08.01.2022;B. Leverkusen;Union Berlin;2;2;Bundesliga
+08.01.2022;Freiburg;A. Bielefeld;2;2;Bundesliga
+08.01.2022;Hoffenheim;Augsburg;3;1;Bundesliga
+08.01.2022;Greuther Fürth;Stuttgart;0;0;Bundesliga
+08.01.2022;E. Frankfurt;B. Dortmund;2;3;Bundesliga
+09.01.2022;Hertha Berlin;Köln;1;3;Bundesliga
+09.01.2022;Bochum;Wolfsburg;1;0;Bundesliga
+17.12.2021;Bayern Münih;Wolfsburg;4;0;Bundesliga
+18.12.2021;Leipzig;A. Bielefeld;0;2;Bundesliga
+18.12.2021;E. Frankfurt;Mainz;1;0;Bundesliga
+18.12.2021;Hoffenheim;M'gladbach;1;1;Bundesliga
+18.12.2021;Bochum;Union Berlin;0;1;Bundesliga
+18.12.2021;Greuther Fürth;Augsburg;0;0;Bundesliga
+18.12.2021;Hertha Berlin;B. Dortmund;3;2;Bundesliga
+19.12.2021;Freiburg;B. Leverkusen;2;1;Bundesliga
+19.12.2021;Köln;Stuttgart;1;0;Bundesliga
+14.12.2021;Stuttgart;Bayern Münih;0;5;Bundesliga
+14.12.2021;Wolfsburg;Köln;2;3;Bundesliga
+14.12.2021;Mainz;Hertha Berlin;4;0;Bundesliga
+14.12.2021;A. Bielefeld;Bochum;2;0;Bundesliga
+15.12.2021;M'gladbach;E. Frankfurt;2;3;Bundesliga
+15.12.2021;B. Dortmund;Greuther Fürth;3;0;Bundesliga
+15.12.2021;B. Leverkusen;Hoffenheim;2;2;Bundesliga
+15.12.2021;Union Berlin;Freiburg;0;0;Bundesliga
+15.12.2021;Augsburg;Leipzig;1;1;Bundesliga
+10.12.2021;Köln;Augsburg;0;2;Bundesliga
+11.12.2021;Bayern Münih;Mainz;2;1;Bundesliga
+11.12.2021;Leipzig;M'gladbach;4;1;Bundesliga
+11.12.2021;Freiburg;Hoffenheim;1;2;Bundesliga
+11.12.2021;Hertha Berlin;A. Bielefeld;2;0;Bundesliga
+11.12.2021;Bochum;B. Dortmund;1;1;Bundesliga
+11.12.2021;Wolfsburg;Stuttgart;0;2;Bundesliga
+12.12.2021;Greuther Fürth;Union Berlin;1;0;Bundesliga
+12.12.2021;E. Frankfurt;B. Leverkusen;5;2;Bundesliga
+03.12.2021;Union Berlin;Leipzig;2;1;Bundesliga
+04.12.2021;B. Leverkusen;Greuther Fürth;7;1;Bundesliga
+04.12.2021;Hoffenheim;E. Frankfurt;3;2;Bundesliga
+04.12.2021;Mainz;Wolfsburg;3;0;Bundesliga
+04.12.2021;Augsburg;Bochum;2;3;Bundesliga
+04.12.2021;A. Bielefeld;Köln;1;1;Bundesliga
+04.12.2021;B. Dortmund;Bayern Münih;2;3;Bundesliga
+05.12.2021;Stuttgart;Hertha Berlin;2;2;Bundesliga
+05.12.2021;M'gladbach;Freiburg;0;6;Bundesliga
+26.11.2021;Stuttgart;Mainz;2;1;Bundesliga
+27.11.2021;Wolfsburg;B. Dortmund;1;3;Bundesliga
+27.11.2021;Hertha Berlin;Augsburg;1;1;Bundesliga
+27.11.2021;Köln;M'gladbach;4;1;Bundesliga
+27.11.2021;Bochum;Freiburg;2;1;Bundesliga
+27.11.2021;Greuther Fürth;Hoffenheim;3;6;Bundesliga
+27.11.2021;Bayern Münih;A. Bielefeld;1;0;Bundesliga
+28.11.2021;E. Frankfurt;Union Berlin;2;1;Bundesliga
+28.11.2021;Leipzig;B. Leverkusen;1;3;Bundesliga
+19.11.2021;Augsburg;Bayern Münih;2;1;Bundesliga
+20.11.2021;B. Dortmund;Stuttgart;2;1;Bundesliga
+20.11.2021;B. Leverkusen;Bochum;1;0;Bundesliga
+20.11.2021;M'gladbach;Greuther Fürth;4;0;Bundesliga
+20.11.2021;Hoffenheim;Leipzig;2;0;Bundesliga
+20.11.2021;A. Bielefeld;Wolfsburg;2;2;Bundesliga
+20.11.2021;Union Berlin;Hertha Berlin;2;0;Bundesliga
+21.11.2021;Freiburg;E. Frankfurt;0;2;Bundesliga
+21.11.2021;Mainz;Köln;1;1;Bundesliga
+05.11.2021;Mainz;M'gladbach;1;1;Bundesliga
+06.11.2021;Bayern Münih;Freiburg;2;1;Bundesliga
+06.11.2021;Wolfsburg;Augsburg;1;0;Bundesliga
+06.11.2021;Stuttgart;A. Bielefeld;0;1;Bundesliga
+06.11.2021;Bochum;Hoffenheim;2;0;Bundesliga
+06.11.2021;Leipzig;B. Dortmund;2;1;Bundesliga
+07.11.2021;Hertha Berlin;B. Leverkusen;1;1;Bundesliga
+07.11.2021;Köln;Union Berlin;2;2;Bundesliga
+07.11.2021;Greuther Fürth;E. Frankfurt;1;2;Bundesliga
+29.10.2021;Hoffenheim;Hertha Berlin;2;0;Bundesliga
+30.10.2021;B. Dortmund;Köln;2;0;Bundesliga
+30.10.2021;B. Leverkusen;Wolfsburg;0;2;Bundesliga
+30.10.2021;Union Berlin;Bayern Münih;2;5;Bundesliga
+30.10.2021;Freiburg;Greuther Fürth;3;1;Bundesliga
+30.10.2021;A. Bielefeld;Mainz;1;2;Bundesliga
+30.10.2021;E. Frankfurt;Leipzig;1;1;Bundesliga
+31.10.2021;Augsburg;Stuttgart;4;1;Bundesliga
+31.10.2021;M'gladbach;Bochum;2;1;Bundesliga
+22.10.2021;Mainz;Augsburg;4;1;Bundesliga
+23.10.2021;Bayern Münih;Hoffenheim;4;0;Bundesliga
+23.10.2021;Leipzig;Greuther Fürth;4;1;Bundesliga
+23.10.2021;Wolfsburg;Freiburg;0;2;Bundesliga
+23.10.2021;A. Bielefeld;B. Dortmund;1;3;Bundesliga
+23.10.2021;Hertha Berlin;M'gladbach;1;0;Bundesliga
+24.10.2021;Köln;B. Leverkusen;2;2;Bundesliga
+24.10.2021;Stuttgart;Union Berlin;1;1;Bundesliga
+24.10.2021;Bochum;E. Frankfurt;2;0;Bundesliga
+15.10.2021;Hoffenheim;Köln;5;0;Bundesliga
+16.10.2021;B. Dortmund;Mainz;3;1;Bundesliga
+16.10.2021;E. Frankfurt;Hertha Berlin;1;2;Bundesliga
+16.10.2021;Union Berlin;Wolfsburg;2;0;Bundesliga
+16.10.2021;Freiburg;Leipzig;1;1;Bundesliga
+16.10.2021;Greuther Fürth;Bochum;0;1;Bundesliga
+16.10.2021;M'gladbach;Stuttgart;1;1;Bundesliga
+17.10.2021;B. Leverkusen;Bayern Münih;1;5;Bundesliga
+17.10.2021;Augsburg;A. Bielefeld;1;1;Bundesliga
+01.10.2021;Köln;Greuther Fürth;3;1;Bundesliga
+02.10.2021;B. Dortmund;Augsburg;2;1;Bundesliga
+02.10.2021;Wolfsburg;M'gladbach;1;3;Bundesliga
+02.10.2021;Stuttgart;Hoffenheim;3;1;Bundesliga
+02.10.2021;Hertha Berlin;Freiburg;1;2;Bundesliga
+02.10.2021;Leipzig;Bochum;3;0;Bundesliga
+03.10.2021;Mainz;Union Berlin;1;2;Bundesliga
+03.10.2021;Bayern Münih;E. Frankfurt;1;2;Bundesliga
+03.10.2021;A. Bielefeld;B. Leverkusen;0;4;Bundesliga
+24.09.2021;Greuther Fürth;Bayern Münih;1;3;Bundesliga
+25.09.2021;Leipzig;Hertha Berlin;6;0;Bundesliga
+25.09.2021;E. Frankfurt;Köln;1;1;Bundesliga
+25.09.2021;B. Leverkusen;Mainz;1;0;Bundesliga
+25.09.2021;Union Berlin;A. Bielefeld;1;0;Bundesliga
+25.09.2021;Hoffenheim;Wolfsburg;3;1;Bundesliga
+25.09.2021;M'gladbach;B. Dortmund;1;0;Bundesliga
+26.09.2021;Bochum;Stuttgart;0;0;Bundesliga
+26.09.2021;Freiburg;Augsburg;3;0;Bundesliga
+17.09.2021;Hertha Berlin;Greuther Fürth;2;1;Bundesliga
+18.09.2021;Bayern Münih;Bochum;7;0;Bundesliga
+18.09.2021;Mainz;Freiburg;0;0;Bundesliga
+18.09.2021;Augsburg;M'gladbach;1;0;Bundesliga
+18.09.2021;A. Bielefeld;Hoffenheim;0;0;Bundesliga
+18.09.2021;Köln;Leipzig;1;1;Bundesliga
+19.09.2021;Stuttgart;B. Leverkusen;1;3;Bundesliga
+19.09.2021;B. Dortmund;Union Berlin;4;2;Bundesliga
+19.09.2021;Wolfsburg;E. Frankfurt;1;1;Bundesliga
+11.09.2021;B. Leverkusen;B. Dortmund;3;4;Bundesliga
+11.09.2021;Union Berlin;Augsburg;0;0;Bundesliga
+11.09.2021;Freiburg;Köln;1;1;Bundesliga
+11.09.2021;Hoffenheim;Mainz;0;2;Bundesliga
+11.09.2021;Greuther Fürth;Wolfsburg;0;2;Bundesliga
+11.09.2021;Leipzig;Bayern Münih;1;4;Bundesliga
+12.09.2021;E. Frankfurt;Stuttgart;1;1;Bundesliga
+12.09.2021;Bochum;Hertha Berlin;1;3;Bundesliga
+12.09.2021;M'gladbach;A. Bielefeld;3;1;Bundesliga
+27.08.2021;B. Dortmund;Hoffenheim;3;2;Bundesliga
+28.08.2021;Stuttgart;Freiburg;2;3;Bundesliga
+28.08.2021;Mainz;Greuther Fürth;3;0;Bundesliga
+28.08.2021;Augsburg;B. Leverkusen;1;4;Bundesliga
+28.08.2021;A. Bielefeld;E. Frankfurt;1;1;Bundesliga
+28.08.2021;Köln;Bochum;2;1;Bundesliga
+28.08.2021;Bayern Münih;Hertha Berlin;5;0;Bundesliga
+29.08.2021;Union Berlin;M'gladbach;2;1;Bundesliga
+29.08.2021;Wolfsburg;Leipzig;1;0;Bundesliga
+20.08.2021;Leipzig;Stuttgart;4;0;Bundesliga
+21.08.2021;E. Frankfurt;Augsburg;0;0;Bundesliga
+21.08.2021;Freiburg;B. Dortmund;2;1;Bundesliga
+21.08.2021;Hertha Berlin;Wolfsburg;1;2;Bundesliga
+21.08.2021;Bochum;Mainz;2;0;Bundesliga
+21.08.2021;Greuther Fürth;A. Bielefeld;1;1;Bundesliga
+21.08.2021;B. Leverkusen;M'gladbach;4;0;Bundesliga
+22.08.2021;Hoffenheim;Union Berlin;2;2;Bundesliga
+22.08.2021;Bayern Münih;Köln;3;2;Bundesliga
+13.08.2021;M'gladbach;Bayern Münih;1;1;Bundesliga
+14.08.2021;Wolfsburg;Bochum;1;0;Bundesliga
+14.08.2021;Union Berlin;B. Leverkusen;1;1;Bundesliga
+14.08.2021;Stuttgart;Greuther Fürth;5;1;Bundesliga
+14.08.2021;Augsburg;Hoffenheim;0;4;Bundesliga
+14.08.2021;A. Bielefeld;Freiburg;0;0;Bundesliga
+14.08.2021;B. Dortmund;E. Frankfurt;5;2;Bundesliga
+15.08.2021;Mainz;Leipzig;1;0;Bundesliga
+15.08.2021;Köln;Hertha Berlin;3;1;Bundesliga

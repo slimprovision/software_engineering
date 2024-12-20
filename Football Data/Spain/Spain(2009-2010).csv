@@ -1,0 +1,381 @@
+date;home_team;away_team;home_score;away_score;League
+15.05.2010;Ath. Bilbao;Deportivo;2;0;La Liga
+15.05.2010;Atl. Madrid;Getafe;0;3;La Liga
+15.05.2010;Real Zaragoza;Villarreal;3;3;La Liga
+15.05.2010;Almeria;Sevilla;2;3;La Liga
+15.05.2010;Mallorca;Espanyol;2;0;La Liga
+16.05.2010;R. Santander;Sporting Gijon;2;0;La Liga
+16.05.2010;Barcelona;R. Valladolid;4;0;La Liga
+16.05.2010;Valencia;Tenerife;1;0;La Liga
+16.05.2010;Osasuna;Xerez;1;1;La Liga
+16.05.2010;Malaga;Real Madrid;1;1;La Liga
+08.05.2010;Getafe;Malaga;2;1;La Liga
+08.05.2010;Sporting Gijon;Atl. Madrid;1;1;La Liga
+08.05.2010;R. Valladolid;R. Santander;2;1;La Liga
+08.05.2010;Sevilla;Barcelona;2;3;La Liga
+08.05.2010;Tenerife;Almeria;2;2;La Liga
+08.05.2010;Villarreal;Valencia;2;0;La Liga
+08.05.2010;Xerez;Real Zaragoza;3;2;La Liga
+08.05.2010;Espanyol;Osasuna;2;1;La Liga
+08.05.2010;Deportivo;Mallorca;1;0;La Liga
+08.05.2010;Real Madrid;Ath. Bilbao;5;1;La Liga
+04.05.2010;Getafe;Sporting Gijon;1;1;La Liga
+04.05.2010;Barcelona;Tenerife;4;1;La Liga
+04.05.2010;Almeria;Villarreal;4;2;La Liga
+04.05.2010;Valencia;Xerez;3;1;La Liga
+05.05.2010;Atl. Madrid;R. Valladolid;3;1;La Liga
+05.05.2010;R. Santander;Sevilla;1;5;La Liga
+05.05.2010;Real Zaragoza;Espanyol;1;0;La Liga
+05.05.2010;Osasuna;Deportivo;3;1;La Liga
+05.05.2010;Ath. Bilbao;Malaga;1;1;La Liga
+05.05.2010;Mallorca;Real Madrid;1;4;La Liga
+01.05.2010;Malaga;Sporting Gijon;1;1;La Liga
+01.05.2010;R. Valladolid;Getafe;0;0;La Liga
+01.05.2010;Tenerife;R. Santander;2;1;La Liga
+01.05.2010;Xerez;Almeria;2;1;La Liga
+01.05.2010;Deportivo;Real Zaragoza;0;1;La Liga
+01.05.2010;Espanyol;Valencia;0;2;La Liga
+01.05.2010;Villarreal;Barcelona;1;4;La Liga
+02.05.2010;Sevilla;Atl. Madrid;3;1;La Liga
+02.05.2010;Real Madrid;Osasuna;3;2;La Liga
+02.05.2010;Ath. Bilbao;Mallorca;1;3;La Liga
+24.04.2010;Barcelona;Xerez;3;1;La Liga
+24.04.2010;Real Zaragoza;Real Madrid;1;2;La Liga
+24.04.2010;Valencia;Deportivo;1;0;La Liga
+25.04.2010;Sporting Gijon;R. Valladolid;0;2;La Liga
+25.04.2010;R. Santander;Villarreal;1;2;La Liga
+25.04.2010;Almeria;Espanyol;0;1;La Liga
+25.04.2010;Mallorca;Malaga;1;1;La Liga
+25.04.2010;Atl. Madrid;Tenerife;3;1;La Liga
+25.04.2010;Getafe;Sevilla;4;3;La Liga
+26.04.2010;Osasuna;Ath. Bilbao;0;0;La Liga
+17.04.2010;Sevilla;Sporting Gijon;3;0;La Liga
+17.04.2010;Espanyol;Barcelona;0;0;La Liga
+17.04.2010;Villarreal;Atl. Madrid;2;1;La Liga
+18.04.2010;Malaga;R. Valladolid;0;0;La Liga
+18.04.2010;Tenerife;Getafe;3;2;La Liga
+18.04.2010;Xerez;R. Santander;2;2;La Liga
+18.04.2010;Deportivo;Almeria;0;0;La Liga
+18.04.2010;Ath. Bilbao;Real Zaragoza;0;0;La Liga
+18.04.2010;Real Madrid;Valencia;2;0;La Liga
+19.04.2010;Mallorca;Osasuna;2;0;La Liga
+13.04.2010;R. Valladolid;Sevilla;2;1;La Liga
+13.04.2010;Sporting Gijon;Tenerife;0;2;La Liga
+13.04.2010;Getafe;Villarreal;3;0;La Liga
+14.04.2010;Atl. Madrid;Xerez;1;2;La Liga
+14.04.2010;R. Santander;Espanyol;3;1;La Liga
+14.04.2010;Real Zaragoza;Mallorca;1;1;La Liga
+14.04.2010;Osasuna;Malaga;2;2;La Liga
+14.04.2010;Barcelona;Deportivo;3;0;La Liga
+15.04.2010;Almeria;Real Madrid;1;2;La Liga
+15.04.2010;Valencia;Ath. Bilbao;2;0;La Liga
+10.04.2010;Malaga;Sevilla;1;2;La Liga
+10.04.2010;Tenerife;R. Valladolid;0;0;La Liga
+10.04.2010;Villarreal;Sporting Gijon;1;0;La Liga
+10.04.2010;Xerez;Getafe;0;1;La Liga
+10.04.2010;Real Madrid;Barcelona;0;2;La Liga
+11.04.2010;Deportivo;R. Santander;1;1;La Liga
+11.04.2010;Ath. Bilbao;Almeria;4;1;La Liga
+11.04.2010;Osasuna;Real Zaragoza;2;0;La Liga
+11.04.2010;Espanyol;Atl. Madrid;3;0;La Liga
+11.04.2010;Mallorca;Valencia;3;2;La Liga
+03.04.2010;Real Zaragoza;Malaga;2;0;La Liga
+03.04.2010;Barcelona;Ath. Bilbao;4;1;La Liga
+03.04.2010;Sevilla;Tenerife;3;0;La Liga
+04.04.2010;R. Valladolid;Villarreal;0;2;La Liga
+04.04.2010;Sporting Gijon;Xerez;2;2;La Liga
+04.04.2010;Getafe;Espanyol;1;1;La Liga
+04.04.2010;Almeria;Mallorca;1;1;La Liga
+04.04.2010;Valencia;Osasuna;3;0;La Liga
+04.04.2010;R. Santander;Real Madrid;0;2;La Liga
+04.04.2010;Atl. Madrid;Deportivo;3;0;La Liga
+27.03.2010;Malaga;Tenerife;1;1;La Liga
+27.03.2010;Mallorca;Barcelona;0;1;La Liga
+27.03.2010;Real Zaragoza;Valencia;3;0;La Liga
+28.03.2010;Xerez;R. Valladolid;3;0;La Liga
+28.03.2010;Espanyol;Sporting Gijon;0;0;La Liga
+28.03.2010;Deportivo;Getafe;1;3;La Liga
+28.03.2010;Osasuna;Almeria;1;0;La Liga
+28.03.2010;Villarreal;Sevilla;3;0;La Liga
+28.03.2010;Real Madrid;Atl. Madrid;3;2;La Liga
+29.03.2010;Ath. Bilbao;R. Santander;4;3;La Liga
+23.03.2010;Sporting Gijon;Deportivo;2;1;La Liga
+23.03.2010;Sevilla;Xerez;1;1;La Liga
+24.03.2010;Tenerife;Villarreal;2;2;La Liga
+24.03.2010;R. Valladolid;Espanyol;0;0;La Liga
+24.03.2010;R. Santander;Mallorca;0;0;La Liga
+24.03.2010;Barcelona;Osasuna;2;0;La Liga
+24.03.2010;Almeria;Real Zaragoza;1;0;La Liga
+24.03.2010;Valencia;Malaga;1;0;La Liga
+25.03.2010;Getafe;Real Madrid;2;4;La Liga
+25.03.2010;Atl. Madrid;Ath. Bilbao;2;0;La Liga
+20.03.2010;Xerez;Tenerife;2;1;La Liga
+20.03.2010;Deportivo;R. Valladolid;0;2;La Liga
+20.03.2010;Ath. Bilbao;Getafe;2;2;La Liga
+20.03.2010;Real Madrid;Sporting Gijon;3;1;La Liga
+20.03.2010;Espanyol;Sevilla;2;0;La Liga
+21.03.2010;Malaga;Villarreal;2;0;La Liga
+21.03.2010;Mallorca;Atl. Madrid;4;1;La Liga
+21.03.2010;Osasuna;R. Santander;1;3;La Liga
+21.03.2010;Valencia;Almeria;2;0;La Liga
+21.03.2010;Real Zaragoza;Barcelona;2;4;La Liga
+13.03.2010;Getafe;Mallorca;3;0;La Liga
+13.03.2010;Sporting Gijon;Ath. Bilbao;0;0;La Liga
+13.03.2010;Sevilla;Deportivo;1;1;La Liga
+14.03.2010;Villarreal;Xerez;2;0;La Liga
+14.03.2010;Tenerife;Espanyol;4;1;La Liga
+14.03.2010;R. Santander;Real Zaragoza;0;0;La Liga
+14.03.2010;Almeria;Malaga;1;0;La Liga
+14.03.2010;Barcelona;Valencia;3;0;La Liga
+14.03.2010;R. Valladolid;Real Madrid;1;4;La Liga
+15.03.2010;Atl. Madrid;Osasuna;1;0;La Liga
+06.03.2010;Deportivo;Tenerife;3;1;La Liga
+06.03.2010;Almeria;Barcelona;2;2;La Liga
+06.03.2010;Real Madrid;Sevilla;3;2;La Liga
+07.03.2010;Malaga;Xerez;2;4;La Liga
+07.03.2010;Espanyol;Villarreal;0;0;La Liga
+07.03.2010;Mallorca;Sporting Gijon;3;0;La Liga
+07.03.2010;Osasuna;Getafe;0;0;La Liga
+07.03.2010;Ath. Bilbao;R. Valladolid;2;0;La Liga
+07.03.2010;Real Zaragoza;Atl. Madrid;1;1;La Liga
+08.03.2010;Valencia;R. Santander;0;0;La Liga
+27.02.2010;Getafe;Real Zaragoza;0;2;La Liga
+27.02.2010;Tenerife;Real Madrid;1;5;La Liga
+27.02.2010;Barcelona;Malaga;2;1;La Liga
+28.02.2010;Xerez;Espanyol;1;1;La Liga
+28.02.2010;Villarreal;Deportivo;1;0;La Liga
+28.02.2010;R. Valladolid;Mallorca;1;2;La Liga
+28.02.2010;Sporting Gijon;Osasuna;3;2;La Liga
+28.02.2010;R. Santander;Almeria;0;2;La Liga
+28.02.2010;Sevilla;Ath. Bilbao;0;0;La Liga
+28.02.2010;Atl. Madrid;Valencia;4;1;La Liga
+20.02.2010;Deportivo;Xerez;2;1;La Liga
+20.02.2010;Barcelona;R. Santander;4;0;La Liga
+20.02.2010;Mallorca;Sevilla;1;3;La Liga
+21.02.2010;Malaga;Espanyol;2;1;La Liga
+21.02.2010;Ath. Bilbao;Tenerife;4;1;La Liga
+21.02.2010;Osasuna;R. Valladolid;1;1;La Liga
+21.02.2010;Real Zaragoza;Sporting Gijon;1;3;La Liga
+21.02.2010;Almeria;Atl. Madrid;1;0;La Liga
+21.02.2010;Real Madrid;Villarreal;6;2;La Liga
+22.02.2010;Valencia;Getafe;2;1;La Liga
+13.02.2010;Sporting Gijon;Valencia;1;1;La Liga
+13.02.2010;Xerez;Real Madrid;0;3;La Liga
+13.02.2010;Villarreal;Ath. Bilbao;2;1;La Liga
+14.02.2010;Espanyol;Deportivo;2;0;La Liga
+14.02.2010;R. Valladolid;Real Zaragoza;1;1;La Liga
+14.02.2010;Getafe;Almeria;2;2;La Liga
+14.02.2010;R. Santander;Malaga;0;3;La Liga
+14.02.2010;Sevilla;Osasuna;1;0;La Liga
+14.02.2010;Atl. Madrid;Barcelona;2;1;La Liga
+15.02.2010;Tenerife;Mallorca;1;0;La Liga
+06.02.2010;Valencia;R. Valladolid;2;0;La Liga
+06.02.2010;Barcelona;Getafe;2;1;La Liga
+06.02.2010;Real Madrid;Espanyol;3;0;La Liga
+07.02.2010;Malaga;Deportivo;0;0;La Liga
+07.02.2010;Ath. Bilbao;Xerez;3;2;La Liga
+07.02.2010;Mallorca;Villarreal;1;0;La Liga
+07.02.2010;Osasuna;Tenerife;1;0;La Liga
+07.02.2010;Almeria;Sporting Gijon;3;1;La Liga
+07.02.2010;Real Zaragoza;Sevilla;2;1;La Liga
+07.02.2010;R. Santander;Atl. Madrid;1;1;La Liga
+30.01.2010;Espanyol;Ath. Bilbao;1;0;La Liga
+30.01.2010;Sporting Gijon;Barcelona;0;1;La Liga
+30.01.2010;Deportivo;Real Madrid;1;3;La Liga
+31.01.2010;Xerez;Mallorca;2;1;La Liga
+31.01.2010;Villarreal;Osasuna;0;2;La Liga
+31.01.2010;Tenerife;Real Zaragoza;1;3;La Liga
+31.01.2010;R. Valladolid;Almeria;1;1;La Liga
+31.01.2010;Getafe;R. Santander;0;0;La Liga
+31.01.2010;Atl. Madrid;Malaga;0;2;La Liga
+31.01.2010;Sevilla;Valencia;2;1;La Liga
+23.01.2010;Sevilla;Almeria;1;0;La Liga
+23.01.2010;R. Valladolid;Barcelona;0;3;La Liga
+23.01.2010;Deportivo;Ath. Bilbao;3;1;La Liga
+24.01.2010;Sporting Gijon;R. Santander;0;1;La Liga
+24.01.2010;Tenerife;Valencia;0;0;La Liga
+24.01.2010;Villarreal;Real Zaragoza;4;2;La Liga
+24.01.2010;Xerez;Osasuna;1;2;La Liga
+24.01.2010;Espanyol;Mallorca;1;1;La Liga
+24.01.2010;Getafe;Atl. Madrid;1;0;La Liga
+24.01.2010;Real Madrid;Malaga;2;0;La Liga
+16.01.2010;Osasuna;Espanyol;2;0;La Liga
+16.01.2010;Ath. Bilbao;Real Madrid;1;0;La Liga
+16.01.2010;Barcelona;Sevilla;4;0;La Liga
+17.01.2010;Malaga;Getafe;1;0;La Liga
+17.01.2010;R. Santander;R. Valladolid;1;1;La Liga
+17.01.2010;Almeria;Tenerife;1;1;La Liga
+17.01.2010;Real Zaragoza;Xerez;0;0;La Liga
+17.01.2010;Mallorca;Deportivo;2;0;La Liga
+17.01.2010;Atl. Madrid;Sporting Gijon;3;2;La Liga
+17.01.2010;Valencia;Villarreal;4;1;La Liga
+09.01.2010;R. Valladolid;Atl. Madrid;0;4;La Liga
+09.01.2010;Sevilla;R. Santander;1;2;La Liga
+09.01.2010;Villarreal;Almeria;1;1;La Liga
+10.01.2010;Sporting Gijon;Getafe;1;0;La Liga
+10.01.2010;Xerez;Valencia;1;3;La Liga
+10.01.2010;Espanyol;Real Zaragoza;2;1;La Liga
+10.01.2010;Deportivo;Osasuna;1;0;La Liga
+10.01.2010;Malaga;Ath. Bilbao;1;1;La Liga
+10.01.2010;Real Madrid;Mallorca;2;0;La Liga
+10.01.2010;Tenerife;Barcelona;0;5;La Liga
+02.01.2010;Valencia;Espanyol;1;0;La Liga
+02.01.2010;Barcelona;Villarreal;1;1;La Liga
+02.01.2010;Atl. Madrid;Sevilla;2;1;La Liga
+03.01.2010;Sporting Gijon;Malaga;2;2;La Liga
+03.01.2010;Getafe;R. Valladolid;1;0;La Liga
+03.01.2010;R. Santander;Tenerife;2;0;La Liga
+03.01.2010;Almeria;Xerez;1;0;La Liga
+03.01.2010;Real Zaragoza;Deportivo;0;0;La Liga
+03.01.2010;Mallorca;Ath. Bilbao;2;0;La Liga
+03.01.2010;Osasuna;Real Madrid;0;0;La Liga
+02.12.2009;Xerez;Barcelona;0;2;La Liga
+19.12.2009;Ath. Bilbao;Osasuna;2;0;La Liga
+19.12.2009;Sevilla;Getafe;1;2;La Liga
+19.12.2009;Real Madrid;Real Zaragoza;6;0;La Liga
+20.12.2009;R. Valladolid;Sporting Gijon;2;1;La Liga
+20.12.2009;Villarreal;R. Santander;2;0;La Liga
+20.12.2009;Espanyol;Almeria;2;0;La Liga
+20.12.2009;Malaga;Mallorca;2;1;La Liga
+20.12.2009;Tenerife;Atl. Madrid;1;1;La Liga
+20.12.2009;Deportivo;Valencia;0;0;La Liga
+12.12.2009;Real Zaragoza;Ath. Bilbao;1;2;La Liga
+12.12.2009;Barcelona;Espanyol;1;0;La Liga
+12.12.2009;Valencia;Real Madrid;2;3;La Liga
+13.12.2009;R. Valladolid;Malaga;1;1;La Liga
+13.12.2009;Getafe;Tenerife;2;1;La Liga
+13.12.2009;R. Santander;Xerez;3;2;La Liga
+13.12.2009;Almeria;Deportivo;1;1;La Liga
+13.12.2009;Osasuna;Mallorca;0;1;La Liga
+13.12.2009;Atl. Madrid;Villarreal;1;2;La Liga
+13.12.2009;Sporting Gijon;Sevilla;0;1;La Liga
+05.12.2009;Sevilla;R. Valladolid;1;1;La Liga
+05.12.2009;Xerez;Atl. Madrid;0;2;La Liga
+05.12.2009;Real Madrid;Almeria;4;2;La Liga
+05.12.2009;Deportivo;Barcelona;1;3;La Liga
+06.12.2009;Tenerife;Sporting Gijon;2;1;La Liga
+06.12.2009;Espanyol;R. Santander;0;4;La Liga
+06.12.2009;Mallorca;Real Zaragoza;4;1;La Liga
+06.12.2009;Malaga;Osasuna;1;1;La Liga
+06.12.2009;Villarreal;Getafe;3;2;La Liga
+06.12.2009;Ath. Bilbao;Valencia;1;2;La Liga
+28.11.2009;Sporting Gijon;Villarreal;1;0;La Liga
+28.11.2009;Valencia;Mallorca;1;1;La Liga
+28.11.2009;Sevilla;Malaga;2;2;La Liga
+29.11.2009;R. Valladolid;Tenerife;3;3;La Liga
+29.11.2009;Getafe;Xerez;5;1;La Liga
+29.11.2009;R. Santander;Deportivo;0;1;La Liga
+29.11.2009;Almeria;Ath. Bilbao;1;4;La Liga
+29.11.2009;Real Zaragoza;Osasuna;0;1;La Liga
+29.11.2009;Barcelona;Real Madrid;1;0;La Liga
+29.11.2009;Atl. Madrid;Espanyol;4;0;La Liga
+21.11.2009;Tenerife;Sevilla;1;2;La Liga
+21.11.2009;Deportivo;Atl. Madrid;2;1;La Liga
+21.11.2009;Real Madrid;R. Santander;1;0;La Liga
+21.11.2009;Ath. Bilbao;Barcelona;1;1;La Liga
+22.11.2009;Villarreal;R. Valladolid;3;1;La Liga
+22.11.2009;Xerez;Sporting Gijon;0;0;La Liga
+22.11.2009;Espanyol;Getafe;0;2;La Liga
+22.11.2009;Mallorca;Almeria;3;1;La Liga
+22.11.2009;Malaga;Real Zaragoza;1;1;La Liga
+22.11.2009;Osasuna;Valencia;1;3;La Liga
+07.11.2009;Tenerife;Malaga;2;2;La Liga
+07.11.2009;Getafe;Deportivo;0;2;La Liga
+07.11.2009;Barcelona;Mallorca;4;2;La Liga
+07.11.2009;Atl. Madrid;Real Madrid;2;3;La Liga
+08.11.2009;R. Valladolid;Xerez;0;0;La Liga
+08.11.2009;Sporting Gijon;Espanyol;1;0;La Liga
+08.11.2009;R. Santander;Ath. Bilbao;0;2;La Liga
+08.11.2009;Almeria;Osasuna;2;0;La Liga
+08.11.2009;Valencia;Real Zaragoza;3;1;La Liga
+08.11.2009;Sevilla;Villarreal;3;2;La Liga
+31.10.2009;Real Madrid;Getafe;2;0;La Liga
+31.10.2009;Xerez;Sevilla;0;2;La Liga
+31.10.2009;Osasuna;Barcelona;1;1;La Liga
+31.10.2009;Ath. Bilbao;Atl. Madrid;1;0;La Liga
+01.11.2009;Villarreal;Tenerife;5;0;La Liga
+01.11.2009;Espanyol;R. Valladolid;1;1;La Liga
+01.11.2009;Mallorca;R. Santander;1;0;La Liga
+01.11.2009;Real Zaragoza;Almeria;2;1;La Liga
+01.11.2009;Malaga;Valencia;0;1;La Liga
+01.11.2009;Deportivo;Sporting Gijon;1;1;La Liga
+24.10.2009;Atl. Madrid;Mallorca;1;1;La Liga
+24.10.2009;Sporting Gijon;Real Madrid;0;0;La Liga
+24.10.2009;Sevilla;Espanyol;0;0;La Liga
+25.10.2009;Villarreal;Malaga;2;1;La Liga
+25.10.2009;Tenerife;Xerez;1;0;La Liga
+25.10.2009;R. Valladolid;Deportivo;4;0;La Liga
+25.10.2009;Getafe;Ath. Bilbao;2;0;La Liga
+25.10.2009;R. Santander;Osasuna;1;1;La Liga
+25.10.2009;Almeria;Valencia;0;3;La Liga
+25.10.2009;Barcelona;Real Zaragoza;6;1;La Liga
+17.10.2009;Deportivo;Sevilla;1;0;La Liga
+17.10.2009;Real Madrid;R. Valladolid;4;2;La Liga
+17.10.2009;Valencia;Barcelona;0;0;La Liga
+18.10.2009;Xerez;Villarreal;2;1;La Liga
+18.10.2009;Espanyol;Tenerife;2;1;La Liga
+18.10.2009;Mallorca;Getafe;3;1;La Liga
+18.10.2009;Real Zaragoza;R. Santander;2;2;La Liga
+18.10.2009;Malaga;Almeria;1;2;La Liga
+18.10.2009;Ath. Bilbao;Sporting Gijon;1;2;La Liga
+18.10.2009;Osasuna;Atl. Madrid;3;0;La Liga
+03.10.2009;Tenerife;Deportivo;0;1;La Liga
+03.10.2009;Barcelona;Almeria;1;0;La Liga
+03.10.2009;Atl. Madrid;Real Zaragoza;2;1;La Liga
+04.10.2009;Xerez;Malaga;1;1;La Liga
+04.10.2009;Villarreal;Espanyol;0;0;La Liga
+04.10.2009;R. Valladolid;Ath. Bilbao;2;2;La Liga
+04.10.2009;Sporting Gijon;Mallorca;4;1;La Liga
+04.10.2009;Getafe;Osasuna;2;1;La Liga
+04.10.2009;R. Santander;Valencia;0;1;La Liga
+04.10.2009;Sevilla;Real Madrid;2;1;La Liga
+26.09.2009;Real Madrid;Tenerife;3;0;La Liga
+26.09.2009;Ath. Bilbao;Sevilla;0;4;La Liga
+26.09.2009;Malaga;Barcelona;0;2;La Liga
+26.09.2009;Valencia;Atl. Madrid;2;2;La Liga
+27.09.2009;Espanyol;Xerez;0;0;La Liga
+27.09.2009;Mallorca;R. Valladolid;3;0;La Liga
+27.09.2009;Osasuna;Sporting Gijon;1;0;La Liga
+27.09.2009;Almeria;R. Santander;2;2;La Liga
+27.09.2009;Real Zaragoza;Getafe;3;0;La Liga
+27.09.2009;Deportivo;Villarreal;1;0;La Liga
+22.09.2009;Sevilla;Mallorca;2;0;La Liga
+22.09.2009;R. Santander;Barcelona;1;4;La Liga
+23.09.2009;Espanyol;Malaga;2;1;La Liga
+23.09.2009;Xerez;Deportivo;0;3;La Liga
+23.09.2009;Villarreal;Real Madrid;0;2;La Liga
+23.09.2009;R. Valladolid;Osasuna;1;2;La Liga
+23.09.2009;Atl. Madrid;Almeria;2;2;La Liga
+23.09.2009;Tenerife;Ath. Bilbao;1;0;La Liga
+23.09.2009;Getafe;Valencia;3;1;La Liga
+24.09.2009;Sporting Gijon;Real Zaragoza;1;1;La Liga
+19.09.2009;Deportivo;Espanyol;2;3;La Liga
+19.09.2009;Mallorca;Tenerife;4;0;La Liga
+19.09.2009;Osasuna;Sevilla;0;2;La Liga
+19.09.2009;Malaga;R. Santander;1;2;La Liga
+19.09.2009;Barcelona;Atl. Madrid;5;2;La Liga
+20.09.2009;Ath. Bilbao;Villarreal;3;2;La Liga
+20.09.2009;Real Zaragoza;R. Valladolid;1;2;La Liga
+20.09.2009;Almeria;Getafe;1;0;La Liga
+20.09.2009;Real Madrid;Xerez;5;0;La Liga
+20.09.2009;Valencia;Sporting Gijon;2;2;La Liga
+12.09.2009;Getafe;Barcelona;0;2;La Liga
+12.09.2009;Atl. Madrid;R. Santander;1;1;La Liga
+12.09.2009;Espanyol;Real Madrid;0;3;La Liga
+12.09.2009;Sevilla;Real Zaragoza;4;1;La Liga
+13.09.2009;Deportivo;Malaga;1;0;La Liga
+13.09.2009;Villarreal;Mallorca;1;1;La Liga
+13.09.2009;Tenerife;Osasuna;2;1;La Liga
+13.09.2009;Sporting Gijon;Almeria;1;0;La Liga
+13.09.2009;R. Valladolid;Valencia;2;4;La Liga
+13.09.2009;Xerez;Ath. Bilbao;0;1;La Liga
+29.08.2009;Real Madrid;Deportivo;3;2;La Liga
+29.08.2009;Real Zaragoza;Tenerife;1;0;La Liga
+30.08.2009;Ath. Bilbao;Espanyol;1;0;La Liga
+30.08.2009;Mallorca;Xerez;2;0;La Liga
+30.08.2009;Osasuna;Villarreal;1;1;La Liga
+30.08.2009;R. Santander;Getafe;1;4;La Liga
+30.08.2009;Malaga;Atl. Madrid;3;0;La Liga
+30.08.2009;Valencia;Sevilla;2;0;La Liga
+30.08.2009;Almeria;R. Valladolid;0;0;La Liga
+31.08.2009;Barcelona;Sporting Gijon;3;0;La Liga

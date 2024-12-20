@@ -1,0 +1,307 @@
+﻿date;home_team;away_team;home_score;away_score;League
+11.08.2000;B. Dortmund;H. Rostock;1;0;Bundesliga
+12.08.2000;Werder Bremen;E. Cottbus;3;1;Bundesliga
+12.08.2000;Bayern Münih;Hertha Berlin;4;1;Bundesliga
+12.08.2000;B. Leverkusen;Wolfsburg;2;0;Bundesliga
+12.08.2000;Hamburg;1860 München;2;2;Bundesliga
+12.08.2000;Freiburg;Stuttgart;4;0;Bundesliga
+12.08.2000;Kaiserslautern;Bochum;0;1;Bundesliga
+13.08.2000;Schalke 04;Köln;2;1;Bundesliga
+13.08.2000;E. Frankfurt;Unterhaching;3;0;Bundesliga
+18.08.2000;E. Cottbus;B. Dortmund;1;4;Bundesliga
+19.08.2000;Stuttgart;B. Leverkusen;4;1;Bundesliga
+19.08.2000;Bochum;Bayern Münih;0;3;Bundesliga
+19.08.2000;Wolfsburg;Kaiserslautern;4;0;Bundesliga
+19.08.2000;Hertha Berlin;Hamburg;4;0;Bundesliga
+19.08.2000;1860 München;Werder Bremen;2;1;Bundesliga
+19.08.2000;Unterhaching;Freiburg;1;1;Bundesliga
+20.08.2000;H. Rostock;Schalke 04;0;4;Bundesliga
+20.08.2000;Köln;E. Frankfurt;4;1;Bundesliga
+05.09.2000;B. Leverkusen;Unterhaching;1;0;Bundesliga
+05.09.2000;Schalke 04;E. Cottbus;3;0;Bundesliga
+05.09.2000;Freiburg;Köln;0;0;Bundesliga
+05.09.2000;Kaiserslautern;Stuttgart;1;0;Bundesliga
+06.09.2000;Bayern Münih;Wolfsburg;3;1;Bundesliga
+06.09.2000;B. Dortmund;1860 München;2;3;Bundesliga
+06.09.2000;Hamburg;Werder Bremen;2;1;Bundesliga
+06.09.2000;Hertha Berlin;Bochum;4;0;Bundesliga
+06.09.2000;E. Frankfurt;H. Rostock;4;0;Bundesliga
+08.09.2000;Unterhaching;Kaiserslautern;0;0;Bundesliga
+09.09.2000;Werder Bremen;B. Dortmund;1;2;Bundesliga
+09.09.2000;Stuttgart;Bayern Münih;2;1;Bundesliga
+09.09.2000;Bochum;Hamburg;0;4;Bundesliga
+09.09.2000;Wolfsburg;Hertha Berlin;2;1;Bundesliga
+09.09.2000;1860 München;Schalke 04;1;1;Bundesliga
+09.09.2000;Köln;B. Leverkusen;1;1;Bundesliga
+10.09.2000;H. Rostock;Freiburg;0;0;Bundesliga
+10.09.2000;E. Cottbus;E. Frankfurt;2;0;Bundesliga
+15.09.2000;Kaiserslautern;Köln;3;1;Bundesliga
+16.09.2000;Bayern Münih;Unterhaching;3;1;Bundesliga
+16.09.2000;B. Leverkusen;H. Rostock;1;2;Bundesliga
+16.09.2000;Bochum;Wolfsburg;2;1;Bundesliga
+16.09.2000;Hamburg;B. Dortmund;2;3;Bundesliga
+16.09.2000;Freiburg;E. Cottbus;4;1;Bundesliga
+16.09.2000;E. Frankfurt;1860 München;1;0;Bundesliga
+17.09.2000;Schalke 04;Werder Bremen;1;1;Bundesliga
+17.09.2000;Hertha Berlin;Stuttgart;2;0;Bundesliga
+22.09.2000;1860 München;Freiburg;3;1;Bundesliga
+23.09.2000;Werder Bremen;E. Frankfurt;1;1;Bundesliga
+23.09.2000;Stuttgart;Bochum;1;1;Bundesliga
+23.09.2000;B. Dortmund;Schalke 04;0;4;Bundesliga
+23.09.2000;Wolfsburg;Hamburg;4;4;Bundesliga
+23.09.2000;Köln;Bayern Münih;1;2;Bundesliga
+23.09.2000;E. Cottbus;B. Leverkusen;1;2;Bundesliga
+24.09.2000;H. Rostock;Kaiserslautern;1;0;Bundesliga
+24.09.2000;Unterhaching;Hertha Berlin;5;2;Bundesliga
+29.09.2000;E. Frankfurt;B. Dortmund;1;1;Bundesliga
+30.09.2000;Bayern Münih;H. Rostock;0;1;Bundesliga
+30.09.2000;B. Leverkusen;1860 München;0;0;Bundesliga
+30.09.2000;Bochum;Unterhaching;3;0;Bundesliga
+30.09.2000;Hamburg;Schalke 04;2;0;Bundesliga
+30.09.2000;Kaiserslautern;E. Cottbus;1;1;Bundesliga
+30.09.2000;Hertha Berlin;Köln;4;2;Bundesliga
+01.10.2000;Wolfsburg;Stuttgart;2;2;Bundesliga
+01.10.2000;Freiburg;Werder Bremen;0;1;Bundesliga
+13.10.2000;B. Dortmund;Freiburg;1;0;Bundesliga
+14.10.2000;Werder Bremen;B. Leverkusen;3;3;Bundesliga
+14.10.2000;Stuttgart;Hamburg;3;3;Bundesliga
+14.10.2000;Schalke 04;E. Frankfurt;4;0;Bundesliga
+14.10.2000;1860 München;Kaiserslautern;0;4;Bundesliga
+14.10.2000;Köln;Bochum;2;0;Bundesliga
+14.10.2000;E. Cottbus;Bayern Münih;1;0;Bundesliga
+15.10.2000;H. Rostock;Hertha Berlin;0;2;Bundesliga
+15.10.2000;Unterhaching;Wolfsburg;0;3;Bundesliga
+20.10.2000;Kaiserslautern;Werder Bremen;2;0;Bundesliga
+21.10.2000;Bayern Münih;1860 München;3;1;Bundesliga
+21.10.2000;Stuttgart;Unterhaching;2;2;Bundesliga
+21.10.2000;B. Leverkusen;B. Dortmund;2;0;Bundesliga
+21.10.2000;Hamburg;E. Frankfurt;2;0;Bundesliga
+21.10.2000;Wolfsburg;Köln;6;0;Bundesliga
+21.10.2000;Hertha Berlin;E. Cottbus;3;1;Bundesliga
+22.10.2000;Bochum;H. Rostock;1;2;Bundesliga
+22.10.2000;Freiburg;Schalke 04;3;1;Bundesliga
+27.10.2000;E. Cottbus;Bochum;2;0;Bundesliga
+28.10.2000;Werder Bremen;Bayern Münih;1;1;Bundesliga
+28.10.2000;B. Dortmund;Kaiserslautern;1;2;Bundesliga
+28.10.2000;Schalke 04;B. Leverkusen;0;0;Bundesliga
+28.10.2000;H. Rostock;Wolfsburg;1;1;Bundesliga
+28.10.2000;E. Frankfurt;Freiburg;3;0;Bundesliga
+28.10.2000;Unterhaching;Hamburg;2;1;Bundesliga
+29.10.2000;1860 München;Hertha Berlin;0;1;Bundesliga
+29.10.2000;Köln;Stuttgart;3;2;Bundesliga
+03.11.2000;B. Leverkusen;E. Frankfurt;1;0;Bundesliga
+04.11.2000;Bayern Münih;B. Dortmund;6;2;Bundesliga
+04.11.2000;Stuttgart;H. Rostock;1;0;Bundesliga
+04.11.2000;Bochum;1860 München;1;1;Bundesliga
+04.11.2000;Hamburg;Freiburg;5;0;Bundesliga
+04.11.2000;Kaiserslautern;Schalke 04;3;2;Bundesliga
+04.11.2000;Hertha Berlin;Werder Bremen;4;1;Bundesliga
+05.11.2000;Wolfsburg;E. Cottbus;1;1;Bundesliga
+05.11.2000;Unterhaching;Köln;0;0;Bundesliga
+10.11.2000;B. Dortmund;Hertha Berlin;2;0;Bundesliga
+11.11.2000;Werder Bremen;Bochum;2;0;Bundesliga
+11.11.2000;Schalke 04;Bayern Münih;3;2;Bundesliga
+11.11.2000;H. Rostock;Unterhaching;2;2;Bundesliga
+11.11.2000;Freiburg;B. Leverkusen;0;1;Bundesliga
+11.11.2000;1860 München;Wolfsburg;2;2;Bundesliga
+11.11.2000;Köln;Hamburg;4;2;Bundesliga
+12.11.2000;E. Frankfurt;Kaiserslautern;3;1;Bundesliga
+12.11.2000;E. Cottbus;Stuttgart;2;1;Bundesliga
+17.11.2000;Stuttgart;1860 München;2;2;Bundesliga
+18.11.2000;Bayern Münih;E. Frankfurt;1;2;Bundesliga
+18.11.2000;Hamburg;B. Leverkusen;1;3;Bundesliga
+18.11.2000;Wolfsburg;Werder Bremen;1;1;Bundesliga
+18.11.2000;Kaiserslautern;Freiburg;0;2;Bundesliga
+18.11.2000;Hertha Berlin;Schalke 04;0;4;Bundesliga
+18.11.2000;Köln;H. Rostock;5;2;Bundesliga
+19.11.2000;Bochum;B. Dortmund;1;1;Bundesliga
+19.11.2000;Unterhaching;E. Cottbus;2;1;Bundesliga
+24.11.2000;Schalke 04;Bochum;2;1;Bundesliga
+25.11.2000;B. Dortmund;Wolfsburg;2;1;Bundesliga
+25.11.2000;H. Rostock;Hamburg;1;0;Bundesliga
+25.11.2000;Freiburg;Bayern Münih;1;1;Bundesliga
+25.11.2000;E. Frankfurt;Hertha Berlin;0;4;Bundesliga
+25.11.2000;E. Cottbus;Köln;0;2;Bundesliga
+26.11.2000;Werder Bremen;Stuttgart;1;0;Bundesliga
+26.11.2000;B. Leverkusen;Kaiserslautern;4;2;Bundesliga
+26.11.2000;1860 München;Unterhaching;0;2;Bundesliga
+02.12.2000;Bayern Münih;B. Leverkusen;2;0;Bundesliga
+02.12.2000;Stuttgart;B. Dortmund;0;2;Bundesliga
+02.12.2000;Bochum;E. Frankfurt;2;1;Bundesliga
+02.12.2000;Wolfsburg;Schalke 04;2;0;Bundesliga
+02.12.2000;Hertha Berlin;Freiburg;2;2;Bundesliga
+02.12.2000;Köln;1860 München;4;0;Bundesliga
+03.12.2000;Kaiserslautern;Hamburg;2;1;Bundesliga
+03.12.2000;E. Cottbus;H. Rostock;1;0;Bundesliga
+08.12.2000;E. Frankfurt;Wolfsburg;1;2;Bundesliga
+09.12.2000;B. Dortmund;Unterhaching;3;0;Bundesliga
+09.12.2000;Schalke 04;Stuttgart;2;1;Bundesliga
+09.12.2000;Freiburg;Bochum;5;0;Bundesliga
+09.12.2000;Kaiserslautern;Bayern Münih;0;0;Bundesliga
+09.12.2000;1860 München;H. Rostock;2;1;Bundesliga
+10.12.2000;Werder Bremen;Köln;2;1;Bundesliga
+10.12.2000;B. Leverkusen;Hertha Berlin;4;0;Bundesliga
+10.12.2000;Hamburg;E. Cottbus;2;1;Bundesliga
+12.12.2000;Stuttgart;E. Frankfurt;4;1;Bundesliga
+12.12.2000;Wolfsburg;Freiburg;1;2;Bundesliga
+12.12.2000;Unterhaching;Schalke 04;0;2;Bundesliga
+13.12.2000;Bayern Münih;Hamburg;2;1;Bundesliga
+13.12.2000;Bochum;B. Leverkusen;3;2;Bundesliga
+13.12.2000;H. Rostock;Werder Bremen;5;2;Bundesliga
+13.12.2000;Hertha Berlin;Kaiserslautern;2;4;Bundesliga
+13.12.2000;Köln;B. Dortmund;0;0;Bundesliga
+13.12.2000;E. Cottbus;1860 München;2;3;Bundesliga
+15.12.2000;Unterhaching;E. Frankfurt;2;0;Bundesliga
+16.12.2000;Stuttgart;Freiburg;0;0;Bundesliga
+16.12.2000;Bochum;Kaiserslautern;0;1;Bundesliga
+16.12.2000;Wolfsburg;B. Leverkusen;2;0;Bundesliga
+16.12.2000;H. Rostock;B. Dortmund;1;2;Bundesliga
+16.12.2000;1860 München;Hamburg;2;1;Bundesliga
+16.12.2000;Köln;Schalke 04;2;2;Bundesliga
+17.12.2000;Hertha Berlin;Bayern Münih;1;3;Bundesliga
+17.12.2000;E. Cottbus;Werder Bremen;3;1;Bundesliga
+20.12.2000;Unterhaching;Werder Bremen;0;0;Bundesliga
+26.01.2001;Schalke 04;H. Rostock;2;0;Bundesliga
+27.01.2001;Werder Bremen;1860 München;2;0;Bundesliga
+27.01.2001;Bayern Münih;Bochum;3;2;Bundesliga
+27.01.2001;B. Dortmund;E. Cottbus;2;0;Bundesliga
+27.01.2001;Freiburg;Unterhaching;2;0;Bundesliga
+27.01.2001;Kaiserslautern;Wolfsburg;0;0;Bundesliga
+27.01.2001;E. Frankfurt;Köln;1;5;Bundesliga
+28.01.2001;B. Leverkusen;Stuttgart;4;0;Bundesliga
+28.01.2001;Hamburg;Hertha Berlin;1;2;Bundesliga
+02.02.2001;1860 München;B. Dortmund;1;0;Bundesliga
+03.02.2001;Werder Bremen;Hamburg;3;1;Bundesliga
+03.02.2001;Stuttgart;Kaiserslautern;6;1;Bundesliga
+03.02.2001;Bochum;Hertha Berlin;1;3;Bundesliga
+03.02.2001;Wolfsburg;Bayern Münih;1;3;Bundesliga
+03.02.2001;Köln;Freiburg;0;1;Bundesliga
+03.02.2001;E. Cottbus;Schalke 04;4;1;Bundesliga
+04.02.2001;H. Rostock;E. Frankfurt;0;2;Bundesliga
+04.02.2001;Unterhaching;B. Leverkusen;1;2;Bundesliga
+09.02.2001;E. Frankfurt;E. Cottbus;1;0;Bundesliga
+10.02.2001;Bayern Münih;Stuttgart;1;0;Bundesliga
+10.02.2001;B. Leverkusen;Köln;4;1;Bundesliga
+10.02.2001;Schalke 04;1860 München;2;0;Bundesliga
+10.02.2001;Hamburg;Bochum;3;0;Bundesliga
+10.02.2001;Kaiserslautern;Unterhaching;4;0;Bundesliga
+10.02.2001;Hertha Berlin;Wolfsburg;1;3;Bundesliga
+11.02.2001;B. Dortmund;Werder Bremen;0;0;Bundesliga
+11.02.2001;Freiburg;H. Rostock;0;0;Bundesliga
+16.02.2001;1860 München;E. Frankfurt;2;2;Bundesliga
+17.02.2001;Werder Bremen;Schalke 04;2;1;Bundesliga
+17.02.2001;B. Dortmund;Hamburg;4;2;Bundesliga
+17.02.2001;Wolfsburg;Bochum;0;0;Bundesliga
+17.02.2001;H. Rostock;B. Leverkusen;2;1;Bundesliga
+17.02.2001;E. Cottbus;Freiburg;0;2;Bundesliga
+17.02.2001;Unterhaching;Bayern Münih;1;0;Bundesliga
+18.02.2001;Stuttgart;Hertha Berlin;0;1;Bundesliga
+18.02.2001;Köln;Kaiserslautern;0;1;Bundesliga
+23.02.2001;B. Leverkusen;E. Cottbus;1;3;Bundesliga
+24.02.2001;Bayern Münih;Köln;1;1;Bundesliga
+24.02.2001;Schalke 04;B. Dortmund;0;0;Bundesliga
+24.02.2001;Hamburg;Wolfsburg;3;2;Bundesliga
+24.02.2001;Freiburg;1860 München;0;3;Bundesliga
+24.02.2001;E. Frankfurt;Werder Bremen;1;2;Bundesliga
+25.02.2001;Bochum;Stuttgart;0;0;Bundesliga
+25.02.2001;Kaiserslautern;H. Rostock;0;1;Bundesliga
+02.03.2001;B. Dortmund;E. Frankfurt;6;1;Bundesliga
+03.03.2001;Werder Bremen;Freiburg;3;1;Bundesliga
+03.03.2001;Stuttgart;Wolfsburg;2;1;Bundesliga
+03.03.2001;H. Rostock;Bayern Münih;3;2;Bundesliga
+03.03.2001;Köln;Hertha Berlin;1;0;Bundesliga
+03.03.2001;E. Cottbus;Kaiserslautern;0;2;Bundesliga
+03.03.2001;Unterhaching;Bochum;2;1;Bundesliga
+04.03.2001;Schalke 04;Hamburg;0;1;Bundesliga
+04.03.2001;1860 München;B. Leverkusen;1;0;Bundesliga
+07.03.2001;Hertha Berlin;Unterhaching;2;1;Bundesliga
+09.03.2001;B. Leverkusen;Werder Bremen;3;0;Bundesliga
+10.03.2001;Bayern Münih;E. Cottbus;2;0;Bundesliga
+10.03.2001;Bochum;Köln;2;3;Bundesliga
+10.03.2001;Wolfsburg;Unterhaching;6;1;Bundesliga
+10.03.2001;Freiburg;B. Dortmund;2;2;Bundesliga
+10.03.2001;Hertha Berlin;H. Rostock;1;0;Bundesliga
+10.03.2001;E. Frankfurt;Schalke 04;0;0;Bundesliga
+11.03.2001;Hamburg;Stuttgart;2;2;Bundesliga
+11.03.2001;Kaiserslautern;1860 München;3;2;Bundesliga
+16.03.2001;Köln;Wolfsburg;0;0;Bundesliga
+17.03.2001;B. Dortmund;B. Leverkusen;1;3;Bundesliga
+17.03.2001;Schalke 04;Freiburg;0;0;Bundesliga
+17.03.2001;H. Rostock;Bochum;2;0;Bundesliga
+17.03.2001;1860 München;Bayern Münih;0;2;Bundesliga
+17.03.2001;E. Frankfurt;Hamburg;1;1;Bundesliga
+17.03.2001;E. Cottbus;Hertha Berlin;3;0;Bundesliga
+18.03.2001;Werder Bremen;Kaiserslautern;1;2;Bundesliga
+18.03.2001;Unterhaching;Stuttgart;0;0;Bundesliga
+30.03.2001;Wolfsburg;H. Rostock;2;1;Bundesliga
+31.03.2001;Bayern Münih;Werder Bremen;2;3;Bundesliga
+31.03.2001;Stuttgart;Köln;0;3;Bundesliga
+31.03.2001;B. Leverkusen;Schalke 04;0;3;Bundesliga
+31.03.2001;Hamburg;Unterhaching;1;1;Bundesliga
+31.03.2001;Freiburg;E. Frankfurt;5;2;Bundesliga
+31.03.2001;Hertha Berlin;1860 München;3;0;Bundesliga
+01.04.2001;Bochum;E. Cottbus;1;0;Bundesliga
+01.04.2001;Kaiserslautern;B. Dortmund;1;4;Bundesliga
+06.04.2001;E. Cottbus;Wolfsburg;0;0;Bundesliga
+07.04.2001;Werder Bremen;Hertha Berlin;3;1;Bundesliga
+07.04.2001;B. Dortmund;Bayern Münih;1;1;Bundesliga
+07.04.2001;Freiburg;Hamburg;0;0;Bundesliga
+07.04.2001;1860 München;Bochum;2;4;Bundesliga
+07.04.2001;E. Frankfurt;B. Leverkusen;1;3;Bundesliga
+07.04.2001;Köln;Unterhaching;1;1;Bundesliga
+08.04.2001;Schalke 04;Kaiserslautern;5;1;Bundesliga
+08.04.2001;H. Rostock;Stuttgart;1;1;Bundesliga
+13.04.2001;Stuttgart;E. Cottbus;1;0;Bundesliga
+14.04.2001;Bayern Münih;Schalke 04;1;3;Bundesliga
+14.04.2001;B. Leverkusen;Freiburg;1;3;Bundesliga
+14.04.2001;Bochum;Werder Bremen;1;2;Bundesliga
+14.04.2001;Wolfsburg;1860 München;0;1;Bundesliga
+14.04.2001;Kaiserslautern;E. Frankfurt;4;2;Bundesliga
+14.04.2001;Hertha Berlin;B. Dortmund;1;0;Bundesliga
+15.04.2001;Hamburg;Köln;1;1;Bundesliga
+15.04.2001;Unterhaching;H. Rostock;1;1;Bundesliga
+20.04.2001;B. Dortmund;Bochum;5;0;Bundesliga
+21.04.2001;Werder Bremen;Wolfsburg;2;3;Bundesliga
+21.04.2001;B. Leverkusen;Hamburg;1;1;Bundesliga
+21.04.2001;Schalke 04;Hertha Berlin;3;1;Bundesliga
+21.04.2001;H. Rostock;Köln;2;1;Bundesliga
+21.04.2001;E. Frankfurt;Bayern Münih;0;2;Bundesliga
+21.04.2001;E. Cottbus;Unterhaching;1;0;Bundesliga
+22.04.2001;Freiburg;Kaiserslautern;5;2;Bundesliga
+22.04.2001;1860 München;Stuttgart;2;1;Bundesliga
+27.04.2001;Wolfsburg;B. Dortmund;1;1;Bundesliga
+28.04.2001;Bayern Münih;Freiburg;1;0;Bundesliga
+28.04.2001;Stuttgart;Werder Bremen;2;1;Bundesliga
+28.04.2001;Bochum;Schalke 04;1;1;Bundesliga
+28.04.2001;Kaiserslautern;B. Leverkusen;0;1;Bundesliga
+28.04.2001;Hertha Berlin;E. Frankfurt;3;0;Bundesliga
+28.04.2001;Köln;E. Cottbus;4;0;Bundesliga
+29.04.2001;Hamburg;H. Rostock;2;1;Bundesliga
+29.04.2001;Unterhaching;1860 München;3;2;Bundesliga
+04.05.2001;B. Dortmund;Stuttgart;0;0;Bundesliga
+05.05.2001;B. Leverkusen;Bayern Münih;0;1;Bundesliga
+05.05.2001;Schalke 04;Wolfsburg;2;1;Bundesliga
+05.05.2001;Hamburg;Kaiserslautern;1;1;Bundesliga
+05.05.2001;H. Rostock;E. Cottbus;1;0;Bundesliga
+05.05.2001;1860 München;Köln;3;1;Bundesliga
+05.05.2001;E. Frankfurt;Bochum;3;0;Bundesliga
+06.05.2001;Werder Bremen;Unterhaching;0;0;Bundesliga
+06.05.2001;Freiburg;Hertha Berlin;1;0;Bundesliga
+12.05.2001;Bayern Münih;Kaiserslautern;2;1;Bundesliga
+12.05.2001;Stuttgart;Schalke 04;1;0;Bundesliga
+12.05.2001;Bochum;Freiburg;1;3;Bundesliga
+12.05.2001;Wolfsburg;E. Frankfurt;3;0;Bundesliga
+12.05.2001;H. Rostock;1860 München;0;0;Bundesliga
+12.05.2001;Hertha Berlin;B. Leverkusen;1;1;Bundesliga
+12.05.2001;Köln;Werder Bremen;1;3;Bundesliga
+12.05.2001;E. Cottbus;Hamburg;4;2;Bundesliga
+12.05.2001;Unterhaching;B. Dortmund;1;4;Bundesliga
+19.05.2001;Werder Bremen;H. Rostock;3;0;Bundesliga
+19.05.2001;B. Leverkusen;Bochum;1;0;Bundesliga
+19.05.2001;B. Dortmund;Köln;3;3;Bundesliga
+19.05.2001;Schalke 04;Unterhaching;5;3;Bundesliga
+19.05.2001;Hamburg;Bayern Münih;1;1;Bundesliga
+19.05.2001;Freiburg;Wolfsburg;4;1;Bundesliga
+19.05.2001;Kaiserslautern;Hertha Berlin;0;1;Bundesliga
+19.05.2001;1860 München;E. Cottbus;0;1;Bundesliga
+19.05.2001;E. Frankfurt;Stuttgart;2;1;Bundesliga

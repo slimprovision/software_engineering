@@ -1,0 +1,381 @@
+date;home_team;away_team;home_score;away_score;League
+23.05.2015;Levante;Elche;0;0;La Liga
+23.05.2015;Ath. Bilbao;Villarreal;4;0;La Liga
+23.05.2015;Barcelona;Deportivo;2;2;La Liga
+23.05.2015;Granada;Atl. Madrid;0;0;La Liga
+23.05.2015;Rayo Vallecano;R. Sociedad;2;4;La Liga
+23.05.2015;Eibar;Cordoba;3;0;La Liga
+23.05.2015;Celta Vigo;Espanyol;3;2;La Liga
+23.05.2015;Almeria;Valencia;2;3;La Liga
+23.05.2015;Malaga;Sevilla;2;3;La Liga
+23.05.2015;Real Madrid;Getafe;7;3;La Liga
+17.05.2015;Villarreal;Malaga;2;1;La Liga
+17.05.2015;Elche;Ath. Bilbao;2;3;La Liga
+17.05.2015;Deportivo;Levante;2;0;La Liga
+17.05.2015;Atl. Madrid;Barcelona;0;1;La Liga
+17.05.2015;R. Sociedad;Granada;0;3;La Liga
+17.05.2015;Cordoba;Rayo Vallecano;1;2;La Liga
+17.05.2015;Getafe;Eibar;1;1;La Liga
+17.05.2015;Espanyol;Real Madrid;1;4;La Liga
+17.05.2015;Valencia;Celta Vigo;1;1;La Liga
+17.05.2015;Sevilla;Almeria;2;1;La Liga
+08.05.2015;Eibar;Espanyol;0;2;La Liga
+09.05.2015;Granada;Cordoba;2;0;La Liga
+09.05.2015;Barcelona;R. Sociedad;2;0;La Liga
+09.05.2015;Real Madrid;Valencia;2;2;La Liga
+09.05.2015;Ath. Bilbao;Deportivo;1;1;La Liga
+10.05.2015;Levante;Atl. Madrid;2;2;La Liga
+10.05.2015;Villarreal;Elche;1;0;La Liga
+10.05.2015;Almeria;Malaga;1;2;La Liga
+10.05.2015;Celta Vigo;Sevilla;1;1;La Liga
+11.05.2015;Rayo Vallecano;Getafe;2;0;La Liga
+01.05.2015;R. Sociedad;Levante;3;0;La Liga
+02.05.2015;Cordoba;Barcelona;0;8;La Liga
+02.05.2015;Atl. Madrid;Ath. Bilbao;0;0;La Liga
+02.05.2015;Sevilla;Real Madrid;2;3;La Liga
+02.05.2015;Deportivo;Villarreal;1;1;La Liga
+03.05.2015;Espanyol;Rayo Vallecano;1;1;La Liga
+03.05.2015;Getafe;Granada;1;2;La Liga
+03.05.2015;Valencia;Eibar;3;1;La Liga
+03.05.2015;Malaga;Elche;1;2;La Liga
+04.05.2015;Almeria;Celta Vigo;2;2;La Liga
+28.04.2015;Barcelona;Getafe;6;0;La Liga
+28.04.2015;Ath. Bilbao;R. Sociedad;1;1;La Liga
+28.04.2015;Levante;Cordoba;1;0;La Liga
+29.04.2015;Eibar;Sevilla;1;3;La Liga
+29.04.2015;Real Madrid;Almeria;3;0;La Liga
+29.04.2015;Celta Vigo;Malaga;1;0;La Liga
+29.04.2015;Elche;Deportivo;4;0;La Liga
+29.04.2015;Villarreal;Atl. Madrid;0;1;La Liga
+30.04.2015;Rayo Vallecano;Valencia;1;1;La Liga
+30.04.2015;Granada;Espanyol;1;2;La Liga
+24.04.2015;Cordoba;Ath. Bilbao;0;1;La Liga
+25.04.2015;Espanyol;Barcelona;0;2;La Liga
+25.04.2015;Atl. Madrid;Elche;3;0;La Liga
+25.04.2015;Getafe;Levante;0;1;La Liga
+25.04.2015;R. Sociedad;Villarreal;0;0;La Liga
+26.04.2015;Malaga;Deportivo;1;1;La Liga
+26.04.2015;Almeria;Eibar;2;0;La Liga
+26.04.2015;Sevilla;Rayo Vallecano;2;0;La Liga
+26.04.2015;Celta Vigo;Real Madrid;2;4;La Liga
+27.04.2015;Valencia;Granada;4;0;La Liga
+17.04.2015;Levante;Espanyol;2;2;La Liga
+18.04.2015;Barcelona;Valencia;2;0;La Liga
+18.04.2015;Deportivo;Atl. Madrid;1;2;La Liga
+18.04.2015;Real Madrid;Malaga;3;1;La Liga
+18.04.2015;Ath. Bilbao;Getafe;4;0;La Liga
+19.04.2015;Rayo Vallecano;Almeria;2;0;La Liga
+19.04.2015;Granada;Sevilla;1;1;La Liga
+19.04.2015;Villarreal;Cordoba;0;0;La Liga
+19.04.2015;Eibar;Celta Vigo;0;1;La Liga
+20.04.2015;Elche;R. Sociedad;1;0;La Liga
+11.04.2015;Real Madrid;Eibar;3;0;La Liga
+11.04.2015;Malaga;Atl. Madrid;2;2;La Liga
+11.04.2015;Sevilla;Barcelona;2;2;La Liga
+11.04.2015;Almeria;Granada;3;0;La Liga
+11.04.2015;Celta Vigo;Rayo Vallecano;6;1;La Liga
+12.04.2015;Getafe;Villarreal;1;1;La Liga
+12.04.2015;Espanyol;Ath. Bilbao;1;0;La Liga
+12.04.2015;R. Sociedad;Deportivo;2;2;La Liga
+12.04.2015;Cordoba;Elche;0;2;La Liga
+13.04.2015;Valencia;Levante;3;0;La Liga
+07.04.2015;Atl. Madrid;R. Sociedad;2;0;La Liga
+07.04.2015;Levante;Sevilla;1;2;La Liga
+07.04.2015;Eibar;Malaga;1;0;La Liga
+08.04.2015;Deportivo;Cordoba;1;1;La Liga
+08.04.2015;Barcelona;Almeria;4;0;La Liga
+08.04.2015;Granada;Celta Vigo;1;1;La Liga
+08.04.2015;Rayo Vallecano;Real Madrid;0;2;La Liga
+09.04.2015;Ath. Bilbao;Valencia;1;1;La Liga
+09.04.2015;Elche;Getafe;0;1;La Liga
+09.04.2015;Villarreal;Espanyol;0;3;La Liga
+03.04.2015;Eibar;Rayo Vallecano;1;2;La Liga
+04.04.2015;Sevilla;Ath. Bilbao;2;0;La Liga
+04.04.2015;Cordoba;Atl. Madrid;0;2;La Liga
+04.04.2015;Almeria;Levante;1;4;La Liga
+04.04.2015;Malaga;R. Sociedad;1;1;La Liga
+05.04.2015;Real Madrid;Granada;9;1;La Liga
+05.04.2015;Valencia;Villarreal;0;0;La Liga
+05.04.2015;Getafe;Deportivo;2;1;La Liga
+05.04.2015;Celta Vigo;Barcelona;0;1;La Liga
+06.04.2015;Espanyol;Elche;1;1;La Liga
+20.03.2015;Elche;Valencia;0;4;La Liga
+21.03.2015;Atl. Madrid;Getafe;2;0;La Liga
+21.03.2015;Rayo Vallecano;Malaga;1;0;La Liga
+21.03.2015;Levante;Celta Vigo;0;1;La Liga
+21.03.2015;Ath. Bilbao;Almeria;2;1;La Liga
+21.03.2015;Granada;Eibar;0;0;La Liga
+22.03.2015;Deportivo;Espanyol;0;0;La Liga
+22.03.2015;Villarreal;Sevilla;0;2;La Liga
+22.03.2015;R. Sociedad;Cordoba;3;1;La Liga
+22.03.2015;Barcelona;Real Madrid;2;1;La Liga
+13.03.2015;Valencia;Deportivo;2;0;La Liga
+14.03.2015;Espanyol;Atl. Madrid;0;0;La Liga
+14.03.2015;Eibar;Barcelona;0;2;La Liga
+14.03.2015;Rayo Vallecano;Granada;3;1;La Liga
+14.03.2015;Celta Vigo;Ath. Bilbao;1;2;La Liga
+15.03.2015;Almeria;Villarreal;0;0;La Liga
+15.03.2015;Malaga;Cordoba;2;0;La Liga
+15.03.2015;Sevilla;Elche;3;0;La Liga
+15.03.2015;Real Madrid;Levante;2;0;La Liga
+16.03.2015;Getafe;R. Sociedad;0;1;La Liga
+06.03.2015;Levante;Eibar;2;1;La Liga
+07.03.2015;Deportivo;Sevilla;3;4;La Liga
+07.03.2015;Ath. Bilbao;Real Madrid;1;0;La Liga
+07.03.2015;Elche;Almeria;1;0;La Liga
+07.03.2015;Granada;Malaga;1;0;La Liga
+08.03.2015;Barcelona;Rayo Vallecano;6;1;La Liga
+08.03.2015;R. Sociedad;Espanyol;1;0;La Liga
+08.03.2015;Villarreal;Celta Vigo;4;1;La Liga
+08.03.2015;Atl. Madrid;Valencia;1;1;La Liga
+09.03.2015;Cordoba;Getafe;1;2;La Liga
+27.02.2015;Espanyol;Cordoba;1;0;La Liga
+28.02.2015;Granada;Barcelona;1;3;La Liga
+28.02.2015;Rayo Vallecano;Levante;4;2;La Liga
+28.02.2015;Almeria;Deportivo;0;0;La Liga
+28.02.2015;Malaga;Getafe;3;2;La Liga
+01.03.2015;Valencia;R. Sociedad;2;0;La Liga
+01.03.2015;Eibar;Ath. Bilbao;0;1;La Liga
+01.03.2015;Sevilla;Atl. Madrid;0;0;La Liga
+01.03.2015;Real Madrid;Villarreal;1;1;La Liga
+02.03.2015;Celta Vigo;Elche;1;1;La Liga
+20.02.2015;Getafe;Espanyol;2;1;La Liga
+21.02.2015;Barcelona;Malaga;0;1;La Liga
+21.02.2015;Cordoba;Valencia;1;2;La Liga
+21.02.2015;Atl. Madrid;Almeria;3;0;La Liga
+21.02.2015;Deportivo;Celta Vigo;0;2;La Liga
+22.02.2015;R. Sociedad;Sevilla;4;3;La Liga
+22.02.2015;Ath. Bilbao;Rayo Vallecano;1;0;La Liga
+22.02.2015;Villarreal;Eibar;1;0;La Liga
+22.02.2015;Elche;Real Madrid;0;2;La Liga
+23.02.2015;Levante;Granada;2;1;La Liga
+13.02.2015;Almeria;R. Sociedad;2;2;La Liga
+14.02.2015;Sevilla;Cordoba;3;0;La Liga
+14.02.2015;Real Madrid;Deportivo;2;0;La Liga
+14.02.2015;Granada;Ath. Bilbao;0;0;La Liga
+14.02.2015;Malaga;Espanyol;0;2;La Liga
+15.02.2015;Valencia;Getafe;1;0;La Liga
+15.02.2015;Barcelona;Levante;5;0;La Liga
+15.02.2015;Rayo Vallecano;Villarreal;2;0;La Liga
+15.02.2015;Celta Vigo;Atl. Madrid;2;0;La Liga
+16.02.2015;Eibar;Elche;0;1;La Liga
+06.02.2015;Deportivo;Eibar;2;0;La Liga
+07.02.2015;Atl. Madrid;Real Madrid;4;0;La Liga
+07.02.2015;Villarreal;Granada;2;0;La Liga
+07.02.2015;Levante;Malaga;4;1;La Liga
+07.02.2015;R. Sociedad;Celta Vigo;1;1;La Liga
+08.02.2015;Cordoba;Almeria;1;2;La Liga
+08.02.2015;Getafe;Sevilla;2;1;La Liga
+08.02.2015;Espanyol;Valencia;1;2;La Liga
+08.02.2015;Ath. Bilbao;Barcelona;2;5;La Liga
+09.02.2015;Elche;Rayo Vallecano;2;0;La Liga
+30.01.2015;Rayo Vallecano;Deportivo;1;2;La Liga
+31.01.2015;Real Madrid;R. Sociedad;4;1;La Liga
+31.01.2015;Eibar;Atl. Madrid;1;3;La Liga
+31.01.2015;Granada;Elche;1;0;La Liga
+31.01.2015;Celta Vigo;Cordoba;1;0;La Liga
+01.02.2015;Levante;Ath. Bilbao;0;2;La Liga
+01.02.2015;Almeria;Getafe;1;0;La Liga
+01.02.2015;Sevilla;Espanyol;3;2;La Liga
+01.02.2015;Barcelona;Villarreal;3;2;La Liga
+02.02.2015;Malaga;Valencia;1;0;La Liga
+24.01.2015;Cordoba;Real Madrid;1;2;La Liga
+24.01.2015;Elche;Barcelona;0;6;La Liga
+24.01.2015;Atl. Madrid;Rayo Vallecano;3;1;La Liga
+24.01.2015;R. Sociedad;Eibar;1;0;La Liga
+24.01.2015;Villarreal;Levante;1;0;La Liga
+25.01.2015;Deportivo;Granada;2;2;La Liga
+25.01.2015;Ath. Bilbao;Malaga;1;1;La Liga
+25.01.2015;Espanyol;Almeria;3;0;La Liga
+25.01.2015;Valencia;Sevilla;3;1;La Liga
+26.01.2015;Getafe;Celta Vigo;2;1;La Liga
+16.01.2015;Cordoba;Eibar;1;1;La Liga
+17.01.2015;R. Sociedad;Rayo Vallecano;0;1;La Liga
+17.01.2015;Valencia;Almeria;3;2;La Liga
+17.01.2015;Villarreal;Ath. Bilbao;2;0;La Liga
+17.01.2015;Espanyol;Celta Vigo;1;0;La Liga
+18.01.2015;Getafe;Real Madrid;0;3;La Liga
+18.01.2015;Atl. Madrid;Granada;2;0;La Liga
+18.01.2015;Deportivo;Barcelona;0;4;La Liga
+18.01.2015;Elche;Levante;1;0;La Liga
+18.01.2015;Sevilla;Malaga;2;0;La Liga
+09.01.2015;Levante;Deportivo;0;0;La Liga
+10.01.2015;Real Madrid;Espanyol;3;0;La Liga
+10.01.2015;Malaga;Villarreal;1;1;La Liga
+10.01.2015;Celta Vigo;Valencia;1;1;La Liga
+10.01.2015;Eibar;Getafe;2;1;La Liga
+11.01.2015;Almeria;Sevilla;0;2;La Liga
+11.01.2015;Ath. Bilbao;Elche;1;2;La Liga
+11.01.2015;Granada;R. Sociedad;1;1;La Liga
+11.01.2015;Barcelona;Atl. Madrid;3;1;La Liga
+12.01.2015;Rayo Vallecano;Cordoba;0;1;La Liga
+03.01.2015;Atl. Madrid;Levante;3;1;La Liga
+03.01.2015;Sevilla;Celta Vigo;1;0;La Liga
+03.01.2015;Elche;Villarreal;2;2;La Liga
+03.01.2015;Deportivo;Ath. Bilbao;1;0;La Liga
+03.01.2015;Malaga;Almeria;1;2;La Liga
+04.01.2015;Getafe;Rayo Vallecano;1;2;La Liga
+04.01.2015;Valencia;Real Madrid;2;1;La Liga
+04.01.2015;Espanyol;Eibar;1;2;La Liga
+04.01.2015;R. Sociedad;Barcelona;1;0;La Liga
+05.01.2015;Cordoba;Granada;2;0;La Liga
+19.12.2014;Celta Vigo;Almeria;0;1;La Liga
+20.12.2014;Barcelona;Cordoba;5;0;La Liga
+20.12.2014;Levante;R. Sociedad;1;1;La Liga
+20.12.2014;Eibar;Valencia;0;1;La Liga
+20.12.2014;Rayo Vallecano;Espanyol;1;3;La Liga
+21.12.2014;Villarreal;Deportivo;3;0;La Liga
+21.12.2014;Granada;Getafe;1;1;La Liga
+21.12.2014;Elche;Malaga;1;2;La Liga
+21.12.2014;Ath. Bilbao;Atl. Madrid;1;4;La Liga
+04.02.2015;Real Madrid;Sevilla;2;1;La Liga
+12.12.2014;Almeria;Real Madrid;1;4;La Liga
+13.12.2014;Getafe;Barcelona;0;0;La Liga
+13.12.2014;Valencia;Rayo Vallecano;3;0;La Liga
+13.12.2014;Cordoba;Levante;0;0;La Liga
+13.12.2014;Malaga;Celta Vigo;1;0;La Liga
+14.12.2014;Espanyol;Granada;2;1;La Liga
+14.12.2014;Sevilla;Eibar;0;0;La Liga
+14.12.2014;Atl. Madrid;Villarreal;0;1;La Liga
+14.12.2014;R. Sociedad;Ath. Bilbao;1;1;La Liga
+15.12.2014;Deportivo;Elche;1;0;La Liga
+06.12.2014;Elche;Atl. Madrid;0;2;La Liga
+06.12.2014;Ath. Bilbao;Cordoba;0;1;La Liga
+06.12.2014;Real Madrid;Celta Vigo;3;0;La Liga
+06.12.2014;Deportivo;Malaga;0;1;La Liga
+07.12.2014;Rayo Vallecano;Sevilla;0;1;La Liga
+07.12.2014;Barcelona;Espanyol;5;1;La Liga
+07.12.2014;Villarreal;R. Sociedad;4;0;La Liga
+07.12.2014;Granada;Valencia;1;1;La Liga
+08.12.2014;Eibar;Almeria;5;2;La Liga
+08.12.2014;Levante;Getafe;1;1;La Liga
+28.11.2014;R. Sociedad;Elche;3;0;La Liga
+29.11.2014;Getafe;Ath. Bilbao;1;2;La Liga
+29.11.2014;Espanyol;Levante;2;1;La Liga
+29.11.2014;Malaga;Real Madrid;1;2;La Liga
+29.11.2014;Celta Vigo;Eibar;0;1;La Liga
+30.11.2014;Atl. Madrid;Deportivo;2;0;La Liga
+30.11.2014;Sevilla;Granada;5;1;La Liga
+30.11.2014;Cordoba;Villarreal;0;2;La Liga
+30.11.2014;Valencia;Barcelona;0;1;La Liga
+01.12.2014;Almeria;Rayo Vallecano;0;1;La Liga
+21.11.2014;Ath. Bilbao;Espanyol;3;1;La Liga
+22.11.2014;Atl. Madrid;Malaga;3;1;La Liga
+22.11.2014;Eibar;Real Madrid;0;4;La Liga
+22.11.2014;Barcelona;Sevilla;5;1;La Liga
+22.11.2014;Deportivo;R. Sociedad;0;0;La Liga
+23.11.2014;Rayo Vallecano;Celta Vigo;1;0;La Liga
+23.11.2014;Levante;Valencia;2;1;La Liga
+23.11.2014;Elche;Cordoba;2;2;La Liga
+23.11.2014;Villarreal;Getafe;2;1;La Liga
+24.11.2014;Granada;Almeria;0;0;La Liga
+07.11.2014;Cordoba;Deportivo;0;0;La Liga
+08.11.2014;Almeria;Barcelona;1;2;La Liga
+08.11.2014;Getafe;Elche;0;0;La Liga
+08.11.2014;Real Madrid;Rayo Vallecano;5;1;La Liga
+08.11.2014;Celta Vigo;Granada;0;0;La Liga
+08.11.2014;Malaga;Eibar;2;1;La Liga
+09.11.2014;Sevilla;Levante;1;1;La Liga
+09.11.2014;Espanyol;Villarreal;1;1;La Liga
+09.11.2014;Valencia;Ath. Bilbao;0;0;La Liga
+09.11.2014;R. Sociedad;Atl. Madrid;2;1;La Liga
+31.10.2014;Deportivo;Getafe;1;2;La Liga
+01.11.2014;Granada;Real Madrid;0;4;La Liga
+01.11.2014;Atl. Madrid;Cordoba;4;2;La Liga
+01.11.2014;Barcelona;Celta Vigo;0;1;La Liga
+01.11.2014;R. Sociedad;Malaga;0;1;La Liga
+02.11.2014;Ath. Bilbao;Sevilla;1;0;La Liga
+02.11.2014;Villarreal;Valencia;1;3;La Liga
+02.11.2014;Levante;Almeria;2;1;La Liga
+02.11.2014;Elche;Espanyol;2;1;La Liga
+03.11.2014;Rayo Vallecano;Eibar;2;3;La Liga
+24.10.2014;Celta Vigo;Levante;3;0;La Liga
+25.10.2014;Almeria;Ath. Bilbao;0;1;La Liga
+25.10.2014;Real Madrid;Barcelona;3;1;La Liga
+25.10.2014;Valencia;Elche;3;1;La Liga
+25.10.2014;Cordoba;R. Sociedad;1;1;La Liga
+25.10.2014;Eibar;Granada;1;1;La Liga
+26.10.2014;Malaga;Rayo Vallecano;4;0;La Liga
+26.10.2014;Espanyol;Deportivo;0;0;La Liga
+26.10.2014;Sevilla;Villarreal;2;1;La Liga
+26.10.2014;Getafe;Atl. Madrid;0;1;La Liga
+17.10.2014;Granada;Rayo Vallecano;0;1;La Liga
+18.10.2014;Levante;Real Madrid;0;5;La Liga
+18.10.2014;Ath. Bilbao;Celta Vigo;1;1;La Liga
+18.10.2014;Barcelona;Eibar;3;0;La Liga
+18.10.2014;Cordoba;Malaga;1;2;La Liga
+19.10.2014;Atl. Madrid;Espanyol;2;0;La Liga
+19.10.2014;Deportivo;Valencia;3;0;La Liga
+19.10.2014;Elche;Sevilla;0;2;La Liga
+19.10.2014;Villarreal;Almeria;2;0;La Liga
+20.10.2014;R. Sociedad;Getafe;1;2;La Liga
+03.10.2014;Getafe;Cordoba;1;1;La Liga
+04.10.2014;Valencia;Atl. Madrid;3;1;La Liga
+04.10.2014;Rayo Vallecano;Barcelona;0;2;La Liga
+04.10.2014;Eibar;Levante;3;3;La Liga
+04.10.2014;Almeria;Elche;2;2;La Liga
+04.10.2014;Malaga;Granada;2;1;La Liga
+05.10.2014;Sevilla;Deportivo;4;1;La Liga
+05.10.2014;Celta Vigo;Villarreal;1;3;La Liga
+05.10.2014;Espanyol;R. Sociedad;2;0;La Liga
+05.10.2014;Real Madrid;Ath. Bilbao;5;0;La Liga
+26.09.2014;Elche;Celta Vigo;0;1;La Liga
+27.09.2014;Villarreal;Real Madrid;0;2;La Liga
+27.09.2014;Barcelona;Granada;6;0;La Liga
+27.09.2014;Atl. Madrid;Sevilla;4;0;La Liga
+27.09.2014;Ath. Bilbao;Eibar;0;0;La Liga
+27.09.2014;Levante;Rayo Vallecano;0;2;La Liga
+28.09.2014;Getafe;Malaga;1;0;La Liga
+28.09.2014;Deportivo;Almeria;0;1;La Liga
+28.09.2014;R. Sociedad;Valencia;1;1;La Liga
+28.09.2014;Cordoba;Espanyol;0;0;La Liga
+23.09.2014;Real Madrid;Elche;5;1;La Liga
+23.09.2014;Celta Vigo;Deportivo;2;1;La Liga
+24.09.2014;Almeria;Atl. Madrid;0;1;La Liga
+24.09.2014;Eibar;Villarreal;1;1;La Liga
+24.09.2014;Rayo Vallecano;Ath. Bilbao;2;1;La Liga
+24.09.2014;Sevilla;R. Sociedad;1;0;La Liga
+24.09.2014;Granada;Levante;0;1;La Liga
+24.09.2014;Malaga;Barcelona;0;0;La Liga
+25.09.2014;Espanyol;Getafe;2;0;La Liga
+25.09.2014;Valencia;Cordoba;3;0;La Liga
+19.09.2014;Elche;Eibar;0;2;La Liga
+20.09.2014;Deportivo;Real Madrid;2;8;La Liga
+20.09.2014;Ath. Bilbao;Granada;0;1;La Liga
+20.09.2014;Atl. Madrid;Celta Vigo;2;2;La Liga
+20.09.2014;Espanyol;Malaga;2;2;La Liga
+21.09.2014;R. Sociedad;Almeria;1;2;La Liga
+21.09.2014;Villarreal;Rayo Vallecano;4;2;La Liga
+21.09.2014;Cordoba;Sevilla;1;3;La Liga
+21.09.2014;Levante;Barcelona;0;5;La Liga
+22.09.2014;Getafe;Valencia;0;3;La Liga
+12.09.2014;Almeria;Cordoba;1;1;La Liga
+13.09.2014;Barcelona;Ath. Bilbao;2;0;La Liga
+13.09.2014;Malaga;Levante;0;0;La Liga
+13.09.2014;Real Madrid;Atl. Madrid;1;2;La Liga
+13.09.2014;Celta Vigo;R. Sociedad;2;2;La Liga
+14.09.2014;Rayo Vallecano;Elche;2;3;La Liga
+14.09.2014;Valencia;Espanyol;3;1;La Liga
+14.09.2014;Sevilla;Getafe;2;0;La Liga
+14.09.2014;Granada;Villarreal;0;0;La Liga
+15.09.2014;Eibar;Deportivo;0;1;La Liga
+29.08.2014;Getafe;Almeria;1;0;La Liga
+29.08.2014;Valencia;Malaga;3;0;La Liga
+30.08.2014;Cordoba;Celta Vigo;1;1;La Liga
+30.08.2014;Ath. Bilbao;Levante;3;0;La Liga
+30.08.2014;Atl. Madrid;Eibar;2;1;La Liga
+31.08.2014;Espanyol;Sevilla;1;2;La Liga
+31.08.2014;Villarreal;Barcelona;0;1;La Liga
+31.08.2014;R. Sociedad;Real Madrid;4;2;La Liga
+31.08.2014;Deportivo;Rayo Vallecano;2;2;La Liga
+01.09.2014;Elche;Granada;1;1;La Liga
+23.08.2014;Malaga;Ath. Bilbao;1;0;La Liga
+23.08.2014;Sevilla;Valencia;1;1;La Liga
+23.08.2014;Granada;Deportivo;2;1;La Liga
+24.08.2014;Almeria;Espanyol;1;1;La Liga
+24.08.2014;Eibar;R. Sociedad;1;0;La Liga
+24.08.2014;Celta Vigo;Getafe;3;1;La Liga
+24.08.2014;Barcelona;Elche;3;0;La Liga
+25.08.2014;Levante;Villarreal;0;2;La Liga
+25.08.2014;Real Madrid;Cordoba;2;0;La Liga
+25.08.2014;Rayo Vallecano;Atl. Madrid;0;0;La Liga

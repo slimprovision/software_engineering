@@ -1,0 +1,381 @@
+date;home_team;away_team;home_score;away_score;League
+06.08.2004;Nice;Lyon;0;1;Ligue 1
+07.08.2004;Bastia;Strasbourg;2;1;Ligue 1
+07.08.2004;Caen;Istres;1;1;Ligue 1
+07.08.2004;Marsilya;Bordeaux;1;0;Ligue 1
+07.08.2004;Lille;AJ Auxerre;2;0;Ligue 1
+07.08.2004;Metz;Nantes;1;0;Ligue 1
+07.08.2004;St Etienne;Monaco;0;1;Ligue 1
+07.08.2004;Rennes;PSG;2;1;Ligue 1
+07.08.2004;Sochaux;AC Ajaccio;1;0;Ligue 1
+07.08.2004;Toulouse;Lens;0;0;Ligue 1
+14.08.2004;AC Ajaccio;Metz;1;2;Ligue 1
+14.08.2004;AJ Auxerre;Rennes;3;1;Ligue 1
+14.08.2004;Bordeaux;Nice;5;1;Ligue 1
+14.08.2004;Lens;St Etienne;3;0;Ligue 1
+14.08.2004;Lyon;Sochaux;1;1;Ligue 1
+14.08.2004;Nantes;Bastia;1;1;Ligue 1
+14.08.2004;Monaco;Istres;2;1;Ligue 1
+14.08.2004;PSG;Caen;2;2;Ligue 1
+14.08.2004;Strasbourg;Toulouse;1;4;Ligue 1
+15.08.2004;Marsilya;Lille;3;0;Ligue 1
+21.08.2004;Bastia;AC Ajaccio;1;0;Ligue 1
+21.08.2004;Istres;Lens;0;2;Ligue 1
+21.08.2004;Caen;Monaco;1;0;Ligue 1
+21.08.2004;Lille;Bordeaux;0;0;Ligue 1
+21.08.2004;Rennes;Nantes;1;0;Ligue 1
+21.08.2004;Nice;Marsilya;1;1;Ligue 1
+21.08.2004;St Etienne;Strasbourg;1;1;Ligue 1
+21.08.2004;Toulouse;PSG;2;1;Ligue 1
+21.08.2004;Sochaux;AJ Auxerre;1;2;Ligue 1
+22.08.2004;Metz;Lyon;1;1;Ligue 1
+27.08.2004;Nice;Bastia;1;1;Ligue 1
+28.08.2004;Bordeaux;Sochaux;2;0;Ligue 1
+28.08.2004;AC Ajaccio;Rennes;1;1;Ligue 1
+28.08.2004;AJ Auxerre;Caen;1;0;Ligue 1
+28.08.2004;Lens;Monaco;1;1;Ligue 1
+28.08.2004;Marsilya;Metz;1;3;Ligue 1
+28.08.2004;Lyon;Lille;1;0;Ligue 1
+28.08.2004;Nantes;Toulouse;2;2;Ligue 1
+28.08.2004;Strasbourg;Istres;1;1;Ligue 1
+29.08.2004;PSG;St Etienne;2;2;Ligue 1
+11.09.2004;Bastia;AJ Auxerre;1;0;Ligue 1
+11.09.2004;Caen;Lens;1;0;Ligue 1
+11.09.2004;Istres;PSG;1;1;Ligue 1
+11.09.2004;Lille;Nice;1;0;Ligue 1
+11.09.2004;Metz;Bordeaux;0;0;Ligue 1
+11.09.2004;Monaco;Strasbourg;3;1;Ligue 1
+11.09.2004;Rennes;Lyon;1;2;Ligue 1
+11.09.2004;St Etienne;Nantes;0;0;Ligue 1
+11.09.2004;Toulouse;AC Ajaccio;3;1;Ligue 1
+12.09.2004;Sochaux;Marsilya;2;0;Ligue 1
+18.09.2004;AC Ajaccio;St Etienne;1;1;Ligue 1
+18.09.2004;Bordeaux;Rennes;0;0;Ligue 1
+18.09.2004;Lyon;Bastia;0;0;Ligue 1
+18.09.2004;Nantes;Istres;1;0;Ligue 1
+18.09.2004;Marsilya;Toulouse;1;0;Ligue 1
+18.09.2004;Strasbourg;Lens;2;2;Ligue 1
+19.09.2004;AJ Auxerre;Metz;4;0;Ligue 1
+19.09.2004;Lille;Caen;2;0;Ligue 1
+19.09.2004;Nice;Sochaux;2;1;Ligue 1
+19.09.2004;PSG;Monaco;0;1;Ligue 1
+21.09.2004;Toulouse;Lyon;0;2;Ligue 1
+22.09.2004;Rennes;Marsilya;1;0;Ligue 1
+22.09.2004;Bastia;Bordeaux;1;4;Ligue 1
+22.09.2004;Istres;AC Ajaccio;0;1;Ligue 1
+22.09.2004;Caen;Strasbourg;0;0;Ligue 1
+22.09.2004;Lens;PSG;2;2;Ligue 1
+22.09.2004;Monaco;Nantes;2;1;Ligue 1
+22.09.2004;Metz;Nice;1;1;Ligue 1
+22.09.2004;St Etienne;AJ Auxerre;3;1;Ligue 1
+22.09.2004;Sochaux;Lille;0;2;Ligue 1
+25.09.2004;Lyon;Monaco;0;0;Ligue 1
+25.09.2004;AC Ajaccio;Caen;2;2;Ligue 1
+25.09.2004;AJ Auxerre;Istres;0;0;Ligue 1
+25.09.2004;Bordeaux;Toulouse;1;1;Ligue 1
+25.09.2004;Lille;Metz;4;0;Ligue 1
+25.09.2004;Marsilya;Bastia;1;0;Ligue 1
+25.09.2004;Nice;Rennes;2;0;Ligue 1
+25.09.2004;Sochaux;St Etienne;2;1;Ligue 1
+25.09.2004;PSG;Strasbourg;1;0;Ligue 1
+26.09.2004;Nantes;Lens;1;0;Ligue 1
+02.10.2004;Istres;Marsilya;0;2;Ligue 1
+02.10.2004;Caen;Bordeaux;1;1;Ligue 1
+02.10.2004;Lens;AC Ajaccio;1;1;Ligue 1
+02.10.2004;Monaco;Nice;3;4;Ligue 1
+02.10.2004;Bastia;PSG;1;2;Ligue 1
+02.10.2004;Strasbourg;Nantes;0;2;Ligue 1
+03.10.2004;Metz;Sochaux;0;0;Ligue 1
+03.10.2004;Rennes;Lille;0;1;Ligue 1
+03.10.2004;Toulouse;AJ Auxerre;1;2;Ligue 1
+03.10.2004;St Etienne;Lyon;2;3;Ligue 1
+15.10.2004;Lyon;Caen;4;0;Ligue 1
+16.10.2004;AJ Auxerre;Lens;3;0;Ligue 1
+16.10.2004;AC Ajaccio;Strasbourg;2;2;Ligue 1
+16.10.2004;Bordeaux;Istres;2;2;Ligue 1
+16.10.2004;Lille;Bastia;2;1;Ligue 1
+16.10.2004;Nantes;PSG;1;0;Ligue 1
+16.10.2004;Metz;Monaco;1;1;Ligue 1
+16.10.2004;Nice;Toulouse;1;0;Ligue 1
+16.10.2004;Sochaux;Rennes;3;0;Ligue 1
+17.10.2004;Marsilya;St Etienne;1;1;Ligue 1
+23.10.2004;Istres;Lyon;0;0;Ligue 1
+23.10.2004;Caen;Nantes;2;1;Ligue 1
+23.10.2004;Rennes;Metz;3;1;Ligue 1
+23.10.2004;PSG;AC Ajaccio;1;0;Ligue 1
+23.10.2004;St Etienne;Bordeaux;0;0;Ligue 1
+23.10.2004;Strasbourg;Nice;3;1;Ligue 1
+24.10.2004;Bastia;Sochaux;1;1;Ligue 1
+24.10.2004;Monaco;AJ Auxerre;0;0;Ligue 1
+24.10.2004;Toulouse;Lille;1;0;Ligue 1
+24.10.2004;Lens;Marsilya;0;0;Ligue 1
+29.10.2004;Marsilya;Monaco;1;1;Ligue 1
+30.10.2004;AC Ajaccio;Nantes;1;1;Ligue 1
+30.10.2004;Bordeaux;Lens;1;1;Ligue 1
+30.10.2004;Lyon;Strasbourg;1;0;Ligue 1
+30.10.2004;AJ Auxerre;PSG;1;1;Ligue 1
+30.10.2004;Lille;St Etienne;1;0;Ligue 1
+30.10.2004;Metz;Bastia;2;0;Ligue 1
+30.10.2004;Rennes;Caen;1;1;Ligue 1
+30.10.2004;Nice;Istres;0;0;Ligue 1
+30.10.2004;Sochaux;Toulouse;2;0;Ligue 1
+06.11.2004;St Etienne;Nice;2;1;Ligue 1
+06.11.2004;Bastia;Rennes;1;1;Ligue 1
+06.11.2004;Caen;Sochaux;0;2;Ligue 1
+06.11.2004;Monaco;AC Ajaccio;2;2;Ligue 1
+06.11.2004;Lens;Lyon;0;1;Ligue 1
+06.11.2004;Toulouse;Metz;1;1;Ligue 1
+06.11.2004;Strasbourg;Bordeaux;1;0;Ligue 1
+07.11.2004;Nantes;AJ Auxerre;1;1;Ligue 1
+07.11.2004;Istres;Lille;0;2;Ligue 1
+07.11.2004;PSG;Marsilya;2;1;Ligue 1
+13.11.2004;Lyon;Nantes;2;0;Ligue 1
+13.11.2004;AJ Auxerre;AC Ajaccio;1;0;Ligue 1
+13.11.2004;Bordeaux;PSG;3;0;Ligue 1
+13.11.2004;Bastia;St Etienne;0;3;Ligue 1
+13.11.2004;Marsilya;Strasbourg;2;0;Ligue 1
+13.11.2004;Metz;Caen;1;2;Ligue 1
+13.11.2004;Nice;Lens;1;1;Ligue 1
+13.11.2004;Sochaux;Istres;1;1;Ligue 1
+13.11.2004;Rennes;Toulouse;1;1;Ligue 1
+14.11.2004;Lille;Monaco;1;1;Ligue 1
+19.11.2004;Monaco;Sochaux;1;3;Ligue 1
+19.11.2004;PSG;Lyon;0;0;Ligue 1
+20.11.2004;AC Ajaccio;Marsilya;2;0;Ligue 1
+20.11.2004;Caen;Nice;0;0;Ligue 1
+20.11.2004;Istres;Metz;0;0;Ligue 1
+20.11.2004;Lens;Lille;1;1;Ligue 1
+20.11.2004;Nantes;Bordeaux;0;1;Ligue 1
+20.11.2004;St Etienne;Rennes;1;0;Ligue 1
+20.11.2004;Strasbourg;AJ Auxerre;3;1;Ligue 1
+20.11.2004;Toulouse;Bastia;1;0;Ligue 1
+27.11.2004;Bastia;Caen;2;0;Ligue 1
+27.11.2004;Bordeaux;AC Ajaccio;0;0;Ligue 1
+27.11.2004;Lyon;AJ Auxerre;2;1;Ligue 1
+27.11.2004;Marsilya;Nantes;3;1;Ligue 1
+27.11.2004;Metz;St Etienne;2;2;Ligue 1
+27.11.2004;Rennes;Istres;3;1;Ligue 1
+27.11.2004;Toulouse;Monaco;0;0;Ligue 1
+28.11.2004;Lille;Strasbourg;1;1;Ligue 1
+28.11.2004;Nice;PSG;1;1;Ligue 1
+28.11.2004;Sochaux;Lens;1;2;Ligue 1
+03.12.2004;Monaco;Rennes;2;0;Ligue 1
+04.12.2004;AC Ajaccio;Lyon;1;1;Ligue 1
+04.12.2004;Caen;Marsilya;2;3;Ligue 1
+04.12.2004;Istres;Bastia;1;0;Ligue 1
+04.12.2004;Lens;Metz;2;0;Ligue 1
+04.12.2004;Nantes;Nice;0;1;Ligue 1
+04.12.2004;St Etienne;Toulouse;0;0;Ligue 1
+04.12.2004;PSG;Lille;1;1;Ligue 1
+04.12.2004;Strasbourg;Sochaux;0;0;Ligue 1
+05.12.2004;AJ Auxerre;Bordeaux;0;0;Ligue 1
+11.12.2004;Bastia;Monaco;0;2;Ligue 1
+11.12.2004;Bordeaux;Lyon;0;0;Ligue 1
+11.12.2004;Marsilya;AJ Auxerre;0;1;Ligue 1
+11.12.2004;Lille;Nantes;2;1;Ligue 1
+11.12.2004;Metz;Strasbourg;1;0;Ligue 1
+11.12.2004;Nice;AC Ajaccio;3;0;Ligue 1
+11.12.2004;St Etienne;Caen;5;0;Ligue 1
+11.12.2004;Toulouse;Istres;2;1;Ligue 1
+11.12.2004;Rennes;Lens;3;1;Ligue 1
+12.12.2004;Sochaux;PSG;1;2;Ligue 1
+17.12.2004;Lyon;Marsilya;1;1;Ligue 1
+18.12.2004;AC Ajaccio;Lille;0;0;Ligue 1
+18.12.2004;Caen;Toulouse;0;2;Ligue 1
+18.12.2004;AJ Auxerre;Nice;4;3;Ligue 1
+18.12.2004;Istres;St Etienne;0;2;Ligue 1
+18.12.2004;Lens;Bastia;2;1;Ligue 1
+18.12.2004;Monaco;Bordeaux;1;1;Ligue 1
+18.12.2004;PSG;Metz;3;0;Ligue 1
+18.12.2004;Strasbourg;Rennes;1;0;Ligue 1
+19.12.2004;Nantes;Sochaux;2;2;Ligue 1
+11.01.2005;Lille;Marsilya;1;2;Ligue 1
+12.01.2005;Bastia;Nantes;0;0;Ligue 1
+12.01.2005;Caen;PSG;0;0;Ligue 1
+12.01.2005;Nice;Bordeaux;3;3;Ligue 1
+12.01.2005;Istres;Monaco;0;1;Ligue 1
+12.01.2005;Metz;AC Ajaccio;1;0;Ligue 1
+12.01.2005;Rennes;AJ Auxerre;1;0;Ligue 1
+12.01.2005;St Etienne;Lens;0;0;Ligue 1
+12.01.2005;Sochaux;Lyon;0;2;Ligue 1
+12.01.2005;Toulouse;Strasbourg;2;0;Ligue 1
+15.01.2005;AC Ajaccio;Bastia;1;0;Ligue 1
+15.01.2005;Bordeaux;Lille;1;3;Ligue 1
+15.01.2005;AJ Auxerre;Sochaux;2;0;Ligue 1
+15.01.2005;Lens;Istres;0;1;Ligue 1
+15.01.2005;Nantes;Rennes;2;0;Ligue 1
+15.01.2005;Lyon;Metz;2;0;Ligue 1
+15.01.2005;Monaco;Caen;5;2;Ligue 1
+15.01.2005;PSG;Toulouse;0;0;Ligue 1
+15.01.2005;Strasbourg;St Etienne;1;1;Ligue 1
+16.01.2005;Marsilya;Nice;2;0;Ligue 1
+22.01.2005;Bastia;Nice;2;0;Ligue 1
+22.01.2005;Istres;Strasbourg;1;1;Ligue 1
+22.01.2005;Metz;Marsilya;0;1;Ligue 1
+22.01.2005;Caen;AJ Auxerre;0;2;Ligue 1
+22.01.2005;Monaco;Lens;2;0;Ligue 1
+22.01.2005;St Etienne;PSG;0;0;Ligue 1
+22.01.2005;Rennes;AC Ajaccio;2;0;Ligue 1
+22.01.2005;Sochaux;Bordeaux;4;0;Ligue 1
+22.01.2005;Toulouse;Nantes;2;1;Ligue 1
+23.01.2005;Lille;Lyon;2;1;Ligue 1
+25.01.2005;Marsilya;Sochaux;0;2;Ligue 1
+26.01.2005;AC Ajaccio;Toulouse;1;0;Ligue 1
+26.01.2005;Bordeaux;Metz;1;0;Ligue 1
+26.01.2005;Lyon;Rennes;2;1;Ligue 1
+26.01.2005;AJ Auxerre;Bastia;4;1;Ligue 1
+26.01.2005;Nice;Lille;1;1;Ligue 1
+26.01.2005;Nantes;St Etienne;0;0;Ligue 1
+26.01.2005;PSG;Istres;2;2;Ligue 1
+26.01.2005;Lens;Caen;0;1;Ligue 1
+29.01.2005;Caen;Lille;0;0;Ligue 1
+29.01.2005;Lens;Strasbourg;2;1;Ligue 1
+29.01.2005;Metz;AJ Auxerre;3;0;Ligue 1
+29.01.2005;Rennes;Bordeaux;2;0;Ligue 1
+29.01.2005;Sochaux;Nice;0;0;Ligue 1
+29.01.2005;Toulouse;Marsilya;1;3;Ligue 1
+30.01.2005;Istres;Nantes;0;1;Ligue 1
+30.01.2005;Monaco;PSG;2;0;Ligue 1
+01.02.2005;Bastia;Lyon;1;1;Ligue 1
+05.02.2005;AC Ajaccio;Istres;0;0;Ligue 1
+05.02.2005;Bordeaux;Bastia;0;0;Ligue 1
+05.02.2005;AJ Auxerre;St Etienne;2;2;Ligue 1
+05.02.2005;Lille;Sochaux;0;0;Ligue 1
+05.02.2005;Lyon;Toulouse;4;0;Ligue 1
+05.02.2005;Nantes;Monaco;0;0;Ligue 1
+05.02.2005;Marsilya;Rennes;3;1;Ligue 1
+05.02.2005;Nice;Metz;1;1;Ligue 1
+05.02.2005;Strasbourg;Caen;5;0;Ligue 1
+06.02.2005;PSG;Lens;0;2;Ligue 1
+18.02.2005;Monaco;Lyon;1;1;Ligue 1
+19.02.2005;Bastia;Marsilya;0;1;Ligue 1
+19.02.2005;Caen;AC Ajaccio;2;2;Ligue 1
+19.02.2005;Lens;Nantes;2;0;Ligue 1
+19.02.2005;Rennes;Nice;4;1;Ligue 1
+19.02.2005;Strasbourg;PSG;3;1;Ligue 1
+19.02.2005;Toulouse;Bordeaux;1;0;Ligue 1
+20.02.2005;Istres;AJ Auxerre;1;0;Ligue 1
+20.02.2005;Metz;Lille;1;1;Ligue 1
+20.02.2005;St Etienne;Sochaux;1;0;Ligue 1
+26.02.2005;AC Ajaccio;Lens;0;0;Ligue 1
+26.02.2005;Bordeaux;Caen;2;2;Ligue 1
+26.02.2005;Lyon;St Etienne;3;2;Ligue 1
+26.02.2005;Nantes;Strasbourg;2;1;Ligue 1
+26.02.2005;Nice;Monaco;2;1;Ligue 1
+26.02.2005;PSG;Bastia;1;0;Ligue 1
+27.02.2005;Lille;Rennes;0;0;Ligue 1
+27.02.2005;Marsilya;Istres;1;1;Ligue 1
+04.03.2005;Caen;Lyon;1;0;Ligue 1
+05.03.2005;Bastia;Lille;3;1;Ligue 1
+05.03.2005;Istres;Bordeaux;0;1;Ligue 1
+05.03.2005;Lens;AJ Auxerre;3;1;Ligue 1
+05.03.2005;Monaco;Metz;0;0;Ligue 1
+05.03.2005;Rennes;Sochaux;3;0;Ligue 1
+05.03.2005;Strasbourg;AC Ajaccio;1;0;Ligue 1
+05.03.2005;PSG;Nantes;1;0;Ligue 1
+05.03.2005;Toulouse;Nice;1;0;Ligue 1
+06.03.2005;St Etienne;Marsilya;2;0;Ligue 1
+12.03.2005;AC Ajaccio;PSG;1;0;Ligue 1
+12.03.2005;Bordeaux;St Etienne;2;0;Ligue 1
+12.03.2005;Lyon;Istres;2;1;Ligue 1
+12.03.2005;Marsilya;Lens;2;1;Ligue 1
+12.03.2005;Nantes;Caen;2;0;Ligue 1
+12.03.2005;Metz;Rennes;1;1;Ligue 1
+12.03.2005;Nice;Strasbourg;0;0;Ligue 1
+12.03.2005;Sochaux;Bastia;1;0;Ligue 1
+13.03.2005;AJ Auxerre;Monaco;2;2;Ligue 1
+13.03.2005;Lille;Toulouse;1;1;Ligue 1
+16.03.2005;Strasbourg;Monaco;0;0;Ligue 1
+16.03.2005;St Etienne;AC Ajaccio;3;0;Ligue 1
+16.03.2005;Sochaux;Metz;2;1;Ligue 1
+19.03.2005;Bastia;Metz;1;0;Ligue 1
+19.03.2005;Caen;Rennes;2;2;Ligue 1
+19.03.2005;Lens;Bordeaux;2;0;Ligue 1
+19.03.2005;Istres;Nice;1;1;Ligue 1
+19.03.2005;Nantes;AC Ajaccio;0;0;Ligue 1
+19.03.2005;Strasbourg;Lyon;0;1;Ligue 1
+19.03.2005;Toulouse;Sochaux;0;0;Ligue 1
+20.03.2005;Monaco;Marsilya;2;1;Ligue 1
+20.03.2005;St Etienne;Lille;0;0;Ligue 1
+20.03.2005;PSG;AJ Auxerre;1;0;Ligue 1
+02.04.2005;AC Ajaccio;Monaco;3;0;Ligue 1
+02.04.2005;Bordeaux;Strasbourg;0;2;Ligue 1
+02.04.2005;Lyon;Lens;1;0;Ligue 1
+02.04.2005;AJ Auxerre;Nantes;2;1;Ligue 1
+02.04.2005;Lille;Istres;8;0;Ligue 1
+02.04.2005;Nice;St Etienne;2;0;Ligue 1
+02.04.2005;Metz;Toulouse;0;1;Ligue 1
+02.04.2005;Rennes;Bastia;1;0;Ligue 1
+02.04.2005;Sochaux;Caen;1;0;Ligue 1
+03.04.2005;Marsilya;PSG;1;1;Ligue 1
+09.04.2005;Caen;Metz;0;1;Ligue 1
+09.04.2005;Lens;Nice;0;0;Ligue 1
+09.04.2005;Nantes;Lyon;2;2;Ligue 1
+09.04.2005;Istres;Sochaux;2;0;Ligue 1
+09.04.2005;PSG;Bordeaux;1;1;Ligue 1
+09.04.2005;Strasbourg;Marsilya;1;0;Ligue 1
+09.04.2005;St Etienne;Bastia;3;0;Ligue 1
+09.04.2005;Toulouse;Rennes;0;2;Ligue 1
+10.04.2005;AC Ajaccio;AJ Auxerre;4;3;Ligue 1
+16.04.2005;Bordeaux;Nantes;0;2;Ligue 1
+16.04.2005;Bastia;Toulouse;2;1;Ligue 1
+16.04.2005;Lille;Lens;2;1;Ligue 1
+16.04.2005;Marsilya;AC Ajaccio;1;2;Ligue 1
+16.04.2005;Metz;Istres;2;1;Ligue 1
+16.04.2005;Nice;Caen;0;1;Ligue 1
+16.04.2005;Sochaux;Monaco;1;1;Ligue 1
+16.04.2005;Rennes;St Etienne;2;2;Ligue 1
+17.04.2005;AJ Auxerre;Strasbourg;0;0;Ligue 1
+17.04.2005;Lyon;PSG;0;1;Ligue 1
+22.04.2005;PSG;Nice;3;1;Ligue 1
+23.04.2005;AC Ajaccio;Bordeaux;0;0;Ligue 1
+23.04.2005;Istres;Rennes;0;2;Ligue 1
+23.04.2005;Monaco;Toulouse;2;1;Ligue 1
+23.04.2005;Caen;Bastia;0;1;Ligue 1
+23.04.2005;Lens;Sochaux;3;2;Ligue 1
+23.04.2005;Nantes;Marsilya;2;2;Ligue 1
+23.04.2005;St Etienne;Metz;0;0;Ligue 1
+23.04.2005;Strasbourg;Lille;1;2;Ligue 1
+24.04.2005;AJ Auxerre;Lyon;0;3;Ligue 1
+29.04.2005;AJ Auxerre;Toulouse;3;2;Ligue 1
+01.05.2005;Monaco;Lille;2;0;Ligue 1
+06.05.2005;Bordeaux;AJ Auxerre;0;0;Ligue 1
+07.05.2005;Bastia;Istres;2;0;Ligue 1
+07.05.2005;Metz;Lens;1;1;Ligue 1
+07.05.2005;Lille;PSG;1;0;Ligue 1
+07.05.2005;Marsilya;Caen;2;3;Ligue 1
+07.05.2005;Nice;Nantes;0;0;Ligue 1
+07.05.2005;Rennes;Monaco;0;0;Ligue 1
+07.05.2005;Sochaux;Strasbourg;1;2;Ligue 1
+07.05.2005;Toulouse;St Etienne;0;2;Ligue 1
+08.05.2005;Lyon;AC Ajaccio;2;1;Ligue 1
+14.05.2005;AC Ajaccio;Nice;0;1;Ligue 1
+14.05.2005;AJ Auxerre;Marsilya;0;0;Ligue 1
+14.05.2005;Istres;Toulouse;1;0;Ligue 1
+14.05.2005;Caen;St Etienne;2;0;Ligue 1
+14.05.2005;Lens;Rennes;5;2;Ligue 1
+14.05.2005;Nantes;Lille;1;3;Ligue 1
+14.05.2005;Monaco;Bastia;5;2;Ligue 1
+14.05.2005;PSG;Sochaux;2;2;Ligue 1
+14.05.2005;Strasbourg;Metz;3;1;Ligue 1
+15.05.2005;Lyon;Bordeaux;5;1;Ligue 1
+21.05.2005;Bastia;Lens;3;1;Ligue 1
+21.05.2005;Lille;AC Ajaccio;0;2;Ligue 1
+21.05.2005;Bordeaux;Monaco;1;1;Ligue 1
+21.05.2005;Marsilya;Lyon;0;1;Ligue 1
+21.05.2005;Metz;PSG;3;2;Ligue 1
+21.05.2005;Rennes;Strasbourg;4;0;Ligue 1
+21.05.2005;Nice;AJ Auxerre;1;0;Ligue 1
+21.05.2005;St Etienne;Istres;2;0;Ligue 1
+21.05.2005;Sochaux;Nantes;1;0;Ligue 1
+21.05.2005;Toulouse;Caen;2;3;Ligue 1
+28.05.2005;AC Ajaccio;Sochaux;3;1;Ligue 1
+28.05.2005;Bordeaux;Marsilya;3;3;Ligue 1
+28.05.2005;AJ Auxerre;Lille;1;3;Ligue 1
+28.05.2005;Istres;Caen;3;2;Ligue 1
+28.05.2005;Lyon;Nice;0;0;Ligue 1
+28.05.2005;Lens;Toulouse;1;0;Ligue 1
+28.05.2005;Monaco;St Etienne;1;1;Ligue 1
+28.05.2005;PSG;Rennes;1;0;Ligue 1
+28.05.2005;Nantes;Metz;1;0;Ligue 1
+28.05.2005;Strasbourg;Bastia;2;0;Ligue 1

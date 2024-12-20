@@ -1,0 +1,307 @@
+date;home_team;away_team;home_score;away_score;League
+30.09.2000;Napoli;Juventus;1;2;Serie A
+30.09.2000;Bari;Hellas Verona;1;1;Serie A
+01.10.2000;Milan;Vicenza;2;0;Serie A
+01.10.2000;Roma;Bologna;2;0;Serie A
+01.10.2000;Parma;Fiorentina;2;2;Serie A
+01.10.2000;Udinese;Brescia;4;2;Serie A
+01.10.2000;Reggina;Inter;2;1;Serie A
+01.10.2000;Atalanta;Lazio;2;2;Serie A
+01.10.2000;Perugia;Lecce;1;1;Serie A
+14.10.2000;Inter;Napoli;3;1;Serie A
+14.10.2000;Lazio;Perugia;3;0;Serie A
+15.10.2000;Juventus;Bari;2;0;Serie A
+15.10.2000;Bologna;Milan;2;1;Serie A
+15.10.2000;Brescia;Parma;0;0;Serie A
+15.10.2000;Lecce;Roma;0;4;Serie A
+15.10.2000;Fiorentina;Reggina;2;1;Serie A
+15.10.2000;Vicenza;Atalanta;1;2;Serie A
+15.10.2000;Hellas Verona;Udinese;1;1;Serie A
+21.10.2000;Milan;Juventus;2;2;Serie A
+21.10.2000;Udinese;Inter;3;0;Serie A
+22.10.2000;Roma;Vicenza;3;1;Serie A
+22.10.2000;Brescia;Fiorentina;1;1;Serie A
+22.10.2000;Reggina;Lecce;0;1;Serie A
+22.10.2000;Perugia;Parma;3;1;Serie A
+22.10.2000;Napoli;Bologna;1;5;Serie A
+22.10.2000;Hellas Verona;Lazio;2;0;Serie A
+22.10.2000;Bari;Atalanta;0;2;Serie A
+01.11.2000;Juventus;Udinese;1;2;Serie A
+01.11.2000;Parma;Milan;2;0;Serie A
+01.11.2000;Inter;Roma;2;0;Serie A
+01.11.2000;Lazio;Brescia;2;1;Serie A
+01.11.2000;Bologna;Reggina;2;0;Serie A
+01.11.2000;Lecce;Napoli;1;1;Serie A
+01.11.2000;Atalanta;Hellas Verona;3;0;Serie A
+01.11.2000;Fiorentina;Bari;2;2;Serie A
+01.11.2000;Vicenza;Perugia;1;0;Serie A
+04.11.2000;Lazio;Bologna;2;0;Serie A
+04.11.2000;Fiorentina;Perugia;3;4;Serie A
+05.11.2000;Milan;Atalanta;3;3;Serie A
+05.11.2000;Udinese;Lecce;2;0;Serie A
+05.11.2000;Brescia;Roma;2;4;Serie A
+05.11.2000;Reggina;Juventus;0;2;Serie A
+05.11.2000;Napoli;Vicenza;1;2;Serie A
+05.11.2000;Hellas Verona;Inter;2;2;Serie A
+05.11.2000;Bari;Parma;0;1;Serie A
+11.11.2000;Juventus;Lazio;1;1;Serie A
+11.11.2000;Atalanta;Brescia;2;0;Serie A
+12.11.2000;Roma;Reggina;2;1;Serie A
+12.11.2000;Parma;Udinese;2;0;Serie A
+12.11.2000;Inter;Lecce;0;1;Serie A
+12.11.2000;Bologna;Fiorentina;1;1;Serie A
+12.11.2000;Perugia;Napoli;1;1;Serie A
+12.11.2000;Vicenza;Hellas Verona;2;2;Serie A
+12.11.2000;Bari;Milan;1;3;Serie A
+18.11.2000;Inter;Perugia;2;1;Serie A
+18.11.2000;Lazio;Milan;1;1;Serie A
+19.11.2000;Udinese;Reggina;3;0;Serie A
+19.11.2000;Bologna;Parma;2;1;Serie A
+19.11.2000;Brescia;Juventus;0;0;Serie A
+19.11.2000;Lecce;Bari;2;0;Serie A
+19.11.2000;Fiorentina;Vicenza;3;2;Serie A
+19.11.2000;Napoli;Atalanta;0;0;Serie A
+19.11.2000;Hellas Verona;Roma;1;4;Serie A
+25.11.2000;Milan;Napoli;1;0;Serie A
+25.11.2000;Atalanta;Lecce;1;0;Serie A
+26.11.2000;Roma;Fiorentina;1;0;Serie A
+26.11.2000;Juventus;Hellas Verona;2;1;Serie A
+26.11.2000;Parma;Lazio;2;0;Serie A
+26.11.2000;Reggina;Brescia;0;3;Serie A
+26.11.2000;Perugia;Bologna;1;3;Serie A
+26.11.2000;Vicenza;Inter;0;0;Serie A
+26.11.2000;Bari;Udinese;2;1;Serie A
+02.12.2000;Parma;Atalanta;2;0;Serie A
+02.12.2000;Lazio;Reggina;2;0;Serie A
+03.12.2000;Inter;Juventus;2;2;Serie A
+03.12.2000;Udinese;Milan;0;1;Serie A
+03.12.2000;Bologna;Vicenza;1;1;Serie A
+03.12.2000;Lecce;Fiorentina;1;1;Serie A
+03.12.2000;Perugia;Roma;0;0;Serie A
+03.12.2000;Napoli;Bari;1;0;Serie A
+03.12.2000;Hellas Verona;Brescia;2;1;Serie A
+09.12.2000;Brescia;Napoli;1;1;Serie A
+09.12.2000;Reggina;Hellas Verona;1;1;Serie A
+10.12.2000;Milan;Lecce;4;1;Serie A
+10.12.2000;Roma;Udinese;2;1;Serie A
+10.12.2000;Juventus;Parma;1;0;Serie A
+10.12.2000;Atalanta;Perugia;0;0;Serie A
+10.12.2000;Fiorentina;Inter;2;0;Serie A
+10.12.2000;Vicenza;Lazio;1;4;Serie A
+10.12.2000;Bari;Bologna;2;0;Serie A
+16.12.2000;Perugia;Bari;4;1;Serie A
+16.12.2000;Napoli;Reggina;6;2;Serie A
+17.12.2000;Parma;Vicenza;0;2;Serie A
+17.12.2000;Inter;Brescia;0;0;Serie A
+17.12.2000;Lazio;Roma;0;1;Serie A
+17.12.2000;Udinese;Fiorentina;1;3;Serie A
+17.12.2000;Bologna;Atalanta;0;1;Serie A
+17.12.2000;Lecce;Juventus;1;4;Serie A
+17.12.2000;Hellas Verona;Milan;1;1;Serie A
+22.12.2000;Roma;Juventus;0;0;Serie A
+22.12.2000;Bari;Lazio;1;2;Serie A
+23.12.2000;Milan;Perugia;1;2;Serie A
+23.12.2000;Udinese;Bologna;3;1;Serie A
+23.12.2000;Brescia;Lecce;2;2;Serie A
+23.12.2000;Reggina;Vicenza;1;0;Serie A
+23.12.2000;Atalanta;Inter;0;1;Serie A
+23.12.2000;Fiorentina;Hellas Verona;2;0;Serie A
+23.12.2000;Napoli;Parma;2;2;Serie A
+06.01.2001;Juventus;Fiorentina;3;3;Serie A
+06.01.2001;Vicenza;Bari;1;0;Serie A
+07.01.2001;Milan;Inter;2;2;Serie A
+07.01.2001;Parma;Reggina;0;2;Serie A
+07.01.2001;Lazio;Napoli;1;2;Serie A
+07.01.2001;Bologna;Brescia;1;0;Serie A
+07.01.2001;Lecce;Hellas Verona;4;2;Serie A
+07.01.2001;Atalanta;Roma;0;2;Serie A
+07.01.2001;Perugia;Udinese;3;1;Serie A
+13.01.2001;Brescia;Perugia;1;0;Serie A
+13.01.2001;Fiorentina;Milan;4;0;Serie A
+14.01.2001;Roma;Bari;1;1;Serie A
+14.01.2001;Juventus;Bologna;1;0;Serie A
+14.01.2001;Inter;Parma;1;1;Serie A
+14.01.2001;Udinese;Lazio;3;4;Serie A
+14.01.2001;Lecce;Vicenza;3;1;Serie A
+14.01.2001;Reggina;Atalanta;1;0;Serie A
+14.01.2001;Hellas Verona;Napoli;2;1;Serie A
+20.01.2001;Lazio;Inter;2;0;Serie A
+20.01.2001;Bologna;Hellas Verona;1;0;Serie A
+21.01.2001;Milan;Roma;3;2;Serie A
+21.01.2001;Parma;Lecce;1;1;Serie A
+21.01.2001;Atalanta;Fiorentina;0;0;Serie A
+21.01.2001;Perugia;Juventus;0;1;Serie A
+21.01.2001;Vicenza;Brescia;1;1;Serie A
+21.01.2001;Napoli;Udinese;0;1;Serie A
+21.01.2001;Bari;Reggina;2;1;Serie A
+27.01.2001;Lecce;Bologna;0;0;Serie A
+27.01.2001;Reggina;Perugia;0;2;Serie A
+28.01.2001;Roma;Napoli;3;0;Serie A
+28.01.2001;Juventus;Vicenza;4;0;Serie A
+28.01.2001;Inter;Bari;1;0;Serie A
+28.01.2001;Udinese;Atalanta;2;4;Serie A
+28.01.2001;Brescia;Milan;1;1;Serie A
+28.01.2001;Fiorentina;Lazio;1;4;Serie A
+28.01.2001;Hellas Verona;Parma;0;2;Serie A
+03.02.2001;Atalanta;Juventus;2;1;Serie A
+03.02.2001;Perugia;Hellas Verona;1;0;Serie A
+04.02.2001;Milan;Reggina;1;0;Serie A
+04.02.2001;Parma;Roma;1;2;Serie A
+04.02.2001;Lazio;Lecce;3;2;Serie A
+04.02.2001;Bologna;Inter;0;3;Serie A
+04.02.2001;Vicenza;Udinese;1;2;Serie A
+04.02.2001;Napoli;Fiorentina;1;0;Serie A
+04.02.2001;Bari;Brescia;1;3;Serie A
+10.02.2001;Inter;Reggina;1;1;Serie A
+10.02.2001;Lazio;Atalanta;0;0;Serie A
+11.02.2001;Juventus;Napoli;3;0;Serie A
+11.02.2001;Bologna;Roma;1;2;Serie A
+11.02.2001;Brescia;Udinese;3;1;Serie A
+11.02.2001;Lecce;Perugia;2;2;Serie A
+11.02.2001;Fiorentina;Parma;0;1;Serie A
+11.02.2001;Vicenza;Milan;2;0;Serie A
+11.02.2001;Hellas Verona;Bari;3;2;Serie A
+17.02.2001;Milan;Bologna;3;3;Serie A
+17.02.2001;Udinese;Hellas Verona;2;1;Serie A
+18.02.2001;Roma;Lecce;1;0;Serie A
+18.02.2001;Parma;Brescia;3;0;Serie A
+18.02.2001;Reggina;Fiorentina;1;1;Serie A
+18.02.2001;Atalanta;Vicenza;1;1;Serie A
+18.02.2001;Perugia;Lazio;0;1;Serie A
+18.02.2001;Napoli;Inter;1;0;Serie A
+18.02.2001;Bari;Juventus;0;1;Serie A
+24.02.2001;Atalanta;Bari;0;0;Serie A
+24.02.2001;Fiorentina;Brescia;2;2;Serie A
+25.02.2001;Juventus;Milan;3;0;Serie A
+25.02.2001;Parma;Perugia;5;0;Serie A
+25.02.2001;Inter;Udinese;2;1;Serie A
+25.02.2001;Lazio;Hellas Verona;5;3;Serie A
+25.02.2001;Bologna;Napoli;2;1;Serie A
+25.02.2001;Lecce;Reggina;2;1;Serie A
+25.02.2001;Vicenza;Roma;0;2;Serie A
+03.03.2001;Brescia;Lazio;0;1;Serie A
+03.03.2001;Reggina;Bologna;2;1;Serie A
+04.03.2001;Milan;Parma;2;2;Serie A
+04.03.2001;Roma;Inter;3;2;Serie A
+04.03.2001;Udinese;Juventus;0;2;Serie A
+04.03.2001;Perugia;Vicenza;1;0;Serie A
+04.03.2001;Napoli;Lecce;1;1;Serie A
+04.03.2001;Hellas Verona;Atalanta;2;1;Serie A
+04.03.2001;Bari;Fiorentina;2;1;Serie A
+10.03.2001;Atalanta;Milan;1;1;Serie A
+10.03.2001;Vicenza;Napoli;2;0;Serie A
+11.03.2001;Roma;Brescia;3;1;Serie A
+11.03.2001;Juventus;Reggina;1;0;Serie A
+11.03.2001;Parma;Bari;4;0;Serie A
+11.03.2001;Inter;Hellas Verona;2;0;Serie A
+11.03.2001;Bologna;Lazio;2;0;Serie A
+11.03.2001;Lecce;Udinese;2;1;Serie A
+11.03.2001;Perugia;Fiorentina;2;2;Serie A
+18.03.2001;Milan;Bari;4;0;Serie A
+18.03.2001;Lazio;Juventus;4;1;Serie A
+18.03.2001;Udinese;Parma;1;3;Serie A
+18.03.2001;Lecce;Inter;1;2;Serie A
+18.03.2001;Reggina;Roma;0;0;Serie A
+18.03.2001;Fiorentina;Bologna;1;1;Serie A
+18.03.2001;Napoli;Perugia;0;0;Serie A
+18.03.2001;Hellas Verona;Vicenza;1;0;Serie A
+19.03.2001;Brescia;Atalanta;0;3;Serie A
+31.03.2001;Vicenza;Fiorentina;1;1;Serie A
+31.03.2001;Bari;Lecce;3;2;Serie A
+01.04.2001;Milan;Lazio;1;0;Serie A
+01.04.2001;Roma;Hellas Verona;3;1;Serie A
+01.04.2001;Juventus;Brescia;1;1;Serie A
+01.04.2001;Parma;Bologna;0;0;Serie A
+01.04.2001;Reggina;Udinese;1;1;Serie A
+01.04.2001;Atalanta;Napoli;1;1;Serie A
+01.04.2001;Perugia;Inter;2;3;Serie A
+08.04.2001;Inter;Vicenza;1;1;Serie A
+08.04.2001;Udinese;Bari;2;0;Serie A
+08.04.2001;Bologna;Perugia;3;2;Serie A
+08.04.2001;Brescia;Reggina;4;0;Serie A
+08.04.2001;Lecce;Atalanta;0;2;Serie A
+08.04.2001;Napoli;Milan;0;0;Serie A
+08.04.2001;Hellas Verona;Juventus;0;1;Serie A
+09.04.2001;Fiorentina;Roma;3;1;Serie A
+14.04.2001;Milan;Udinese;3;0;Serie A
+14.04.2001;Roma;Perugia;2;2;Serie A
+14.04.2001;Juventus;Inter;3;1;Serie A
+14.04.2001;Brescia;Hellas Verona;1;0;Serie A
+14.04.2001;Reggina;Lazio;0;2;Serie A
+14.04.2001;Atalanta;Parma;0;1;Serie A
+14.04.2001;Fiorentina;Lecce;2;0;Serie A
+14.04.2001;Vicenza;Bologna;4;2;Serie A
+14.04.2001;Bari;Napoli;0;1;Serie A
+18.04.2001;Lazio;Parma;1;0;Serie A
+21.04.2001;Inter;Fiorentina;4;2;Serie A
+21.04.2001;Napoli;Brescia;1;1;Serie A
+22.04.2001;Parma;Juventus;0;0;Serie A
+22.04.2001;Lazio;Vicenza;2;1;Serie A
+22.04.2001;Udinese;Roma;1;3;Serie A
+22.04.2001;Bologna;Bari;4;2;Serie A
+22.04.2001;Lecce;Milan;3;3;Serie A
+22.04.2001;Perugia;Atalanta;2;2;Serie A
+22.04.2001;Hellas Verona;Reggina;0;3;Serie A
+28.04.2001;Reggina;Napoli;3;1;Serie A
+28.04.2001;Vicenza;Parma;0;1;Serie A
+29.04.2001;Milan;Hellas Verona;1;0;Serie A
+29.04.2001;Roma;Lazio;2;2;Serie A
+29.04.2001;Juventus;Lecce;1;1;Serie A
+29.04.2001;Brescia;Inter;1;0;Serie A
+29.04.2001;Atalanta;Bologna;2;2;Serie A
+29.04.2001;Fiorentina;Udinese;2;1;Serie A
+29.04.2001;Bari;Perugia;3;4;Serie A
+05.05.2001;Bologna;Udinese;1;1;Serie A
+05.05.2001;Lecce;Brescia;0;3;Serie A
+06.05.2001;Juventus;Roma;2;2;Serie A
+06.05.2001;Parma;Napoli;4;0;Serie A
+06.05.2001;Inter;Atalanta;3;0;Serie A
+06.05.2001;Lazio;Bari;2;0;Serie A
+06.05.2001;Perugia;Milan;2;1;Serie A
+06.05.2001;Vicenza;Reggina;2;1;Serie A
+06.05.2001;Hellas Verona;Fiorentina;2;1;Serie A
+11.05.2001;Inter;Milan;0;6;Serie A
+11.05.2001;Fiorentina;Juventus;1;3;Serie A
+13.05.2001;Roma;Atalanta;1;0;Serie A
+13.05.2001;Udinese;Perugia;3;3;Serie A
+13.05.2001;Brescia;Bologna;0;0;Serie A
+13.05.2001;Reggina;Parma;2;0;Serie A
+13.05.2001;Napoli;Lazio;2;4;Serie A
+13.05.2001;Hellas Verona;Lecce;0;0;Serie A
+13.05.2001;Bari;Vicenza;2;2;Serie A
+17.05.2001;Milan;Fiorentina;1;2;Serie A
+17.05.2001;Parma;Inter;3;1;Serie A
+20.05.2001;Lazio;Udinese;3;1;Serie A
+20.05.2001;Bologna;Juventus;1;4;Serie A
+20.05.2001;Atalanta;Reggina;1;1;Serie A
+20.05.2001;Perugia;Brescia;2;2;Serie A
+20.05.2001;Vicenza;Lecce;0;0;Serie A
+20.05.2001;Napoli;Hellas Verona;2;0;Serie A
+20.05.2001;Bari;Roma;1;4;Serie A
+27.05.2001;Roma;Milan;1;1;Serie A
+27.05.2001;Juventus;Perugia;1;0;Serie A
+27.05.2001;Inter;Lazio;1;1;Serie A
+27.05.2001;Udinese;Napoli;0;0;Serie A
+27.05.2001;Brescia;Vicenza;2;1;Serie A
+27.05.2001;Lecce;Parma;1;2;Serie A
+27.05.2001;Reggina;Bari;1;0;Serie A
+27.05.2001;Fiorentina;Atalanta;1;1;Serie A
+27.05.2001;Hellas Verona;Bologna;5;4;Serie A
+10.06.2001;Milan;Brescia;1;1;Serie A
+10.06.2001;Parma;Hellas Verona;1;2;Serie A
+10.06.2001;Lazio;Fiorentina;3;0;Serie A
+10.06.2001;Bologna;Lecce;2;2;Serie A
+10.06.2001;Atalanta;Udinese;0;1;Serie A
+10.06.2001;Perugia;Reggina;1;1;Serie A
+10.06.2001;Vicenza;Juventus;0;3;Serie A
+10.06.2001;Napoli;Roma;2;2;Serie A
+10.06.2001;Bari;Inter;1;2;Serie A
+17.06.2001;Roma;Parma;3;1;Serie A
+17.06.2001;Juventus;Atalanta;2;1;Serie A
+17.06.2001;Inter;Bologna;2;1;Serie A
+17.06.2001;Udinese;Vicenza;2;3;Serie A
+17.06.2001;Brescia;Bari;3;1;Serie A
+17.06.2001;Lecce;Lazio;2;1;Serie A
+17.06.2001;Reggina;Milan;2;1;Serie A
+17.06.2001;Fiorentina;Napoli;1;2;Serie A
+17.06.2001;Hellas Verona;Perugia;2;1;Serie A

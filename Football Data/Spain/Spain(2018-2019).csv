@@ -1,0 +1,381 @@
+date;home_team;away_team;home_score;away_score;League
+18.05.2019;Levante;Atl. Madrid;2;2;La Liga
+18.05.2019;Espanyol;R. Sociedad;2;0;La Liga
+18.05.2019;Getafe;Villarreal;2;2;La Liga
+18.05.2019;Sevilla;Ath. Bilbao;2;0;La Liga
+18.05.2019;R. Valladolid;Valencia;0;2;La Liga
+18.05.2019;Alaves;Girona;2;1;La Liga
+18.05.2019;Celta Vigo;Rayo Vallecano;2;2;La Liga
+18.05.2019;Huesca;Leganes;2;1;La Liga
+19.05.2019;Real Madrid;Real Betis;0;2;La Liga
+19.05.2019;Eibar;Barcelona;2;2;La Liga
+12.05.2019;Ath. Bilbao;Celta Vigo;3;1;La Liga
+12.05.2019;Atl. Madrid;Sevilla;1;1;La Liga
+12.05.2019;Barcelona;Getafe;2;0;La Liga
+12.05.2019;Real Betis;Huesca;2;1;La Liga
+12.05.2019;Girona;Levante;1;2;La Liga
+12.05.2019;Rayo Vallecano;R. Valladolid;1;2;La Liga
+12.05.2019;Valencia;Alaves;3;1;La Liga
+12.05.2019;Villarreal;Eibar;1;0;La Liga
+12.05.2019;Leganes;Espanyol;0;2;La Liga
+12.05.2019;R. Sociedad;Real Madrid;3;1;La Liga
+03.05.2019;Sevilla;Leganes;0;3;La Liga
+04.05.2019;Levante;Rayo Vallecano;4;1;La Liga
+04.05.2019;Espanyol;Atl. Madrid;3;0;La Liga
+04.05.2019;Alaves;R. Sociedad;0;1;La Liga
+04.05.2019;Celta Vigo;Barcelona;2;0;La Liga
+05.05.2019;Getafe;Girona;2;0;La Liga
+05.05.2019;Eibar;Real Betis;1;0;La Liga
+05.05.2019;Real Madrid;Villarreal;3;2;La Liga
+05.05.2019;R. Valladolid;Ath. Bilbao;1;0;La Liga
+05.05.2019;Huesca;Valencia;2;6;La Liga
+27.04.2019;Ath. Bilbao;Alaves;1;1;La Liga
+27.04.2019;Atl. Madrid;R. Valladolid;1;0;La Liga
+27.04.2019;Leganes;Celta Vigo;0;0;La Liga
+27.04.2019;Barcelona;Levante;1;0;La Liga
+28.04.2019;Valencia;Eibar;0;1;La Liga
+28.04.2019;Girona;Sevilla;1;0;La Liga
+28.04.2019;R. Sociedad;Getafe;2;1;La Liga
+28.04.2019;Villarreal;Huesca;1;1;La Liga
+28.04.2019;Rayo Vallecano;Real Madrid;1;0;La Liga
+29.04.2019;Real Betis;Espanyol;1;1;La Liga
+23.04.2019;Huesca;Eibar;2;0;La Liga
+23.04.2019;R. Valladolid;Girona;1;0;La Liga
+23.04.2019;Alaves;Barcelona;0;2;La Liga
+24.04.2019;Atl. Madrid;Valencia;3;2;La Liga
+24.04.2019;Leganes;Ath. Bilbao;0;1;La Liga
+24.04.2019;Espanyol;Celta Vigo;1;1;La Liga
+24.04.2019;Levante;Real Betis;4;0;La Liga
+25.04.2019;Sevilla;Rayo Vallecano;5;0;La Liga
+25.04.2019;R. Sociedad;Villarreal;0;1;La Liga
+25.04.2019;Getafe;Real Madrid;0;0;La Liga
+19.04.2019;Alaves;R. Valladolid;2;2;La Liga
+20.04.2019;Celta Vigo;Girona;2;1;La Liga
+20.04.2019;Eibar;Atl. Madrid;0;1;La Liga
+20.04.2019;Rayo Vallecano;Huesca;0;0;La Liga
+20.04.2019;Barcelona;R. Sociedad;2;1;La Liga
+21.04.2019;Levante;Espanyol;2;2;La Liga
+21.04.2019;Getafe;Sevilla;3;0;La Liga
+21.04.2019;Real Madrid;Ath. Bilbao;3;0;La Liga
+21.04.2019;Villarreal;Leganes;2;1;La Liga
+21.04.2019;Real Betis;Valencia;1;2;La Liga
+13.04.2019;Espanyol;Alaves;2;1;La Liga
+13.04.2019;Huesca;Barcelona;0;0;La Liga
+13.04.2019;Atl. Madrid;Celta Vigo;2;0;La Liga
+13.04.2019;Sevilla;Real Betis;3;2;La Liga
+14.04.2019;R. Valladolid;Getafe;2;2;La Liga
+14.04.2019;Ath. Bilbao;Rayo Vallecano;3;2;La Liga
+14.04.2019;R. Sociedad;Eibar;1;1;La Liga
+14.04.2019;Girona;Villarreal;0;1;La Liga
+14.04.2019;Valencia;Levante;3;1;La Liga
+15.04.2019;Leganes;Real Madrid;1;1;La Liga
+06.04.2019;Girona;Espanyol;1;2;La Liga
+06.04.2019;Real Madrid;Eibar;2;1;La Liga
+06.04.2019;Rayo Vallecano;Valencia;2;0;La Liga
+06.04.2019;Barcelona;Atl. Madrid;2;0;La Liga
+07.04.2019;Alaves;Leganes;1;1;La Liga
+07.04.2019;Getafe;Ath. Bilbao;1;0;La Liga
+07.04.2019;R. Valladolid;Sevilla;0;2;La Liga
+07.04.2019;Celta Vigo;R. Sociedad;3;1;La Liga
+07.04.2019;Levante;Huesca;2;2;La Liga
+07.04.2019;Real Betis;Villarreal;2;1;La Liga
+02.04.2019;Atl. Madrid;Girona;2;0;La Liga
+02.04.2019;Espanyol;Getafe;1;1;La Liga
+02.04.2019;Villarreal;Barcelona;4;4;La Liga
+03.04.2019;Ath. Bilbao;Levante;3;2;La Liga
+03.04.2019;Eibar;Rayo Vallecano;2;1;La Liga
+03.04.2019;Huesca;Celta Vigo;3;3;La Liga
+03.04.2019;Valencia;Real Madrid;2;1;La Liga
+04.04.2019;Sevilla;Alaves;2;0;La Liga
+04.04.2019;Leganes;R. Valladolid;1;0;La Liga
+04.04.2019;R. Sociedad;Real Betis;2;1;La Liga
+29.03.2019;Girona;Ath. Bilbao;1;2;La Liga
+30.03.2019;Getafe;Leganes;0;2;La Liga
+30.03.2019;Barcelona;Espanyol;2;0;La Liga
+30.03.2019;Celta Vigo;Villarreal;3;2;La Liga
+30.03.2019;Alaves;Atl. Madrid;0;4;La Liga
+31.03.2019;Levante;Eibar;2;2;La Liga
+31.03.2019;Rayo Vallecano;Real Betis;1;1;La Liga
+31.03.2019;Sevilla;Valencia;0;1;La Liga
+31.03.2019;R. Valladolid;R. Sociedad;1;1;La Liga
+31.03.2019;Real Madrid;Huesca;3;2;La Liga
+15.03.2019;R. Sociedad;Levante;1;1;La Liga
+16.03.2019;Huesca;Alaves;1;3;La Liga
+16.03.2019;Real Madrid;Celta Vigo;2;0;La Liga
+16.03.2019;Ath. Bilbao;Atl. Madrid;2;0;La Liga
+16.03.2019;Leganes;Girona;0;2;La Liga
+17.03.2019;Eibar;R. Valladolid;1;2;La Liga
+17.03.2019;Espanyol;Sevilla;0;1;La Liga
+17.03.2019;Valencia;Getafe;0;0;La Liga
+17.03.2019;Villarreal;Rayo Vallecano;3;1;La Liga
+17.03.2019;Real Betis;Barcelona;1;4;La Liga
+08.03.2019;Ath. Bilbao;Espanyol;1;1;La Liga
+09.03.2019;Alaves;Eibar;1;1;La Liga
+09.03.2019;Atl. Madrid;Leganes;1;0;La Liga
+09.03.2019;Barcelona;Rayo Vallecano;3;1;La Liga
+09.03.2019;Getafe;Huesca;2;1;La Liga
+10.03.2019;Celta Vigo;Real Betis;0;1;La Liga
+10.03.2019;Girona;Valencia;2;3;La Liga
+10.03.2019;Levante;Villarreal;0;2;La Liga
+10.03.2019;Sevilla;R. Sociedad;5;2;La Liga
+10.03.2019;R. Valladolid;Real Madrid;1;4;La Liga
+01.03.2019;Rayo Vallecano;Girona;0;2;La Liga
+02.03.2019;Espanyol;R. Valladolid;3;1;La Liga
+02.03.2019;Villarreal;Alaves;1;2;La Liga
+02.03.2019;Huesca;Sevilla;2;1;La Liga
+02.03.2019;Real Madrid;Barcelona;0;1;La Liga
+03.03.2019;Eibar;Celta Vigo;1;0;La Liga
+03.03.2019;Real Betis;Getafe;1;2;La Liga
+03.03.2019;R. Sociedad;Atl. Madrid;0;2;La Liga
+03.03.2019;Valencia;Ath. Bilbao;2;0;La Liga
+04.03.2019;Leganes;Levante;1;0;La Liga
+22.02.2019;Espanyol;Huesca;1;1;La Liga
+23.02.2019;Getafe;Rayo Vallecano;2;1;La Liga
+23.02.2019;Sevilla;Barcelona;2;4;La Liga
+23.02.2019;Alaves;Celta Vigo;0;0;La Liga
+23.02.2019;Ath. Bilbao;Eibar;1;0;La Liga
+24.02.2019;Leganes;Valencia;1;1;La Liga
+24.02.2019;Atl. Madrid;Villarreal;2;0;La Liga
+24.02.2019;R. Valladolid;Real Betis;0;2;La Liga
+24.02.2019;Levante;Real Madrid;1;2;La Liga
+25.02.2019;Girona;R. Sociedad;0;0;La Liga
+15.02.2019;Eibar;Getafe;2;2;La Liga
+16.02.2019;Celta Vigo;Levante;1;4;La Liga
+16.02.2019;Rayo Vallecano;Atl. Madrid;0;1;La Liga
+16.02.2019;R. Sociedad;Leganes;3;0;La Liga
+16.02.2019;Barcelona;R. Valladolid;1;0;La Liga
+17.02.2019;Real Madrid;Girona;1;2;La Liga
+17.02.2019;Valencia;Espanyol;0;0;La Liga
+17.02.2019;Villarreal;Sevilla;3;0;La Liga
+17.02.2019;Real Betis;Alaves;1;1;La Liga
+18.02.2019;Huesca;Ath. Bilbao;0;1;La Liga
+08.02.2019;R. Valladolid;Villarreal;0;0;La Liga
+09.02.2019;Getafe;Celta Vigo;3;1;La Liga
+09.02.2019;Atl. Madrid;Real Madrid;1;3;La Liga
+09.02.2019;Espanyol;Rayo Vallecano;2;1;La Liga
+09.02.2019;Girona;Huesca;0;2;La Liga
+10.02.2019;Leganes;Real Betis;3;0;La Liga
+10.02.2019;Valencia;R. Sociedad;0;0;La Liga
+10.02.2019;Sevilla;Eibar;2;2;La Liga
+10.02.2019;Ath. Bilbao;Barcelona;0;0;La Liga
+11.02.2019;Alaves;Levante;2;0;La Liga
+01.02.2019;Huesca;R. Valladolid;4;0;La Liga
+02.02.2019;Levante;Getafe;0;0;La Liga
+02.02.2019;R. Sociedad;Ath. Bilbao;2;1;La Liga
+02.02.2019;Barcelona;Valencia;2;2;La Liga
+02.02.2019;Celta Vigo;Sevilla;1;0;La Liga
+03.02.2019;Villarreal;Espanyol;2;2;La Liga
+03.02.2019;Real Betis;Atl. Madrid;1;0;La Liga
+03.02.2019;Eibar;Girona;3;0;La Liga
+03.02.2019;Real Madrid;Alaves;3;0;La Liga
+04.02.2019;Rayo Vallecano;Leganes;1;2;La Liga
+26.01.2019;Sevilla;Levante;5;0;La Liga
+26.01.2019;Atl. Madrid;Getafe;2;0;La Liga
+26.01.2019;Leganes;Eibar;2;2;La Liga
+26.01.2019;Valencia;Villarreal;3;0;La Liga
+27.01.2019;R. Valladolid;Celta Vigo;2;1;La Liga
+27.01.2019;Girona;Barcelona;0;2;La Liga
+27.01.2019;Ath. Bilbao;Real Betis;1;0;La Liga
+27.01.2019;R. Sociedad;Huesca;0;0;La Liga
+27.01.2019;Espanyol;Real Madrid;2;4;La Liga
+28.01.2019;Alaves;Rayo Vallecano;0;1;La Liga
+18.01.2019;Getafe;Alaves;4;0;La Liga
+19.01.2019;Real Madrid;Sevilla;2;0;La Liga
+19.01.2019;Huesca;Atl. Madrid;0;3;La Liga
+19.01.2019;Celta Vigo;Valencia;1;2;La Liga
+20.01.2019;Real Betis;Girona;3;2;La Liga
+20.01.2019;Villarreal;Ath. Bilbao;1;1;La Liga
+20.01.2019;Levante;R. Valladolid;2;0;La Liga
+20.01.2019;Rayo Vallecano;R. Sociedad;2;2;La Liga
+20.01.2019;Barcelona;Leganes;3;1;La Liga
+21.01.2019;Eibar;Espanyol;3;0;La Liga
+11.01.2019;Rayo Vallecano;Celta Vigo;4;2;La Liga
+12.01.2019;Leganes;Huesca;1;0;La Liga
+12.01.2019;Valencia;R. Valladolid;1;1;La Liga
+12.01.2019;Girona;Alaves;1;1;La Liga
+12.01.2019;Villarreal;Getafe;1;2;La Liga
+13.01.2019;Atl. Madrid;Levante;1;0;La Liga
+13.01.2019;Ath. Bilbao;Sevilla;2;0;La Liga
+13.01.2019;Barcelona;Eibar;3;0;La Liga
+13.01.2019;Real Betis;Real Madrid;1;2;La Liga
+14.01.2019;R. Sociedad;Espanyol;3;2;La Liga
+04.01.2019;Levante;Girona;2;2;La Liga
+04.01.2019;Espanyol;Leganes;1;0;La Liga
+05.01.2019;R. Valladolid;Rayo Vallecano;0;1;La Liga
+05.01.2019;Alaves;Valencia;2;1;La Liga
+05.01.2019;Huesca;Real Betis;2;1;La Liga
+06.01.2019;Eibar;Villarreal;0;0;La Liga
+06.01.2019;Sevilla;Atl. Madrid;1;1;La Liga
+06.01.2019;Real Madrid;R. Sociedad;0;2;La Liga
+06.01.2019;Getafe;Barcelona;1;2;La Liga
+07.01.2019;Celta Vigo;Ath. Bilbao;1;2;La Liga
+21.12.2018;Girona;Getafe;1;1;La Liga
+21.12.2018;R. Sociedad;Alaves;0;1;La Liga
+22.12.2018;Real Betis;Eibar;1;1;La Liga
+22.12.2018;Atl. Madrid;Espanyol;1;0;La Liga
+22.12.2018;Barcelona;Celta Vigo;2;0;La Liga
+22.12.2018;Ath. Bilbao;R. Valladolid;1;1;La Liga
+23.12.2018;Valencia;Huesca;2;1;La Liga
+23.12.2018;Leganes;Sevilla;1;1;La Liga
+23.12.2018;Rayo Vallecano;Levante;2;1;La Liga
+03.01.2019;Villarreal;Real Madrid;2;2;La Liga
+14.12.2018;Celta Vigo;Leganes;0;0;La Liga
+15.12.2018;Getafe;R. Sociedad;1;0;La Liga
+15.12.2018;R. Valladolid;Atl. Madrid;2;3;La Liga
+15.12.2018;Real Madrid;Rayo Vallecano;1;0;La Liga
+15.12.2018;Eibar;Valencia;1;1;La Liga
+16.12.2018;Sevilla;Girona;2;0;La Liga
+16.12.2018;Espanyol;Real Betis;1;3;La Liga
+16.12.2018;Huesca;Villarreal;2;2;La Liga
+16.12.2018;Levante;Barcelona;0;5;La Liga
+17.12.2018;Alaves;Ath. Bilbao;0;0;La Liga
+07.12.2018;Leganes;Getafe;1;1;La Liga
+08.12.2018;Atl. Madrid;Alaves;3;0;La Liga
+08.12.2018;Valencia;Sevilla;1;1;La Liga
+08.12.2018;Villarreal;Celta Vigo;2;3;La Liga
+08.12.2018;Espanyol;Barcelona;0;4;La Liga
+09.12.2018;Eibar;Levante;4;4;La Liga
+09.12.2018;Huesca;Real Madrid;0;1;La Liga
+09.12.2018;R. Sociedad;R. Valladolid;1;2;La Liga
+09.12.2018;Real Betis;Rayo Vallecano;2;0;La Liga
+10.12.2018;Ath. Bilbao;Girona;1;0;La Liga
+30.11.2018;Rayo Vallecano;Eibar;1;0;La Liga
+01.12.2018;Celta Vigo;Huesca;2;0;La Liga
+01.12.2018;R. Valladolid;Leganes;2;4;La Liga
+01.12.2018;Getafe;Espanyol;3;0;La Liga
+01.12.2018;Real Madrid;Valencia;2;0;La Liga
+02.12.2018;Real Betis;R. Sociedad;1;0;La Liga
+02.12.2018;Girona;Atl. Madrid;1;1;La Liga
+02.12.2018;Barcelona;Villarreal;2;0;La Liga
+02.12.2018;Alaves;Sevilla;1;1;La Liga
+03.12.2018;Levante;Ath. Bilbao;3;0;La Liga
+23.11.2018;Leganes;Alaves;1;0;La Liga
+24.11.2018;Eibar;Real Madrid;3;0;La Liga
+24.11.2018;Valencia;Rayo Vallecano;3;0;La Liga
+24.11.2018;Huesca;Levante;2;2;La Liga
+24.11.2018;Atl. Madrid;Barcelona;1;1;La Liga
+25.11.2018;Ath. Bilbao;Getafe;1;1;La Liga
+25.11.2018;Sevilla;R. Valladolid;1;0;La Liga
+25.11.2018;Espanyol;Girona;1;3;La Liga
+25.11.2018;Villarreal;Real Betis;2;1;La Liga
+26.11.2018;R. Sociedad;Celta Vigo;2;1;La Liga
+09.11.2018;Levante;R. Sociedad;1;3;La Liga
+10.11.2018;R. Valladolid;Eibar;0;0;La Liga
+10.11.2018;Getafe;Valencia;0;1;La Liga
+10.11.2018;Atl. Madrid;Ath. Bilbao;3;2;La Liga
+10.11.2018;Girona;Leganes;0;0;La Liga
+11.11.2018;Alaves;Huesca;2;1;La Liga
+11.11.2018;Barcelona;Real Betis;3;4;La Liga
+11.11.2018;Rayo Vallecano;Villarreal;2;2;La Liga
+11.11.2018;Sevilla;Espanyol;2;1;La Liga
+11.11.2018;Celta Vigo;Real Madrid;2;4;La Liga
+03.11.2018;Leganes;Atl. Madrid;1;1;La Liga
+03.11.2018;Real Madrid;R. Valladolid;2;0;La Liga
+03.11.2018;Valencia;Girona;0;1;La Liga
+03.11.2018;Rayo Vallecano;Barcelona;2;3;La Liga
+04.11.2018;Eibar;Alaves;2;1;La Liga
+04.11.2018;Villarreal;Levante;1;1;La Liga
+04.11.2018;R. Sociedad;Sevilla;0;0;La Liga
+04.11.2018;Huesca;Getafe;1;1;La Liga
+04.11.2018;Real Betis;Celta Vigo;3;3;La Liga
+05.11.2018;Espanyol;Ath. Bilbao;1;0;La Liga
+26.10.2018;R. Valladolid;Espanyol;1;1;La Liga
+27.10.2018;Girona;Rayo Vallecano;2;1;La Liga
+27.10.2018;Ath. Bilbao;Valencia;0;0;La Liga
+27.10.2018;Celta Vigo;Eibar;4;0;La Liga
+27.10.2018;Levante;Leganes;2;0;La Liga
+27.10.2018;Atl. Madrid;R. Sociedad;2;0;La Liga
+28.10.2018;Getafe;Real Betis;2;0;La Liga
+28.10.2018;Barcelona;Real Madrid;5;1;La Liga
+28.10.2018;Alaves;Villarreal;2;1;La Liga
+28.10.2018;Sevilla;Huesca;2;1;La Liga
+19.10.2018;Celta Vigo;Alaves;0;1;La Liga
+20.10.2018;Real Madrid;Levante;1;2;La Liga
+20.10.2018;Valencia;Leganes;1;1;La Liga
+20.10.2018;Villarreal;Atl. Madrid;1;1;La Liga
+20.10.2018;Barcelona;Sevilla;4;2;La Liga
+21.10.2018;Rayo Vallecano;Getafe;1;2;La Liga
+21.10.2018;Eibar;Ath. Bilbao;1;1;La Liga
+21.10.2018;Huesca;Espanyol;0;2;La Liga
+21.10.2018;Real Betis;R. Valladolid;0;1;La Liga
+22.10.2018;R. Sociedad;Girona;0;0;La Liga
+05.10.2018;Ath. Bilbao;R. Sociedad;1;3;La Liga
+06.10.2018;Girona;Eibar;2;3;La Liga
+06.10.2018;Getafe;Levante;0;1;La Liga
+06.10.2018;Alaves;Real Madrid;1;0;La Liga
+06.10.2018;Leganes;Rayo Vallecano;1;0;La Liga
+07.10.2018;R. Valladolid;Huesca;1;0;La Liga
+07.10.2018;Atl. Madrid;Real Betis;1;0;La Liga
+07.10.2018;Espanyol;Villarreal;3;1;La Liga
+07.10.2018;Sevilla;Celta Vigo;2;1;La Liga
+07.10.2018;Valencia;Barcelona;1;1;La Liga
+28.09.2018;Rayo Vallecano;Espanyol;2;2;La Liga
+29.09.2018;R. Sociedad;Valencia;0;1;La Liga
+29.09.2018;Barcelona;Ath. Bilbao;1;1;La Liga
+29.09.2018;Eibar;Sevilla;1;3;La Liga
+29.09.2018;Real Madrid;Atl. Madrid;0;0;La Liga
+30.09.2018;Huesca;Girona;1;1;La Liga
+30.09.2018;Villarreal;R. Valladolid;0;1;La Liga
+30.09.2018;Levante;Alaves;2;1;La Liga
+30.09.2018;Real Betis;Leganes;1;0;La Liga
+01.10.2018;Celta Vigo;Getafe;1;1;La Liga
+25.09.2018;Espanyol;Eibar;1;0;La Liga
+25.09.2018;R. Sociedad;Rayo Vallecano;2;2;La Liga
+25.09.2018;Atl. Madrid;Huesca;3;0;La Liga
+26.09.2018;Ath. Bilbao;Villarreal;0;3;La Liga
+26.09.2018;Leganes;Barcelona;2;1;La Liga
+26.09.2018;Valencia;Celta Vigo;1;1;La Liga
+26.09.2018;Sevilla;Real Madrid;3;0;La Liga
+27.09.2018;Alaves;Getafe;1;1;La Liga
+27.09.2018;R. Valladolid;Levante;2;1;La Liga
+27.09.2018;Girona;Real Betis;0;1;La Liga
+21.09.2018;Huesca;R. Sociedad;0;1;La Liga
+22.09.2018;Rayo Vallecano;Alaves;1;5;La Liga
+22.09.2018;Celta Vigo;R. Valladolid;3;3;La Liga
+22.09.2018;Eibar;Leganes;1;0;La Liga
+22.09.2018;Getafe;Atl. Madrid;0;2;La Liga
+22.09.2018;Real Madrid;Espanyol;1;0;La Liga
+23.09.2018;Levante;Sevilla;2;6;La Liga
+23.09.2018;Villarreal;Valencia;0;0;La Liga
+23.09.2018;Real Betis;Ath. Bilbao;2;2;La Liga
+23.09.2018;Barcelona;Girona;2;2;La Liga
+14.09.2018;Huesca;Rayo Vallecano;0;1;La Liga
+15.09.2018;Atl. Madrid;Eibar;1;1;La Liga
+15.09.2018;R. Sociedad;Barcelona;1;2;La Liga
+15.09.2018;Valencia;Real Betis;0;0;La Liga
+15.09.2018;Ath. Bilbao;Real Madrid;1;1;La Liga
+16.09.2018;Leganes;Villarreal;0;1;La Liga
+16.09.2018;Espanyol;Levante;1;0;La Liga
+16.09.2018;R. Valladolid;Alaves;0;1;La Liga
+16.09.2018;Sevilla;Getafe;0;2;La Liga
+17.09.2018;Girona;Celta Vigo;3;2;La Liga
+31.08.2018;Getafe;R. Valladolid;0;0;La Liga
+31.08.2018;Eibar;R. Sociedad;2;1;La Liga
+31.08.2018;Villarreal;Girona;0;1;La Liga
+01.09.2018;Celta Vigo;Atl. Madrid;2;0;La Liga
+01.09.2018;Real Madrid;Leganes;4;1;La Liga
+02.09.2018;Levante;Valencia;2;2;La Liga
+02.09.2018;Alaves;Espanyol;2;1;La Liga
+02.09.2018;Barcelona;Huesca;8;2;La Liga
+02.09.2018;Real Betis;Sevilla;1;0;La Liga
+24.10.2018;Rayo Vallecano;Ath. Bilbao;1;1;La Liga
+24.08.2018;Getafe;Eibar;2;0;La Liga
+24.08.2018;Leganes;R. Sociedad;2;2;La Liga
+25.08.2018;Alaves;Real Betis;0;0;La Liga
+25.08.2018;Atl. Madrid;Rayo Vallecano;1;0;La Liga
+25.08.2018;R. Valladolid;Barcelona;0;1;La Liga
+26.08.2018;Espanyol;Valencia;2;0;La Liga
+26.08.2018;Girona;Real Madrid;1;4;La Liga
+26.08.2018;Sevilla;Villarreal;0;0;La Liga
+27.08.2018;Levante;Celta Vigo;1;2;La Liga
+27.08.2018;Ath. Bilbao;Huesca;2;2;La Liga
+17.08.2018;Girona;R. Valladolid;0;0;La Liga
+17.08.2018;Real Betis;Levante;0;3;La Liga
+18.08.2018;Celta Vigo;Espanyol;1;1;La Liga
+18.08.2018;Villarreal;R. Sociedad;1;2;La Liga
+18.08.2018;Barcelona;Alaves;3;0;La Liga
+19.08.2018;Eibar;Huesca;1;2;La Liga
+19.08.2018;Rayo Vallecano;Sevilla;1;4;La Liga
+19.08.2018;Real Madrid;Getafe;2;0;La Liga
+20.08.2018;Valencia;Atl. Madrid;1;1;La Liga
+20.08.2018;Ath. Bilbao;Leganes;2;1;La Liga

@@ -1,0 +1,381 @@
+date;home_team;away_team;home_score;away_score;League
+19.05.2017;Granada;Espanyol;1;2;La Liga
+20.05.2017;Sporting Gijon;Real Betis;2;2;La Liga
+20.05.2017;Leganes;Alaves;1;1;La Liga
+20.05.2017;Deportivo;Las Palmas;3;0;La Liga
+20.05.2017;Sevilla;Osasuna;5;0;La Liga
+21.05.2017;Atl. Madrid;Ath. Bilbao;3;1;La Liga
+21.05.2017;Valencia;Villarreal;1;3;La Liga
+21.05.2017;Celta Vigo;R. Sociedad;2;2;La Liga
+21.05.2017;Barcelona;Eibar;4;2;La Liga
+21.05.2017;Malaga;Real Madrid;0;2;La Liga
+13.05.2017;Espanyol;Valencia;0;1;La Liga
+13.05.2017;Osasuna;Granada;2;1;La Liga
+14.05.2017;Alaves;Celta Vigo;3;1;La Liga
+14.05.2017;Ath. Bilbao;Leganes;1;1;La Liga
+14.05.2017;Real Betis;Atl. Madrid;1;1;La Liga
+14.05.2017;Eibar;Sporting Gijon;0;1;La Liga
+14.05.2017;Las Palmas;Barcelona;1;4;La Liga
+14.05.2017;Villarreal;Deportivo;0;0;La Liga
+14.05.2017;Real Madrid;Sevilla;4;1;La Liga
+14.05.2017;R. Sociedad;Malaga;2;2;La Liga
+05.05.2017;Sevilla;R. Sociedad;1;1;La Liga
+06.05.2017;Sporting Gijon;Las Palmas;1;0;La Liga
+06.05.2017;Atl. Madrid;Eibar;1;0;La Liga
+06.05.2017;Barcelona;Villarreal;4;1;La Liga
+06.05.2017;Granada;Real Madrid;0;4;La Liga
+07.05.2017;Alaves;Ath. Bilbao;1;0;La Liga
+07.05.2017;Valencia;Osasuna;4;1;La Liga
+07.05.2017;Deportivo;Espanyol;1;2;La Liga
+07.05.2017;Malaga;Celta Vigo;3;0;La Liga
+08.05.2017;Leganes;Real Betis;4;0;La Liga
+28.04.2017;Villarreal;Sporting Gijon;3;1;La Liga
+29.04.2017;R. Sociedad;Granada;2;1;La Liga
+29.04.2017;Real Madrid;Valencia;2;1;La Liga
+29.04.2017;Las Palmas;Atl. Madrid;0;5;La Liga
+29.04.2017;Espanyol;Barcelona;0;3;La Liga
+30.04.2017;Osasuna;Deportivo;2;2;La Liga
+30.04.2017;Real Betis;Alaves;1;4;La Liga
+30.04.2017;Eibar;Leganes;2;0;La Liga
+30.04.2017;Celta Vigo;Ath. Bilbao;0;3;La Liga
+01.05.2017;Malaga;Sevilla;4;2;La Liga
+25.04.2017;Sporting Gijon;Espanyol;1;1;La Liga
+25.04.2017;Granada;Malaga;0;2;La Liga
+25.04.2017;Atl. Madrid;Villarreal;0;1;La Liga
+26.04.2017;Barcelona;Osasuna;7;1;La Liga
+26.04.2017;Leganes;Las Palmas;3;0;La Liga
+26.04.2017;Valencia;R. Sociedad;2;3;La Liga
+26.04.2017;Deportivo;Real Madrid;2;6;La Liga
+27.04.2017;Alaves;Eibar;0;0;La Liga
+27.04.2017;Sevilla;Celta Vigo;2;1;La Liga
+27.04.2017;Ath. Bilbao;Real Betis;2;1;La Liga
+21.04.2017;Sevilla;Granada;2;0;La Liga
+22.04.2017;Malaga;Valencia;2;0;La Liga
+22.04.2017;Villarreal;Leganes;2;1;La Liga
+22.04.2017;Osasuna;Sporting Gijon;2;2;La Liga
+22.04.2017;Espanyol;Atl. Madrid;0;1;La Liga
+23.04.2017;R. Sociedad;Deportivo;1;0;La Liga
+23.04.2017;Celta Vigo;Real Betis;0;1;La Liga
+23.04.2017;Las Palmas;Alaves;1;1;La Liga
+23.04.2017;Real Madrid;Barcelona;2;3;La Liga
+24.04.2017;Eibar;Ath. Bilbao;0;1;La Liga
+14.04.2017;Ath. Bilbao;Las Palmas;5;1;La Liga
+15.04.2017;Deportivo;Malaga;2;0;La Liga
+15.04.2017;Sporting Gijon;Real Madrid;2;3;La Liga
+15.04.2017;Atl. Madrid;Osasuna;3;0;La Liga
+15.04.2017;Barcelona;R. Sociedad;3;2;La Liga
+16.04.2017;Leganes;Espanyol;0;1;La Liga
+16.04.2017;Valencia;Sevilla;0;0;La Liga
+16.04.2017;Real Betis;Eibar;2;0;La Liga
+16.04.2017;Granada;Celta Vigo;0;3;La Liga
+17.04.2017;Alaves;Villarreal;2;1;La Liga
+07.04.2017;Villarreal;Ath. Bilbao;3;1;La Liga
+08.04.2017;Espanyol;Alaves;1;0;La Liga
+08.04.2017;Real Madrid;Atl. Madrid;1;1;La Liga
+08.04.2017;Sevilla;Deportivo;4;2;La Liga
+08.04.2017;Malaga;Barcelona;2;0;La Liga
+09.04.2017;Granada;Valencia;1;3;La Liga
+09.04.2017;Celta Vigo;Eibar;0;2;La Liga
+09.04.2017;Osasuna;Leganes;2;1;La Liga
+09.04.2017;Las Palmas;Real Betis;4;1;La Liga
+10.04.2017;R. Sociedad;Sporting Gijon;3;1;La Liga
+04.04.2017;Ath. Bilbao;Espanyol;2;0;La Liga
+04.04.2017;Real Betis;Villarreal;0;1;La Liga
+04.04.2017;Atl. Madrid;R. Sociedad;1;0;La Liga
+05.04.2017;Barcelona;Sevilla;3;0;La Liga
+05.04.2017;Alaves;Osasuna;0;1;La Liga
+05.04.2017;Sporting Gijon;Malaga;0;1;La Liga
+05.04.2017;Deportivo;Granada;0;0;La Liga
+05.04.2017;Leganes;Real Madrid;2;4;La Liga
+06.04.2017;Eibar;Las Palmas;3;1;La Liga
+06.04.2017;Valencia;Celta Vigo;3;2;La Liga
+31.03.2017;Espanyol;Real Betis;2;1;La Liga
+01.04.2017;Villarreal;Eibar;2;3;La Liga
+01.04.2017;Osasuna;Ath. Bilbao;1;2;La Liga
+01.04.2017;R. Sociedad;Leganes;1;1;La Liga
+01.04.2017;Malaga;Atl. Madrid;0;2;La Liga
+02.04.2017;Sevilla;Sporting Gijon;0;0;La Liga
+02.04.2017;Real Madrid;Alaves;3;0;La Liga
+02.04.2017;Valencia;Deportivo;3;0;La Liga
+02.04.2017;Granada;Barcelona;1;4;La Liga
+03.04.2017;Celta Vigo;Las Palmas;3;1;La Liga
+17.03.2017;Las Palmas;Villarreal;1;0;La Liga
+18.03.2017;Eibar;Espanyol;1;1;La Liga
+18.03.2017;Ath. Bilbao;Real Madrid;1;2;La Liga
+18.03.2017;Alaves;R. Sociedad;1;0;La Liga
+18.03.2017;Real Betis;Osasuna;2;0;La Liga
+19.03.2017;Leganes;Malaga;0;0;La Liga
+19.03.2017;Atl. Madrid;Sevilla;3;1;La Liga
+19.03.2017;Sporting Gijon;Granada;3;1;La Liga
+19.03.2017;Deportivo;Celta Vigo;0;1;La Liga
+19.03.2017;Barcelona;Valencia;4;2;La Liga
+10.03.2017;Espanyol;Las Palmas;4;3;La Liga
+11.03.2017;Valencia;Sporting Gijon;1;1;La Liga
+11.03.2017;Sevilla;Leganes;1;1;La Liga
+11.03.2017;Malaga;Alaves;1;2;La Liga
+11.03.2017;Granada;Atl. Madrid;0;1;La Liga
+12.03.2017;R. Sociedad;Ath. Bilbao;0;2;La Liga
+12.03.2017;Deportivo;Barcelona;2;1;La Liga
+12.03.2017;Celta Vigo;Villarreal;0;1;La Liga
+12.03.2017;Real Madrid;Real Betis;2;1;La Liga
+13.03.2017;Osasuna;Eibar;1;1;La Liga
+03.03.2017;Real Betis;R. Sociedad;2;3;La Liga
+04.03.2017;Leganes;Granada;1;0;La Liga
+04.03.2017;Eibar;Real Madrid;1;4;La Liga
+04.03.2017;Villarreal;Espanyol;2;0;La Liga
+04.03.2017;Barcelona;Celta Vigo;5;0;La Liga
+05.03.2017;Sporting Gijon;Deportivo;0;1;La Liga
+05.03.2017;Atl. Madrid;Valencia;3;0;La Liga
+05.03.2017;Las Palmas;Osasuna;5;2;La Liga
+05.03.2017;Ath. Bilbao;Malaga;1;0;La Liga
+06.03.2017;Alaves;Sevilla;1;1;La Liga
+28.02.2017;R. Sociedad;Eibar;2;2;La Liga
+28.02.2017;Malaga;Real Betis;1;2;La Liga
+28.02.2017;Valencia;Leganes;1;0;La Liga
+01.03.2017;Osasuna;Villarreal;1;4;La Liga
+01.03.2017;Barcelona;Sporting Gijon;6;1;La Liga
+01.03.2017;Celta Vigo;Espanyol;2;2;La Liga
+01.03.2017;Real Madrid;Las Palmas;3;3;La Liga
+01.03.2017;Granada;Alaves;2;1;La Liga
+02.03.2017;Deportivo;Atl. Madrid;1;1;La Liga
+02.03.2017;Sevilla;Ath. Bilbao;1;0;La Liga
+24.02.2017;Las Palmas;R. Sociedad;0;1;La Liga
+25.02.2017;Alaves;Valencia;2;1;La Liga
+25.02.2017;Real Betis;Sevilla;1;2;La Liga
+25.02.2017;Leganes;Deportivo;4;0;La Liga
+25.02.2017;Eibar;Malaga;3;0;La Liga
+26.02.2017;Espanyol;Osasuna;3;0;La Liga
+26.02.2017;Atl. Madrid;Barcelona;1;2;La Liga
+26.02.2017;Ath. Bilbao;Granada;3;1;La Liga
+26.02.2017;Sporting Gijon;Celta Vigo;1;1;La Liga
+26.02.2017;Villarreal;Real Madrid;2;3;La Liga
+17.02.2017;Granada;Real Betis;4;1;La Liga
+18.02.2017;Sporting Gijon;Atl. Madrid;1;4;La Liga
+18.02.2017;Real Madrid;Espanyol;2;0;La Liga
+18.02.2017;Deportivo;Alaves;0;1;La Liga
+18.02.2017;Sevilla;Eibar;2;0;La Liga
+19.02.2017;R. Sociedad;Villarreal;0;1;La Liga
+19.02.2017;Valencia;Ath. Bilbao;2;0;La Liga
+19.02.2017;Celta Vigo;Osasuna;3;0;La Liga
+19.02.2017;Barcelona;Leganes;2;1;La Liga
+20.02.2017;Malaga;Las Palmas;2;1;La Liga
+10.02.2017;Espanyol;R. Sociedad;1;2;La Liga
+11.02.2017;Real Betis;Valencia;0;0;La Liga
+11.02.2017;Alaves;Barcelona;0;6;La Liga
+11.02.2017;Ath. Bilbao;Deportivo;2;1;La Liga
+11.02.2017;Osasuna;Real Madrid;1;3;La Liga
+12.02.2017;Villarreal;Malaga;1;1;La Liga
+12.02.2017;Leganes;Sporting Gijon;0;2;La Liga
+12.02.2017;Las Palmas;Sevilla;0;1;La Liga
+12.02.2017;Atl. Madrid;Celta Vigo;3;2;La Liga
+13.02.2017;Eibar;Granada;4;0;La Liga
+04.02.2017;Malaga;Espanyol;0;1;La Liga
+04.02.2017;Barcelona;Ath. Bilbao;3;0;La Liga
+04.02.2017;Atl. Madrid;Leganes;2;0;La Liga
+04.02.2017;Valencia;Eibar;0;4;La Liga
+05.02.2017;Sevilla;Villarreal;0;0;La Liga
+05.02.2017;Sporting Gijon;Alaves;2;4;La Liga
+05.02.2017;R. Sociedad;Osasuna;3;2;La Liga
+06.02.2017;Granada;Las Palmas;1;0;La Liga
+08.03.2017;Deportivo;Real Betis;1;1;La Liga
+17.05.2017;Celta Vigo;Real Madrid;1;4;La Liga
+27.01.2017;Osasuna;Malaga;1;1;La Liga
+28.01.2017;Villarreal;Granada;2;0;La Liga
+28.01.2017;Alaves;Atl. Madrid;0;0;La Liga
+28.01.2017;Eibar;Deportivo;3;1;La Liga
+28.01.2017;Leganes;Celta Vigo;0;2;La Liga
+29.01.2017;Real Betis;Barcelona;1;1;La Liga
+29.01.2017;Espanyol;Sevilla;3;1;La Liga
+29.01.2017;Ath. Bilbao;Sporting Gijon;2;1;La Liga
+29.01.2017;Real Madrid;R. Sociedad;3;0;La Liga
+30.01.2017;Las Palmas;Valencia;3;1;La Liga
+20.01.2017;Las Palmas;Deportivo;1;1;La Liga
+21.01.2017;Espanyol;Granada;3;1;La Liga
+21.01.2017;Real Madrid;Malaga;2;1;La Liga
+21.01.2017;Alaves;Leganes;2;2;La Liga
+21.01.2017;Villarreal;Valencia;0;2;La Liga
+22.01.2017;Osasuna;Sevilla;3;4;La Liga
+22.01.2017;Ath. Bilbao;Atl. Madrid;2;2;La Liga
+22.01.2017;Real Betis;Sporting Gijon;0;0;La Liga
+22.01.2017;R. Sociedad;Celta Vigo;1;0;La Liga
+22.01.2017;Eibar;Barcelona;0;4;La Liga
+14.01.2017;Leganes;Ath. Bilbao;0;0;La Liga
+14.01.2017;Barcelona;Las Palmas;5;0;La Liga
+14.01.2017;Atl. Madrid;Real Betis;1;0;La Liga
+14.01.2017;Deportivo;Villarreal;0;0;La Liga
+15.01.2017;Valencia;Espanyol;2;1;La Liga
+15.01.2017;Celta Vigo;Alaves;1;0;La Liga
+15.01.2017;Sporting Gijon;Eibar;2;3;La Liga
+15.01.2017;Granada;Osasuna;1;1;La Liga
+15.01.2017;Sevilla;Real Madrid;2;1;La Liga
+16.01.2017;Malaga;R. Sociedad;0;2;La Liga
+06.01.2017;Espanyol;Deportivo;1;1;La Liga
+07.01.2017;Real Madrid;Granada;5;0;La Liga
+07.01.2017;Eibar;Atl. Madrid;0;2;La Liga
+07.01.2017;Las Palmas;Sporting Gijon;1;0;La Liga
+07.01.2017;R. Sociedad;Sevilla;0;4;La Liga
+08.01.2017;Ath. Bilbao;Alaves;0;0;La Liga
+08.01.2017;Real Betis;Leganes;2;0;La Liga
+08.01.2017;Celta Vigo;Malaga;3;1;La Liga
+08.01.2017;Villarreal;Barcelona;1;1;La Liga
+09.01.2017;Osasuna;Valencia;3;3;La Liga
+16.12.2016;Alaves;Real Betis;1;0;La Liga
+17.12.2016;Sporting Gijon;Villarreal;1;3;La Liga
+17.12.2016;Atl. Madrid;Las Palmas;1;0;La Liga
+17.12.2016;Granada;R. Sociedad;0;2;La Liga
+17.12.2016;Sevilla;Malaga;4;1;La Liga
+18.12.2016;Leganes;Eibar;1;1;La Liga
+18.12.2016;Deportivo;Osasuna;2;0;La Liga
+18.12.2016;Barcelona;Espanyol;4;1;La Liga
+19.12.2016;Ath. Bilbao;Celta Vigo;2;1;La Liga
+22.02.2017;Valencia;Real Madrid;2;1;La Liga
+09.12.2016;Malaga;Granada;1;1;La Liga
+10.12.2016;Osasuna;Barcelona;0;3;La Liga
+10.12.2016;R. Sociedad;Valencia;3;2;La Liga
+10.12.2016;Las Palmas;Leganes;1;1;La Liga
+10.12.2016;Real Madrid;Deportivo;3;2;La Liga
+11.12.2016;Eibar;Alaves;0;0;La Liga
+11.12.2016;Celta Vigo;Sevilla;0;3;La Liga
+11.12.2016;Espanyol;Sporting Gijon;2;1;La Liga
+11.12.2016;Real Betis;Ath. Bilbao;1;0;La Liga
+12.12.2016;Villarreal;Atl. Madrid;3;0;La Liga
+03.12.2016;Granada;Sevilla;2;1;La Liga
+03.12.2016;Barcelona;Real Madrid;1;1;La Liga
+03.12.2016;Leganes;Villarreal;0;0;La Liga
+03.12.2016;Atl. Madrid;Espanyol;0;0;La Liga
+04.12.2016;Real Betis;Celta Vigo;3;3;La Liga
+04.12.2016;Ath. Bilbao;Eibar;3;1;La Liga
+04.12.2016;Alaves;Las Palmas;1;1;La Liga
+04.12.2016;Sporting Gijon;Osasuna;3;1;La Liga
+04.12.2016;Valencia;Malaga;2;2;La Liga
+05.12.2016;Deportivo;R. Sociedad;5;1;La Liga
+25.11.2016;Eibar;Real Betis;3;1;La Liga
+26.11.2016;Malaga;Deportivo;4;3;La Liga
+26.11.2016;Real Madrid;Sporting Gijon;2;1;La Liga
+26.11.2016;Espanyol;Leganes;3;0;La Liga
+26.11.2016;Sevilla;Valencia;2;1;La Liga
+27.11.2016;Villarreal;Alaves;0;2;La Liga
+27.11.2016;Osasuna;Atl. Madrid;0;3;La Liga
+27.11.2016;Celta Vigo;Granada;3;1;La Liga
+27.11.2016;R. Sociedad;Barcelona;1;1;La Liga
+28.11.2016;Las Palmas;Ath. Bilbao;3;1;La Liga
+18.11.2016;Real Betis;Las Palmas;2;0;La Liga
+19.11.2016;Deportivo;Sevilla;2;3;La Liga
+19.11.2016;Barcelona;Malaga;0;0;La Liga
+19.11.2016;Eibar;Celta Vigo;1;0;La Liga
+19.11.2016;Atl. Madrid;Real Madrid;0;3;La Liga
+20.11.2016;Alaves;Espanyol;0;1;La Liga
+20.11.2016;Valencia;Granada;1;1;La Liga
+20.11.2016;Sporting Gijon;R. Sociedad;1;3;La Liga
+20.11.2016;Ath. Bilbao;Villarreal;1;0;La Liga
+21.11.2016;Leganes;Osasuna;2;0;La Liga
+04.11.2016;Malaga;Sporting Gijon;3;2;La Liga
+05.11.2016;Granada;Deportivo;1;1;La Liga
+05.11.2016;R. Sociedad;Atl. Madrid;2;0;La Liga
+05.11.2016;Osasuna;Alaves;0;1;La Liga
+05.11.2016;Las Palmas;Eibar;1;0;La Liga
+06.11.2016;Real Madrid;Leganes;3;0;La Liga
+06.11.2016;Espanyol;Ath. Bilbao;0;0;La Liga
+06.11.2016;Celta Vigo;Valencia;2;1;La Liga
+06.11.2016;Villarreal;Real Betis;2;0;La Liga
+06.11.2016;Sevilla;Barcelona;1;2;La Liga
+28.10.2016;Leganes;R. Sociedad;0;2;La Liga
+29.10.2016;Sporting Gijon;Sevilla;1;1;La Liga
+29.10.2016;Alaves;Real Madrid;1;4;La Liga
+29.10.2016;Atl. Madrid;Malaga;4;2;La Liga
+29.10.2016;Barcelona;Granada;1;0;La Liga
+30.10.2016;Eibar;Villarreal;2;1;La Liga
+30.10.2016;Ath. Bilbao;Osasuna;1;1;La Liga
+30.10.2016;Real Betis;Espanyol;0;1;La Liga
+30.10.2016;Las Palmas;Celta Vigo;3;3;La Liga
+31.10.2016;Deportivo;Valencia;1;1;La Liga
+21.10.2016;Osasuna;Real Betis;1;2;La Liga
+22.10.2016;Espanyol;Eibar;3;3;La Liga
+22.10.2016;Valencia;Barcelona;2;3;La Liga
+22.10.2016;R. Sociedad;Alaves;3;0;La Liga
+22.10.2016;Granada;Sporting Gijon;0;0;La Liga
+23.10.2016;Celta Vigo;Deportivo;4;1;La Liga
+23.10.2016;Sevilla;Atl. Madrid;1;0;La Liga
+23.10.2016;Villarreal;Las Palmas;2;1;La Liga
+23.10.2016;Malaga;Leganes;4;0;La Liga
+23.10.2016;Real Madrid;Ath. Bilbao;2;1;La Liga
+14.10.2016;Las Palmas;Espanyol;0;0;La Liga
+15.10.2016;Leganes;Sevilla;2;3;La Liga
+15.10.2016;Barcelona;Deportivo;4;0;La Liga
+15.10.2016;Atl. Madrid;Granada;7;1;La Liga
+15.10.2016;Real Betis;Real Madrid;1;6;La Liga
+16.10.2016;Alaves;Malaga;1;1;La Liga
+16.10.2016;Ath. Bilbao;R. Sociedad;3;2;La Liga
+16.10.2016;Sporting Gijon;Valencia;1;2;La Liga
+16.10.2016;Villarreal;Celta Vigo;5;0;La Liga
+17.10.2016;Eibar;Osasuna;2;3;La Liga
+30.09.2016;R. Sociedad;Real Betis;1;0;La Liga
+01.10.2016;Granada;Leganes;0;1;La Liga
+01.10.2016;Sevilla;Alaves;2;1;La Liga
+01.10.2016;Osasuna;Las Palmas;2;2;La Liga
+01.10.2016;Deportivo;Sporting Gijon;2;1;La Liga
+02.10.2016;Valencia;Atl. Madrid;0;2;La Liga
+02.10.2016;Real Madrid;Eibar;1;1;La Liga
+02.10.2016;Espanyol;Villarreal;0;0;La Liga
+02.10.2016;Malaga;Ath. Bilbao;2;1;La Liga
+02.10.2016;Celta Vigo;Barcelona;4;3;La Liga
+23.09.2016;Real Betis;Malaga;1;0;La Liga
+24.09.2016;Eibar;R. Sociedad;2;0;La Liga
+24.09.2016;Sporting Gijon;Barcelona;0;5;La Liga
+24.09.2016;Ath. Bilbao;Sevilla;3;1;La Liga
+24.09.2016;Las Palmas;Real Madrid;2;2;La Liga
+25.09.2016;Leganes;Valencia;1;2;La Liga
+25.09.2016;Atl. Madrid;Deportivo;1;0;La Liga
+25.09.2016;Villarreal;Osasuna;3;1;La Liga
+25.09.2016;Espanyol;Celta Vigo;0;2;La Liga
+26.09.2016;Alaves;Granada;3;1;La Liga
+20.09.2016;Malaga;Eibar;2;1;La Liga
+20.09.2016;Sevilla;Real Betis;1;0;La Liga
+21.09.2016;Real Madrid;Villarreal;1;1;La Liga
+21.09.2016;Celta Vigo;Sporting Gijon;2;1;La Liga
+21.09.2016;R. Sociedad;Las Palmas;4;1;La Liga
+21.09.2016;Granada;Ath. Bilbao;1;2;La Liga
+21.09.2016;Barcelona;Atl. Madrid;1;1;La Liga
+22.09.2016;Osasuna;Espanyol;1;2;La Liga
+22.09.2016;Deportivo;Leganes;1;2;La Liga
+22.09.2016;Valencia;Alaves;2;1;La Liga
+16.09.2016;Real Betis;Granada;2;2;La Liga
+17.09.2016;Leganes;Barcelona;1;5;La Liga
+17.09.2016;Atl. Madrid;Sporting Gijon;5;0;La Liga
+17.09.2016;Eibar;Sevilla;1;1;La Liga
+17.09.2016;Las Palmas;Malaga;1;0;La Liga
+18.09.2016;Osasuna;Celta Vigo;0;0;La Liga
+18.09.2016;Ath. Bilbao;Valencia;2;1;La Liga
+18.09.2016;Villarreal;R. Sociedad;2;1;La Liga
+18.09.2016;Espanyol;Real Madrid;0;2;La Liga
+19.09.2016;Alaves;Deportivo;0;0;La Liga
+09.09.2016;R. Sociedad;Espanyol;1;1;La Liga
+10.09.2016;Celta Vigo;Atl. Madrid;0;4;La Liga
+10.09.2016;Real Madrid;Osasuna;5;2;La Liga
+10.09.2016;Malaga;Villarreal;0;2;La Liga
+10.09.2016;Sevilla;Las Palmas;2;1;La Liga
+10.09.2016;Barcelona;Alaves;1;2;La Liga
+11.09.2016;Sporting Gijon;Leganes;2;1;La Liga
+11.09.2016;Valencia;Real Betis;2;3;La Liga
+11.09.2016;Granada;Eibar;1;2;La Liga
+11.09.2016;Deportivo;Ath. Bilbao;0;1;La Liga
+26.08.2016;Real Betis;Deportivo;0;0;La Liga
+26.08.2016;Espanyol;Malaga;2;2;La Liga
+27.08.2016;Osasuna;R. Sociedad;0;2;La Liga
+27.08.2016;Eibar;Valencia;1;0;La Liga
+27.08.2016;Real Madrid;Celta Vigo;2;1;La Liga
+27.08.2016;Leganes;Atl. Madrid;0;0;La Liga
+28.08.2016;Las Palmas;Granada;5;1;La Liga
+28.08.2016;Alaves;Sporting Gijon;0;0;La Liga
+28.08.2016;Ath. Bilbao;Barcelona;0;1;La Liga
+28.08.2016;Villarreal;Sevilla;0;0;La Liga
+19.08.2016;Malaga;Osasuna;1;1;La Liga
+19.08.2016;Deportivo;Eibar;2;1;La Liga
+20.08.2016;Barcelona;Real Betis;6;2;La Liga
+20.08.2016;Granada;Villarreal;1;1;La Liga
+20.08.2016;Sevilla;Espanyol;6;4;La Liga
+21.08.2016;Sporting Gijon;Ath. Bilbao;2;1;La Liga
+21.08.2016;R. Sociedad;Real Madrid;0;3;La Liga
+21.08.2016;Atl. Madrid;Alaves;1;1;La Liga
+22.08.2016;Celta Vigo;Leganes;0;1;La Liga
+22.08.2016;Valencia;Las Palmas;2;4;La Liga

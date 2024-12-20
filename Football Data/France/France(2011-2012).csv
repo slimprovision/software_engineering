@@ -1,0 +1,381 @@
+date;home_team;away_team;home_score;away_score;League
+20.05.2012;AJ Auxerre;Montpellier;1;2;Ligue 1
+20.05.2012;Evian TG;Brest;0;1;Ligue 1
+20.05.2012;Lille;Nancy;4;1;Ligue 1
+20.05.2012;Lorient;PSG;1;2;Ligue 1
+20.05.2012;Lyon;Nice;3;4;Ligue 1
+20.05.2012;Rennes;Dijon;5;0;Ligue 1
+20.05.2012;St Etienne;Bordeaux;2;3;Ligue 1
+20.05.2012;Sochaux;Marsilya;1;0;Ligue 1
+20.05.2012;Toulouse;AC Ajaccio;0;2;Ligue 1
+20.05.2012;Valenciennes;Caen;3;1;Ligue 1
+13.05.2012;AC Ajaccio;Lyon;1;1;Ligue 1
+13.05.2012;Bordeaux;Lorient;1;0;Ligue 1
+13.05.2012;Brest;Valenciennes;1;0;Ligue 1
+13.05.2012;Caen;Sochaux;1;3;Ligue 1
+13.05.2012;Dijon;Toulouse;1;1;Ligue 1
+13.05.2012;Marsilya;AJ Auxerre;3;0;Ligue 1
+13.05.2012;Montpellier;Lille;1;0;Ligue 1
+13.05.2012;Nancy;St Etienne;3;2;Ligue 1
+13.05.2012;Nice;Evian TG;1;1;Ligue 1
+13.05.2012;PSG;Rennes;3;0;Ligue 1
+06.05.2012;Evian TG;AC Ajaccio;2;1;Ligue 1
+06.05.2012;Lyon;Brest;1;1;Ligue 1
+06.05.2012;Valenciennes;PSG;3;4;Ligue 1
+07.05.2012;AJ Auxerre;Bordeaux;2;4;Ligue 1
+07.05.2012;Lille;Caen;3;0;Ligue 1
+07.05.2012;Lorient;Dijon;0;0;Ligue 1
+07.05.2012;St Etienne;Marsilya;0;0;Ligue 1
+07.05.2012;Sochaux;Nancy;1;0;Ligue 1
+07.05.2012;Toulouse;Nice;0;0;Ligue 1
+07.05.2012;Rennes;Montpellier;0;2;Ligue 1
+01.05.2012;Montpellier;Evian TG;2;2;Ligue 1
+02.05.2012;AC Ajaccio;Sochaux;2;1;Ligue 1
+02.05.2012;Bordeaux;Rennes;2;0;Ligue 1
+02.05.2012;Brest;Toulouse;0;0;Ligue 1
+02.05.2012;Caen;Lorient;1;0;Ligue 1
+02.05.2012;Lyon;Valenciennes;4;1;Ligue 1
+02.05.2012;Marsilya;Nancy;1;0;Ligue 1
+02.05.2012;Nice;Lille;0;1;Ligue 1
+02.05.2012;PSG;St Etienne;2;0;Ligue 1
+03.05.2012;Dijon;AJ Auxerre;0;2;Ligue 1
+27.04.2012;Toulouse;Montpellier;0;1;Ligue 1
+27.04.2012;Lorient;Marsilya;2;1;Ligue 1
+29.04.2012;AJ Auxerre;Brest;4;0;Ligue 1
+29.04.2012;Nancy;Caen;1;1;Ligue 1
+29.04.2012;Rennes;AC Ajaccio;3;1;Ligue 1
+29.04.2012;St Etienne;Dijon;1;0;Ligue 1
+29.04.2012;Sochaux;Bordeaux;0;3;Ligue 1
+29.04.2012;Valenciennes;Nice;2;0;Ligue 1
+29.04.2012;Lille;PSG;2;1;Ligue 1
+10.05.2012;Evian TG;Lyon;1;3;Ligue 1
+21.04.2012;Brest;Rennes;0;1;Ligue 1
+21.04.2012;Caen;St Etienne;1;4;Ligue 1
+21.04.2012;Dijon;Lille;0;2;Ligue 1
+21.04.2012;Evian TG;Toulouse;2;1;Ligue 1
+21.04.2012;Montpellier;Valenciennes;1;0;Ligue 1
+21.04.2012;Nice;AJ Auxerre;1;0;Ligue 1
+21.04.2012;Bordeaux;Marsilya;2;1;Ligue 1
+22.04.2012;AC Ajaccio;Nancy;0;0;Ligue 1
+22.04.2012;PSG;Sochaux;6;1;Ligue 1
+22.04.2012;Lyon;Lorient;3;2;Ligue 1
+15.04.2012;Lille;AC Ajaccio;4;1;Ligue 1
+15.04.2012;Lorient;Montpellier;2;1;Ligue 1
+15.04.2012;Nancy;Bordeaux;2;2;Ligue 1
+15.04.2012;St Etienne;Brest;2;1;Ligue 1
+15.04.2012;Sochaux;Dijon;1;0;Ligue 1
+15.04.2012;Valenciennes;Evian TG;0;3;Ligue 1
+15.04.2012;AJ Auxerre;PSG;1;1;Ligue 1
+16.04.2012;Rennes;Nice;3;1;Ligue 1
+18.04.2012;Marsilya;Caen;1;1;Ligue 1
+18.04.2012;Toulouse;Lyon;3;0;Ligue 1
+07.04.2012;AC Ajaccio;St Etienne;1;1;Ligue 1
+07.04.2012;Brest;Lille;3;1;Ligue 1
+07.04.2012;Dijon;Nancy;0;2;Ligue 1
+07.04.2012;Evian TG;Rennes;1;3;Ligue 1
+07.04.2012;Montpellier;Sochaux;2;1;Ligue 1
+07.04.2012;Valenciennes;Toulouse;2;0;Ligue 1
+07.04.2012;Lyon;AJ Auxerre;2;1;Ligue 1
+08.04.2012;Caen;Bordeaux;1;0;Ligue 1
+08.04.2012;Nice;Lorient;2;0;Ligue 1
+08.04.2012;PSG;Marsilya;2;1;Ligue 1
+31.03.2012;AJ Auxerre;Valenciennes;2;0;Ligue 1
+31.03.2012;Bordeaux;Dijon;1;1;Ligue 1
+31.03.2012;Lorient;Evian TG;0;1;Ligue 1
+31.03.2012;St Etienne;Nice;2;3;Ligue 1
+31.03.2012;Sochaux;Brest;2;1;Ligue 1
+31.03.2012;Nancy;PSG;2;1;Ligue 1
+01.04.2012;Caen;AC Ajaccio;0;0;Ligue 1
+01.04.2012;Lille;Toulouse;2;1;Ligue 1
+01.04.2012;Rennes;Lyon;1;1;Ligue 1
+11.04.2012;Marsilya;Montpellier;1;3;Ligue 1
+24.03.2012;AC Ajaccio;Lorient;1;1;Ligue 1
+24.03.2012;Brest;Nancy;0;1;Ligue 1
+24.03.2012;Evian TG;Lille;0;3;Ligue 1
+24.03.2012;Lyon;Sochaux;2;1;Ligue 1
+24.03.2012;Montpellier;St Etienne;1;0;Ligue 1
+24.03.2012;Nice;Marsilya;1;1;Ligue 1
+24.03.2012;Valenciennes;Rennes;1;0;Ligue 1
+25.03.2012;Dijon;Caen;2;0;Ligue 1
+25.03.2012;Toulouse;AJ Auxerre;1;0;Ligue 1
+25.03.2012;PSG;Bordeaux;1;1;Ligue 1
+17.03.2012;AJ Auxerre;Evian TG;0;2;Ligue 1
+17.03.2012;Bordeaux;AC Ajaccio;1;1;Ligue 1
+17.03.2012;Caen;PSG;2;2;Ligue 1
+17.03.2012;Lorient;Brest;2;1;Ligue 1
+17.03.2012;Marsilya;Dijon;1;2;Ligue 1
+17.03.2012;Nancy;Montpellier;1;0;Ligue 1
+17.03.2012;St Etienne;Lyon;0;1;Ligue 1
+18.03.2012;Rennes;Toulouse;0;1;Ligue 1
+18.03.2012;Sochaux;Nice;2;0;Ligue 1
+18.03.2012;Lille;Valenciennes;4;0;Ligue 1
+09.03.2012;AC Ajaccio;Marsilya;1;0;Ligue 1
+10.03.2012;Brest;Bordeaux;0;2;Ligue 1
+10.03.2012;Evian TG;Sochaux;2;3;Ligue 1
+10.03.2012;Nice;Nancy;1;1;Ligue 1
+10.03.2012;Toulouse;Lorient;1;1;Ligue 1
+10.03.2012;Valenciennes;St Etienne;1;2;Ligue 1
+10.03.2012;Lyon;Lille;2;1;Ligue 1
+11.03.2012;Dijon;PSG;1;2;Ligue 1
+11.03.2012;Rennes;AJ Auxerre;1;1;Ligue 1
+11.03.2012;Montpellier;Caen;3;0;Ligue 1
+03.03.2012;Dijon;Montpellier;1;1;Ligue 1
+03.03.2012;Lille;AJ Auxerre;2;2;Ligue 1
+03.03.2012;Marsilya;Toulouse;0;1;Ligue 1
+03.03.2012;Nancy;Lyon;2;0;Ligue 1
+03.03.2012;St Etienne;Evian TG;0;2;Ligue 1
+03.03.2012;Sochaux;Valenciennes;1;1;Ligue 1
+03.03.2012;Bordeaux;Nice;1;2;Ligue 1
+04.03.2012;Caen;Brest;0;0;Ligue 1
+04.03.2012;PSG;AC Ajaccio;4;1;Ligue 1
+04.03.2012;Lorient;Rennes;0;2;Ligue 1
+25.02.2012;AC Ajaccio;Dijon;2;1;Ligue 1
+25.02.2012;AJ Auxerre;St Etienne;0;0;Ligue 1
+25.02.2012;Evian TG;Nancy;2;0;Ligue 1
+25.02.2012;Montpellier;Bordeaux;1;0;Ligue 1
+25.02.2012;Nice;Caen;1;0;Ligue 1
+25.02.2012;Valenciennes;Lorient;2;0;Ligue 1
+25.02.2012;Lyon;PSG;4;4;Ligue 1
+26.02.2012;Brest;Marsilya;1;0;Ligue 1
+26.02.2012;Toulouse;Sochaux;2;0;Ligue 1
+26.02.2012;Rennes;Lille;1;1;Ligue 1
+18.02.2012;AC Ajaccio;Brest;0;0;Ligue 1
+18.02.2012;Caen;Evian TG;2;2;Ligue 1
+18.02.2012;Dijon;Nice;3;0;Ligue 1
+18.02.2012;Lorient;Lille;0;1;Ligue 1
+18.02.2012;Nancy;Toulouse;0;3;Ligue 1
+18.02.2012;Sochaux;AJ Auxerre;0;0;Ligue 1
+18.02.2012;Marsilya;Valenciennes;1;1;Ligue 1
+19.02.2012;Bordeaux;Lyon;1;0;Ligue 1
+19.02.2012;St Etienne;Rennes;4;0;Ligue 1
+19.02.2012;PSG;Montpellier;2;2;Ligue 1
+11.02.2012;AJ Auxerre;Lorient;1;1;Ligue 1
+11.02.2012;Lyon;Caen;1;2;Ligue 1
+11.02.2012;Montpellier;AC Ajaccio;3;0;Ligue 1
+11.02.2012;Valenciennes;Nancy;1;0;Ligue 1
+11.02.2012;Rennes;Sochaux;1;0;Ligue 1
+11.02.2012;Brest;Dijon;1;1;Ligue 1
+12.02.2012;Lille;Bordeaux;4;5;Ligue 1
+12.02.2012;Nice;PSG;0;0;Ligue 1
+12.02.2012;Toulouse;St Etienne;0;1;Ligue 1
+06.03.2012;Evian TG;Marsilya;2;0;Ligue 1
+04.02.2012;Dijon;Valenciennes;1;2;Ligue 1
+04.02.2012;Nancy;Rennes;0;0;Ligue 1
+04.02.2012;AC Ajaccio;Nice;1;1;Ligue 1
+04.02.2012;Montpellier;Brest;1;0;Ligue 1
+04.02.2012;PSG;Evian TG;3;1;Ligue 1
+04.02.2012;Bordeaux;Toulouse;2;0;Ligue 1
+05.02.2012;Marsilya;Lyon;2;2;Ligue 1
+22.02.2012;Caen;AJ Auxerre;2;1;Ligue 1
+22.02.2012;St Etienne;Lorient;4;2;Ligue 1
+22.02.2012;Sochaux;Lille;0;1;Ligue 1
+28.01.2012;AJ Auxerre;Nancy;1;3;Ligue 1
+28.01.2012;Brest;PSG;0;1;Ligue 1
+28.01.2012;Lorient;Sochaux;1;1;Ligue 1
+28.01.2012;Lyon;Dijon;3;1;Ligue 1
+28.01.2012;Nice;Montpellier;0;1;Ligue 1
+28.01.2012;Toulouse;Caen;1;0;Ligue 1
+28.01.2012;Lille;St Etienne;3;0;Ligue 1
+29.01.2012;Evian TG;Bordeaux;0;0;Ligue 1
+29.01.2012;Valenciennes;AC Ajaccio;1;2;Ligue 1
+29.01.2012;Rennes;Marsilya;1;2;Ligue 1
+14.01.2012;AC Ajaccio;AJ Auxerre;2;1;Ligue 1
+14.01.2012;Bordeaux;Valenciennes;2;1;Ligue 1
+14.01.2012;Brest;Nice;1;0;Ligue 1
+14.01.2012;Caen;Rennes;0;2;Ligue 1
+14.01.2012;Dijon;Evian TG;3;1;Ligue 1
+14.01.2012;Montpellier;Lyon;1;0;Ligue 1
+14.01.2012;Nancy;Lorient;2;2;Ligue 1
+14.01.2012;PSG;Toulouse;3;1;Ligue 1
+14.01.2012;St Etienne;Sochaux;1;0;Ligue 1
+15.01.2012;Marsilya;Lille;2;0;Ligue 1
+20.12.2011;Nancy;Marsilya;1;3;Ligue 1
+21.12.2011;AJ Auxerre;Dijon;2;2;Ligue 1
+21.12.2011;Evian TG;Montpellier;4;2;Ligue 1
+21.12.2011;Lille;Nice;4;4;Ligue 1
+21.12.2011;Lorient;Caen;0;0;Ligue 1
+21.12.2011;Rennes;Bordeaux;1;0;Ligue 1
+21.12.2011;Sochaux;AC Ajaccio;0;2;Ligue 1
+21.12.2011;Toulouse;Brest;0;0;Ligue 1
+21.12.2011;Valenciennes;Lyon;1;0;Ligue 1
+21.12.2011;St Etienne;PSG;0;1;Ligue 1
+17.12.2011;Brest;AJ Auxerre;1;0;Ligue 1
+17.12.2011;Caen;Nancy;1;2;Ligue 1
+17.12.2011;Dijon;St Etienne;1;2;Ligue 1
+17.12.2011;Marsilya;Lorient;2;1;Ligue 1
+17.12.2011;Montpellier;Toulouse;1;1;Ligue 1
+17.12.2011;Nice;Valenciennes;2;0;Ligue 1
+17.12.2011;Lyon;Evian TG;2;1;Ligue 1
+18.12.2011;AC Ajaccio;Rennes;1;0;Ligue 1
+18.12.2011;Bordeaux;Sochaux;1;0;Ligue 1
+18.12.2011;PSG;Lille;0;0;Ligue 1
+10.12.2011;Nancy;AC Ajaccio;2;2;Ligue 1
+10.12.2011;Rennes;Brest;1;1;Ligue 1
+10.12.2011;St Etienne;Caen;2;0;Ligue 1
+10.12.2011;Sochaux;PSG;0;1;Ligue 1
+10.12.2011;Toulouse;Evian TG;2;1;Ligue 1
+10.12.2011;Valenciennes;Montpellier;1;0;Ligue 1
+10.12.2011;Marsilya;Bordeaux;0;0;Ligue 1
+11.12.2011;AJ Auxerre;Nice;2;1;Ligue 1
+11.12.2011;Lille;Dijon;2;0;Ligue 1
+11.12.2011;Lorient;Lyon;0;1;Ligue 1
+02.12.2011;Caen;Marsilya;1;2;Ligue 1
+03.12.2011;AC Ajaccio;Lille;2;3;Ligue 1
+03.12.2011;Brest;St Etienne;2;2;Ligue 1
+03.12.2011;Dijon;Sochaux;0;0;Ligue 1
+03.12.2011;Evian TG;Valenciennes;2;1;Ligue 1
+03.12.2011;Montpellier;Lorient;4;0;Ligue 1
+03.12.2011;Nice;Rennes;2;0;Ligue 1
+04.12.2011;Bordeaux;Nancy;2;0;Ligue 1
+04.12.2011;PSG;AJ Auxerre;3;2;Ligue 1
+04.12.2011;Lyon;Toulouse;3;2;Ligue 1
+26.11.2011;Bordeaux;Caen;2;0;Ligue 1
+26.11.2011;Nancy;Dijon;1;2;Ligue 1
+26.11.2011;Rennes;Evian TG;3;2;Ligue 1
+26.11.2011;St Etienne;AC Ajaccio;3;1;Ligue 1
+26.11.2011;Sochaux;Montpellier;1;3;Ligue 1
+26.11.2011;Toulouse;Valenciennes;2;0;Ligue 1
+26.11.2011;Lille;Brest;2;0;Ligue 1
+27.11.2011;AJ Auxerre;Lyon;0;3;Ligue 1
+27.11.2011;Lorient;Nice;1;0;Ligue 1
+27.11.2011;Marsilya;PSG;3;0;Ligue 1
+18.11.2011;Lyon;Rennes;1;2;Ligue 1
+18.11.2011;Toulouse;Lille;0;0;Ligue 1
+19.11.2011;AC Ajaccio;Caen;2;2;Ligue 1
+19.11.2011;Dijon;Bordeaux;2;0;Ligue 1
+19.11.2011;Evian TG;Lorient;2;1;Ligue 1
+19.11.2011;Nice;St Etienne;0;2;Ligue 1
+19.11.2011;Montpellier;Marsilya;1;0;Ligue 1
+20.11.2011;Brest;Sochaux;2;0;Ligue 1
+20.11.2011;Valenciennes;AJ Auxerre;2;1;Ligue 1
+20.11.2011;PSG;Nancy;0;1;Ligue 1
+05.11.2011;Lille;Evian TG;1;1;Ligue 1
+06.11.2011;Caen;Dijon;3;0;Ligue 1
+06.11.2011;Lorient;AC Ajaccio;2;0;Ligue 1
+06.11.2011;Marsilya;Nice;2;0;Ligue 1
+06.11.2011;Nancy;Brest;2;1;Ligue 1
+06.11.2011;Rennes;Valenciennes;1;1;Ligue 1
+06.11.2011;St Etienne;Montpellier;1;1;Ligue 1
+06.11.2011;Sochaux;Lyon;2;1;Ligue 1
+06.11.2011;AJ Auxerre;Toulouse;2;0;Ligue 1
+06.11.2011;Bordeaux;PSG;1;1;Ligue 1
+29.10.2011;AC Ajaccio;Bordeaux;0;2;Ligue 1
+29.10.2011;Brest;Lorient;3;1;Ligue 1
+29.10.2011;Dijon;Marsilya;2;3;Ligue 1
+29.10.2011;Evian TG;AJ Auxerre;3;1;Ligue 1
+29.10.2011;Montpellier;Nancy;2;0;Ligue 1
+29.10.2011;PSG;Caen;4;2;Ligue 1
+29.10.2011;Lyon;St Etienne;2;0;Ligue 1
+30.10.2011;Nice;Sochaux;1;1;Ligue 1
+30.10.2011;Toulouse;Rennes;1;0;Ligue 1
+30.10.2011;Valenciennes;Lille;0;0;Ligue 1
+22.10.2011;Bordeaux;Brest;1;1;Ligue 1
+22.10.2011;Caen;Montpellier;1;3;Ligue 1
+22.10.2011;Marsilya;AC Ajaccio;2;0;Ligue 1
+22.10.2011;Nancy;Nice;1;0;Ligue 1
+22.10.2011;St Etienne;Valenciennes;1;0;Ligue 1
+22.10.2011;Sochaux;Evian TG;1;1;Ligue 1
+22.10.2011;Lorient;Toulouse;0;0;Ligue 1
+23.10.2011;AJ Auxerre;Rennes;0;1;Ligue 1
+23.10.2011;PSG;Dijon;2;0;Ligue 1
+23.10.2011;Lille;Lyon;3;1;Ligue 1
+15.10.2011;AJ Auxerre;Lille;1;3;Ligue 1
+15.10.2011;Brest;Caen;1;1;Ligue 1
+15.10.2011;Evian TG;St Etienne;1;2;Ligue 1
+15.10.2011;Lyon;Nancy;3;1;Ligue 1
+15.10.2011;Montpellier;Dijon;5;3;Ligue 1
+15.10.2011;Toulouse;Marsilya;0;0;Ligue 1
+15.10.2011;Nice;Bordeaux;3;0;Ligue 1
+16.10.2011;AC Ajaccio;PSG;1;3;Ligue 1
+16.10.2011;Valenciennes;Sochaux;3;0;Ligue 1
+16.10.2011;Rennes;Lorient;2;0;Ligue 1
+01.10.2011;Caen;Nice;1;1;Ligue 1
+01.10.2011;Dijon;AC Ajaccio;1;1;Ligue 1
+01.10.2011;Lorient;Valenciennes;2;0;Ligue 1
+01.10.2011;Nancy;Evian TG;1;1;Ligue 1
+01.10.2011;St Etienne;AJ Auxerre;1;1;Ligue 1
+01.10.2011;Sochaux;Toulouse;3;0;Ligue 1
+01.10.2011;Bordeaux;Montpellier;2;2;Ligue 1
+02.10.2011;Lille;Rennes;2;0;Ligue 1
+02.10.2011;Marsilya;Brest;1;1;Ligue 1
+02.10.2011;PSG;Lyon;2;0;Ligue 1
+24.09.2011;Evian TG;Caen;2;4;Ligue 1
+24.09.2011;Lille;Lorient;1;1;Ligue 1
+24.09.2011;Lyon;Bordeaux;3;1;Ligue 1
+24.09.2011;Nice;Dijon;1;1;Ligue 1
+24.09.2011;Toulouse;Nancy;1;0;Ligue 1
+24.09.2011;Valenciennes;Marsilya;1;1;Ligue 1
+24.09.2011;Montpellier;PSG;0;3;Ligue 1
+25.09.2011;AJ Auxerre;Sochaux;4;1;Ligue 1
+25.09.2011;Brest;AC Ajaccio;1;1;Ligue 1
+25.09.2011;Rennes;St Etienne;1;1;Ligue 1
+20.09.2011;Bordeaux;Lille;1;1;Ligue 1
+21.09.2011;AC Ajaccio;Montpellier;1;3;Ligue 1
+21.09.2011;Caen;Lyon;1;0;Ligue 1
+21.09.2011;Dijon;Brest;1;0;Ligue 1
+21.09.2011;Lorient;AJ Auxerre;1;1;Ligue 1
+21.09.2011;Marsilya;Evian TG;2;0;Ligue 1
+21.09.2011;Nancy;Valenciennes;1;1;Ligue 1
+21.09.2011;PSG;Nice;2;1;Ligue 1
+21.09.2011;Sochaux;Rennes;2;6;Ligue 1
+21.09.2011;St Etienne;Toulouse;1;1;Ligue 1
+17.09.2011;AJ Auxerre;Caen;1;1;Ligue 1
+17.09.2011;Brest;Montpellier;2;2;Ligue 1
+17.09.2011;Lorient;St Etienne;3;0;Ligue 1
+17.09.2011;Nice;AC Ajaccio;3;0;Ligue 1
+17.09.2011;Toulouse;Bordeaux;3;2;Ligue 1
+17.09.2011;Valenciennes;Dijon;4;0;Ligue 1
+17.09.2011;Lille;Sochaux;2;2;Ligue 1
+18.09.2011;Evian TG;PSG;2;2;Ligue 1
+18.09.2011;Rennes;Nancy;1;1;Ligue 1
+18.09.2011;Lyon;Marsilya;2;0;Ligue 1
+10.09.2011;AC Ajaccio;Valenciennes;3;1;Ligue 1
+10.09.2011;Bordeaux;Evian TG;0;0;Ligue 1
+10.09.2011;Caen;Toulouse;0;1;Ligue 1
+10.09.2011;Dijon;Lyon;1;2;Ligue 1
+10.09.2011;St Etienne;Lille;1;3;Ligue 1
+10.09.2011;Sochaux;Lorient;1;1;Ligue 1
+10.09.2011;Marsilya;Rennes;0;1;Ligue 1
+11.09.2011;Montpellier;Nice;1;0;Ligue 1
+11.09.2011;Nancy;AJ Auxerre;0;0;Ligue 1
+11.09.2011;PSG;Brest;1;0;Ligue 1
+27.08.2011;AJ Auxerre;AC Ajaccio;4;1;Ligue 1
+27.08.2011;Evian TG;Dijon;0;1;Ligue 1
+27.08.2011;Lorient;Nancy;2;1;Ligue 1
+27.08.2011;Nice;Brest;0;0;Ligue 1
+27.08.2011;Valenciennes;Bordeaux;1;2;Ligue 1
+27.08.2011;Lyon;Montpellier;2;1;Ligue 1
+28.08.2011;Rennes;Caen;3;2;Ligue 1
+28.08.2011;Sochaux;St Etienne;2;1;Ligue 1
+28.08.2011;Toulouse;PSG;1;3;Ligue 1
+28.08.2011;Lille;Marsilya;3;2;Ligue 1
+20.08.2011;Bordeaux;AJ Auxerre;1;1;Ligue 1
+20.08.2011;Brest;Lyon;1;1;Ligue 1
+20.08.2011;Caen;Lille;1;2;Ligue 1
+20.08.2011;Dijon;Lorient;2;0;Ligue 1
+20.08.2011;Nice;Toulouse;1;1;Ligue 1
+20.08.2011;AC Ajaccio;Evian TG;1;1;Ligue 1
+21.08.2011;Montpellier;Rennes;4;0;Ligue 1
+21.08.2011;Nancy;Sochaux;1;2;Ligue 1
+21.08.2011;PSG;Valenciennes;2;1;Ligue 1
+21.08.2011;Marsilya;St Etienne;0;0;Ligue 1
+13.08.2011;Lorient;Bordeaux;1;1;Ligue 1
+13.08.2011;Lyon;AC Ajaccio;1;1;Ligue 1
+13.08.2011;Rennes;PSG;1;1;Ligue 1
+13.08.2011;St Etienne;Nancy;1;0;Ligue 1
+13.08.2011;Sochaux;Caen;1;2;Ligue 1
+13.08.2011;Toulouse;Dijon;2;0;Ligue 1
+13.08.2011;Valenciennes;Brest;0;0;Ligue 1
+14.08.2011;AJ Auxerre;Marsilya;2;2;Ligue 1
+14.08.2011;Evian TG;Nice;1;0;Ligue 1
+14.08.2011;Lille;Montpellier;0;1;Ligue 1
+06.08.2011;AC Ajaccio;Toulouse;0;2;Ligue 1
+06.08.2011;Brest;Evian TG;2;2;Ligue 1
+06.08.2011;Caen;Valenciennes;1;0;Ligue 1
+06.08.2011;Marsilya;Sochaux;2;2;Ligue 1
+06.08.2011;Montpellier;AJ Auxerre;3;1;Ligue 1
+06.08.2011;Nancy;Lille;1;1;Ligue 1
+06.08.2011;Nice;Lyon;1;3;Ligue 1
+06.08.2011;PSG;Lorient;0;1;Ligue 1
+07.08.2011;Dijon;Rennes;1;5;Ligue 1
+07.08.2011;Bordeaux;St Etienne;1;2;Ligue 1
