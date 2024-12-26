@@ -1,0 +1,381 @@
+date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+24.05.2015;Arsenal;West Bromwich;4;1;Premier League;Mostly Cloudy;SSE;5 mph;54  °F;67%;30.22 in
+24.05.2015;Aston Villa;Burnley;0;1;Premier League;Fair;SSE;5 mph;55  °F;88%;29.83 in
+24.05.2015;Chelsea;Sunderland;3;1;Premier League;Mostly Cloudy;SSE;5 mph;54  °F;67%;30.22 in
+24.05.2015;Crystal Palace;Swansea City;1;0;Premier League;Mostly Cloudy;SSE;5 mph;54  °F;67%;30.22 in
+24.05.2015;Everton;Tottenham;0;1;Premier League;Fair;S;3 mph;52  °F;88%;30.06 in
+24.05.2015;Hull City;Man. United;0;0;Premier League;Fair;;0 mph;52  °F;82%;30.04 in
+24.05.2015;Leicester City;QPR;5;1;Premier League;Fair;S;8 mph;54  °F;88%;29.84 in
+24.05.2015;Man. City;Southampton;2;0;Premier League;Fair;SE;3 mph;46  °F;93%;29.87 in
+24.05.2015;Newcastle;West Ham;2;0;Premier League;Fair;VAR;3 mph;50  °F;82%;29.77 in
+24.05.2015;Stoke City;Liverpool;6;1;Premier League;Fair;SE;3 mph;46  °F;93%;29.87 in
+16.05.2015;Southampton;Aston Villa;6;1;Premier League;Mostly Cloudy;WSW;6 mph;54  °F;88%;30.15 in
+16.05.2015;Burnley;Stoke City;0;0;Premier League;Mostly Cloudy;WSW;12 mph;52  °F;94%;29.27 in
+16.05.2015;QPR;Newcastle;2;1;Premier League;Light Drizzle;WSW;13 mph;54  °F;82%;30.13 in
+16.05.2015;Sunderland;Leicester City;0;0;Premier League;Fair;WSW;9 mph;52  °F;94%;29.66 in
+16.05.2015;Tottenham;Hull City;2;0;Premier League;Light Drizzle;WSW;13 mph;54  °F;82%;30.13 in
+16.05.2015;West Ham;Everton;1;2;Premier League;Light Drizzle;WSW;13 mph;54  °F;82%;30.13 in
+16.05.2015;Liverpool;Crystal Palace;1;3;Premier League;Mostly Cloudy;WSW;15 mph;57  °F;82%;29.97 in
+17.05.2015;Swansea City;Man. City;2;4;Premier League;Mostly Cloudy;WNW;6 mph;46  °F;93%;30.15 in
+17.05.2015;Man. United;Arsenal;1;1;Premier League;Fair;SW;10 mph;45  °F;81%;30.02 in
+18.05.2015;West Bromwich;Chelsea;3;0;Premier League;Fair;SSW;6 mph;48  °F;71%;29.62 in
+9.05.2015;Everton;Sunderland;0;2;Premier League;Mostly Cloudy;S;10 mph;54  °F;94%;29.56 in
+9.05.2015;Aston Villa;West Ham;1;0;Premier League;Mostly Cloudy;SSW;9 mph;54  °F;88%;29.36 in
+9.05.2015;Hull City;Burnley;0;1;Premier League;Haze;S;17 mph;54  °F;94%;29.57 in
+9.05.2015;Leicester City;Southampton;2;0;Premier League;Mostly Cloudy;SSW;14 mph;54  °F;88%;29.37 in
+9.05.2015;Newcastle;West Bromwich;1;1;Premier League;Light Rain;E;13 mph;46  °F;100%;29.42 in
+9.05.2015;Stoke City;Tottenham;3;0;Premier League;Cloudy;S;9 mph;54  °F;94%;29.37 in
+9.05.2015;Crystal Palace;Man. United;1;2;Premier League;Mostly Cloudy;SW;13 mph;57  °F;77%;29.81 in
+10.05.2015;Man. City;QPR;6;0;Premier League;Fair;SSE;6 mph;46  °F;87%;29.87 in
+10.05.2015;Chelsea;Liverpool;1;1;Premier League;Fair;SW;7 mph;55  °F;58%;30.19 in
+11.05.2015;Arsenal;Swansea City;0;1;Premier League;Fair;E;3 mph;57  °F;77%;30.10 in
+2.05.2015;Leicester City;Newcastle;3;0;Premier League;Fair;NE;5 mph;36  °F;87%;29.58 in
+2.05.2015;Aston Villa;Everton;3;2;Premier League;Mostly Cloudy;E;6 mph;43  °F;70%;29.56 in
+2.05.2015;Liverpool;QPR;2;1;Premier League;Fair;E;10 mph;43  °F;81%;29.82 in
+2.05.2015;Sunderland;Southampton;2;1;Premier League;Fair;NNW;3 mph;36  °F;93%;29.66 in
+2.05.2015;Swansea City;Stoke City;2;0;Premier League;Fair;E;9 mph;48  °F;76%;29.59 in
+2.05.2015;West Ham;Burnley;1;0;Premier League;Fair;ENE;7 mph;46  °F;66%;29.87 in
+2.05.2015;Man. United;West Bromwich;0;1;Premier League;Fair;E;8 mph;43  °F;70%;29.64 in
+3.05.2015;Chelsea;Crystal Palace;1;0;Premier League;Light Drizzle;E;13 mph;50  °F;94%;29.60 in
+3.05.2015;Tottenham;Man. City;0;1;Premier League;Light Drizzle;E;13 mph;50  °F;94%;29.60 in
+4.05.2015;Hull City;Arsenal;1;3;Premier League;Mostly Cloudy;SSW;14 mph;55  °F;82%;29.30 in
+25.04.2015;Southampton;Tottenham;2;2;Premier League;Light Rain;SW;8 mph;50  °F;94%;29.65 in
+25.04.2015;Burnley;Leicester City;0;1;Premier League;Mostly Cloudy;SW;12 mph;52  °F;82%;28.87 in
+25.04.2015;Crystal Palace;Hull City;0;2;Premier League;Cloudy;SW;12 mph;55  °F;82%;29.75 in
+25.04.2015;Newcastle;Swansea City;2;3;Premier League;Partly Cloudy;SW;9 mph;52  °F;82%;29.22 in
+25.04.2015;QPR;West Ham;0;0;Premier League;Cloudy;SW;12 mph;55  °F;82%;29.75 in
+25.04.2015;Stoke City;Sunderland;1;1;Premier League;Mostly Cloudy;SSW;14 mph;54  °F;77%;29.37 in
+25.04.2015;West Bromwich;Liverpool;0;0;Premier League;Mostly Cloudy;SSW;9 mph;54  °F;82%;29.36 in
+25.04.2015;Man. City;Aston Villa;3;2;Premier League;Mostly Cloudy;SSW;14 mph;54  °F;77%;29.37 in
+26.04.2015;Everton;Man. United;3;0;Premier League;Fair;WNW;5 mph;43  °F;87%;29.67 in
+26.04.2015;Arsenal;Chelsea;0;0;Premier League;Cloudy;WSW;8 mph;54  °F;88%;29.69 in
+7.04.2015;Aston Villa;QPR;3;3;Premier League;Fair;S;3 mph;45  °F;93%;30.24 in
+18.04.2015;Crystal Palace;West Bromwich;0;2;Premier League;Mostly Cloudy;NE;13 mph;46  °F;71%;30.28 in
+18.04.2015;Everton;Burnley;1;0;Premier League;Fair;E;13 mph;45  °F;81%;30.29 in
+18.04.2015;Leicester City;Swansea City;2;0;Premier League;Fair;NE;12 mph;41  °F;87%;30.02 in
+18.04.2015;Stoke City;Southampton;2;1;Premier League;Fair;E;6 mph;41  °F;76%;30.11 in
+18.04.2015;Chelsea;Man. United;1;0;Premier League;Mostly Cloudy;NE;13 mph;46  °F;71%;30.28 in
+19.04.2015;Man. City;West Ham;2;0;Premier League;Fair;E;6 mph;39  °F;81%;30.14 in
+19.04.2015;Newcastle;Tottenham;1;3;Premier League;Fair;NNW;2 mph;36  °F;87%;30.15 in
+28.04.2015;Hull City;Liverpool;1;0;Premier League;Fair;SW;12 mph;45  °F;71%;29.69 in
+20.05.2015;Arsenal;Sunderland;0;0;Premier League;Fair;W;13 mph;48  °F;71%;29.81 in
+11.04.2015;Swansea City;Everton;1;1;Premier League;Cloudy;SW;8 mph;52  °F;82%;29.65 in
+11.04.2015;Southampton;Hull City;2;0;Premier League;Mostly Cloudy;SW;13 mph;50  °F;76%;29.88 in
+11.04.2015;Sunderland;Crystal Palace;1;4;Premier League;Fair;WSW;14 mph;50  °F;76%;29.39 in
+11.04.2015;Tottenham;Aston Villa;0;1;Premier League;Fair;SW;9 mph;54  °F;67%;29.93 in
+11.04.2015;West Bromwich;Leicester City;2;3;Premier League;Mostly Cloudy;SSW;8 mph;52  °F;82%;29.51 in
+11.04.2015;West Ham;Stoke City;1;1;Premier League;Fair;SW;9 mph;54  °F;67%;29.93 in
+11.04.2015;Burnley;Arsenal;0;1;Premier League;Fair;SW;14 mph;50  °F;82%;29.04 in
+12.04.2015;QPR;Chelsea;0;1;Premier League;Fair;SW;7 mph;48  °F;54%;30.31 in
+12.04.2015;Man. United;Man. City;4;2;Premier League;Fair;SSW;13 mph;43  °F;76%;29.93 in
+13.04.2015;Liverpool;Newcastle;2;0;Premier League;Fair;S;5 mph;39  °F;93%;30.26 in
+4.04.2015;Arsenal;Liverpool;4;1;Premier League;Light Rain;E;2 mph;48  °F;93%;30.01 in
+4.04.2015;Everton;Southampton;1;0;Premier League;Light Drizzle;NW;13 mph;46  °F;93%;30.06 in
+4.04.2015;Leicester City;West Ham;2;1;Premier League;Mostly Cloudy;NW;7 mph;46  °F;93%;29.75 in
+4.04.2015;Man. United;Aston Villa;3;1;Premier League;Mostly Cloudy;NW;8 mph;45  °F;100%;29.84 in
+4.04.2015;Swansea City;Hull City;3;1;Premier League;Cloudy;NNW;9 mph;46  °F;76%;29.88 in
+4.04.2015;West Bromwich;QPR;1;4;Premier League;Mostly Cloudy;NW;15 mph;45  °F;93%;29.74 in
+4.04.2015;Chelsea;Stoke City;2;1;Premier League;Light Rain;E;2 mph;48  °F;93%;30.01 in
+5.04.2015;Burnley;Tottenham;0;0;Premier League;Partly Cloudy;W;5 mph;45  °F;93%;29.53 in
+5.04.2015;Sunderland;Newcastle;1;0;Premier League;Partly Cloudy;W;5 mph;45  °F;93%;29.95 in
+6.04.2015;Crystal Palace;Man. City;2;1;Premier League;Fair;SW;3 mph;43  °F;81%;30.40 in
+21.03.2015;Man. City;West Bromwich;3;0;Premier League;Fair;NW;6 mph;43  °F;87%;29.96 in
+21.03.2015;Aston Villa;Swansea City;0;1;Premier League;Cloudy;NW;13 mph;45  °F;81%;29.86 in
+21.03.2015;Newcastle;Arsenal;1;2;Premier League;Fair;WNW;9 mph;39  °F;87%;29.92 in
+21.03.2015;Southampton;Burnley;2;0;Premier League;Fair;NNE;7 mph;36  °F;93%;30.21 in
+21.03.2015;Stoke City;Crystal Palace;1;2;Premier League;Fair;NW;6 mph;43  °F;87%;29.96 in
+21.03.2015;Tottenham;Leicester City;4;3;Premier League;Partly Cloudy;NW;10 mph;50  °F;62%;30.16 in
+21.03.2015;West Ham;Sunderland;1;0;Premier League;Partly Cloudy;NW;10 mph;50  °F;62%;30.16 in
+22.03.2015;Liverpool;Man. United;1;2;Premier League;Fair;E;7 mph;36  °F;81%;30.32 in
+22.03.2015;Hull City;Chelsea;2;3;Premier League;Cloudy;ENE;5 mph;41  °F;93%;30.30 in
+22.03.2015;QPR;Everton;1;2;Premier League;Cloudy;NNE;7 mph;43  °F;70%;30.37 in
+14.03.2015;Crystal Palace;QPR;3;1;Premier League;Fair;NNE;8 mph;39  °F;75%;30.37 in
+14.03.2015;Arsenal;West Ham;3;0;Premier League;Fair;NNE;8 mph;39  °F;75%;30.37 in
+14.03.2015;Leicester City;Hull City;0;0;Premier League;Mostly Cloudy;NE;15 mph;39  °F;65%;30.10 in
+14.03.2015;Sunderland;Aston Villa;0;4;Premier League;Cloudy;E;7 mph;39  °F;75%;30.24 in
+14.03.2015;West Bromwich;Stoke City;1;0;Premier League;Cloudy;NE;10 mph;39  °F;70%;30.06 in
+14.03.2015;Burnley;Man. City;1;0;Premier League;Mostly Cloudy;NE;6 mph;37  °F;81%;29.73 in
+15.03.2015;Chelsea;Southampton;1;1;Premier League;Mostly Cloudy;NNE;12 mph;43  °F;81%;30.37 in
+15.03.2015;Everton;Newcastle;3;0;Premier League;Partly Cloudy;NE;6 mph;37  °F;81%;30.44 in
+15.03.2015;Man. United;Tottenham;3;0;Premier League;Mostly Cloudy;ENE;13 mph;39  °F;81%;30.25 in
+16.03.2015;Swansea City;Liverpool;0;1;Premier League;Mostly Cloudy;NE;10 mph;41  °F;87%;30.03 in
+3.03.2015;Aston Villa;West Bromwich;2;1;Premier League;Fair;SSW;9 mph;37  °F;81%;29.54 in
+3.03.2015;Hull City;Sunderland;1;1;Premier League;Fair;SW;18 mph;36  °F;87%;29.69 in
+3.03.2015;Southampton;Crystal Palace;1;0;Premier League;Partly Cloudy;VAR;3 mph;39  °F;93%;29.88 in
+4.03.2015;QPR;Arsenal;1;2;Premier League;Fair;WSW;14 mph;41  °F;65%;30.13 in
+4.03.2015;West Ham;Chelsea;0;1;Premier League;Fair;WSW;14 mph;41  °F;65%;30.13 in
+4.03.2015;Man. City;Leicester City;2;0;Premier League;Mostly Cloudy;W;15 mph;41  °F;76%;29.78 in
+4.03.2015;Newcastle;Man. United;0;1;Premier League;Fair / Windy;W;22 mph;39  °F;81%;29.54 in
+4.03.2015;Stoke City;Everton;2;0;Premier League;Mostly Cloudy;W;15 mph;41  °F;76%;29.78 in
+4.03.2015;Tottenham;Swansea City;3;2;Premier League;Fair;WSW;14 mph;41  °F;65%;30.13 in
+4.03.2015;Liverpool;Burnley;2;0;Premier League;Fair / Windy;W;23 mph;41  °F;76%;30.00 in
+28.02.2015;West Ham;Crystal Palace;1;3;Premier League;Fair;SSW;8 mph;43  °F;76%;30.04 in
+28.02.2015;Burnley;Swansea City;0;1;Premier League;Mostly Cloudy;SW;13 mph;41  °F;81%;29.10 in
+28.02.2015;Man. United;Sunderland;2;0;Premier League;Mostly Cloudy;S;14 mph;41  °F;81%;29.58 in
+28.02.2015;Newcastle;Aston Villa;1;0;Premier League;Partly Cloudy;SW;15 mph;43  °F;70%;29.42 in
+28.02.2015;Stoke City;Hull City;1;0;Premier League;Mostly Cloudy;S;14 mph;41  °F;81%;29.58 in
+28.02.2015;West Bromwich;Southampton;1;0;Premier League;Mostly Cloudy;SSE;8 mph;39  °F;87%;29.56 in
+1.03.2015;Liverpool;Man. City;2;1;Premier League;Showers in the Vicinity;WSW;21 mph;46  °F;76%;29.17 in
+1.03.2015;Arsenal;Everton;2;0;Premier League;Mostly Cloudy;WSW;16 mph;54  °F;82%;29.36 in
+7.03.2015;QPR;Tottenham;1;2;Premier League;Fair;SSW;5 mph;48  °F;62%;30.37 in
+29.04.2015;Leicester City;Chelsea;1;3;Premier League;Fair;S;10 mph;45  °F;61%;29.61 in
+21.02.2015;Aston Villa;Stoke City;1;2;Premier League;Partly Cloudy;SW;5 mph;36  °F;87%;29.16 in
+21.02.2015;Chelsea;Burnley;1;1;Premier League;Fair;WSW;7 mph;39  °F;87%;29.51 in
+21.02.2015;Crystal Palace;Arsenal;1;2;Premier League;Fair;WSW;7 mph;39  °F;87%;29.51 in
+21.02.2015;Hull City;QPR;2;1;Premier League;Fair;SW;12 mph;37  °F;93%;29.36 in
+21.02.2015;Sunderland;West Bromwich;0;0;Premier League;Fair;W;10 mph;36  °F;93%;29.13 in
+21.02.2015;Swansea City;Man. United;2;1;Premier League;Mostly Cloudy;WNW;9 mph;37  °F;93%;29.33 in
+21.02.2015;Man. City;Newcastle;5;0;Premier League;Mostly Cloudy;SW;6 mph;36  °F;100%;29.23 in
+22.02.2015;Tottenham;West Ham;2;2;Premier League;Fair;W;6 mph;37  °F;81%;29.72 in
+22.02.2015;Everton;Leicester City;2;2;Premier League;Fair;WSW;9 mph;39  °F;87%;29.62 in
+22.02.2015;Southampton;Liverpool;0;2;Premier League;Fair;CALM;0 mph;23  °F;93%;29.79 in
+10.02.2015;Arsenal;Leicester City;2;1;Premier League;Cloudy;CALM;0 mph;37  °F;93%;30.52 in
+10.02.2015;Hull City;Aston Villa;2;0;Premier League;Fog;SSW;10 mph;34  °F;100%;30.39 in
+10.02.2015;Sunderland;QPR;0;2;Premier League;Partly Cloudy;W;8 mph;39  °F;93%;30.15 in
+10.02.2015;Liverpool;Tottenham;3;2;Premier League;Mostly Cloudy;W;6 mph;41  °F;93%;30.44 in
+11.02.2015;Man. United;Burnley;3;1;Premier League;Haze;S;10 mph;37  °F;87%;30.05 in
+11.02.2015;Southampton;West Ham;0;0;Premier League;Mostly Cloudy;SE;5 mph;41  °F;76%;30.24 in
+11.02.2015;Chelsea;Everton;1;0;Premier League;Cloudy;SE;8 mph;41  °F;76%;30.34 in
+11.02.2015;Stoke City;Man. City;1;4;Premier League;Haze;S;10 mph;37  °F;87%;30.05 in
+11.02.2015;Crystal Palace;Newcastle;1;1;Premier League;Cloudy;SE;8 mph;41  °F;76%;30.34 in
+11.02.2015;West Bromwich;Swansea City;2;0;Premier League;Cloudy;SSE;3 mph;37  °F;87%;29.97 in
+7.02.2015;Tottenham;Arsenal;2;1;Premier League;Fair;NE;8 mph;36  °F;81%;30.52 in
+7.02.2015;Aston Villa;Chelsea;1;2;Premier League;Fair;NNW;3 mph;32  °F;87%;30.21 in
+7.02.2015;Leicester City;Crystal Palace;0;1;Premier League;Partly Cloudy;VAR;3 mph;30  °F;93%;30.25 in
+7.02.2015;Man. City;Hull City;1;1;Premier League;Haze;SSW;2 mph;30  °F;93%;30.34 in
+7.02.2015;QPR;Southampton;0;1;Premier League;Fair;NE;8 mph;36  °F;81%;30.52 in
+7.02.2015;Swansea City;Sunderland;1;1;Premier League;Fair;NNE;15 mph;36  °F;81%;30.29 in
+7.02.2015;Everton;Liverpool;0;0;Premier League;Partly Cloudy;N;6 mph;34  °F;93%;30.53 in
+8.02.2015;Burnley;West Bromwich;2;2;Premier League;Fair;NNW;12 mph;39  °F;75%;29.94 in
+8.02.2015;Newcastle;Stoke City;1;1;Premier League;Fair;W;8 mph;34  °F;87%;30.39 in
+8.02.2015;West Ham;Man. United;1;1;Premier League;Mostly Cloudy;NNW;5 mph;39  °F;87%;30.63 in
+31.01.2015;Hull City;Newcastle;0;3;Premier League;Fair;SW;12 mph;34  °F;93%;28.72 in
+31.01.2015;Crystal Palace;Everton;0;1;Premier League;Fair;SW;9 mph;36  °F;81%;28.92 in
+31.01.2015;Liverpool;West Ham;2;0;Premier League;Light Rain;NW;8 mph;39  °F;87%;28.79 in
+31.01.2015;Man. United;Leicester City;3;1;Premier League;Cloudy;W;7 mph;34  °F;93%;28.61 in
+31.01.2015;Stoke City;QPR;3;1;Premier League;Cloudy;W;7 mph;34  °F;93%;28.61 in
+31.01.2015;Sunderland;Burnley;2;0;Premier League;Partly Cloudy;W;10 mph;34  °F;87%;28.52 in
+31.01.2015;West Bromwich;Tottenham;0;3;Premier League;Mostly Cloudy;WSW;6 mph;36  °F;81%;28.57 in
+31.01.2015;Chelsea;Man. City;1;1;Premier League;Fair;SW;9 mph;36  °F;81%;28.92 in
+1.02.2015;Arsenal;Aston Villa;5;0;Premier League;Partly Cloudy;WNW;17 mph;39  °F;61%;29.31 in
+1.02.2015;Southampton;Swansea City;0;1;Premier League;Mostly Cloudy;NNW;16 mph;37  °F;65%;29.44 in
+17.01.2015;Aston Villa;Liverpool;0;2;Premier League;Fair;SW;8 mph;34  °F;75%;29.51 in
+17.01.2015;Burnley;Crystal Palace;2;3;Premier League;Fair;SSW;9 mph;32  °F;100%;29.01 in
+17.01.2015;Leicester City;Stoke City;0;1;Premier League;Fair;SW;15 mph;34  °F;81%;29.52 in
+17.01.2015;QPR;Man. United;0;2;Premier League;Fair;WSW;8 mph;36  °F;81%;29.90 in
+17.01.2015;Swansea City;Chelsea;0;5;Premier League;Fair;WNW;5 mph;36  °F;81%;29.71 in
+17.01.2015;Tottenham;Sunderland;2;1;Premier League;Fair;WSW;8 mph;36  °F;81%;29.90 in
+17.01.2015;Newcastle;Southampton;1;2;Premier League;Showers in the Vicinity;W;12 mph;36  °F;87%;29.36 in
+18.01.2015;West Ham;Hull City;3;0;Premier League;Fair;SW;5 mph;41  °F;76%;29.84 in
+18.01.2015;Man. City;Arsenal;0;2;Premier League;Light Snow;SW;7 mph;32  °F;100%;29.52 in
+19.01.2015;Everton;West Bromwich;0;0;Premier League;Fair;NNW;8 mph;36  °F;75%;29.97 in
+10.01.2015;Sunderland;Liverpool;0;1;Premier League;Fair / Windy;WSW;33 mph;55  °F;77%;29.13 in
+10.01.2015;Burnley;QPR;2;1;Premier League;Mostly Cloudy / Windy;WSW;32 mph;54  °F;88%;28.90 in
+10.01.2015;Chelsea;Newcastle;2;0;Premier League;Cloudy / Windy;WSW;23 mph;57  °F;77%;29.93 in
+10.01.2015;Everton;Man. City;1;1;Premier League;Partly Cloudy;SW;20 mph;55  °F;82%;29.65 in
+10.01.2015;Leicester City;Aston Villa;1;0;Premier League;Mostly Cloudy / Windy;SW;37 mph;55  °F;82%;29.40 in
+10.01.2015;Swansea City;West Ham;1;1;Premier League;Rain / Windy;WSW;24 mph;52  °F;100%;29.76 in
+10.01.2015;West Bromwich;Hull City;1;0;Premier League;Cloudy / Windy;SW;21 mph;55  °F;82%;29.48 in
+10.01.2015;Crystal Palace;Tottenham;2;1;Premier League;Cloudy / Windy;WSW;23 mph;57  °F;77%;29.93 in
+11.01.2015;Arsenal;Stoke City;3;0;Premier League;Fair;WSW;14 mph;41  °F;70%;30.07 in
+11.01.2015;Man. United;Southampton;0;1;Premier League;Mostly Cloudy / Windy;WSW;21 mph;39  °F;81%;29.67 in
+1.01.2015;Stoke City;Man. United;1;1;Premier League;Cloudy;S;16 mph;46  °F;81%;29.99 in
+1.01.2015;Aston Villa;Crystal Palace;0;0;Premier League;Fair;SSW;9 mph;45  °F;93%;30.00 in
+1.01.2015;Hull City;Everton;2;0;Premier League;Mist;S;15 mph;41  °F;93%;30.19 in
+1.01.2015;Liverpool;Leicester City;2;2;Premier League;Light Rain;S;13 mph;50  °F;82%;30.15 in
+1.01.2015;Man. City;Sunderland;3;2;Premier League;Cloudy;S;16 mph;46  °F;81%;29.99 in
+1.01.2015;Newcastle;Burnley;3;3;Premier League;Partly Cloudy / Windy;SW;22 mph;52  °F;76%;29.77 in
+1.01.2015;QPR;Swansea City;1;1;Premier League;Fair;SSW;12 mph;43  °F;76%;30.43 in
+1.01.2015;Southampton;Arsenal;2;0;Premier League;Mostly Cloudy;SSW;15 mph;46  °F;93%;30.38 in
+1.01.2015;West Ham;West Bromwich;1;1;Premier League;Fair;SSW;12 mph;43  °F;76%;30.43 in
+1.01.2015;Tottenham;Chelsea;5;3;Premier League;Fair;SSW;12 mph;43  °F;76%;30.43 in
+28.12.2014;Tottenham;Man. United;0;0;Premier League;Fair;N;9 mph;37  °F;87%;29.96 in
+28.12.2014;Southampton;Chelsea;1;1;Premier League;Fair;NNE;8 mph;32  °F;87%;30.24 in
+28.12.2014;Aston Villa;Sunderland;0;0;Premier League;Cloudy;N;9 mph;34  °F;93%;29.71 in
+28.12.2014;Hull City;Leicester City;0;1;Premier League;Fair;N;5 mph;36  °F;93%;29.98 in
+28.12.2014;Man. City;Burnley;2;2;Premier League;Fair;NE;7 mph;32  °F;93%;29.84 in
+28.12.2014;QPR;Crystal Palace;0;0;Premier League;Fair;N;9 mph;37  °F;87%;29.96 in
+28.12.2014;Stoke City;West Bromwich;2;0;Premier League;Fair;NE;7 mph;32  °F;93%;29.84 in
+28.12.2014;West Ham;Arsenal;1;2;Premier League;Fair;N;9 mph;37  °F;87%;29.96 in
+28.12.2014;Newcastle;Everton;3;2;Premier League;Mostly Cloudy;NW;6 mph;36  °F;100%;29.86 in
+29.12.2014;Liverpool;Swansea City;4;1;Premier League;Fair;SW;6 mph;36  °F;93%;30.56 in
+26.12.2014;Chelsea;West Ham;2;0;Premier League;Fair;SW;7 mph;39  °F;81%;30.46 in
+26.12.2014;Burnley;Liverpool;0;1;Premier League;Fair;SW;5 mph;34  °F;100%;29.68 in
+26.12.2014;Crystal Palace;Southampton;1;3;Premier League;Fair;SW;7 mph;39  °F;81%;30.46 in
+26.12.2014;Everton;Stoke City;0;1;Premier League;Showers in the Vicinity;S;5 mph;39  °F;87%;30.26 in
+26.12.2014;Leicester City;Tottenham;1;2;Premier League;Fair;W;12 mph;34  °F;100%;30.10 in
+26.12.2014;Man. United;Newcastle;3;1;Premier League;Light Rain;S;6 mph;37  °F;100%;30.16 in
+26.12.2014;Sunderland;Hull City;1;3;Premier League;Shallow Fog;W;1 mph;28  °F;100%;30.10 in
+26.12.2014;Swansea City;Aston Villa;1;0;Premier League;Fair;NW;6 mph;37  °F;93%;30.26 in
+26.12.2014;West Bromwich;Man. City;1;3;Premier League;Fair;WSW;6 mph;37  °F;87%;30.09 in
+26.12.2014;Arsenal;QPR;2;1;Premier League;Fair;SW;7 mph;39  °F;81%;30.46 in
+20.12.2014;Man. City;Crystal Palace;3;0;Premier League;Light Rain;W;16 mph;43  °F;81%;29.81 in
+20.12.2014;Aston Villa;Man. United;1;1;Premier League;Fair;W;15 mph;43  °F;76%;29.77 in
+20.12.2014;Hull City;Swansea City;0;1;Premier League;Fair / Windy;WSW;24 mph;46  °F;71%;29.86 in
+20.12.2014;QPR;West Bromwich;3;2;Premier League;Fair;WSW;16 mph;45  °F;71%;30.19 in
+20.12.2014;Southampton;Everton;3;0;Premier League;Partly Cloudy;WSW;5 mph;45  °F;76%;30.27 in
+20.12.2014;Tottenham;Burnley;2;1;Premier League;Fair;WSW;16 mph;45  °F;71%;30.19 in
+20.12.2014;West Ham;Leicester City;2;0;Premier League;Fair;WSW;16 mph;45  °F;71%;30.19 in
+21.12.2014;Newcastle;Sunderland;0;1;Premier League;Partly Cloudy;WSW;12 mph;45  °F;87%;29.89 in
+21.12.2014;Liverpool;Arsenal;2;2;Premier League;Fair;SSW;8 mph;46  °F;87%;30.23 in
+22.12.2014;Stoke City;Chelsea;0;2;Premier League;Partly Cloudy / Windy;WSW;25 mph;54  °F;82%;29.64 in
+13.12.2014;Burnley;Southampton;1;0;Premier League;Fair;WNW;10 mph;34  °F;93%;28.90 in
+13.12.2014;Chelsea;Hull City;2;0;Premier League;Fair;WSW;10 mph;39  °F;75%;29.66 in
+13.12.2014;Crystal Palace;Stoke City;1;1;Premier League;Fair;WSW;10 mph;39  °F;75%;29.66 in
+13.12.2014;Leicester City;Man. City;0;1;Premier League;Fair;W;9 mph;34  °F;93%;29.32 in
+13.12.2014;Sunderland;West Ham;1;1;Premier League;Fair;W;6 mph;30  °F;93%;29.31 in
+13.12.2014;West Bromwich;Aston Villa;1;0;Premier League;Mostly Cloudy;WSW;6 mph;36  °F;87%;29.30 in
+13.12.2014;Arsenal;Newcastle;4;1;Premier League;Fair;WSW;10 mph;39  °F;75%;29.66 in
+14.12.2014;Man. United;Liverpool;3;0;Premier League;Fair;S;12 mph;37  °F;93%;29.52 in
+14.12.2014;Swansea City;Tottenham;1;2;Premier League;Mostly Cloudy;WSW;13 mph;45  °F;71%;29.68 in
+15.12.2014;Everton;QPR;3;1;Premier League;Fair;WSW;15 mph;45  °F;76%;29.62 in
+6.12.2014;Newcastle;Chelsea;2;1;Premier League;Fair;WSW;5 mph;30  °F;93%;29.95 in
+6.12.2014;Hull City;West Bromwich;0;0;Premier League;Fair;WNW;9 mph;36  °F;87%;30.13 in
+6.12.2014;Liverpool;Sunderland;0;0;Premier League;Fair;NW;7 mph;39  °F;75%;30.20 in
+6.12.2014;QPR;Burnley;2;0;Premier League;Fair;WNW;9 mph;39  °F;81%;30.22 in
+6.12.2014;Stoke City;Arsenal;3;2;Premier League;Fair;SSW;2 mph;30  °F;93%;30.02 in
+6.12.2014;Tottenham;Crystal Palace;0;0;Premier League;Fair;WNW;9 mph;39  °F;81%;30.22 in
+6.12.2014;Man. City;Everton;1;0;Premier League;Fair;SSW;2 mph;30  °F;93%;30.02 in
+7.12.2014;West Ham;Swansea City;3;1;Premier League;Cloudy;SW;8 mph;43  °F;81%;30.19 in
+7.12.2014;Aston Villa;Leicester City;2;1;Premier League;Fair;SSW;8 mph;45  °F;87%;29.77 in
+8.12.2014;Southampton;Man. United;1;2;Premier League;Showers in the Vicinity;VAR;2 mph;39  °F;87%;30.03 in
+2.12.2014;Burnley;Newcastle;1;1;Premier League;Mist;W;5 mph;43  °F;100%;29.19 in
+2.12.2014;Leicester City;Liverpool;1;3;Premier League;Mostly Cloudy;W;6 mph;43  °F;93%;29.61 in
+2.12.2014;Man. United;Stoke City;2;1;Premier League;Drizzle;SW;3 mph;45  °F;100%;29.67 in
+2.12.2014;Swansea City;QPR;2;0;Premier League;Mostly Cloudy;WNW;6 mph;46  °F;93%;29.74 in
+2.12.2014;Crystal Palace;Aston Villa;0;1;Premier League;Cloudy;N;5 mph;45  °F;81%;29.93 in
+2.12.2014;West Bromwich;West Ham;1;2;Premier League;Haze;CALM;0 mph;43  °F;93%;29.59 in
+3.12.2014;Arsenal;Southampton;1;0;Premier League;Partly Cloudy;N;13 mph;45  °F;76%;30.19 in
+3.12.2014;Chelsea;Tottenham;3;0;Premier League;Partly Cloudy;N;13 mph;45  °F;76%;30.19 in
+3.12.2014;Everton;Hull City;1;1;Premier League;Fair;NNW;7 mph;37  °F;75%;30.26 in
+3.12.2014;Sunderland;Man. City;1;4;Premier League;Fair;W;6 mph;30  °F;93%;30.04 in
+29.11.2014;West Bromwich;Arsenal;0;1;Premier League;Rain;NE;7 mph;50  °F;94%;29.42 in
+29.11.2014;Burnley;Aston Villa;1;1;Premier League;Light Drizzle;ENE;7 mph;46  °F;100%;29.10 in
+29.11.2014;Liverpool;Stoke City;1;0;Premier League;Mostly Cloudy;ENE;8 mph;50  °F;87%;29.67 in
+29.11.2014;Man. United;Hull City;3;0;Premier League;Fair;ENE;9 mph;50  °F;94%;29.49 in
+29.11.2014;QPR;Leicester City;3;2;Premier League;Fair;E;10 mph;54  °F;82%;29.72 in
+29.11.2014;Swansea City;Crystal Palace;1;1;Premier League;Fair;ENE;15 mph;52  °F;88%;29.44 in
+29.11.2014;West Ham;Newcastle;1;0;Premier League;Fair;E;10 mph;54  °F;82%;29.72 in
+29.11.2014;Sunderland;Chelsea;0;0;Premier League;Mist;ESE;6 mph;48  °F;100%;29.57 in
+30.11.2014;Southampton;Man. City;0;3;Premier League;Mist;CALM;0 mph;43  °F;93%;29.91 in
+30.11.2014;Tottenham;Everton;2;1;Premier League;Fog;N;3 mph;45  °F;93%;29.87 in
+22.11.2014;Chelsea;West Bromwich;2;0;Premier League;Mist;ESE;6 mph;52  °F;88%;29.87 in
+22.11.2014;Everton;West Ham;2;1;Premier League;Light Rain;SE;14 mph;48  °F;93%;29.70 in
+22.11.2014;Leicester City;Sunderland;0;0;Premier League;Mostly Cloudy;SSE;9 mph;46  °F;93%;29.52 in
+22.11.2014;Man. City;Swansea City;2;1;Premier League;Light Rain;SSE;14 mph;48  °F;93%;29.55 in
+22.11.2014;Newcastle;QPR;1;0;Premier League;Light Rain;SE;8 mph;45  °F;100%;29.54 in
+22.11.2014;Stoke City;Burnley;1;2;Premier League;Light Rain;SSE;14 mph;48  °F;93%;29.55 in
+22.11.2014;Arsenal;Man. United;1;2;Premier League;Mist;ESE;6 mph;52  °F;88%;29.87 in
+23.11.2014;Crystal Palace;Liverpool;3;1;Premier League;Mist;VAR;2 mph;57  °F;94%;29.96 in
+23.11.2014;Hull City;Tottenham;1;2;Premier League;Mostly Cloudy;SW;6 mph;48  °F;100%;29.86 in
+24.11.2014;Aston Villa;Southampton;1;1;Premier League;Fair;W;5 mph;37  °F;87%;29.83 in
+8.11.2014;Liverpool;Chelsea;1;2;Premier League;Light Rain Shower;SW;13 mph;48  °F;82%;29.29 in
+8.11.2014;Burnley;Hull City;1;0;Premier League;Light Rain;WSW;10 mph;45  °F;100%;28.64 in
+8.11.2014;Man. United;Crystal Palace;1;0;Premier League;Mostly Cloudy;SSW;13 mph;46  °F;93%;29.11 in
+8.11.2014;Southampton;Leicester City;2;0;Premier League;Fair;VAR;2 mph;50  °F;82%;29.53 in
+8.11.2014;West Ham;Aston Villa;0;0;Premier League;Fair;SW;9 mph;50  °F;76%;29.54 in
+8.11.2014;QPR;Man. City;2;2;Premier League;Fair;SW;9 mph;50  °F;76%;29.54 in
+9.11.2014;Sunderland;Everton;1;1;Premier League;Mostly Cloudy;WSW;14 mph;48  °F;82%;29.07 in
+9.11.2014;Tottenham;Stoke City;1;2;Premier League;Light Drizzle;SW;3 mph;52  °F;94%;29.54 in
+9.11.2014;West Bromwich;Newcastle;0;2;Premier League;Fair;S;6 mph;43  °F;93%;29.18 in
+9.11.2014;Swansea City;Arsenal;2;1;Premier League;Fair;WSW;6 mph;48  °F;82%;29.30 in
+1.11.2014;Newcastle;Liverpool;1;0;Premier League;Partly Cloudy;S;13 mph;61  °F;82%;29.39 in
+1.11.2014;Arsenal;Burnley;3;0;Premier League;Fair;SW;5 mph;63  °F;77%;29.96 in
+1.11.2014;Chelsea;QPR;2;1;Premier League;Fair;SW;5 mph;63  °F;77%;29.96 in
+1.11.2014;Everton;Swansea City;0;0;Premier League;Partly Cloudy;SSW;7 mph;57  °F;94%;29.70 in
+1.11.2014;Hull City;Southampton;0;1;Premier League;Fair;S;17 mph;59  °F;88%;29.72 in
+1.11.2014;Leicester City;West Bromwich;0;1;Premier League;Fair;S;18 mph;61  °F;88%;29.49 in
+1.11.2014;Stoke City;West Ham;2;2;Premier League;Mostly Cloudy;WSW;14 mph;59  °F;82%;29.55 in
+2.11.2014;Man. City;Man. United;1;0;Premier League;Light Rain;SSW;17 mph;55  °F;94%;29.32 in
+2.11.2014;Aston Villa;Tottenham;1;2;Premier League;Light Rain;S;13 mph;55  °F;94%;29.33 in
+3.11.2014;Crystal Palace;Sunderland;1;3;Premier League;Fair;SSW;10 mph;54  °F;77%;29.48 in
+25.10.2014;West Ham;Man. City;2;1;Premier League;Partly Cloudy;WNW;7 mph;57  °F;72%;29.96 in
+25.10.2014;Liverpool;Hull City;0;0;Premier League;Partly Cloudy;SSW;7 mph;50  °F;82%;29.82 in
+25.10.2014;Southampton;Stoke City;1;0;Premier League;Mostly Cloudy;CALM;0 mph;48  °F;93%;30.00 in
+25.10.2014;Sunderland;Arsenal;0;2;Premier League;Partly Cloudy;SSW;8 mph;48  °F;82%;29.51 in
+25.10.2014;West Bromwich;Crystal Palace;2;2;Premier League;Fair;SSW;6 mph;48  °F;93%;29.62 in
+25.10.2014;Swansea City;Leicester City;2;0;Premier League;Cloudy;W;9 mph;54  °F;77%;29.76 in
+26.10.2014;Burnley;Everton;1;3;Premier League;Fair;SW;10 mph;50  °F;82%;29.22 in
+26.10.2014;Tottenham;Newcastle;1;2;Premier League;Cloudy;SW;6 mph;55  °F;67%;30.13 in
+26.10.2014;Man. United;Chelsea;1;1;Premier League;Mostly Cloudy;SW;14 mph;54  °F;82%;29.73 in
+27.10.2014;QPR;Aston Villa;2;0;Premier League;Cloudy;WSW;6 mph;57  °F;72%;30.13 in
+18.10.2014;Man. City;Tottenham;4;1;Premier League;Mostly Cloudy;SSE;18 mph;61  °F;94%;29.35 in
+18.10.2014;Arsenal;Hull City;2;2;Premier League;Partly Cloudy;SSE;14 mph;63  °F;82%;29.81 in
+18.10.2014;Burnley;West Ham;1;3;Premier League;Light Rain Shower;SE;14 mph;57  °F;100%;28.93 in
+18.10.2014;Crystal Palace;Chelsea;1;2;Premier League;Partly Cloudy;SSE;14 mph;63  °F;82%;29.81 in
+18.10.2014;Everton;Aston Villa;3;0;Premier League;Rain;SSE;18 mph;61  °F;94%;29.47 in
+18.10.2014;Southampton;Sunderland;8;0;Premier League;Mostly Cloudy;SSW;17 mph;64  °F;73%;29.73 in
+18.10.2014;Newcastle;Leicester City;1;0;Premier League;Light Rain;S;13 mph;59  °F;88%;29.31 in
+19.10.2014;QPR;Liverpool;2;3;Premier League;Fair;SSW;9 mph;64  °F;88%;29.90 in
+19.10.2014;Stoke City;Swansea City;2;1;Premier League;Fair;S;17 mph;59  °F;88%;29.46 in
+20.10.2014;West Bromwich;Man. United;2;2;Premier League;Mostly Cloudy;SW;8 mph;55  °F;88%;29.59 in
+4.10.2014;Hull City;Crystal Palace;2;0;Premier League;Fair;S;16 mph;59  °F;82%;29.77 in
+4.10.2014;Leicester City;Burnley;2;2;Premier League;Fair;S;12 mph;57  °F;88%;29.58 in
+4.10.2014;Liverpool;West Bromwich;2;1;Premier League;Fair;SSE;14 mph;61  °F;82%;29.70 in
+4.10.2014;Sunderland;Stoke City;3;1;Premier League;Fair;S;8 mph;61  °F;77%;29.48 in
+4.10.2014;Swansea City;Newcastle;2;2;Premier League;Mostly Cloudy;S;15 mph;61  °F;88%;29.68 in
+4.10.2014;Aston Villa;Man. City;0;2;Premier League;Partly Cloudy;SSE;9 mph;57  °F;88%;29.56 in
+5.10.2014;Man. United;Everton;2;1;Premier League;Fair;SSW;5 mph;41  °F;93%;29.81 in
+5.10.2014;Tottenham;Southampton;1;0;Premier League;Fair;WNW;6 mph;50  °F;76%;30.10 in
+5.10.2014;Chelsea;Arsenal;2;0;Premier League;Fair;WNW;6 mph;50  °F;76%;30.10 in
+5.10.2014;West Ham;QPR;2;0;Premier League;Fair;WNW;6 mph;50  °F;76%;30.10 in
+27.09.2014;Liverpool;Everton;1;1;Premier League;Fair;SE;5 mph;50  °F;87%;30.20 in
+27.09.2014;Chelsea;Aston Villa;3;0;Premier League;Mostly Cloudy;ESE;6 mph;70  °F;56%;30.28 in
+27.09.2014;Crystal Palace;Leicester City;2;0;Premier League;Mostly Cloudy;ESE;6 mph;70  °F;56%;30.28 in
+27.09.2014;Hull City;Man. City;2;4;Premier League;Fair;SW;6 mph;50  °F;87%;30.22 in
+27.09.2014;Man. United;West Ham;2;1;Premier League;Fair;S;3 mph;45  °F;100%;30.05 in
+27.09.2014;Southampton;QPR;2;1;Premier League;Mostly Cloudy;CALM;0 mph;48  °F;100%;30.27 in
+27.09.2014;Sunderland;Swansea City;0;0;Premier League;Fair;SSW;5 mph;46  °F;87%;29.95 in
+27.09.2014;Arsenal;Tottenham;1;1;Premier League;Mostly Cloudy;ESE;6 mph;70  °F;56%;30.28 in
+28.09.2014;West Bromwich;Burnley;4;0;Premier League;Mostly Cloudy;SE;6 mph;59  °F;82%;29.89 in
+29.09.2014;Stoke City;Newcastle;1;0;Premier League;Fair;CALM;0 mph;52  °F;100%;29.87 in
+20.09.2014;QPR;Stoke City;2;2;Premier League;Mist;ENE;3 mph;64  °F;94%;29.90 in
+20.09.2014;Aston Villa;Arsenal;0;3;Premier League;Mist;NNE;3 mph;61  °F;94%;29.59 in
+20.09.2014;Burnley;Sunderland;0;0;Premier League;Light Rain;VAR;3 mph;57  °F;100%;29.24 in
+20.09.2014;Newcastle;Hull City;2;2;Premier League;Light Drizzle;NE;2 mph;55  °F;100%;29.69 in
+20.09.2014;Swansea City;Southampton;0;1;Premier League;Fair;NE;5 mph;61  °F;94%;29.71 in
+20.09.2014;West Ham;Liverpool;3;1;Premier League;Mist;ENE;3 mph;64  °F;94%;29.90 in
+21.09.2014;Leicester City;Man. United;5;3;Premier League;Fair;N;8 mph;55  °F;88%;29.84 in
+21.09.2014;Tottenham;West Bromwich;0;1;Premier League;Light Rain;NNW;5 mph;59  °F;100%;30.10 in
+21.09.2014;Everton;Crystal Palace;2;3;Premier League;Fair;N;5 mph;55  °F;82%;30.12 in
+21.09.2014;Man. City;Chelsea;1;1;Premier League;Fair;NNE;7 mph;54  °F;82%;29.93 in
+13.09.2014;Arsenal;Man. City;2;2;Premier League;Fair;ENE;7 mph;59  °F;88%;30.28 in
+13.09.2014;Chelsea;Swansea City;4;2;Premier League;Fair;ENE;7 mph;59  °F;88%;30.28 in
+13.09.2014;Crystal Palace;Burnley;0;0;Premier League;Fair;ENE;7 mph;59  °F;88%;30.28 in
+13.09.2014;Southampton;Newcastle;4;0;Premier League;Mist;VAR;3 mph;48  °F;93%;30.24 in
+13.09.2014;Stoke City;Leicester City;0;1;Premier League;Fair;ENE;3 mph;54  °F;94%;30.05 in
+13.09.2014;Sunderland;Tottenham;2;2;Premier League;Fair;SSW;3 mph;50  °F;94%;30.04 in
+13.09.2014;West Bromwich;Everton;0;2;Premier League;Fair;ENE;6 mph;57  °F;88%;29.94 in
+13.09.2014;Liverpool;Aston Villa;0;1;Premier League;Mostly Cloudy;NE;8 mph;59  °F;77%;30.23 in
+14.09.2014;Man. United;QPR;4;0;Premier League;Fair;E;6 mph;50  °F;87%;30.08 in
+15.09.2014;Hull City;West Ham;2;2;Premier League;Haze;N;10 mph;59  °F;94%;30.07 in
+30.08.2014;Burnley;Man. United;0;0;Premier League;Partly Cloudy;W;12 mph;57  °F;94%;29.01 in
+30.08.2014;Man. City;Stoke City;0;1;Premier League;Mostly Cloudy;WSW;9 mph;57  °F;94%;29.52 in
+30.08.2014;Newcastle;Crystal Palace;3;3;Premier League;Mostly Cloudy;WSW;10 mph;57  °F;88%;29.39 in
+30.08.2014;QPR;Sunderland;1;0;Premier League;Mostly Cloudy;WSW;16 mph;64  °F;73%;29.90 in
+30.08.2014;Swansea City;West Bromwich;3;0;Premier League;Drizzle;WSW;17 mph;61  °F;94%;29.68 in
+30.08.2014;West Ham;Southampton;1;3;Premier League;Mostly Cloudy;WSW;16 mph;64  °F;73%;29.90 in
+30.08.2014;Everton;Chelsea;3;6;Premier League;Fair;WSW;13 mph;59  °F;82%;29.67 in
+31.08.2014;Aston Villa;Hull City;2;1;Premier League;Fair;W;5 mph;57  °F;82%;29.65 in
+31.08.2014;Tottenham;Liverpool;0;3;Premier League;Fair;W;10 mph;63  °F;72%;29.98 in
+31.08.2014;Leicester City;Arsenal;1;1;Premier League;Fair;W;13 mph;57  °F;88%;29.67 in
+23.08.2014;Aston Villa;Newcastle;0;0;Premier League;Fair;WNW;7 mph;54  °F;67%;29.59 in
+23.08.2014;Chelsea;Leicester City;2;0;Premier League;Fair;NW;8 mph;59  °F;59%;29.93 in
+23.08.2014;Crystal Palace;West Ham;1;3;Premier League;Fair;NW;8 mph;59  °F;59%;29.93 in
+23.08.2014;Southampton;West Bromwich;0;0;Premier League;Shallow Fog;CALM;0 mph;39  °F;93%;29.94 in
+23.08.2014;Swansea City;Burnley;1;0;Premier League;Fair;NNW;6 mph;48  °F;82%;29.74 in
+23.08.2014;Everton;Arsenal;2;2;Premier League;Partly Cloudy;WNW;6 mph;54  °F;72%;29.82 in
+24.08.2014;Hull City;Stoke City;1;1;Premier League;Fair;SW;6 mph;48  °F;93%;29.89 in
+24.08.2014;Tottenham;QPR;4;0;Premier League;Fair;WNW;9 mph;55  °F;72%;30.04 in
+24.08.2014;Sunderland;Man. United;1;1;Premier League;Fair;SW;5 mph;46  °F;93%;29.72 in
+25.08.2014;Man. City;Liverpool;3;1;Premier League;Light Rain;SE;5 mph;55  °F;77%;29.67 in
+16.08.2014;Man. United;Swansea City;1;2;Premier League;Mostly Cloudy;W;6 mph;54  °F;77%;29.87 in
+16.08.2014;Leicester City;Everton;2;2;Premier League;Fair;WSW;8 mph;52  °F;88%;29.81 in
+16.08.2014;QPR;Hull City;0;1;Premier League;Fair;N;3 mph;61  °F;72%;30.13 in
+16.08.2014;Stoke City;Aston Villa;0;1;Premier League;Mostly Cloudy;W;6 mph;54  °F;77%;29.87 in
+16.08.2014;West Bromwich;Sunderland;2;2;Premier League;Fair;WNW;6 mph;55  °F;77%;29.80 in
+16.08.2014;West Ham;Tottenham;0;1;Premier League;Fair;N;3 mph;61  °F;72%;30.13 in
+16.08.2014;Arsenal;Crystal Palace;2;1;Premier League;Fair;N;3 mph;61  °F;72%;30.13 in
+17.08.2014;Liverpool;Southampton;2;1;Premier League;Mostly Cloudy;SW;10 mph;61  °F;72%;29.76 in
+17.08.2014;Newcastle;Man. City;0;2;Premier League;Mostly Cloudy;W;13 mph;54  °F;88%;29.42 in
+18.08.2014;Burnley;Chelsea;1;3;Premier League;Light Rain Shower;W;14 mph;52  °F;94%;28.87 in

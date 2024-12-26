@@ -1,0 +1,381 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+19.05.2018;Juventus;Hellas Verona;2;1;Serie A;Fair;SW;6 mph;55 °F;82 %;29.82 in
+20.05.2018;Genoa;Torino;1;2;Serie A;Fair;NE;12 mph;66 °F;68 %;29.96 in
+20.05.2018;Cagliari;Atalanta;1;0;Serie A;Mostly Cloudy;ENE;3 mph;64 °F;68 %;29.62 in
+20.05.2018;Chievo;Benevento;1;0;Serie A;Mostly Cloudy;ENE;3 mph;64 °F;68 %;29.62 in
+20.05.2018;Udinese;Bologna;1;0;Serie A;Fair;NW;6 mph;61 °F;88 %;29.96 in
+20.05.2018;Napoli;Crotone;2;1;Serie A;Fair;N;5 mph;68 °F;64 %;29.69 in
+20.05.2018;Milan;Fiorentina;5;1;Serie A;Mostly Cloudy;ENE;3 mph;64 °F;68 %;29.62 in
+20.05.2018;SPAL;Sampdoria;3;1;Serie A;Mostly Cloudy;N;3 mph;57 °F;88 %;29.06 in
+20.05.2018;Lazio;Inter;2;3;Serie A;Fair;VAR;2 mph;63 °F;88 %;29.48 in
+20.05.2018;Sassuolo;Roma;0;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+12.05.2018;Benevento;Genoa;1;0;Serie A;Partly Cloudy;N;8 mph;59 °F;82 %;29.18 in
+12.05.2018;Inter;Sassuolo;1;2;Serie A;Fair;NW;3 mph;63 °F;88 %;29.65 in
+13.05.2018;Fiorentina;Cagliari;0;1;Serie A;Partly Cloudy;VAR;1 mph;61 °F;88 %;29.84 in
+13.05.2018;Bologna;Chievo;1;2;Serie A;Fair;SW;7 mph;63 °F;77 %;29.71 in
+13.05.2018;Crotone;Lazio;2;2;Serie A;Fair;VAR;1 mph;55 °F;100 %;28.98 in
+13.05.2018;Torino;SPAL;2;1;Serie A;Partly Cloudy;N;6 mph;64 °F;77 %;28.91 in
+13.05.2018;Hellas Verona;Udinese;0;1;Serie A;Mostly Cloudy;SSW;3 mph;61 °F;94 %;29.62 in
+13.05.2018;Atalanta;Milan;1;1;Serie A;Fair;N;5 mph;61 °F;82 %;29.07 in
+13.05.2018;Roma;Juventus;0;0;Serie A;Partly Cloudy;VAR;1 mph;63 °F;88 %;29.51 in
+13.05.2018;Sampdoria;Napoli;0;2;Serie A;Thunder in the Vicinity;ESE;5 mph;70 °F;83 %;29.88 in
+05.05.2018;Milan;Hellas Verona;4;1;Serie A;Partly Cloudy;N;5 mph;61 °F;94 %;29.59 in
+05.05.2018;Juventus;Bologna;3;1;Serie A;Mist;W;3 mph;57 °F;100 %;29.80 in
+06.05.2018;Udinese;Inter;0;4;Serie A;Cloudy;E;3 mph;64 °F;88 %;29.96 in
+06.05.2018;Lazio;Atalanta;1;1;Serie A;Fair;SSE;5 mph;57 °F;94 %;29.54 in
+06.05.2018;SPAL;Benevento;2;0;Serie A;Fair;VAR;1 mph;61 °F;88 %;29.09 in
+06.05.2018;Chievo;Crotone;2;1;Serie A;Partly Cloudy;NNW;10 mph;63 °F;82 %;29.65 in
+06.05.2018;Genoa;Fiorentina;2;3;Serie A;Mostly Cloudy;NNE;9 mph;70 °F;60 %;29.99 in
+06.05.2018;Napoli;Torino;2;2;Serie A;Partly Cloudy;CALM;0 mph;59 °F;88 %;29.75 in
+06.05.2018;Sassuolo;Sampdoria;1;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+06.05.2018;Cagliari;Roma;0;1;Serie A;Partly Cloudy;NNW;10 mph;63 °F;82 %;29.65 in
+28.04.2018;Roma;Chievo;4;1;Serie A;Fair;ESE;7 mph;61 °F;68 %;29.43 in
+28.04.2018;Inter;Juventus;2;3;Serie A;Fair;N;9 mph;63 °F;72 %;29.56 in
+29.04.2018;Crotone;Sassuolo;4;1;Serie A;Cloudy;VAR;2 mph;61 °F;82 %;28.98 in
+29.04.2018;Sampdoria;Cagliari;4;1;Serie A;Fair;N;7 mph;63 °F;82 %;29.91 in
+29.04.2018;Atalanta;Genoa;3;1;Serie A;Mostly Cloudy;E;3 mph;64 °F;73 %;29.07 in
+29.04.2018;Bologna;Milan;1;2;Serie A;Fair;SSW;3 mph;66 °F;68 %;29.71 in
+29.04.2018;Hellas Verona;SPAL;1;3;Serie A;Fair;VAR;1 mph;64 °F;73 %;29.68 in
+29.04.2018;Benevento;Udinese;3;3;Serie A;Mostly Cloudy;E;3 mph;64 °F;73 %;29.07 in
+29.04.2018;Fiorentina;Napoli;3;0;Serie A;Fair;VAR;2 mph;64 °F;83 %;29.75 in
+29.04.2018;Torino;Lazio;0;1;Serie A;Mostly Cloudy;N;7 mph;59 °F;88 %;28.91 in
+21.04.2018;SPAL;Roma;0;3;Serie A;Fair;VAR;1 mph;59 °F;72 %;29.23 in
+21.04.2018;Sassuolo;Fiorentina;1;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+21.04.2018;Milan;Benevento;0;1;Serie A;Fair;CALM;0 mph;63 °F;68 %;29.77 in
+22.04.2018;Cagliari;Bologna;0;0;Serie A;Fair;VAR;1 mph;64 °F;64 %;29.68 in
+22.04.2018;Udinese;Crotone;1;2;Serie A;Fair;ESE;6 mph;55 °F;72 %;30.05 in
+22.04.2018;Chievo;Inter;1;2;Serie A;Fair;VAR;1 mph;64 °F;64 %;29.68 in
+22.04.2018;Lazio;Sampdoria;4;0;Serie A;Fair;VAR;1 mph;63 °F;82 %;29.63 in
+22.04.2018;Atalanta;Torino;2;1;Serie A;Fair;N;6 mph;64 °F;64 %;29.24 in
+22.04.2018;Juventus;Napoli;0;1;Serie A;Fair;ESE;2 mph;54 °F;82 %;29.88 in
+23.04.2018;Genoa;Hellas Verona;3;1;Serie A;Mist;SE;5 mph;59 °F;100 %;30.08 in
+17.04.2018;Inter;Cagliari;4;0;Serie A;Fair;E;2 mph;61 °F;72 %;29.59 in
+18.04.2018;Benevento;Atalanta;0;3;Serie A;Fair;N;6 mph;61 °F;77 %;29.44 in
+18.04.2018;Sampdoria;Bologna;1;0;Serie A;Fair;VAR;1 mph;64 °F;59 %;30.26 in
+18.04.2018;SPAL;Chievo;0;0;Serie A;Fair;VAR;1 mph;57 °F;82 %;29.35 in
+18.04.2018;Roma;Genoa;2;1;Serie A;Fair;VAR;2 mph;57 °F;94 %;29.69 in
+18.04.2018;Crotone;Juventus;1;1;Serie A;Fair;VAR;1 mph;57 °F;82 %;29.35 in
+18.04.2018;Fiorentina;Lazio;3;4;Serie A;Fair;VAR;2 mph;59 °F;72 %;30.10 in
+18.04.2018;Torino;Milan;1;1;Serie A;Fair;N;9 mph;59 °F;67 %;29.28 in
+18.04.2018;Hellas Verona;Sassuolo;0;1;Serie A;Partly Cloudy;NW;3 mph;61 °F;77 %;30.06 in
+18.04.2018;Napoli;Udinese;4;2;Serie A;Mostly Cloudy;NNE;5 mph;61 °F;77 %;29.89 in
+14.04.2018;Cagliari;Udinese;2;1;Serie A;Fair;CALM;0 mph;50 °F;94 %;29.74 in
+14.04.2018;Genoa;Crotone;1;0;Serie A;Fair;NNW;3 mph;55 °F;67 %;30.08 in
+14.04.2018;Chievo;Torino;0;0;Serie A;Fair;CALM;0 mph;50 °F;94 %;29.74 in
+14.04.2018;Atalanta;Inter;0;0;Serie A;Mostly Cloudy;NNE;6 mph;52 °F;76 %;29.27 in
+15.04.2018;Fiorentina;SPAL;0;0;Serie A;Fair;VAR;6 mph;66 °F;37 %;29.81 in
+15.04.2018;Sassuolo;Benevento;2;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+15.04.2018;Bologna;Hellas Verona;2;0;Serie A;Fair;WSW;5 mph;54 °F;77 %;29.86 in
+15.04.2018;Milan;Napoli;0;0;Serie A;Fair;CALM;0 mph;54 °F;77 %;29.65 in
+15.04.2018;Juventus;Sampdoria;3;0;Serie A;Rain;NNW;3 mph;52 °F;94 %;29.77 in
+15.04.2018;Lazio;Roma;0;0;Serie A;Partly Cloudy;NNE;10 mph;66 °F;40 %;29.34 in
+07.04.2018;Benevento;Juventus;2;4;Serie A;Fair;NNE;6 mph;54 °F;82 %;29.27 in
+07.04.2018;SPAL;Atalanta;1;1;Serie A;Fair;CALM;0 mph;50 °F;82 %;29.15 in
+07.04.2018;Roma;Fiorentina;0;2;Serie A;Fair;E;3 mph;54 °F;77 %;29.57 in
+07.04.2018;Sampdoria;Genoa;0;0;Serie A;Fair;N;6 mph;54 °F;88 %;30.08 in
+08.04.2018;Torino;Inter;1;0;Serie A;Mist;VAR;1 mph;55 °F;77 %;29.02 in
+08.04.2018;Crotone;Bologna;1;0;Serie A;Cloudy;VAR;1 mph;54 °F;77 %;29.06 in
+08.04.2018;Hellas Verona;Cagliari;1;0;Serie A;Fair;NE;5 mph;54 °F;72 %;29.82 in
+08.04.2018;Napoli;Chievo;2;1;Serie A;Partly Cloudy;N;2 mph;57 °F;63 %;29.78 in
+08.04.2018;Udinese;Lazio;1;2;Serie A;Fair;NNE;2 mph;45 °F;81 %;30.02 in
+08.04.2018;Milan;Sassuolo;1;1;Serie A;Fair;NE;3 mph;55 °F;72 %;29.65 in
+31.03.2018;Bologna;Roma;1;1;Serie A;Mostly Cloudy;SSE;12 mph;63 °F;52 %;29.48 in
+31.03.2018;Lazio;Benevento;6;2;Serie A;Partly Cloudy;NNW;3 mph;57 °F;82 %;29.34 in
+31.03.2018;Fiorentina;Crotone;2;0;Serie A;Partly Cloudy;SE;6 mph;59 °F;63 %;29.51 in
+31.03.2018;Inter;Hellas Verona;3;0;Serie A;Fair;E;5 mph;52 °F;82 %;29.15 in
+31.03.2018;Genoa;SPAL;1;1;Serie A;Mostly Cloudy;S;13 mph;55 °F;88 %;29.60 in
+31.03.2018;Cagliari;Torino;0;4;Serie A;Fair;E;5 mph;52 °F;82 %;29.15 in
+31.03.2018;Atalanta;Udinese;2;0;Serie A;Partly Cloudy;E;9 mph;54 °F;77 %;28.72 in
+31.03.2018;Sassuolo;Napoli;1;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+31.03.2018;Chievo;Sampdoria;2;1;Serie A;Fair;E;5 mph;52 °F;82 %;29.15 in
+31.03.2018;Juventus;Milan;3;1;Serie A;Mostly Cloudy;SSE;5 mph;52 °F;71 %;29.30 in
+17.03.2018;Udinese;Sassuolo;1;2;Serie A;Fog;NE;2 mph;43 °F;100 %;29.61 in
+17.03.2018;SPAL;Juventus;0;0;Serie A;Mostly Cloudy;VAR;1 mph;45 °F;93 %;28.63 in
+18.03.2018;Sampdoria;Inter;0;5;Serie A;Rain;NNW;13 mph;45 °F;93 %;29.43 in
+18.03.2018;Hellas Verona;Atalanta;0;5;Serie A;Light Rain;ENE;8 mph;46 °F;81 %;29.15 in
+18.03.2018;Benevento;Cagliari;1;2;Serie A;Rain;NNE;7 mph;41 °F;93 %;28.52 in
+18.03.2018;Milan;Chievo;3;2;Serie A;Light Rain;VAR;1 mph;45 °F;100 %;28.98 in
+18.03.2018;Torino;Fiorentina;1;2;Serie A;Partly Cloudy;WSW;3 mph;43 °F;93 %;28.37 in
+18.03.2018;Crotone;Roma;0;2;Serie A;Mostly Cloudy;ESE;1 mph;41 °F;100 %;28.40 in
+18.03.2018;Lazio;Bologna;1;1;Serie A;Mostly Cloudy;SSE;6 mph;50 °F;82 %;29.08 in
+18.03.2018;Napoli;Genoa;1;0;Serie A;Partly Cloudy;CALM;0 mph;50 °F;76 %;29.31 in
+09.03.2018;Roma;Torino;3;0;Serie A;Fair;SE;5 mph;48 °F;87 %;29.54 in
+10.03.2018;Hellas Verona;Chievo;1;0;Serie A;Partly Cloudy;SSE;3 mph;46 °F;87 %;29.76 in
+11.03.2018;Fiorentina;Benevento;1;0;Serie A;Mostly Cloudy;SSW;3 mph;50 °F;100 %;29.81 in
+11.03.2018;Bologna;Atalanta;0;1;Serie A;Mostly Cloudy;W;3 mph;50 °F;87 %;29.80 in
+11.03.2018;Cagliari;Lazio;2;2;Serie A;Light Drizzle;ENE;3 mph;48 °F;100 %;29.42 in
+11.03.2018;Crotone;Sampdoria;4;1;Serie A;Drizzle;VAR;1 mph;45 °F;100 %;28.95 in
+11.03.2018;Sassuolo;SPAL;1;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+11.03.2018;Juventus;Udinese;2;0;Serie A;Rain;E;6 mph;46 °F;100 %;29.62 in
+11.03.2018;Genoa;Milan;0;1;Serie A;Rain;E;8 mph;52 °F;100 %;29.87 in
+11.03.2018;Inter;Napoli;0;0;Serie A;Light Drizzle;ENE;3 mph;48 °F;100 %;29.42 in
+03.03.2018;SPAL;Bologna;1;0;Serie A;Mist;VAR;2 mph;34 °F;100 %;28.55 in
+03.03.2018;Lazio;Juventus;0;1;Serie A;Fair;SSE;3 mph;48 °F;82 %;29.16 in
+03.03.2018;Napoli;Roma;2;4;Serie A;Partly Cloudy;W;3 mph;52 °F;58 %;29.40 in
+03.04.2018;Genoa;Cagliari;2;1;Serie A;Mostly Cloudy;SSE;14 mph;55 °F;88 %;30.05 in
+03.04.2018;Udinese;Fiorentina;0;2;Serie A;Mostly Cloudy;NNE;5 mph;50 °F;87 %;30.02 in
+03.04.2018;Atalanta;Sampdoria;1;2;Serie A;Partly Cloudy;NW;5 mph;52 °F;71 %;29.18 in
+04.04.2018;Benevento;Hellas Verona;3;0;Serie A;Light Rain;NNE;3 mph;48 °F;87 %;29.18 in
+04.04.2018;Torino;Crotone;4;1;Serie A;Rain;NNW;2 mph;46 °F;100 %;29.05 in
+04.04.2018;Milan;Inter;0;0;Serie A;Rain;NE;6 mph;50 °F;94 %;29.65 in
+04.04.2018;Chievo;Sassuolo;1;1;Serie A;Rain;NE;6 mph;50 °F;94 %;29.65 in
+24.02.2018;Bologna;Genoa;2;0;Serie A;Rain;W;12 mph;34 °F;100 %;29.65 in
+24.02.2018;Inter;Benevento;2;0;Serie A;Light Rain;NNW;3 mph;39 °F;93 %;29.42 in
+25.02.2018;Crotone;SPAL;2;3;Serie A;Light Rain;VAR;2 mph;43 °F;93 %;28.89 in
+25.02.2018;Fiorentina;Chievo;1;0;Serie A;Mostly Cloudy;VAR;5 mph;48 °F;62 %;29.66 in
+25.02.2018;Sassuolo;Lazio;0;3;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+25.02.2018;Hellas Verona;Torino;2;1;Serie A;Mostly Cloudy;E;16 mph;39 °F;52 %;29.68 in
+25.02.2018;Sampdoria;Udinese;2;1;Serie A;Mostly Cloudy / Windy;NE;22 mph;36 °F;56 %;29.97 in
+25.02.2018;Roma;Milan;0;2;Serie A;Fair;N;5 mph;45 °F;93 %;29.28 in
+26.02.2018;Cagliari;Napoli;0;5;Serie A;Mostly Cloudy;NNE;6 mph;30 °F;69 %;29.59 in
+14.03.2018;Juventus;Atalanta;2;0;Serie A;Fair;VAR;1 mph;39 °F;93 %;29.68 in
+17.02.2018;Udinese;Roma;0;2;Serie A;Fair;VAR;2 mph;32 °F;87 %;30.25 in
+17.02.2018;Chievo;Cagliari;2;1;Serie A;Mostly Cloudy;ENE;5 mph;43 °F;70 %;29.91 in
+17.02.2018;Genoa;Inter;2;0;Serie A;Light Drizzle;NNE;3 mph;50 °F;94 %;30.22 in
+18.02.2018;Torino;Juventus;0;1;Serie A;Fog;VAR;1 mph;37 °F;100 %;29.02 in
+18.02.2018;Benevento;Crotone;3;2;Serie A;Mist;VAR;1 mph;39 °F;87 %;29.18 in
+18.02.2018;Bologna;Sassuolo;2;1;Serie A;Mostly Cloudy;N;2 mph;41 °F;87 %;29.89 in
+18.02.2018;Napoli;SPAL;1;0;Serie A;Fair;CALM;0 mph;48 °F;71 %;29.86 in
+18.02.2018;Atalanta;Fiorentina;1;1;Serie A;Mist;VAR;1 mph;39 °F;87 %;29.18 in
+18.02.2018;Milan;Sampdoria;1;0;Serie A;Mostly Cloudy;VAR;2 mph;41 °F;87 %;29.68 in
+19.02.2018;Lazio;Hellas Verona;2;0;Serie A;Fair;E;5 mph;43 °F;87 %;29.46 in
+09.02.2018;Fiorentina;Juventus;0;2;Serie A;Fair;E;6 mph;37 °F;93 %;29.93 in
+10.02.2018;SPAL;Milan;0;4;Serie A;Mostly Cloudy;VAR;1 mph;37 °F;100 %;28.95 in
+10.02.2018;Crotone;Atalanta;1;1;Serie A;Mostly Cloudy;VAR;1 mph;37 °F;100 %;28.95 in
+10.02.2018;Napoli;Lazio;4;1;Serie A;Fair;N;6 mph;46 °F;71 %;29.57 in
+11.02.2018;Sassuolo;Cagliari;0;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+11.02.2018;Inter;Bologna;2;1;Serie A;Shallow Fog;N;2 mph;36 °F;100 %;29.50 in
+11.02.2018;Chievo;Genoa;0;1;Serie A;Shallow Fog;N;2 mph;36 °F;100 %;29.50 in
+11.02.2018;Sampdoria;Hellas Verona;2;0;Serie A;Fair;N;8 mph;37 °F;75 %;29.91 in
+11.02.2018;Torino;Udinese;2;0;Serie A;Fair;NE;3 mph;34 °F;70 %;28.85 in
+11.02.2018;Roma;Benevento;5;2;Serie A;Fair;NNE;9 mph;39 °F;65 %;29.25 in
+03.02.2018;Sampdoria;Torino;1;1;Serie A;Light Rain / Windy;NE;21 mph;41 °F;87 %;29.64 in
+03.02.2018;Inter;Crotone;1;1;Serie A;Mostly Cloudy;ENE;6 mph;41 °F;93 %;29.27 in
+04.02.2018;Hellas Verona;Roma;0;1;Serie A;Partly Cloudy;W;3 mph;39 °F;81 %;29.53 in
+04.02.2018;Atalanta;Chievo;1;0;Serie A;Partly Cloudy;NE;5 mph;37 °F;87 %;28.93 in
+04.02.2018;Bologna;Fiorentina;1;2;Serie A;Partly Cloudy;SSW;9 mph;36 °F;93 %;29.59 in
+04.02.2018;Udinese;Milan;1;1;Serie A;Cloudy;N;2 mph;37 °F;87 %;29.72 in
+04.02.2018;Juventus;Sassuolo;7;0;Serie A;Fair;VAR;1 mph;28 °F;100 %;29.71 in
+04.02.2018;Cagliari;SPAL;2;0;Serie A;Partly Cloudy;ENE;3 mph;36 °F;93 %;29.39 in
+04.02.2018;Benevento;Napoli;0;2;Serie A;Partly Cloudy;NE;5 mph;37 °F;87 %;28.93 in
+05.02.2018;Lazio;Genoa;1;2;Serie A;Fair;ESE;3 mph;46 °F;76 %;29.60 in
+27.01.2018;Sassuolo;Atalanta;0;3;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+27.01.2018;Chievo;Juventus;0;2;Serie A;Light Rain;NNE;5 mph;45 °F;93 %;29.91 in
+28.01.2018;SPAL;Inter;1;1;Serie A;Fog;VAR;2 mph;36 °F;100 %;29.55 in
+28.01.2018;Torino;Benevento;3;0;Serie A;Fair;W;5 mph;39 °F;87 %;29.48 in
+28.01.2018;Napoli;Bologna;3;1;Serie A;Fair;N;3 mph;46 °F;71 %;30.22 in
+28.01.2018;Crotone;Cagliari;1;1;Serie A;Fog;VAR;2 mph;36 °F;100 %;29.55 in
+28.01.2018;Fiorentina;Hellas Verona;1;4;Serie A;Fair;ENE;2 mph;43 °F;100 %;30.37 in
+28.01.2018;Genoa;Udinese;0;1;Serie A;Fair;NNE;7 mph;52 °F;67 %;30.49 in
+28.01.2018;Milan;Lazio;2;1;Serie A;Patches of Fog;S;1 mph;37 °F;100 %;30.14 in
+28.01.2018;Roma;Sampdoria;0;1;Serie A;Fair;E;7 mph;46 °F;81 %;30.01 in
+21.01.2018;Atalanta;Napoli;0;1;Serie A;Partly Cloudy;VAR;2 mph;41 °F;76 %;28.78 in
+21.01.2018;Bologna;Benevento;3;0;Serie A;Fair;VAR;2 mph;34 °F;93 %;29.48 in
+21.01.2018;Lazio;Chievo;5;1;Serie A;Fair;SE;7 mph;48 °F;82 %;29.34 in
+21.01.2018;Hellas Verona;Crotone;0;3;Serie A;Fair;NW;7 mph;36 °F;93 %;29.41 in
+21.01.2018;Sampdoria;Fiorentina;3;1;Serie A;Fair;NE;5 mph;37 °F;100 %;29.64 in
+21.01.2018;Udinese;SPAL;1;1;Serie A;Mostly Cloudy;ENE;3 mph;41 °F;87 %;29.61 in
+21.01.2018;Sassuolo;Torino;1;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+21.01.2018;Cagliari;Milan;1;2;Serie A;Mostly Cloudy;N;5 mph;39 °F;87 %;29.27 in
+21.01.2018;Inter;Roma;1;1;Serie A;Mostly Cloudy;N;5 mph;39 °F;87 %;29.27 in
+22.01.2018;Juventus;Genoa;1;0;Serie A;Mostly Cloudy;VAR;2 mph;34 °F;81 %;29.82 in
+05.01.2018;Chievo;Udinese;1;1;Serie A;Shallow Fog;CALM;0 mph;36 °F;93 %;29.36 in
+05.01.2018;Fiorentina;Inter;1;1;Serie A;Mist;NW;3 mph;46 °F;100 %;29.63 in
+06.01.2018;Torino;Bologna;3;0;Serie A;Light Rain;NNE;2 mph;41 °F;100 %;28.85 in
+06.01.2018;Milan;Crotone;1;0;Serie A;Light Rain;S;3 mph;43 °F;100 %;29.47 in
+06.01.2018;Napoli;Hellas Verona;2;0;Serie A;Mostly Cloudy;SSW;3 mph;55 °F;94 %;29.72 in
+06.01.2018;SPAL;Lazio;2;5;Serie A;Fog;S;1 mph;39 °F;100 %;28.89 in
+06.01.2018;Benevento;Sampdoria;3;2;Serie A;Light Drizzle;NNE;3 mph;43 °F;100 %;29.01 in
+06.01.2018;Genoa;Sassuolo;1;0;Serie A;Partly Cloudy;VAR;1 mph;54 °F;88 %;29.81 in
+06.01.2018;Roma;Atalanta;1;2;Serie A;Fair;ESE;5 mph;50 °F;87 %;29.46 in
+06.01.2018;Cagliari;Juventus;0;1;Serie A;Light Rain;S;3 mph;43 °F;100 %;29.47 in
+29.12.2017;Crotone;Napoli;0;1;Serie A;Fair;NNE;12 mph;39 °F;26 %;28.72 in
+30.12.2017;Fiorentina;Milan;1;1;Serie A;Partly Cloudy;WNW;2 mph;36 °F;87 %;29.81 in
+30.12.2017;Atalanta;Cagliari;1;2;Serie A;Partly Cloudy;NNW;7 mph;36 °F;56 %;29.04 in
+30.12.2017;Benevento;Chievo;1;0;Serie A;Partly Cloudy;NNW;7 mph;36 °F;56 %;29.04 in
+30.12.2017;Bologna;Udinese;1;2;Serie A;Fair;VAR;1 mph;34 °F;81 %;29.71 in
+30.12.2017;Roma;Sassuolo;1;1;Serie A;Fair;E;5 mph;37 °F;81 %;29.54 in
+30.12.2017;Sampdoria;SPAL;2;0;Serie A;Fair;NNW;3 mph;36 °F;93 %;29.91 in
+30.12.2017;Torino;Genoa;0;0;Serie A;Mostly Cloudy;VAR;3 mph;36 °F;70 %;28.88 in
+30.12.2017;Inter;Lazio;0;0;Serie A;Partly Cloudy;VAR;1 mph;36 °F;70 %;29.53 in
+30.12.2017;Hellas Verona;Juventus;1;3;Serie A;Partly Cloudy;VAR;1 mph;32 °F;69 %;29.65 in
+22.12.2017;Chievo;Bologna;2;3;Serie A;Fair;VAR;1 mph;32 °F;80 %;30.06 in
+22.12.2017;Cagliari;Fiorentina;0;1;Serie A;Fair;VAR;1 mph;32 °F;80 %;30.06 in
+23.12.2017;Lazio;Crotone;4;0;Serie A;Fair;NE;7 mph;43 °F;53 %;29.80 in
+23.12.2017;Genoa;Benevento;1;0;Serie A;Fair;NNE;7 mph;46 °F;53 %;30.37 in
+23.12.2017;Napoli;Sampdoria;3;2;Serie A;Fair;N;6 mph;50 °F;43 %;29.95 in
+23.12.2017;Sassuolo;Inter;1;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+23.12.2017;SPAL;Torino;2;2;Serie A;Mist;VAR;1 mph;27 °F;100 %;29.40 in
+23.12.2017;Udinese;Hellas Verona;4;0;Serie A;Fair;VAR;2 mph;30 °F;100 %;30.34 in
+23.12.2017;Milan;Atalanta;0;2;Serie A;Mist;VAR;1 mph;30 °F;93 %;30.03 in
+23.12.2017;Juventus;Roma;1;0;Serie A;Fair;CALM;0 mph;30 °F;86 %;30.24 in
+16.12.2017;Inter;Udinese;1;3;Serie A;Fair;SW;7 mph;32 °F;93 %;29.12 in
+16.12.2017;Torino;Napoli;1;3;Serie A;Fair;VAR;2 mph;30 °F;75 %;28.51 in
+16.12.2017;Roma;Cagliari;1;0;Serie A;Partly Cloudy;SSW;6 mph;52 °F;71 %;29.14 in
+17.12.2017;Hellas Verona;Milan;3;0;Serie A;Fair;WSW;6 mph;34 °F;93 %;29.71 in
+17.12.2017;Bologna;Juventus;0;3;Serie A;Fair;W;9 mph;36 °F;87 %;29.77 in
+17.12.2017;Crotone;Chievo;1;0;Serie A;Fair;VAR;1 mph;27 °F;93 %;29.00 in
+17.12.2017;Fiorentina;Genoa;0;0;Serie A;Fair;W;6 mph;41 °F;70 %;29.78 in
+17.12.2017;Sampdoria;Sassuolo;0;1;Serie A;Fair;NNW;6 mph;34 °F;93 %;29.91 in
+17.12.2017;Benevento;SPAL;1;2;Serie A;Fog;NW;3 mph;30 °F;93 %;29.10 in
+17.12.2017;Atalanta;Lazio;3;3;Serie A;Fog;NW;3 mph;30 °F;93 %;29.10 in
+09.12.2017;Cagliari;Sampdoria;2;2;Serie A;Partly Cloudy;NW;9 mph;48 °F;27 %;29.39 in
+09.12.2017;Juventus;Inter;0;0;Serie A;Fair;W;12 mph;41 °F;42 %;29.62 in
+10.12.2017;Chievo;Roma;0;0;Serie A;Fair;VAR;2 mph;30 °F;47 %;29.62 in
+10.12.2017;Napoli;Fiorentina;0;0;Serie A;Fair;NNE;3 mph;37 °F;75 %;29.78 in
+10.12.2017;SPAL;Hellas Verona;2;2;Serie A;Fair;VAR;1 mph;30 °F;60 %;29.03 in
+10.12.2017;Udinese;Benevento;2;0;Serie A;Fair;NE;3 mph;28 °F;93 %;29.96 in
+10.12.2017;Sassuolo;Crotone;2;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+10.12.2017;Milan;Bologna;2;1;Serie A;Fair;VAR;2 mph;30 °F;47 %;29.62 in
+11.12.2017;Lazio;Torino;1;3;Serie A;Light Drizzle;SSE;15 mph;54 °F;82 %;29.40 in
+12.12.2017;Genoa;Atalanta;1;2;Serie A;Mist / Windy;SSW;25 mph;59 °F;82 %;29.46 in
+01.12.2017;Roma;SPAL;3;1;Serie A;Fair;SE;6 mph;45 °F;76 %;29.28 in
+01.12.2017;Napoli;Juventus;0;1;Serie A;Partly Cloudy;E;2 mph;50 °F;66 %;29.51 in
+02.12.2017;Torino;Atalanta;1;1;Serie A;Light Rain;NNW;8 mph;36 °F;87 %;28.91 in
+03.12.2017;Benevento;Milan;2;2;Serie A;Fair;NNE;3 mph;32 °F;69 %;29.21 in
+03.12.2017;Bologna;Cagliari;1;1;Serie A;Fair;WNW;6 mph;36 °F;81 %;29.86 in
+03.12.2017;Fiorentina;Sassuolo;3;0;Serie A;Fair;S;5 mph;45 °F;53 %;29.81 in
+03.12.2017;Inter;Chievo;5;0;Serie A;Fair;N;2 mph;34 °F;81 %;29.68 in
+03.12.2017;Sampdoria;Lazio;1;2;Serie A;Fair;N;6 mph;36 °F;70 %;30.05 in
+04.12.2017;Crotone;Udinese;0;3;Serie A;Fair;VAR;2 mph;28 °F;80 %;29.26 in
+04.12.2017;Hellas Verona;Genoa;0;1;Serie A;Fair;VAR;1 mph;23 °F;86 %;30.03 in
+25.11.2017;Bologna;Sampdoria;3;0;Serie A;Fog;NNW;2 mph;46 °F;100 %;29.95 in
+25.11.2017;Chievo;SPAL;2;1;Serie A;Drizzle;CALM;0 mph;48 °F;100 %;29.74 in
+25.11.2017;Sassuolo;Hellas Verona;0;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+25.11.2017;Cagliari;Inter;1;3;Serie A;Drizzle;CALM;0 mph;48 °F;100 %;29.74 in
+26.11.2017;Genoa;Roma;1;1;Serie A;Fair;NE;13 mph;52 °F;76 %;29.78 in
+26.11.2017;Milan;Torino;0;0;Serie A;Mostly Cloudy;W;6 mph;46 °F;100 %;29.45 in
+26.11.2017;Udinese;Napoli;0;1;Serie A;Rain;WSW;5 mph;55 °F;94 %;29.72 in
+26.11.2017;Lazio;Fiorentina;1;1;Serie A;Partly Cloudy;SSE;17 mph;61 °F;77 %;29.46 in
+26.11.2017;Juventus;Crotone;3;0;Serie A;Mostly Cloudy;WNW;13 mph;48 °F;54 %;29.68 in
+27.11.2017;Atalanta;Benevento;1;0;Serie A;Fair;NNE;8 mph;36 °F;81 %;29.33 in
+18.11.2017;Roma;Lazio;2;1;Serie A;Fair;ENE;3 mph;46 °F;87 %;29.48 in
+18.11.2017;Napoli;Milan;2;1;Serie A;Fair;NNE;6 mph;52 °F;71 %;29.69 in
+19.11.2017;Crotone;Genoa;0;1;Serie A;Fair;VAR;1 mph;32 °F;93 %;29.03 in
+19.11.2017;Benevento;Sassuolo;1;2;Serie A;Fair;NNE;5 mph;39 °F;87 %;29.15 in
+19.11.2017;Sampdoria;Juventus;3;2;Serie A;Fair;N;8 mph;41 °F;93 %;30.00 in
+19.11.2017;SPAL;Fiorentina;1;1;Serie A;Fair;VAR;1 mph;32 °F;93 %;29.03 in
+19.11.2017;Torino;Chievo;1;1;Serie A;Fair;VAR;2 mph;37 °F;70 %;28.99 in
+19.11.2017;Udinese;Cagliari;0;1;Serie A;Fair;NNE;5 mph;41 °F;81 %;29.96 in
+19.11.2017;Inter;Atalanta;2;0;Serie A;Patches of Fog;CALM;0 mph;39 °F;100 %;29.62 in
+20.11.2017;Hellas Verona;Bologna;2;3;Serie A;Fair;VAR;3 mph;36 °F;60 %;29.85 in
+04.11.2017;Bologna;Crotone;2;3;Serie A;Mist;SW;3 mph;50 °F;87 %;29.89 in
+04.11.2017;Genoa;Sampdoria;0;2;Serie A;Fair;NNE;6 mph;59 °F;63 %;30.02 in
+05.11.2017;Inter;Torino;1;1;Serie A;Mist;VAR;2 mph;54 °F;82 %;29.62 in
+05.11.2017;Cagliari;Hellas Verona;2;1;Serie A;Mist;VAR;2 mph;54 °F;82 %;29.62 in
+05.11.2017;Chievo;Napoli;0;0;Serie A;Mist;VAR;2 mph;54 °F;82 %;29.62 in
+05.11.2017;Fiorentina;Roma;2;4;Serie A;Partly Cloudy;CALM;0 mph;52 °F;94 %;29.87 in
+05.11.2017;Juventus;Benevento;2;1;Serie A;Fog;ESE;12 mph;54 °F;94 %;29.71 in
+05.11.2017;Atalanta;SPAL;1;1;Serie A;Mist;NE;5 mph;54 °F;82 %;29.15 in
+05.11.2017;Sassuolo;Milan;0;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+24.01.2018;Lazio;Udinese;3;0;Serie A;Fair;E;3 mph;46 °F;81 %;29.86 in
+28.10.2017;Milan;Juventus;0;2;Serie A;Fair;NE;3 mph;54 °F;82 %;29.77 in
+28.10.2017;Roma;Bologna;1;0;Serie A;Fair;NNE;6 mph;59 °F;94 %;29.48 in
+29.10.2017;Benevento;Lazio;1;5;Serie A;Fair;VAR;2 mph;48 °F;66 %;29.10 in
+29.10.2017;Crotone;Fiorentina;2;1;Serie A;Fair;VAR;3 mph;41 °F;87 %;29.00 in
+29.10.2017;Napoli;Sassuolo;3;1;Serie A;Fair;VAR;2 mph;55 °F;67 %;29.75 in
+29.10.2017;Sampdoria;Chievo;4;1;Serie A;Fair;NNW;6 mph;46 °F;93 %;29.91 in
+29.10.2017;SPAL;Genoa;1;0;Serie A;Fair;VAR;3 mph;41 °F;87 %;29.00 in
+29.10.2017;Udinese;Atalanta;2;1;Serie A;Mist;NNE;5 mph;45 °F;100 %;29.87 in
+29.10.2017;Torino;Cagliari;2;1;Serie A;Fair;WSW;3 mph;48 °F;62 %;28.97 in
+30.10.2017;Hellas Verona;Inter;1;2;Serie A;Fair;VAR;2 mph;46 °F;87 %;29.53 in
+24.10.2017;Inter;Sampdoria;3;2;Serie A;Fair;NNW;6 mph;61 °F;27 %;29.65 in
+25.10.2017;Atalanta;Hellas Verona;3;0;Serie A;Fair;NNE;6 mph;54 °F;58 %;29.36 in
+25.10.2017;Bologna;Lazio;1;2;Serie A;Fair;SSW;12 mph;50 °F;54 %;30.00 in
+25.10.2017;Cagliari;Benevento;2;1;Serie A;Fair;VAR;2 mph;50 °F;71 %;29.82 in
+25.10.2017;Chievo;Milan;1;4;Serie A;Fair;VAR;2 mph;50 °F;71 %;29.82 in
+25.10.2017;Fiorentina;Torino;3;0;Serie A;Fair;VAR;1 mph;43 °F;81 %;30.07 in
+25.10.2017;Genoa;Napoli;2;3;Serie A;Fair;NNE;7 mph;61 °F;39 %;30.17 in
+25.10.2017;Juventus;SPAL;4;1;Serie A;Fair;CALM;0 mph;41 °F;76 %;30.06 in
+25.10.2017;Roma;Crotone;1;0;Serie A;Fair;N;7 mph;57 °F;36 %;29.60 in
+25.10.2017;Sassuolo;Udinese;0;1;Serie A;Fair;CALM;0 mph;57 °F;63 %;30.17 in
+21.10.2017;Sampdoria;Crotone;5;0;Serie A;Mist;N;6 mph;55 °F;94 %;30.14 in
+21.10.2017;Napoli;Inter;0;0;Serie A;Fair;NNE;2 mph;59 °F;88 %;29.89 in
+22.10.2017;Chievo;Hellas Verona;3;2;Serie A;Fog;VAR;2 mph;57 °F;94 %;29.68 in
+22.10.2017;Atalanta;Bologna;1;0;Serie A;Light Rain;N;5 mph;55 °F;100 %;29.21 in
+22.10.2017;Benevento;Fiorentina;0;3;Serie A;Light Rain;N;5 mph;55 °F;100 %;29.21 in
+22.10.2017;Milan;Genoa;0;0;Serie A;Fog;VAR;2 mph;57 °F;94 %;29.68 in
+22.10.2017;SPAL;Sassuolo;0;1;Serie A;Mist;CALM;0 mph;55 °F;100 %;29.09 in
+22.10.2017;Torino;Roma;0;1;Serie A;Mist;NNW;3 mph;55 °F;88 %;29.05 in
+22.10.2017;Udinese;Juventus;2;6;Serie A;Cloudy;NNW;2 mph;57 °F;94 %;30.05 in
+22.10.2017;Lazio;Cagliari;3;0;Serie A;Fair;E;5 mph;61 °F;82 %;29.69 in
+14.10.2017;Juventus;Lazio;1;2;Serie A;Mist;VAR;1 mph;52 °F;94 %;30.15 in
+14.10.2017;Roma;Napoli;0;1;Serie A;Fair;ESE;3 mph;59 °F;82 %;29.83 in
+15.10.2017;Fiorentina;Udinese;2;1;Serie A;Fair;E;2 mph;54 °F;94 %;30.22 in
+15.10.2017;Bologna;SPAL;2;1;Serie A;Mist;SW;3 mph;57 °F;88 %;30.18 in
+15.10.2017;Cagliari;Genoa;2;3;Serie A;Mist;N;3 mph;59 °F;88 %;29.97 in
+15.10.2017;Crotone;Torino;2;2;Serie A;Fair;N;2 mph;52 °F;100 %;29.43 in
+15.10.2017;Sampdoria;Atalanta;3;1;Serie A;Fog;VAR;1 mph;57 °F;94 %;30.35 in
+15.10.2017;Sassuolo;Chievo;0;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+15.10.2017;Inter;Milan;3;2;Serie A;Mist;N;3 mph;59 °F;88 %;29.97 in
+16.10.2017;Hellas Verona;Benevento;1;0;Serie A;Fair;N;3 mph;55 °F;82 %;30.12 in
+30.09.2017;Udinese;Sampdoria;4;0;Serie A;Fair;E;8 mph;61 °F;55 %;30.17 in
+30.09.2017;Genoa;Bologna;0;1;Serie A;Fair;E;5 mph;68 °F;52 %;30.14 in
+01.10.2017;Napoli;Cagliari;3;0;Serie A;Fair;NNE;3 mph;63 °F;68 %;29.81 in
+01.10.2017;Benevento;Inter;1;2;Serie A;Mostly Cloudy;NE;6 mph;61 °F;72 %;29.27 in
+01.10.2017;Chievo;Fiorentina;2;1;Serie A;Mostly Cloudy;E;5 mph;63 °F;63 %;29.71 in
+01.10.2017;Lazio;Sassuolo;6;1;Serie A;Fair;E;5 mph;61 °F;82 %;29.60 in
+01.10.2017;SPAL;Crotone;1;1;Serie A;Light Rain;VAR;1 mph;57 °F;94 %;29.15 in
+01.10.2017;Torino;Hellas Verona;2;2;Serie A;Mostly Cloudy;NNW;5 mph;61 °F;72 %;29.11 in
+01.10.2017;Milan;Roma;0;2;Serie A;Mostly Cloudy;E;5 mph;63 °F;63 %;29.71 in
+01.10.2017;Atalanta;Juventus;2;2;Serie A;Mostly Cloudy;NE;6 mph;61 °F;72 %;29.27 in
+23.09.2017;Roma;Udinese;3;1;Serie A;Fair;ESE;6 mph;59 °F;72 %;29.72 in
+23.09.2017;SPAL;Napoli;2;3;Serie A;Fair;VAR;1 mph;55 °F;94 %;29.20 in
+23.09.2017;Juventus;Torino;4;0;Serie A;Fair;SSW;6 mph;55 °F;82 %;29.97 in
+24.09.2017;Sampdoria;Milan;2;0;Serie A;Mostly Cloudy;NW;3 mph;63 °F;94 %;30.08 in
+24.09.2017;Cagliari;Chievo;0;2;Serie A;Fair;VAR;3 mph;64 °F;73 %;29.71 in
+24.09.2017;Crotone;Benevento;2;0;Serie A;Mostly Cloudy;VAR;2 mph;59 °F;100 %;29.15 in
+24.09.2017;Hellas Verona;Lazio;0;3;Serie A;Partly Cloudy;NW;3 mph;59 °F;88 %;29.85 in
+24.09.2017;Inter;Genoa;1;0;Serie A;Fair;VAR;3 mph;64 °F;73 %;29.71 in
+24.09.2017;Sassuolo;Bologna;0;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+24.09.2017;Fiorentina;Atalanta;1;1;Serie A;Fair;E;5 mph;61 °F;88 %;29.99 in
+19.09.2017;Bologna;Inter;1;1;Serie A;Rain;NE;5 mph;57 °F;94 %;29.74 in
+20.09.2017;Benevento;Roma;0;4;Serie A;Partly Cloudy;NNE;5 mph;54 °F;94 %;29.10 in
+20.09.2017;Atalanta;Crotone;5;1;Serie A;Partly Cloudy;NNE;5 mph;54 °F;94 %;29.10 in
+20.09.2017;Cagliari;Sassuolo;0;1;Serie A;Fair;NE;3 mph;57 °F;77 %;29.53 in
+20.09.2017;Genoa;Chievo;1;1;Serie A;Fair;NNE;5 mph;61 °F;52 %;29.90 in
+20.09.2017;Hellas Verona;Sampdoria;0;0;Serie A;Mostly Cloudy;W;3 mph;54 °F;88 %;29.71 in
+20.09.2017;Juventus;Fiorentina;1;0;Serie A;Fair;VAR;3 mph;48 °F;93 %;29.80 in
+20.09.2017;Lazio;Napoli;1;4;Serie A;Partly Cloudy;NE;9 mph;55 °F;77 %;29.40 in
+20.09.2017;Milan;SPAL;2;0;Serie A;Fair;NE;3 mph;57 °F;77 %;29.53 in
+20.09.2017;Udinese;Torino;2;3;Serie A;Cloudy;CALM;0 mph;52 °F;100 %;29.84 in
+16.09.2017;Crotone;Inter;0;2;Serie A;Light Rain;NNE;3 mph;54 °F;100 %;28.92 in
+16.09.2017;Fiorentina;Bologna;2;1;Serie A;T-Storm;NNW;3 mph;63 °F;94 %;29.69 in
+16.09.2017;Roma;Hellas Verona;3;0;Serie A;Fair;SSE;5 mph;70 °F;73 %;29.40 in
+17.09.2017;Sassuolo;Juventus;1;3;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+17.09.2017;Milan;Udinese;2;1;Serie A;Light Rain;NNE;2 mph;55 °F;88 %;29.47 in
+17.09.2017;Napoli;Benevento;6;0;Serie A;Partly Cloudy;S;3 mph;73 °F;78 %;29.69 in
+17.09.2017;SPAL;Cagliari;0;2;Serie A;Mostly Cloudy;VAR;2 mph;54 °F;94 %;28.92 in
+17.09.2017;Torino;Sampdoria;2;2;Serie A;Partly Cloudy;NNE;5 mph;55 °F;82 %;28.85 in
+17.09.2017;Chievo;Atalanta;1;1;Serie A;Light Rain;NNE;2 mph;55 °F;88 %;29.47 in
+17.09.2017;Genoa;Lazio;2;3;Serie A;Partly Cloudy;S;10 mph;68 °F;64 %;29.81 in
+09.09.2017;Juventus;Chievo;3;0;Serie A;Mist;VAR;2 mph;63 °F;77 %;29.53 in
+10.09.2017;Inter;SPAL;2;0;Serie A;Light Drizzle;VAR;5 mph;63 °F;94 %;29.15 in
+10.09.2017;Atalanta;Sassuolo;2;1;Serie A;Light Rain;E;13 mph;61 °F;94 %;28.72 in
+10.09.2017;Cagliari;Crotone;1;0;Serie A;Light Drizzle;VAR;5 mph;63 °F;94 %;29.15 in
+10.09.2017;Hellas Verona;Fiorentina;0;5;Serie A;Light Rain;ENE;7 mph;63 °F;94 %;29.38 in
+10.09.2017;Udinese;Genoa;1;0;Serie A;Mostly Cloudy;SSE;14 mph;72 °F;83 %;29.58 in
+10.09.2017;Lazio;Milan;4;1;Serie A;Fair;SE;17 mph;72 °F;69 %;29.28 in
+10.09.2017;Benevento;Torino;0;1;Serie A;Light Rain;E;13 mph;61 °F;94 %;28.72 in
+10.09.2017;Bologna;Napoli;0;3;Serie A;T-Storm;SE;9 mph;64 °F;94 %;29.45 in
+24.01.2018;Sampdoria;Roma;1;1;Serie A;Fair;NNW;3 mph;36 °F;93 %;30.41 in
+26.08.2017;Benevento;Bologna;0;1;Serie A;Fair;NNE;6 mph;75 °F;65 %;29.27 in
+26.08.2017;Genoa;Juventus;2;4;Serie A;Fair;NNE;5 mph;73 °F;69 %;30.08 in
+26.08.2017;Roma;Inter;1;3;Serie A;Fair;E;3 mph;70 °F;56 %;29.66 in
+27.08.2017;Torino;Sassuolo;3;0;Serie A;Fair;NW;7 mph;77 °F;65 %;29.05 in
+27.08.2017;Chievo;Lazio;1;2;Serie A;Fair;SSW;5 mph;77 °F;65 %;29.62 in
+27.08.2017;Crotone;Hellas Verona;0;0;Serie A;Fair;VAR;2 mph;72 °F;83 %;29.09 in
+27.08.2017;Fiorentina;Sampdoria;1;2;Serie A;Fair;VAR;2 mph;73 °F;53 %;29.90 in
+27.08.2017;Milan;Cagliari;2;1;Serie A;Fair;SSW;5 mph;77 °F;65 %;29.62 in
+27.08.2017;Napoli;Atalanta;3;1;Serie A;Fair;VAR;1 mph;75 °F;69 %;29.78 in
+27.08.2017;SPAL;Udinese;3;2;Serie A;Fair;VAR;2 mph;72 °F;83 %;29.09 in
+19.08.2017;Juventus;Cagliari;3;0;Serie A;Mostly Cloudy;W;9 mph;75 °F;69 %;29.71 in
+19.08.2017;Hellas Verona;Napoli;1;3;Serie A;Fair;ENE;6 mph;79 °F;54 %;29.68 in
+20.08.2017;Atalanta;Roma;0;1;Serie A;Fair;N;8 mph;64 °F;73 %;29.10 in
+20.08.2017;Bologna;Torino;1;1;Serie A;Fair;NNE;6 mph;73 °F;53 %;29.74 in
+20.08.2017;Crotone;Milan;0;3;Serie A;Fair;VAR;1 mph;72 °F;38 %;29.00 in
+20.08.2017;Inter;Fiorentina;3;0;Serie A;Partly Cloudy;VAR;2 mph;72 °F;60 %;29.53 in
+20.08.2017;Lazio;SPAL;0;0;Serie A;Fair;SSE;6 mph;77 °F;74 %;29.51 in
+20.08.2017;Sampdoria;Benevento;2;1;Serie A;Light Rain / Windy;NE;22 mph;64 °F;94 %;29.94 in
+20.08.2017;Sassuolo;Genoa;0;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+20.08.2017;Udinese;Chievo;1;2;Serie A;Heavy T-Storm / Windy;N;23 mph;64 °F;88 %;29.96 in

@@ -1,0 +1,160 @@
+date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+14.12.2024;Arsenal;Everton;0;0;Premier League;Fair;W;12 mph;46  °F;71%;30.16 in
+14.12.2024;Liverpool;Fulham;2;2;Premier League;Showers in the Vicinity;W;16 mph;45  °F;87%;30.09 in
+14.12.2024;Newcastle;Leicester City;4;0;Premier League;Fair;WNW;12 mph;41  °F;87%;29.77 in
+14.12.2024;Wolverhampton;Ipswich Town;1;2;Premier League;Partly Cloudy;WNW;12 mph;45  °F;76%;29.83 in
+14.12.2024;Not. Forest;Aston Villa;2;1;Premier League;Mostly Cloudy;W;15 mph;43  °F;87%;29.81 in
+15.12.2024;Brighton;Crystal Palace;1;3;Premier League;Mostly Cloudy;WSW;9 mph;55  °F;88%;30.13 in
+15.12.2024;Man. City;Man. United;1;2;Premier League;Cloudy;W;10 mph;52  °F;88%;30.02 in
+15.12.2024;Chelsea;Brentford;2;1;Premier League;Cloudy;WSW;12 mph;54  °F;88%;30.34 in
+15.12.2024;Southampton;Tottenham;0;5;Premier League;Mostly Cloudy;WSW;6 mph;54  °F;82%;30.43 in
+16.12.2024;Bournemouth;West Ham;1;1;Premier League;Partly Cloudy;S;3 mph;48  °F;87%;30.41 in
+7.12.2024;Aston Villa;Southampton;1;0;Premier League;Light Rain / Windy;NW;36 mph;43  °F;87%;29.10 in
+7.12.2024;Brentford;Newcastle;4;2;Premier League;Mostly Cloudy / Windy;NW;31 mph;41  °F;81%;28.90 in
+7.12.2024;Crystal Palace;Man. City;2;2;Premier League;Cloudy;WNW;20 mph;45  °F;81%;0.00 in
+7.12.2024;Man. United;Not. Forest;2;3;Premier League;Light Rain / Windy;NW;26 mph;43  °F;81%;29.20 in
+8.12.2024;Fulham;Arsenal;1;1;Premier League;Light Rain;NNW;16 mph;46  °F;81%;30.04 in
+8.12.2024;Ipswich Town;Bournemouth;1;2;Premier League;Light Rain;NNE;15 mph;46  °F;93%;30.13 in
+8.12.2024;Leicester City;Brighton;2;2;Premier League;Light Rain;N;18 mph;43  °F;93%;29.90 in
+8.12.2024;Tottenham;Chelsea;3;4;Premier League;Light Rain;NNW;16 mph;46  °F;81%;30.04 in
+9.12.2024;West Ham;Wolverhampton;2;1;Premier League;Mostly Cloudy;NNE;10 mph;46  °F;81%;30.40 in
+3.12.2024;Ipswich Town;Crystal Palace;0;1;Premier League;Veri Yok;Veri Yok;Veri Yok;Veri Yok;Veri Yok;Veri Yok
+3.12.2024;Leicester City;West Ham;3;1;Premier League;Fair;SSE;2 mph;41  °F;87%;29.84 in
+4.12.2024;Everton;Wolverhampton;4;0;Premier League;Mostly Cloudy;SSE;13 mph;45  °F;93%;30.00 in
+4.12.2024;Man. City;Not. Forest;3;0;Premier League;Light Drizzle;VAR;5 mph;45  °F;93%;29.84 in
+4.12.2024;Newcastle;Liverpool;3;3;Premier League;Fair;SSE;6 mph;45  °F;81%;29.77 in
+4.12.2024;Southampton;Chelsea;1;5;Premier League;Light Rain;S;12 mph;52  °F;82%;30.10 in
+4.12.2024;Arsenal;Man. United;2;0;Premier League;Cloudy;SW;5 mph;48  °F;82%;30.25 in
+4.12.2024;Aston Villa;Brentford;3;1;Premier League;Cloudy;SSE;8 mph;45  °F;100%;29.83 in
+5.12.2024;Fulham;Brighton;3;1;Premier League;Cloudy;SW;10 mph;57  °F;88%;29.69 in
+5.12.2024;Bournemouth;Tottenham;1;0;Premier League;Light Rain / Windy;NW;22 mph;52  °F;82%;29.61 in
+29.11.2024;Brighton;Southampton;1;1;Premier League;Fair;SSE;12 mph;50  °F;62%;30.05 in
+30.11.2024;Brentford;Leicester City;4;1;Premier League;Partly Cloudy;SSE;9 mph;54  °F;88%;29.30 in
+30.11.2024;Crystal Palace;Newcastle;1;1;Premier League;Mostly Cloudy;S;6 mph;57  °F;88%;30.19 in
+30.11.2024;Not. Forest;Ipswich Town;1;0;Premier League;Mostly Cloudy;S;10 mph;57  °F;82%;29.75 in
+30.11.2024;Wolverhampton;Bournemouth;2;4;Premier League;Mostly Cloudy;S;8 mph;57  °F;82%;29.77 in
+30.11.2024;West Ham;Arsenal;2;5;Premier League;Mostly Cloudy;S;6 mph;57  °F;88%;30.19 in
+1.12.2024;Chelsea;Aston Villa;3;0;Premier League;Light Rain;SSW;9 mph;55  °F;94%;29.87 in
+1.12.2024;Man. United;Everton;4;0;Premier League;Partly Cloudy;SSW;9 mph;55  °F;88%;29.49 in
+1.12.2024;Tottenham;Fulham;1;1;Premier League;Light Rain;SSW;9 mph;55  °F;94%;29.87 in
+1.12.2024;Liverpool;Man. City;2;0;Premier League;Mostly Cloudy;SSW;8 mph;54  °F;82%;29.65 in
+23.11.2024;Leicester City;Chelsea;1;2;Premier League;Light Rain / Windy;S;22 mph;54  °F;94%;28.91 in
+23.11.2024;Bournemouth;Brighton;1;2;Premier League;Rain;SSW;18 mph;57  °F;100%;29.40 in
+23.11.2024;Arsenal;Not. Forest;3;0;Premier League;Light Rain;S;16 mph;52  °F;88%;29.48 in
+23.11.2024;Aston Villa;Crystal Palace;2;2;Premier League;Light Rain;S;15 mph;57  °F;94%;28.92 in
+23.11.2024;Everton;Brentford;0;0;Premier League;Light Rain Shower;S;14 mph;54  °F;100%;29.06 in
+23.11.2024;Fulham;Wolverhampton;1;4;Premier League;Light Rain;S;16 mph;52  °F;88%;29.48 in
+23.11.2024;Man. City;Tottenham;0;4;Premier League;Light Rain Shower;S;12 mph;54  °F;94%;28.91 in
+24.11.2024;Southampton;Liverpool;2;3;Premier League;Light Rain;SW;8 mph;54  °F;94%;29.34 in
+24.11.2024;Ipswich Town;Man. United;1;1;Premier League;Fair / Windy;SSW;29 mph;61  °F;68%;29.30 in
+25.11.2024;Newcastle;West Ham;0;2;Premier League;Partly Cloudy / Windy;W;25 mph;46  °F;66%;28.98 in
+9.11.2024;Brentford;Bournemouth;3;2;Premier League;Mist;SW;3 mph;45  °F;100%;29.47 in
+9.11.2024;Crystal Palace;Fulham;0;2;Premier League;Cloudy;VAR;2 mph;48  °F;71%;30.22 in
+9.11.2024;West Ham;Everton;0;0;Premier League;Cloudy;VAR;2 mph;48  °F;71%;30.22 in
+9.11.2024;Wolverhampton;Southampton;2;0;Premier League;Cloudy;SW;3 mph;45  °F;87%;29.89 in
+9.11.2024;Brighton;Man. City;2;1;Premier League;Cloudy;WSW;2 mph;46  °F;93%;30.02 in
+9.11.2024;Liverpool;Aston Villa;2;0;Premier League;Cloudy;SE;10 mph;45  °F;87%;30.15 in
+10.11.2024;Man. United;Leicester City;3;0;Premier League;Rain;S;3 mph;54  °F;94%;30.02 in
+10.11.2024;Not. Forest;Newcastle;1;3;Premier League;Mostly Cloudy;SW;7 mph;55  °F;82%;29.96 in
+10.11.2024;Tottenham;Ipswich Town;1;2;Premier League;Haze;VAR;3 mph;50  °F;94%;30.34 in
+10.11.2024;Chelsea;Arsenal;1;1;Premier League;Haze;VAR;3 mph;50  °F;94%;30.34 in
+2.11.2024;Newcastle;Arsenal;1;0;Premier League;Mostly Cloudy;S;3 mph;54  °F;88%;30.12 in
+2.11.2024;Bournemouth;Man. City;2;1;Premier League;Mostly Cloudy;ENE;7 mph;55  °F;82%;30.35 in
+2.11.2024;Ipswich Town;Leicester City;1;1;Premier League;Mostly Cloudy;E;8 mph;54  °F;88%;30.39 in
+2.11.2024;Liverpool;Brighton;2;1;Premier League;Cloudy;SSE;6 mph;54  °F;88%;30.32 in
+2.11.2024;Not. Forest;West Ham;3;0;Premier League;Mostly Cloudy;E;3 mph;55  °F;82%;30.07 in
+2.11.2024;Southampton;Everton;1;0;Premier League;Mostly Cloudy;E;6 mph;55  °F;82%;30.34 in
+2.11.2024;Wolverhampton;Crystal Palace;2;2;Premier League;Cloudy;SE;5 mph;55  °F;88%;30.06 in
+3.11.2024;Tottenham;Aston Villa;4;1;Premier League;Cloudy;E;10 mph;54  °F;82%;30.34 in
+3.11.2024;Man. United;Chelsea;1;1;Premier League;Mostly Cloudy;VAR;2 mph;52  °F;82%;30.08 in
+4.11.2024;Fulham;Brentford;2;1;Premier League;Fair;E;9 mph;55  °F;72%;30.22 in
+25.10.2024;Leicester City;Not. Forest;1;3;Premier League;Mostly Cloudy;ESE;7 mph;57  °F;94%;29.58 in
+26.10.2024;Aston Villa;Bournemouth;1;1;Premier League;Partly Cloudy;SW;5 mph;57  °F;82%;29.62 in
+26.10.2024;Brentford;Ipswich Town;4;3;Premier League;Fair;SW;14 mph;55  °F;67%;29.19 in
+26.10.2024;Brighton;Wolverhampton;2;2;Premier League;Showers in the Vicinity;W;5 mph;57  °F;94%;29.75 in
+26.10.2024;Man. City;Southampton;1;0;Premier League;Fair;SSW;6 mph;57  °F;72%;29.67 in
+26.10.2024;Everton;Fulham;1;1;Premier League;Fair;S;7 mph;57  °F;77%;29.82 in
+27.10.2024;Chelsea;Newcastle;2;1;Premier League;Fair;SW;5 mph;59  °F;63%;30.19 in
+27.10.2024;Crystal Palace;Tottenham;1;0;Premier League;Fair;SW;5 mph;59  °F;63%;30.19 in
+27.10.2024;West Ham;Man. United;2;1;Premier League;Fair;SW;5 mph;59  °F;63%;30.19 in
+27.10.2024;Arsenal;Liverpool;2;2;Premier League;Fair;SW;5 mph;59  °F;63%;30.19 in
+19.10.2024;Tottenham;West Ham;4;1;Premier League;Fair;W;9 mph;61  °F;72%;29.84 in
+19.10.2024;Fulham;Aston Villa;1;3;Premier League;Fair;W;9 mph;61  °F;72%;29.84 in
+19.10.2024;Man. United;Brentford;2;1;Premier League;Fair;W;10 mph;59  °F;72%;29.55 in
+19.10.2024;Newcastle;Brighton;0;1;Premier League;Fair;W;13 mph;59  °F;63%;29.51 in
+19.10.2024;Southampton;Leicester City;2;3;Premier League;Fair;CALM;0 mph;54  °F;94%;29.93 in
+19.10.2024;Ipswich Town;Everton;0;2;Premier League;Fair;WSW;2 mph;48  °F;100%;29.89 in
+19.10.2024;Bournemouth;Arsenal;2;0;Premier League;Fair;S;5 mph;54  °F;94%;29.93 in
+20.10.2024;Wolverhampton;Man. City;1;2;Premier League;Partly Cloudy;SSW;12 mph;59  °F;88%;29.27 in
+20.10.2024;Liverpool;Chelsea;2;1;Premier League;Fair / Windy;SW;32 mph;63  °F;55%;29.38 in
+21.10.2024;Not. Forest;Crystal Palace;1;0;Premier League;Fair;SW;10 mph;55  °F;77%;29.75 in
+5.10.2024;Crystal Palace;Liverpool;0;1;Premier League;Mostly Cloudy;SSE;10 mph;63  °F;55%;29.93 in
+5.10.2024;Arsenal;Southampton;3;1;Premier League;Mostly Cloudy;SSE;10 mph;63  °F;55%;29.93 in
+5.10.2024;Brentford;Wolverhampton;5;3;Premier League;Fair;SSE;15 mph;57  °F;67%;29.16 in
+5.10.2024;Leicester City;Bournemouth;1;0;Premier League;Partly Cloudy;SSE;14 mph;61  °F;55%;29.52 in
+5.10.2024;Man. City;Fulham;3;2;Premier League;Partly Cloudy;VAR;8 mph;61  °F;59%;29.58 in
+5.10.2024;West Ham;Ipswich Town;4;1;Premier League;Mostly Cloudy;SSE;10 mph;63  °F;55%;29.93 in
+5.10.2024;Everton;Newcastle;0;0;Premier League;Partly Cloudy;SSE;17 mph;61  °F;63%;29.73 in
+6.10.2024;Aston Villa;Man. United;0;0;Premier League;Light Rain;SE;10 mph;55  °F;100%;29.13 in
+6.10.2024;Chelsea;Not. Forest;1;1;Premier League;Cloudy;SSE;9 mph;57  °F;82%;29.48 in
+6.10.2024;Brighton;Tottenham;3;2;Premier League;Showers in the Vicinity;SE;7 mph;55  °F;94%;29.28 in
+28.09.2024;Newcastle;Man. City;1;1;Premier League;Showers in the Vicinity;W;9 mph;54  °F;67%;29.89 in
+28.09.2024;Arsenal;Leicester City;4;2;Premier League;Fair;W;12 mph;57  °F;51%;30.25 in
+28.09.2024;Brentford;West Ham;1;1;Premier League;Partly Cloudy;W;10 mph;54  °F;67%;29.47 in
+28.09.2024;Chelsea;Brighton;4;2;Premier League;Fair;W;12 mph;57  °F;51%;30.25 in
+28.09.2024;Everton;Crystal Palace;2;1;Premier League;Partly Cloudy;WNW;12 mph;55  °F;72%;30.15 in
+28.09.2024;Not. Forest;Fulham;0;1;Premier League;Partly Cloudy;W;12 mph;54  °F;67%;29.90 in
+28.09.2024;Wolverhampton;Liverpool;1;2;Premier League;Mostly Cloudy;NW;6 mph;55  °F;63%;29.91 in
+29.09.2024;Ipswich Town;Aston Villa;2;2;Premier League;Fair;SE;20 mph;55  °F;67%;29.86 in
+29.09.2024;Man. United;Tottenham;0;3;Premier League;Fair;ESE;8 mph;55  °F;67%;29.73 in
+30.09.2024;Bournemouth;Southampton;3;1;Premier League;Fair;W;13 mph;54  °F;82%;29.76 in
+21.09.2024;West Ham;Chelsea;0;3;Premier League;Fair;E;12 mph;70  °F;68%;30.01 in
+21.09.2024;Aston Villa;Wolverhampton;3;1;Premier League;Showers in the Vicinity;ESE;13 mph;70  °F;68%;29.68 in
+21.09.2024;Fulham;Newcastle;3;1;Premier League;Fair;E;12 mph;70  °F;68%;30.01 in
+21.09.2024;Leicester City;Everton;1;1;Premier League;Partly Cloudy;ENE;12 mph;73  °F;57%;29.70 in
+21.09.2024;Liverpool;Bournemouth;3;0;Premier League;Fair;ENE;10 mph;68  °F;68%;29.97 in
+21.09.2024;Southampton;Ipswich Town;1;1;Premier League;Fair;NNE;2 mph;61  °F;88%;29.93 in
+21.09.2024;Tottenham;Brentford;3;1;Premier League;Fair;E;12 mph;70  °F;68%;30.01 in
+21.09.2024;Crystal Palace;Man. United;0;0;Premier League;Fair;E;12 mph;70  °F;68%;30.01 in
+22.09.2024;Brighton;Not. Forest;2;2;Premier League;Mostly Cloudy;SE;8 mph;68  °F;83%;29.61 in
+22.09.2024;Man. City;Arsenal;2;2;Premier League;Light Rain;NE;10 mph;59  °F;88%;29.64 in
+14.09.2024;Southampton;Man. United;0;3;Premier League;Fair;S;3 mph;57  °F;77%;30.37 in
+14.09.2024;Brighton;Ipswich Town;0;0;Premier League;Fair;WSW;9 mph;64  °F;52%;30.19 in
+14.09.2024;Crystal Palace;Leicester City;2;2;Premier League;Fair;W;8 mph;66  °F;43%;30.40 in
+14.09.2024;Fulham;West Ham;1;1;Premier League;Fair;W;8 mph;66  °F;43%;30.40 in
+14.09.2024;Liverpool;Not. Forest;0;1;Premier League;Partly Cloudy;WSW;14 mph;64  °F;59%;30.23 in
+14.09.2024;Man. City;Brentford;2;1;Premier League;Fair;SSW;12 mph;66  °F;60%;30.05 in
+14.09.2024;Aston Villa;Everton;3;2;Premier League;Mostly Cloudy;SW;8 mph;63  °F;63%;30.03 in
+14.09.2024;Bournemouth;Chelsea;0;1;Premier League;Fair;CALM;0 mph;50  °F;87%;30.38 in
+15.09.2024;Tottenham;Arsenal;0;1;Premier League;Fair;WSW;10 mph;68  °F;52%;30.28 in
+15.09.2024;Wolverhampton;Newcastle;1;2;Premier League;Drizzle;SW;6 mph;61  °F;77%;29.91 in
+31.08.2024;Arsenal;Brighton;1;1;Premier League;Cloudy;ENE;18 mph;68  °F;56%;30.16 in
+31.08.2024;Brentford;Southampton;3;1;Premier League;Partly Cloudy;E;13 mph;64  °F;56%;29.53 in
+31.08.2024;Everton;Bournemouth;2;3;Premier League;Fair;E;12 mph;68  °F;52%;30.15 in
+31.08.2024;Ipswich Town;Fulham;1;1;Premier League;Mostly Cloudy;NE;9 mph;64  °F;83%;30.04 in
+31.08.2024;Leicester City;Aston Villa;1;2;Premier League;Partly Cloudy;ENE;14 mph;66  °F;52%;29.90 in
+31.08.2024;Not. Forest;Wolverhampton;1;1;Premier League;Partly Cloudy;ENE;14 mph;66  °F;52%;29.90 in
+31.08.2024;West Ham;Man. City;1;3;Premier League;Cloudy;ENE;18 mph;68  °F;56%;30.16 in
+1.09.2024;Chelsea;Crystal Palace;1;1;Premier League;Fair;E;13 mph;79  °F;61%;29.84 in
+1.09.2024;Newcastle;Tottenham;2;1;Premier League;Showers in the Vicinity;ESE;8 mph;61  °F;88%;29.77 in
+1.09.2024;Man. United;Liverpool;0;3;Premier League;Fair;VAR;3 mph;68  °F;78%;29.70 in
+24.08.2024;Brighton;Man. United;2;1;Premier League;Mostly Cloudy;S;8 mph;61  °F;94%;29.40 in
+24.08.2024;Crystal Palace;West Ham;0;2;Premier League;Cloudy;SSE;5 mph;63  °F;88%;29.57 in
+24.08.2024;Fulham;Leicester City;2;1;Premier League;Cloudy;SSE;5 mph;63  °F;88%;29.57 in
+24.08.2024;Man. City;Ipswich Town;4;1;Premier League;Mostly Cloudy;WNW;15 mph;61  °F;63%;29.32 in
+24.08.2024;Southampton;Not. Forest;0;1;Premier League;Fair;W;10 mph;59  °F;63%;29.78 in
+24.08.2024;Tottenham;Everton;4;0;Premier League;Cloudy;SSE;5 mph;63  °F;88%;29.57 in
+24.08.2024;Aston Villa;Arsenal;0;2;Premier League;Mostly Cloudy;WSW;7 mph;61  °F;77%;29.27 in
+25.08.2024;Bournemouth;Newcastle;1;1;Premier League;Mostly Cloudy;WSW;13 mph;63  °F;77%;30.05 in
+25.08.2024;Wolverhampton;Chelsea;2;6;Premier League;Mostly Cloudy;S;9 mph;57  °F;88%;29.65 in
+25.08.2024;Liverpool;Brentford;2;0;Premier League;Mostly Cloudy;SW;17 mph;61  °F;72%;29.82 in
+16.08.2024;Man. United;Fulham;1;0;Premier League;Partly Cloudy;WSW;8 mph;64  °F;64%;29.70 in
+17.08.2024;Ipswich Town;Liverpool;0;2;Premier League;Fair;E;3 mph;66  °F;68%;29.80 in
+17.08.2024;Arsenal;Wolverhampton;2;0;Premier League;Fair;WNW;5 mph;72  °F;43%;29.90 in
+17.08.2024;Everton;Brighton;0;3;Premier League;Mostly Cloudy;WNW;8 mph;64  °F;59%;29.82 in
+17.08.2024;Newcastle;Southampton;1;0;Premier League;Partly Cloudy;WSW;8 mph;64  °F;56%;29.54 in
+17.08.2024;Not. Forest;Bournemouth;1;1;Premier League;Mostly Cloudy;WSW;12 mph;64  °F;56%;29.61 in
+17.08.2024;West Ham;Aston Villa;1;2;Premier League;Fair;WNW;5 mph;72  °F;43%;29.90 in
+18.08.2024;Brentford;Crystal Palace;2;1;Premier League;Partly Cloudy;W;15 mph;63  °F;63%;29.19 in
+18.08.2024;Chelsea;Man. City;0;2;Premier League;Fair;W;6 mph;72  °F;43%;29.93 in
+19.08.2024;Leicester City;Tottenham;1;1;Premier League;Mostly Cloudy;SSW;15 mph;64  °F;68%;29.55 in

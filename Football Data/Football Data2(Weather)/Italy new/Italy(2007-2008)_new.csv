@@ -1,0 +1,381 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+17.05.2008;Sampdoria;Juventus;3;3;Serie A;Mostly Cloudy;SSE;Veri Yok;Veri Yok;Veri Yok;Veri Yok
+18.05.2008;Torino;Fiorentina;0;1;Serie A;Mostly Cloudy;VAR;2 mph;57 °F;94 %;28.74 in
+18.05.2008;Atalanta;Genoa;2;0;Serie A;Mostly Cloudy;ENE;6 mph;63 °F;94 %;28.93 in
+18.05.2008;Parma;Inter;0;2;Serie A;Mostly Cloudy;CALM;0 mph;59 °F;94 %;29.50 in
+18.05.2008;Empoli;Livorno;2;1;Serie A;Partly Cloudy;VAR;3 mph;68 °F;88 %;29.54 in
+18.05.2008;Lazio;Napoli;2;1;Serie A;Partly Cloudy;WSW;8 mph;73 °F;41 %;29.28 in
+18.05.2008;Siena;Palermo;2;2;Serie A;Mostly Cloudy;E;7 mph;61 °F;88 %;29.76 in
+18.05.2008;Cagliari;Reggina;2;2;Serie A;Cloudy;ESE;9 mph;61 °F;88 %;29.36 in
+18.05.2008;Catania;Roma;1;1;Serie A;Fair;NE;13 mph;64 °F;88 %;29.82 in
+18.05.2008;Milan;Udinese;4;1;Serie A;Cloudy;ESE;9 mph;61 °F;88 %;29.36 in
+11.05.2008;Roma;Atalanta;2;1;Serie A;Partly Cloudy;;0 mph;64 °F;40 %;29.46 in
+11.05.2008;Udinese;Cagliari;0;2;Serie A;Partly Cloudy;E;5 mph;63 °F;63 %;30.02 in
+11.05.2008;Juventus;Catania;1;1;Serie A;Fair;VAR;2 mph;48 °F;82 %;29.88 in
+11.05.2008;Reggina;Empoli;2;0;Serie A;Mostly Cloudy;NE;16 mph;63 °F;82 %;29.85 in
+11.05.2008;Genoa;Lazio;0;2;Serie A;Fair;NNE;8 mph;72 °F;35 %;29.96 in
+11.05.2008;Napoli;Milan;3;1;Serie A;Partly Cloudy;NE;8 mph;66 °F;49 %;29.69 in
+11.05.2008;Fiorentina;Parma;3;1;Serie A;Fair;ENE;8 mph;64 °F;40 %;29.84 in
+11.05.2008;Palermo;Sampdoria;0;2;Serie A;Fair;VAR;2 mph;48 °F;82 %;29.88 in
+11.05.2008;Inter;Siena;2;2;Serie A;Partly Cloudy;VAR;3 mph;61 °F;88 %;29.62 in
+11.05.2008;Livorno;Torino;0;1;Serie A;Fair;ENE;10 mph;57 °F;55 %;29.94 in
+04.05.2008;Cagliari;Fiorentina;2;1;Serie A;Fair;CALM;0 mph;63 °F;59 %;29.74 in
+04.05.2008;Parma;Genoa;1;0;Serie A;Mostly Cloudy;VAR;3 mph;55 °F;72 %;29.94 in
+04.05.2008;Milan;Inter;2;1;Serie A;Fair;CALM;0 mph;63 °F;59 %;29.74 in
+04.05.2008;Siena;Juventus;1;0;Serie A;Fair;SSW;2 mph;54 °F;82 %;30.12 in
+04.05.2008;Atalanta;Livorno;3;2;Serie A;Fair;N;8 mph;63 °F;63 %;29.30 in
+04.05.2008;Torino;Napoli;2;1;Serie A;Fair;NW;6 mph;61 °F;68 %;29.11 in
+04.05.2008;Lazio;Palermo;1;2;Serie A;Fair;;0 mph;59 °F;67 %;29.63 in
+04.05.2008;Catania;Reggina;1;2;Serie A;Partly Cloudy;VAR;3 mph;59 °F;82 %;30.00 in
+04.05.2008;Sampdoria;Roma;0;3;Serie A;Partly Cloudy;VAR;2 mph;66 °F;78 %;30.14 in
+04.05.2008;Empoli;Udinese;0;1;Serie A;Fair;VAR;3 mph;63 °F;39 %;29.83 in
+27.04.2008;Palermo;Atalanta;0;0;Serie A;Partly Cloudy;VAR;3 mph;46 °F;76 %;30.09 in
+27.04.2008;Inter;Cagliari;2;1;Serie A;Mostly Cloudy;VAR;2 mph;61 °F;45 %;29.88 in
+27.04.2008;Udinese;Catania;2;1;Serie A;Fair;CALM;0 mph;46 °F;93 %;30.25 in
+27.04.2008;Genoa;Empoli;0;1;Serie A;Fair;NE;8 mph;59 °F;48 %;30.25 in
+27.04.2008;Juventus;Lazio;5;2;Serie A;Partly Cloudy;VAR;3 mph;46 °F;76 %;30.09 in
+27.04.2008;Livorno;Milan;1;4;Serie A;Fair;E;6 mph;57 °F;51 %;30.24 in
+27.04.2008;Reggina;Parma;2;1;Serie A;Partly Cloudy;WNW;7 mph;54 °F;88 %;30.03 in
+27.04.2008;Fiorentina;Sampdoria;2;2;Serie A;Fair;E;7 mph;52 °F;58 %;30.10 in
+27.04.2008;Napoli;Siena;0;0;Serie A;Fair;NE;6 mph;55 °F;54 %;29.86 in
+27.04.2008;Roma;Torino;4;1;Serie A;Fair;;0 mph;54 °F;54 %;29.66 in
+19.04.2008;Roma;Livorno;1;1;Serie A;Mostly Cloudy;;0 mph;59 °F;77 %;29.22 in
+19.04.2008;Fiorentina;Palermo;1;0;Serie A;Mostly Cloudy;SE;8 mph;59 °F;72 %;29.37 in
+20.04.2008;Cagliari;Empoli;2;0;Serie A;Fair;CALM;0 mph;52 °F;71 %;29.30 in
+20.04.2008;Siena;Genoa;0;1;Serie A;Fair;CALM;0 mph;55 °F;88 %;29.73 in
+20.04.2008;Atalanta;Juventus;0;4;Serie A;Fair;N;8 mph;52 °F;82 %;28.84 in
+20.04.2008;Catania;Lazio;1;0;Serie A;Fair;W;5 mph;57 °F;94 %;29.68 in
+20.04.2008;Parma;Napoli;1;2;Serie A;Fair;CALM;0 mph;46 °F;81 %;29.56 in
+20.04.2008;Milan;Reggina;5;1;Serie A;Fair;CALM;0 mph;52 °F;71 %;29.30 in
+20.04.2008;Sampdoria;Udinese;3;0;Serie A;Fair;S;5 mph;57 °F;82 %;29.70 in
+20.04.2008;Torino;Inter;0;1;Serie A;Partly Cloudy;NW;5 mph;52 °F;76 %;28.68 in
+12.04.2008;Palermo;Catania;1;0;Serie A;Mostly Cloudy;WSW;6 mph;52 °F;71 %;29.47 in
+12.04.2008;Juventus;Milan;3;2;Serie A;Mostly Cloudy;WSW;6 mph;52 °F;71 %;29.47 in
+13.04.2008;Napoli;Atalanta;2;0;Serie A;Fair;SW;6 mph;54 °F;88 %;29.72 in
+13.04.2008;Livorno;Cagliari;1;2;Serie A;Mostly Cloudy;SSE;2 mph;48 °F;82 %;29.91 in
+13.04.2008;Empoli;Parma;1;1;Serie A;Fair;SW;6 mph;54 °F;88 %;29.72 in
+13.04.2008;Udinese;Roma;1;3;Serie A;Cloudy;ENE;6 mph;50 °F;87 %;29.84 in
+13.04.2008;Reggina;Sampdoria;1;0;Serie A;Fair;VAR;1 mph;61 °F;82 %;29.91 in
+13.04.2008;Lazio;Siena;1;1;Serie A;Partly Cloudy;S;7 mph;52 °F;82 %;29.51 in
+13.04.2008;Genoa;Torino;3;0;Serie A;Partly Cloudy;NE;7 mph;54 °F;72 %;29.90 in
+13.04.2008;Inter;Fiorentina;2;0;Serie A;Mostly Cloudy;VAR;1 mph;52 °F;88 %;29.47 in
+05.04.2008;Roma;Genoa;3;2;Serie A;Partly Cloudy;N;7 mph;50 °F;62 %;29.43 in
+05.04.2008;Milan;Cagliari;3;1;Serie A;Fair;VAR;2 mph;48 °F;43 %;29.62 in
+06.04.2008;Torino;Empoli;0;1;Serie A;Fair;NW;5 mph;48 °F;46 %;28.65 in
+06.04.2008;Atalanta;Inter;0;2;Serie A;Partly Cloudy;N;6 mph;52 °F;62 %;28.87 in
+06.04.2008;Parma;Lazio;2;2;Serie A;Partly Cloudy;VAR;3 mph;39 °F;81 %;29.38 in
+06.04.2008;Sampdoria;Livorno;2;0;Serie A;Fair;VAR;3 mph;50 °F;66 %;29.73 in
+06.04.2008;Catania;Napoli;3;0;Serie A;Partly Cloudy;WSW;12 mph;50 °F;66 %;29.71 in
+06.04.2008;Fiorentina;Reggina;2;0;Serie A;Partly Cloudy;VAR;3 mph;46 °F;76 %;29.60 in
+06.04.2008;Siena;Udinese;1;1;Serie A;Fair;SSE;2 mph;43 °F;87 %;29.73 in
+06.04.2008;Palermo;Juventus;3;2;Serie A;Partly Cloudy;VAR;3 mph;39 °F;81 %;29.38 in
+29.03.2008;Cagliari;Roma;1;1;Serie A;Fair;VAR;1 mph;48 °F;87 %;29.62 in
+29.03.2008;Lazio;Inter;1;1;Serie A;Fair;NE;3 mph;50 °F;87 %;29.51 in
+30.03.2008;Milan;Atalanta;1;2;Serie A;Fair;VAR;3 mph;52 °F;71 %;29.77 in
+30.03.2008;Udinese;Fiorentina;3;1;Serie A;Fair;CALM;0 mph;46 °F;93 %;30.14 in
+30.03.2008;Genoa;Reggina;2;0;Serie A;Fair;NE;5 mph;52 °F;71 %;30.14 in
+30.03.2008;Empoli;Sampdoria;0;2;Serie A;Fair;CALM;0 mph;50 °F;94 %;29.83 in
+30.03.2008;Livorno;Siena;0;0;Serie A;Partly Cloudy;ESE;2 mph;43 °F;93 %;30.12 in
+30.03.2008;Catania;Torino;1;2;Serie A;Fair;VAR;2 mph;50 °F;82 %;30.06 in
+30.03.2008;Napoli;Palermo;1;0;Serie A;Fair;CALM;0 mph;50 °F;94 %;29.83 in
+16.04.2008;Juventus;Parma;3;0;Serie A;Fair;VAR;3 mph;39 °F;81 %;29.80 in
+22.03.2008;Sampdoria;Cagliari;1;1;Serie A;Mostly Cloudy;N;8 mph;43 °F;93 %;29.11 in
+22.03.2008;Atalanta;Catania;0;0;Serie A;Mostly Cloudy;N;10 mph;46 °F;76 %;28.29 in
+22.03.2008;Roma;Empoli;2;1;Serie A;Mostly Cloudy;SW;10 mph;50 °F;87 %;28.93 in
+22.03.2008;Palermo;Genoa;2;3;Serie A;Fair;CALM;0 mph;39 °F;75 %;28.91 in
+22.03.2008;Fiorentina;Lazio;1;0;Serie A;Cloudy;SSE;8 mph;48 °F;87 %;29.07 in
+22.03.2008;Udinese;Livorno;2;0;Serie A;Mostly Cloudy;S;10 mph;48 °F;93 %;29.08 in
+22.03.2008;Torino;Milan;0;1;Serie A;Fair;VAR;1 mph;41 °F;70 %;28.14 in
+22.03.2008;Reggina;Napoli;1;1;Serie A;Fair;WSW;6 mph;45 °F;76 %;29.65 in
+22.03.2008;Siena;Parma;2;0;Serie A;Mostly Cloudy / Windy;SW;29 mph;52 °F;82 %;29.20 in
+22.03.2008;Inter;Juventus;1;2;Serie A;Partly Cloudy;N;5 mph;46 °F;66 %;28.75 in
+19.03.2008;Cagliari;Atalanta;1;0;Serie A;Partly Cloudy;ENE;5 mph;46 °F;81 %;29.39 in
+19.03.2008;Napoli;Fiorentina;2;0;Serie A;Mostly Cloudy;S;5 mph;57 °F;94 %;29.43 in
+19.03.2008;Genoa;Inter;1;1;Serie A;Fair;NNE;10 mph;55 °F;77 %;29.69 in
+19.03.2008;Empoli;Juventus;0;0;Serie A;Mostly Cloudy;S;5 mph;57 °F;94 %;29.43 in
+19.03.2008;Parma;Palermo;2;1;Serie A;Fair;E;6 mph;37 °F;81 %;29.65 in
+19.03.2008;Livorno;Reggina;1;1;Serie A;Partly Cloudy;E;2 mph;45 °F;93 %;29.70 in
+19.03.2008;Milan;Sampdoria;1;2;Serie A;Partly Cloudy;ENE;5 mph;46 °F;81 %;29.39 in
+19.03.2008;Catania;Siena;0;0;Serie A;Fair;WSW;9 mph;55 °F;88 %;29.68 in
+19.03.2008;Torino;Udinese;0;1;Serie A;Partly Cloudy;NNE;10 mph;48 °F;87 %;28.77 in
+19.03.2008;Lazio;Roma;3;2;Serie A;Fair;E;3 mph;50 °F;76 %;29.22 in
+15.03.2008;Udinese;Lazio;2;2;Serie A;Fair;CALM;0 mph;46 °F;100 %;29.93 in
+15.03.2008;Roma;Milan;2;1;Serie A;Mostly Cloudy;SE;2 mph;52 °F;82 %;29.57 in
+16.03.2008;Sampdoria;Catania;3;1;Serie A;Mostly Cloudy;CALM;0 mph;52 °F;94 %;29.94 in
+16.03.2008;Atalanta;Empoli;4;1;Serie A;Partly Cloudy;SE;8 mph;54 °F;88 %;29.07 in
+16.03.2008;Fiorentina;Genoa;3;1;Serie A;Partly Cloudy;CALM;0 mph;55 °F;82 %;29.81 in
+16.03.2008;Inter;Palermo;2;1;Serie A;Mostly Cloudy;VAR;2 mph;55 °F;88 %;29.53 in
+16.03.2008;Livorno;Parma;1;1;Serie A;Mostly Cloudy;CALM;0 mph;52 °F;88 %;29.94 in
+16.03.2008;Reggina;Siena;4;0;Serie A;Fair;VAR;3 mph;46 °F;87 %;29.97 in
+16.03.2008;Cagliari;Torino;3;0;Serie A;Mostly Cloudy;VAR;2 mph;55 °F;88 %;29.53 in
+16.03.2008;Juventus;Napoli;1;0;Serie A;Cloudy;ESE;6 mph;46 °F;100 %;29.62 in
+08.03.2008;Inter;Reggina;2;0;Serie A;Mostly Cloudy;CALM;0 mph;45 °F;71 %;29.45 in
+08.03.2008;Palermo;Udinese;1;1;Serie A;Mostly Cloudy;CALM;0 mph;41 °F;93 %;29.65 in
+09.03.2008;Torino;Atalanta;1;0;Serie A;Mostly Cloudy;VAR;1 mph;45 °F;81 %;28.88 in
+09.03.2008;Catania;Cagliari;2;1;Serie A;Partly Cloudy;W;6 mph;43 °F;70 %;29.85 in
+09.03.2008;Siena;Fiorentina;1;0;Serie A;Mostly Cloudy;SE;3 mph;45 °F;93 %;29.91 in
+09.03.2008;Lazio;Livorno;2;0;Serie A;Partly Cloudy;ESE;3 mph;46 °F;87 %;29.43 in
+09.03.2008;Empoli;Milan;1;3;Serie A;Partly Cloudy;VAR;2 mph;45 °F;93 %;29.63 in
+09.03.2008;Napoli;Roma;0;2;Serie A;Partly Cloudy;VAR;2 mph;45 °F;93 %;29.63 in
+09.03.2008;Parma;Sampdoria;1;2;Serie A;Mostly Cloudy;VAR;3 mph;41 °F;87 %;29.71 in
+09.03.2008;Genoa;Juventus;0;2;Serie A;Cloudy;NNE;6 mph;50 °F;82 %;29.87 in
+01.03.2008;Roma;Parma;4;0;Serie A;Partly Cloudy;S;2 mph;52 °F;94 %;29.72 in
+01.03.2008;Milan;Lazio;1;1;Serie A;Mostly Cloudy;VAR;3 mph;54 °F;94 %;29.68 in
+02.03.2008;Udinese;Atalanta;2;0;Serie A;Fair;VAR;2 mph;41 °F;93 %;29.75 in
+02.03.2008;Livorno;Catania;1;0;Serie A;Partly Cloudy;WNW;5 mph;55 °F;82 %;29.85 in
+02.03.2008;Juventus;Fiorentina;2;3;Serie A;Fair;WSW;17 mph;55 °F;54 %;29.65 in
+02.03.2008;Cagliari;Genoa;2;1;Serie A;Fair;S;5 mph;55 °F;54 %;29.39 in
+02.03.2008;Reggina;Palermo;0;0;Serie A;Fair;SW;10 mph;55 °F;72 %;29.91 in
+02.03.2008;Empoli;Siena;0;2;Serie A;Mostly Cloudy;WSW;6 mph;55 °F;88 %;29.66 in
+02.03.2008;Sampdoria;Torino;2;2;Serie A;Fair;VAR;3 mph;41 °F;93 %;29.76 in
+02.03.2008;Napoli;Inter;1;0;Serie A;Mostly Cloudy;WSW;6 mph;55 °F;88 %;29.66 in
+26.02.2008;Juventus;Torino;0;0;Serie A;Cloudy;VAR;3 mph;39 °F;100 %;30.06 in
+27.02.2008;Siena;Cagliari;1;0;Serie A;Mostly Cloudy;SE;3 mph;50 °F;94 %;30.12 in
+27.02.2008;Palermo;Empoli;2;0;Serie A;Mostly Cloudy;ENE;7 mph;46 °F;87 %;29.88 in
+27.02.2008;Fiorentina;Livorno;1;0;Serie A;Cloudy;SE;5 mph;54 °F;88 %;29.99 in
+27.02.2008;Catania;Milan;1;1;Serie A;Fair;VAR;1 mph;50 °F;82 %;30.12 in
+27.02.2008;Genoa;Napoli;2;0;Serie A;Cloudy;ESE;9 mph;52 °F;100 %;30.11 in
+27.02.2008;Lazio;Reggina;1;0;Serie A;Fair;ESE;1 mph;46 °F;81 %;29.72 in
+27.02.2008;Inter;Roma;1;1;Serie A;Mostly Cloudy;CALM;0 mph;48 °F;93 %;29.71 in
+27.02.2008;Atalanta;Sampdoria;4;1;Serie A;Fair;N;7 mph;46 °F;81 %;29.24 in
+27.02.2008;Parma;Udinese;2;0;Serie A;Mostly Cloudy;ENE;7 mph;46 °F;87 %;29.88 in
+23.02.2008;Torino;Parma;4;4;Serie A;Fair;WNW;3 mph;41 °F;87 %;29.39 in
+23.02.2008;Reggina;Juventus;2;1;Serie A;Mostly Cloudy;E;6 mph;57 °F;77 %;30.33 in
+24.02.2008;Empoli;Catania;2;0;Serie A;Fair;CALM;0 mph;48 °F;93 %;30.13 in
+24.02.2008;Roma;Fiorentina;1;0;Serie A;Fair;CALM;0 mph;46 °F;87 %;29.92 in
+24.02.2008;Udinese;Genoa;3;5;Serie A;Fair;VAR;1 mph;37 °F;93 %;30.34 in
+24.02.2008;Sampdoria;Inter;1;1;Serie A;Fair;VAR;2 mph;37 °F;87 %;30.44 in
+24.02.2008;Cagliari;Lazio;1;0;Serie A;Fair;VAR;1 mph;41 °F;93 %;30.03 in
+24.02.2008;Livorno;Napoli;1;2;Serie A;Partly Cloudy;SE;1 mph;41 °F;93 %;30.44 in
+24.02.2008;Atalanta;Siena;2;2;Serie A;Fair;N;7 mph;41 °F;93 %;29.53 in
+24.02.2008;Milan;Palermo;2;1;Serie A;Fair;VAR;1 mph;41 °F;93 %;30.03 in
+16.02.2008;Inter;Livorno;2;0;Serie A;Partly Cloudy;E;9 mph;41 °F;87 %;30.00 in
+16.02.2008;Parma;Milan;0;0;Serie A;Fair;SSE;5 mph;30 °F;80 %;30.35 in
+16.02.2008;Juventus;Roma;1;0;Serie A;Fair;SSE;5 mph;30 °F;80 %;30.35 in
+17.02.2008;Lazio;Atalanta;3;0;Serie A;Fair;NNE;7 mph;37 °F;33 %;30.04 in
+17.02.2008;Palermo;Cagliari;2;1;Serie A;Mostly Cloudy;ESE;6 mph;32 °F;64 %;30.65 in
+17.02.2008;Fiorentina;Catania;2;1;Serie A;Fair;NNE;10 mph;39 °F;49 %;30.54 in
+17.02.2008;Napoli;Empoli;1;3;Serie A;Fair;NE;17 mph;37 °F;36 %;30.27 in
+17.02.2008;Genoa;Sampdoria;0;1;Serie A;Fair;N;12 mph;45 °F;57 %;30.64 in
+17.02.2008;Siena;Torino;0;0;Serie A;Fair;ESE;12 mph;36 °F;52 %;30.68 in
+17.02.2008;Reggina;Udinese;1;3;Serie A;Fair;SE;12 mph;46 °F;37 %;30.33 in
+09.02.2008;Atalanta;Fiorentina;2;2;Serie A;Fair;NNE;9 mph;37 °F;81 %;29.67 in
+09.02.2008;Roma;Reggina;2;0;Serie A;Fair;NNE;6 mph;41 °F;45 %;29.86 in
+10.02.2008;Livorno;Genoa;1;1;Serie A;Fair;W;3 mph;43 °F;53 %;30.44 in
+10.02.2008;Udinese;Juventus;1;2;Serie A;Fair;NE;5 mph;41 °F;57 %;30.49 in
+10.02.2008;Empoli;Lazio;1;0;Serie A;Fair;NNW;7 mph;45 °F;57 %;30.04 in
+10.02.2008;Sampdoria;Napoli;2;0;Serie A;Fair;VAR;3 mph;39 °F;81 %;30.56 in
+10.02.2008;Torino;Palermo;3;1;Serie A;Fair;WNW;3 mph;34 °F;75 %;29.54 in
+10.02.2008;Cagliari;Parma;1;1;Serie A;Fair;VAR;1 mph;34 °F;87 %;30.17 in
+10.02.2008;Milan;Siena;1;0;Serie A;Fair;VAR;1 mph;34 °F;87 %;30.17 in
+10.02.2008;Catania;Inter;0;2;Serie A;Partly Cloudy;W;5 mph;43 °F;66 %;30.18 in
+02.02.2008;Palermo;Livorno;1;0;Serie A;Mostly Cloudy;ESE;5 mph;41 °F;100 %;29.68 in
+02.02.2008;Napoli;Udinese;3;1;Serie A;Fair;VAR;1 mph;46 °F;93 %;29.83 in
+03.02.2008;Parma;Atalanta;2;3;Serie A;Cloudy;E;8 mph;41 °F;93 %;30.06 in
+03.02.2008;Juventus;Cagliari;1;1;Serie A;Cloudy;E;8 mph;41 °F;93 %;30.06 in
+03.02.2008;Genoa;Catania;2;1;Serie A;Mostly Cloudy;NNE;13 mph;50 °F;62 %;30.08 in
+03.02.2008;Inter;Empoli;1;0;Serie A;Mostly Cloudy;CALM;0 mph;43 °F;93 %;29.74 in
+03.02.2008;Siena;Roma;3;0;Serie A;Mostly Cloudy;ENE;1 mph;46 °F;93 %;30.06 in
+03.02.2008;Lazio;Sampdoria;2;1;Serie A;Partly Cloudy;CALM;0 mph;45 °F;87 %;29.63 in
+03.02.2008;Reggina;Torino;1;3;Serie A;Fair;VAR;3 mph;45 °F;81 %;30.12 in
+03.02.2008;Fiorentina;Milan;0;1;Serie A;Mostly Cloudy;CALM;0 mph;50 °F;94 %;29.96 in
+26.01.2008;Sampdoria;Siena;1;0;Serie A;Fair;N;6 mph;41 °F;81 %;30.62 in
+26.01.2008;Roma;Palermo;1;0;Serie A;Fair;NNE;5 mph;39 °F;81 %;29.98 in
+27.01.2008;Empoli;Fiorentina;0;2;Serie A;Fair;NNW;5 mph;43 °F;57 %;30.19 in
+27.01.2008;Milan;Genoa;2;0;Serie A;Fair;VAR;1 mph;37 °F;93 %;30.06 in
+27.01.2008;Udinese;Inter;0;0;Serie A;Fair;VAR;1 mph;30 °F;93 %;30.40 in
+27.01.2008;Torino;Lazio;0;0;Serie A;Fair;W;5 mph;37 °F;70 %;29.45 in
+27.01.2008;Cagliari;Napoli;2;1;Serie A;Fair;VAR;1 mph;37 °F;93 %;30.06 in
+27.01.2008;Catania;Parma;0;0;Serie A;Fair;WSW;6 mph;43 °F;70 %;30.41 in
+27.01.2008;Atalanta;Reggina;2;2;Serie A;Fair;VAR;3 mph;41 °F;65 %;29.56 in
+27.01.2008;Livorno;Juventus;1;3;Serie A;Fair;SE;2 mph;36 °F;100 %;30.50 in
+19.01.2008;Genoa;Atalanta;2;1;Serie A;Fair;NNE;6 mph;46 °F;87 %;30.31 in
+19.01.2008;Fiorentina;Torino;2;1;Serie A;Fair;ENE;3 mph;43 °F;93 %;30.22 in
+20.01.2008;Juventus;Sampdoria;0;0;Serie A;Cloudy;CALM;0 mph;0 °F;100 %;30.21 in
+20.01.2008;Livorno;Empoli;1;0;Serie A;Mostly Cloudy;E;3 mph;46 °F;93 %;30.38 in
+20.01.2008;Napoli;Lazio;2;2;Serie A;Fair;CALM;0 mph;45 °F;93 %;30.07 in
+20.01.2008;Palermo;Siena;2;3;Serie A;Cloudy;CALM;0 mph;0 °F;100 %;30.21 in
+20.01.2008;Reggina;Cagliari;2;0;Serie A;Partly Cloudy;VAR;1 mph;50 °F;76 %;30.30 in
+20.01.2008;Roma;Catania;2;0;Serie A;Fair;ENE;3 mph;43 °F;93 %;29.89 in
+20.01.2008;Udinese;Milan;0;1;Serie A;Mostly Cloudy;W;2 mph;46 °F;93 %;30.34 in
+20.01.2008;Inter;Parma;3;2;Serie A;Cloudy;CALM;0 mph;34 °F;93 %;29.97 in
+12.01.2008;Empoli;Reggina;1;1;Serie A;Partly Cloudy;CALM;0 mph;54 °F;88 %;29.92 in
+12.01.2008;Catania;Juventus;1;1;Serie A;Fair;WSW;5 mph;46 °F;81 %;0.00 in
+13.01.2008;Atalanta;Roma;1;2;Serie A;Mostly Cloudy;S;5 mph;41 °F;93 %;28.98 in
+13.01.2008;Cagliari;Udinese;0;1;Serie A;Cloudy;VAR;2 mph;39 °F;93 %;29.47 in
+13.01.2008;Lazio;Genoa;1;2;Serie A;Partly Cloudy;;0 mph;46 °F;81 %;29.43 in
+13.01.2008;Parma;Fiorentina;1;2;Serie A;Mostly Cloudy;VAR;3 mph;39 °F;93 %;29.80 in
+13.01.2008;Sampdoria;Palermo;3;0;Serie A;Mostly Cloudy;ESE;6 mph;50 °F;94 %;29.88 in
+13.01.2008;Siena;Inter;2;3;Serie A;Partly Cloudy;ENE;3 mph;45 °F;87 %;29.82 in
+13.01.2008;Torino;Livorno;1;2;Serie A;Cloudy;WSW;8 mph;37 °F;93 %;28.91 in
+13.01.2008;Milan;Napoli;5;2;Serie A;Cloudy;VAR;2 mph;39 °F;93 %;29.47 in
+22.12.2007;Genoa;Parma;1;0;Serie A;Fair;NE;12 mph;45 °F;49 %;30.40 in
+22.12.2007;Roma;Sampdoria;2;0;Serie A;Fair;N;1 mph;37 °F;81 %;29.95 in
+23.12.2007;Fiorentina;Cagliari;5;1;Serie A;Cloudy;NNE;2 mph;41 °F;87 %;30.25 in
+23.12.2007;Inter;Milan;2;1;Serie A;Mostly Cloudy;CALM;0 mph;36 °F;93 %;30.06 in
+23.12.2007;Juventus;Siena;2;0;Serie A;Mostly Cloudy;CALM;0 mph;36 °F;93 %;30.24 in
+23.12.2007;Livorno;Atalanta;1;1;Serie A;Mostly Cloudy;ESE;12 mph;43 °F;93 %;30.35 in
+23.12.2007;Napoli;Torino;1;1;Serie A;Partly Cloudy;VAR;3 mph;48 °F;71 %;30.07 in
+23.12.2007;Palermo;Lazio;2;2;Serie A;Mostly Cloudy;CALM;0 mph;36 °F;93 %;30.24 in
+23.12.2007;Reggina;Catania;3;1;Serie A;Mostly Cloudy;CALM;0 mph;54 °F;77 %;30.33 in
+23.12.2007;Udinese;Empoli;2;2;Serie A;Mostly Cloudy;VAR;2 mph;32 °F;87 %;30.37 in
+15.12.2007;Catania;Udinese;2;0;Serie A;Partly Cloudy;SW;7 mph;43 °F;42 %;30.00 in
+15.12.2007;Lazio;Juventus;2;3;Serie A;Fair;NNE;5 mph;37 °F;60 %;29.69 in
+16.12.2007;Atalanta;Palermo;1;3;Serie A;Fair;VAR;3 mph;30 °F;80 %;29.47 in
+16.12.2007;Empoli;Genoa;1;1;Serie A;Fair;N;8 mph;27 °F;69 %;29.89 in
+16.12.2007;Parma;Reggina;3;0;Serie A;Fair;W;6 mph;30 °F;86 %;30.21 in
+16.12.2007;Sampdoria;Fiorentina;2;2;Serie A;Fair;VAR;1 mph;32 °F;69 %;30.35 in
+16.12.2007;Siena;Napoli;1;1;Serie A;Partly Cloudy;ENE;6 mph;36 °F;48 %;30.26 in
+16.12.2007;Torino;Roma;0;0;Serie A;Fair;NNW;3 mph;27 °F;86 %;29.28 in
+16.12.2007;Cagliari;Inter;0;2;Serie A;Fair;CALM;0 mph;30 °F;86 %;29.94 in
+13.02.2008;Milan;Livorno;1;1;Serie A;Fair;VAR;3 mph;34 °F;93 %;30.12 in
+08.12.2007;Lazio;Catania;2;0;Serie A;Mostly Cloudy;;0 mph;54 °F;94 %;29.28 in
+08.12.2007;Palermo;Fiorentina;2;0;Serie A;Mostly Cloudy;VAR;3 mph;43 °F;93 %;29.50 in
+09.12.2007;Empoli;Cagliari;4;1;Serie A;Fair;CALM;0 mph;39 °F;93 %;29.40 in
+09.12.2007;Genoa;Siena;1;3;Serie A;Fair;ENE;8 mph;46 °F;0 %;29.78 in
+09.12.2007;Inter;Torino;4;0;Serie A;Mostly Cloudy;VAR;1 mph;37 °F;93 %;29.42 in
+09.12.2007;Juventus;Atalanta;1;0;Serie A;Mostly Cloudy;VAR;3 mph;32 °F;100 %;29.50 in
+09.12.2007;Livorno;Roma;1;1;Serie A;Fair;ESE;3 mph;37 °F;87 %;29.82 in
+09.12.2007;Udinese;Sampdoria;3;2;Serie A;Fair;VAR;1 mph;39 °F;81 %;29.78 in
+09.12.2007;Napoli;Parma;1;0;Serie A;Fair;CALM;0 mph;39 °F;93 %;29.40 in
+30.01.2008;Reggina;Milan;0;1;Serie A;Fair;W;8 mph;48 °F;76 %;30.33 in
+01.12.2007;Sampdoria;Reggina;3;0;Serie A;Fair;CALM;0 mph;41 °F;76 %;30.00 in
+01.12.2007;Milan;Juventus;0;0;Serie A;Fair;VAR;1 mph;39 °F;87 %;29.59 in
+02.12.2007;Atalanta;Napoli;5;1;Serie A;Mostly Cloudy;S;6 mph;45 °F;87 %;0.00 in
+02.12.2007;Cagliari;Livorno;0;0;Serie A;Cloudy;VAR;3 mph;45 °F;93 %;29.68 in
+02.12.2007;Catania;Palermo;3;1;Serie A;Partly Cloudy;VAR;2 mph;55 °F;77 %;30.09 in
+02.12.2007;Fiorentina;Inter;0;2;Serie A;Cloudy;NW;2 mph;48 °F;93 %;29.96 in
+02.12.2007;Parma;Empoli;1;0;Serie A;Mostly Cloudy;NW;5 mph;45 °F;93 %;29.88 in
+02.12.2007;Roma;Udinese;2;1;Serie A;Partly Cloudy;;0 mph;52 °F;82 %;29.66 in
+02.12.2007;Siena;Lazio;1;1;Serie A;Mostly Cloudy;E;3 mph;46 °F;93 %;30.06 in
+02.12.2007;Torino;Genoa;1;1;Serie A;Partly Cloudy;W;6 mph;41 °F;93 %;29.08 in
+24.11.2007;Genoa;Roma;0;1;Serie A;Cloudy;NNE;18 mph;52 °F;76 %;29.93 in
+24.11.2007;Inter;Atalanta;2;1;Serie A;Cloudy;VAR;3 mph;46 °F;87 %;29.62 in
+25.11.2007;Cagliari;Milan;1;2;Serie A;Cloudy;CALM;0 mph;52 °F;88 %;29.68 in
+25.11.2007;Empoli;Torino;0;0;Serie A;Partly Cloudy;CALM;0 mph;57 °F;88 %;29.86 in
+25.11.2007;Lazio;Parma;1;0;Serie A;Fair;;0 mph;48 °F;93 %;29.63 in
+25.11.2007;Livorno;Sampdoria;3;1;Serie A;Mostly Cloudy;E;8 mph;54 °F;88 %;30.06 in
+25.11.2007;Napoli;Catania;2;0;Serie A;Partly Cloudy;CALM;0 mph;57 °F;88 %;29.86 in
+25.11.2007;Reggina;Fiorentina;0;0;Serie A;Partly Cloudy;VAR;2 mph;55 °F;94 %;30.12 in
+25.11.2007;Udinese;Siena;2;0;Serie A;Mostly Cloudy;CALM;0 mph;52 °F;94 %;30.02 in
+25.11.2007;Juventus;Palermo;5;0;Serie A;Mostly Cloudy;VAR;3 mph;48 °F;100 %;29.88 in
+10.11.2007;Sampdoria;Empoli;3;0;Serie A;Fair;W;9 mph;46 °F;0 %;29.94 in
+10.11.2007;Palermo;Napoli;2;1;Serie A;Fair;NW;13 mph;43 °F;46 %;29.88 in
+11.11.2007;Fiorentina;Udinese;1;2;Serie A;Fair;E;7 mph;46 °F;76 %;29.84 in
+11.11.2007;Parma;Juventus;2;2;Serie A;Fair;WSW;13 mph;54 °F;51 %;29.62 in
+11.11.2007;Reggina;Genoa;2;0;Serie A;Fair;SW;8 mph;45 °F;76 %;30.03 in
+11.11.2007;Siena;Livorno;2;3;Serie A;Partly Cloudy;WSW;1 mph;45 °F;76 %;29.97 in
+11.11.2007;Torino;Catania;1;1;Serie A;Fair;VAR;3 mph;41 °F;39 %;28.91 in
+05.12.2007;Inter;Lazio;3;0;Serie A;Fair;ENE;5 mph;41 °F;57 %;29.77 in
+05.12.2007;Roma;Cagliari;2;0;Serie A;Fair;;0 mph;45 °F;61 %;29.60 in
+23.01.2008;Atalanta;Milan;2;1;Serie A;Fair;N;7 mph;45 °F;0 %;29.27 in
+03.11.2007;Lazio;Fiorentina;0;1;Serie A;Fair;N;3 mph;50 °F;87 %;29.72 in
+03.11.2007;Milan;Torino;0;0;Serie A;Fair;CALM;0 mph;45 °F;93 %;29.94 in
+04.11.2007;Cagliari;Sampdoria;0;3;Serie A;Fair;CALM;0 mph;45 °F;93 %;29.77 in
+04.11.2007;Catania;Atalanta;1;2;Serie A;Partly Cloudy;E;5 mph;63 °F;88 %;30.00 in
+04.11.2007;Empoli;Roma;2;2;Serie A;Fair;VAR;2 mph;54 °F;82 %;29.81 in
+04.11.2007;Genoa;Palermo;3;3;Serie A;Fair;NNE;15 mph;57 °F;51 %;30.08 in
+04.11.2007;Livorno;Udinese;0;0;Serie A;Fair;E;5 mph;48 °F;82 %;30.09 in
+04.11.2007;Napoli;Reggina;1;1;Serie A;Fair;VAR;2 mph;54 °F;82 %;29.81 in
+04.11.2007;Parma;Siena;2;2;Serie A;Fair;VAR;3 mph;45 °F;93 %;29.94 in
+04.11.2007;Juventus;Inter;1;1;Serie A;Fair;VAR;3 mph;45 °F;93 %;29.94 in
+31.10.2007;Atalanta;Cagliari;2;2;Serie A;Mostly Cloudy;WSW;5 mph;52 °F;88 %;29.13 in
+31.10.2007;Fiorentina;Napoli;1;0;Serie A;Mostly Cloudy;VAR;6 mph;61 °F;72 %;29.66 in
+31.10.2007;Inter;Genoa;4;1;Serie A;Cloudy;VAR;1 mph;52 °F;94 %;29.59 in
+31.10.2007;Juventus;Empoli;3;0;Serie A;Cloudy;NE;8 mph;50 °F;100 %;29.82 in
+31.10.2007;Palermo;Parma;1;1;Serie A;Cloudy;NE;8 mph;50 °F;100 %;29.82 in
+31.10.2007;Reggina;Livorno;1;3;Serie A;Partly Cloudy;WNW;5 mph;64 °F;88 %;29.62 in
+31.10.2007;Roma;Lazio;3;2;Serie A;Partly Cloudy;;0 mph;59 °F;88 %;29.22 in
+31.10.2007;Sampdoria;Milan;0;5;Serie A;Mostly Cloudy;NE;14 mph;54 °F;77 %;30.00 in
+31.10.2007;Siena;Catania;1;1;Serie A;Mostly Cloudy;NNE;6 mph;55 °F;82 %;29.70 in
+31.10.2007;Udinese;Torino;2;1;Serie A;Partly Cloudy;NE;9 mph;54 °F;62 %;29.99 in
+27.10.2007;Torino;Cagliari;2;0;Serie A;Fair;VAR;2 mph;46 °F;81 %;29.19 in
+27.10.2007;Napoli;Juventus;3;1;Serie A;Partly Cloudy;CALM;0 mph;59 °F;88 %;29.78 in
+28.10.2007;Catania;Sampdoria;2;0;Serie A;Partly Cloudy;VAR;1 mph;70 °F;88 %;30.06 in
+28.10.2007;Empoli;Atalanta;0;1;Serie A;Fair;NNE;7 mph;63 °F;63 %;29.86 in
+28.10.2007;Lazio;Udinese;0;1;Serie A;Fair;CALM;0 mph;59 °F;82 %;29.69 in
+28.10.2007;Milan;Roma;0;1;Serie A;Fair;VAR;1 mph;55 °F;94 %;29.85 in
+28.10.2007;Palermo;Inter;0;0;Serie A;Mostly Cloudy;CALM;0 mph;52 °F;94 %;30.00 in
+28.10.2007;Parma;Livorno;3;2;Serie A;Mostly Cloudy;CALM;0 mph;52 °F;94 %;30.00 in
+28.10.2007;Siena;Reggina;0;0;Serie A;Fair;ENE;3 mph;54 °F;88 %;30.18 in
+28.10.2007;Genoa;Fiorentina;0;0;Serie A;Fair;NE;18 mph;59 °F;63 %;30.17 in
+20.10.2007;Roma;Napoli;4;4;Serie A;Fair;NE;6 mph;48 °F;50 %;29.57 in
+20.10.2007;Reggina;Inter;0;1;Serie A;Mostly Cloudy;E;13 mph;63 °F;88 %;29.94 in
+21.10.2007;Atalanta;Torino;2;2;Serie A;Fair;N;5 mph;43 °F;76 %;29.38 in
+21.10.2007;Cagliari;Catania;1;1;Serie A;Fair;VAR;2 mph;41 °F;87 %;29.85 in
+21.10.2007;Fiorentina;Siena;3;0;Serie A;Fair;NE;13 mph;48 °F;62 %;30.04 in
+21.10.2007;Livorno;Lazio;0;1;Serie A;Partly Cloudy;ENE;15 mph;48 °F;40 %;30.15 in
+21.10.2007;Milan;Empoli;0;1;Serie A;Fair;VAR;2 mph;41 °F;87 %;29.85 in
+21.10.2007;Sampdoria;Parma;3;0;Serie A;Fair;E;14 mph;50 °F;54 %;30.26 in
+21.10.2007;Udinese;Palermo;1;1;Serie A;Fair;CALM;0 mph;36 °F;60 %;30.25 in
+21.10.2007;Juventus;Genoa;1;0;Serie A;Fair;VAR;3 mph;36 °F;75 %;30.03 in
+06.10.2007;Atalanta;Udinese;0;0;Serie A;Partly Cloudy;VAR;2 mph;66 °F;83 %;29.18 in
+06.10.2007;Inter;Napoli;2;1;Serie A;Mostly Cloudy;VAR;1 mph;64 °F;100 %;29.65 in
+07.10.2007;Catania;Livorno;1;0;Serie A;Mostly Cloudy;W;9 mph;75 °F;61 %;29.85 in
+07.10.2007;Fiorentina;Juventus;1;1;Serie A;Mostly Cloudy;SW;6 mph;66 °F;73 %;29.78 in
+07.10.2007;Genoa;Cagliari;2;0;Serie A;Fair;VAR;3 mph;68 °F;73 %;29.93 in
+07.10.2007;Palermo;Reggina;1;1;Serie A;Fair;CALM;0 mph;54 °F;94 %;29.85 in
+07.10.2007;Parma;Roma;0;3;Serie A;Fair;CALM;0 mph;54 °F;94 %;29.85 in
+07.10.2007;Siena;Empoli;3;0;Serie A;Partly Cloudy;S;3 mph;63 °F;88 %;29.91 in
+07.10.2007;Torino;Sampdoria;1;0;Serie A;Mostly Cloudy;N;6 mph;61 °F;82 %;29.02 in
+07.10.2007;Lazio;Milan;1;5;Serie A;Fair;S;5 mph;63 °F;88 %;29.43 in
+29.09.2007;Roma;Inter;1;4;Serie A;Fair;S;6 mph;61 °F;72 %;29.57 in
+29.09.2007;Livorno;Fiorentina;0;3;Serie A;Partly Cloudy;WSW;13 mph;61 °F;55 %;30.00 in
+30.09.2007;Cagliari;Siena;1;0;Serie A;Mostly Cloudy;VAR;1 mph;59 °F;94 %;29.79 in
+30.09.2007;Empoli;Palermo;3;1;Serie A;Partly Cloudy;VAR;3 mph;64 °F;83 %;29.89 in
+30.09.2007;Milan;Catania;1;1;Serie A;Mostly Cloudy;VAR;1 mph;59 °F;94 %;29.79 in
+30.09.2007;Napoli;Genoa;1;2;Serie A;Partly Cloudy;VAR;3 mph;64 °F;83 %;29.89 in
+30.09.2007;Reggina;Lazio;1;1;Serie A;Partly Cloudy;ENE;5 mph;72 °F;88 %;30.06 in
+30.09.2007;Sampdoria;Atalanta;3;0;Serie A;Fair;N;8 mph;59 °F;88 %;30.20 in
+30.09.2007;Udinese;Parma;2;1;Serie A;Fair;CALM;0 mph;46 °F;93 %;30.17 in
+30.09.2007;Torino;Juventus;0;1;Serie A;Mostly Cloudy;NW;3 mph;57 °F;77 %;29.19 in
+26.09.2007;Catania;Empoli;1;0;Serie A;Fair;WNW;5 mph;70 °F;94 %;29.71 in
+26.09.2007;Fiorentina;Roma;2;2;Serie A;Fair;E;5 mph;61 °F;63 %;29.69 in
+26.09.2007;Genoa;Udinese;3;2;Serie A;Partly Cloudy;NE;10 mph;66 °F;60 %;29.78 in
+26.09.2007;Inter;Sampdoria;3;0;Serie A;Mostly Cloudy;ESE;8 mph;66 °F;64 %;29.42 in
+26.09.2007;Juventus;Reggina;4;0;Serie A;Mostly Cloudy;E;6 mph;63 °F;82 %;29.56 in
+26.09.2007;Lazio;Cagliari;3;1;Serie A;Fair;;0 mph;66 °F;83 %;29.37 in
+26.09.2007;Napoli;Livorno;1;0;Serie A;Mostly Cloudy;NW;5 mph;64 °F;88 %;29.54 in
+26.09.2007;Palermo;Milan;2;1;Serie A;Mostly Cloudy;E;6 mph;63 °F;82 %;29.56 in
+26.09.2007;Parma;Torino;2;0;Serie A;Mostly Cloudy;E;6 mph;63 °F;82 %;29.56 in
+26.09.2007;Siena;Atalanta;1;1;Serie A;Partly Cloudy;SE;3 mph;61 °F;77 %;29.79 in
+22.09.2007;Udinese;Reggina;2;0;Serie A;Fair;N;5 mph;54 °F;72 %;30.20 in
+22.09.2007;Milan;Parma;1;1;Serie A;Fair;VAR;2 mph;59 °F;88 %;29.88 in
+23.09.2007;Atalanta;Lazio;2;1;Serie A;Fair;N;6 mph;63 °F;77 %;29.38 in
+23.09.2007;Cagliari;Palermo;0;1;Serie A;Fair;VAR;1 mph;59 °F;94 %;29.82 in
+23.09.2007;Catania;Fiorentina;0;1;Serie A;Partly Cloudy;E;5 mph;73 °F;78 %;30.12 in
+23.09.2007;Empoli;Napoli;0;0;Serie A;Fair;VAR;2 mph;63 °F;72 %;29.92 in
+23.09.2007;Livorno;Inter;2;2;Serie A;Fair;ESE;2 mph;59 °F;88 %;30.18 in
+23.09.2007;Roma;Juventus;2;2;Serie A;Fair;ESE;2 mph;64 °F;83 %;29.72 in
+23.09.2007;Torino;Siena;1;1;Serie A;Fair;VAR;1 mph;59 °F;67 %;29.19 in
+23.09.2007;Sampdoria;Genoa;0;0;Serie A;Fair;VAR;3 mph;61 °F;94 %;30.23 in
+15.09.2007;Siena;Milan;1;1;Serie A;Partly Cloudy;E;1 mph;66 °F;88 %;30.15 in
+15.09.2007;Lazio;Empoli;0;0;Serie A;Fair;ESE;6 mph;64 °F;83 %;29.66 in
+16.09.2007;Fiorentina;Atalanta;2;2;Serie A;Fair;E;7 mph;68 °F;78 %;30.01 in
+16.09.2007;Genoa;Livorno;1;1;Serie A;Fair;ENE;7 mph;68 °F;83 %;30.11 in
+16.09.2007;Inter;Catania;2;0;Serie A;Fair;CALM;0 mph;68 °F;88 %;29.77 in
+16.09.2007;Juventus;Udinese;0;1;Serie A;Fair;VAR;2 mph;59 °F;88 %;29.97 in
+16.09.2007;Napoli;Sampdoria;2;0;Serie A;Fair;CALM;0 mph;70 °F;78 %;29.89 in
+16.09.2007;Palermo;Torino;1;1;Serie A;Fair;VAR;2 mph;59 °F;88 %;29.97 in
+16.09.2007;Reggina;Roma;0;2;Serie A;Fair;CALM;0 mph;72 °F;83 %;30.09 in
+16.09.2007;Parma;Cagliari;1;1;Serie A;Fair;VAR;2 mph;59 °F;88 %;29.97 in
+01.09.2007;Empoli;Inter;0;2;Serie A;Fair;VAR;2 mph;73 °F;69 %;29.63 in
+02.09.2007;Atalanta;Parma;2;0;Serie A;Fair;VAR;3 mph;66 °F;73 %;29.18 in
+02.09.2007;Cagliari;Juventus;2;3;Serie A;Fair;VAR;1 mph;66 °F;88 %;29.62 in
+02.09.2007;Catania;Genoa;0;0;Serie A;Partly Cloudy;VAR;3 mph;75 °F;61 %;29.82 in
+02.09.2007;Livorno;Palermo;2;4;Serie A;Fair;ESE;5 mph;64 °F;77 %;30.00 in
+02.09.2007;Roma;Siena;3;0;Serie A;Fair;N;7 mph;72 °F;43 %;29.46 in
+02.09.2007;Torino;Reggina;2;2;Serie A;Partly Cloudy;VAR;1 mph;66 °F;73 %;29.02 in
+02.09.2007;Udinese;Napoli;0;5;Serie A;Partly Cloudy;VAR;3 mph;61 °F;88 %;30.02 in
+02.09.2007;Sampdoria;Lazio;0;0;Serie A;Fair;NNE;7 mph;72 °F;64 %;30.05 in
+03.09.2007;Milan;Fiorentina;1;1;Serie A;Fair;VAR;2 mph;68 °F;78 %;29.59 in
+25.08.2007;Lazio;Torino;2;2;Serie A;Fair;ENE;7 mph;79 °F;47 %;29.69 in
+25.08.2007;Juventus;Livorno;5;1;Serie A;Fair;WSW;6 mph;64 °F;83 %;30.09 in
+26.08.2007;Fiorentina;Empoli;3;1;Serie A;Fair;E;2 mph;72 °F;78 %;30.07 in
+26.08.2007;Genoa;Milan;0;3;Serie A;Fair;NW;5 mph;77 °F;69 %;30.19 in
+26.08.2007;Inter;Udinese;1;1;Serie A;Fair;CALM;0 mph;68 °F;94 %;29.85 in
+26.08.2007;Napoli;Cagliari;0;2;Serie A;Fair;NNW;5 mph;84 °F;51 %;29.83 in
+26.08.2007;Parma;Catania;2;2;Serie A;Fair;CALM;0 mph;72 °F;69 %;30.06 in
+26.08.2007;Reggina;Atalanta;1;1;Serie A;Fair;W;7 mph;77 °F;74 %;30.06 in
+26.08.2007;Siena;Sampdoria;1;2;Serie A;Fair;CALM;0 mph;70 °F;83 %;30.21 in
+26.08.2007;Palermo;Roma;0;2;Serie A;Fair;CALM;0 mph;72 °F;69 %;30.06 in

@@ -1,0 +1,307 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+25.08.2001;Bologna;Atalanta;1;0;Serie A;Fair;VAR;3 mph;75 °F;69 %;29.86 in
+26.08.2001;Juventus;Venezia;4;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+26.08.2001;Inter;Perugia;4;1;Serie A;Fair;VAR;1 mph;77 °F;83 %;29.68 in
+26.08.2001;Lazio;Piacenza;1;1;Serie A;Fair;E;6 mph;77 °F;89 %;29.57 in
+26.08.2001;Udinese;Torino;2;2;Serie A;Fair;CALM;0 mph;72 °F;83 %;29.99 in
+26.08.2001;Brescia;Milan;2;2;Serie A;Fair;NNW;5 mph;75 °F;89 %;29.82 in
+26.08.2001;Lecce;Parma;1;1;Serie A;Fair;CALM;0 mph;75 °F;94 %;29.97 in
+26.08.2001;Fiorentina;Chievo;0;2;Serie A;Fair;VAR;2 mph;79 °F;65 %;29.90 in
+26.08.2001;Hellas Verona;Roma;1;1;Serie A;Fair;NNW;5 mph;75 °F;89 %;29.82 in
+08.09.2001;Roma;Udinese;1;1;Serie A;Fair;E;5 mph;66 °F;94 %;29.43 in
+08.09.2001;Perugia;Lazio;0;0;Serie A;Fair;CALM;0 mph;61 °F;82 %;29.85 in
+09.09.2001;Milan;Fiorentina;5;2;Serie A;Fair;WSW;6 mph;66 °F;83 %;29.30 in
+09.09.2001;Parma;Inter;2;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+09.09.2001;Chievo;Bologna;2;0;Serie A;Fair;WSW;6 mph;66 °F;83 %;29.30 in
+09.09.2001;Atalanta;Juventus;0;2;Serie A;Mostly Cloudy;W;12 mph;66 °F;78 %;28.84 in
+09.09.2001;Piacenza;Lecce;1;2;Serie A;Partly Cloudy;S;9 mph;68 °F;94 %;29.43 in
+09.09.2001;Torino;Brescia;1;3;Serie A;Fair;VAR;1 mph;70 °F;0 %;28.68 in
+09.09.2001;Venezia;Hellas Verona;0;1;Serie A;Fair;CALM;0 mph;66 °F;88 %;29.66 in
+15.09.2001;Juventus;Chievo;3;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+16.09.2001;Inter;Venezia;2;1;Serie A;Fair;VAR;2 mph;57 °F;88 %;29.50 in
+16.09.2001;Lazio;Torino;0;0;Serie A;Fair;CALM;0 mph;61 °F;94 %;29.46 in
+16.09.2001;Udinese;Milan;1;2;Serie A;Mostly Cloudy;VAR;1 mph;57 °F;82 %;29.87 in
+16.09.2001;Bologna;Parma;1;0;Serie A;Fair;SSW;9 mph;57 °F;72 %;29.74 in
+16.09.2001;Brescia;Lecce;1;1;Serie A;Fair;NNE;2 mph;55 °F;100 %;29.65 in
+16.09.2001;Fiorentina;Atalanta;3;1;Serie A;Fair;VAR;2 mph;59 °F;72 %;29.78 in
+16.09.2001;Piacenza;Roma;2;0;Serie A;Fair;CALM;0 mph;61 °F;94 %;29.46 in
+16.09.2001;Hellas Verona;Perugia;1;1;Serie A;Fair;NNE;2 mph;55 °F;100 %;29.65 in
+22.09.2001;Lecce;Juventus;0;0;Serie A;Fair;CALM;0 mph;72 °F;88 %;29.94 in
+23.09.2001;Milan;Lazio;2;0;Serie A;Cloudy;VAR;1 mph;63 °F;94 %;29.53 in
+23.09.2001;Roma;Fiorentina;2;1;Serie A;Fair;NNE;1 mph;64 °F;94 %;29.43 in
+23.09.2001;Parma;Brescia;1;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+23.09.2001;Chievo;Piacenza;4;2;Serie A;Cloudy;VAR;1 mph;63 °F;94 %;29.53 in
+23.09.2001;Atalanta;Hellas Verona;1;0;Serie A;Mostly Cloudy;CALM;0 mph;59 °F;94 %;29.10 in
+23.09.2001;Perugia;Udinese;1;2;Serie A;Fair;VAR;3 mph;63 °F;94 %;29.87 in
+23.09.2001;Torino;Inter;0;1;Serie A;Cloudy;VAR;2 mph;57 °F;77 %;28.91 in
+23.09.2001;Venezia;Bologna;0;1;Serie A;Fair;VAR;1 mph;64 °F;88 %;29.63 in
+29.09.2001;Juventus;Roma;0;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+30.09.2001;Inter;Bologna;1;0;Serie A;Cloudy;NW;5 mph;59 °F;94 %;29.68 in
+30.09.2001;Lazio;Parma;0;0;Serie A;Mostly Cloudy;SSE;3 mph;66 °F;94 %;29.54 in
+30.09.2001;Udinese;Chievo;1;2;Serie A;Partly Cloudy;CALM;0 mph;61 °F;94 %;29.99 in
+30.09.2001;Brescia;Atalanta;3;3;Serie A;Cloudy;NNW;2 mph;63 °F;100 %;29.82 in
+30.09.2001;Fiorentina;Venezia;3;1;Serie A;Cloudy;VAR;3 mph;66 °F;73 %;29.87 in
+30.09.2001;Perugia;Milan;3;1;Serie A;Mostly Cloudy;VAR;2 mph;61 °F;94 %;29.99 in
+30.09.2001;Piacenza;Torino;3;1;Serie A;Mostly Cloudy;SSE;3 mph;66 °F;94 %;29.54 in
+30.09.2001;Hellas Verona;Lecce;2;1;Serie A;Cloudy;NNW;2 mph;63 °F;100 %;29.82 in
+13.10.2001;Lazio;Atalanta;2;0;Serie A;Fair;ESE;2 mph;64 °F;83 %;29.75 in
+13.10.2001;Perugia;Roma;0;0;Serie A;Fair;VAR;3 mph;57 °F;88 %;30.26 in
+14.10.2001;Milan;Venezia;1;1;Serie A;Fair;CALM;0 mph;59 °F;100 %;29.85 in
+14.10.2001;Juventus;Torino;3;3;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+14.10.2001;Parma;Piacenza;2;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+14.10.2001;Udinese;Inter;1;1;Serie A;Fair;VAR;3 mph;57 °F;82 %;30.14 in
+14.10.2001;Brescia;Chievo;2;2;Serie A;Fair;CALM;0 mph;55 °F;100 %;29.97 in
+14.10.2001;Lecce;Fiorentina;4;1;Serie A;Fair;NW;8 mph;68 °F;100 %;30.08 in
+14.10.2001;Hellas Verona;Bologna;0;1;Serie A;Fair;CALM;0 mph;55 °F;100 %;29.97 in
+20.10.2001;Bologna;Juventus;0;0;Serie A;Fair;VAR;2 mph;59 °F;100 %;29.89 in
+21.10.2001;Roma;Lecce;5;1;Serie A;Partly Cloudy;SSE;17 mph;72 °F;57 %;29.46 in
+21.10.2001;Inter;Milan;2;4;Serie A;Mostly Cloudy;ENE;7 mph;61 °F;94 %;29.36 in
+21.10.2001;Chievo;Parma;1;0;Serie A;Mostly Cloudy;ENE;7 mph;61 °F;94 %;29.36 in
+21.10.2001;Atalanta;Udinese;1;5;Serie A;Mostly Cloudy;ENE;12 mph;59 °F;94 %;28.90 in
+21.10.2001;Fiorentina;Hellas Verona;0;2;Serie A;Cloudy;SE;10 mph;70 °F;64 %;29.69 in
+21.10.2001;Piacenza;Brescia;0;1;Serie A;Partly Cloudy;SSE;17 mph;72 °F;57 %;29.46 in
+21.10.2001;Torino;Perugia;1;0;Serie A;Cloudy;VAR;3 mph;57 °F;88 %;28.77 in
+21.10.2001;Venezia;Lazio;0;0;Serie A;Fair;VAR;1 mph;64 °F;77 %;29.72 in
+27.10.2001;Roma;Lazio;2;0;Serie A;Fair;ENE;2 mph;55 °F;88 %;29.75 in
+27.10.2001;Juventus;Inter;0;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+28.10.2001;Milan;Bologna;0;0;Serie A;Fair;VAR;1 mph;54 °F;94 %;29.94 in
+28.10.2001;Parma;Hellas Verona;2;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+28.10.2001;Udinese;Fiorentina;1;2;Serie A;Partly Cloudy;VAR;2 mph;50 °F;94 %;30.25 in
+28.10.2001;Chievo;Torino;3;0;Serie A;Fair;VAR;1 mph;54 °F;94 %;29.94 in
+28.10.2001;Brescia;Venezia;3;2;Serie A;Partly Cloudy;N;3 mph;54 °F;94 %;30.06 in
+28.10.2001;Lecce;Atalanta;0;2;Serie A;Partly Cloudy;SW;3 mph;57 °F;94 %;30.23 in
+28.10.2001;Perugia;Piacenza;1;0;Serie A;Fair;VAR;2 mph;50 °F;94 %;30.29 in
+03.11.2001;Venezia;Chievo;0;0;Serie A;Partly Cloudy;NE;12 mph;52 °F;50 %;30.01 in
+04.11.2001;Parma;Perugia;2;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+04.11.2001;Inter;Lecce;2;0;Serie A;Fair;VAR;1 mph;43 °F;93 %;29.97 in
+04.11.2001;Lazio;Brescia;5;0;Serie A;Fair;NNE;8 mph;52 °F;54 %;29.72 in
+04.11.2001;Bologna;Fiorentina;3;2;Serie A;N/A;SSW;5 mph;43 °F;93 %;30.21 in
+04.11.2001;Atalanta;Roma;1;1;Serie A;Fair;VAR;3 mph;43 °F;87 %;29.53 in
+04.11.2001;Piacenza;Udinese;1;2;Serie A;Fair;NNE;8 mph;52 °F;54 %;29.72 in
+04.11.2001;Torino;Milan;1;0;Serie A;Fair;VAR;1 mph;43 °F;93 %;29.34 in
+04.11.2001;Hellas Verona;Juventus;2;2;Serie A;Fair;NNW;2 mph;41 °F;100 %;30.12 in
+17.11.2001;Roma;Inter;0;0;Serie A;Fair;ENE;5 mph;52 °F;94 %;29.92 in
+18.11.2001;Milan;Piacenza;0;0;Serie A;Partly Cloudy;VAR;1 mph;39 °F;87 %;29.97 in
+18.11.2001;Juventus;Parma;3;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+18.11.2001;Udinese;Lazio;1;4;Serie A;Fair;NNE;5 mph;36 °F;60 %;30.31 in
+18.11.2001;Lecce;Bologna;1;0;Serie A;Fair;NNW;6 mph;54 °F;67 %;30.29 in
+18.11.2001;Atalanta;Venezia;1;0;Serie A;Partly Cloudy;NNE;6 mph;36 °F;75 %;29.50 in
+18.11.2001;Fiorentina;Torino;0;0;Serie A;Fair;VAR;2 mph;41 °F;87 %;30.19 in
+18.11.2001;Perugia;Brescia;1;1;Serie A;Partly Cloudy;VAR;3 mph;46 °F;87 %;30.35 in
+18.11.2001;Hellas Verona;Chievo;3;2;Serie A;Fair;CALM;0 mph;36 °F;100 %;30.12 in
+24.11.2001;Lazio;Juventus;1;0;Serie A;Fair / Windy;NNW;24 mph;43 °F;81 %;29.40 in
+25.11.2001;Parma;Milan;0;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+25.11.2001;Inter;Fiorentina;2;0;Serie A;Fair;CALM;0 mph;32 °F;87 %;29.65 in
+25.11.2001;Chievo;Perugia;2;0;Serie A;Fair;CALM;0 mph;32 °F;87 %;29.65 in
+25.11.2001;Bologna;Roma;1;3;Serie A;Fair;SSW;8 mph;37 °F;48 %;29.89 in
+25.11.2001;Brescia;Udinese;2;0;Serie A;Fair;E;5 mph;30 °F;93 %;29.79 in
+25.11.2001;Piacenza;Atalanta;1;2;Serie A;Fair;CALM;0 mph;37 °F;70 %;29.60 in
+25.11.2001;Torino;Hellas Verona;5;1;Serie A;Fair;WNW;5 mph;34 °F;81 %;29.02 in
+25.11.2001;Venezia;Lecce;1;1;Serie A;Fair;VAR;2 mph;37 °F;52 %;29.86 in
+01.12.2001;Juventus;Perugia;2;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+02.12.2001;Milan;Chievo;3;2;Serie A;Mostly Cloudy;CALM;0 mph;39 °F;93 %;29.85 in
+02.12.2001;Roma;Venezia;1;0;Serie A;Fair;NE;7 mph;43 °F;87 %;29.66 in
+02.12.2001;Udinese;Parma;3;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+02.12.2001;Bologna;Torino;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+02.12.2001;Lecce;Lazio;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+02.12.2001;Atalanta;Inter;2;4;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+02.12.2001;Fiorentina;Piacenza;1;3;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+02.12.2001;Hellas Verona;Brescia;2;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+08.12.2001;Piacenza;Bologna;2;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+09.12.2001;Milan;Juventus;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+09.12.2001;Parma;Roma;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+09.12.2001;Lazio;Fiorentina;3;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+09.12.2001;Udinese;Hellas Verona;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+09.12.2001;Chievo;Lecce;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+09.12.2001;Brescia;Inter;1;3;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+09.12.2001;Perugia;Venezia;2;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+09.12.2001;Torino;Atalanta;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+15.12.2001;Inter;Chievo;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+16.12.2001;Roma;Milan;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+16.12.2001;Juventus;Piacenza;2;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+16.12.2001;Bologna;Perugia;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+16.12.2001;Lecce;Torino;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+16.12.2001;Atalanta;Parma;4;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+16.12.2001;Fiorentina;Brescia;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+16.12.2001;Venezia;Udinese;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+16.12.2001;Hellas Verona;Lazio;3;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+19.12.2001;Roma;Brescia;0;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+19.12.2001;Inter;Hellas Verona;3;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+19.12.2001;Bologna;Udinese;0;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+19.12.2001;Lecce;Perugia;2;3;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+19.12.2001;Atalanta;Milan;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+19.12.2001;Fiorentina;Juventus;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+19.12.2001;Torino;Parma;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+19.12.2001;Venezia;Piacenza;2;3;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+22.12.2001;Lazio;Bologna;2;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+22.12.2001;Chievo;Roma;0;3;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+23.12.2001;Milan;Hellas Verona;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+23.12.2001;Parma;Fiorentina;2;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+23.12.2001;Udinese;Lecce;0;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+23.12.2001;Brescia;Juventus;0;4;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+23.12.2001;Perugia;Atalanta;2;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+23.12.2001;Piacenza;Inter;2;3;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+23.12.2001;Torino;Venezia;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+05.01.2002;Lecce;Milan;0;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+06.01.2002;Roma;Torino;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+06.01.2002;Juventus;Udinese;3;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+06.01.2002;Inter;Lazio;0;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+06.01.2002;Bologna;Brescia;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+06.01.2002;Atalanta;Chievo;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+06.01.2002;Fiorentina;Perugia;1;3;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+06.01.2002;Venezia;Parma;3;4;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+06.01.2002;Hellas Verona;Piacenza;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+13.01.2002;Milan;Brescia;0;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+13.01.2002;Roma;Hellas Verona;3;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+13.01.2002;Parma;Lecce;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+13.01.2002;Chievo;Fiorentina;2;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+13.01.2002;Atalanta;Bologna;2;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+13.01.2002;Perugia;Inter;0;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+13.01.2002;Piacenza;Lazio;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+13.01.2002;Torino;Udinese;3;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+13.01.2002;Venezia;Juventus;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+19.01.2002;Brescia;Torino;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+20.01.2002;Juventus;Atalanta;3;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+20.01.2002;Inter;Parma;2;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+20.01.2002;Lazio;Perugia;5;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+20.01.2002;Udinese;Roma;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+20.01.2002;Bologna;Chievo;3;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+20.01.2002;Lecce;Piacenza;0;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+20.01.2002;Fiorentina;Milan;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+20.01.2002;Hellas Verona;Venezia;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+26.01.2002;Parma;Bologna;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+27.01.2002;Milan;Udinese;2;3;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+27.01.2002;Roma;Piacenza;2;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+27.01.2002;Chievo;Juventus;1;3;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+27.01.2002;Lecce;Brescia;1;3;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+27.01.2002;Atalanta;Fiorentina;2;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+27.01.2002;Perugia;Hellas Verona;3;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+27.01.2002;Torino;Lazio;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+27.01.2002;Venezia;Inter;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+30.01.2002;Chievo;Lazio;3;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+02.02.2002;Inter;Torino;0;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+03.02.2002;Juventus;Lecce;3;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+03.02.2002;Lazio;Milan;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+03.02.2002;Udinese;Perugia;0;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+03.02.2002;Bologna;Venezia;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+03.02.2002;Brescia;Parma;1;4;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+03.02.2002;Fiorentina;Roma;2;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+03.02.2002;Piacenza;Chievo;2;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+03.02.2002;Hellas Verona;Atalanta;3;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+09.02.2002;Chievo;Udinese;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+10.02.2002;Milan;Perugia;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+10.02.2002;Roma;Juventus;0;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+10.02.2002;Parma;Lazio;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+10.02.2002;Bologna;Inter;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+10.02.2002;Lecce;Hellas Verona;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+10.02.2002;Atalanta;Brescia;0;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+10.02.2002;Torino;Piacenza;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+10.02.2002;Venezia;Fiorentina;2;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+16.02.2002;Milan;Atalanta;0;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+16.02.2002;Juventus;Fiorentina;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+17.02.2002;Parma;Torino;0;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+17.02.2002;Lazio;Chievo;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+17.02.2002;Udinese;Bologna;0;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+17.02.2002;Brescia;Roma;0;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+17.02.2002;Perugia;Lecce;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+17.02.2002;Piacenza;Venezia;5;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+17.02.2002;Hellas Verona;Inter;0;3;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+23.02.2002;Roma;Perugia;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+24.02.2002;Inter;Udinese;3;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+24.02.2002;Chievo;Brescia;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+24.02.2002;Bologna;Hellas Verona;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+24.02.2002;Atalanta;Lazio;0;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+24.02.2002;Fiorentina;Lecce;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+24.02.2002;Piacenza;Parma;2;3;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+24.02.2002;Torino;Juventus;2;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+24.02.2002;Venezia;Milan;1;4;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+03.03.2002;Milan;Inter;0;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+03.03.2002;Juventus;Bologna;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+03.03.2002;Lazio;Venezia;4;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+03.03.2002;Udinese;Atalanta;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+03.03.2002;Brescia;Piacenza;2;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+03.03.2002;Lecce;Roma;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+03.03.2002;Perugia;Torino;2;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+03.03.2002;Hellas Verona;Fiorentina;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+09.03.2002;Inter;Juventus;2;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+10.03.2002;Lazio;Roma;1;5;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+10.03.2002;Bologna;Milan;2;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+10.03.2002;Atalanta;Lecce;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+10.03.2002;Fiorentina;Udinese;0;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+10.03.2002;Piacenza;Perugia;2;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+10.03.2002;Torino;Chievo;2;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+10.03.2002;Venezia;Brescia;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+10.03.2002;Hellas Verona;Parma;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+13.03.2002;Parma;Chievo;0;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+16.03.2002;Roma;Atalanta;3;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+17.03.2002;Milan;Torino;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+17.03.2002;Juventus;Hellas Verona;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+17.03.2002;Udinese;Piacenza;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+17.03.2002;Chievo;Venezia;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+17.03.2002;Brescia;Lazio;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+17.03.2002;Lecce;Inter;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+17.03.2002;Fiorentina;Bologna;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+17.03.2002;Perugia;Parma;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+23.03.2002;Parma;Juventus;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+24.03.2002;Inter;Roma;3;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+24.03.2002;Lazio;Udinese;2;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+24.03.2002;Chievo;Hellas Verona;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+24.03.2002;Bologna;Lecce;4;3;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+24.03.2002;Brescia;Perugia;3;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+24.03.2002;Piacenza;Milan;0;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+24.03.2002;Torino;Fiorentina;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+24.03.2002;Venezia;Atalanta;0;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+30.03.2002;Milan;Parma;3;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+30.03.2002;Roma;Bologna;3;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+30.03.2002;Juventus;Lazio;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+30.03.2002;Udinese;Brescia;3;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+30.03.2002;Lecce;Venezia;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+30.03.2002;Atalanta;Piacenza;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+30.03.2002;Fiorentina;Inter;0;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+30.03.2002;Perugia;Chievo;2;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+30.03.2002;Hellas Verona;Torino;0;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+06.04.2002;Torino;Bologna;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+07.04.2002;Parma;Udinese;2;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+07.04.2002;Inter;Atalanta;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+07.04.2002;Lazio;Lecce;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+07.04.2002;Chievo;Milan;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+07.04.2002;Brescia;Hellas Verona;0;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+07.04.2002;Perugia;Juventus;0;4;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+07.04.2002;Piacenza;Fiorentina;3;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+07.04.2002;Venezia;Roma;2;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+14.04.2002;Roma;Parma;3;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+14.04.2002;Juventus;Milan;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+14.04.2002;Inter;Brescia;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+14.04.2002;Bologna;Piacenza;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+14.04.2002;Lecce;Chievo;2;3;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+14.04.2002;Atalanta;Torino;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+14.04.2002;Fiorentina;Lazio;0;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+14.04.2002;Venezia;Perugia;0;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+14.04.2002;Hellas Verona;Udinese;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+21.04.2002;Milan;Roma;0;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+21.04.2002;Parma;Atalanta;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+21.04.2002;Lazio;Hellas Verona;5;4;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+21.04.2002;Udinese;Venezia;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+21.04.2002;Chievo;Inter;2;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+21.04.2002;Brescia;Fiorentina;3;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+21.04.2002;Perugia;Bologna;1;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+21.04.2002;Piacenza;Juventus;0;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+21.04.2002;Torino;Lecce;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+28.04.2002;Roma;Chievo;5;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+28.04.2002;Juventus;Brescia;5;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+28.04.2002;Inter;Piacenza;3;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+28.04.2002;Bologna;Lazio;2;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+28.04.2002;Lecce;Udinese;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+28.04.2002;Atalanta;Perugia;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+28.04.2002;Fiorentina;Parma;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+28.04.2002;Venezia;Torino;1;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+28.04.2002;Hellas Verona;Milan;1;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+05.05.2002;Milan;Lecce;3;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+05.05.2002;Parma;Venezia;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+05.05.2002;Lazio;Inter;4;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+05.05.2002;Udinese;Juventus;0;2;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+05.05.2002;Chievo;Atalanta;2;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+05.05.2002;Brescia;Bologna;3;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+05.05.2002;Perugia;Fiorentina;2;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+05.05.2002;Piacenza;Hellas Verona;3;0;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in
+05.05.2002;Torino;Roma;0;1;Serie A;Mostly Cloudy;VAR;41 °F;1 mph;93 %;29.98 in

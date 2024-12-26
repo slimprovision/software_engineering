@@ -1,0 +1,381 @@
+date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+19.05.2013;Chelsea;Everton;2;1;Premier League;Fair;ENE;2 mph;54  °F;77%;29.78 in
+19.05.2013;Liverpool;QPR;1;0;Premier League;Mostly Cloudy;VAR;2 mph;50  °F;87%;29.70 in
+19.05.2013;Man. City;Norwich;2;3;Premier League;Mostly Cloudy;CALM;0 mph;48  °F;93%;29.52 in
+19.05.2013;Newcastle;Arsenal;0;1;Premier League;Cloudy;NNW;6 mph;46  °F;100%;29.48 in
+19.05.2013;Southampton;Stoke City;1;1;Premier League;Fair;NNE;3 mph;52  °F;82%;29.79 in
+19.05.2013;Swansea City;Fulham;0;3;Premier League;Fair;NW;10 mph;45  °F;100%;29.56 in
+19.05.2013;Tottenham;Sunderland;1;0;Premier League;Fair;ENE;2 mph;54  °F;77%;29.78 in
+19.05.2013;West Bromwich;Man. United;5;5;Premier League;Cloudy;NE;6 mph;50  °F;87%;29.45 in
+19.05.2013;West Ham;Reading;4;2;Premier League;Fair;ENE;2 mph;54  °F;77%;29.78 in
+19.05.2013;Wigan Ath;Aston Villa;2;2;Premier League;Mostly Cloudy;CALM;0 mph;48  °F;93%;29.52 in
+11.05.2013;Aston Villa;Chelsea;1;2;Premier League;Mostly Cloudy;SW;12 mph;46  °F;81%;29.48 in
+12.05.2013;Stoke City;Tottenham;1;2;Premier League;Partly Cloudy;SW;7 mph;43  °F;93%;29.55 in
+12.05.2013;Everton;West Ham;2;0;Premier League;Cloudy / Windy;WNW;25 mph;48  °F;82%;29.73 in
+12.05.2013;Fulham;Liverpool;1;3;Premier League;Fair;W;13 mph;45  °F;81%;29.87 in
+12.05.2013;Norwich;West Bromwich;4;0;Premier League;Fair;WSW;12 mph;43  °F;81%;29.67 in
+12.05.2013;QPR;Newcastle;1;2;Premier League;Fair;W;13 mph;45  °F;81%;29.87 in
+12.05.2013;Sunderland;Southampton;1;1;Premier League;Partly Cloudy;W;14 mph;45  °F;87%;29.39 in
+12.05.2013;Man. United;Swansea City;2;1;Premier League;Partly Cloudy;SW;7 mph;43  °F;93%;29.55 in
+14.05.2013;Arsenal;Wigan Ath;4;1;Premier League;Fair;WSW;15 mph;48  °F;71%;29.81 in
+14.05.2013;Reading;Man. City;0;2;Premier League;Fair;WSW;15 mph;48  °F;71%;29.81 in
+4.05.2013;Fulham;Reading;2;4;Premier League;Fair;WSW;13 mph;52  °F;62%;30.04 in
+4.05.2013;Norwich;Aston Villa;1;2;Premier League;Fair;SW;10 mph;50  °F;66%;29.85 in
+4.05.2013;Swansea City;Man. City;0;0;Premier League;Fair;WSW;12 mph;50  °F;87%;29.82 in
+4.05.2013;West Bromwich;Wigan Ath;2;3;Premier League;Fair;SSW;9 mph;50  °F;71%;29.62 in
+4.05.2013;West Ham;Newcastle;0;0;Premier League;Fair;WSW;13 mph;52  °F;62%;30.04 in
+4.05.2013;Tottenham;Southampton;1;0;Premier League;Fair;WSW;13 mph;52  °F;62%;30.04 in
+4.05.2013;QPR;Arsenal;0;1;Premier League;Fair;WSW;13 mph;52  °F;62%;30.04 in
+5.05.2013;Liverpool;Everton;0;0;Premier League;Fair;S;12 mph;48  °F;76%;29.97 in
+5.05.2013;Man. United;Chelsea;0;1;Premier League;Fair;SSE;8 mph;45  °F;81%;29.78 in
+6.05.2013;Sunderland;Stoke City;1;1;Premier League;Fair;SSW;5 mph;50  °F;71%;29.80 in
+27.04.2013;Man. City;West Ham;2;1;Premier League;Fair;CALM;0 mph;37  °F;93%;29.64 in
+27.04.2013;Everton;Fulham;1;0;Premier League;Fair;NW;10 mph;43  °F;76%;29.85 in
+27.04.2013;Southampton;West Bromwich;0;3;Premier League;Fair;NNW;5 mph;36  °F;87%;29.91 in
+27.04.2013;Stoke City;Norwich;1;0;Premier League;Fair;CALM;0 mph;37  °F;93%;29.64 in
+27.04.2013;Wigan Ath;Tottenham;2;2;Premier League;Fair;CALM;0 mph;37  °F;93%;29.64 in
+27.04.2013;Newcastle;Liverpool;0;6;Premier League;Fair;NW;9 mph;37  °F;87%;29.63 in
+28.04.2013;Reading;QPR;0;0;Premier League;Fair;N;5 mph;43  °F;76%;30.10 in
+28.04.2013;Chelsea;Swansea City;2;0;Premier League;Fair;N;5 mph;43  °F;76%;30.10 in
+28.04.2013;Arsenal;Man. United;1;1;Premier League;Fair;N;5 mph;43  °F;76%;30.10 in
+29.04.2013;Aston Villa;Sunderland;6;1;Premier League;Mostly Cloudy;WSW;10 mph;46  °F;87%;29.48 in
+20.04.2013;Fulham;Arsenal;0;1;Premier League;Fair;E;5 mph;41  °F;87%;30.49 in
+20.04.2013;Norwich;Reading;2;1;Premier League;Fair;CALM;0 mph;36  °F;87%;30.37 in
+20.04.2013;QPR;Stoke City;0;2;Premier League;Fair;E;5 mph;41  °F;87%;30.49 in
+20.04.2013;Sunderland;Everton;1;0;Premier League;Fair;S;3 mph;37  °F;75%;30.15 in
+20.04.2013;Swansea City;Southampton;0;0;Premier League;Fair;NNW;6 mph;43  °F;66%;30.23 in
+20.04.2013;West Bromwich;Newcastle;1;1;Premier League;Fair;SE;5 mph;37  °F;93%;30.15 in
+20.04.2013;West Ham;Wigan Ath;2;0;Premier League;Fair;E;5 mph;41  °F;87%;30.49 in
+21.04.2013;Tottenham;Man. City;3;1;Premier League;Fair;E;5 mph;39  °F;81%;30.37 in
+21.04.2013;Liverpool;Chelsea;2;2;Premier League;Fair;S;8 mph;46  °F;57%;30.20 in
+22.04.2013;Man. United;Aston Villa;3;0;Premier League;Fair;S;2 mph;37  °F;100%;29.70 in
+13.04.2013;Arsenal;Norwich;3;1;Premier League;Fair;WSW;10 mph;46  °F;87%;29.72 in
+13.04.2013;Aston Villa;Fulham;1;1;Premier League;Fair;WSW;7 mph;43  °F;81%;29.36 in
+13.04.2013;Everton;QPR;2;0;Premier League;Mostly Cloudy;VAR;3 mph;43  °F;87%;29.59 in
+13.04.2013;Reading;Liverpool;0;0;Premier League;Fair;WSW;10 mph;46  °F;87%;29.72 in
+13.04.2013;Southampton;West Ham;1;1;Premier League;Partly Cloudy;SSW;8 mph;43  °F;93%;29.82 in
+14.04.2013;Newcastle;Sunderland;0;3;Premier League;Mostly Cloudy;S;13 mph;50  °F;87%;29.31 in
+14.04.2013;Stoke City;Man. United;0;2;Premier League;Partly Cloudy;SSE;14 mph;54  °F;88%;29.40 in
+7.05.2013;Man. City;West Bromwich;1;0;Premier League;Fair;CALM;0 mph;54  °F;62%;29.78 in
+7.05.2013;Wigan Ath;Swansea City;2;3;Premier League;Fair;CALM;0 mph;54  °F;62%;29.78 in
+8.05.2013;Chelsea;Tottenham;2;2;Premier League;Fair;E;5 mph;54  °F;77%;29.87 in
+6.04.2013;Reading;Southampton;0;2;Premier League;Fair;N;7 mph;37  °F;75%;30.10 in
+6.04.2013;Norwich;Swansea City;2;2;Premier League;Fair;NNE;6 mph;34  °F;87%;29.99 in
+6.04.2013;Stoke City;Aston Villa;1;3;Premier League;Fair;N;6 mph;36  °F;70%;29.93 in
+6.04.2013;West Bromwich;Arsenal;1;2;Premier League;Fair;N;6 mph;32  °F;80%;29.83 in
+7.04.2013;Liverpool;West Ham;0;0;Premier League;Fair;VAR;3 mph;37  °F;70%;30.15 in
+7.04.2013;Tottenham;Everton;2;2;Premier League;Fair;ESE;3 mph;36  °F;75%;30.28 in
+7.04.2013;Chelsea;Sunderland;2;1;Premier League;Fair;ESE;3 mph;36  °F;75%;30.28 in
+7.04.2013;Newcastle;Fulham;1;0;Premier League;Fair;W;5 mph;36  °F;75%;29.92 in
+7.04.2013;QPR;Wigan Ath;1;1;Premier League;Fair;ESE;3 mph;36  °F;75%;30.28 in
+8.04.2013;Man. United;Man. City;1;2;Premier League;Fair;E;8 mph;41  °F;61%;29.61 in
+30.03.2013;Sunderland;Man. United;0;1;Premier League;Mostly Cloudy;ENE;5 mph;34  °F;81%;29.63 in
+30.03.2013;Arsenal;Reading;4;1;Premier League;Mostly Cloudy;NNE;6 mph;34  °F;75%;29.78 in
+30.03.2013;Man. City;Newcastle;4;0;Premier League;Partly Cloudy;NNE;5 mph;28  °F;80%;29.61 in
+30.03.2013;Southampton;Chelsea;2;1;Premier League;Mostly Cloudy;NE;7 mph;32  °F;80%;29.76 in
+30.03.2013;Swansea City;Tottenham;1;2;Premier League;Cloudy;ENE;16 mph;36  °F;65%;29.53 in
+30.03.2013;West Ham;West Bromwich;3;1;Premier League;Mostly Cloudy;NNE;6 mph;34  °F;75%;29.78 in
+30.03.2013;Wigan Ath;Norwich;1;0;Premier League;Partly Cloudy;NNE;5 mph;28  °F;80%;29.61 in
+30.03.2013;Everton;Stoke City;1;0;Premier League;Fair;NE;8 mph;30  °F;80%;29.79 in
+31.03.2013;Aston Villa;Liverpool;1;2;Premier League;Fair;NW;2 mph;25  °F;86%;29.62 in
+1.04.2013;Fulham;QPR;3;2;Premier League;Mostly Cloudy;ENE;6 mph;34  °F;75%;29.90 in
+16.03.2013;Everton;Man. City;2;0;Premier League;Fair;SSE;7 mph;41  °F;93%;29.29 in
+16.03.2013;Aston Villa;QPR;3;2;Premier League;Mostly Cloudy;S;8 mph;43  °F;93%;29.07 in
+16.03.2013;Southampton;Liverpool;3;1;Premier League;Mostly Cloudy;S;13 mph;43  °F;87%;29.38 in
+16.03.2013;Stoke City;West Bromwich;0;0;Premier League;Mostly Cloudy;SSE;6 mph;41  °F;93%;29.11 in
+16.03.2013;Swansea City;Arsenal;0;2;Premier League;Mostly Cloudy;SSW;9 mph;43  °F;93%;29.18 in
+16.03.2013;Man. United;Reading;1;0;Premier League;Mostly Cloudy;SSE;6 mph;41  °F;93%;29.11 in
+17.03.2013;Sunderland;Norwich;1;1;Premier League;Mostly Cloudy;NE;2 mph;36  °F;87%;28.95 in
+17.03.2013;Tottenham;Fulham;0;1;Premier League;Fair;SSW;13 mph;43  °F;81%;29.31 in
+17.03.2013;Chelsea;West Ham;2;0;Premier League;Fair;SSW;13 mph;43  °F;81%;29.31 in
+17.03.2013;Wigan Ath;Newcastle;2;1;Premier League;Mostly Cloudy;W;6 mph;32  °F;100%;28.94 in
+9.03.2013;Norwich;Southampton;0;0;Premier League;Cloudy;NNE;7 mph;39  °F;100%;29.40 in
+9.03.2013;QPR;Sunderland;3;1;Premier League;Partly Cloudy;NW;6 mph;46  °F;93%;29.54 in
+9.03.2013;Reading;Aston Villa;1;2;Premier League;Partly Cloudy;NW;6 mph;46  °F;93%;29.54 in
+9.03.2013;West Bromwich;Swansea City;2;1;Premier League;Cloudy;NE;7 mph;39  °F;100%;29.21 in
+10.03.2013;Newcastle;Stoke City;2;1;Premier League;Mostly Cloudy;ENE;15 mph;36  °F;75%;29.54 in
+10.03.2013;Liverpool;Tottenham;3;2;Premier League;Partly Cloudy;NE;7 mph;37  °F;93%;29.65 in
+16.04.2013;Arsenal;Everton;0;0;Premier League;Fair;S;7 mph;50  °F;76%;29.98 in
+17.04.2013;Man. City;Wigan Ath;1;0;Premier League;Fair;SSW;10 mph;45  °F;71%;29.70 in
+17.04.2013;West Ham;Man. United;2;2;Premier League;Cloudy;SSW;6 mph;52  °F;76%;30.07 in
+17.04.2013;Fulham;Chelsea;0;3;Premier League;Cloudy;SSW;6 mph;52  °F;76%;30.07 in
+2.03.2013;Chelsea;West Bromwich;1;0;Premier League;Cloudy;NE;8 mph;37  °F;75%;30.40 in
+2.03.2013;Everton;Reading;3;1;Premier League;Fair;NE;5 mph;37  °F;75%;30.35 in
+2.03.2013;Man. United;Norwich;4;0;Premier League;Mostly Cloudy;NE;3 mph;37  °F;70%;30.16 in
+2.03.2013;Southampton;QPR;1;2;Premier League;Mostly Cloudy;NE;5 mph;36  °F;70%;30.32 in
+2.03.2013;Stoke City;West Ham;0;1;Premier League;Mostly Cloudy;NE;3 mph;37  °F;70%;30.16 in
+2.03.2013;Sunderland;Fulham;2;2;Premier League;Fair;WSW;2 mph;30  °F;93%;30.15 in
+2.03.2013;Swansea City;Newcastle;1;0;Premier League;Mostly Cloudy;E;8 mph;41  °F;65%;30.17 in
+2.03.2013;Wigan Ath;Liverpool;0;4;Premier League;Mostly Cloudy;NE;3 mph;37  °F;70%;30.16 in
+3.03.2013;Tottenham;Arsenal;2;1;Premier League;Fair;CALM;0 mph;32  °F;93%;30.28 in
+4.03.2013;Aston Villa;Man. City;0;1;Premier League;Fair;ESE;7 mph;36  °F;93%;29.74 in
+17.02.2013;Liverpool;Swansea City;5;0;Premier League;Fair;SSE;5 mph;41  °F;93%;30.06 in
+23.02.2013;Fulham;Stoke City;1;0;Premier League;Cloudy;NNE;9 mph;34  °F;70%;30.07 in
+23.02.2013;Arsenal;Aston Villa;2;1;Premier League;Cloudy;NNE;9 mph;34  °F;70%;30.07 in
+23.02.2013;Norwich;Everton;2;1;Premier League;Cloudy;NE;8 mph;32  °F;75%;29.99 in
+23.02.2013;QPR;Man. United;0;2;Premier League;Cloudy;NNE;9 mph;34  °F;70%;30.07 in
+23.02.2013;Reading;Wigan Ath;0;3;Premier League;Cloudy;NNE;9 mph;34  °F;70%;30.07 in
+23.02.2013;West Bromwich;Sunderland;2;1;Premier League;Mostly Cloudy;N;7 mph;32  °F;75%;29.80 in
+24.02.2013;Man. City;Chelsea;2;0;Premier League;Mostly Cloudy;ENE;3 mph;32  °F;80%;30.02 in
+24.02.2013;Newcastle;Southampton;4;2;Premier League;Partly Cloudy;N;5 mph;32  °F;93%;30.04 in
+25.02.2013;West Ham;Tottenham;2;3;Premier League;Mostly Cloudy;NNW;10 mph;36  °F;75%;30.25 in
+9.02.2013;Tottenham;Newcastle;2;1;Premier League;Mostly Cloudy;NNW;13 mph;37  °F;81%;30.13 in
+9.02.2013;Chelsea;Wigan Ath;4;1;Premier League;Mostly Cloudy;NNW;13 mph;37  °F;81%;30.13 in
+9.02.2013;Norwich;Fulham;0;0;Premier League;Fair;WNW;6 mph;0  °F;93%;29.99 in
+9.02.2013;Stoke City;Reading;2;1;Premier League;Fair;S;2 mph;36  °F;93%;29.87 in
+9.02.2013;Sunderland;Arsenal;0;1;Premier League;Fair;SW;3 mph;36  °F;93%;29.83 in
+9.02.2013;Swansea City;QPR;4;1;Premier League;Mostly Cloudy;NW;9 mph;39  °F;93%;29.97 in
+9.02.2013;Southampton;Man. City;3;1;Premier League;Mostly Cloudy;WNW;6 mph;36  °F;87%;30.12 in
+10.02.2013;Aston Villa;West Ham;2;1;Premier League;Cloudy;SE;6 mph;36  °F;100%;29.48 in
+10.02.2013;Man. United;Everton;2;0;Premier League;Mostly Cloudy;ESE;3 mph;37  °F;93%;29.52 in
+11.02.2013;Liverpool;West Bromwich;0;2;Premier League;Partly Cloudy;ESE;17 mph;37  °F;87%;29.20 in
+2.02.2013;QPR;Norwich;0;0;Premier League;Fair;WNW;9 mph;41  °F;87%;29.57 in
+2.02.2013;Arsenal;Stoke City;1;0;Premier League;Fair;WNW;9 mph;41  °F;87%;29.57 in
+2.02.2013;Everton;Aston Villa;3;3;Premier League;Fair;NNW;13 mph;39  °F;81%;29.65 in
+2.02.2013;Newcastle;Chelsea;3;2;Premier League;Partly Cloudy;NNW;12 mph;34  °F;93%;29.42 in
+2.02.2013;Reading;Sunderland;2;1;Premier League;Fair;WNW;9 mph;41  °F;87%;29.57 in
+2.02.2013;West Ham;Swansea City;1;0;Premier League;Fair;WNW;9 mph;41  °F;87%;29.57 in
+2.02.2013;Wigan Ath;Southampton;2;2;Premier League;Partly Cloudy;NW;6 mph;37  °F;87%;29.43 in
+2.02.2013;Fulham;Man. United;0;1;Premier League;Fair;WNW;9 mph;41  °F;87%;29.57 in
+3.02.2013;West Bromwich;Tottenham;0;1;Premier League;Fair;WSW;6 mph;32  °F;87%;29.86 in
+3.02.2013;Man. City;Liverpool;2;2;Premier League;Fair;S;6 mph;28  °F;93%;29.90 in
+29.01.2013;Aston Villa;Newcastle;1;2;Premier League;Mostly Cloudy;SW;18 mph;50  °F;71%;29.13 in
+29.01.2013;QPR;Man. City;0;0;Premier League;Fair;SW;15 mph;52  °F;76%;29.60 in
+29.01.2013;Stoke City;Wigan Ath;2;2;Premier League;Mostly Cloudy;SW;20 mph;48  °F;76%;29.11 in
+29.01.2013;Sunderland;Swansea City;0;0;Premier League;Fair / Windy;WSW;23 mph;46  °F;71%;28.84 in
+30.01.2013;Arsenal;Liverpool;2;2;Premier League;Mostly Cloudy / Windy;SSW;21 mph;55  °F;82%;29.54 in
+30.01.2013;Norwich;Tottenham;1;1;Premier League;Cloudy / Windy;SW;21 mph;54  °F;88%;29.32 in
+30.01.2013;Everton;West Bromwich;2;1;Premier League;Fair;SW;14 mph;50  °F;76%;29.29 in
+30.01.2013;Man. United;Southampton;2;1;Premier League;Fair;SW;17 mph;48  °F;82%;29.11 in
+30.01.2013;Reading;Chelsea;2;2;Premier League;Mostly Cloudy / Windy;SSW;21 mph;55  °F;82%;29.54 in
+30.01.2013;Fulham;West Ham;3;1;Premier League;Mostly Cloudy / Windy;SSW;21 mph;55  °F;82%;29.54 in
+19.01.2013;Liverpool;Norwich;5;0;Premier League;Mostly Cloudy;ESE;16 mph;32  °F;80%;29.38 in
+19.01.2013;Man. City;Fulham;2;0;Premier League;Partly Cloudy;E;8 mph;32  °F;80%;29.20 in
+19.01.2013;Newcastle;Reading;1;2;Premier League;Partly Cloudy;SE;8 mph;32  °F;100%;29.28 in
+19.01.2013;Swansea City;Stoke City;3;1;Premier League;Mostly Cloudy;E;14 mph;0  °F;100%;29.12 in
+19.01.2013;West Ham;QPR;1;1;Premier League;Cloudy;E;13 mph;0  °F;87%;29.42 in
+19.01.2013;Wigan Ath;Sunderland;2;3;Premier League;Partly Cloudy;E;8 mph;32  °F;80%;29.20 in
+19.01.2013;West Bromwich;Aston Villa;2;2;Premier League;Mostly Cloudy;E;10 mph;28  °F;93%;29.10 in
+20.01.2013;Chelsea;Arsenal;2;1;Premier League;Mostly Cloudy;N;8 mph;0  °F;80%;29.45 in
+20.01.2013;Tottenham;Man. United;1;1;Premier League;Mostly Cloudy;N;8 mph;0  °F;80%;29.45 in
+21.01.2013;Southampton;Everton;0;0;Premier League;Mostly Cloudy;S;1 mph;30  °F;86%;29.26 in
+12.01.2013;QPR;Tottenham;0;0;Premier League;Fair;E;5 mph;34  °F;93%;29.98 in
+12.01.2013;Aston Villa;Southampton;0;1;Premier League;Partly Cloudy;SE;8 mph;36  °F;93%;29.59 in
+12.01.2013;Everton;Swansea City;0;0;Premier League;Mostly Cloudy;ESE;9 mph;39  °F;100%;29.82 in
+12.01.2013;Fulham;Wigan Ath;1;1;Premier League;Fair;E;5 mph;34  °F;93%;29.98 in
+12.01.2013;Norwich;Newcastle;0;0;Premier League;Fair;ESE;3 mph;32  °F;100%;29.90 in
+12.01.2013;Reading;West Bromwich;3;2;Premier League;Fair;E;5 mph;34  °F;93%;29.98 in
+12.01.2013;Stoke City;Chelsea;0;4;Premier League;Fair;ESE;8 mph;37  °F;93%;29.67 in
+12.01.2013;Sunderland;West Ham;3;0;Premier League;Mostly Cloudy;SSE;3 mph;39  °F;93%;29.69 in
+13.01.2013;Man. United;Liverpool;2;1;Premier League;Fair;NE;5 mph;30  °F;100%;29.78 in
+13.01.2013;Arsenal;Man. City;0;2;Premier League;Mostly Cloudy;NE;10 mph;39  °F;81%;29.96 in
+1.01.2013;West Bromwich;Fulham;1;2;Premier League;Fair;WNW;8 mph;45  °F;87%;29.13 in
+1.01.2013;Man. City;Stoke City;3;0;Premier League;Partly Cloudy;WSW;8 mph;41  °F;87%;29.20 in
+1.01.2013;Swansea City;Aston Villa;2;2;Premier League;Fair;WNW;15 mph;45  °F;87%;29.33 in
+1.01.2013;Tottenham;Reading;3;1;Premier League;Mostly Cloudy;SW;9 mph;50  °F;87%;29.48 in
+1.01.2013;West Ham;Norwich;2;1;Premier League;Mostly Cloudy;SW;9 mph;50  °F;87%;29.48 in
+1.01.2013;Wigan Ath;Man. United;0;4;Premier League;Partly Cloudy;WSW;8 mph;41  °F;87%;29.20 in
+1.01.2013;Southampton;Arsenal;1;1;Premier League;Fair;W;8 mph;39  °F;87%;29.68 in
+2.01.2013;Chelsea;QPR;0;1;Premier League;Partly Cloudy;WSW;9 mph;41  °F;81%;30.01 in
+2.01.2013;Liverpool;Sunderland;3;0;Premier League;Partly Cloudy;WNW;17 mph;45  °F;87%;29.91 in
+2.01.2013;Newcastle;Everton;1;2;Premier League;Fair;W;8 mph;39  °F;87%;29.60 in
+29.12.2012;Sunderland;Tottenham;1;2;Premier League;Mostly Cloudy / Windy;SW;25 mph;54  °F;82%;29.07 in
+29.12.2012;Aston Villa;Wigan Ath;0;3;Premier League;Cloudy;SSW;17 mph;52  °F;88%;29.33 in
+29.12.2012;Fulham;Swansea City;1;2;Premier League;Mostly Cloudy;SSW;17 mph;54  °F;82%;29.84 in
+29.12.2012;Man. United;West Bromwich;2;0;Premier League;Mostly Cloudy / Windy;S;22 mph;54  °F;82%;29.32 in
+29.12.2012;Norwich;Man. City;3;4;Premier League;Cloudy;SSW;18 mph;52  °F;88%;29.67 in
+29.12.2012;Reading;West Ham;1;0;Premier League;Mostly Cloudy;SSW;17 mph;54  °F;82%;29.84 in
+29.12.2012;Stoke City;Southampton;3;3;Premier League;Mostly Cloudy / Windy;S;22 mph;54  °F;82%;29.32 in
+29.12.2012;Arsenal;Newcastle;7;3;Premier League;Mostly Cloudy;SSW;17 mph;54  °F;82%;29.84 in
+30.12.2012;Everton;Chelsea;1;2;Premier League;Partly Cloudy;SW;15 mph;43  °F;81%;29.38 in
+30.12.2012;QPR;Liverpool;0;3;Premier League;Fair;SSW;14 mph;45  °F;76%;29.63 in
+26.12.2012;Everton;Wigan Ath;2;1;Premier League;Fair;WSW;12 mph;43  °F;81%;29.47 in
+26.12.2012;Fulham;Southampton;1;1;Premier League;Fair;SW;6 mph;43  °F;87%;29.60 in
+26.12.2012;Man. United;Newcastle;4;3;Premier League;Partly Cloudy;SSW;6 mph;39  °F;87%;29.26 in
+26.12.2012;Norwich;Chelsea;0;1;Premier League;Fair;WSW;13 mph;41  °F;87%;29.40 in
+26.12.2012;Reading;Swansea City;0;0;Premier League;Fair;SW;6 mph;43  °F;87%;29.60 in
+26.12.2012;Sunderland;Man. City;1;0;Premier League;Fair;W;17 mph;41  °F;81%;29.07 in
+26.12.2012;QPR;West Bromwich;1;2;Premier League;Fair;SW;6 mph;43  °F;87%;29.60 in
+26.12.2012;Aston Villa;Tottenham;0;4;Premier League;Fair;WSW;8 mph;43  °F;87%;29.21 in
+26.12.2012;Stoke City;Liverpool;3;1;Premier League;Partly Cloudy;SSW;6 mph;39  °F;87%;29.26 in
+23.01.2013;Arsenal;West Ham;5;1;Premier League;Cloudy;ENE;14 mph;37  °F;75%;29.69 in
+22.12.2012;Wigan Ath;Arsenal;0;1;Premier League;Mostly Cloudy;SE;5 mph;43  °F;93%;29.55 in
+22.12.2012;Man. City;Reading;1;0;Premier League;Mostly Cloudy;SE;5 mph;43  °F;93%;29.55 in
+22.12.2012;Newcastle;QPR;1;0;Premier League;Cloudy;VAR;2 mph;41  °F;100%;29.57 in
+22.12.2012;Southampton;Sunderland;0;1;Premier League;Partly Cloudy;SE;10 mph;46  °F;93%;29.68 in
+22.12.2012;Tottenham;Stoke City;0;0;Premier League;Fair;SSW;5 mph;45  °F;87%;29.93 in
+22.12.2012;West Bromwich;Norwich;2;1;Premier League;Mostly Cloudy;SSW;6 mph;43  °F;100%;29.54 in
+22.12.2012;West Ham;Everton;1;2;Premier League;Fair;SSW;5 mph;45  °F;87%;29.93 in
+22.12.2012;Liverpool;Fulham;4;0;Premier League;Partly Cloudy;ESE;8 mph;43  °F;93%;29.73 in
+23.12.2012;Swansea City;Man. United;1;1;Premier League;Mostly Cloudy;WSW;15 mph;54  °F;94%;29.30 in
+23.12.2012;Chelsea;Aston Villa;8;0;Premier League;Mostly Cloudy;SW;13 mph;55  °F;88%;29.54 in
+15.12.2012;Newcastle;Man. City;1;3;Premier League;Partly Cloudy;W;9 mph;39  °F;93%;28.37 in
+15.12.2012;Liverpool;Aston Villa;1;3;Premier League;Partly Cloudy;WSW;12 mph;45  °F;87%;28.76 in
+15.12.2012;Man. United;Sunderland;3;1;Premier League;Mostly Cloudy;WSW;12 mph;43  °F;93%;28.58 in
+15.12.2012;Norwich;Wigan Ath;2;1;Premier League;Fair;SSW;14 mph;43  °F;87%;28.99 in
+15.12.2012;QPR;Fulham;2;1;Premier League;Fair;SSW;12 mph;46  °F;81%;29.04 in
+15.12.2012;Stoke City;Everton;1;1;Premier League;Mostly Cloudy;WSW;12 mph;43  °F;93%;28.58 in
+16.12.2012;Tottenham;Swansea City;1;0;Premier League;Partly Cloudy;SW;9 mph;45  °F;87%;29.42 in
+16.12.2012;West Bromwich;West Ham;0;0;Premier League;Fair;VAR;3 mph;39  °F;100%;29.04 in
+17.12.2012;Reading;Arsenal;2;5;Premier League;Fair;SW;9 mph;45  °F;87%;29.48 in
+16.01.2013;Chelsea;Southampton;2;2;Premier League;Fair;ENE;2 mph;30  °F;93%;29.87 in
+8.12.2012;Arsenal;West Bromwich;2;0;Premier League;Cloudy;NNW;9 mph;41  °F;81%;29.96 in
+8.12.2012;Aston Villa;Stoke City;0;0;Premier League;Mostly Cloudy;NNW;12 mph;41  °F;81%;29.68 in
+8.12.2012;Southampton;Reading;1;0;Premier League;Mostly Cloudy;VAR;2 mph;39  °F;81%;30.15 in
+8.12.2012;Sunderland;Chelsea;1;3;Premier League;Partly Cloudy;W;3 mph;37  °F;100%;29.74 in
+8.12.2012;Swansea City;Norwich;3;4;Premier League;Mostly Cloudy;NNW;9 mph;43  °F;76%;29.82 in
+8.12.2012;Wigan Ath;QPR;2;2;Premier League;Mostly Cloudy;NNE;5 mph;39  °F;87%;29.78 in
+9.12.2012;Man. City;Man. United;2;3;Premier League;Mostly Cloudy;W;16 mph;45  °F;93%;29.90 in
+9.12.2012;Everton;Tottenham;2;1;Premier League;Mostly Cloudy / Windy;W;26 mph;46  °F;87%;30.09 in
+9.12.2012;West Ham;Liverpool;2;3;Premier League;Fair;SW;9 mph;39  °F;81%;30.22 in
+10.12.2012;Fulham;Newcastle;2;1;Premier League;Fair;WNW;12 mph;43  °F;70%;30.01 in
+1.12.2012;West Ham;Chelsea;3;1;Premier League;Fair;W;2 mph;32  °F;93%;29.93 in
+1.12.2012;Arsenal;Swansea City;0;2;Premier League;Fair;W;2 mph;32  °F;93%;29.93 in
+1.12.2012;Fulham;Tottenham;0;3;Premier League;Fair;W;2 mph;32  °F;93%;29.93 in
+1.12.2012;Liverpool;Southampton;1;0;Premier League;Fair;ENE;6 mph;30  °F;93%;29.85 in
+1.12.2012;Man. City;Everton;1;1;Premier League;Cloudy;SE;2 mph;28  °F;100%;29.67 in
+1.12.2012;QPR;Aston Villa;1;1;Premier League;Fair;W;2 mph;32  °F;93%;29.93 in
+1.12.2012;West Bromwich;Stoke City;0;1;Premier League;Fair;CALM;0 mph;28  °F;100%;29.59 in
+1.12.2012;Reading;Man. United;3;4;Premier League;Fair;W;2 mph;32  °F;93%;29.93 in
+2.12.2012;Norwich;Sunderland;2;1;Premier League;Mostly Cloudy;W;9 mph;32  °F;93%;29.76 in
+3.12.2012;Newcastle;Wigan Ath;3;0;Premier League;Fair;CALM;0 mph;32  °F;93%;29.51 in
+27.11.2012;Sunderland;QPR;0;0;Premier League;Mostly Cloudy / Windy;NNE;21 mph;43  °F;100%;29.39 in
+27.11.2012;Aston Villa;Reading;1;0;Premier League;Mostly Cloudy;NW;10 mph;43  °F;100%;29.18 in
+28.11.2012;Southampton;Norwich;1;1;Premier League;Mostly Cloudy;N;12 mph;43  °F;81%;29.85 in
+28.11.2012;Stoke City;Newcastle;2;1;Premier League;Mostly Cloudy;WNW;7 mph;41  °F;81%;29.70 in
+28.11.2012;Swansea City;West Bromwich;3;1;Premier League;Mostly Cloudy;N;10 mph;43  °F;76%;29.74 in
+28.11.2012;Tottenham;Liverpool;2;1;Premier League;Mostly Cloudy;NNW;8 mph;43  °F;87%;29.81 in
+28.11.2012;Chelsea;Fulham;0;0;Premier League;Mostly Cloudy;NNW;8 mph;43  °F;87%;29.81 in
+28.11.2012;Everton;Arsenal;1;1;Premier League;Fair;NW;8 mph;41  °F;81%;29.91 in
+28.11.2012;Man. United;West Ham;1;0;Premier League;Mostly Cloudy;WNW;7 mph;41  °F;81%;29.70 in
+28.11.2012;Wigan Ath;Man. City;0;2;Premier League;Mostly Cloudy;WNW;7 mph;41  °F;81%;29.70 in
+24.11.2012;Sunderland;West Bromwich;2;4;Premier League;Fair;SW;6 mph;37  °F;93%;29.60 in
+24.11.2012;Everton;Norwich;1;1;Premier League;Fair;SSE;7 mph;41  °F;93%;29.85 in
+24.11.2012;Man. United;QPR;3;1;Premier League;Fair;SSE;7 mph;39  °F;87%;29.67 in
+24.11.2012;Stoke City;Fulham;1;0;Premier League;Fair;SSE;7 mph;39  °F;87%;29.67 in
+24.11.2012;Wigan Ath;Reading;3;2;Premier League;Fair;SSE;7 mph;39  °F;87%;29.67 in
+24.11.2012;Aston Villa;Arsenal;0;0;Premier League;Fair;SSE;3 mph;36  °F;100%;29.62 in
+25.11.2012;Swansea City;Liverpool;0;0;Premier League;Partly Cloudy;NNW;13 mph;48  °F;100%;29.09 in
+25.11.2012;Southampton;Newcastle;2;0;Premier League;Fair;WSW;15 mph;45  °F;66%;29.65 in
+25.11.2012;Chelsea;Man. City;0;0;Premier League;Mostly Cloudy;E;13 mph;50  °F;94%;29.31 in
+25.11.2012;Tottenham;West Ham;3;1;Premier League;Mostly Cloudy;E;13 mph;50  °F;94%;29.31 in
+17.11.2012;Arsenal;Tottenham;5;2;Premier League;Mostly Cloudy;ENE;2 mph;50  °F;87%;29.75 in
+17.11.2012;Liverpool;Wigan Ath;3;0;Premier League;Mostly Cloudy;SSE;5 mph;45  °F;100%;29.62 in
+17.11.2012;Man. City;Aston Villa;5;0;Premier League;Mostly Cloudy;NW;2 mph;45  °F;100%;29.43 in
+17.11.2012;Newcastle;Swansea City;1;2;Premier League;Mostly Cloudy;SSW;5 mph;45  °F;93%;29.42 in
+17.11.2012;QPR;Southampton;1;3;Premier League;Mostly Cloudy;ENE;2 mph;50  °F;87%;29.75 in
+17.11.2012;Reading;Everton;2;1;Premier League;Mostly Cloudy;ENE;2 mph;50  °F;87%;29.75 in
+17.11.2012;West Bromwich;Chelsea;2;1;Premier League;Cloudy;S;6 mph;46  °F;100%;29.36 in
+17.11.2012;Norwich;Man. United;1;0;Premier League;Mostly Cloudy;S;10 mph;46  °F;100%;29.64 in
+18.11.2012;Fulham;Sunderland;1;3;Premier League;Fair;WNW;7 mph;46  °F;76%;29.87 in
+19.11.2012;West Ham;Stoke City;1;1;Premier League;Fair;SE;5 mph;43  °F;70%;29.96 in
+10.11.2012;Arsenal;Fulham;3;3;Premier League;Cloudy;S;5 mph;48  °F;82%;29.54 in
+10.11.2012;Everton;Sunderland;2;1;Premier League;Fair;SSW;8 mph;46  °F;93%;29.35 in
+10.11.2012;Reading;Norwich;0;0;Premier League;Cloudy;S;5 mph;48  °F;82%;29.54 in
+10.11.2012;Southampton;Swansea City;1;1;Premier League;Partly Cloudy;SW;1 mph;46  °F;93%;29.41 in
+10.11.2012;Stoke City;QPR;1;0;Premier League;Fair;S;9 mph;46  °F;93%;29.17 in
+10.11.2012;Wigan Ath;West Bromwich;1;2;Premier League;Fair;S;9 mph;46  °F;93%;29.17 in
+10.11.2012;Aston Villa;Man. United;2;3;Premier League;Mostly Cloudy;SW;6 mph;46  °F;93%;29.16 in
+11.11.2012;Man. City;Tottenham;2;1;Premier League;Mostly Cloudy;WSW;5 mph;39  °F;100%;29.26 in
+11.11.2012;Newcastle;West Ham;0;1;Premier League;Fair;W;9 mph;39  °F;93%;29.19 in
+11.11.2012;Chelsea;Liverpool;1;1;Premier League;Fair;SSW;7 mph;43  °F;87%;29.57 in
+3.11.2012;Man. United;Arsenal;2;1;Premier League;Fair;S;10 mph;37  °F;93%;29.02 in
+3.11.2012;Fulham;Everton;2;2;Premier League;Fair;SSW;5 mph;41  °F;81%;29.39 in
+3.11.2012;Norwich;Stoke City;1;0;Premier League;Fair;SSW;8 mph;36  °F;93%;29.23 in
+3.11.2012;Sunderland;Aston Villa;0;1;Premier League;Fair;CALM;0 mph;36  °F;93%;28.93 in
+3.11.2012;Swansea City;Chelsea;1;1;Premier League;Mostly Cloudy;SSW;9 mph;46  °F;81%;29.12 in
+3.11.2012;Tottenham;Wigan Ath;0;1;Premier League;Fair;SSW;5 mph;41  °F;81%;29.39 in
+3.11.2012;West Ham;Man. City;0;0;Premier League;Fair;SSW;5 mph;41  °F;81%;29.39 in
+4.11.2012;QPR;Reading;1;1;Premier League;Fair;SSE;2 mph;41  °F;81%;29.51 in
+4.11.2012;Liverpool;Newcastle;1;1;Premier League;Fair;S;18 mph;39  °F;93%;29.29 in
+5.11.2012;West Bromwich;Southampton;2;0;Premier League;Mostly Cloudy;N;6 mph;36  °F;100%;29.13 in
+27.10.2012;Aston Villa;Norwich;1;1;Premier League;Fair;N;13 mph;36  °F;70%;29.62 in
+27.10.2012;Arsenal;QPR;1;0;Premier League;Mostly Cloudy;NNW;14 mph;39  °F;81%;29.84 in
+27.10.2012;Reading;Fulham;3;3;Premier League;Mostly Cloudy;NNW;14 mph;39  °F;81%;29.84 in
+27.10.2012;Stoke City;Sunderland;0;0;Premier League;Fair;NNW;5 mph;34  °F;70%;29.76 in
+27.10.2012;Wigan Ath;West Ham;2;1;Premier League;Fair;NNW;5 mph;34  °F;70%;29.76 in
+27.10.2012;Man. City;Swansea City;1;0;Premier League;Fair;NNW;5 mph;34  °F;70%;29.76 in
+28.10.2012;Everton;Liverpool;2;2;Premier League;Partly Cloudy;W;18 mph;45  °F;87%;30.03 in
+28.10.2012;Newcastle;West Bromwich;2;1;Premier League;Mostly Cloudy;W;9 mph;41  °F;87%;29.69 in
+28.10.2012;Southampton;Tottenham;1;2;Premier League;Mostly Cloudy;E;1 mph;32  °F;100%;30.03 in
+28.10.2012;Chelsea;Man. United;2;3;Premier League;Fair;NW;6 mph;41  °F;81%;30.13 in
+20.10.2012;Tottenham;Chelsea;2;4;Premier League;Mostly Cloudy;W;3 mph;54  °F;94%;29.78 in
+20.10.2012;Fulham;Aston Villa;1;0;Premier League;Mostly Cloudy;W;3 mph;54  °F;94%;29.78 in
+20.10.2012;Liverpool;Reading;1;0;Premier League;Fair;SSE;6 mph;50  °F;94%;29.70 in
+20.10.2012;Man. United;Stoke City;4;2;Premier League;Fair;SE;3 mph;48  °F;93%;29.52 in
+20.10.2012;Swansea City;Wigan Ath;2;1;Premier League;Fair;WSW;5 mph;54  °F;88%;29.59 in
+20.10.2012;West Bromwich;Man. City;1;2;Premier League;Fair;VAR;5 mph;50  °F;94%;29.48 in
+20.10.2012;West Ham;Southampton;4;1;Premier League;Mostly Cloudy;W;3 mph;54  °F;94%;29.78 in
+20.10.2012;Norwich;Arsenal;1;0;Premier League;Cloudy;VAR;2 mph;54  °F;94%;29.64 in
+21.10.2012;Sunderland;Newcastle;1;1;Premier League;Partly Cloudy;CALM;0 mph;46  °F;87%;29.77 in
+21.10.2012;QPR;Everton;1;1;Premier League;Partly Cloudy;ENE;2 mph;52  °F;94%;30.07 in
+6.10.2012;Man. City;Sunderland;3;0;Premier League;Mostly Cloudy;VAR;2 mph;48  °F;87%;29.52 in
+6.10.2012;Chelsea;Norwich;4;1;Premier League;Partly Cloudy;ENE;7 mph;48  °F;93%;29.81 in
+6.10.2012;Swansea City;Reading;2;2;Premier League;Mostly Cloudy;NNE;10 mph;46  °F;93%;29.56 in
+6.10.2012;West Bromwich;QPR;3;2;Premier League;Partly Cloudy;SSW;6 mph;46  °F;100%;29.45 in
+6.10.2012;Wigan Ath;Everton;2;2;Premier League;Mostly Cloudy;VAR;2 mph;48  °F;87%;29.52 in
+6.10.2012;West Ham;Arsenal;1;3;Premier League;Partly Cloudy;ENE;7 mph;48  °F;93%;29.81 in
+7.10.2012;Southampton;Fulham;2;2;Premier League;Fair;NE;2 mph;36  °F;100%;30.09 in
+7.10.2012;Liverpool;Stoke City;0;0;Premier League;Fair;WNW;5 mph;48  °F;93%;29.97 in
+7.10.2012;Tottenham;Aston Villa;2;0;Premier League;Fair;CALM;0 mph;48  °F;87%;30.01 in
+7.10.2012;Newcastle;Man. United;0;3;Premier League;Fair;W;2 mph;41  °F;93%;29.74 in
+29.09.2012;Arsenal;Chelsea;1;2;Premier League;Fair;WSW;10 mph;54  °F;82%;29.93 in
+29.09.2012;Everton;Southampton;3;1;Premier League;Fair;WSW;15 mph;50  °F;87%;29.76 in
+29.09.2012;Fulham;Man. City;1;2;Premier League;Fair;WSW;10 mph;54  °F;82%;29.93 in
+29.09.2012;Norwich;Liverpool;2;5;Premier League;Fair;SW;8 mph;50  °F;87%;29.76 in
+29.09.2012;Reading;Newcastle;2;2;Premier League;Fair;WSW;10 mph;54  °F;82%;29.93 in
+29.09.2012;Stoke City;Swansea City;2;0;Premier League;Fair;WSW;5 mph;46  °F;93%;29.58 in
+29.09.2012;Sunderland;Wigan Ath;1;0;Premier League;Fair;W;12 mph;46  °F;87%;29.45 in
+29.09.2012;Man. United;Tottenham;2;3;Premier League;Fair;WSW;5 mph;46  °F;93%;29.58 in
+30.09.2012;Aston Villa;West Bromwich;1;1;Premier League;Fair;SSW;9 mph;46  °F;81%;29.77 in
+1.10.2012;QPR;West Ham;1;2;Premier League;Cloudy;SSW;12 mph;59  °F;77%;29.96 in
+22.09.2012;Swansea City;Everton;0;3;Premier League;Fair;NE;10 mph;50  °F;87%;29.79 in
+22.09.2012;Chelsea;Stoke City;1;0;Premier League;Mostly Cloudy;NW;5 mph;52  °F;88%;29.98 in
+22.09.2012;Southampton;Aston Villa;4;1;Premier League;Fair;N;8 mph;52  °F;88%;30.03 in
+22.09.2012;West Bromwich;Reading;1;0;Premier League;Fair;NNW;5 mph;45  °F;100%;29.71 in
+22.09.2012;West Ham;Sunderland;1;1;Premier League;Mostly Cloudy;NW;5 mph;52  °F;88%;29.98 in
+22.09.2012;Wigan Ath;Fulham;1;2;Premier League;Fair;NNW;3 mph;43  °F;93%;29.81 in
+23.09.2012;Liverpool;Man. United;1;2;Premier League;Fair;E;8 mph;46  °F;87%;30.00 in
+23.09.2012;Newcastle;Norwich;1;0;Premier League;Fair;CALM;0 mph;43  °F;93%;29.80 in
+23.09.2012;Man. City;Arsenal;1;1;Premier League;Fair;E;7 mph;43  °F;81%;29.81 in
+23.09.2012;Tottenham;QPR;2;1;Premier League;Fair;ENE;5 mph;52  °F;76%;30.07 in
+15.09.2012;Norwich;West Ham;0;0;Premier League;Fair;W;8 mph;52  °F;82%;29.85 in
+15.09.2012;Arsenal;Southampton;6;1;Premier League;Partly Cloudy;WNW;7 mph;59  °F;67%;30.01 in
+15.09.2012;Aston Villa;Swansea City;2;0;Premier League;Fair;SW;6 mph;52  °F;82%;29.65 in
+15.09.2012;Fulham;West Bromwich;3;0;Premier League;Partly Cloudy;WNW;7 mph;59  °F;67%;30.01 in
+15.09.2012;Man. United;Wigan Ath;4;0;Premier League;Mostly Cloudy;W;5 mph;55  °F;77%;29.73 in
+15.09.2012;QPR;Chelsea;0;0;Premier League;Partly Cloudy;WNW;7 mph;59  °F;67%;30.01 in
+15.09.2012;Stoke City;Man. City;1;1;Premier League;Mostly Cloudy;W;5 mph;55  °F;77%;29.73 in
+15.09.2012;Sunderland;Liverpool;1;1;Premier League;Fair;W;14 mph;52  °F;88%;29.60 in
+16.09.2012;Reading;Tottenham;1;3;Premier League;Fair;SSW;6 mph;59  °F;82%;29.98 in
+17.09.2012;Everton;Newcastle;2;2;Premier League;Fair;WSW;10 mph;54  °F;82%;29.70 in
+22.08.2012;Chelsea;Reading;4;2;Premier League;Fair;WSW;10 mph;63  °F;82%;29.98 in
+1.09.2012;West Ham;Fulham;3;0;Premier League;Fair;WNW;5 mph;61  °F;59%;30.34 in
+1.09.2012;Swansea City;Sunderland;2;2;Premier League;Mostly Cloudy;VAR;2 mph;57  °F;94%;30.15 in
+1.09.2012;Tottenham;Norwich;1;1;Premier League;Fair;WNW;5 mph;61  °F;59%;30.34 in
+1.09.2012;West Bromwich;Everton;2;0;Premier League;Mostly Cloudy;SSW;6 mph;55  °F;77%;29.97 in
+1.09.2012;Wigan Ath;Stoke City;2;2;Premier League;Mostly Cloudy;SSW;6 mph;54  °F;94%;30.05 in
+1.09.2012;Man. City;QPR;3;1;Premier League;Mostly Cloudy;SSW;6 mph;54  °F;94%;30.05 in
+2.09.2012;Liverpool;Arsenal;0;2;Premier League;Partly Cloudy;WSW;15 mph;61  °F;82%;30.06 in
+2.09.2012;Newcastle;Aston Villa;1;1;Premier League;Partly Cloudy;SW;10 mph;59  °F;88%;29.74 in
+2.09.2012;Southampton;Man. United;2;3;Premier League;Partly Cloudy;WSW;3 mph;54  °F;94%;30.24 in
+25.08.2012;Swansea City;West Ham;3;0;Premier League;Partly Cloudy;SSW;6 mph;61  °F;94%;29.24 in
+25.08.2012;Aston Villa;Everton;1;3;Premier League;Mostly Cloudy;SE;9 mph;59  °F;100%;29.16 in
+25.08.2012;Man. United;Fulham;3;2;Premier League;Mostly Cloudy;E;7 mph;57  °F;94%;29.23 in
+25.08.2012;Norwich;QPR;1;1;Premier League;Fair;S;9 mph;59  °F;82%;29.46 in
+25.08.2012;Southampton;Wigan Ath;0;2;Premier League;Mostly Cloudy;SW;7 mph;59  °F;94%;29.47 in
+25.08.2012;Tottenham;West Bromwich;1;1;Premier League;Mostly Cloudy;S;7 mph;63  °F;88%;29.54 in
+25.08.2012;Chelsea;Newcastle;2;0;Premier League;Mostly Cloudy;S;7 mph;63  °F;88%;29.54 in
+26.08.2012;Stoke City;Arsenal;0;0;Premier League;Fair;WNW;8 mph;55  °F;100%;29.46 in
+26.08.2012;Liverpool;Man. City;2;2;Premier League;Fair;NW;9 mph;59  °F;88%;29.67 in
+11.12.2012;Sunderland;Reading;3;0;Premier League;Fair;WNW;5 mph;34  °F;93%;30.12 in
+18.08.2012;Arsenal;Sunderland;0;0;Premier League;Fair;E;5 mph;70  °F;68%;29.90 in
+18.08.2012;Fulham;Norwich;5;0;Premier League;Fair;E;5 mph;70  °F;68%;29.90 in
+18.08.2012;QPR;Swansea City;0;5;Premier League;Fair;E;5 mph;70  °F;68%;29.90 in
+18.08.2012;Reading;Stoke City;1;1;Premier League;Fair;E;5 mph;70  °F;68%;29.90 in
+18.08.2012;West Bromwich;Liverpool;3;0;Premier League;Fair;SSE;3 mph;61  °F;100%;29.54 in
+18.08.2012;West Ham;Aston Villa;1;0;Premier League;Fair;E;5 mph;70  °F;68%;29.90 in
+18.08.2012;Newcastle;Tottenham;2;1;Premier League;Mostly Cloudy;VAR;3 mph;66  °F;88%;29.51 in
+19.08.2012;Wigan Ath;Chelsea;0;2;Premier League;Fair;VAR;2 mph;63  °F;82%;29.76 in
+19.08.2012;Man. City;Southampton;3;2;Premier League;Fair;VAR;2 mph;63  °F;82%;29.76 in
+20.08.2012;Everton;Man. United;1;0;Premier League;Fair;CALM;0 mph;59  °F;94%;29.94 in

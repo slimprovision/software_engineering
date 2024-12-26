@@ -1,0 +1,381 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+30.05.2015;Hellas Verona;Juventus;2;2;Serie A;Fair;E;5 mph;64 °F;73 %;29.74 in
+30.05.2015;Atalanta;Milan;1;3;Serie A;Fair;N;7 mph;63 °F;72 %;29.10 in
+31.05.2015;Cagliari;Udinese;4;3;Serie A;Fair;W;8 mph;66 °F;68 %;29.59 in
+31.05.2015;Torino;Cesena;5;0;Serie A;Fair;VAR;2 mph;63 °F;82 %;28.97 in
+31.05.2015;Fiorentina;Chievo;3;0;Serie A;Fair;E;5 mph;59 °F;72 %;29.90 in
+31.05.2015;Inter;Empoli;4;3;Serie A;Fair;W;8 mph;66 °F;68 %;29.59 in
+31.05.2015;Sassuolo;Genoa;3;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+31.05.2015;Napoli;Lazio;2;4;Serie A;Fair;W;3 mph;64 °F;68 %;29.78 in
+31.05.2015;Roma;Palermo;1;2;Serie A;Fair;S;2 mph;63 °F;88 %;29.57 in
+31.05.2015;Sampdoria;Parma;2;2;Serie A;Partly Cloudy;N;14 mph;64 °F;83 %;30.00 in
+23.05.2015;Juventus;Napoli;3;1;Serie A;Light Drizzle;SW;7 mph;55 °F;88 %;29.68 in
+23.05.2015;Genoa;Inter;3;2;Serie A;Mostly Cloudy;NNE;3 mph;63 °F;68 %;29.87 in
+24.05.2015;Empoli;Sampdoria;1;1;Serie A;Fair;VAR;2 mph;61 °F;77 %;29.66 in
+24.05.2015;Chievo;Atalanta;1;1;Serie A;Light Rain;NE;5 mph;55 °F;94 %;29.59 in
+24.05.2015;Cesena;Cagliari;0;1;Serie A;Fair;VAR;2 mph;61 °F;77 %;29.66 in
+24.05.2015;Palermo;Fiorentina;2;3;Serie A;Fair;SSW;5 mph;54 °F;94 %;29.80 in
+24.05.2015;Parma;Hellas Verona;2;2;Serie A;Fair;SSW;5 mph;54 °F;94 %;29.80 in
+24.05.2015;Udinese;Sassuolo;0;1;Serie A;Mostly Cloudy;VAR;2 mph;54 °F;88 %;29.90 in
+24.05.2015;Milan;Torino;3;0;Serie A;Light Rain;NE;5 mph;55 °F;94 %;29.59 in
+25.05.2015;Lazio;Roma;1;2;Serie A;Fair;SE;1 mph;57 °F;88 %;29.46 in
+16.05.2015;Inter;Juventus;1;2;Serie A;Rain Shower;NNW;5 mph;55 °F;100 %;29.53 in
+16.05.2015;Sampdoria;Lazio;0;1;Serie A;Fair;NE;17 mph;64 °F;73 %;29.85 in
+17.05.2015;Sassuolo;Milan;3;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+17.05.2015;Torino;Chievo;2;0;Serie A;Fair;NNW;7 mph;66 °F;78 %;29.11 in
+17.05.2015;Hellas Verona;Empoli;2;1;Serie A;Fair;WSW;2 mph;66 °F;88 %;29.88 in
+17.05.2015;Atalanta;Genoa;1;4;Serie A;Light Rain;NNE;2 mph;68 °F;83 %;29.30 in
+17.05.2015;Cagliari;Palermo;0;1;Serie A;Light Rain;VAR;2 mph;68 °F;88 %;29.74 in
+17.05.2015;Roma;Udinese;2;1;Serie A;Fair;NNE;3 mph;61 °F;77 %;29.51 in
+18.05.2015;Fiorentina;Parma;3;0;Serie A;Fair;SSW;6 mph;66 °F;68 %;29.84 in
+18.05.2015;Napoli;Cesena;3;2;Serie A;Partly Cloudy;NNE;9 mph;72 °F;46 %;29.63 in
+09.05.2015;Juventus;Cagliari;1;1;Serie A;Fair;SSW;7 mph;55 °F;77 %;29.82 in
+09.05.2015;Milan;Roma;2;1;Serie A;Partly Cloudy;SW;3 mph;61 °F;100 %;29.59 in
+10.05.2015;Chievo;Hellas Verona;2;2;Serie A;Fair;N;5 mph;66 °F;52 %;29.71 in
+10.05.2015;Palermo;Atalanta;2;3;Serie A;Fair;VAR;1 mph;57 °F;82 %;30.00 in
+10.05.2015;Udinese;Sampdoria;1;4;Serie A;Fair;VAR;3 mph;64 °F;68 %;30.05 in
+10.05.2015;Cesena;Sassuolo;2;3;Serie A;Fair;N;5 mph;66 °F;78 %;29.75 in
+10.05.2015;Empoli;Fiorentina;2;3;Serie A;Fair;N;5 mph;66 °F;78 %;29.75 in
+10.05.2015;Parma;Napoli;2;2;Serie A;Fair;VAR;1 mph;57 °F;82 %;30.00 in
+10.05.2015;Lazio;Inter;1;2;Serie A;Fair;CALM;0 mph;61 °F;82 %;29.51 in
+11.05.2015;Genoa;Torino;5;1;Serie A;Fair;NNE;3 mph;66 °F;60 %;30.19 in
+02.05.2015;Sampdoria;Juventus;0;1;Serie A;Rain;NNE;6 mph;55 °F;94 %;29.76 in
+02.05.2015;Sassuolo;Palermo;0;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+03.05.2015;Roma;Genoa;2;0;Serie A;Fair;CALM;0 mph;59 °F;82 %;29.51 in
+03.05.2015;Fiorentina;Cesena;3;1;Serie A;Mostly Cloudy;E;3 mph;59 °F;88 %;29.81 in
+03.05.2015;Inter;Chievo;0;0;Serie A;Mostly Cloudy;SSE;6 mph;64 °F;83 %;29.50 in
+03.05.2015;Atalanta;Lazio;1;1;Serie A;Rain;SE;12 mph;61 °F;88 %;29.04 in
+03.05.2015;Hellas Verona;Udinese;0;1;Serie A;Partly Cloudy;E;9 mph;63 °F;82 %;29.65 in
+03.05.2015;Napoli;Milan;3;0;Serie A;Fair;VAR;1 mph;63 °F;88 %;29.75 in
+04.05.2015;Cagliari;Parma;4;0;Serie A;Mostly Cloudy;CALM;0 mph;64 °F;83 %;29.56 in
+06.05.2015;Torino;Empoli;0;1;Serie A;Fair;WNW;3 mph;63 °F;82 %;28.94 in
+28.04.2015;Udinese;Inter;1;2;Serie A;Mostly Cloudy;VAR;2 mph;57 °F;94 %;29.64 in
+29.04.2015;Cesena;Atalanta;2;2;Serie A;Partly Cloudy;W;10 mph;59 °F;88 %;29.63 in
+29.04.2015;Chievo;Cagliari;1;0;Serie A;Fair;NNW;5 mph;59 °F;36 %;29.53 in
+29.04.2015;Juventus;Fiorentina;3;2;Serie A;Mostly Cloudy;SSW;6 mph;52 °F;88 %;29.82 in
+29.04.2015;Milan;Genoa;1;3;Serie A;Fair;NNW;5 mph;59 °F;36 %;29.53 in
+29.04.2015;Sampdoria;Hellas Verona;1;1;Serie A;Partly Cloudy;WNW;5 mph;57 °F;88 %;29.88 in
+29.04.2015;Lazio;Parma;4;0;Serie A;Fair;CALM;0 mph;55 °F;88 %;29.40 in
+29.04.2015;Sassuolo;Roma;0;3;Serie A;Fair;ESE;5 mph;61 °F;72 %;29.96 in
+29.04.2015;Palermo;Torino;2;2;Serie A;Mostly Cloudy;SSW;6 mph;52 °F;88 %;29.82 in
+30.04.2015;Empoli;Napoli;4;2;Serie A;Mostly Cloudy;W;7 mph;61 °F;77 %;29.84 in
+25.04.2015;Udinese;Milan;2;1;Serie A;Fair;VAR;3 mph;50 °F;76 %;30.02 in
+25.04.2015;Inter;Roma;2;1;Serie A;Fair;ESE;6 mph;61 °F;63 %;29.62 in
+26.04.2015;Atalanta;Empoli;2;2;Serie A;Mostly Cloudy;VAR;2 mph;57 °F;82 %;29.13 in
+26.04.2015;Genoa;Cesena;3;1;Serie A;Mostly Cloudy;NNE;3 mph;59 °F;88 %;29.99 in
+26.04.2015;Lazio;Chievo;1;1;Serie A;Fair;CALM;0 mph;57 °F;88 %;29.54 in
+26.04.2015;Torino;Juventus;2;1;Serie A;Mostly Cloudy;VAR;1 mph;54 °F;94 %;28.99 in
+26.04.2015;Parma;Palermo;1;0;Serie A;Mist;VAR;1 mph;52 °F;94 %;29.77 in
+26.04.2015;Hellas Verona;Sassuolo;3;2;Serie A;Partly Cloudy;N;2 mph;59 °F;94 %;29.76 in
+26.04.2015;Fiorentina;Cagliari;1;3;Serie A;Partly Cloudy;VAR;1 mph;57 °F;88 %;29.87 in
+26.04.2015;Napoli;Sampdoria;4;2;Serie A;Fair;VAR;1 mph;61 °F;88 %;29.78 in
+18.04.2015;Sampdoria;Cesena;0;0;Serie A;Fair;NNW;5 mph;55 °F;94 %;29.91 in
+18.04.2015;Juventus;Lazio;2;0;Serie A;Partly Cloudy;VAR;1 mph;52 °F;94 %;29.71 in
+19.04.2015;Sassuolo;Torino;1;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+19.04.2015;Roma;Atalanta;1;1;Serie A;Fair;CALM;0 mph;54 °F;88 %;29.48 in
+19.04.2015;Palermo;Genoa;2;1;Serie A;Partly Cloudy;VAR;3 mph;48 °F;82 %;29.97 in
+19.04.2015;Empoli;Parma;2;2;Serie A;Fair;VAR;1 mph;57 °F;88 %;29.72 in
+19.04.2015;Chievo;Udinese;1;1;Serie A;Mostly Cloudy;E;16 mph;48 °F;87 %;29.77 in
+19.04.2015;Cagliari;Napoli;0;3;Serie A;Mostly Cloudy;E;16 mph;48 °F;87 %;29.77 in
+19.04.2015;Inter;Milan;0;0;Serie A;Mostly Cloudy;E;16 mph;48 °F;87 %;29.77 in
+20.04.2015;Fiorentina;Hellas Verona;0;1;Serie A;Fair;VAR;2 mph;52 °F;44 %;29.96 in
+11.04.2015;Genoa;Cagliari;2;0;Serie A;Partly Cloudy;E;5 mph;54 °F;88 %;30.31 in
+11.04.2015;Parma;Juventus;1;0;Serie A;Fair;VAR;3 mph;54 °F;72 %;30.09 in
+11.04.2015;Hellas Verona;Inter;0;3;Serie A;Fair;NE;3 mph;52 °F;88 %;30.06 in
+12.04.2015;Cesena;Chievo;0;1;Serie A;Fair;VAR;1 mph;52 °F;82 %;30.10 in
+12.04.2015;Lazio;Empoli;4;0;Serie A;Fair;CALM;0 mph;50 °F;87 %;29.89 in
+12.04.2015;Napoli;Fiorentina;3;0;Serie A;Fair;VAR;1 mph;52 °F;82 %;30.10 in
+12.04.2015;Udinese;Palermo;1;3;Serie A;Fair;VAR;2 mph;48 °F;71 %;30.28 in
+12.04.2015;Torino;Roma;1;1;Serie A;Fair;SSW;5 mph;54 °F;72 %;29.28 in
+12.04.2015;Atalanta;Sassuolo;2;1;Serie A;Fair;VAR;2 mph;54 °F;72 %;29.44 in
+12.04.2015;Milan;Sampdoria;1;1;Serie A;Fair;W;6 mph;55 °F;63 %;29.91 in
+04.04.2015;Roma;Napoli;1;0;Serie A;Fair;CALM;0 mph;54 °F;72 %;29.54 in
+04.04.2015;Hellas Verona;Cesena;3;3;Serie A;Fair;ENE;8 mph;48 °F;40 %;29.79 in
+04.04.2015;Sassuolo;Chievo;1;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+04.04.2015;Cagliari;Lazio;1;3;Serie A;Partly Cloudy;E;6 mph;52 °F;44 %;29.62 in
+04.04.2015;Palermo;Milan;1;2;Serie A;Mostly Cloudy;VAR;2 mph;45 °F;87 %;29.74 in
+04.04.2015;Inter;Parma;1;1;Serie A;Partly Cloudy;E;6 mph;52 °F;44 %;29.62 in
+04.04.2015;Atalanta;Torino;1;2;Serie A;Partly Cloudy;SSE;6 mph;50 °F;43 %;29.15 in
+04.04.2015;Genoa;Udinese;1;1;Serie A;Mostly Cloudy;VAR;2 mph;57 °F;67 %;29.93 in
+04.04.2015;Fiorentina;Sampdoria;2;0;Serie A;Fair;E;6 mph;54 °F;51 %;29.84 in
+04.04.2015;Juventus;Empoli;2;0;Serie A;Mostly Cloudy;VAR;2 mph;45 °F;87 %;29.74 in
+21.03.2015;Chievo;Palermo;1;0;Serie A;Mostly Cloudy;VAR;2 mph;52 °F;67 %;29.79 in
+21.03.2015;Milan;Cagliari;3;1;Serie A;Mostly Cloudy;VAR;2 mph;52 °F;67 %;29.79 in
+22.03.2015;Empoli;Sassuolo;3;1;Serie A;Fair;VAR;1 mph;50 °F;62 %;29.69 in
+22.03.2015;Juventus;Genoa;1;0;Serie A;Light Rain;VAR;3 mph;46 °F;87 %;29.77 in
+22.03.2015;Napoli;Atalanta;1;1;Serie A;Fair;VAR;1 mph;50 °F;62 %;29.69 in
+22.03.2015;Udinese;Fiorentina;2;2;Serie A;Mostly Cloudy;VAR;3 mph;50 °F;62 %;29.96 in
+22.03.2015;Lazio;Hellas Verona;2;0;Serie A;Partly Cloudy;CALM;0 mph;50 °F;71 %;29.48 in
+22.03.2015;Sampdoria;Inter;1;0;Serie A;Light Rain;NNE;10 mph;48 °F;87 %;29.97 in
+22.03.2015;Cesena;Roma;0;1;Serie A;Fair;VAR;1 mph;50 °F;62 %;29.69 in
+22.03.2015;Parma;Torino;0;2;Serie A;Light Rain;VAR;3 mph;46 °F;87 %;29.77 in
+14.03.2015;Palermo;Juventus;0;1;Serie A;Mostly Cloudy;VAR;2 mph;37 °F;87 %;29.94 in
+14.03.2015;Cagliari;Empoli;1;1;Serie A;Mostly Cloudy;E;7 mph;48 °F;54 %;29.71 in
+15.03.2015;Genoa;Chievo;0;2;Serie A;Mostly Cloudy;NE;8 mph;52 °F;58 %;30.11 in
+15.03.2015;Sassuolo;Parma;4;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+15.03.2015;Atalanta;Udinese;0;0;Serie A;Mostly Cloudy;N;5 mph;43 °F;76 %;29.38 in
+15.03.2015;Hellas Verona;Napoli;2;0;Serie A;Fair;ENE;2 mph;43 °F;87 %;30.00 in
+15.03.2015;Inter;Cesena;1;1;Serie A;Mostly Cloudy;E;5 mph;46 °F;66 %;29.82 in
+16.03.2015;Torino;Lazio;0;2;Serie A;Rain;NNW;9 mph;41 °F;93 %;29.25 in
+16.03.2015;Fiorentina;Milan;2;1;Serie A;Mostly Cloudy;VAR;2 mph;50 °F;82 %;30.07 in
+16.03.2015;Roma;Sampdoria;0;2;Serie A;Partly Cloudy;E;9 mph;50 °F;71 %;29.72 in
+07.03.2015;Sampdoria;Cagliari;2;0;Serie A;Fair;WNW;5 mph;39 °F;70 %;30.47 in
+07.03.2015;Milan;Hellas Verona;2;2;Serie A;Fair;E;7 mph;41 °F;61 %;30.09 in
+08.03.2015;Cesena;Palermo;0;0;Serie A;Partly Cloudy / Windy;NE;23 mph;48 °F;57 %;29.86 in
+08.03.2015;Parma;Atalanta;0;0;Serie A;Fair;VAR;2 mph;30 °F;86 %;30.21 in
+08.03.2015;Empoli;Genoa;1;1;Serie A;Partly Cloudy / Windy;NE;23 mph;48 °F;57 %;29.86 in
+08.03.2015;Chievo;Roma;0;0;Serie A;Fair;VAR;2 mph;41 °F;70 %;30.03 in
+08.03.2015;Udinese;Torino;3;2;Serie A;Fair;NE;5 mph;46 °F;40 %;30.37 in
+08.03.2015;Napoli;Inter;2;2;Serie A;Partly Cloudy / Windy;NE;23 mph;48 °F;57 %;29.86 in
+09.03.2015;Lazio;Fiorentina;4;0;Serie A;Partly Cloudy;ESE;7 mph;48 °F;71 %;29.66 in
+09.03.2015;Juventus;Sassuolo;1;0;Serie A;Fair;VAR;3 mph;32 °F;80 %;30.12 in
+28.02.2015;Chievo;Milan;0;0;Serie A;Fair;VAR;1 mph;43 °F;81 %;29.56 in
+01.03.2015;Cagliari;Hellas Verona;1;2;Serie A;Fair;CALM;0 mph;39 °F;93 %;29.68 in
+01.03.2015;Palermo;Empoli;0;0;Serie A;Fair;SW;7 mph;37 °F;87 %;29.88 in
+01.03.2015;Sassuolo;Lazio;0;3;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+01.03.2015;Atalanta;Sampdoria;1;2;Serie A;Fair;NNE;5 mph;43 °F;76 %;29.21 in
+01.03.2015;Cesena;Udinese;1;0;Serie A;Fair;CALM;0 mph;46 °F;93 %;29.81 in
+01.03.2015;Inter;Fiorentina;0;1;Serie A;Fair;CALM;0 mph;39 °F;93 %;29.68 in
+01.03.2015;Torino;Napoli;1;0;Serie A;Fair;NW;3 mph;41 °F;70 %;29.05 in
+02.03.2015;Roma;Juventus;1;1;Serie A;Partly Cloudy;SSE;5 mph;48 °F;87 %;29.66 in
+15.04.2015;Genoa;Parma;2;0;Serie A;Mostly Cloudy;WNW;6 mph;59 °F;88 %;30.25 in
+20.02.2015;Juventus;Atalanta;2;1;Serie A;Fair;VAR;3 mph;30 °F;93 %;30.12 in
+22.02.2015;Milan;Cesena;2;0;Serie A;Rain;ESE;8 mph;43 °F;100 %;29.18 in
+22.02.2015;Empoli;Chievo;3;0;Serie A;Light Rain;VAR;2 mph;50 °F;87 %;29.34 in
+22.02.2015;Lazio;Palermo;2;1;Serie A;Light Rain;SE;18 mph;50 °F;94 %;29.02 in
+22.02.2015;Hellas Verona;Roma;1;1;Serie A;Mostly Cloudy;ENE;16 mph;46 °F;76 %;29.38 in
+22.02.2015;Fiorentina;Torino;1;1;Serie A;Mostly Cloudy;VAR;1 mph;45 °F;93 %;29.37 in
+23.02.2015;Napoli;Sassuolo;2;0;Serie A;Mostly Cloudy;CALM;0 mph;52 °F;94 %;29.25 in
+23.02.2015;Cagliari;Inter;1;2;Serie A;Fog;SW;2 mph;37 °F;100 %;29.30 in
+24.02.2015;Sampdoria;Genoa;1;1;Serie A;Mostly Cloudy;VAR;2 mph;48 °F;82 %;29.61 in
+08.04.2015;Parma;Udinese;1;0;Serie A;Fair;SSW;10 mph;39 °F;52 %;30.18 in
+14.02.2015;Sassuolo;Fiorentina;1;3;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+14.02.2015;Palermo;Napoli;3;1;Serie A;Fog;VAR;2 mph;34 °F;100 %;29.91 in
+15.02.2015;Milan;Empoli;1;1;Serie A;Light Rain;SSE;6 mph;41 °F;100 %;29.53 in
+15.02.2015;Torino;Cagliari;1;1;Serie A;Rain and Snow;VAR;3 mph;32 °F;100 %;28.91 in
+15.02.2015;Genoa;Hellas Verona;5;2;Serie A;Rain;NE;5 mph;41 °F;93 %;29.87 in
+15.02.2015;Atalanta;Inter;1;4;Serie A;Light Rain;ENE;5 mph;41 °F;93 %;29.07 in
+15.02.2015;Udinese;Lazio;0;1;Serie A;Mostly Cloudy;VAR;1 mph;45 °F;76 %;29.93 in
+15.02.2015;Roma;Parma;0;0;Serie A;Partly Cloudy;SE;5 mph;46 °F;81 %;29.48 in
+15.02.2015;Chievo;Sampdoria;2;1;Serie A;Light Rain;SSE;6 mph;41 °F;100 %;29.53 in
+15.02.2015;Cesena;Juventus;2;2;Serie A;Light Rain;VAR;2 mph;46 °F;81 %;29.75 in
+07.02.2015;Hellas Verona;Torino;1;3;Serie A;Light Rain;E;5 mph;37 °F;87 %;29.74 in
+07.02.2015;Juventus;Milan;3;1;Serie A;Light Drizzle;VAR;3 mph;34 °F;100 %;29.91 in
+08.02.2015;Fiorentina;Atalanta;3;2;Serie A;Fair;VAR;2 mph;34 °F;81 %;29.90 in
+08.02.2015;Empoli;Cesena;2;0;Serie A;Light Drizzle;NE;7 mph;43 °F;93 %;29.72 in
+08.02.2015;Cagliari;Roma;1;2;Serie A;Shallow Fog;VAR;2 mph;30 °F;100 %;29.71 in
+08.02.2015;Sampdoria;Sassuolo;1;1;Serie A;Fair;NW;8 mph;32 °F;80 %;30.02 in
+08.02.2015;Napoli;Udinese;3;1;Serie A;Light Drizzle;NE;7 mph;43 °F;93 %;29.72 in
+08.02.2015;Inter;Palermo;3;0;Serie A;Shallow Fog;VAR;2 mph;30 °F;100 %;29.71 in
+09.02.2015;Lazio;Genoa;0;1;Serie A;Fair;N;14 mph;43 °F;39 %;29.34 in
+11.02.2015;Parma;Chievo;0;1;Serie A;Mist;W;5 mph;21 °F;100 %;30.15 in
+31.01.2015;Genoa;Fiorentina;1;1;Serie A;Fair;NNE;8 mph;43 °F;34 %;28.98 in
+31.01.2015;Roma;Empoli;1;1;Serie A;Fair;WSW;3 mph;43 °F;66 %;28.67 in
+01.02.2015;Sassuolo;Inter;3;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+01.02.2015;Atalanta;Cagliari;2;1;Serie A;Fair;N;7 mph;34 °F;75 %;28.35 in
+01.02.2015;Palermo;Hellas Verona;2;1;Serie A;Shallow Fog;VAR;2 mph;32 °F;100 %;29.03 in
+01.02.2015;Udinese;Juventus;0;0;Serie A;Partly Cloudy;CALM;0 mph;37 °F;70 %;29.13 in
+01.02.2015;Cesena;Lazio;2;1;Serie A;Light Rain;NNW;6 mph;46 °F;100 %;28.87 in
+01.02.2015;Chievo;Napoli;1;2;Serie A;Fair;NNW;3 mph;36 °F;81 %;28.83 in
+01.02.2015;Torino;Sampdoria;5;1;Serie A;Fair;W;5 mph;32 °F;69 %;28.22 in
+01.02.2015;Milan;Parma;3;1;Serie A;Fair;NNW;3 mph;36 °F;81 %;28.83 in
+24.01.2015;Cagliari;Sassuolo;2;1;Serie A;Fog;CALM;0 mph;34 °F;93 %;29.53 in
+24.01.2015;Lazio;Milan;3;1;Serie A;Partly Cloudy;NNE;5 mph;46 °F;76 %;29.16 in
+25.01.2015;Hellas Verona;Atalanta;1;0;Serie A;Fair;W;1 mph;37 °F;87 %;29.65 in
+25.01.2015;Parma;Cesena;1;2;Serie A;Fair;WSW;5 mph;34 °F;87 %;29.77 in
+25.01.2015;Juventus;Chievo;2;0;Serie A;Fair;WSW;5 mph;34 °F;87 %;29.77 in
+25.01.2015;Sampdoria;Palermo;1;1;Serie A;Fair;VAR;2 mph;45 °F;81 %;29.85 in
+25.01.2015;Inter;Torino;0;1;Serie A;Shallow Fog;CALM;0 mph;34 °F;100 %;29.50 in
+25.01.2015;Fiorentina;Roma;1;1;Serie A;Fair;W;3 mph;46 °F;66 %;29.69 in
+26.01.2015;Empoli;Udinese;1;2;Serie A;Partly Cloudy;ENE;10 mph;48 °F;57 %;29.72 in
+26.01.2015;Napoli;Genoa;2;1;Serie A;Partly Cloudy;ENE;10 mph;48 °F;57 %;29.72 in
+17.01.2015;Empoli;Inter;0;0;Serie A;Fair;NNW;3 mph;50 °F;82 %;29.84 in
+17.01.2015;Palermo;Roma;1;1;Serie A;Mist;VAR;3 mph;46 °F;100 %;29.65 in
+18.01.2015;Lazio;Napoli;0;1;Serie A;Partly Cloudy;CALM;0 mph;50 °F;76 %;29.60 in
+18.01.2015;Cesena;Torino;2;3;Serie A;Mostly Cloudy;SSW;5 mph;57 °F;94 %;29.81 in
+18.01.2015;Chievo;Fiorentina;1;2;Serie A;Fair;WSW;5 mph;39 °F;100 %;29.62 in
+18.01.2015;Genoa;Sassuolo;3;3;Serie A;Mostly Cloudy;NE;7 mph;50 °F;71 %;29.96 in
+18.01.2015;Milan;Atalanta;0;1;Serie A;Fair;WSW;5 mph;39 °F;100 %;29.62 in
+18.01.2015;Parma;Sampdoria;0;2;Serie A;Fair;VAR;3 mph;32 °F;100 %;29.85 in
+18.01.2015;Udinese;Cagliari;2;2;Serie A;Fair;VAR;1 mph;46 °F;76 %;29.96 in
+18.01.2015;Juventus;Hellas Verona;4;0;Serie A;Fair;VAR;3 mph;32 °F;100 %;29.85 in
+10.01.2015;Sassuolo;Udinese;1;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+10.01.2015;Torino;Milan;1;1;Serie A;Fair;NW;8 mph;37 °F;81 %;29.19 in
+11.01.2015;Inter;Genoa;3;1;Serie A;Mist;VAR;2 mph;39 °F;100 %;29.65 in
+11.01.2015;Atalanta;Chievo;1;1;Serie A;Fog;NNE;3 mph;37 °F;100 %;29.18 in
+11.01.2015;Cagliari;Cesena;2;1;Serie A;Mist;VAR;2 mph;39 °F;100 %;29.65 in
+11.01.2015;Fiorentina;Palermo;4;3;Serie A;Mostly Cloudy;CALM;0 mph;52 °F;94 %;30.01 in
+11.01.2015;Hellas Verona;Parma;3;1;Serie A;Fog;NNW;2 mph;30 °F;100 %;29.82 in
+11.01.2015;Roma;Lazio;2;2;Serie A;Fair;CALM;0 mph;48 °F;93 %;29.72 in
+11.01.2015;Sampdoria;Empoli;1;0;Serie A;Fog;VAR;2 mph;37 °F;87 %;30.02 in
+11.01.2015;Napoli;Juventus;1;3;Serie A;Partly Cloudy;SW;6 mph;57 °F;88 %;29.95 in
+05.01.2015;Lazio;Sampdoria;3;0;Serie A;Fair;N;2 mph;46 °F;53 %;29.72 in
+06.01.2015;Udinese;Roma;0;1;Serie A;Fair;CALM;0 mph;30 °F;60 %;30.17 in
+06.01.2015;Chievo;Torino;0;0;Serie A;Fair;WSW;3 mph;37 °F;75 %;29.85 in
+06.01.2015;Empoli;Hellas Verona;0;0;Serie A;Fair;N;3 mph;34 °F;75 %;29.98 in
+06.01.2015;Genoa;Atalanta;2;2;Serie A;Partly Cloudy;NNE;6 mph;52 °F;67 %;30.25 in
+06.01.2015;Milan;Sassuolo;1;2;Serie A;Fair;WSW;3 mph;37 °F;75 %;29.85 in
+06.01.2015;Palermo;Cagliari;5;0;Serie A;Fair;S;5 mph;30 °F;80 %;30.00 in
+06.01.2015;Parma;Fiorentina;1;0;Serie A;Fair;S;5 mph;30 °F;80 %;30.00 in
+06.01.2015;Cesena;Napoli;1;4;Serie A;Fair;N;3 mph;34 °F;75 %;29.98 in
+06.01.2015;Juventus;Inter;1;1;Serie A;Fair;S;5 mph;30 °F;80 %;30.00 in
+18.12.2014;Cagliari;Juventus;1;3;Serie A;Fog;SW;8 mph;39 °F;100 %;29.59 in
+18.12.2014;Napoli;Parma;2;0;Serie A;Partly Cloudy;N;3 mph;45 °F;93 %;29.66 in
+20.12.2014;Sassuolo;Cesena;1;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+20.12.2014;Roma;Milan;0;0;Serie A;Fair;CALM;0 mph;46 °F;87 %;29.75 in
+21.12.2014;Hellas Verona;Chievo;0;1;Serie A;Fog;W;3 mph;43 °F;87 %;29.94 in
+21.12.2014;Atalanta;Palermo;3;3;Serie A;Fog;W;3 mph;36 °F;100 %;29.30 in
+21.12.2014;Fiorentina;Empoli;1;1;Serie A;Mostly Cloudy;CALM;0 mph;52 °F;94 %;30.04 in
+21.12.2014;Sampdoria;Udinese;2;2;Serie A;Fog;VAR;2 mph;41 °F;93 %;30.14 in
+21.12.2014;Torino;Genoa;2;1;Serie A;Fog;CALM;0 mph;36 °F;100 %;29.17 in
+21.12.2014;Inter;Lazio;2;2;Serie A;Fog;W;5 mph;41 °F;100 %;29.79 in
+13.12.2014;Palermo;Sassuolo;2;1;Serie A;Partly Cloudy;VAR;3 mph;36 °F;100 %;29.97 in
+13.12.2014;Lazio;Atalanta;3;0;Serie A;Partly Cloudy;SSE;8 mph;50 °F;87 %;29.72 in
+14.12.2014;Juventus;Sampdoria;1;1;Serie A;Mist;VAR;2 mph;43 °F;100 %;30.03 in
+14.12.2014;Genoa;Roma;0;1;Serie A;Mostly Cloudy;NNE;6 mph;52 °F;76 %;30.14 in
+14.12.2014;Parma;Cagliari;0;0;Serie A;Mist;VAR;2 mph;43 °F;100 %;30.03 in
+14.12.2014;Udinese;Hellas Verona;1;2;Serie A;Mist;NNW;6 mph;46 °F;87 %;30.11 in
+14.12.2014;Cesena;Fiorentina;1;4;Serie A;Fair;VAR;2 mph;50 °F;82 %;29.98 in
+14.12.2014;Milan;Napoli;2;0;Serie A;Light Drizzle;SW;3 mph;43 °F;93 %;29.79 in
+15.12.2014;Empoli;Torino;0;0;Serie A;Partly Cloudy;N;2 mph;50 °F;82 %;29.95 in
+15.12.2014;Chievo;Inter;0;2;Serie A;Mist;VAR;2 mph;45 °F;100 %;29.82 in
+05.12.2014;Fiorentina;Juventus;0;0;Serie A;Partly Cloudy;VAR;1 mph;50 °F;100 %;29.81 in
+06.12.2014;Roma;Sassuolo;2;2;Serie A;Partly Cloudy;CALM;0 mph;50 °F;94 %;29.46 in
+06.12.2014;Torino;Palermo;2;2;Serie A;Mist;N;3 mph;48 °F;100 %;28.97 in
+07.12.2014;Napoli;Empoli;2;2;Serie A;Mostly Cloudy;VAR;1 mph;52 °F;94 %;29.72 in
+07.12.2014;Atalanta;Cesena;3;2;Serie A;Mostly Cloudy;NW;2 mph;50 °F;94 %;29.13 in
+07.12.2014;Genoa;Milan;1;0;Serie A;Partly Cloudy;NE;8 mph;54 °F;77 %;29.93 in
+07.12.2014;Parma;Lazio;1;2;Serie A;Light Rain;VAR;2 mph;46 °F;100 %;29.82 in
+07.12.2014;Inter;Udinese;1;2;Serie A;Partly Cloudy;NNE;2 mph;50 °F;94 %;29.59 in
+08.12.2014;Cagliari;Chievo;0;2;Serie A;Shallow Fog;WSW;3 mph;45 °F;100 %;29.62 in
+08.12.2014;Hellas Verona;Sampdoria;1;3;Serie A;Partly Cloudy;NW;3 mph;45 °F;81 %;29.76 in
+29.11.2014;Sassuolo;Hellas Verona;2;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+29.11.2014;Chievo;Lazio;0;0;Serie A;Light Rain;CALM;0 mph;50 °F;100 %;29.62 in
+30.11.2014;Cagliari;Fiorentina;0;4;Serie A;Mist;N;3 mph;54 °F;100 %;29.59 in
+30.11.2014;Cesena;Genoa;0;3;Serie A;Partly Cloudy;NNW;5 mph;64 °F;68 %;29.63 in
+30.11.2014;Empoli;Atalanta;0;0;Serie A;Partly Cloudy;NNW;5 mph;64 °F;68 %;29.63 in
+30.11.2014;Milan;Udinese;2;0;Serie A;Mist;N;3 mph;54 °F;100 %;29.59 in
+30.11.2014;Palermo;Parma;2;1;Serie A;Light Rain;VAR;1 mph;52 °F;100 %;29.74 in
+30.11.2014;Juventus;Torino;2;1;Serie A;Light Rain;VAR;1 mph;52 °F;100 %;29.74 in
+30.11.2014;Roma;Inter;4;2;Serie A;Cloudy;SE;15 mph;70 °F;43 %;29.37 in
+01.12.2014;Sampdoria;Napoli;1;1;Serie A;Light Rain;NNE;9 mph;55 °F;94 %;29.73 in
+22.11.2014;Atalanta;Roma;1;2;Serie A;Partly Cloudy;NNE;6 mph;43 °F;87 %;29.38 in
+22.11.2014;Lazio;Juventus;0;3;Serie A;Fair;E;1 mph;48 °F;82 %;29.75 in
+23.11.2014;Torino;Sassuolo;0;1;Serie A;Mist;NNW;3 mph;39 °F;100 %;29.28 in
+23.11.2014;Cesena;Sampdoria;1;1;Serie A;Fair;NW;3 mph;50 °F;87 %;30.01 in
+23.11.2014;Hellas Verona;Fiorentina;1;2;Serie A;Patches of Fog;CALM;0 mph;39 °F;93 %;30.06 in
+23.11.2014;Napoli;Cagliari;3;3;Serie A;Fair;NW;3 mph;50 °F;87 %;30.01 in
+23.11.2014;Parma;Empoli;0;2;Serie A;Mist;VAR;2 mph;50 °F;94 %;30.15 in
+23.11.2014;Udinese;Chievo;1;1;Serie A;Shallow Fog;VAR;2 mph;41 °F;81 %;30.25 in
+23.11.2014;Milan;Inter;1;1;Serie A;Fog;CALM;0 mph;46 °F;100 %;29.91 in
+24.11.2014;Genoa;Palermo;1;1;Serie A;Fair;NNE;7 mph;57 °F;88 %;30.25 in
+08.11.2014;Sassuolo;Atalanta;0;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+08.11.2014;Sampdoria;Milan;2;2;Serie A;Light Rain;VAR;2 mph;59 °F;100 %;29.82 in
+09.11.2014;Cagliari;Genoa;1;1;Serie A;Partly Cloudy;E;2 mph;55 °F;100 %;29.50 in
+09.11.2014;Chievo;Cesena;2;1;Serie A;Partly Cloudy;E;2 mph;55 °F;100 %;29.50 in
+09.11.2014;Empoli;Lazio;2;1;Serie A;Partly Cloudy;VAR;2 mph;63 °F;82 %;29.63 in
+09.11.2014;Juventus;Parma;7;0;Serie A;Mist;CALM;0 mph;55 °F;94 %;29.74 in
+09.11.2014;Palermo;Udinese;1;1;Serie A;Mist;CALM;0 mph;55 °F;94 %;29.74 in
+09.11.2014;Fiorentina;Napoli;0;1;Serie A;Mostly Cloudy;VAR;1 mph;59 °F;94 %;29.75 in
+09.11.2014;Inter;Hellas Verona;2;2;Serie A;Partly Cloudy;E;2 mph;55 °F;100 %;29.50 in
+09.11.2014;Roma;Torino;3;0;Serie A;Partly Cloudy;ESE;2 mph;59 °F;88 %;29.40 in
+01.11.2014;Napoli;Roma;2;0;Serie A;Fair;NE;5 mph;57 °F;63 %;29.92 in
+01.11.2014;Empoli;Juventus;0;2;Serie A;Fair;NE;5 mph;57 °F;63 %;29.92 in
+01.11.2014;Parma;Inter;2;0;Serie A;Mist;SSW;6 mph;43 °F;93 %;30.09 in
+02.11.2014;Chievo;Sassuolo;0;0;Serie A;Fog;NNE;1 mph;46 °F;100 %;29.85 in
+02.11.2014;Sampdoria;Fiorentina;3;1;Serie A;Fair;VAR;1 mph;48 °F;93 %;30.17 in
+02.11.2014;Torino;Atalanta;0;0;Serie A;Fair;W;3 mph;46 °F;87 %;29.22 in
+02.11.2014;Udinese;Genoa;2;4;Serie A;Fair;VAR;1 mph;46 °F;87 %;30.17 in
+02.11.2014;Milan;Palermo;0;2;Serie A;Fog;NNE;1 mph;46 °F;100 %;29.85 in
+03.11.2014;Cesena;Hellas Verona;1;1;Serie A;Fair;VAR;2 mph;0 °F;0 %;0.00 in
+03.11.2014;Lazio;Cagliari;4;2;Serie A;Fair;ESE;2 mph;52 °F;94 %;29.69 in
+28.10.2014;Sassuolo;Empoli;3;1;Serie A;Mostly Cloudy;NW;8 mph;55 °F;67 %;30.14 in
+29.10.2014;Atalanta;Napoli;1;1;Serie A;Mist;NNE;3 mph;46 °F;87 %;29.24 in
+29.10.2014;Cagliari;Milan;1;1;Serie A;Fair;CALM;0 mph;43 °F;100 %;29.77 in
+29.10.2014;Fiorentina;Udinese;3;0;Serie A;Mostly Cloudy;CALM;0 mph;48 °F;82 %;29.96 in
+29.10.2014;Genoa;Juventus;1;0;Serie A;Fair;ENE;9 mph;55 °F;51 %;30.08 in
+29.10.2014;Inter;Sampdoria;1;0;Serie A;Fair;CALM;0 mph;43 °F;100 %;29.77 in
+29.10.2014;Palermo;Chievo;1;0;Serie A;Fair;SSW;7 mph;41 °F;81 %;29.91 in
+29.10.2014;Roma;Cesena;2;0;Serie A;Fair;NNE;1 mph;50 °F;82 %;29.60 in
+29.10.2014;Torino;Parma;1;0;Serie A;Mist;VAR;1 mph;43 °F;93 %;29.11 in
+30.10.2014;Hellas Verona;Lazio;1;1;Serie A;Mist;N;5 mph;43 °F;93 %;29.94 in
+25.10.2014;Empoli;Cagliari;0;4;Serie A;Fair;N;2 mph;54 °F;77 %;29.66 in
+25.10.2014;Parma;Sassuolo;1;3;Serie A;Fair;VAR;2 mph;43 °F;87 %;29.91 in
+25.10.2014;Sampdoria;Roma;0;0;Serie A;Mostly Cloudy;E;13 mph;61 °F;68 %;30.05 in
+26.10.2014;Chievo;Genoa;1;2;Serie A;Partly Cloudy;N;2 mph;55 °F;82 %;29.82 in
+26.10.2014;Juventus;Palermo;2;0;Serie A;Mist;VAR;2 mph;43 °F;93 %;30.06 in
+26.10.2014;Udinese;Atalanta;2;0;Serie A;Fair;NNE;5 mph;52 °F;58 %;30.17 in
+26.10.2014;Cesena;Inter;0;1;Serie A;Fair;NNE;3 mph;55 °F;67 %;29.84 in
+26.10.2014;Lazio;Torino;2;1;Serie A;Fair;NNE;2 mph;52 °F;71 %;29.60 in
+26.10.2014;Napoli;Hellas Verona;6;2;Serie A;Fair;NNE;3 mph;55 °F;67 %;29.84 in
+26.10.2014;Milan;Fiorentina;1;1;Serie A;Partly Cloudy;N;2 mph;55 °F;82 %;29.82 in
+18.10.2014;Roma;Chievo;3;0;Serie A;Fair;ENE;2 mph;68 °F;73 %;29.69 in
+18.10.2014;Sassuolo;Juventus;1;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+19.10.2014;Fiorentina;Lazio;0;2;Serie A;Fair;VAR;2 mph;63 °F;94 %;30.13 in
+19.10.2014;Atalanta;Parma;1;0;Serie A;Mist;NNE;5 mph;61 °F;94 %;29.44 in
+19.10.2014;Cagliari;Sampdoria;2;2;Serie A;Shallow Fog;S;2 mph;64 °F;100 %;29.88 in
+19.10.2014;Hellas Verona;Milan;1;3;Serie A;Mist;N;2 mph;61 °F;94 %;30.06 in
+19.10.2014;Palermo;Cesena;2;1;Serie A;Mist;VAR;1 mph;63 °F;100 %;30.09 in
+19.10.2014;Torino;Udinese;1;0;Serie A;Partly Cloudy;CALM;0 mph;61 °F;82 %;29.28 in
+19.10.2014;Inter;Napoli;2;2;Serie A;Shallow Fog;S;2 mph;64 °F;100 %;29.88 in
+20.10.2014;Genoa;Empoli;1;1;Serie A;Fair;NNE;5 mph;64 °F;88 %;30.22 in
+04.10.2014;Hellas Verona;Cagliari;1;0;Serie A;Partly Cloudy;CALM;0 mph;59 °F;82 %;29.94 in
+04.10.2014;Milan;Chievo;2;0;Serie A;Fair;E;5 mph;64 °F;77 %;29.77 in
+05.10.2014;Empoli;Palermo;3;0;Serie A;Fair;N;6 mph;66 °F;73 %;29.69 in
+05.10.2014;Lazio;Sassuolo;3;2;Serie A;Fair;ESE;2 mph;63 °F;82 %;29.48 in
+05.10.2014;Parma;Genoa;1;2;Serie A;Fair;VAR;1 mph;54 °F;94 %;29.88 in
+05.10.2014;Sampdoria;Atalanta;1;0;Serie A;Fair;NNE;10 mph;61 °F;72 %;30.02 in
+05.10.2014;Udinese;Cesena;1;1;Serie A;Fair;VAR;2 mph;59 °F;63 %;30.02 in
+05.10.2014;Juventus;Roma;3;2;Serie A;Fair;VAR;1 mph;54 °F;94 %;29.88 in
+05.10.2014;Fiorentina;Inter;3;0;Serie A;Fair;W;3 mph;61 °F;72 %;29.87 in
+05.10.2014;Napoli;Torino;2;1;Serie A;Fair;N;6 mph;66 °F;73 %;29.69 in
+27.09.2014;Roma;Hellas Verona;2;0;Serie A;Fair;NNE;3 mph;63 °F;55 %;29.66 in
+27.09.2014;Atalanta;Juventus;0;3;Serie A;Fair;NNE;3 mph;61 °F;77 %;29.41 in
+28.09.2014;Sassuolo;Napoli;0;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+28.09.2014;Cesena;Milan;1;1;Serie A;Fair;ENE;8 mph;68 °F;52 %;30.01 in
+28.09.2014;Chievo;Empoli;1;1;Serie A;Mist;ENE;3 mph;63 °F;82 %;29.94 in
+28.09.2014;Inter;Cagliari;1;4;Serie A;Mist;ENE;3 mph;63 °F;82 %;29.94 in
+28.09.2014;Torino;Fiorentina;1;1;Serie A;Fair;NW;7 mph;63 °F;82 %;29.31 in
+28.09.2014;Genoa;Sampdoria;0;1;Serie A;Fair;N;5 mph;66 °F;83 %;30.28 in
+29.09.2014;Udinese;Parma;4;2;Serie A;Shallow Fog;VAR;1 mph;57 °F;88 %;30.31 in
+29.09.2014;Palermo;Lazio;0;4;Serie A;Fair;VAR;1 mph;55 °F;94 %;30.18 in
+23.09.2014;Empoli;Milan;2;2;Serie A;Partly Cloudy;SSW;5 mph;75 °F;69 %;29.54 in
+24.09.2014;Cagliari;Torino;1;2;Serie A;Fair;N;2 mph;57 °F;72 %;29.68 in
+24.09.2014;Fiorentina;Sassuolo;0;0;Serie A;Fair;VAR;2 mph;57 °F;59 %;29.90 in
+24.09.2014;Hellas Verona;Genoa;2;2;Serie A;Fair;N;6 mph;54 °F;88 %;29.85 in
+24.09.2014;Inter;Atalanta;2;0;Serie A;Fair;N;2 mph;57 °F;72 %;29.68 in
+24.09.2014;Juventus;Cesena;3;0;Serie A;Fair;VAR;3 mph;48 °F;93 %;29.88 in
+24.09.2014;Napoli;Palermo;3;3;Serie A;Fair;NNE;8 mph;64 °F;42 %;29.75 in
+24.09.2014;Parma;Roma;1;2;Serie A;Fair;VAR;3 mph;48 °F;93 %;29.88 in
+24.09.2014;Sampdoria;Chievo;2;1;Serie A;Fair;N;7 mph;61 °F;68 %;30.05 in
+25.09.2014;Lazio;Udinese;0;1;Serie A;Thunder;ENE;7 mph;68 °F;83 %;29.54 in
+20.09.2014;Cesena;Empoli;2;2;Serie A;Fair;N;2 mph;77 °F;74 %;29.84 in
+20.09.2014;Milan;Juventus;0;1;Serie A;Mostly Cloudy;N;3 mph;64 °F;94 %;29.71 in
+21.09.2014;Chievo;Parma;2;3;Serie A;Mist;CALM;0 mph;63 °F;100 %;29.65 in
+21.09.2014;Genoa;Lazio;1;0;Serie A;Mostly Cloudy;NNE;2 mph;72 °F;83 %;29.99 in
+21.09.2014;Roma;Cagliari;2;0;Serie A;Partly Cloudy;S;3 mph;75 °F;94 %;29.57 in
+21.09.2014;Sassuolo;Sampdoria;0;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+21.09.2014;Atalanta;Fiorentina;0;1;Serie A;Mostly Cloudy;VAR;1 mph;66 °F;88 %;29.18 in
+21.09.2014;Udinese;Napoli;1;0;Serie A;Light Rain;VAR;1 mph;68 °F;94 %;29.96 in
+21.09.2014;Palermo;Inter;1;1;Serie A;Fair;VAR;3 mph;61 °F;100 %;29.82 in
+21.09.2014;Torino;Hellas Verona;0;1;Serie A;Fair;CALM;0 mph;63 °F;94 %;29.02 in
+13.09.2014;Empoli;Roma;0;1;Serie A;Mostly Cloudy;SSW;7 mph;75 °F;89 %;29.63 in
+13.09.2014;Juventus;Udinese;2;0;Serie A;Fair;VAR;1 mph;54 °F;94 %;29.80 in
+14.09.2014;Sampdoria;Torino;2;0;Serie A;Fair;CALM;0 mph;64 °F;83 %;30.00 in
+14.09.2014;Cagliari;Atalanta;1;2;Serie A;Fair;NE;5 mph;64 °F;77 %;29.62 in
+14.09.2014;Fiorentina;Genoa;0;0;Serie A;Fair;NE;5 mph;61 °F;88 %;29.84 in
+14.09.2014;Inter;Sassuolo;7;0;Serie A;Fair;NE;5 mph;64 °F;77 %;29.62 in
+14.09.2014;Lazio;Cesena;3;0;Serie A;Fair;CALM;0 mph;63 °F;68 %;29.48 in
+14.09.2014;Napoli;Chievo;0;1;Serie A;Fair;NNE;3 mph;66 °F;78 %;29.72 in
+14.09.2014;Parma;Milan;4;5;Serie A;Fair;CALM;0 mph;57 °F;94 %;29.82 in
+15.09.2014;Hellas Verona;Palermo;2;1;Serie A;Fair;ENE;6 mph;61 °F;82 %;29.76 in
+30.08.2014;Chievo;Juventus;0;1;Serie A;Partly Cloudy;VAR;2 mph;72 °F;78 %;29.62 in
+30.08.2014;Roma;Fiorentina;2;0;Serie A;Fair;SSE;2 mph;72 °F;83 %;29.51 in
+31.08.2014;Atalanta;Hellas Verona;0;0;Serie A;Fair;NE;5 mph;68 °F;83 %;29.15 in
+31.08.2014;Milan;Lazio;3;1;Serie A;Partly Cloudy;VAR;2 mph;72 °F;83 %;29.59 in
+31.08.2014;Cesena;Parma;1;0;Serie A;Fair;NNE;2 mph;75 °F;73 %;29.72 in
+31.08.2014;Genoa;Napoli;1;2;Serie A;Fair;NNE;5 mph;72 °F;88 %;29.96 in
+31.08.2014;Palermo;Sampdoria;1;1;Serie A;Fair;S;5 mph;64 °F;83 %;29.77 in
+31.08.2014;Sassuolo;Cagliari;1;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+31.08.2014;Torino;Inter;0;0;Serie A;Fair;NNE;6 mph;68 °F;94 %;28.97 in
+31.08.2014;Udinese;Empoli;2;0;Serie A;Fair;VAR;1 mph;68 °F;78 %;29.93 in

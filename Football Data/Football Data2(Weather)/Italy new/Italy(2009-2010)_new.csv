@@ -1,0 +1,381 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+15.05.2010;Milan;Juventus;3;0;Serie A;Partly Cloudy;NNW;5 mph;54 °F;88 %;29.27 in
+15.05.2010;Lazio;Udinese;3;1;Serie A;Partly Cloudy;N;6 mph;55 °F;94 %;29.14 in
+16.05.2010;Cagliari;Bologna;1;1;Serie A;Partly Cloudy;CALM;0 mph;57 °F;77 %;29.21 in
+16.05.2010;Bari;Fiorentina;2;0;Serie A;Fair;NNE;9 mph;59 °F;39 %;28.88 in
+16.05.2010;Catania;Genoa;1;0;Serie A;Fair;SW;13 mph;57 °F;55 %;29.82 in
+16.05.2010;Siena;Inter;0;1;Serie A;Mostly Cloudy;E;3 mph;57 °F;88 %;29.62 in
+16.05.2010;Parma;Livorno;4;1;Serie A;Mostly Cloudy;S;8 mph;54 °F;88 %;29.41 in
+16.05.2010;Sampdoria;Napoli;1;0;Serie A;Mostly Cloudy;WSW;12 mph;57 °F;82 %;29.52 in
+16.05.2010;Atalanta;Palermo;1;2;Serie A;Partly Cloudy;W;5 mph;55 °F;88 %;28.75 in
+16.05.2010;Chievo;Roma;0;2;Serie A;Partly Cloudy;CALM;0 mph;57 °F;77 %;29.21 in
+09.05.2010;Napoli;Atalanta;2;0;Serie A;Fair;VAR;2 mph;59 °F;72 %;29.66 in
+09.05.2010;Udinese;Bari;3;3;Serie A;Mostly Cloudy;VAR;1 mph;55 °F;82 %;29.78 in
+09.05.2010;Roma;Cagliari;2;1;Serie A;Fair;SE;2 mph;55 °F;88 %;29.46 in
+09.05.2010;Bologna;Catania;1;1;Serie A;Fair;SSW;9 mph;54 °F;82 %;29.68 in
+09.05.2010;Inter;Chievo;4;3;Serie A;Fair;W;5 mph;57 °F;72 %;29.47 in
+09.05.2010;Livorno;Lazio;1;2;Serie A;Partly Cloudy;CALM;0 mph;54 °F;94 %;29.91 in
+09.05.2010;Genoa;Milan;1;0;Serie A;Partly Cloudy;SSE;13 mph;61 °F;77 %;29.87 in
+09.05.2010;Juventus;Parma;2;3;Serie A;Fair;SSW;5 mph;54 °F;77 %;29.68 in
+09.05.2010;Palermo;Sampdoria;1;1;Serie A;Fair;SSW;5 mph;54 °F;77 %;29.68 in
+09.05.2010;Fiorentina;Siena;1;1;Serie A;Fair;VAR;2 mph;54 °F;82 %;29.78 in
+01.05.2010;Parma;Roma;1;2;Serie A;Fair;SSW;9 mph;63 °F;55 %;29.77 in
+01.05.2010;Milan;Fiorentina;1;0;Serie A;Partly Cloudy;W;13 mph;66 °F;56 %;29.56 in
+02.05.2010;Atalanta;Bologna;1;1;Serie A;Mostly Cloudy;N;3 mph;61 °F;77 %;29.01 in
+02.05.2010;Bari;Genoa;3;0;Serie A;Mostly Cloudy;VAR;1 mph;59 °F;94 %;29.14 in
+02.05.2010;Catania;Juventus;1;1;Serie A;Fair;W;7 mph;59 °F;63 %;29.94 in
+02.05.2010;Sampdoria;Livorno;2;0;Serie A;Fair;VAR;1 mph;66 °F;73 %;29.88 in
+02.05.2010;Chievo;Napoli;1;2;Serie A;Partly Cloudy;NW;7 mph;64 °F;68 %;29.47 in
+02.05.2010;Siena;Palermo;1;2;Serie A;Mostly Cloudy;SE;5 mph;61 °F;82 %;29.91 in
+02.05.2010;Cagliari;Udinese;2;2;Serie A;Partly Cloudy;NW;7 mph;64 °F;68 %;29.47 in
+02.05.2010;Lazio;Inter;0;2;Serie A;Partly Cloudy;CALM;0 mph;59 °F;72 %;29.51 in
+24.04.2010;Inter;Atalanta;3;1;Serie A;Cloudy;VAR;2 mph;55 °F;94 %;29.65 in
+24.04.2010;Palermo;Milan;3;1;Serie A;Cloudy;NE;6 mph;55 °F;94 %;29.82 in
+25.04.2010;Juventus;Bari;3;0;Serie A;Fair;VAR;3 mph;52 °F;94 %;29.97 in
+25.04.2010;Napoli;Cagliari;0;0;Serie A;Mostly Cloudy;N;5 mph;61 °F;59 %;29.69 in
+25.04.2010;Livorno;Catania;3;1;Serie A;Partly Cloudy;ESE;9 mph;59 °F;77 %;30.06 in
+25.04.2010;Fiorentina;Chievo;0;2;Serie A;Partly Cloudy;NNE;8 mph;61 °F;68 %;29.96 in
+25.04.2010;Genoa;Lazio;1;2;Serie A;Fair;NNE;14 mph;66 °F;52 %;30.08 in
+25.04.2010;Bologna;Parma;2;1;Serie A;Partly Cloudy;SW;3 mph;54 °F;100 %;29.98 in
+25.04.2010;Udinese;Siena;4;1;Serie A;Fair;VAR;1 mph;52 °F;82 %;30.11 in
+25.04.2010;Roma;Sampdoria;1;2;Serie A;Partly Cloudy;NNE;1 mph;61 °F;94 %;29.51 in
+16.04.2010;Inter;Juventus;2;0;Serie A;Fair;VAR;1 mph;52 °F;67 %;29.50 in
+17.04.2010;Chievo;Livorno;2;0;Serie A;Mostly Cloudy;NNW;5 mph;54 °F;77 %;29.62 in
+18.04.2010;Udinese;Bologna;1;1;Serie A;Partly Cloudy / Windy;ENE;21 mph;61 °F;34 %;29.96 in
+18.04.2010;Atalanta;Fiorentina;2;1;Serie A;Mostly Cloudy;NW;3 mph;50 °F;94 %;29.21 in
+18.04.2010;Parma;Genoa;2;3;Serie A;Cloudy;VAR;2 mph;52 °F;94 %;29.88 in
+18.04.2010;Sampdoria;Milan;2;1;Serie A;Mostly Cloudy;VAR;3 mph;54 °F;88 %;30.02 in
+18.04.2010;Bari;Napoli;1;2;Serie A;Mostly Cloudy;VAR;1 mph;50 °F;94 %;29.35 in
+18.04.2010;Cagliari;Palermo;2;2;Serie A;Cloudy;NNW;6 mph;52 °F;94 %;29.68 in
+18.04.2010;Catania;Siena;2;2;Serie A;Mostly Cloudy;ENE;6 mph;61 °F;82 %;29.94 in
+18.04.2010;Lazio;Roma;1;2;Serie A;Partly Cloudy;;0 mph;52 °F;94 %;29.51 in
+10.04.2010;Napoli;Parma;2;3;Serie A;Mostly Cloudy;VAR;2 mph;59 °F;59 %;29.89 in
+10.04.2010;Fiorentina;Inter;2;2;Serie A;Fair;VAR;3 mph;57 °F;51 %;30.07 in
+11.04.2010;Roma;Atalanta;2;1;Serie A;Mostly Cloudy;S;6 mph;55 °F;88 %;29.48 in
+11.04.2010;Siena;Bari;3;2;Serie A;Fair;CALM;0 mph;50 °F;100 %;29.97 in
+11.04.2010;Juventus;Cagliari;1;0;Serie A;Fair;NE;17 mph;57 °F;77 %;29.74 in
+11.04.2010;Milan;Catania;2;2;Serie A;Fair;WNW;7 mph;63 °F;34 %;29.47 in
+11.04.2010;Palermo;Chievo;3;1;Serie A;Fair;NE;17 mph;57 °F;77 %;29.74 in
+11.04.2010;Bologna;Lazio;2;3;Serie A;Fair;ESE;15 mph;55 °F;82 %;29.74 in
+11.04.2010;Livorno;Udinese;0;2;Serie A;Fair;CALM;0 mph;50 °F;100 %;29.97 in
+11.04.2010;Sampdoria;Genoa;1;0;Serie A;Mostly Cloudy;E;15 mph;54 °F;77 %;30.00 in
+03.04.2010;Inter;Bologna;3;0;Serie A;Fair;CALM;0 mph;45 °F;71 %;29.65 in
+03.04.2010;Parma;Fiorentina;1;1;Serie A;Fair;VAR;3 mph;45 °F;76 %;29.88 in
+03.04.2010;Genoa;Livorno;1;1;Serie A;Partly Cloudy;SE;6 mph;54 °F;62 %;30.05 in
+03.04.2010;Cagliari;Milan;2;3;Serie A;Fair;CALM;0 mph;45 °F;71 %;29.65 in
+03.04.2010;Lazio;Napoli;1;1;Serie A;Fair;E;5 mph;46 °F;81 %;29.63 in
+03.04.2010;Bari;Roma;0;1;Serie A;Fair;CALM;0 mph;41 °F;61 %;29.29 in
+03.04.2010;Chievo;Sampdoria;1;2;Serie A;Fair;CALM;0 mph;45 °F;71 %;29.65 in
+03.04.2010;Atalanta;Siena;2;0;Serie A;Fair;N;8 mph;41 °F;70 %;29.21 in
+03.04.2010;Catania;Palermo;2;0;Serie A;Fair;VAR;3 mph;52 °F;76 %;30.06 in
+03.04.2010;Udinese;Juventus;3;0;Serie A;Fair;VAR;3 mph;43 °F;66 %;30.02 in
+27.03.2010;Roma;Inter;2;1;Serie A;Partly Cloudy;SSW;2 mph;55 °F;88 %;29.54 in
+27.03.2010;Palermo;Bologna;3;1;Serie A;Fair;WSW;12 mph;57 °F;55 %;29.68 in
+28.03.2010;Juventus;Atalanta;2;1;Serie A;Fair;SSW;10 mph;52 °F;67 %;29.68 in
+28.03.2010;Livorno;Bari;1;1;Serie A;Fair;E;7 mph;50 °F;94 %;29.91 in
+28.03.2010;Sampdoria;Cagliari;1;1;Serie A;Fair;CALM;0 mph;50 °F;82 %;29.82 in
+28.03.2010;Napoli;Catania;1;0;Serie A;Fair;VAR;3 mph;55 °F;82 %;29.69 in
+28.03.2010;Siena;Genoa;0;0;Serie A;Fair;E;7 mph;50 °F;94 %;29.91 in
+28.03.2010;Chievo;Parma;0;0;Serie A;Fair;WSW;5 mph;55 °F;63 %;29.47 in
+28.03.2010;Fiorentina;Udinese;4;1;Serie A;Mostly Cloudy;ESE;5 mph;52 °F;82 %;29.78 in
+28.03.2010;Milan;Lazio;1;1;Serie A;Fair;WSW;5 mph;55 °F;63 %;29.47 in
+24.03.2010;Atalanta;Cagliari;3;1;Serie A;Partly Cloudy;N;2 mph;52 °F;94 %;29.24 in
+24.03.2010;Udinese;Chievo;0;0;Serie A;Cloudy;CALM;0 mph;48 °F;87 %;30.02 in
+24.03.2010;Catania;Fiorentina;1;0;Serie A;Mostly Cloudy;VAR;2 mph;55 °F;94 %;30.00 in
+24.03.2010;Inter;Livorno;3;0;Serie A;Mostly Cloudy;VAR;1 mph;52 °F;94 %;29.68 in
+24.03.2010;Parma;Milan;1;0;Serie A;Mostly Cloudy;VAR;3 mph;50 °F;100 %;29.91 in
+24.03.2010;Genoa;Palermo;2;2;Serie A;Partly Cloudy;N;10 mph;59 °F;67 %;30.02 in
+24.03.2010;Bologna;Roma;0;2;Serie A;Fair;SW;5 mph;50 °F;94 %;29.89 in
+24.03.2010;Bari;Sampdoria;2;1;Serie A;Mostly Cloudy;VAR;1 mph;50 °F;94 %;29.35 in
+24.03.2010;Lazio;Siena;2;0;Serie A;Partly Cloudy;E;2 mph;52 °F;88 %;29.54 in
+25.03.2010;Napoli;Juventus;3;1;Serie A;Fair;CALM;0 mph;55 °F;94 %;29.81 in
+20.03.2010;Fiorentina;Genoa;3;0;Serie A;Partly Cloudy;E;5 mph;48 °F;87 %;30.25 in
+20.03.2010;Palermo;Inter;1;1;Serie A;Fair;S;6 mph;46 °F;81 %;30.21 in
+20.03.2010;Roma;Udinese;4;2;Serie A;Mostly Cloudy;SE;6 mph;52 °F;88 %;29.95 in
+21.03.2010;Siena;Bologna;1;0;Serie A;Mostly Cloudy;E;3 mph;54 °F;88 %;30.26 in
+21.03.2010;Chievo;Catania;1;1;Serie A;Cloudy;VAR;1 mph;50 °F;100 %;29.85 in
+21.03.2010;Cagliari;Lazio;0;2;Serie A;Cloudy;VAR;1 mph;50 °F;100 %;29.85 in
+21.03.2010;Atalanta;Livorno;3;0;Serie A;Mostly Cloudy;N;3 mph;50 °F;87 %;29.41 in
+21.03.2010;Milan;Napoli;1;1;Serie A;Cloudy;VAR;1 mph;50 °F;100 %;29.85 in
+21.03.2010;Bari;Parma;1;1;Serie A;Mostly Cloudy;VAR;1 mph;48 °F;100 %;29.52 in
+21.03.2010;Sampdoria;Juventus;1;0;Serie A;Mostly Cloudy;VAR;3 mph;52 °F;82 %;30.26 in
+12.03.2010;Catania;Inter;3;1;Serie A;Fair;WSW;6 mph;46 °F;71 %;29.97 in
+13.03.2010;Napoli;Fiorentina;1;3;Serie A;Fair;VAR;3 mph;43 °F;76 %;29.78 in
+14.03.2010;Parma;Atalanta;1;0;Serie A;Fair;VAR;2 mph;34 °F;93 %;29.97 in
+14.03.2010;Lazio;Bari;0;2;Serie A;Fair;NE;3 mph;39 °F;93 %;29.57 in
+14.03.2010;Genoa;Cagliari;5;3;Serie A;Fair;NE;10 mph;46 °F;62 %;30.11 in
+14.03.2010;Udinese;Palermo;3;2;Serie A;Fair;VAR;1 mph;34 °F;70 %;30.11 in
+14.03.2010;Livorno;Roma;3;3;Serie A;Fair;SE;1 mph;39 °F;93 %;30.12 in
+14.03.2010;Bologna;Sampdoria;1;1;Serie A;Fair;SSW;8 mph;36 °F;87 %;29.95 in
+14.03.2010;Juventus;Siena;3;3;Serie A;Fair;VAR;2 mph;34 °F;93 %;29.97 in
+14.03.2010;Milan;Chievo;1;0;Serie A;Fair;ENE;5 mph;39 °F;93 %;29.71 in
+06.03.2010;Fiorentina;Juventus;1;2;Serie A;Partly Cloudy;NNW;7 mph;41 °F;57 %;29.93 in
+06.03.2010;Roma;Milan;0;0;Serie A;Fair;NNE;3 mph;37 °F;81 %;29.43 in
+07.03.2010;Cagliari;Catania;2;2;Serie A;Fair;E;6 mph;36 °F;70 %;29.62 in
+07.03.2010;Bari;Chievo;1;0;Serie A;Partly Cloudy;E;7 mph;36 °F;60 %;29.26 in
+07.03.2010;Sampdoria;Lazio;2;1;Serie A;Fair;NNE;9 mph;36 °F;75 %;30.08 in
+07.03.2010;Palermo;Livorno;1;0;Serie A;Mostly Cloudy;ENE;7 mph;39 °F;75 %;29.85 in
+07.03.2010;Bologna;Napoli;2;1;Serie A;Fair;VAR;2 mph;41 °F;76 %;29.83 in
+07.03.2010;Siena;Parma;1;1;Serie A;Fair;E;6 mph;39 °F;87 %;29.97 in
+07.03.2010;Atalanta;Udinese;0;0;Serie A;Fair;ESE;5 mph;34 °F;65 %;29.18 in
+07.03.2010;Inter;Genoa;0;0;Serie A;Fair;E;6 mph;36 °F;70 %;29.62 in
+27.02.2010;Catania;Bari;4;0;Serie A;Fair;SW;15 mph;61 °F;55 %;29.74 in
+27.02.2010;Lazio;Fiorentina;1;1;Serie A;Fair;SSE;5 mph;48 °F;87 %;29.28 in
+28.02.2010;Milan;Atalanta;3;1;Serie A;Cloudy;VAR;1 mph;46 °F;87 %;29.45 in
+28.02.2010;Genoa;Bologna;3;4;Serie A;Partly Cloudy;ENE;7 mph;52 °F;71 %;29.81 in
+28.02.2010;Chievo;Cagliari;2;1;Serie A;Cloudy;VAR;1 mph;46 °F;87 %;29.45 in
+28.02.2010;Udinese;Inter;2;3;Serie A;Partly Cloudy;E;8 mph;43 °F;76 %;29.81 in
+28.02.2010;Napoli;Roma;2;2;Serie A;Fair;VAR;2 mph;52 °F;76 %;29.66 in
+28.02.2010;Parma;Sampdoria;1;0;Serie A;Mostly Cloudy;VAR;3 mph;50 °F;58 %;29.65 in
+28.02.2010;Livorno;Siena;1;2;Serie A;Partly Cloudy;ENE;5 mph;50 °F;87 %;29.82 in
+28.02.2010;Juventus;Palermo;0;2;Serie A;Mostly Cloudy;VAR;3 mph;50 °F;58 %;29.65 in
+20.02.2010;Genoa;Udinese;3;0;Serie A;Fair;NE;9 mph;45 °F;76 %;29.25 in
+20.02.2010;Inter;Sampdoria;0;0;Serie A;Mostly Cloudy;WSW;6 mph;43 °F;100 %;28.86 in
+21.02.2010;Roma;Catania;1;0;Serie A;Fair;SSW;2 mph;45 °F;81 %;29.16 in
+21.02.2010;Atalanta;Chievo;0;1;Serie A;Partly Cloudy;NNW;5 mph;37 °F;87 %;28.75 in
+21.02.2010;Bologna;Juventus;1;2;Serie A;Fair;S;9 mph;39 °F;93 %;29.42 in
+21.02.2010;Palermo;Lazio;3;1;Serie A;Partly Cloudy;VAR;2 mph;37 °F;93 %;29.41 in
+21.02.2010;Fiorentina;Livorno;2;1;Serie A;Fair;VAR;1 mph;39 °F;93 %;29.46 in
+21.02.2010;Siena;Napoli;0;0;Serie A;Fair;E;3 mph;37 °F;100 %;29.56 in
+21.02.2010;Cagliari;Parma;2;0;Serie A;Fair;VAR;2 mph;39 °F;93 %;29.21 in
+21.02.2010;Bari;Milan;0;2;Serie A;Fair;VAR;2 mph;32 °F;55 %;28.86 in
+12.02.2010;Milan;Udinese;3;2;Serie A;Mostly Cloudy;E;8 mph;37 °F;81 %;29.15 in
+13.02.2010;Roma;Palermo;4;1;Serie A;Fair;NNE;3 mph;34 °F;87 %;29.19 in
+13.02.2010;Sampdoria;Fiorentina;2;0;Serie A;Fair;VAR;3 mph;37 °F;75 %;29.70 in
+14.02.2010;Catania;Atalanta;0;0;Serie A;Mostly Cloudy;CALM;0 mph;48 °F;76 %;29.79 in
+14.02.2010;Cagliari;Bari;3;1;Serie A;Fair;N;6 mph;37 °F;65 %;29.42 in
+14.02.2010;Livorno;Bologna;0;1;Serie A;Mostly Cloudy;ESE;7 mph;39 °F;93 %;29.82 in
+14.02.2010;Juventus;Genoa;3;2;Serie A;Mostly Cloudy;VAR;3 mph;34 °F;93 %;29.62 in
+14.02.2010;Parma;Lazio;0;2;Serie A;Mostly Cloudy;VAR;3 mph;34 °F;93 %;29.62 in
+14.02.2010;Chievo;Siena;0;1;Serie A;Fair;N;6 mph;37 °F;65 %;29.42 in
+14.02.2010;Napoli;Inter;0;0;Serie A;Partly Cloudy;VAR;3 mph;43 °F;76 %;29.54 in
+06.02.2010;Palermo;Parma;2;1;Serie A;Mostly Cloudy;SSW;8 mph;37 °F;100 %;29.53 in
+06.02.2010;Livorno;Juventus;1;1;Serie A;Mostly Cloudy;WSW;10 mph;45 °F;87 %;29.70 in
+07.02.2010;Atalanta;Bari;1;0;Serie A;Partly Cloudy;E;2 mph;37 °F;100 %;28.93 in
+07.02.2010;Inter;Cagliari;3;0;Serie A;Partly Cloudy;VAR;1 mph;34 °F;81 %;29.39 in
+07.02.2010;Lazio;Catania;0;1;Serie A;Partly Cloudy;NE;6 mph;39 °F;93 %;29.14 in
+07.02.2010;Genoa;Chievo;1;0;Serie A;Fair;NNE;15 mph;48 °F;43 %;29.69 in
+07.02.2010;Bologna;Milan;0;0;Serie A;Mostly Cloudy;ESE;3 mph;41 °F;93 %;29.62 in
+07.02.2010;Udinese;Napoli;3;1;Serie A;Partly Cloudy;VAR;2 mph;37 °F;70 %;29.72 in
+07.02.2010;Siena;Sampdoria;1;2;Serie A;Fair;ESE;5 mph;41 °F;87 %;29.70 in
+07.02.2010;Fiorentina;Roma;0;1;Serie A;Partly Cloudy;VAR;1 mph;43 °F;76 %;29.60 in
+30.01.2010;Bari;Palermo;4;2;Serie A;Mostly Cloudy;VAR;1 mph;32 °F;93 %;28.60 in
+30.01.2010;Napoli;Genoa;0;0;Serie A;Partly Cloudy;SSW;6 mph;52 °F;62 %;29.19 in
+31.01.2010;Sampdoria;Atalanta;2;0;Serie A;Mostly Cloudy;NNE;13 mph;36 °F;93 %;29.32 in
+31.01.2010;Chievo;Bologna;1;1;Serie A;Fair;WNW;7 mph;32 °F;47 %;28.95 in
+31.01.2010;Cagliari;Fiorentina;2;2;Serie A;Fair;WNW;7 mph;32 °F;47 %;28.95 in
+31.01.2010;Milan;Livorno;1;1;Serie A;Fair;WNW;7 mph;32 °F;47 %;28.95 in
+31.01.2010;Roma;Siena;2;1;Serie A;Mostly Cloudy;WNW;5 mph;43 °F;70 %;28.84 in
+31.01.2010;Catania;Udinese;1;1;Serie A;Fair;W;6 mph;50 °F;71 %;29.47 in
+31.01.2010;Juventus;Lazio;1;1;Serie A;Partly Cloudy;SSW;8 mph;0 °F;93 %;29.18 in
+10.02.2010;Parma;Inter;1;1;Serie A;Cloudy;VAR;3 mph;34 °F;100 %;29.33 in
+23.01.2010;Catania;Parma;3;0;Serie A;Fair;SW;7 mph;45 °F;71 %;29.97 in
+23.01.2010;Juventus;Roma;1;2;Serie A;Cloudy;VAR;3 mph;32 °F;100 %;30.15 in
+24.01.2010;Genoa;Atalanta;2;0;Serie A;Mostly Cloudy;NE;15 mph;37 °F;65 %;30.19 in
+24.01.2010;Bologna;Bari;2;1;Serie A;Fair;W;2 mph;28 °F;100 %;30.09 in
+24.01.2010;Siena;Cagliari;1;1;Serie A;Fair;CALM;0 mph;30 °F;93 %;30.21 in
+24.01.2010;Lazio;Chievo;1;1;Serie A;Fair;NE;3 mph;36 °F;87 %;29.75 in
+24.01.2010;Palermo;Fiorentina;3;0;Serie A;Mostly Cloudy;VAR;1 mph;32 °F;93 %;30.12 in
+24.01.2010;Livorno;Napoli;0;2;Serie A;Fair;CALM;0 mph;30 °F;93 %;30.21 in
+24.01.2010;Udinese;Sampdoria;2;3;Serie A;Fair;VAR;3 mph;27 °F;59 %;30.25 in
+24.01.2010;Inter;Milan;2;0;Serie A;Mostly Cloudy;VAR;2 mph;32 °F;75 %;29.88 in
+16.01.2010;Cagliari;Livorno;3;0;Serie A;Fair;VAR;1 mph;34 °F;75 %;29.85 in
+16.01.2010;Bari;Inter;2;2;Serie A;Fair;VAR;3 mph;30 °F;93 %;29.49 in
+17.01.2010;Sampdoria;Catania;1;1;Serie A;Mostly Cloudy;N;7 mph;37 °F;52 %;30.23 in
+17.01.2010;Roma;Genoa;3;0;Serie A;Fair;NNE;3 mph;37 °F;87 %;29.72 in
+17.01.2010;Chievo;Juventus;1;0;Serie A;Cloudy;VAR;2 mph;37 °F;81 %;29.85 in
+17.01.2010;Atalanta;Lazio;3;0;Serie A;Cloudy;VAR;1 mph;37 °F;70 %;29.38 in
+17.01.2010;Milan;Siena;4;0;Serie A;Cloudy;VAR;2 mph;37 °F;81 %;29.85 in
+17.01.2010;Parma;Udinese;0;0;Serie A;Fair;VAR;1 mph;34 °F;93 %;30.06 in
+17.01.2010;Fiorentina;Bologna;1;2;Serie A;Fair;ESE;3 mph;36 °F;81 %;30.07 in
+17.01.2010;Napoli;Palermo;0;0;Serie A;Partly Cloudy;VAR;1 mph;41 °F;70 %;29.92 in
+09.01.2010;Roma;Chievo;1;0;Serie A;Partly Cloudy;E;3 mph;52 °F;88 %;28.99 in
+09.01.2010;Inter;Siena;4;3;Serie A;Cloudy;VAR;2 mph;37 °F;87 %;29.12 in
+10.01.2010;Bologna;Cagliari;0;1;Serie A;Partly Cloudy;VAR;2 mph;43 °F;76 %;29.36 in
+10.01.2010;Fiorentina;Bari;2;1;Serie A;Partly Cloudy;VAR;1 mph;43 °F;81 %;29.49 in
+10.01.2010;Genoa;Catania;2;0;Serie A;Cloudy / Windy;SSW;23 mph;45 °F;76 %;29.55 in
+10.01.2010;Livorno;Parma;2;1;Serie A;Partly Cloudy;W;15 mph;46 °F;62 %;29.62 in
+10.01.2010;Napoli;Sampdoria;1;0;Serie A;Mostly Cloudy;S;5 mph;45 °F;87 %;29.45 in
+10.01.2010;Palermo;Atalanta;1;0;Serie A;Mostly Cloudy;VAR;3 mph;34 °F;100 %;29.38 in
+10.01.2010;Udinese;Lazio;1;1;Serie A;Partly Cloudy;VAR;2 mph;41 °F;81 %;29.55 in
+10.01.2010;Juventus;Milan;0;3;Serie A;Mostly Cloudy;VAR;3 mph;34 °F;100 %;29.38 in
+06.01.2010;Chievo;Inter;0;1;Serie A;Mostly Cloudy;VAR;2 mph;36 °F;65 %;29.15 in
+06.01.2010;Atalanta;Napoli;0;2;Serie A;Cloudy;VAR;2 mph;32 °F;80 %;28.70 in
+06.01.2010;Bari;Udinese;2;0;Serie A;Mostly Cloudy;VAR;1 mph;34 °F;65 %;28.77 in
+06.01.2010;Cagliari;Roma;2;2;Serie A;Mostly Cloudy;VAR;2 mph;36 °F;65 %;29.15 in
+06.01.2010;Catania;Bologna;1;0;Serie A;Fair;W;7 mph;59 °F;72 %;29.59 in
+06.01.2010;Lazio;Livorno;4;1;Serie A;Partly Cloudy;SSE;15 mph;54 °F;94 %;28.96 in
+06.01.2010;Parma;Juventus;1;2;Serie A;Cloudy;SW;5 mph;32 °F;100 %;29.38 in
+06.01.2010;Sampdoria;Palermo;1;1;Serie A;Cloudy;N;9 mph;36 °F;87 %;29.49 in
+06.01.2010;Siena;Fiorentina;1;5;Serie A;Mostly Cloudy;SE;6 mph;41 °F;93 %;29.41 in
+06.01.2010;Milan;Genoa;5;2;Serie A;Mostly Cloudy;VAR;2 mph;36 °F;65 %;29.15 in
+20.12.2009;Juventus;Catania;1;2;Serie A;Mostly Cloudy;VAR;3 mph;19 °F;100 %;29.44 in
+20.12.2009;Livorno;Sampdoria;3;1;Serie A;Fair;ESE;9 mph;27 °F;80 %;29.56 in
+20.12.2009;Napoli;Chievo;2;0;Serie A;Partly Cloudy;VAR;1 mph;39 °F;65 %;29.22 in
+20.12.2009;Palermo;Siena;1;0;Serie A;Mostly Cloudy;VAR;3 mph;19 °F;100 %;29.44 in
+20.12.2009;Roma;Parma;2;0;Serie A;Partly Cloudy;N;3 mph;32 °F;100 %;29.05 in
+20.12.2009;Inter;Lazio;1;0;Serie A;Cloudy;VAR;2 mph;25 °F;80 %;29.21 in
+20.01.2010;Bologna;Atalanta;2;2;Serie A;Cloudy;WSW;5 mph;28 °F;100 %;29.95 in
+20.01.2010;Genoa;Bari;1;1;Serie A;Mostly Cloudy;ENE;9 mph;46 °F;66 %;30.05 in
+24.02.2010;Fiorentina;Milan;1;2;Serie A;Partly Cloudy;NNE;1 mph;48 °F;93 %;29.49 in
+24.02.2010;Udinese;Cagliari;2;1;Serie A;Partly Cloudy;CALM;0 mph;46 °F;87 %;29.61 in
+12.12.2009;Cagliari;Napoli;3;3;Serie A;Partly Cloudy;VAR;1 mph;37 °F;70 %;29.56 in
+12.12.2009;Bari;Juventus;3;1;Serie A;Fair;N;7 mph;39 °F;61 %;29.17 in
+13.12.2009;Atalanta;Inter;1;1;Serie A;Mostly Cloudy;E;6 mph;41 °F;65 %;29.13 in
+13.12.2009;Catania;Livorno;0;1;Serie A;Fair;VAR;3 mph;41 °F;76 %;29.79 in
+13.12.2009;Chievo;Fiorentina;2;1;Serie A;Mostly Cloudy;ENE;5 mph;43 °F;66 %;29.59 in
+13.12.2009;Lazio;Genoa;1;0;Serie A;Fair;N;2 mph;39 °F;81 %;29.31 in
+13.12.2009;Milan;Palermo;0;2;Serie A;Mostly Cloudy;ENE;5 mph;43 °F;66 %;29.59 in
+13.12.2009;Parma;Bologna;2;1;Serie A;Mostly Cloudy;E;6 mph;39 °F;81 %;29.80 in
+13.12.2009;Siena;Udinese;2;1;Serie A;Fair;E;15 mph;43 °F;66 %;29.88 in
+13.12.2009;Sampdoria;Roma;0;0;Serie A;Fair;N;7 mph;39 °F;42 %;0.00 in
+05.12.2009;Milan;Sampdoria;3;0;Serie A;Mostly Cloudy;VAR;2 mph;39 °F;87 %;29.42 in
+05.12.2009;Juventus;Inter;2;1;Serie A;Cloudy;VAR;3 mph;41 °F;93 %;29.65 in
+06.12.2009;Bologna;Udinese;2;1;Serie A;Fair;WSW;5 mph;41 °F;93 %;29.92 in
+06.12.2009;Fiorentina;Atalanta;2;0;Serie A;Fair;VAR;2 mph;41 °F;87 %;29.93 in
+06.12.2009;Genoa;Parma;2;2;Serie A;Fair;ENE;10 mph;50 °F;58 %;30.05 in
+06.12.2009;Livorno;Chievo;0;2;Serie A;Fair;CALM;0 mph;39 °F;100 %;30.06 in
+06.12.2009;Napoli;Bari;3;2;Serie A;Fair;N;5 mph;48 °F;82 %;29.75 in
+06.12.2009;Palermo;Cagliari;2;1;Serie A;Fair;VAR;1 mph;36 °F;100 %;29.91 in
+06.12.2009;Siena;Catania;3;2;Serie A;Fair;CALM;0 mph;39 °F;100 %;30.06 in
+06.12.2009;Roma;Lazio;1;0;Serie A;Fair;ENE;5 mph;45 °F;93 %;29.57 in
+28.11.2009;Udinese;Livorno;2;0;Serie A;Partly Cloudy;CALM;0 mph;52 °F;88 %;29.90 in
+28.11.2009;Genoa;Sampdoria;3;0;Serie A;Mostly Cloudy;VAR;3 mph;57 °F;88 %;29.87 in
+29.11.2009;Atalanta;Roma;1;2;Serie A;Partly Cloudy;VAR;2 mph;46 °F;81 %;29.18 in
+29.11.2009;Bari;Siena;2;1;Serie A;Mostly Cloudy;VAR;2 mph;46 °F;87 %;29.29 in
+29.11.2009;Cagliari;Juventus;2;0;Serie A;Mostly Cloudy;VAR;1 mph;46 °F;81 %;29.65 in
+29.11.2009;Chievo;Palermo;1;0;Serie A;Mostly Cloudy;VAR;1 mph;46 °F;81 %;29.65 in
+29.11.2009;Inter;Fiorentina;1;0;Serie A;Mostly Cloudy;VAR;1 mph;46 °F;81 %;29.65 in
+29.11.2009;Lazio;Bologna;0;0;Serie A;Fair;SE;2 mph;48 °F;93 %;29.63 in
+29.11.2009;Parma;Napoli;1;1;Serie A;Partly Cloudy;SE;7 mph;48 °F;93 %;29.85 in
+29.11.2009;Catania;Milan;0;2;Serie A;Fair;W;6 mph;55 °F;77 %;30.09 in
+21.11.2009;Bologna;Inter;1;3;Serie A;Cloudy;NE;2 mph;52 °F;88 %;30.30 in
+21.11.2009;Fiorentina;Parma;2;3;Serie A;Fair;VAR;2 mph;45 °F;93 %;30.31 in
+22.11.2009;Livorno;Genoa;2;1;Serie A;Mostly Cloudy;E;5 mph;52 °F;100 %;30.38 in
+22.11.2009;Milan;Cagliari;4;3;Serie A;Cloudy;CALM;0 mph;50 °F;87 %;30.00 in
+22.11.2009;Napoli;Lazio;0;0;Serie A;Partly Cloudy;CALM;0 mph;55 °F;94 %;30.10 in
+22.11.2009;Palermo;Catania;1;1;Serie A;Mostly Cloudy;SSW;6 mph;50 °F;87 %;30.24 in
+22.11.2009;Roma;Bari;3;1;Serie A;Partly Cloudy;ESE;1 mph;48 °F;93 %;29.92 in
+22.11.2009;Sampdoria;Chievo;2;1;Serie A;Mostly Cloudy;CALM;0 mph;52 °F;88 %;30.38 in
+22.11.2009;Siena;Atalanta;0;2;Serie A;Mostly Cloudy;E;5 mph;52 °F;100 %;30.38 in
+22.11.2009;Juventus;Udinese;1;0;Serie A;Mostly Cloudy;SSW;6 mph;50 °F;87 %;30.24 in
+07.11.2009;Catania;Napoli;0;0;Serie A;Fair;WSW;8 mph;59 °F;67 %;29.74 in
+07.11.2009;Atalanta;Juventus;2;5;Serie A;Fair;VAR;1 mph;41 °F;81 %;28.93 in
+08.11.2009;Bari;Livorno;1;0;Serie A;Mostly Cloudy;N;7 mph;45 °F;93 %;28.88 in
+08.11.2009;Bologna;Palermo;3;1;Serie A;Fair;SE;7 mph;50 °F;82 %;29.42 in
+08.11.2009;Cagliari;Sampdoria;2;0;Serie A;Cloudy;NE;7 mph;46 °F;93 %;29.21 in
+08.11.2009;Genoa;Siena;4;2;Serie A;Mostly Cloudy;NE;12 mph;52 °F;71 %;29.55 in
+08.11.2009;Lazio;Milan;1;2;Serie A;Partly Cloudy;SE;10 mph;52 °F;76 %;29.19 in
+08.11.2009;Parma;Chievo;2;0;Serie A;Cloudy;E;6 mph;50 °F;94 %;29.41 in
+08.11.2009;Udinese;Fiorentina;0;1;Serie A;Mostly Cloudy;VAR;1 mph;46 °F;81 %;0.00 in
+08.11.2009;Inter;Roma;1;1;Serie A;Cloudy;NE;7 mph;46 °F;93 %;29.21 in
+31.10.2009;Juventus;Napoli;2;3;Serie A;Fair;VAR;1 mph;45 °F;100 %;30.12 in
+31.10.2009;Milan;Parma;2;0;Serie A;Mostly Cloudy;VAR;2 mph;54 °F;77 %;29.88 in
+01.11.2009;Cagliari;Atalanta;3;0;Serie A;Fair;CALM;0 mph;43 °F;81 %;29.88 in
+01.11.2009;Chievo;Udinese;1;1;Serie A;Fair;CALM;0 mph;43 °F;81 %;29.88 in
+01.11.2009;Fiorentina;Catania;3;1;Serie A;Fair;VAR;2 mph;45 °F;81 %;30.10 in
+01.11.2009;Livorno;Inter;0;2;Serie A;Fair;SSE;3 mph;45 °F;87 %;30.24 in
+01.11.2009;Roma;Bologna;2;1;Serie A;Fair;N;5 mph;45 °F;76 %;29.69 in
+01.11.2009;Sampdoria;Bari;0;0;Serie A;Fair;VAR;2 mph;45 °F;76 %;30.29 in
+01.11.2009;Siena;Lazio;1;1;Serie A;Fair;SSE;3 mph;45 °F;87 %;30.24 in
+01.11.2009;Palermo;Genoa;0;0;Serie A;Fair;VAR;2 mph;43 °F;93 %;30.12 in
+28.10.2009;Bologna;Siena;2;1;Serie A;Fair;SW;8 mph;52 °F;88 %;29.98 in
+28.10.2009;Catania;Chievo;1;2;Serie A;Fair;VAR;3 mph;63 °F;88 %;29.94 in
+28.10.2009;Genoa;Fiorentina;2;1;Serie A;Fair;NNE;18 mph;59 °F;72 %;30.11 in
+28.10.2009;Juventus;Sampdoria;5;1;Serie A;Fair;VAR;3 mph;50 °F;94 %;30.00 in
+28.10.2009;Lazio;Cagliari;0;1;Serie A;Fair;NNE;3 mph;54 °F;82 %;29.57 in
+28.10.2009;Livorno;Atalanta;1;0;Serie A;Fair;E;2 mph;52 °F;94 %;30.12 in
+28.10.2009;Napoli;Milan;2;2;Serie A;Fair;N;5 mph;59 °F;67 %;29.81 in
+28.10.2009;Parma;Bari;2;0;Serie A;Fair;VAR;3 mph;50 °F;94 %;30.00 in
+28.10.2009;Udinese;Roma;2;1;Serie A;Fair;NNE;1 mph;48 °F;82 %;30.14 in
+29.10.2009;Inter;Palermo;5;3;Serie A;Fair;VAR;1 mph;50 °F;100 %;29.68 in
+24.10.2009;Sampdoria;Bologna;4;1;Serie A;Cloudy;N;8 mph;55 °F;88 %;29.76 in
+24.10.2009;Inter;Catania;2;1;Serie A;Fair;VAR;3 mph;48 °F;82 %;29.39 in
+25.10.2009;Atalanta;Parma;3;1;Serie A;Fair;N;5 mph;52 °F;71 %;29.15 in
+25.10.2009;Bari;Lazio;2;0;Serie A;Fair;VAR;1 mph;48 °F;87 %;29.26 in
+25.10.2009;Cagliari;Genoa;3;2;Serie A;Partly Cloudy;CALM;0 mph;50 °F;87 %;29.59 in
+25.10.2009;Fiorentina;Napoli;0;1;Serie A;Fair;ENE;7 mph;55 °F;72 %;29.81 in
+25.10.2009;Palermo;Udinese;1;0;Serie A;Fair;SW;5 mph;50 °F;94 %;29.82 in
+25.10.2009;Roma;Livorno;0;1;Serie A;Fair;NNE;7 mph;54 °F;82 %;29.31 in
+25.10.2009;Siena;Juventus;0;1;Serie A;Fair;N;6 mph;50 °F;94 %;29.91 in
+25.10.2009;Chievo;Milan;1;2;Serie A;Partly Cloudy;CALM;0 mph;50 °F;87 %;29.59 in
+17.10.2009;Juventus;Fiorentina;1;1;Serie A;Fair;VAR;3 mph;43 °F;76 %;29.77 in
+17.10.2009;Genoa;Inter;0;5;Serie A;Mostly Cloudy;ENE;9 mph;57 °F;55 %;29.90 in
+18.10.2009;Catania;Cagliari;2;1;Serie A;Fair;WSW;5 mph;57 °F;82 %;29.65 in
+18.10.2009;Chievo;Bari;1;2;Serie A;Fair;CALM;0 mph;45 °F;66 %;29.56 in
+18.10.2009;Lazio;Sampdoria;1;1;Serie A;Partly Cloudy;NNE;3 mph;48 °F;71 %;29.31 in
+18.10.2009;Livorno;Palermo;1;2;Serie A;Fair;E;7 mph;52 °F;58 %;29.88 in
+18.10.2009;Napoli;Bologna;2;1;Serie A;Mostly Cloudy;N;7 mph;54 °F;58 %;29.51 in
+18.10.2009;Parma;Siena;1;0;Serie A;Fair;VAR;2 mph;45 °F;81 %;29.80 in
+18.10.2009;Udinese;Atalanta;1;3;Serie A;Fair;VAR;3 mph;45 °F;61 %;29.93 in
+18.10.2009;Milan;Roma;2;1;Serie A;Fair;CALM;0 mph;45 °F;66 %;29.56 in
+03.10.2009;Bari;Catania;0;0;Serie A;Partly Cloudy;VAR;1 mph;63 °F;77 %;29.20 in
+03.10.2009;Inter;Udinese;2;1;Serie A;Partly Cloudy;VAR;3 mph;66 °F;73 %;29.53 in
+04.10.2009;Atalanta;Milan;1;1;Serie A;Fair;N;5 mph;59 °F;72 %;29.15 in
+04.10.2009;Bologna;Genoa;1;3;Serie A;Fair;SSW;10 mph;59 °F;77 %;29.83 in
+04.10.2009;Cagliari;Chievo;1;2;Serie A;Fair;CALM;0 mph;57 °F;72 %;29.62 in
+04.10.2009;Fiorentina;Lazio;0;0;Serie A;Fair;VAR;2 mph;61 °F;63 %;29.87 in
+04.10.2009;Roma;Napoli;2;1;Serie A;Fair;CALM;0 mph;63 °F;94 %;29.51 in
+04.10.2009;Sampdoria;Parma;1;1;Serie A;Fair;VAR;2 mph;59 °F;82 %;30.00 in
+04.10.2009;Siena;Livorno;0;0;Serie A;Fair;E;2 mph;61 °F;88 %;29.97 in
+04.10.2009;Palermo;Juventus;2;0;Serie A;Fair;VAR;3 mph;59 °F;88 %;29.82 in
+26.09.2009;Sampdoria;Inter;1;0;Serie A;Fair;NNE;10 mph;70 °F;68 %;30.14 in
+26.09.2009;Livorno;Fiorentina;0;1;Serie A;Fair;SSE;6 mph;66 °F;60 %;30.06 in
+27.09.2009;Catania;Roma;1;1;Serie A;Partly Cloudy;W;7 mph;70 °F;83 %;29.91 in
+27.09.2009;Chievo;Atalanta;1;1;Serie A;Fair;CALM;0 mph;68 °F;68 %;29.82 in
+27.09.2009;Juventus;Bologna;1;1;Serie A;Fair;VAR;3 mph;63 °F;88 %;30.06 in
+27.09.2009;Lazio;Palermo;1;1;Serie A;Fair;N;2 mph;68 °F;68 %;29.60 in
+27.09.2009;Napoli;Siena;2;1;Serie A;Fair;NNE;6 mph;70 °F;56 %;29.83 in
+27.09.2009;Parma;Cagliari;0;2;Serie A;Fair;VAR;3 mph;63 °F;88 %;30.06 in
+27.09.2009;Udinese;Genoa;2;0;Serie A;Fair;ENE;15 mph;68 °F;52 %;30.20 in
+27.09.2009;Milan;Bari;0;0;Serie A;Fair;CALM;0 mph;68 °F;68 %;29.82 in
+23.09.2009;Atalanta;Catania;0;0;Serie A;Fair;N;6 mph;68 °F;73 %;29.44 in
+23.09.2009;Bari;Cagliari;0;1;Serie A;Fair;CALM;0 mph;63 °F;88 %;29.55 in
+23.09.2009;Bologna;Livorno;2;0;Serie A;Fair;SSW;8 mph;64 °F;83 %;30.09 in
+23.09.2009;Fiorentina;Sampdoria;2;0;Serie A;Fair;VAR;6 mph;68 °F;68 %;30.10 in
+23.09.2009;Inter;Napoli;3;1;Serie A;Fair;CALM;0 mph;66 °F;73 %;29.88 in
+23.09.2009;Lazio;Parma;1;2;Serie A;Partly Cloudy;ENE;2 mph;64 °F;88 %;29.75 in
+23.09.2009;Palermo;Roma;3;3;Serie A;Fair;SW;5 mph;63 °F;88 %;30.09 in
+23.09.2009;Siena;Chievo;0;0;Serie A;Partly Cloudy;SE;6 mph;68 °F;94 %;30.21 in
+23.09.2009;Udinese;Milan;1;0;Serie A;Fair;CALM;0 mph;64 °F;73 %;30.23 in
+24.09.2009;Genoa;Juventus;2;2;Serie A;Fair;NE;7 mph;73 °F;65 %;30.14 in
+19.09.2009;Napoli;Udinese;0;0;Serie A;Fair;VAR;1 mph;70 °F;73 %;29.78 in
+19.09.2009;Juventus;Livorno;2;0;Serie A;Partly Cloudy;VAR;3 mph;64 °F;88 %;29.85 in
+20.09.2009;Bari;Atalanta;4;1;Serie A;Fair;VAR;3 mph;57 °F;94 %;29.32 in
+20.09.2009;Cagliari;Inter;1;2;Serie A;Fair;CALM;0 mph;63 °F;77 %;29.62 in
+20.09.2009;Catania;Lazio;1;1;Serie A;Mostly Cloudy;VAR;3 mph;70 °F;78 %;29.91 in
+20.09.2009;Chievo;Genoa;3;1;Serie A;Fair;CALM;0 mph;63 °F;77 %;29.62 in
+20.09.2009;Milan;Bologna;1;0;Serie A;Fair;CALM;0 mph;63 °F;77 %;29.62 in
+20.09.2009;Parma;Palermo;1;0;Serie A;Partly Cloudy;SW;5 mph;66 °F;83 %;29.85 in
+20.09.2009;Sampdoria;Siena;4;1;Serie A;Fair;VAR;3 mph;70 °F;88 %;30.00 in
+20.09.2009;Roma;Fiorentina;3;1;Serie A;Mostly Cloudy;SW;6 mph;68 °F;83 %;29.54 in
+12.09.2009;Livorno;Milan;0;0;Serie A;Fair;SSW;2 mph;72 °F;38 %;30.00 in
+12.09.2009;Lazio;Juventus;0;2;Serie A;Fair;N;5 mph;70 °F;53 %;29.46 in
+13.09.2009;Atalanta;Sampdoria;0;1;Serie A;Partly Cloudy;CALM;0 mph;66 °F;64 %;29.21 in
+13.09.2009;Bologna;Chievo;0;2;Serie A;Fair;SW;5 mph;64 °F;83 %;29.83 in
+13.09.2009;Fiorentina;Cagliari;1;0;Serie A;Fair;N;6 mph;72 °F;53 %;29.84 in
+13.09.2009;Inter;Parma;2;0;Serie A;Fair;VAR;3 mph;66 °F;64 %;29.62 in
+13.09.2009;Palermo;Bari;1;1;Serie A;Fair;VAR;1 mph;66 °F;64 %;29.85 in
+13.09.2009;Siena;Roma;1;2;Serie A;Fair;NE;2 mph;66 °F;56 %;29.97 in
+13.09.2009;Udinese;Catania;4;2;Serie A;Fair;VAR;1 mph;64 °F;73 %;29.96 in
+13.09.2009;Genoa;Napoli;4;1;Serie A;Fair;NNE;12 mph;73 °F;50 %;29.99 in
+29.08.2009;Bari;Bologna;0;0;Serie A;Partly Cloudy;VAR;3 mph;72 °F;83 %;29.17 in
+29.08.2009;Milan;Inter;0;4;Serie A;Fair;VAR;3 mph;77 °F;65 %;29.50 in
+30.08.2009;Roma;Juventus;1;3;Serie A;Fair;SE;2 mph;75 °F;83 %;29.46 in
+30.08.2009;Atalanta;Genoa;0;1;Serie A;Mostly Cloudy;ESE;6 mph;75 °F;69 %;29.10 in
+30.08.2009;Cagliari;Siena;1;3;Serie A;Fair;ENE;7 mph;77 °F;54 %;29.53 in
+30.08.2009;Chievo;Lazio;1;2;Serie A;Fair;ENE;7 mph;77 °F;54 %;29.53 in
+30.08.2009;Fiorentina;Palermo;1;0;Serie A;Fair;VAR;3 mph;79 °F;65 %;29.75 in
+30.08.2009;Napoli;Livorno;3;1;Serie A;Fair;VAR;2 mph;77 °F;83 %;29.69 in
+30.08.2009;Parma;Catania;2;1;Serie A;Fair;ESE;12 mph;72 °F;83 %;29.77 in
+30.08.2009;Sampdoria;Udinese;3;1;Serie A;Partly Cloudy;NE;20 mph;70 °F;73 %;30.00 in
+22.08.2009;Bologna;Fiorentina;1;1;Serie A;Fair;WSW;9 mph;82 °F;37 %;29.80 in
+22.08.2009;Siena;Milan;1;2;Serie A;Fair;SW;1 mph;73 °F;94 %;30.00 in
+23.08.2009;Inter;Bari;1;1;Serie A;Mostly Cloudy;SE;6 mph;79 °F;61 %;29.59 in
+23.08.2009;Catania;Sampdoria;1;2;Serie A;Fair;VAR;3 mph;81 °F;65 %;29.85 in
+23.08.2009;Genoa;Roma;3;2;Serie A;Partly Cloudy;VAR;3 mph;79 °F;78 %;29.93 in
+23.08.2009;Juventus;Chievo;1;0;Serie A;Mostly Cloudy;S;6 mph;73 °F;78 %;29.80 in
+23.08.2009;Lazio;Atalanta;1;0;Serie A;Fair;SSE;3 mph;79 °F;65 %;29.48 in
+23.08.2009;Livorno;Cagliari;0;0;Serie A;Partly Cloudy;E;3 mph;75 °F;94 %;29.94 in
+23.08.2009;Palermo;Napoli;2;1;Serie A;Mostly Cloudy;S;6 mph;73 °F;78 %;29.80 in
+23.08.2009;Udinese;Parma;2;2;Serie A;Partly Cloudy;E;6 mph;72 °F;69 %;29.96 in

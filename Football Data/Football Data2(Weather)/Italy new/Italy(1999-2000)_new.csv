@@ -1,0 +1,181 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+05.01.2000;Venezia;Lazio;2;0;Serie A;Fair;Veri Yok;Veri Yok;Veri Yok;Veri Yok;Veri Yok
+06.01.2000;Roma;Bari;3;1;Serie A;Fair;CALM;0 mph;37 °F;100 %;29.78 in
+06.01.2000;Juventus;Hellas Verona;1;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+06.01.2000;Inter;Perugia;5;0;Serie A;Fair;CALM;0 mph;0 °F;93 %;29.85 in
+06.01.2000;Udinese;Parma;0;1;Serie A;Fair;VAR;2 mph;28 °F;93 %;30.20 in
+06.01.2000;Bologna;Cagliari;1;0;Serie A;Fair;VAR;3 mph;36 °F;93 %;30.06 in
+06.01.2000;Lecce;Fiorentina;0;0;Serie A;Fair;NNW;2 mph;52 °F;88 %;30.11 in
+06.01.2000;Reggina;Torino;2;1;Serie A;Fair;W;8 mph;37 °F;93 %;30.12 in
+06.01.2000;Piacenza;Milan;0;1;Serie A;Fair;CALM;0 mph;37 °F;100 %;29.78 in
+09.01.2000;Milan;Roma;2;2;Serie A;Cloudy;CALM;0 mph;34 °F;93 %;29.85 in
+09.01.2000;Parma;Juventus;1;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+09.01.2000;Lazio;Bologna;3;1;Serie A;Mostly Cloudy;NNE;1 mph;43 °F;100 %;29.78 in
+09.01.2000;Cagliari;Piacenza;3;0;Serie A;Cloudy;CALM;0 mph;34 °F;93 %;29.85 in
+09.01.2000;Fiorentina;Inter;2;1;Serie A;Mostly Cloudy;CALM;0 mph;45 °F;93 %;30.10 in
+09.01.2000;Perugia;Udinese;0;5;Serie A;Partly Cloudy;VAR;3 mph;36 °F;87 %;30.23 in
+09.01.2000;Torino;Lecce;1;2;Serie A;Partly Cloudy;VAR;2 mph;32 °F;93 %;29.25 in
+09.01.2000;Hellas Verona;Reggina;1;1;Serie A;Cloudy;SW;1 mph;30 °F;86 %;30.03 in
+09.01.2000;Bari;Venezia;3;0;Serie A;Partly Cloudy;CALM;0 mph;30 °F;93 %;29.49 in
+15.01.2000;Bologna;Bari;1;0;Serie A;Mostly Cloudy;W;7 mph;34 °F;93 %;30.12 in
+15.01.2000;Venezia;Fiorentina;2;1;Serie A;Mostly Cloudy;NE;7 mph;50 °F;66 %;29.89 in
+16.01.2000;Roma;Hellas Verona;3;1;Serie A;Fair;NE;3 mph;41 °F;100 %;29.72 in
+16.01.2000;Juventus;Perugia;3;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+16.01.2000;Inter;Cagliari;2;1;Serie A;Fair;VAR;1 mph;32 °F;87 %;29.85 in
+16.01.2000;Udinese;Milan;1;2;Serie A;Fair;ENE;5 mph;37 °F;56 %;30.23 in
+16.01.2000;Lecce;Parma;0;0;Serie A;Mostly Cloudy;WNW;2 mph;46 °F;93 %;30.14 in
+16.01.2000;Reggina;Lazio;0;0;Serie A;Mostly Cloudy;VAR;2 mph;52 °F;82 %;30.12 in
+16.01.2000;Piacenza;Torino;0;2;Serie A;Fair;NE;3 mph;41 °F;100 %;29.72 in
+22.01.2000;Roma;Piacenza;2;1;Serie A;Fair;CALM;0 mph;39 °F;100 %;29.51 in
+22.01.2000;Cagliari;Lazio;0;0;Serie A;Fair;NNW;7 mph;45 °F;37 %;29.53 in
+23.01.2000;Milan;Lecce;2;2;Serie A;Cloudy;CALM;0 mph;36 °F;93 %;29.33 in
+23.01.2000;Parma;Perugia;1;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+23.01.2000;Udinese;Venezia;5;2;Serie A;Cloudy;ESE;8 mph;34 °F;75 %;29.64 in
+23.01.2000;Reggina;Juventus;0;2;Serie A;Fair;W;7 mph;45 °F;93 %;29.82 in
+23.01.2000;Torino;Bologna;2;1;Serie A;Mostly Cloudy;VAR;2 mph;34 °F;93 %;28.74 in
+23.01.2000;Hellas Verona;Inter;1;2;Serie A;Mostly Cloudy;W;5 mph;30 °F;75 %;29.44 in
+23.01.2000;Bari;Fiorentina;1;0;Serie A;Cloudy;CALM;0 mph;34 °F;93 %;28.94 in
+29.01.2000;Lecce;Hellas Verona;2;1;Serie A;Partly Cloudy;WSW;5 mph;36 °F;93 %;30.17 in
+29.01.2000;Piacenza;Udinese;0;1;Serie A;Partly Cloudy;SE;6 mph;41 °F;100 %;29.75 in
+30.01.2000;Juventus;Cagliari;1;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+30.01.2000;Inter;Roma;2;1;Serie A;Fair;W;5 mph;32 °F;93 %;29.59 in
+30.01.2000;Lazio;Bari;3;1;Serie A;Partly Cloudy;SSE;9 mph;48 °F;93 %;29.63 in
+30.01.2000;Bologna;Parma;1;0;Serie A;Mostly Cloudy;VAR;1 mph;36 °F;93 %;29.83 in
+30.01.2000;Fiorentina;Reggina;1;0;Serie A;Partly Cloudy;CALM;0 mph;45 °F;87 %;29.93 in
+30.01.2000;Perugia;Milan;0;3;Serie A;Partly Cloudy;SSW;7 mph;50 °F;54 %;29.99 in
+30.01.2000;Venezia;Torino;2;2;Serie A;Mostly Cloudy;WSW;3 mph;48 °F;93 %;29.89 in
+05.02.2000;Udinese;Juventus;1;1;Serie A;Fair;E;5 mph;36 °F;93 %;30.58 in
+05.02.2000;Cagliari;Perugia;2;1;Serie A;Cloudy;WSW;5 mph;43 °F;93 %;30.23 in
+06.02.2000;Milan;Bari;4;1;Serie A;Fair;VAR;1 mph;37 °F;93 %;30.12 in
+06.02.2000;Roma;Venezia;5;0;Serie A;Fair;CALM;0 mph;41 °F;87 %;30.04 in
+06.02.2000;Parma;Inter;1;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+06.02.2000;Lecce;Piacenza;0;1;Serie A;Partly Cloudy;NW;12 mph;52 °F;82 %;30.38 in
+06.02.2000;Reggina;Bologna;1;0;Serie A;Fair;VAR;3 mph;36 °F;93 %;30.44 in
+06.02.2000;Torino;Lazio;2;4;Serie A;Fair;VAR;2 mph;37 °F;87 %;29.51 in
+06.02.2000;Hellas Verona;Fiorentina;2;2;Serie A;Mostly Cloudy;WNW;1 mph;34 °F;93 %;30.26 in
+12.02.2000;Bologna;Milan;2;3;Serie A;Mostly Cloudy;W;5 mph;43 °F;76 %;30.12 in
+12.02.2000;Bari;Hellas Verona;1;1;Serie A;Mostly Cloudy;VAR;2 mph;39 °F;87 %;29.55 in
+13.02.2000;Juventus;Lecce;1;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+13.02.2000;Inter;Torino;1;1;Serie A;Fair;CALM;0 mph;36 °F;87 %;29.82 in
+13.02.2000;Lazio;Parma;0;0;Serie A;Partly Cloudy;NNE;1 mph;45 °F;100 %;29.69 in
+13.02.2000;Fiorentina;Udinese;1;1;Serie A;Fair;CALM;0 mph;39 °F;81 %;30.07 in
+13.02.2000;Perugia;Roma;2;2;Serie A;Partly Cloudy;VAR;3 mph;43 °F;87 %;30.14 in
+13.02.2000;Piacenza;Reggina;0;0;Serie A;Partly Cloudy;NNE;1 mph;45 °F;100 %;29.69 in
+13.02.2000;Venezia;Cagliari;3;0;Serie A;Partly Cloudy;CALM;0 mph;45 °F;93 %;29.89 in
+19.02.2000;Roma;Fiorentina;4;0;Serie A;Partly Cloudy;SSE;10 mph;43 °F;57 %;29.51 in
+19.02.2000;Reggina;Perugia;1;1;Serie A;Fair;W;12 mph;46 °F;62 %;30.03 in
+20.02.2000;Milan;Lazio;2;1;Serie A;Fair;;0 mph;0 °F;0 %;0.00 in
+20.02.2000;Udinese;Bari;5;1;Serie A;Fair;VAR;1 mph;32 °F;93 %;29.75 in
+20.02.2000;Lecce;Bologna;1;1;Serie A;Mostly Cloudy;SW;8 mph;54 °F;72 %;29.70 in
+20.02.2000;Piacenza;Inter;1;3;Serie A;Partly Cloudy;NNW;3 mph;45 °F;93 %;29.22 in
+20.02.2000;Torino;Cagliari;1;1;Serie A;Fair;SSW;5 mph;37 °F;65 %;28.82 in
+20.02.2000;Venezia;Juventus;0;4;Serie A;Partly Cloudy;WSW;7 mph;52 °F;76 %;29.48 in
+20.02.2000;Hellas Verona;Parma;4;3;Serie A;Fair;CALM;0 mph;30 °F;75 %;29.56 in
+26.02.2000;Parma;Fiorentina;0;4;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+26.02.2000;Lazio;Udinese;2;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+27.02.2000;Juventus;Roma;2;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+27.02.2000;Inter;Venezia;3;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+27.02.2000;Bologna;Piacenza;0;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+27.02.2000;Reggina;Lecce;2;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+27.02.2000;Cagliari;Milan;0;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+27.02.2000;Perugia;Hellas Verona;0;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+27.02.2000;Bari;Torino;1;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+04.03.2000;Udinese;Cagliari;5;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+04.03.2000;Fiorentina;Piacenza;2;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+05.03.2000;Milan;Inter;1;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+05.03.2000;Roma;Torino;1;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+05.03.2000;Juventus;Bari;2;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+05.03.2000;Parma;Reggina;3;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+05.03.2000;Lecce;Lazio;0;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+05.03.2000;Venezia;Perugia;1;2;Serie A;Partly Cloudy;VAR;2 mph;59 °F;94 %;29.83 in
+05.03.2000;Hellas Verona;Bologna;0;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+11.03.2000;Lazio;Inter;2;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+11.03.2000;Bologna;Venezia;1;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+12.03.2000;Milan;Hellas Verona;3;3;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+12.03.2000;Reggina;Udinese;0;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+12.03.2000;Cagliari;Roma;1;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+12.03.2000;Perugia;Lecce;2;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+12.03.2000;Piacenza;Juventus;0;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+12.03.2000;Torino;Fiorentina;1;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+12.03.2000;Bari;Parma;0;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+18.03.2000;Inter;Bologna;1;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+18.03.2000;Fiorentina;Cagliari;2;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+19.03.2000;Roma;Reggina;0;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+19.03.2000;Juventus;Torino;3;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+19.03.2000;Parma;Piacenza;1;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+19.03.2000;Udinese;Lecce;2;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+19.03.2000;Venezia;Milan;1;0;Serie A;Fair;N;16 mph;54 °F;51 %;29.89 in
+19.03.2000;Hellas Verona;Lazio;1;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+19.03.2000;Bari;Perugia;0;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+24.03.2000;Milan;Juventus;2;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+25.03.2000;Lazio;Roma;2;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+25.03.2000;Bologna;Udinese;2;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+25.03.2000;Lecce;Inter;1;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+25.03.2000;Reggina;Bari;1;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+25.03.2000;Cagliari;Parma;2;3;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+25.03.2000;Perugia;Fiorentina;1;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+25.03.2000;Piacenza;Venezia;2;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+25.03.2000;Torino;Hellas Verona;0;3;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+01.04.2000;Juventus;Lazio;0;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+01.04.2000;Fiorentina;Bologna;2;2;Serie A;Mostly Cloudy;VAR;3 mph;52 °F;88 %;29.60 in
+02.04.2000;Roma;Udinese;1;1;Serie A;Fair;ESE;8 mph;46 °F;93 %;29.34 in
+02.04.2000;Parma;Milan;1;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+02.04.2000;Inter;Reggina;1;1;Serie A;Fair;W;5 mph;48 °F;76 %;29.33 in
+02.04.2000;Perugia;Torino;1;0;Serie A;Fair;CALM;0 mph;46 °F;81 %;29.79 in
+02.04.2000;Venezia;Lecce;0;0;Serie A;Fair;SSW;5 mph;54 °F;88 %;29.57 in
+02.04.2000;Hellas Verona;Piacenza;1;0;Serie A;Fair;CALM;0 mph;41 °F;93 %;29.47 in
+02.04.2000;Bari;Cagliari;1;0;Serie A;Fair;CALM;0 mph;46 °F;81 %;28.97 in
+08.04.2000;Udinese;Inter;3;0;Serie A;Fair;VAR;3 mph;48 °F;57 %;30.20 in
+08.04.2000;Torino;Parma;2;2;Serie A;Fair;VAR;1 mph;48 °F;82 %;29.22 in
+09.04.2000;Milan;Fiorentina;1;1;Serie A;Fair;VAR;1 mph;54 °F;38 %;29.65 in
+09.04.2000;Lazio;Perugia;1;0;Serie A;Mostly Cloudy;ESE;2 mph;50 °F;87 %;29.63 in
+09.04.2000;Bologna;Juventus;0;2;Serie A;Partly Cloudy;CALM;0 mph;43 °F;81 %;29.83 in
+09.04.2000;Lecce;Roma;0;0;Serie A;Fair;N;9 mph;54 °F;47 %;30.06 in
+09.04.2000;Reggina;Venezia;1;0;Serie A;Partly Cloudy;SE;5 mph;57 °F;94 %;30.06 in
+09.04.2000;Cagliari;Hellas Verona;0;1;Serie A;Fair;VAR;1 mph;54 °F;38 %;29.65 in
+09.04.2000;Piacenza;Bari;2;1;Serie A;Mostly Cloudy;ESE;2 mph;50 °F;87 %;29.63 in
+15.04.2000;Fiorentina;Lazio;3;3;Serie A;Mostly Cloudy;VAR;3 mph;61 °F;77 %;29.57 in
+15.04.2000;Hellas Verona;Udinese;2;2;Serie A;Partly Cloudy;E;10 mph;57 °F;82 %;29.47 in
+16.04.2000;Roma;Bologna;2;0;Serie A;Fair;S;2 mph;57 °F;88 %;29.34 in
+16.04.2000;Parma;Venezia;3;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+16.04.2000;Inter;Juventus;1;2;Serie A;Fair;W;14 mph;55 °F;77 %;29.27 in
+16.04.2000;Cagliari;Reggina;0;1;Serie A;Fair;W;14 mph;55 °F;77 %;29.27 in
+16.04.2000;Perugia;Piacenza;2;0;Serie A;Fair;SE;14 mph;64 °F;59 %;29.76 in
+16.04.2000;Torino;Milan;2;2;Serie A;Fair;VAR;1 mph;52 °F;88 %;28.65 in
+16.04.2000;Bari;Lecce;3;1;Serie A;Partly Cloudy;VAR;2 mph;50 °F;87 %;28.91 in
+22.04.2000;Roma;Parma;0;0;Serie A;Fair;S;5 mph;61 °F;88 %;29.54 in
+22.04.2000;Juventus;Fiorentina;1;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+22.04.2000;Inter;Bari;3;0;Serie A;Fair;CALM;0 mph;64 °F;68 %;29.62 in
+22.04.2000;Udinese;Torino;0;0;Serie A;Fair;VAR;3 mph;63 °F;77 %;29.96 in
+22.04.2000;Bologna;Perugia;2;1;Serie A;Fair;SSW;7 mph;66 °F;68 %;29.80 in
+22.04.2000;Lecce;Cagliari;2;1;Serie A;Fair;WNW;15 mph;64 °F;64 %;29.85 in
+22.04.2000;Reggina;Milan;1;2;Serie A;Fair;VAR;3 mph;57 °F;100 %;29.94 in
+22.04.2000;Piacenza;Lazio;0;2;Serie A;Fair;S;5 mph;61 °F;88 %;29.54 in
+22.04.2000;Venezia;Hellas Verona;2;2;Serie A;Partly Cloudy;VAR;3 mph;59 °F;94 %;29.81 in
+30.04.2000;Milan;Piacenza;1;0;Serie A;Mostly Cloudy;VAR;2 mph;61 °F;88 %;29.65 in
+30.04.2000;Parma;Udinese;0;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+30.04.2000;Lazio;Venezia;3;2;Serie A;Partly Cloudy;SSE;7 mph;52 °F;100 %;29.54 in
+30.04.2000;Cagliari;Bologna;2;2;Serie A;Mostly Cloudy;VAR;2 mph;61 °F;88 %;29.65 in
+30.04.2000;Fiorentina;Lecce;3;0;Serie A;Mostly Cloudy;VAR;1 mph;59 °F;94 %;29.87 in
+30.04.2000;Perugia;Inter;1;2;Serie A;Mostly Cloudy;VAR;3 mph;54 °F;88 %;29.96 in
+30.04.2000;Torino;Reggina;2;1;Serie A;Mostly Cloudy;WNW;6 mph;57 °F;72 %;29.08 in
+30.04.2000;Hellas Verona;Juventus;2;0;Serie A;Mostly Cloudy;CALM;0 mph;61 °F;94 %;29.79 in
+30.04.2000;Bari;Roma;0;0;Serie A;Mostly Cloudy;N;6 mph;55 °F;82 %;29.32 in
+07.05.2000;Roma;Milan;1;1;Serie A;Fair;NE;7 mph;64 °F;68 %;29.51 in
+07.05.2000;Juventus;Parma;1;0;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+07.05.2000;Inter;Fiorentina;0;4;Serie A;Mostly Cloudy;N;6 mph;59 °F;100 %;29.65 in
+07.05.2000;Udinese;Perugia;2;1;Serie A;Partly Cloudy;VAR;1 mph;61 °F;100 %;30.02 in
+07.05.2000;Bologna;Lazio;2;3;Serie A;Partly Cloudy;E;8 mph;66 °F;94 %;29.80 in
+07.05.2000;Lecce;Torino;2;1;Serie A;Fair;SSW;3 mph;66 °F;78 %;30.00 in
+07.05.2000;Reggina;Hellas Verona;1;1;Serie A;Partly Cloudy;NE;9 mph;63 °F;94 %;30.00 in
+07.05.2000;Piacenza;Cagliari;1;1;Serie A;Fair;NE;7 mph;64 °F;68 %;29.51 in
+07.05.2000;Venezia;Bari;0;1;Serie A;Fair;CALM;0 mph;64 °F;68 %;29.75 in
+14.05.2000;Milan;Udinese;4;0;Serie A;Mostly Cloudy;VAR;3 mph;63 °F;88 %;29.74 in
+14.05.2000;Parma;Lecce;4;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+14.05.2000;Lazio;Reggina;3;0;Serie A;Fair;S;5 mph;64 °F;83 %;29.60 in
+14.05.2000;Cagliari;Inter;0;2;Serie A;Mostly Cloudy;VAR;3 mph;63 °F;88 %;29.74 in
+14.05.2000;Fiorentina;Venezia;3;0;Serie A;Fair;VAR;1 mph;70 °F;78 %;29.93 in
+14.05.2000;Perugia;Juventus;1;0;Serie A;Partly Cloudy;CALM;0 mph;68 °F;88 %;30.02 in
+14.05.2000;Torino;Piacenza;2;1;Serie A;Mostly Cloudy;WNW;7 mph;57 °F;94 %;29.17 in
+14.05.2000;Hellas Verona;Roma;2;2;Serie A;Partly Cloudy;N;1 mph;63 °F;100 %;29.88 in
+14.05.2000;Bari;Bologna;1;1;Serie A;Mostly Cloudy;VAR;1 mph;61 °F;88 %;29.40 in

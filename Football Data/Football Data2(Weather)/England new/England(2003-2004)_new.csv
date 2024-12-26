@@ -1,0 +1,381 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+16.08.2003;Birmingham;Tottenham;1;0;Premier League;;VAR;2 mph;61 °F;59%;29.77 in
+16.08.2003;Portsmouth;Aston Villa;2;1;Premier League;Fair;VAR;2 mph;61 °F;59%;29.77 in
+16.08.2003;Man. United;Bolton;4;0;Premier League;Fair;SE;2 mph;57 °F;77%;29.84 in
+16.08.2003;Leicester City;Southampton;2;2;Premier League;Fair;NE;5 mph;59 °F;77%;29.78 in
+16.08.2003;Fulham;Middlesbrough;3;2;Premier League;Fair;VAR;3 mph;59 °F;82%;30.10 in
+16.08.2003;Arsenal;Everton;2;1;Premier League;Fair;VAR;3 mph;59 °F;82%;30.10 in
+16.08.2003;Blackburn;Wolverhampton;5;1;Premier League;Fair;VAR;3 mph;59 °F;82%;30.10 in
+17.08.2003;Leeds United;Newcastle;2;2;Premier League;Fair;SE;8 mph;54 °F;72%;29.39 in
+17.08.2003;Charlton;Man. City;0;3;Premier League;Fair;E;12 mph;73 °F;57%;29.96 in
+17.08.2003;Liverpool;Chelsea;1;2;Premier League;Fair;SSE;5 mph;57 °F;67%;30.00 in
+23.08.2003;Newcastle;Man. United;1;2;Premier League;Fair;W;6 mph;54 °F;88%;29.72 in
+23.08.2003;Everton;Fulham;3;1;Premier League;Mostly Cloudy;W;3 mph;64 °F;88%;29.97 in
+23.08.2003;Wolverhampton;Charlton;0;4;Premier League;Mostly Cloudy;WSW;7 mph;68 °F;78%;29.71 in
+23.08.2003;Southampton;Birmingham;0;0;Premier League;Mostly Cloudy;CALM;0 mph;61 °F;94%;30.09 in
+23.08.2003;Bolton;Blackburn;2;2;Premier League;Cloudy;W;3 mph;63 °F;100%;29.76 in
+23.08.2003;Man. City;Portsmouth;1;1;Premier League;Cloudy;W;3 mph;63 °F;100%;29.76 in
+23.08.2003;Tottenham;Leeds United;2;1;Premier League;Mostly Cloudy;W;3 mph;66 °F;83%;30.10 in
+23.08.2003;Chelsea;Leicester City;2;1;Premier League;Mostly Cloudy;W;3 mph;66 °F;83%;30.10 in
+24.08.2003;Aston Villa;Liverpool;0;0;Premier League;Mostly Cloudy;NNE;5 mph;68 °F;78%;29.83 in
+24.08.2003;Middlesbrough;Arsenal;0;4;Premier League;Fair;N;5 mph;54 °F;100%;30.08 in
+25.08.2003;Blackburn;Man. City;2;3;Premier League;Mostly Cloudy;NNE;7 mph;63 °F;77%;30.10 in
+26.08.2003;Portsmouth;Bolton;4;0;Premier League;Partly Cloudy;CALM;0 mph;54 °F;88%;30.00 in
+26.08.2003;Leeds United;Southampton;0;0;Premier League;Partly Cloudy;NNE;6 mph;55 °F;94%;29.42 in
+26.08.2003;Leicester City;Middlesbrough;0;0;Premier League;Mostly Cloudy;NE;8 mph;61 °F;72%;29.78 in
+26.08.2003;Charlton;Everton;2;2;Premier League;Mostly Cloudy;NNE;5 mph;61 °F;77%;30.01 in
+27.08.2003;Arsenal;Aston Villa;2;0;Premier League;Mostly Cloudy;ENE;5 mph;63 °F;77%;29.98 in
+27.08.2003;Liverpool;Tottenham;0;0;Premier League;Mostly Cloudy;E;13 mph;59 °F;72%;29.97 in
+27.08.2003;Man. United;Wolverhampton;1;0;Premier League;Mostly Cloudy;ENE;10 mph;59 °F;77%;29.78 in
+30.08.2003;Everton;Liverpool;0;3;Premier League;Fair;NNE;5 mph;52 °F;67%;29.91 in
+30.08.2003;Tottenham;Fulham;0;3;Premier League;Fair;NW;3 mph;50 °F;82%;29.96 in
+30.08.2003;Bolton;Charlton;0;0;Premier League;Fair;WNW;7 mph;50 °F;82%;29.70 in
+30.08.2003;Newcastle;Birmingham;0;1;Premier League;Fair;WNW;5 mph;48 °F;93%;29.69 in
+30.08.2003;Chelsea;Blackburn;2;2;Premier League;Fair;NW;3 mph;50 °F;82%;29.96 in
+30.08.2003;Wolverhampton;Portsmouth;0;0;Premier League;Fair;NNW;3 mph;48 °F;82%;29.62 in
+30.08.2003;Middlesbrough;Leeds United;2;3;Premier League;Fair;NW;10 mph;50 °F;82%;29.84 in
+30.08.2003;Aston Villa;Leicester City;3;1;Premier League;Fair;NNW;3 mph;48 °F;82%;29.62 in
+31.08.2003;Southampton;Man. United;1;0;Premier League;Fair;CALM;0 mph;46 °F;93%;30.15 in
+31.08.2003;Man. City;Arsenal;1;2;Premier League;Fair;SSW;3 mph;52 °F;76%;29.84 in
+13.09.2003;Charlton;Man. United;0;2;Premier League;Fair;ENE;3 mph;54 °F;88%;30.46 in
+13.09.2003;Blackburn;Liverpool;1;3;Premier League;Fair;ENE;3 mph;54 °F;88%;30.46 in
+13.09.2003;Everton;Newcastle;2;2;Premier League;Fair;SSE;7 mph;55 °F;77%;30.29 in
+13.09.2003;Bolton;Middlesbrough;2;0;Premier League;Fair;ESE;8 mph;55 °F;72%;30.11 in
+13.09.2003;Arsenal;Portsmouth;1;1;Premier League;Fair;ENE;3 mph;54 °F;88%;30.46 in
+13.09.2003;Chelsea;Tottenham;4;2;Premier League;Fair;ENE;3 mph;54 °F;88%;30.46 in
+13.09.2003;Southampton;Wolverhampton;2;0;Premier League;Fair;CALM;0 mph;46 °F;93%;30.41 in
+14.09.2003;Man. City;Aston Villa;4;1;Premier League;Fair;S;8 mph;61 °F;59%;30.11 in
+14.09.2003;Birmingham;Fulham;2;2;Premier League;Fair;SSW;5 mph;57 °F;77%;30.06 in
+15.09.2003;Leicester City;Leeds United;4;0;Premier League;Fair;SSW;7 mph;63 °F;48%;29.96 in
+20.09.2003;Wolverhampton;Chelsea;0;5;Premier League;Mostly Cloudy;S;8 mph;59 °F;82%;29.68 in
+20.09.2003;Newcastle;Bolton;0;0;Premier League;Mostly Cloudy;CALM;0 mph;55 °F;100%;29.72 in
+20.09.2003;Aston Villa;Charlton;2;1;Premier League;Mostly Cloudy;S;8 mph;59 °F;82%;29.68 in
+20.09.2003;Leeds United;Birmingham;0;2;Premier League;Mostly Cloudy;SE;2 mph;57 °F;100%;29.27 in
+20.09.2003;Tottenham;Southampton;1;3;Premier League;Fair;CALM;0 mph;57 °F;88%;30.07 in
+20.09.2003;Portsmouth;Blackburn;1;2;Premier League;Fair;CALM;0 mph;45 °F;93%;30.06 in
+20.09.2003;Fulham;Man. City;2;2;Premier League;Fair;CALM;0 mph;57 °F;88%;30.07 in
+20.09.2003;Liverpool;Leicester City;2;1;Premier League;Mostly Cloudy;N;10 mph;57 °F;88%;29.91 in
+21.09.2003;Middlesbrough;Everton;1;0;Premier League;Fair;S;9 mph;45 °F;100%;29.90 in
+21.09.2003;Man. United;Arsenal;0;0;Premier League;Mostly Cloudy;W;3 mph;52 °F;94%;29.81 in
+26.09.2003;Arsenal;Newcastle;3;2;Premier League;Fair;SW;6 mph;50 °F;71%;30.07 in
+27.09.2003;Leicester City;Man. United;1;4;Premier League;Fair;N;3 mph;50 °F;82%;29.84 in
+27.09.2003;Chelsea;Aston Villa;1;0;Premier League;Fair;CALM;0 mph;52 °F;88%;30.13 in
+27.09.2003;Southampton;Middlesbrough;0;1;Premier League;Partly Cloudy;N;5 mph;48 °F;87%;30.09 in
+27.09.2003;Birmingham;Portsmouth;2;0;Premier League;Mostly Cloudy;N;3 mph;46 °F;81%;29.83 in
+27.09.2003;Bolton;Wolverhampton;1;1;Premier League;Fair;ENE;3 mph;50 °F;76%;29.90 in
+28.09.2003;Charlton;Liverpool;3;2;Premier League;Partly Cloudy;NW;7 mph;55 °F;77%;29.90 in
+28.09.2003;Blackburn;Fulham;0;2;Premier League;Partly Cloudy;NW;7 mph;55 °F;77%;29.90 in
+28.09.2003;Everton;Leeds United;4;0;Premier League;Partly Cloudy;NW;3 mph;54 °F;67%;29.97 in
+28.09.2003;Man. City;Tottenham;0;0;Premier League;Mostly Cloudy;W;2 mph;52 °F;82%;29.76 in
+4.10.2003;Liverpool;Arsenal;1;2;Premier League;Partly Cloudy;NNW;17 mph;54 °F;62%;29.76 in
+4.10.2003;Portsmouth;Charlton;1;2;Premier League;Partly Cloudy;W;5 mph;48 °F;76%;29.85 in
+4.10.2003;Man. United;Birmingham;3;0;Premier League;Mostly Cloudy;WNW;5 mph;50 °F;87%;29.55 in
+4.10.2003;Newcastle;Southampton;1;0;Premier League;Fair;WNW;10 mph;46 °F;81%;29.48 in
+4.10.2003;Leeds United;Blackburn;2;1;Premier League;Partly Cloudy;NW;12 mph;48 °F;82%;29.07 in
+4.10.2003;Tottenham;Everton;3;0;Premier League;Fair;W;10 mph;52 °F;71%;29.84 in
+4.10.2003;Wolverhampton;Man. City;1;0;Premier League;Fair;WNW;13 mph;52 °F;71%;29.48 in
+4.10.2003;Fulham;Leicester City;2;0;Premier League;Fair;W;10 mph;52 °F;71%;29.84 in
+5.10.2003;Middlesbrough;Chelsea;1;2;Premier League;Fair;NW;15 mph;39 °F;70%;29.87 in
+5.10.2003;Aston Villa;Bolton;1;1;Premier League;Fair;NNW;8 mph;37 °F;93%;29.62 in
+14.10.2003;Birmingham;Chelsea;0;0;Premier League;Fair;ENE;7 mph;50 °F;76%;29.86 in
+18.10.2003;Leeds United;Man. United;0;1;Premier League;Mostly Cloudy;ENE;9 mph;46 °F;87%;29.53 in
+18.10.2003;Arsenal;Chelsea;2;1;Premier League;Fair;NNE;2 mph;43 °F;87%;30.07 in
+18.10.2003;Portsmouth;Liverpool;1;0;Premier League;Fair;NNE;3 mph;36 °F;93%;30.00 in
+18.10.2003;Middlesbrough;Newcastle;0;1;Premier League;Mostly Cloudy;ENE;6 mph;50 °F;76%;30.17 in
+18.10.2003;Man. City;Bolton;6;2;Premier League;Fair;ENE;8 mph;46 °F;76%;29.93 in
+18.10.2003;Fulham;Wolverhampton;0;0;Premier League;Fair;NNE;2 mph;43 °F;87%;30.07 in
+19.10.2003;Birmingham;Aston Villa;0;0;Premier League;Fair;CALM;0 mph;41 °F;93%;29.65 in
+19.10.2003;Leicester City;Tottenham;1;2;Premier League;Mostly Cloudy;NE;8 mph;50 °F;71%;29.70 in
+19.10.2003;Everton;Southampton;0;0;Premier League;Fair;NE;7 mph;45 °F;71%;29.97 in
+20.10.2003;Blackburn;Charlton;0;1;Premier League;Mostly Cloudy;N;10 mph;46 °F;76%;29.72 in
+21.10.2003;Fulham;Newcastle;2;3;Premier League;Partly Cloudy;NNW;7 mph;39 °F;81%;29.81 in
+25.10.2003;Bolton;Birmingham;0;1;Premier League;Fair;SE;2 mph;32 °F;87%;29.96 in
+25.10.2003;Liverpool;Leeds United;3;1;Premier League;Fair;WNW;3 mph;43 °F;61%;30.18 in
+25.10.2003;Man. United;Fulham;1;3;Premier League;Fair;SE;2 mph;32 °F;87%;29.96 in
+25.10.2003;Southampton;Blackburn;2;0;Premier League;Fair;CALM;0 mph;27 °F;93%;30.24 in
+25.10.2003;Newcastle;Portsmouth;3;0;Premier League;Fair;WNW;8 mph;37 °F;93%;29.92 in
+25.10.2003;Aston Villa;Everton;0;0;Premier League;Fair;WNW;5 mph;34 °F;81%;29.89 in
+25.10.2003;Chelsea;Man. City;1;0;Premier League;Fair;WSW;6 mph;37 °F;81%;30.22 in
+25.10.2003;Wolverhampton;Leicester City;4;3;Premier League;Fair;WNW;5 mph;34 °F;81%;29.89 in
+26.10.2003;Charlton;Arsenal;1;1;Premier League;Partly Cloudy;NNE;6 mph;48 °F;71%;29.98 in
+26.10.2003;Tottenham;Middlesbrough;0;0;Premier League;Partly Cloudy;NNE;6 mph;48 °F;71%;29.98 in
+1.11.2003;Leeds United;Arsenal;1;4;Premier League;Partly Cloudy;NNW;14 mph;43 °F;100%;28.50 in
+1.11.2003;Everton;Chelsea;0;1;Premier League;Mostly Cloudy;NNW;10 mph;48 °F;71%;29.17 in
+1.11.2003;Newcastle;Aston Villa;1;1;Premier League;Fair;NNW;12 mph;43 °F;100%;28.95 in
+1.11.2003;Tottenham;Bolton;0;1;Premier League;Mostly Cloudy;WNW;10 mph;46 °F;87%;29.22 in
+1.11.2003;Man. United;Portsmouth;3;0;Premier League;Partly Cloudy;NW;6 mph;43 °F;87%;28.94 in
+1.11.2003;Southampton;Man. City;0;2;Premier League;Fair;NW;9 mph;43 °F;81%;29.23 in
+1.11.2003;Middlesbrough;Wolverhampton;2;0;Premier League;Mostly Cloudy;NNW;12 mph;46 °F;87%;29.08 in
+2.11.2003;Fulham;Liverpool;1;2;Premier League;Mostly Cloudy;SSW;16 mph;55 °F;88%;29.19 in
+2.11.2003;Leicester City;Blackburn;2;0;Premier League;Partly Cloudy;S;13 mph;43 °F;87%;29.02 in
+3.11.2003;Birmingham;Charlton;1;2;Premier League;Mostly Cloudy;SW;12 mph;48 °F;87%;28.86 in
+8.11.2003;Wolverhampton;Birmingham;1;1;Premier League;Cloudy;E;13 mph;46 °F;81%;29.97 in
+8.11.2003;Charlton;Fulham;3;1;Premier League;Mostly Cloudy;E;12 mph;48 °F;76%;30.19 in
+8.11.2003;Bolton;Southampton;0;0;Premier League;Fair / Windy;E;21 mph;46 °F;81%;30.08 in
+8.11.2003;Aston Villa;Middlesbrough;0;2;Premier League;Cloudy;E;13 mph;46 °F;81%;29.97 in
+8.11.2003;Arsenal;Tottenham;2;1;Premier League;Mostly Cloudy;E;12 mph;48 °F;76%;30.19 in
+8.11.2003;Portsmouth;Leeds United;6;1;Premier League;Partly Cloudy;NNE;1 mph;41 °F;81%;30.15 in
+9.11.2003;Liverpool;Man. United;1;2;Premier League;Mostly Cloudy;E;13 mph;46 °F;71%;29.91 in
+9.11.2003;Man. City;Leicester City;0;3;Premier League;Mostly Cloudy;E;9 mph;46 °F;76%;29.73 in
+9.11.2003;Chelsea;Newcastle;5;0;Premier League;Fair;E;7 mph;46 °F;100%;30.01 in
+10.11.2003;Blackburn;Everton;2;1;Premier League;Cloudy;CALM;0 mph;50 °F;100%;30.13 in
+22.11.2003;Man. United;Blackburn;2;1;Premier League;Partly Cloudy;E;3 mph;36 °F;93%;29.46 in
+22.11.2003;Birmingham;Arsenal;0;3;Premier League;Cloudy;VAR;2 mph;39 °F;100%;29.39 in
+22.11.2003;Southampton;Chelsea;0;1;Premier League;Mostly Cloudy;N;6 mph;46 °F;93%;29.56 in
+22.11.2003;Middlesbrough;Liverpool;0;0;Premier League;Fair;WSW;3 mph;34 °F;93%;29.55 in
+22.11.2003;Leeds United;Bolton;0;2;Premier League;Mostly Cloudy;W;7 mph;36 °F;100%;29.01 in
+22.11.2003;Leicester City;Charlton;1;1;Premier League;Cloudy;CALM;0 mph;37 °F;93%;29.40 in
+22.11.2003;Newcastle;Man. City;3;0;Premier League;Fair;SW;5 mph;36 °F;100%;29.42 in
+22.11.2003;Everton;Wolverhampton;2;0;Premier League;Fair;SE;3 mph;39 °F;87%;29.65 in
+23.11.2003;Tottenham;Aston Villa;2;1;Premier League;Mostly Cloudy;NE;9 mph;46 °F;100%;29.57 in
+24.11.2003;Fulham;Portsmouth;2;0;Premier League;Cloudy;N;7 mph;45 °F;100%;29.69 in
+29.11.2003;Wolverhampton;Newcastle;1;1;Premier League;Mostly Cloudy;S;9 mph;48 °F;87%;29.39 in
+29.11.2003;Aston Villa;Southampton;1;0;Premier League;Mostly Cloudy;S;9 mph;48 °F;87%;29.39 in
+29.11.2003;Bolton;Everton;2;0;Premier League;Mostly Cloudy;S;13 mph;48 °F;87%;29.40 in
+29.11.2003;Blackburn;Tottenham;1;0;Premier League;Partly Cloudy;SSE;10 mph;46 °F;87%;29.75 in
+29.11.2003;Charlton;Leeds United;0;1;Premier League;Partly Cloudy;SSE;10 mph;46 °F;87%;29.75 in
+29.11.2003;Portsmouth;Leicester City;0;2;Premier League;Mostly Cloudy;S;6 mph;48 °F;87%;29.68 in
+30.11.2003;Arsenal;Fulham;0;0;Premier League;Fair;CALM;0 mph;48 °F;82%;29.60 in
+30.11.2003;Liverpool;Birmingham;3;1;Premier League;Fair;SSW;12 mph;46 °F;71%;29.44 in
+30.11.2003;Man. City;Middlesbrough;0;1;Premier League;Fair;SSW;8 mph;41 °F;87%;29.26 in
+30.11.2003;Chelsea;Man. United;1;0;Premier League;Fair;CALM;0 mph;48 °F;82%;29.60 in
+6.12.2003;Newcastle;Liverpool;1;1;Premier League;Partly Cloudy;WSW;2 mph;43 °F;0%;30.12 in
+6.12.2003;Leicester City;Arsenal;1;1;Premier League;Fair;VAR;2 mph;39 °F;93%;30.02 in
+6.12.2003;Leeds United;Chelsea;1;1;Premier League;Mostly Cloudy;NNE;9 mph;46 °F;100%;29.65 in
+6.12.2003;Man. United;Aston Villa;4;0;Premier League;Cloudy;NE;2 mph;41 °F;100%;30.11 in
+6.12.2003;Fulham;Bolton;2;1;Premier League;Mostly Cloudy;CALM;0 mph;43 °F;100%;30.31 in
+6.12.2003;Birmingham;Blackburn;0;4;Premier League;Fair;NW;5 mph;37 °F;100%;30.00 in
+6.12.2003;Middlesbrough;Portsmouth;0;0;Premier League;Mostly Cloudy / Windy;NE;21 mph;46 °F;93%;30.31 in
+6.12.2003;Tottenham;Wolverhampton;5;2;Premier League;Mostly Cloudy;CALM;0 mph;43 °F;100%;30.31 in
+7.12.2003;Everton;Man. City;0;0;Premier League;Partly Cloudy;ESE;13 mph;43 °F;70%;30.41 in
+7.12.2003;Southampton;Charlton;3;2;Premier League;Fair;ENE;9 mph;36 °F;70%;30.38 in
+13.12.2003;Leicester City;Birmingham;0;2;Premier League;Mostly Cloudy;SSW;14 mph;54 °F;94%;29.37 in
+13.12.2003;Man. United;Man. City;3;1;Premier League;Cloudy;S;15 mph;54 °F;94%;29.37 in
+13.12.2003;Chelsea;Bolton;1;2;Premier League;Mostly Cloudy;WSW;15 mph;57 °F;94%;29.75 in
+13.12.2003;Middlesbrough;Charlton;0;0;Premier League;Partly Cloudy;WSW;14 mph;55 °F;88%;29.37 in
+13.12.2003;Liverpool;Southampton;1;2;Premier League;Mostly Cloudy;S;8 mph;55 °F;82%;29.56 in
+13.12.2003;Portsmouth;Everton;1;2;Premier League;Mostly Cloudy;WSW;20 mph;55 °F;88%;29.79 in
+13.12.2003;Newcastle;Tottenham;4;0;Premier League;Partly Cloudy;SSW;12 mph;52 °F;100%;29.22 in
+14.12.2003;Aston Villa;Wolverhampton;3;2;Premier League;Mostly Cloudy;W;14 mph;45 °F;76%;29.36 in
+14.12.2003;Arsenal;Blackburn;1;0;Premier League;Fair;W;17 mph;48 °F;62%;30.01 in
+14.12.2003;Leeds United;Fulham;3;2;Premier League;Partly Cloudy / Windy;W;28 mph;41 °F;87%;28.84 in
+20.12.2003;Bolton;Arsenal;1;1;Premier League;Mostly Cloudy;S;2 mph;37 °F;100%;29.73 in
+20.12.2003;Fulham;Chelsea;0;1;Premier League;Partly Cloudy;S;5 mph;46 °F;93%;29.87 in
+20.12.2003;Charlton;Newcastle;0;0;Premier League;Partly Cloudy;S;5 mph;46 °F;93%;29.87 in
+20.12.2003;Blackburn;Aston Villa;0;2;Premier League;Partly Cloudy;S;5 mph;46 °F;93%;29.87 in
+20.12.2003;Everton;Leicester City;3;2;Premier League;Fair;ESE;6 mph;39 °F;93%;29.88 in
+21.12.2003;Southampton;Portsmouth;3;0;Premier League;Fair;W;14 mph;43 °F;70%;29.65 in
+21.12.2003;Tottenham;Man. United;1;2;Premier League;Fair;WNW;17 mph;45 °F;66%;29.78 in
+22.12.2003;Man. City;Leeds United;1;1;Premier League;Fair;WNW;9 mph;0 °F;60%;29.96 in
+26.12.2003;Fulham;Southampton;2;0;Premier League;Mostly Cloudy;SSW;12 mph;50 °F;94%;29.75 in
+26.12.2003;Arsenal;Wolverhampton;3;0;Premier League;Mostly Cloudy;SSW;12 mph;50 °F;94%;29.75 in
+26.12.2003;Charlton;Chelsea;4;2;Premier League;Mostly Cloudy;SSW;12 mph;50 °F;94%;29.75 in
+26.12.2003;Leicester City;Newcastle;1;1;Premier League;Mostly Cloudy;SSW;16 mph;48 °F;87%;29.49 in
+26.12.2003;Leeds United;Aston Villa;0;0;Premier League;Partly Cloudy;SW;17 mph;46 °F;93%;28.81 in
+26.12.2003;Liverpool;Bolton;3;1;Premier League;Mostly Cloudy;SSW;12 mph;50 °F;87%;29.67 in
+26.12.2003;Blackburn;Middlesbrough;2;2;Premier League;Mostly Cloudy;SSW;12 mph;50 °F;94%;29.75 in
+26.12.2003;Man. United;Everton;3;2;Premier League;Mostly Cloudy;SSW;18 mph;50 °F;87%;29.52 in
+26.12.2003;Portsmouth;Tottenham;2;0;Premier League;Mostly Cloudy;SSW;18 mph;48 °F;93%;29.76 in
+26.12.2003;Birmingham;Man. City;2;1;Premier League;Partly Cloudy;SSW;12 mph;48 °F;93%;29.51 in
+28.12.2003;Chelsea;Portsmouth;3;0;Premier League;Fair;WNW;16 mph;41 °F;65%;29.45 in
+28.12.2003;Newcastle;Blackburn;0;1;Premier League;Fair;WNW;7 mph;34 °F;100%;28.95 in
+28.12.2003;Man. City;Liverpool;2;2;Premier League;Partly Cloudy;SSE;1 mph;30 °F;100%;0.00 in
+28.12.2003;Aston Villa;Fulham;3;0;Premier League;Cloudy;NNW;6 mph;34 °F;100%;28.89 in
+28.12.2003;Tottenham;Charlton;0;1;Premier League;Fair;WNW;16 mph;41 °F;65%;29.45 in
+28.12.2003;Everton;Birmingham;1;0;Premier League;Partly Cloudy;N;8 mph;37 °F;87%;29.20 in
+28.12.2003;Wolverhampton;Leeds United;3;1;Premier League;Cloudy;NNW;6 mph;34 °F;100%;28.89 in
+28.12.2003;Bolton;Leicester City;2;2;Premier League;Partly Cloudy;SSE;1 mph;30 °F;100%;0.00 in
+28.12.2003;Middlesbrough;Man. United;0;1;Premier League;Fair;WNW;8 mph;32 °F;87%;29.14 in
+29.12.2003;Southampton;Arsenal;0;1;Premier League;Mostly Cloudy;ESE;3 mph;39 °F;87%;29.59 in
+6.01.2004;Aston Villa;Portsmouth;2;1;Premier League;Mostly Cloudy;SSW;14 mph;50 °F;94%;29.51 in
+7.01.2004;Tottenham;Birmingham;4;1;Premier League;Cloudy;S;6 mph;50 °F;100%;29.96 in
+7.01.2004;Middlesbrough;Fulham;2;1;Premier League;Mostly Cloudy;S;9 mph;43 °F;81%;29.72 in
+7.01.2004;Man. City;Charlton;1;1;Premier League;Fair;S;7 mph;41 °F;81%;29.64 in
+7.01.2004;Wolverhampton;Blackburn;2;2;Premier League;Fair;SSE;5 mph;41 °F;93%;29.59 in
+7.01.2004;Newcastle;Leeds United;1;0;Premier League;Partly Cloudy;CALM;0 mph;41 °F;87%;29.57 in
+7.01.2004;Southampton;Leicester City;0;0;Premier League;Mostly Cloudy;SW;12 mph;50 °F;82%;29.91 in
+7.01.2004;Everton;Arsenal;1;1;Premier League;Partly Cloudy;SSW;10 mph;43 °F;81%;29.82 in
+7.01.2004;Bolton;Man. United;1;2;Premier League;Fair;S;7 mph;41 °F;81%;29.64 in
+7.01.2004;Chelsea;Liverpool;0;1;Premier League;Cloudy;S;6 mph;50 °F;100%;29.96 in
+10.01.2004;Liverpool;Aston Villa;1;0;Premier League;Fair;SSE;7 mph;39 °F;87%;29.62 in
+10.01.2004;Blackburn;Bolton;3;4;Premier League;Fair;CALM;0 mph;45 °F;76%;29.84 in
+10.01.2004;Birmingham;Southampton;2;1;Premier League;Fair;S;6 mph;37 °F;87%;29.39 in
+10.01.2004;Arsenal;Middlesbrough;4;1;Premier League;Fair;CALM;0 mph;45 °F;76%;29.84 in
+10.01.2004;Fulham;Everton;2;1;Premier League;Fair;CALM;0 mph;45 °F;76%;29.84 in
+10.01.2004;Leeds United;Tottenham;0;1;Premier League;Partly Cloudy;WSW;17 mph;39 °F;87%;28.93 in
+10.01.2004;Portsmouth;Man. City;4;2;Premier League;Mostly Cloudy;SSW;6 mph;46 °F;93%;29.79 in
+10.01.2004;Charlton;Wolverhampton;2;0;Premier League;Fair;CALM;0 mph;45 °F;76%;29.84 in
+11.01.2004;Leicester City;Chelsea;0;4;Premier League;Fair;SSW;18 mph;52 °F;88%;29.26 in
+11.01.2004;Man. United;Newcastle;0;0;Premier League;Mostly Cloudy;SSE;10 mph;50 °F;87%;29.26 in
+17.01.2004;Wolverhampton;Man. United;1;0;Premier League;Fair;W;5 mph;34 °F;93%;29.07 in
+17.01.2004;Tottenham;Liverpool;2;1;Premier League;Fair;WSW;8 mph;37 °F;93%;29.48 in
+17.01.2004;Everton;Charlton;0;1;Premier League;Partly Cloudy;WNW;9 mph;41 °F;87%;29.32 in
+17.01.2004;Man. City;Blackburn;1;1;Premier League;Partly Cloudy;S;5 mph;34 °F;100%;29.14 in
+17.01.2004;Bolton;Portsmouth;1;0;Premier League;Partly Cloudy;S;5 mph;34 °F;100%;29.14 in
+17.01.2004;Southampton;Leeds United;2;1;Premier League;Fair;W;1 mph;37 °F;87%;29.47 in
+17.01.2004;Middlesbrough;Leicester City;3;3;Premier League;Partly Cloudy;NW;7 mph;36 °F;87%;29.34 in
+18.01.2004;Aston Villa;Arsenal;0;2;Premier League;Fair;NNW;8 mph;34 °F;87%;29.74 in
+18.01.2004;Chelsea;Birmingham;0;0;Premier League;Fair;NW;5 mph;39 °F;70%;30.34 in
+19.01.2004;Newcastle;Fulham;3;1;Premier League;Mostly Cloudy / Windy;W;21 mph;45 °F;87%;29.63 in
+21.01.2004;Wolverhampton;Liverpool;1;1;Premier League;Mostly Cloudy;NW;16 mph;46 °F;93%;29.71 in
+31.01.2004;Man. United;Southampton;3;2;Premier League;Mostly Cloudy;SSW;17 mph;46 °F;81%;29.05 in
+31.01.2004;Birmingham;Newcastle;1;1;Premier League;Fair;SSW;7 mph;45 °F;87%;29.07 in
+31.01.2004;Leicester City;Aston Villa;0;5;Premier League;Partly Cloudy;SSW;17 mph;46 °F;81%;29.05 in
+31.01.2004;Charlton;Bolton;1;2;Premier League;Mostly Cloudy;SSW;15 mph;50 °F;94%;29.36 in
+31.01.2004;Leeds United;Middlesbrough;0;3;Premier League;Mostly Cloudy;SW;12 mph;45 °F;93%;28.55 in
+31.01.2004;Liverpool;Everton;0;0;Premier League;Mostly Cloudy;SW;20 mph;50 °F;76%;29.23 in
+31.01.2004;Fulham;Tottenham;2;1;Premier League;Mostly Cloudy;SSW;15 mph;50 °F;94%;29.36 in
+31.01.2004;Portsmouth;Wolverhampton;0;0;Premier League;Mostly Cloudy / Windy;SSW;22 mph;48 °F;87%;29.32 in
+1.02.2004;Blackburn;Chelsea;2;3;Premier League;Partly Cloudy / Windy;WSW;21 mph;52 °F;67%;29.90 in
+1.02.2004;Arsenal;Man. City;2;1;Premier League;Partly Cloudy / Windy;WSW;21 mph;52 °F;67%;29.90 in
+7.02.2004;Wolverhampton;Arsenal;1;3;Premier League;Cloudy;W;14 mph;41 °F;81%;29.33 in
+7.02.2004;Everton;Man. United;3;4;Premier League;Partly Cloudy / Windy;W;31 mph;46 °F;81%;29.56 in
+7.02.2004;Bolton;Liverpool;2;2;Premier League;Mostly Cloudy;W;15 mph;43 °F;93%;29.35 in
+7.02.2004;Southampton;Fulham;0;0;Premier League;Fair;W;10 mph;43 °F;76%;29.94 in
+7.02.2004;Middlesbrough;Blackburn;0;1;Premier League;Fair / Windy;W;26 mph;46 °F;71%;29.43 in
+7.02.2004;Tottenham;Portsmouth;4;3;Premier League;Fair;WSW;15 mph;45 °F;76%;29.90 in
+7.02.2004;Aston Villa;Leeds United;2;0;Premier League;Cloudy;W;14 mph;41 °F;81%;29.33 in
+7.02.2004;Newcastle;Leicester City;3;1;Premier League;Partly Cloudy;W;14 mph;45 °F;76%;29.16 in
+8.02.2004;Man. City;Birmingham;0;0;Premier League;Mostly Cloudy;W;20 mph;39 °F;70%;29.46 in
+8.02.2004;Chelsea;Charlton;1;0;Premier League;Partly Cloudy;WNW;20 mph;46 °F;57%;30.07 in
+10.02.2004;Arsenal;Southampton;2;0;Premier League;Cloudy;SW;5 mph;39 °F;65%;30.52 in
+10.02.2004;Leeds United;Wolverhampton;4;1;Premier League;Mostly Cloudy;SW;13 mph;36 °F;93%;29.71 in
+10.02.2004;Leicester City;Bolton;1;1;Premier League;Mostly Cloudy;SSW;10 mph;39 °F;70%;30.16 in
+11.02.2004;Fulham;Aston Villa;1;2;Premier League;Mostly Cloudy;NW;5 mph;50 °F;87%;30.31 in
+11.02.2004;Birmingham;Everton;3;0;Premier League;Mostly Cloudy;WNW;13 mph;48 °F;82%;29.97 in
+11.02.2004;Portsmouth;Chelsea;0;2;Premier League;Mostly Cloudy;NNW;5 mph;41 °F;93%;30.35 in
+11.02.2004;Blackburn;Newcastle;1;1;Premier League;Mostly Cloudy;NW;5 mph;50 °F;87%;30.31 in
+11.02.2004;Man. United;Middlesbrough;2;3;Premier League;Mostly Cloudy;WNW;12 mph;48 °F;87%;30.05 in
+11.02.2004;Charlton;Tottenham;2;4;Premier League;Mostly Cloudy;NW;5 mph;50 °F;87%;30.31 in
+11.02.2004;Liverpool;Man. City;2;1;Premier League;Partly Cloudy;WNW;18 mph;48 °F;87%;30.26 in
+21.02.2004;Chelsea;Arsenal;1;2;Premier League;Fair;NNE;6 mph;34 °F;100%;29.98 in
+21.02.2004;Man. United;Leeds United;1;1;Premier League;Mostly Cloudy;E;12 mph;37 °F;70%;29.84 in
+21.02.2004;Wolverhampton;Fulham;2;1;Premier League;Cloudy;E;9 mph;36 °F;70%;29.74 in
+21.02.2004;Newcastle;Middlesbrough;2;1;Premier League;Partly Cloudy;E;5 mph;37 °F;70%;29.92 in
+21.02.2004;Charlton;Blackburn;3;2;Premier League;Fair;NNE;6 mph;34 °F;100%;29.98 in
+21.02.2004;Southampton;Everton;3;3;Premier League;Partly Cloudy;NNE;7 mph;32 °F;87%;29.91 in
+21.02.2004;Bolton;Man. City;1;3;Premier League;Mostly Cloudy;E;12 mph;37 °F;70%;29.84 in
+22.02.2004;Aston Villa;Birmingham;2;2;Premier League;Cloudy;NNE;13 mph;37 °F;75%;29.65 in
+22.02.2004;Tottenham;Leicester City;4;4;Premier League;Mostly Cloudy;N;9 mph;43 °F;76%;29.98 in
+28.02.2004;Man. City;Chelsea;0;1;Premier League;Mostly Cloudy;NNW;7 mph;34 °F;81%;29.35 in
+28.02.2004;Fulham;Man. United;1;1;Premier League;Cloudy;WNW;5 mph;36 °F;87%;29.63 in
+28.02.2004;Everton;Aston Villa;2;0;Premier League;Fair;N;12 mph;36 °F;65%;29.59 in
+28.02.2004;Arsenal;Charlton;2;1;Premier League;Cloudy;WNW;5 mph;36 °F;87%;29.63 in
+28.02.2004;Blackburn;Southampton;1;1;Premier League;Cloudy;WNW;5 mph;36 °F;87%;29.63 in
+28.02.2004;Leicester City;Wolverhampton;0;0;Premier League;Mostly Cloudy;WNW;7 mph;34 °F;87%;29.26 in
+29.02.2004;Leeds United;Liverpool;2;2;Premier League;Fair;NNW;9 mph;30 °F;0%;29.27 in
+29.02.2004;Portsmouth;Newcastle;1;1;Premier League;Partly Cloudy;N;9 mph;36 °F;65%;30.09 in
+3.03.2004;Birmingham;Middlesbrough;3;1;Premier League;Fair;SSW;7 mph;34 °F;81%;30.06 in
+6.03.2004;Birmingham;Bolton;2;0;Premier League;Mostly Cloudy;NNW;6 mph;41 °F;100%;29.77 in
+9.03.2004;Middlesbrough;Tottenham;1;0;Premier League;Mostly Cloudy;N;5 mph;41 °F;70%;30.52 in
+13.03.2004;Bolton;Chelsea;0;2;Premier League;Mostly Cloudy;E;3 mph;37 °F;93%;29.35 in
+13.03.2004;Blackburn;Arsenal;0;2;Premier League;Mostly Cloudy / Windy;W;21 mph;43 °F;93%;29.69 in
+13.03.2004;Charlton;Middlesbrough;1;0;Premier League;Mostly Cloudy / Windy;W;21 mph;43 °F;93%;29.69 in
+13.03.2004;Everton;Portsmouth;1;0;Premier League;Mostly Cloudy;ESE;6 mph;39 °F;93%;29.56 in
+13.03.2004;Fulham;Leeds United;2;0;Premier League;Mostly Cloudy / Windy;W;21 mph;43 °F;93%;29.69 in
+13.03.2004;Birmingham;Leicester City;0;1;Premier League;Mostly Cloudy;N;3 mph;37 °F;100%;29.27 in
+14.03.2004;Wolverhampton;Aston Villa;0;4;Premier League;Mostly Cloudy;S;9 mph;43 °F;87%;29.45 in
+14.03.2004;Man. City;Man. United;4;1;Premier League;Mostly Cloudy;S;15 mph;43 °F;87%;29.46 in
+14.03.2004;Tottenham;Newcastle;1;0;Premier League;Mostly Cloudy / Windy;SSW;21 mph;52 °F;82%;29.96 in
+14.03.2004;Southampton;Liverpool;2;0;Premier League;Mostly Cloudy / Windy;SW;22 mph;48 °F;87%;29.94 in
+17.03.2004;Liverpool;Portsmouth;3;0;Premier League;Mostly Cloudy;SW;15 mph;52 °F;88%;30.00 in
+20.03.2004;Arsenal;Bolton;2;1;Premier League;Mostly Cloudy / Windy;WSW;22 mph;54 °F;94%;29.69 in
+20.03.2004;Chelsea;Fulham;2;1;Premier League;Mostly Cloudy / Windy;WSW;22 mph;54 °F;94%;29.69 in
+20.03.2004;Middlesbrough;Birmingham;5;3;Premier League;Mostly Cloudy;S;13 mph;43 °F;87%;29.31 in
+20.03.2004;Aston Villa;Blackburn;0;2;Premier League;Mostly Cloudy;SSW;9 mph;45 °F;76%;29.42 in
+20.03.2004;Leicester City;Everton;1;1;Premier League;Fair;SW;16 mph;45 °F;71%;29.40 in
+20.03.2004;Man. United;Tottenham;3;0;Premier League;Fair;SSW;12 mph;43 °F;76%;29.43 in
+20.03.2004;Liverpool;Wolverhampton;1;0;Premier League;Mostly Cloudy;S;9 mph;46 °F;71%;29.59 in
+20.03.2004;Newcastle;Charlton;3;1;Premier League;Partly Cloudy;SW;5 mph;37 °F;81%;29.31 in
+21.03.2004;Portsmouth;Southampton;1;0;Premier League;Partly Cloudy;WSW;14 mph;45 °F;71%;29.65 in
+22.03.2004;Leeds United;Man. City;2;1;Premier League;Partly Cloudy;W;14 mph;37 °F;93%;28.90 in
+27.03.2004;Birmingham;Leeds United;4;1;Premier League;Mostly Cloudy;NW;5 mph;43 °F;93%;29.74 in
+27.03.2004;Charlton;Aston Villa;1;2;Premier League;Partly Cloudy;SSW;3 mph;41 °F;100%;30.04 in
+27.03.2004;Man. City;Fulham;0;0;Premier League;Cloudy;SW;2 mph;45 °F;100%;29.81 in
+27.03.2004;Everton;Middlesbrough;1;1;Premier League;Mostly Cloudy;NW;9 mph;46 °F;87%;30.03 in
+27.03.2004;Blackburn;Portsmouth;1;2;Premier League;Partly Cloudy;SSW;3 mph;41 °F;100%;30.04 in
+27.03.2004;Southampton;Tottenham;1;0;Premier League;Mostly Cloudy;CALM;0 mph;41 °F;93%;30.03 in
+27.03.2004;Chelsea;Wolverhampton;5;2;Premier League;Partly Cloudy;SSW;3 mph;41 °F;100%;30.04 in
+28.03.2004;Bolton;Newcastle;1;0;Premier League;Cloudy;SSW;3 mph;45 °F;87%;29.70 in
+28.03.2004;Leicester City;Liverpool;0;0;Premier League;Mostly Cloudy;SSW;3 mph;45 °F;81%;29.64 in
+28.03.2004;Arsenal;Man. United;1;1;Premier League;Partly Cloudy;SW;7 mph;48 °F;87%;30.04 in
+3.04.2004;Tottenham;Chelsea;0;1;Premier League;Partly Cloudy;SE;6 mph;46 °F;87%;29.78 in
+3.04.2004;Middlesbrough;Bolton;2;0;Premier League;Fair;CALM;0 mph;0 °F;0%;0.00 in
+3.04.2004;Fulham;Birmingham;0;0;Premier League;Partly Cloudy;SE;6 mph;46 °F;87%;29.78 in
+3.04.2004;Wolverhampton;Southampton;1;4;Premier League;Fair;SSE;6 mph;39 °F;87%;29.39 in
+3.04.2004;Newcastle;Everton;4;2;Premier League;Mostly Cloudy;S;5 mph;45 °F;93%;29.42 in
+4.04.2004;Aston Villa;Man. City;1;1;Premier League;Mostly Cloudy;WNW;16 mph;43 °F;93%;29.24 in
+4.04.2004;Liverpool;Blackburn;4;0;Premier League;Mostly Cloudy;WNW;8 mph;45 °F;93%;29.50 in
+5.04.2004;Leeds United;Leicester City;3;2;Premier League;Partly Cloudy;W;15 mph;41 °F;93%;28.98 in
+9.04.2004;Arsenal;Liverpool;4;2;Premier League;Fair;CALM;0 mph;39 °F;93%;30.10 in
+9.04.2004;Everton;Tottenham;3;1;Premier League;Fair;WNW;2 mph;43 °F;76%;30.06 in
+10.04.2004;Birmingham;Man. United;1;2;Premier League;Mostly Cloudy;NW;10 mph;48 °F;87%;29.68 in
+10.04.2004;Bolton;Aston Villa;2;2;Premier League;Cloudy;WNW;6 mph;46 °F;100%;29.76 in
+10.04.2004;Leicester City;Fulham;0;2;Premier League;Mostly Cloudy;W;7 mph;48 °F;87%;29.67 in
+10.04.2004;Chelsea;Middlesbrough;0;0;Premier League;Mostly Cloudy;CALM;0 mph;45 °F;100%;29.98 in
+10.04.2004;Charlton;Portsmouth;1;1;Premier League;Mostly Cloudy;CALM;0 mph;45 °F;100%;29.98 in
+10.04.2004;Man. City;Wolverhampton;3;3;Premier League;Cloudy;WNW;6 mph;46 °F;100%;29.76 in
+10.04.2004;Blackburn;Leeds United;1;2;Premier League;Mostly Cloudy;CALM;0 mph;45 °F;100%;29.98 in
+11.04.2004;Newcastle;Arsenal;0;0;Premier League;Mostly Cloudy;ESE;1 mph;43 °F;81%;29.86 in
+12.04.2004;Aston Villa;Chelsea;3;2;Premier League;Cloudy;NNW;6 mph;48 °F;87%;29.91 in
+12.04.2004;Wolverhampton;Bolton;1;2;Premier League;Cloudy;NNW;6 mph;48 °F;87%;29.91 in
+12.04.2004;Liverpool;Charlton;0;1;Premier League;Mostly Cloudy;W;3 mph;48 °F;87%;30.18 in
+12.04.2004;Portsmouth;Birmingham;3;1;Premier League;Partly Cloudy;CALM;0 mph;43 °F;87%;30.27 in
+12.04.2004;Middlesbrough;Southampton;3;1;Premier League;Mostly Cloudy;W;5 mph;46 °F;87%;30.14 in
+12.04.2004;Tottenham;Man. City;1;1;Premier League;Fair;CALM;0 mph;41 °F;100%;30.31 in
+12.04.2004;Fulham;Blackburn;3;4;Premier League;Fair;CALM;0 mph;41 °F;100%;30.31 in
+13.04.2004;Leeds United;Everton;1;1;Premier League;Fair;W;8 mph;45 °F;87%;29.56 in
+13.04.2004;Man. United;Leicester City;1;0;Premier League;Mostly Cloudy;W;5 mph;46 °F;87%;30.02 in
+16.04.2004;Arsenal;Leeds United;5;0;Premier League;Partly Cloudy;NE;3 mph;50 °F;66%;29.87 in
+17.04.2004;Portsmouth;Man. United;1;0;Premier League;Mostly Cloudy;W;3 mph;48 °F;87%;29.65 in
+17.04.2004;Liverpool;Fulham;0;0;Premier League;Mostly Cloudy;NNE;2 mph;46 °F;93%;29.67 in
+17.04.2004;Charlton;Birmingham;1;1;Premier League;Partly Cloudy;SW;2 mph;46 °F;100%;29.63 in
+17.04.2004;Man. City;Southampton;1;3;Premier League;Cloudy;NE;5 mph;46 °F;93%;29.49 in
+17.04.2004;Wolverhampton;Middlesbrough;2;0;Premier League;Mostly Cloudy;N;3 mph;45 °F;100%;29.42 in
+17.04.2004;Chelsea;Everton;0;0;Premier League;Partly Cloudy;SW;2 mph;46 °F;100%;29.63 in
+17.04.2004;Bolton;Tottenham;2;0;Premier League;Cloudy;NE;5 mph;46 °F;93%;29.49 in
+17.04.2004;Blackburn;Leicester City;1;0;Premier League;Partly Cloudy;SW;2 mph;46 °F;100%;29.63 in
+18.04.2004;Aston Villa;Newcastle;0;0;Premier League;Mostly Cloudy;S;15 mph;43 °F;93%;28.83 in
+20.04.2004;Man. United;Charlton;2;0;Premier League;Fair;S;7 mph;43 °F;61%;29.08 in
+24.04.2004;Man. United;Liverpool;0;1;Premier League;Fair;NW;3 mph;55 °F;82%;30.02 in
+24.04.2004;Middlesbrough;Aston Villa;1;2;Premier League;Fair;SSW;8 mph;45 °F;93%;30.14 in
+24.04.2004;Southampton;Bolton;1;2;Premier League;Fair;CALM;0 mph;37 °F;93%;30.29 in
+24.04.2004;Fulham;Charlton;2;0;Premier League;Fair;CALM;0 mph;50 °F;87%;30.31 in
+24.04.2004;Everton;Blackburn;0;1;Premier League;Fair;ESE;5 mph;52 °F;88%;30.20 in
+24.04.2004;Leicester City;Man. City;1;1;Premier League;Fair;W;9 mph;52 °F;82%;29.96 in
+25.04.2004;Leeds United;Portsmouth;1;2;Premier League;Fair;SSW;2 mph;57 °F;82%;29.56 in
+25.04.2004;Birmingham;Wolverhampton;2;2;Premier League;Fair;ESE;2 mph;50 °F;82%;29.94 in
+25.04.2004;Newcastle;Chelsea;2;1;Premier League;Partly Cloudy;WSW;1 mph;52 °F;88%;30.01 in
+25.04.2004;Tottenham;Arsenal;2;2;Premier League;Fair;E;7 mph;64 °F;52%;30.31 in
+1.05.2004;Arsenal;Birmingham;0;0;Premier League;Mostly Cloudy;VAR;3 mph;50 °F;100%;29.63 in
+1.05.2004;Blackburn;Man. United;1;0;Premier League;Mostly Cloudy;VAR;3 mph;50 °F;100%;29.63 in
+1.05.2004;Man. City;Newcastle;1;0;Premier League;Mostly Cloudy;N;6 mph;50 °F;76%;29.46 in
+1.05.2004;Portsmouth;Fulham;1;1;Premier League;Cloudy;NNE;7 mph;48 °F;87%;29.62 in
+1.05.2004;Chelsea;Southampton;4;0;Premier League;Mostly Cloudy;VAR;3 mph;50 °F;100%;29.63 in
+1.05.2004;Wolverhampton;Everton;2;1;Premier League;Cloudy;NE;14 mph;48 °F;87%;29.36 in
+1.05.2004;Charlton;Leicester City;2;2;Premier League;Mostly Cloudy;VAR;3 mph;50 °F;100%;29.63 in
+2.05.2004;Bolton;Leeds United;4;1;Premier League;Fair;NE;6 mph;52 °F;62%;29.52 in
+2.05.2004;Aston Villa;Tottenham;1;0;Premier League;Mostly Cloudy;CALM;0 mph;50 °F;100%;29.45 in
+2.05.2004;Liverpool;Middlesbrough;2;0;Premier League;Fair;NE;7 mph;50 °F;62%;29.70 in
+4.05.2004;Portsmouth;Arsenal;1;1;Premier League;Mostly Cloudy;SW;15 mph;46 °F;81%;29.23 in
+8.05.2004;Man. United;Chelsea;1;1;Premier League;Cloudy;WNW;5 mph;50 °F;94%;29.40 in
+8.05.2004;Southampton;Aston Villa;1;1;Premier League;Mostly Cloudy;WNW;9 mph;48 °F;82%;29.59 in
+8.05.2004;Everton;Bolton;1;2;Premier League;Mostly Cloudy;NW;16 mph;52 °F;82%;29.59 in
+8.05.2004;Leeds United;Charlton;3;3;Premier League;Mostly Cloudy;NW;17 mph;48 °F;87%;28.90 in
+8.05.2004;Tottenham;Blackburn;1;0;Premier League;Cloudy;WNW;10 mph;50 °F;100%;29.51 in
+8.05.2004;Leicester City;Portsmouth;3;1;Premier League;Mostly Cloudy;W;13 mph;48 °F;93%;29.29 in
+8.05.2004;Middlesbrough;Man. City;2;1;Premier League;Mostly Cloudy;N;14 mph;50 °F;87%;29.49 in
+8.05.2004;Birmingham;Liverpool;0;3;Premier League;Mostly Cloudy;NW;15 mph;48 °F;87%;29.30 in
+9.05.2004;Newcastle;Wolverhampton;1;1;Premier League;Mostly Cloudy;N;6 mph;48 °F;100%;29.42 in
+9.05.2004;Fulham;Arsenal;0;1;Premier League;Mostly Cloudy;NNE;5 mph;55 °F;63%;29.75 in
+12.05.2004;Southampton;Newcastle;3;3;Premier League;Mostly Cloudy;NE;5 mph;50 °F;76%;30.18 in
+15.05.2004;Aston Villa;Man. United;0;2;Premier League;Mostly Cloudy;NW;2 mph;52 °F;82%;30.00 in
+15.05.2004;Liverpool;Newcastle;1;1;Premier League;Fair;NW;5 mph;54 °F;88%;30.26 in
+15.05.2004;Bolton;Fulham;0;2;Premier League;Mostly Cloudy;WNW;2 mph;52 °F;94%;30.05 in
+15.05.2004;Blackburn;Birmingham;1;1;Premier League;Mostly Cloudy;CALM;0 mph;57 °F;88%;30.37 in
+15.05.2004;Charlton;Southampton;2;1;Premier League;Mostly Cloudy;CALM;0 mph;57 °F;88%;30.37 in
+15.05.2004;Portsmouth;Middlesbrough;5;1;Premier League;Fair;CALM;0 mph;48 °F;87%;30.35 in
+15.05.2004;Man. City;Everton;5;1;Premier League;Mostly Cloudy;WNW;2 mph;52 °F;94%;30.05 in
+15.05.2004;Wolverhampton;Tottenham;0;2;Premier League;Mostly Cloudy;NW;2 mph;52 °F;82%;30.00 in
+15.05.2004;Chelsea;Leeds United;1;0;Premier League;Mostly Cloudy;CALM;0 mph;57 °F;88%;30.37 in
+15.05.2004;Arsenal;Leicester City;2;1;Premier League;Mostly Cloudy;CALM;0 mph;57 °F;88%;30.37 in

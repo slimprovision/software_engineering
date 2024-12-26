@@ -1,0 +1,381 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+22.05.2021;Crotone;Fiorentina;0;0;Serie A;Light Rain;N;6 mph;54 °F;94 %;28.92 in
+22.05.2021;Cagliari;Genoa;0;1;Serie A;Cloudy;ENE;5 mph;59 °F;82 %;29.50 in
+22.05.2021;Sampdoria;Parma;3;0;Serie A;Fair;SW;18 mph;66 °F;64 %;29.88 in
+23.05.2021;Inter;Udinese;5;1;Serie A;Partly Cloudy;VAR;2 mph;63 °F;68 %;29.50 in
+23.05.2021;Torino;Benevento;1;1;Serie A;Mostly Cloudy;N;5 mph;57 °F;88 %;28.88 in
+23.05.2021;Bologna;Juventus;1;4;Serie A;Fair;VAR;1 mph;63 °F;72 %;29.71 in
+23.05.2021;Sassuolo;Lazio;2;0;Serie A;Fair;VAR;2 mph;68 °F;68 %;29.79 in
+23.05.2021;Atalanta;Milan;0;2;Serie A;Partly Cloudy;ENE;5 mph;59 °F;77 %;29.04 in
+23.05.2021;Spezia;Roma;2;2;Serie A;Light Rain;VAR;2 mph;54 °F;88 %;28.98 in
+23.05.2021;Napoli;Hellas Verona;1;1;Serie A;Fair;VAR;2 mph;64 °F;37 %;29.71 in
+15.05.2021;Genoa;Atalanta;3;4;Serie A;Partly Cloudy;NNE;7 mph;52 °F;94 %;29.84 in
+15.05.2021;Spezia;Torino;4;1;Serie A;Fair;VAR;2 mph;48 °F;100 %;28.89 in
+15.05.2021;Juventus;Inter;3;2;Serie A;Fair;SSW;5 mph;48 °F;93 %;29.68 in
+15.05.2021;Roma;Lazio;2;0;Serie A;Light Rain;N;6 mph;54 °F;94 %;29.37 in
+16.05.2021;Fiorentina;Napoli;0;2;Serie A;Mostly Cloudy;SW;6 mph;57 °F;88 %;29.72 in
+16.05.2021;Benevento;Crotone;1;1;Serie A;Mostly Cloudy;N;6 mph;57 °F;63 %;28.93 in
+16.05.2021;Udinese;Sampdoria;0;1;Serie A;Light Rain;SE;7 mph;59 °F;94 %;29.69 in
+16.05.2021;Parma;Sassuolo;1;3;Serie A;Mostly Cloudy;S;3 mph;57 °F;82 %;29.59 in
+16.05.2021;Milan;Cagliari;0;0;Serie A;Mostly Cloudy;NNW;3 mph;57 °F;82 %;29.38 in
+17.05.2021;Hellas Verona;Bologna;2;2;Serie A;Patches of Fog;ESE;2 mph;57 °F;94 %;29.41 in
+11.05.2021;Napoli;Udinese;5;1;Serie A;Fair;VAR;2 mph;64 °F;68 %;29.68 in
+12.05.2021;Cagliari;Fiorentina;0;0;Serie A;Mostly Cloudy;VAR;2 mph;57 °F;88 %;29.41 in
+12.05.2021;Atalanta;Benevento;2;0;Serie A;Light Drizzle;NNW;3 mph;54 °F;100 %;28.95 in
+12.05.2021;Bologna;Genoa;0;2;Serie A;Fair;E;3 mph;57 °F;94 %;29.59 in
+12.05.2021;Sassuolo;Juventus;1;3;Serie A;Partly Cloudy;VAR;1 mph;61 °F;63 %;29.67 in
+12.05.2021;Torino;Milan;0;7;Serie A;Mostly Cloudy;WSW;5 mph;52 °F;94 %;28.82 in
+12.05.2021;Lazio;Parma;1;0;Serie A;Partly Cloudy;S;7 mph;59 °F;94 %;29.46 in
+12.05.2021;Inter;Roma;3;1;Serie A;Mostly Cloudy;VAR;2 mph;57 °F;88 %;29.41 in
+12.05.2021;Sampdoria;Spezia;2;2;Serie A;Mostly Cloudy;E;10 mph;63 °F;88 %;29.73 in
+13.05.2021;Crotone;Hellas Verona;2;1;Serie A;Light Drizzle;VAR;3 mph;54 °F;94 %;28.80 in
+08.05.2021;Udinese;Bologna;1;1;Serie A;Fair;E;6 mph;52 °F;67 %;29.96 in
+08.05.2021;Spezia;Napoli;1;4;Serie A;Fair;NNE;10 mph;59 °F;29 %;29.00 in
+08.05.2021;Inter;Sampdoria;5;1;Serie A;Fair;N;5 mph;55 °F;44 %;29.53 in
+08.05.2021;Fiorentina;Lazio;2;0;Serie A;Fair;E;6 mph;57 °F;88 %;29.84 in
+09.05.2021;Genoa;Sassuolo;1;2;Serie A;Fair;NE;3 mph;61 °F;77 %;30.08 in
+09.05.2021;Parma;Atalanta;2;5;Serie A;Fair;E;2 mph;52 °F;88 %;29.94 in
+09.05.2021;Benevento;Cagliari;1;3;Serie A;Fair;N;6 mph;54 °F;77 %;29.27 in
+09.05.2021;Hellas Verona;Torino;1;1;Serie A;Fair;ENE;5 mph;55 °F;67 %;29.91 in
+09.05.2021;Roma;Crotone;5;0;Serie A;Fair;ESE;3 mph;63 °F;68 %;29.63 in
+09.05.2021;Juventus;Milan;0;3;Serie A;Fair;E;2 mph;52 °F;88 %;29.94 in
+01.05.2021;Hellas Verona;Spezia;1;1;Serie A;Partly Cloudy;VAR;1 mph;55 °F;94 %;29.59 in
+01.05.2021;Crotone;Inter;0;2;Serie A;Mist;VAR;1 mph;54 °F;100 %;28.89 in
+01.05.2021;Milan;Benevento;2;0;Serie A;Mostly Cloudy;VAR;2 mph;59 °F;88 %;29.44 in
+02.05.2021;Lazio;Genoa;4;3;Serie A;Fair;S;9 mph;61 °F;94 %;29.43 in
+02.05.2021;Sassuolo;Atalanta;1;1;Serie A;Fair;SW;9 mph;61 °F;55 %;29.67 in
+02.05.2021;Napoli;Cagliari;1;1;Serie A;Mostly Cloudy;SW;10 mph;64 °F;83 %;29.60 in
+02.05.2021;Bologna;Fiorentina;3;3;Serie A;Mist;WSW;6 mph;59 °F;94 %;29.48 in
+02.05.2021;Udinese;Juventus;1;2;Serie A;Cloudy;SSE;12 mph;61 °F;94 %;29.58 in
+02.05.2021;Sampdoria;Roma;2;0;Serie A;Mostly Cloudy;S;12 mph;61 °F;100 %;29.61 in
+03.05.2021;Torino;Parma;1;0;Serie A;Fair;ENE;6 mph;54 °F;77 %;28.97 in
+24.04.2021;Genoa;Spezia;2;0;Serie A;Fair;N;3 mph;59 °F;59 %;30.17 in
+24.04.2021;Parma;Crotone;3;4;Serie A;Fair;S;1 mph;50 °F;82 %;30.03 in
+24.04.2021;Sassuolo;Sampdoria;1;0;Serie A;Fair;CALM;0 mph;52 °F;71 %;30.11 in
+25.04.2021;Benevento;Udinese;2;4;Serie A;Fair;NNE;7 mph;52 °F;76 %;29.24 in
+25.04.2021;Fiorentina;Juventus;1;1;Serie A;Fair;ENE;2 mph;55 °F;51 %;29.96 in
+25.04.2021;Inter;Hellas Verona;1;0;Serie A;Fair;NNE;2 mph;55 °F;72 %;29.70 in
+25.04.2021;Cagliari;Roma;3;2;Serie A;Fair;NNE;2 mph;55 °F;72 %;29.70 in
+25.04.2021;Atalanta;Bologna;5;0;Serie A;Fair;NNE;7 mph;52 °F;76 %;29.24 in
+26.04.2021;Torino;Napoli;0;2;Serie A;Fair;N;5 mph;59 °F;63 %;28.91 in
+26.04.2021;Lazio;Milan;3;0;Serie A;Fair;VAR;2 mph;55 °F;72 %;29.57 in
+20.04.2021;Hellas Verona;Fiorentina;1;2;Serie A;Fair;NNW;6 mph;43 °F;87 %;29.74 in
+21.04.2021;Milan;Sassuolo;1;2;Serie A;Partly Cloudy;WNW;7 mph;55 °F;58 %;29.62 in
+21.04.2021;Genoa;Benevento;2;2;Serie A;Fair;SSE;9 mph;57 °F;72 %;30.02 in
+21.04.2021;Udinese;Cagliari;0;1;Serie A;Mostly Cloudy;SE;5 mph;46 °F;93 %;29.99 in
+21.04.2021;Spezia;Inter;1;1;Serie A;Mostly Cloudy;VAR;2 mph;48 °F;93 %;29.03 in
+21.04.2021;Juventus;Parma;3;1;Serie A;Fair;WSW;6 mph;45 °F;81 %;29.85 in
+21.04.2021;Crotone;Sampdoria;0;1;Serie A;Mostly Cloudy;VAR;2 mph;48 °F;93 %;29.03 in
+21.04.2021;Bologna;Torino;1;1;Serie A;Fair;S;10 mph;54 °F;62 %;29.83 in
+22.04.2021;Roma;Atalanta;1;1;Serie A;Mostly Cloudy;E;8 mph;54 °F;88 %;29.60 in
+22.04.2021;Napoli;Lazio;5;2;Serie A;Mostly Cloudy;NNW;3 mph;54 °F;72 %;29.74 in
+17.04.2021;Crotone;Udinese;1;2;Serie A;Fair;N;2 mph;41 °F;65 %;29.12 in
+17.04.2021;Sampdoria;Hellas Verona;3;1;Serie A;Fair;NW;5 mph;46 °F;62 %;30.08 in
+17.04.2021;Sassuolo;Fiorentina;3;1;Serie A;Fair;CALM;0 mph;41 °F;76 %;29.93 in
+17.04.2021;Cagliari;Parma;4;3;Serie A;Fair;N;2 mph;45 °F;71 %;29.70 in
+18.04.2021;Milan;Genoa;2;1;Serie A;Mostly Cloudy;NNE;3 mph;46 °F;76 %;29.62 in
+18.04.2021;Lazio;Benevento;5;3;Serie A;Fair;SSW;2 mph;52 °F;62 %;29.46 in
+18.04.2021;Atalanta;Juventus;1;0;Serie A;Mostly Cloudy;VAR;1 mph;48 °F;66 %;29.13 in
+18.04.2021;Bologna;Spezia;4;1;Serie A;Fair;SSW;8 mph;43 °F;76 %;29.83 in
+18.04.2021;Torino;Roma;3;1;Serie A;Fair;NNW;5 mph;48 °F;54 %;28.97 in
+18.04.2021;Napoli;Inter;1;1;Serie A;Fair;N;3 mph;52 °F;44 %;29.60 in
+10.04.2021;Spezia;Crotone;3;2;Serie A;Cloudy;S;1 mph;48 °F;76 %;29.26 in
+10.04.2021;Parma;Milan;1;3;Serie A;Mostly Cloudy;VAR;1 mph;43 °F;76 %;30.00 in
+10.04.2021;Udinese;Torino;0;1;Serie A;Cloudy;E;2 mph;48 °F;87 %;30.20 in
+11.04.2021;Inter;Cagliari;1;0;Serie A;Light Rain;NNW;2 mph;48 °F;93 %;29.73 in
+11.04.2021;Juventus;Genoa;3;1;Serie A;Rain;WSW;2 mph;46 °F;100 %;29.85 in
+11.04.2021;Hellas Verona;Lazio;0;1;Serie A;Light Rain;ENE;8 mph;52 °F;82 %;29.88 in
+11.04.2021;Sampdoria;Napoli;0;2;Serie A;Mostly Cloudy;S;6 mph;54 °F;77 %;30.14 in
+11.04.2021;Roma;Bologna;1;0;Serie A;Fair;SSW;5 mph;52 °F;76 %;29.72 in
+11.04.2021;Fiorentina;Atalanta;2;3;Serie A;Light Rain;E;6 mph;52 °F;94 %;29.99 in
+12.04.2021;Benevento;Sassuolo;0;1;Serie A;Light Rain;W;3 mph;48 °F;100 %;29.24 in
+03.04.2021;Milan;Sampdoria;1;1;Serie A;Fair;W;8 mph;63 °F;34 %;29.41 in
+03.04.2021;Napoli;Crotone;4;3;Serie A;Fair;E;2 mph;54 °F;88 %;29.65 in
+03.04.2021;Genoa;Fiorentina;1;1;Serie A;Partly Cloudy;N;6 mph;57 °F;82 %;29.90 in
+03.04.2021;Benevento;Parma;2;2;Serie A;Fair;W;8 mph;55 °F;47 %;28.95 in
+03.04.2021;Sassuolo;Roma;2;2;Serie A;Partly Cloudy;NW;6 mph;59 °F;45 %;29.64 in
+03.04.2021;Lazio;Spezia;2;1;Serie A;Fair;SSE;3 mph;55 °F;63 %;29.48 in
+03.04.2021;Atalanta;Udinese;3;2;Serie A;Fair;W;8 mph;55 °F;47 %;28.95 in
+03.04.2021;Cagliari;Hellas Verona;0;2;Serie A;Fair;W;8 mph;63 °F;34 %;29.41 in
+03.04.2021;Torino;Juventus;2;2;Serie A;Fair;W;3 mph;61 °F;55 %;28.82 in
+03.04.2021;Bologna;Inter;0;1;Serie A;Fair;S;14 mph;64 °F;32 %;29.62 in
+19.03.2021;Parma;Genoa;1;2;Serie A;Fair;ESE;9 mph;39 °F;75 %;29.82 in
+20.03.2021;Crotone;Bologna;2;3;Serie A;Fair;VAR;2 mph;30 °F;86 %;29.09 in
+20.03.2021;Spezia;Cagliari;2;1;Serie A;Fair;VAR;2 mph;30 °F;86 %;29.09 in
+21.03.2021;Hellas Verona;Atalanta;0;2;Serie A;Fair;ENE;7 mph;37 °F;56 %;29.88 in
+21.03.2021;Juventus;Benevento;0;1;Serie A;Fair;SW;2 mph;30 °F;75 %;29.88 in
+21.03.2021;Udinese;Lazio;0;1;Serie A;Fair;VAR;2 mph;28 °F;74 %;30.11 in
+21.03.2021;Sampdoria;Torino;1;0;Serie A;Fair;E;15 mph;41 °F;57 %;30.11 in
+21.03.2021;Fiorentina;Milan;2;3;Serie A;Fair;NE;9 mph;43 °F;53 %;29.87 in
+21.03.2021;Roma;Napoli;0;2;Serie A;Fair;NE;6 mph;45 °F;46 %;29.37 in
+07.04.2021;Inter;Sassuolo;2;1;Serie A;Fair;E;6 mph;39 °F;81 %;29.47 in
+12.03.2021;Lazio;Crotone;3;2;Serie A;Fair;S;7 mph;54 °F;72 %;29.72 in
+12.03.2021;Atalanta;Spezia;3;1;Serie A;Mostly Cloudy;VAR;1 mph;46 °F;93 %;29.10 in
+13.03.2021;Sassuolo;Hellas Verona;3;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+13.03.2021;Benevento;Fiorentina;1;4;Serie A;Mist;N;3 mph;46 °F;81 %;29.07 in
+13.03.2021;Genoa;Udinese;1;1;Serie A;Fair;ENE;6 mph;52 °F;76 %;29.90 in
+14.03.2021;Bologna;Sampdoria;3;1;Serie A;Fair;SSW;6 mph;54 °F;58 %;29.56 in
+14.03.2021;Torino;Inter;1;2;Serie A;Fair;N;5 mph;41 °F;81 %;28.71 in
+14.03.2021;Parma;Roma;2;0;Serie A;Fair;NNW;6 mph;41 °F;87 %;29.47 in
+14.03.2021;Cagliari;Juventus;1;3;Serie A;Fair;N;3 mph;45 °F;81 %;29.35 in
+14.03.2021;Milan;Napoli;0;1;Serie A;Fair;N;3 mph;45 °F;81 %;29.35 in
+06.03.2021;Spezia;Benevento;1;1;Serie A;Mostly Cloudy;VAR;2 mph;46 °F;62 %;29.15 in
+06.03.2021;Udinese;Sassuolo;2;0;Serie A;Light Rain / Windy;E;25 mph;43 °F;76 %;30.20 in
+06.03.2021;Juventus;Lazio;3;1;Serie A;Light Rain;E;13 mph;45 °F;93 %;30.12 in
+07.03.2021;Roma;Genoa;1;0;Serie A;Mostly Cloudy;NNE;3 mph;50 °F;87 %;29.78 in
+07.03.2021;Hellas Verona;Milan;0;2;Serie A;Fair;N;6 mph;32 °F;75 %;30.15 in
+07.03.2021;Fiorentina;Parma;3;3;Serie A;Fair;;0 mph;0 °F;0 %;0.00 in
+07.03.2021;Crotone;Torino;4;2;Serie A;Cloudy;SSE;1 mph;39 °F;93 %;29.40 in
+07.03.2021;Sampdoria;Cagliari;2;2;Serie A;Fair;NNE;9 mph;37 °F;65 %;30.38 in
+07.03.2021;Napoli;Bologna;3;1;Serie A;Partly Cloudy;N;5 mph;52 °F;62 %;29.95 in
+08.03.2021;Inter;Atalanta;1;0;Serie A;Fair;VAR;1 mph;37 °F;93 %;29.70 in
+02.03.2021;Juventus;Spezia;3;0;Serie A;Fair;SW;3 mph;34 °F;75 %;30.35 in
+03.03.2021;Sassuolo;Napoli;3;3;Serie A;Fair;VAR;1 mph;52 °F;47 %;30.40 in
+03.03.2021;Cagliari;Bologna;1;0;Serie A;Fair;N;1 mph;41 °F;81 %;30.11 in
+03.03.2021;Atalanta;Crotone;5;1;Serie A;Fair;N;5 mph;43 °F;70 %;29.64 in
+03.03.2021;Fiorentina;Roma;1;2;Serie A;Fair;;0 mph;0 °F;0 %;0.00 in
+03.03.2021;Genoa;Sampdoria;1;1;Serie A;Fair;NNE;9 mph;55 °F;44 %;30.46 in
+03.03.2021;Milan;Udinese;1;1;Serie A;Fair;N;1 mph;41 °F;81 %;30.11 in
+03.03.2021;Benevento;Hellas Verona;0;3;Serie A;Fair;N;5 mph;43 °F;70 %;29.64 in
+04.03.2021;Parma;Inter;1;2;Serie A;Fair;SSW;3 mph;34 °F;81 %;30.06 in
+18.05.2021;Lazio;Torino;0;0;Serie A;Fair;S;3 mph;57 °F;67 %;29.46 in
+27.02.2021;Spezia;Parma;2;2;Serie A;Fair;S;3 mph;46 °F;81 %;29.26 in
+27.02.2021;Bologna;Lazio;2;0;Serie A;Fair;SW;3 mph;48 °F;71 %;30.06 in
+27.02.2021;Hellas Verona;Juventus;1;1;Serie A;Fair;NW;3 mph;43 °F;70 %;29.97 in
+28.02.2021;Sampdoria;Atalanta;0;2;Serie A;Fair;N;7 mph;45 °F;66 %;30.44 in
+28.02.2021;Crotone;Cagliari;0;2;Serie A;Mostly Cloudy;SSW;6 mph;54 °F;44 %;29.46 in
+28.02.2021;Udinese;Fiorentina;1;0;Serie A;Fair;E;6 mph;46 °F;53 %;30.43 in
+28.02.2021;Inter;Genoa;3;0;Serie A;Partly Cloudy;E;9 mph;50 °F;62 %;30.02 in
+28.02.2021;Napoli;Benevento;2;0;Serie A;Fair;NW;2 mph;45 °F;93 %;29.92 in
+28.02.2021;Roma;Milan;1;2;Serie A;Mist;VAR;1 mph;46 °F;93 %;29.78 in
+17.03.2021;Torino;Sassuolo;3;2;Serie A;Fair;W;3 mph;39 °F;45 %;29.05 in
+19.02.2021;Fiorentina;Spezia;3;0;Serie A;Mostly Cloudy;VAR;1 mph;50 °F;94 %;30.10 in
+19.02.2021;Cagliari;Torino;0;1;Serie A;Fog;SSE;2 mph;46 °F;100 %;29.82 in
+20.02.2021;Lazio;Sampdoria;1;0;Serie A;Fair;SSE;3 mph;50 °F;82 %;29.80 in
+20.02.2021;Genoa;Hellas Verona;2;2;Serie A;Mostly Cloudy;ESE;15 mph;55 °F;88 %;30.22 in
+20.02.2021;Sassuolo;Bologna;1;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+21.02.2021;Parma;Udinese;2;2;Serie A;Mist;VAR;2 mph;45 °F;100 %;30.12 in
+21.02.2021;Milan;Inter;0;3;Serie A;Mist;W;2 mph;48 °F;93 %;29.91 in
+21.02.2021;Atalanta;Napoli;4;2;Serie A;Mist;N;5 mph;41 °F;100 %;29.44 in
+21.02.2021;Benevento;Roma;0;0;Serie A;Mist;N;5 mph;41 °F;100 %;29.44 in
+22.02.2021;Juventus;Crotone;3;0;Serie A;Fog;ENE;2 mph;41 °F;100 %;30.24 in
+12.02.2021;Bologna;Benevento;1;1;Serie A;Cloudy;E;17 mph;45 °F;66 %;29.98 in
+13.02.2021;Torino;Genoa;0;0;Serie A;Light Snow;NE;5 mph;30 °F;100 %;29.25 in
+13.02.2021;Napoli;Juventus;1;0;Serie A;Mostly Cloudy;N;6 mph;46 °F;81 %;29.71 in
+13.02.2021;Spezia;Milan;2;0;Serie A;Light Snow;SSW;8 mph;32 °F;75 %;29.29 in
+14.02.2021;Roma;Udinese;3;0;Serie A;Fair;NNE;10 mph;32 °F;51 %;29.72 in
+14.02.2021;Cagliari;Atalanta;0;1;Serie A;Fair;VAR;1 mph;30 °F;69 %;30.20 in
+14.02.2021;Sampdoria;Fiorentina;2;1;Serie A;Fair;NNE;7 mph;27 °F;51 %;30.56 in
+14.02.2021;Crotone;Sassuolo;1;2;Serie A;Partly Cloudy;VAR;2 mph;25 °F;80 %;29.60 in
+14.02.2021;Inter;Lazio;3;1;Serie A;Fair;VAR;1 mph;30 °F;69 %;30.20 in
+15.02.2021;Hellas Verona;Parma;2;1;Serie A;Fair;W;6 mph;34 °F;65 %;30.26 in
+05.02.2021;Fiorentina;Inter;0;2;Serie A;Mostly Cloudy;E;3 mph;54 °F;94 %;29.93 in
+06.02.2021;Sassuolo;Spezia;1;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+06.02.2021;Atalanta;Torino;3;3;Serie A;Light Snow;VAR;1 mph;46 °F;100 %;29.18 in
+06.02.2021;Juventus;Roma;2;0;Serie A;Mist;SW;2 mph;46 °F;100 %;29.80 in
+06.02.2021;Genoa;Napoli;2;1;Serie A;Mostly Cloudy;NE;14 mph;54 °F;77 %;29.96 in
+07.02.2021;Benevento;Sampdoria;1;1;Serie A;Mist;ESE;5 mph;46 °F;93 %;28.93 in
+07.02.2021;Milan;Crotone;4;0;Serie A;Mist;ESE;8 mph;48 °F;93 %;29.38 in
+07.02.2021;Udinese;Hellas Verona;2;0;Serie A;Cloudy;VAR;2 mph;50 °F;100 %;29.78 in
+07.02.2021;Parma;Bologna;0;3;Serie A;Mist;ESE;8 mph;46 °F;100 %;29.38 in
+07.02.2021;Lazio;Cagliari;1;0;Serie A;Fair / Windy;S;23 mph;68 °F;26 %;29.28 in
+29.01.2021;Torino;Fiorentina;1;1;Serie A;Fair;WNW;3 mph;34 °F;81 %;28.80 in
+30.01.2021;Bologna;Milan;1;2;Serie A;Fair;SW;6 mph;34 °F;87 %;29.48 in
+30.01.2021;Sampdoria;Juventus;0;2;Serie A;Fair;VAR;2 mph;34 °F;87 %;29.61 in
+30.01.2021;Inter;Benevento;4;0;Serie A;Fair;W;5 mph;39 °F;93 %;29.27 in
+31.01.2021;Spezia;Udinese;0;1;Serie A;Mostly Cloudy;SSW;5 mph;41 °F;87 %;28.49 in
+31.01.2021;Crotone;Genoa;0;3;Serie A;Mostly Cloudy;SSW;5 mph;41 °F;87 %;28.49 in
+31.01.2021;Atalanta;Lazio;1;3;Serie A;Light Rain;WNW;5 mph;39 °F;93 %;28.58 in
+31.01.2021;Cagliari;Sassuolo;1;1;Serie A;Rain;N;6 mph;41 °F;93 %;29.06 in
+31.01.2021;Napoli;Parma;2;0;Serie A;Fair;ESE;5 mph;52 °F;76 %;29.25 in
+31.01.2021;Roma;Hellas Verona;3;1;Serie A;Light Rain / Windy;S;22 mph;55 °F;72 %;28.99 in
+22.01.2021;Benevento;Torino;2;2;Serie A;Rain;VAR;3 mph;37 °F;100 %;28.95 in
+23.01.2021;Roma;Spezia;4;3;Serie A;T-Storm;S;15 mph;48 °F;87 %;29.11 in
+23.01.2021;Milan;Atalanta;0;3;Serie A;Light Drizzle;SW;6 mph;39 °F;100 %;28.92 in
+23.01.2021;Udinese;Inter;0;0;Serie A;Cloudy;SSE;15 mph;54 °F;82 %;29.40 in
+23.01.2021;Fiorentina;Crotone;2;1;Serie A;Mostly Cloudy;SSE;15 mph;55 °F;67 %;29.22 in
+24.01.2021;Juventus;Bologna;2;0;Serie A;Fog;VAR;2 mph;36 °F;100 %;29.24 in
+24.01.2021;Genoa;Cagliari;1;0;Serie A;Fair;NE;7 mph;46 °F;81 %;29.40 in
+24.01.2021;Hellas Verona;Napoli;3;1;Serie A;Fair;VAR;2 mph;36 °F;100 %;29.18 in
+24.01.2021;Lazio;Sassuolo;2;1;Serie A;Partly Cloudy;WSW;9 mph;52 °F;76 %;29.19 in
+24.01.2021;Parma;Sampdoria;0;2;Serie A;Fog;VAR;2 mph;36 °F;100 %;29.24 in
+15.01.2021;Lazio;Roma;3;0;Serie A;Fair;N;3 mph;41 °F;93 %;29.37 in
+16.01.2021;Bologna;Hellas Verona;1;0;Serie A;Mostly Cloudy;W;5 mph;36 °F;93 %;29.95 in
+16.01.2021;Torino;Spezia;0;0;Serie A;Fair;VAR;3 mph;30 °F;80 %;29.08 in
+16.01.2021;Sampdoria;Udinese;2;1;Serie A;Fair;N;3 mph;28 °F;74 %;30.14 in
+17.01.2021;Napoli;Fiorentina;6;0;Serie A;Fair;N;3 mph;36 °F;60 %;29.80 in
+17.01.2021;Crotone;Benevento;4;1;Serie A;Fair;VAR;1 mph;28 °F;93 %;29.06 in
+17.01.2021;Sassuolo;Parma;1;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+17.01.2021;Atalanta;Genoa;0;0;Serie A;Fair;N;6 mph;32 °F;75 %;29.18 in
+17.01.2021;Inter;Juventus;2;0;Serie A;Fair;N;1 mph;30 °F;100 %;29.67 in
+18.01.2021;Cagliari;Milan;0;2;Serie A;Fair;N;2 mph;28 °F;100 %;29.76 in
+09.01.2021;Benevento;Atalanta;1;4;Serie A;Fair;N;6 mph;30 °F;80 %;29.15 in
+09.01.2021;Genoa;Bologna;2;0;Serie A;Fair;NNE;15 mph;39 °F;65 %;29.96 in
+09.01.2021;Milan;Torino;2;0;Serie A;Shallow Fog;N;2 mph;30 °F;100 %;29.65 in
+10.01.2021;Roma;Inter;2;2;Serie A;Mostly Cloudy;NNE;12 mph;45 °F;81 %;29.37 in
+10.01.2021;Parma;Lazio;0;2;Serie A;Mist;WNW;2 mph;34 °F;93 %;29.88 in
+10.01.2021;Udinese;Napoli;1;2;Serie A;Cloudy;E;9 mph;41 °F;49 %;30.05 in
+10.01.2021;Hellas Verona;Crotone;2;1;Serie A;Cloudy;NNW;5 mph;32 °F;69 %;29.82 in
+10.01.2021;Fiorentina;Cagliari;1;0;Serie A;Mostly Cloudy;VAR;7 mph;43 °F;57 %;29.81 in
+10.01.2021;Juventus;Sassuolo;3;1;Serie A;Mist;WNW;2 mph;34 °F;93 %;29.88 in
+11.01.2021;Spezia;Sampdoria;2;1;Serie A;Fair;VAR;2 mph;25 °F;86 %;29.09 in
+06.01.2021;Cagliari;Benevento;1;2;Serie A;Light Rain;S;2 mph;37 °F;100 %;29.35 in
+06.01.2021;Atalanta;Parma;3;0;Serie A;Light Rain;W;3 mph;36 °F;100 %;28.90 in
+06.01.2021;Bologna;Udinese;2;2;Serie A;Mostly Cloudy;VAR;1 mph;39 °F;93 %;29.56 in
+06.01.2021;Crotone;Roma;1;3;Serie A;Light Rain;VAR;3 mph;37 °F;93 %;28.78 in
+06.01.2021;Lazio;Fiorentina;2;1;Serie A;Partly Cloudy;SSW;7 mph;45 °F;76 %;29.37 in
+06.01.2021;Sampdoria;Inter;2;1;Serie A;Partly Cloudy;NNE;10 mph;41 °F;93 %;29.73 in
+06.01.2021;Sassuolo;Genoa;2;1;Serie A;Partly Cloudy;SW;8 mph;46 °F;62 %;29.76 in
+06.01.2021;Torino;Hellas Verona;1;1;Serie A;Light Drizzle;S;6 mph;37 °F;93 %;28.74 in
+06.01.2021;Napoli;Spezia;1;2;Serie A;Rain;SW;13 mph;50 °F;82 %;29.54 in
+06.01.2021;Milan;Juventus;1;3;Serie A;Light Rain;S;2 mph;37 °F;100 %;29.35 in
+03.01.2021;Inter;Crotone;6;2;Serie A;Light Rain;VAR;2 mph;39 °F;100 %;29.30 in
+03.01.2021;Atalanta;Sassuolo;5;1;Serie A;Rain;N;5 mph;39 °F;100 %;28.84 in
+03.01.2021;Cagliari;Napoli;1;4;Serie A;Light Rain;VAR;2 mph;39 °F;100 %;29.30 in
+03.01.2021;Fiorentina;Bologna;0;0;Serie A;Fair;E;7 mph;46 °F;76 %;29.57 in
+03.01.2021;Genoa;Lazio;1;1;Serie A;Light Rain;NE;16 mph;41 °F;87 %;29.60 in
+03.01.2021;Parma;Torino;0;3;Serie A;Fog;E;8 mph;39 °F;100 %;29.56 in
+03.01.2021;Roma;Sampdoria;1;0;Serie A;Thunder in the Vicinity;SE;7 mph;46 °F;87 %;29.31 in
+03.01.2021;Spezia;Hellas Verona;0;1;Serie A;Fog;N;2 mph;36 °F;100 %;28.72 in
+03.01.2021;Benevento;Milan;0;2;Serie A;Rain;N;5 mph;39 °F;100 %;28.84 in
+03.01.2021;Juventus;Udinese;4;1;Serie A;Fog;E;8 mph;39 °F;100 %;29.56 in
+22.12.2020;Crotone;Parma;2;1;Serie A;Mostly Cloudy;VAR;1 mph;45 °F;100 %;29.32 in
+22.12.2020;Juventus;Fiorentina;0;3;Serie A;Mist;WSW;2 mph;46 °F;100 %;30.09 in
+23.12.2020;Hellas Verona;Inter;1;2;Serie A;Cloudy;NNW;2 mph;45 °F;93 %;30.03 in
+23.12.2020;Bologna;Atalanta;2;2;Serie A;Mostly Cloudy;SW;3 mph;46 °F;93 %;30.12 in
+23.12.2020;Milan;Lazio;3;2;Serie A;Mostly Cloudy;S;1 mph;48 °F;93 %;29.88 in
+23.12.2020;Napoli;Torino;1;1;Serie A;Partly Cloudy;W;2 mph;46 °F;93 %;30.00 in
+23.12.2020;Roma;Cagliari;3;2;Serie A;Fair;VAR;1 mph;48 °F;87 %;29.83 in
+23.12.2020;Sampdoria;Sassuolo;2;3;Serie A;Mist;CALM;0 mph;46 °F;93 %;30.29 in
+23.12.2020;Spezia;Genoa;1;2;Serie A;Mist;VAR;1 mph;37 °F;100 %;29.32 in
+23.12.2020;Udinese;Benevento;0;2;Serie A;Fog;SSE;1 mph;45 °F;100 %;30.23 in
+19.12.2020;Fiorentina;Hellas Verona;1;1;Serie A;Patches of Fog;E;1 mph;39 °F;100 %;30.16 in
+19.12.2020;Sampdoria;Crotone;3;1;Serie A;Fair;WNW;2 mph;43 °F;93 %;30.29 in
+19.12.2020;Parma;Juventus;0;4;Serie A;Mist;VAR;2 mph;43 °F;100 %;30.15 in
+20.12.2020;Torino;Bologna;1;1;Serie A;Mist;CALM;0 mph;45 °F;87 %;29.25 in
+20.12.2020;Benevento;Genoa;2;0;Serie A;Fog;ESE;2 mph;45 °F;100 %;29.41 in
+20.12.2020;Cagliari;Udinese;1;1;Serie A;Fog;SSW;2 mph;45 °F;100 %;29.91 in
+20.12.2020;Inter;Spezia;2;1;Serie A;Fog;SSW;2 mph;45 °F;100 %;29.91 in
+20.12.2020;Sassuolo;Milan;1;2;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+20.12.2020;Atalanta;Roma;4;1;Serie A;Fog;ESE;2 mph;45 °F;100 %;29.41 in
+20.12.2020;Lazio;Napoli;2;0;Serie A;Fair;NNE;5 mph;41 °F;87 %;29.78 in
+15.12.2020;Udinese;Crotone;0;0;Serie A;Fair;NE;5 mph;36 °F;87 %;30.05 in
+15.12.2020;Benevento;Lazio;1;1;Serie A;Fair;N;3 mph;37 °F;93 %;29.24 in
+16.12.2020;Juventus;Atalanta;1;1;Serie A;Mist;VAR;2 mph;41 °F;100 %;30.03 in
+16.12.2020;Fiorentina;Sassuolo;1;1;Serie A;Partly Cloudy;VAR;1 mph;37 °F;100 %;30.01 in
+16.12.2020;Genoa;Milan;2;2;Serie A;Partly Cloudy;NE;8 mph;52 °F;62 %;30.11 in
+16.12.2020;Inter;Napoli;1;0;Serie A;Mostly Cloudy;VAR;2 mph;43 °F;93 %;29.76 in
+16.12.2020;Parma;Cagliari;0;0;Serie A;Mist;VAR;2 mph;41 °F;100 %;30.03 in
+16.12.2020;Spezia;Bologna;2;2;Serie A;Cloudy;SSE;1 mph;43 °F;87 %;29.18 in
+16.12.2020;Hellas Verona;Sampdoria;1;2;Serie A;Fog;VAR;2 mph;37 °F;100 %;29.91 in
+17.12.2020;Roma;Torino;3;1;Serie A;Fair;VAR;2 mph;43 °F;87 %;29.78 in
+11.12.2020;Sassuolo;Benevento;1;0;Serie A;Mist;VAR;1 mph;46 °F;76 %;29.64 in
+12.12.2020;Crotone;Spezia;4;1;Serie A;Cloudy;VAR;1 mph;39 °F;93 %;28.63 in
+12.12.2020;Torino;Udinese;2;3;Serie A;Mostly Cloudy;VAR;1 mph;37 °F;93 %;28.60 in
+12.12.2020;Lazio;Hellas Verona;1;2;Serie A;Fair;E;3 mph;43 °F;93 %;29.11 in
+13.12.2020;Cagliari;Inter;1;3;Serie A;Fog;WSW;3 mph;37 °F;100 %;29.33 in
+13.12.2020;Atalanta;Fiorentina;3;0;Serie A;Fair;VAR;1 mph;36 °F;93 %;28.87 in
+13.12.2020;Bologna;Roma;1;5;Serie A;Light Rain;W;6 mph;43 °F;87 %;29.54 in
+13.12.2020;Napoli;Sampdoria;2;1;Serie A;Partly Cloudy;NNE;5 mph;48 °F;76 %;29.25 in
+13.12.2020;Genoa;Juventus;1;3;Serie A;Fair;ENE;18 mph;45 °F;76 %;29.66 in
+13.12.2020;Milan;Parma;2;2;Serie A;Fog;WSW;3 mph;37 °F;100 %;29.33 in
+05.12.2020;Spezia;Lazio;1;2;Serie A;Light Snow;VAR;1 mph;34 °F;93 %;28.43 in
+05.12.2020;Juventus;Torino;2;1;Serie A;Light Rain;WNW;6 mph;37 °F;100 %;29.33 in
+05.12.2020;Inter;Bologna;3;1;Serie A;Mostly Cloudy;WSW;6 mph;36 °F;93 %;29.03 in
+06.12.2020;Hellas Verona;Cagliari;1;1;Serie A;Rain;E;13 mph;52 °F;94 %;29.27 in
+06.12.2020;Parma;Benevento;0;0;Serie A;Light Rain;NNW;3 mph;37 °F;100 %;29.33 in
+06.12.2020;Roma;Sassuolo;0;0;Serie A;T-Storm;SW;16 mph;55 °F;88 %;29.14 in
+06.12.2020;Crotone;Napoli;0;4;Serie A;Wintry Mix;VAR;2 mph;36 °F;100 %;28.55 in
+06.12.2020;Sampdoria;Milan;1;2;Serie A;Light Rain;SE;20 mph;57 °F;88 %;29.55 in
+07.12.2020;Fiorentina;Genoa;1;1;Serie A;Light Rain;ESE;6 mph;46 °F;87 %;29.43 in
+20.01.2021;Udinese;Atalanta;1;1;Serie A;Cloudy;N;3 mph;36 °F;87 %;30.17 in
+28.11.2020;Sassuolo;Inter;0;3;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+28.11.2020;Benevento;Juventus;1;1;Serie A;Partly Cloudy;NNE;5 mph;37 °F;100 %;29.30 in
+28.11.2020;Atalanta;Hellas Verona;0;2;Serie A;Partly Cloudy;NNE;5 mph;37 °F;100 %;29.30 in
+29.11.2020;Lazio;Udinese;1;3;Serie A;Mostly Cloudy;E;13 mph;59 °F;59 %;29.34 in
+29.11.2020;Bologna;Crotone;1;0;Serie A;Mist;WSW;6 mph;45 °F;93 %;29.86 in
+29.11.2020;Milan;Fiorentina;2;0;Serie A;Mostly Cloudy;N;5 mph;46 °F;87 %;29.67 in
+29.11.2020;Cagliari;Spezia;2;2;Serie A;Mostly Cloudy;N;5 mph;46 °F;87 %;29.67 in
+29.11.2020;Napoli;Roma;4;0;Serie A;Partly Cloudy;NE;8 mph;54 °F;88 %;29.51 in
+30.11.2020;Torino;Sampdoria;2;2;Serie A;Fair;NNW;3 mph;37 °F;87 %;29.11 in
+30.11.2020;Genoa;Parma;1;2;Serie A;Fair;NNE;16 mph;50 °F;71 %;30.05 in
+21.11.2020;Crotone;Lazio;0;2;Serie A;Fair;VAR;6 mph;50 °F;24 %;29.38 in
+21.11.2020;Spezia;Atalanta;0;0;Serie A;Fair;VAR;6 mph;50 °F;24 %;29.38 in
+21.11.2020;Juventus;Cagliari;2;0;Serie A;Fair;VAR;2 mph;34 °F;100 %;30.29 in
+22.11.2020;Fiorentina;Benevento;0;1;Serie A;Fair;VAR;6 mph;46 °F;40 %;30.28 in
+22.11.2020;Inter;Torino;4;2;Serie A;Fair;NNW;2 mph;37 °F;81 %;30.14 in
+22.11.2020;Roma;Parma;3;0;Serie A;Fair;NE;13 mph;45 °F;43 %;29.75 in
+22.11.2020;Sampdoria;Bologna;1;2;Serie A;Fair;NE;8 mph;36 °F;56 %;30.50 in
+22.11.2020;Hellas Verona;Sassuolo;0;2;Serie A;Partly Cloudy;NNW;7 mph;32 °F;75 %;30.26 in
+22.11.2020;Udinese;Genoa;1;0;Serie A;Fair;VAR;5 mph;32 °F;64 %;30.46 in
+22.11.2020;Napoli;Milan;1;3;Serie A;Fair;NE;12 mph;48 °F;54 %;29.89 in
+06.11.2020;Sassuolo;Udinese;0;0;Serie A;Fair;VAR;3 mph;55 °F;72 %;30.37 in
+07.11.2020;Cagliari;Sampdoria;2;0;Serie A;Patches of Fog;NNW;1 mph;48 °F;100 %;30.05 in
+07.11.2020;Benevento;Spezia;0;3;Serie A;Mist;N;3 mph;48 °F;100 %;29.58 in
+07.11.2020;Parma;Fiorentina;0;0;Serie A;Fair;VAR;2 mph;48 °F;87 %;30.27 in
+08.11.2020;Lazio;Juventus;1;1;Serie A;Fair;CALM;0 mph;54 °F;88 %;29.89 in
+08.11.2020;Atalanta;Inter;1;1;Serie A;Fair;NNE;5 mph;48 °F;93 %;29.50 in
+08.11.2020;Genoa;Roma;1;3;Serie A;Fair;VAR;1 mph;57 °F;72 %;30.31 in
+08.11.2020;Torino;Crotone;0;0;Serie A;Fair;WNW;3 mph;48 °F;87 %;29.34 in
+08.11.2020;Bologna;Napoli;0;1;Serie A;Fair;SSW;6 mph;48 °F;87 %;30.18 in
+08.11.2020;Milan;Hellas Verona;2;2;Serie A;Patches of Fog;VAR;1 mph;45 °F;100 %;29.97 in
+31.10.2020;Crotone;Atalanta;1;2;Serie A;Fog;VAR;1 mph;43 °F;100 %;29.29 in
+31.10.2020;Inter;Parma;2;2;Serie A;Fog;VAR;1 mph;46 °F;100 %;29.85 in
+31.10.2020;Bologna;Cagliari;3;2;Serie A;Fair;SSW;3 mph;52 °F;94 %;30.06 in
+01.11.2020;Udinese;Milan;1;2;Serie A;Fog;VAR;1 mph;43 °F;100 %;30.14 in
+01.11.2020;Spezia;Juventus;1;4;Serie A;Mist;VAR;2 mph;45 °F;100 %;29.23 in
+01.11.2020;Torino;Lazio;3;4;Serie A;Fog;VAR;1 mph;43 °F;100 %;29.17 in
+01.11.2020;Napoli;Sassuolo;0;2;Serie A;Fair;VAR;2 mph;59 °F;88 %;29.89 in
+01.11.2020;Roma;Fiorentina;2;0;Serie A;Partly Cloudy;S;2 mph;59 °F;88 %;29.75 in
+01.11.2020;Sampdoria;Genoa;1;1;Serie A;Fog;WSW;6 mph;48 °F;100 %;30.17 in
+02.11.2020;Hellas Verona;Benevento;3;1;Serie A;Fog;W;3 mph;54 °F;100 %;29.94 in
+23.10.2020;Sassuolo;Torino;3;3;Serie A;Mist;VAR;1 mph;54 °F;94 %;30.05 in
+24.10.2020;Atalanta;Sampdoria;1;3;Serie A;Light Rain;VAR;1 mph;55 °F;100 %;29.21 in
+24.10.2020;Genoa;Inter;0;2;Serie A;Mostly Cloudy;NE;2 mph;64 °F;88 %;30.02 in
+24.10.2020;Lazio;Bologna;2;1;Serie A;Partly Cloudy;S;5 mph;64 °F;83 %;29.69 in
+25.10.2020;Cagliari;Crotone;4;2;Serie A;Fog;VAR;1 mph;50 °F;100 %;29.65 in
+25.10.2020;Benevento;Napoli;1;2;Serie A;Patches of Fog;NNE;2 mph;50 °F;100 %;29.15 in
+25.10.2020;Parma;Spezia;2;2;Serie A;Partly Cloudy;VAR;2 mph;48 °F;100 %;29.82 in
+25.10.2020;Fiorentina;Udinese;3;2;Serie A;Mostly Cloudy;NNW;2 mph;55 °F;100 %;29.90 in
+25.10.2020;Juventus;Hellas Verona;1;1;Serie A;Partly Cloudy;VAR;2 mph;48 °F;100 %;29.82 in
+26.10.2020;Milan;Roma;3;3;Serie A;Light Rain;NE;3 mph;57 °F;94 %;29.47 in
+17.10.2020;Napoli;Atalanta;4;1;Serie A;Fair;N;2 mph;48 °F;100 %;29.65 in
+17.10.2020;Inter;Milan;1;2;Serie A;Fair;VAR;1 mph;46 °F;100 %;29.56 in
+17.10.2020;Sampdoria;Lazio;3;0;Serie A;Fair;W;2 mph;54 °F;82 %;29.91 in
+17.10.2020;Crotone;Juventus;1;1;Serie A;Fair;VAR;2 mph;43 °F;93 %;28.98 in
+18.10.2020;Bologna;Sassuolo;3;4;Serie A;Fair;SSW;3 mph;50 °F;94 %;29.86 in
+18.10.2020;Spezia;Fiorentina;2;2;Serie A;Partly Cloudy;VAR;1 mph;45 °F;93 %;29.09 in
+18.10.2020;Torino;Cagliari;2;3;Serie A;Fair;VAR;1 mph;48 °F;87 %;29.02 in
+18.10.2020;Udinese;Parma;3;2;Serie A;Fair;NNE;5 mph;48 °F;93 %;30.02 in
+18.10.2020;Roma;Benevento;5;2;Serie A;Fair;VAR;2 mph;50 °F;94 %;29.57 in
+19.10.2020;Hellas Verona;Genoa;0;0;Serie A;Mist;N;5 mph;46 °F;100 %;29.94 in
+02.10.2020;Fiorentina;Sampdoria;1;2;Serie A;Mostly Cloudy;VAR;2 mph;61 °F;94 %;29.60 in
+03.10.2020;Sassuolo;Crotone;4;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+03.10.2020;Udinese;Roma;0;1;Serie A;Mostly Cloudy;NE;3 mph;63 °F;88 %;29.58 in
+04.10.2020;Atalanta;Cagliari;5;2;Serie A;Partly Cloudy;NNE;2 mph;52 °F;94 %;28.72 in
+04.10.2020;Benevento;Bologna;1;0;Serie A;Partly Cloudy;NNE;2 mph;52 °F;94 %;28.72 in
+04.10.2020;Lazio;Inter;1;1;Serie A;Partly Cloudy;S;5 mph;59 °F;94 %;29.31 in
+04.10.2020;Parma;Hellas Verona;1;0;Serie A;Fair;E;6 mph;57 °F;67 %;29.41 in
+04.10.2020;Milan;Spezia;3;0;Serie A;Partly Cloudy;ESE;7 mph;57 °F;72 %;29.15 in
+04.11.2020;Genoa;Torino;1;2;Serie A;Light Drizzle;E;3 mph;61 °F;94 %;30.14 in
+07.04.2021;Juventus;Napoli;2;1;Serie A;Partly Cloudy;WSW;7 mph;32 °F;100 %;29.71 in
+26.09.2020;Torino;Atalanta;2;4;Serie A;Fair;NE;8 mph;48 °F;87 %;28.45 in
+26.09.2020;Cagliari;Lazio;0;2;Serie A;Mostly Cloudy;W;9 mph;57 °F;59 %;29.03 in
+26.09.2020;Sampdoria;Benevento;2;3;Serie A;Partly Cloudy;WSW;6 mph;55 °F;77 %;29.26 in
+26.09.2020;Inter;Fiorentina;4;3;Serie A;Mostly Cloudy;W;9 mph;57 °F;59 %;29.03 in
+27.09.2020;Spezia;Sassuolo;1;4;Serie A;Fair;VAR;5 mph;48 °F;71 %;28.63 in
+27.09.2020;Hellas Verona;Udinese;1;0;Serie A;Fair;NW;3 mph;50 °F;82 %;29.30 in
+27.09.2020;Crotone;Milan;0;2;Serie A;Fair;VAR;5 mph;48 °F;71 %;28.63 in
+27.09.2020;Napoli;Genoa;6;0;Serie A;Light Rain;WSW;8 mph;59 °F;72 %;29.36 in
+27.09.2020;Roma;Juventus;2;2;Serie A;Light Rain;N;10 mph;55 °F;77 %;29.16 in
+28.09.2020;Bologna;Parma;4;1;Serie A;Light Rain;WSW;9 mph;52 °F;94 %;29.51 in
+19.09.2020;Fiorentina;Torino;1;0;Serie A;Fair;VAR;1 mph;72 °F;60 %;29.96 in
+19.09.2020;Hellas Verona;Roma;3;0;Serie A;Fair;E;1 mph;66 °F;78 %;29.91 in
+20.09.2020;Parma;Napoli;0;2;Serie A;Mist;S;2 mph;59 °F;88 %;29.82 in
+20.09.2020;Genoa;Crotone;4;1;Serie A;Fair;NNE;12 mph;73 °F;65 %;29.99 in
+20.09.2020;Sassuolo;Cagliari;1;1;Serie A;Fair;WSW;50 °F;8 mph;100 %;30.06 in
+20.09.2020;Juventus;Sampdoria;3;0;Serie A;Mist;S;2 mph;59 °F;88 %;29.82 in
+21.09.2020;Milan;Bologna;2;0;Serie A;Mostly Cloudy;VAR;2 mph;68 °F;83 %;29.62 in
+30.09.2020;Benevento;Inter;2;5;Serie A;Fair;N;6 mph;54 °F;88 %;29.18 in
+30.09.2020;Udinese;Spezia;0;2;Serie A;Fair;NNE;2 mph;50 °F;94 %;29.99 in
+30.09.2020;Lazio;Atalanta;1;4;Serie A;Fair;VAR;2 mph;59 °F;67 %;29.57 in

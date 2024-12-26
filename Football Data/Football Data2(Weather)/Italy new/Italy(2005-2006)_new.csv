@@ -1,0 +1,381 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+14.05.2006;Empoli;Ascoli;1;2;Serie A;Fair;CALM;0 mph;59 °F;63 %;29.89 in
+14.05.2006;Chievo;Fiorentina;0;2;Serie A;Mostly Cloudy;W;12 mph;64 °F;52 %;29.65 in
+14.05.2006;Cagliari;Inter;2;2;Serie A;Mostly Cloudy;W;12 mph;64 °F;52 %;29.65 in
+14.05.2006;Reggina;Juventus;0;2;Serie A;Fair;VAR;3 mph;59 °F;72 %;30.12 in
+14.05.2006;Sampdoria;Lecce;1;3;Serie A;Partly Cloudy;VAR;3 mph;64 °F;73 %;30.05 in
+14.05.2006;Siena;Livorno;0;0;Serie A;Mostly Cloudy;NNE;1 mph;61 °F;88 %;30.15 in
+14.05.2006;Palermo;Messina;1;0;Serie A;Mostly Cloudy;WSW;20 mph;63 °F;55 %;29.85 in
+14.05.2006;Lazio;Parma;1;0;Serie A;Fair;SE;2 mph;59 °F;88 %;29.66 in
+14.05.2006;Milan;Roma;2;1;Serie A;Mostly Cloudy;W;12 mph;64 °F;52 %;29.65 in
+14.05.2006;Treviso;Udinese;2;1;Serie A;Mostly Cloudy;WSW;20 mph;63 °F;55 %;29.85 in
+07.05.2006;Udinese;Cagliari;2;0;Serie A;Fair;E;7 mph;52 °F;58 %;30.02 in
+07.05.2006;Lecce;Chievo;0;0;Serie A;Fair;WSW;5 mph;55 °F;94 %;30.03 in
+07.05.2006;Messina;Empoli;1;2;Serie A;Fair;VAR;2 mph;55 °F;58 %;30.03 in
+07.05.2006;Ascoli;Lazio;1;4;Serie A;Fair;CALM;0 mph;52 °F;88 %;30.05 in
+07.05.2006;Parma;Milan;2;3;Serie A;Partly Cloudy;VAR;3 mph;55 °F;72 %;29.94 in
+07.05.2006;Juventus;Palermo;2;1;Serie A;Partly Cloudy;VAR;3 mph;55 °F;72 %;29.94 in
+07.05.2006;Fiorentina;Reggina;5;2;Serie A;Mostly Cloudy;E;6 mph;59 °F;63 %;29.96 in
+07.05.2006;Livorno;Sampdoria;0;0;Serie A;Fair;SE;1 mph;59 °F;82 %;30.09 in
+07.05.2006;Inter;Siena;1;1;Serie A;Partly Cloudy;VAR;2 mph;55 °F;77 %;29.74 in
+07.05.2006;Roma;Treviso;1;0;Serie A;Fair;NE;1 mph;55 °F;94 %;29.63 in
+30.04.2006;Treviso;Ascoli;2;2;Serie A;Mostly Cloudy;ENE;7 mph;57 °F;94 %;29.47 in
+30.04.2006;Palermo;Fiorentina;1;0;Serie A;Mostly Cloudy;ENE;7 mph;57 °F;94 %;29.47 in
+30.04.2006;Empoli;Inter;1;0;Serie A;Mostly Cloudy;CALM;0 mph;59 °F;82 %;29.45 in
+30.04.2006;Siena;Juventus;0;3;Serie A;Mostly Cloudy;ESE;1 mph;57 °F;94 %;29.64 in
+30.04.2006;Lazio;Lecce;1;0;Serie A;Mostly Cloudy;ESE;3 mph;57 °F;94 %;29.22 in
+30.04.2006;Milan;Livorno;2;0;Serie A;Mostly Cloudy;NE;12 mph;55 °F;88 %;29.30 in
+30.04.2006;Reggina;Messina;3;0;Serie A;Partly Cloudy;W;7 mph;57 °F;88 %;29.68 in
+30.04.2006;Cagliari;Parma;3;1;Serie A;Mostly Cloudy;NE;12 mph;55 °F;88 %;29.30 in
+30.04.2006;Chievo;Roma;4;4;Serie A;Mostly Cloudy;NE;12 mph;55 °F;88 %;29.30 in
+30.04.2006;Sampdoria;Udinese;1;1;Serie A;Mostly Cloudy;NNE;10 mph;55 °F;88 %;29.70 in
+22.04.2006;Ascoli;Cagliari;2;2;Serie A;Fair;S;6 mph;50 °F;87 %;29.99 in
+22.04.2006;Udinese;Chievo;1;1;Serie A;Fair;E;7 mph;54 °F;54 %;29.96 in
+22.04.2006;Fiorentina;Empoli;2;1;Serie A;Fair;E;5 mph;52 °F;82 %;29.93 in
+22.04.2006;Juventus;Lazio;1;1;Serie A;Fair;WSW;9 mph;50 °F;76 %;29.85 in
+22.04.2006;Messina;Milan;1;3;Serie A;Fair;N;12 mph;57 °F;94 %;29.94 in
+22.04.2006;Livorno;Palermo;3;1;Serie A;Fair;WNW;1 mph;55 °F;94 %;30.06 in
+22.04.2006;Inter;Reggina;4;0;Serie A;Fair;CALM;0 mph;57 °F;88 %;29.65 in
+22.04.2006;Roma;Sampdoria;0;0;Serie A;Fair;CALM;0 mph;57 °F;82 %;29.54 in
+22.04.2006;Parma;Siena;1;1;Serie A;Fair;WSW;9 mph;50 °F;76 %;29.85 in
+22.04.2006;Lecce;Treviso;1;1;Serie A;Fair;CALM;0 mph;55 °F;82 %;29.94 in
+14.04.2006;Milan;Inter;1;0;Serie A;Fair;WSW;5 mph;54 °F;47 %;29.50 in
+15.04.2006;Reggina;Ascoli;2;0;Serie A;Fair;VAR;3 mph;52 °F;88 %;30.09 in
+15.04.2006;Treviso;Fiorentina;1;3;Serie A;Fair;W;16 mph;59 °F;29 %;29.80 in
+15.04.2006;Cagliari;Juventus;1;1;Serie A;Fair;WNW;7 mph;57 °F;67 %;29.62 in
+15.04.2006;Lazio;Livorno;3;1;Serie A;Fair;SE;2 mph;50 °F;66 %;29.69 in
+15.04.2006;Chievo;Messina;2;0;Serie A;Fair;WNW;7 mph;57 °F;67 %;29.62 in
+15.04.2006;Sampdoria;Parma;1;2;Serie A;Fair;VAR;3 mph;54 °F;77 %;30.02 in
+15.04.2006;Palermo;Roma;3;3;Serie A;Fair;W;16 mph;59 °F;29 %;29.80 in
+15.04.2006;Empoli;Siena;2;1;Serie A;Fair;VAR;1 mph;54 °F;77 %;29.89 in
+15.04.2006;Lecce;Udinese;1;2;Serie A;Fair;CALM;0 mph;48 °F;87 %;30.06 in
+08.04.2006;Livorno;Udinese;0;2;Serie A;Fair;CALM;0 mph;43 °F;87 %;29.97 in
+08.04.2006;Ascoli;Inter;1;2;Serie A;Fair;VAR;3 mph;39 °F;87 %;29.96 in
+09.04.2006;Milan;Chievo;4;1;Serie A;Partly Cloudy;VAR;2 mph;52 °F;76 %;29.59 in
+09.04.2006;Siena;Lazio;2;3;Serie A;Fair;CALM;0 mph;45 °F;93 %;30.06 in
+09.04.2006;Roma;Lecce;3;1;Serie A;Fair;SSE;3 mph;52 °F;82 %;29.57 in
+09.04.2006;Cagliari;Palermo;1;1;Serie A;Partly Cloudy;VAR;2 mph;52 °F;76 %;29.59 in
+09.04.2006;Parma;Reggina;4;0;Serie A;Fair;CALM;0 mph;48 °F;76 %;29.82 in
+09.04.2006;Empoli;Sampdoria;2;1;Serie A;Fair;VAR;1 mph;54 °F;82 %;29.81 in
+09.04.2006;Messina;Treviso;3;1;Serie A;Fair;N;12 mph;55 °F;82 %;30.00 in
+09.04.2006;Juventus;Fiorentina;1;1;Serie A;Fair;CALM;0 mph;48 °F;76 %;29.82 in
+01.04.2006;Treviso;Juventus;0;0;Serie A;Fair;VAR;3 mph;50 °F;87 %;29.85 in
+01.04.2006;Lecce;Milan;1;0;Serie A;Fair;SSW;12 mph;57 °F;88 %;30.00 in
+01.04.2006;Inter;Messina;3;0;Serie A;Fair;W;6 mph;55 °F;100 %;29.62 in
+02.04.2006;Palermo;Ascoli;1;1;Serie A;Mostly Cloudy;W;5 mph;54 °F;88 %;29.82 in
+02.04.2006;Sampdoria;Cagliari;1;1;Serie A;Mostly Cloudy;CALM;0 mph;52 °F;82 %;30.00 in
+02.04.2006;Lazio;Empoli;3;3;Serie A;Partly Cloudy;ENE;1 mph;55 °F;77 %;29.54 in
+02.04.2006;Chievo;Livorno;2;1;Serie A;Fair;VAR;3 mph;54 °F;94 %;29.62 in
+02.04.2006;Udinese;Parma;2;0;Serie A;Mostly Cloudy;VAR;3 mph;52 °F;88 %;29.96 in
+02.04.2006;Fiorentina;Roma;1;1;Serie A;Partly Cloudy;VAR;2 mph;59 °F;77 %;29.87 in
+02.04.2006;Reggina;Siena;1;1;Serie A;Fair;WSW;8 mph;57 °F;63 %;29.97 in
+25.03.2006;Parma;Inter;1;0;Serie A;Fair;VAR;3 mph;39 °F;100 %;29.77 in
+25.03.2006;Milan;Fiorentina;3;1;Serie A;Cloudy;VAR;1 mph;50 °F;94 %;29.53 in
+25.03.2006;Juventus;Roma;1;1;Serie A;Fair;VAR;3 mph;39 °F;100 %;29.77 in
+26.03.2006;Ascoli;Chievo;2;2;Serie A;Partly Cloudy;VAR;1 mph;46 °F;87 %;30.08 in
+26.03.2006;Siena;Lecce;1;2;Serie A;Mostly Cloudy;CALM;0 mph;43 °F;100 %;30.12 in
+26.03.2006;Empoli;Livorno;2;1;Serie A;Partly Cloudy;CALM;0 mph;54 °F;82 %;29.83 in
+26.03.2006;Cagliari;Reggina;0;2;Serie A;Fair;CALM;0 mph;48 °F;93 %;29.71 in
+26.03.2006;Lazio;Sampdoria;2;0;Serie A;Partly Cloudy;CALM;0 mph;48 °F;87 %;29.63 in
+26.03.2006;Palermo;Treviso;1;0;Serie A;Partly Cloudy;SW;8 mph;46 °F;87 %;29.94 in
+26.03.2006;Messina;Udinese;1;1;Serie A;Mostly Cloudy;NNE;6 mph;57 °F;94 %;29.97 in
+18.03.2006;Treviso;Cagliari;1;2;Serie A;Fair;ESE;6 mph;39 °F;81 %;29.85 in
+18.03.2006;Livorno;Juventus;1;3;Serie A;Fair;E;5 mph;39 °F;87 %;30.00 in
+19.03.2006;Fiorentina;Ascoli;3;1;Serie A;Partly Cloudy;SSW;5 mph;46 °F;62 %;29.78 in
+19.03.2006;Reggina;Empoli;0;2;Serie A;Partly Cloudy;ESE;10 mph;55 °F;82 %;29.85 in
+19.03.2006;Inter;Lazio;3;1;Serie A;Mostly Cloudy;VAR;3 mph;45 °F;76 %;29.59 in
+19.03.2006;Udinese;Milan;0;4;Serie A;Fair;VAR;1 mph;37 °F;52 %;30.02 in
+19.03.2006;Sampdoria;Palermo;0;2;Serie A;Fair;VAR;1 mph;39 °F;70 %;30.02 in
+19.03.2006;Lecce;Parma;1;2;Serie A;Fair;W;6 mph;43 °F;87 %;29.94 in
+19.03.2006;Chievo;Siena;4;1;Serie A;Mostly Cloudy;VAR;3 mph;45 °F;76 %;29.59 in
+19.03.2006;Roma;Messina;2;1;Serie A;Mostly Cloudy;NE;5 mph;48 °F;87 %;29.43 in
+11.03.2006;Siena;Treviso;1;0;Serie A;Fair;W;15 mph;54 °F;62 %;29.59 in
+11.03.2006;Inter;Sampdoria;1;0;Serie A;Fair;NNE;10 mph;45 °F;100 %;29.18 in
+12.03.2006;Empoli;Chievo;2;1;Serie A;Mostly Cloudy;VAR;3 mph;45 °F;61 %;29.19 in
+12.03.2006;Messina;Lecce;2;1;Serie A;N/A;NNW;13 mph;46 °F;87 %;29.32 in
+12.03.2006;Parma;Livorno;2;1;Serie A;Partly Cloudy;W;12 mph;41 °F;49 %;29.47 in
+12.03.2006;Lazio;Reggina;3;1;Serie A;Fair;NNW;17 mph;45 °F;61 %;29.05 in
+12.03.2006;Ascoli;Roma;3;2;Serie A;Partly Cloudy;NW;13 mph;46 °F;62 %;29.55 in
+12.03.2006;Palermo;Udinese;2;0;Serie A;Partly Cloudy;W;12 mph;41 °F;49 %;29.47 in
+12.03.2006;Juventus;Milan;0;0;Serie A;Partly Cloudy;W;12 mph;41 °F;49 %;29.47 in
+22.03.2006;Cagliari;Fiorentina;0;0;Serie A;Cloudy;VAR;1 mph;46 °F;100 %;29.42 in
+04.03.2006;Milan;Empoli;3;0;Serie A;Cloudy;CALM;0 mph;45 °F;71 %;29.27 in
+04.03.2006;Sampdoria;Juventus;0;1;Serie A;Mostly Cloudy;VAR;1 mph;43 °F;70 %;29.70 in
+05.03.2006;Udinese;Ascoli;1;1;Serie A;Mostly Cloudy;S;10 mph;52 °F;62 %;29.37 in
+05.03.2006;Livorno;Cagliari;0;1;Serie A;Mostly Cloudy;WSW;8 mph;54 °F;77 %;29.53 in
+05.03.2006;Chievo;Lazio;2;2;Serie A;Cloudy;VAR;2 mph;50 °F;94 %;28.95 in
+05.03.2006;Lecce;Palermo;2;0;Serie A;Partly Cloudy;S;13 mph;55 °F;82 %;29.79 in
+05.03.2006;Messina;Parma;0;1;Serie A;Fair;VAR;2 mph;50 °F;94 %;29.82 in
+05.03.2006;Treviso;Reggina;0;1;Serie A;Mostly Cloudy;WSW;10 mph;55 °F;67 %;29.06 in
+05.03.2006;Fiorentina;Siena;2;1;Serie A;Partly Cloudy;SSE;6 mph;55 °F;67 %;29.40 in
+05.03.2006;Roma;Inter;1;1;Serie A;Partly Cloudy;SE;10 mph;52 °F;88 %;29.25 in
+25.02.2006;Reggina;Livorno;1;1;Serie A;Partly Cloudy;WSW;12 mph;48 °F;82 %;29.65 in
+25.02.2006;Parma;Fiorentina;2;4;Serie A;Cloudy;VAR;3 mph;39 °F;93 %;29.56 in
+26.02.2006;Cagliari;Chievo;2;2;Serie A;Mostly Cloudy;VAR;3 mph;43 °F;87 %;29.42 in
+26.02.2006;Juventus;Lecce;3;1;Serie A;Mostly Cloudy;SW;6 mph;36 °F;93 %;29.62 in
+26.02.2006;Ascoli;Messina;1;0;Serie A;Partly Cloudy;VAR;2 mph;46 °F;81 %;29.76 in
+26.02.2006;Palermo;Milan;0;2;Serie A;Mostly Cloudy;SW;6 mph;36 °F;93 %;29.62 in
+26.02.2006;Siena;Sampdoria;1;0;Serie A;Partly Cloudy;E;3 mph;41 °F;81 %;29.79 in
+26.02.2006;Empoli;Treviso;1;1;Serie A;Mostly Cloudy;VAR;1 mph;48 °F;76 %;29.51 in
+26.02.2006;Inter;Udinese;3;1;Serie A;Mostly Cloudy;VAR;3 mph;43 °F;87 %;29.42 in
+26.02.2006;Lazio;Roma;0;2;Serie A;Fair;CALM;0 mph;43 °F;87 %;29.28 in
+18.02.2006;Livorno;Inter;0;0;Serie A;Partly Cloudy;WSW;18 mph;52 °F;71 %;29.82 in
+18.02.2006;Messina;Juventus;2;2;Serie A;Partly Cloudy;NNE;12 mph;57 °F;82 %;29.88 in
+18.02.2006;Milan;Cagliari;1;0;Serie A;Mostly Cloudy;VAR;2 mph;34 °F;87 %;29.30 in
+19.02.2006;Sampdoria;Ascoli;1;2;Serie A;Fair;SSW;6 mph;39 °F;81 %;29.79 in
+19.02.2006;Roma;Empoli;1;0;Serie A;Mostly Cloudy;SE;8 mph;50 °F;87 %;29.46 in
+19.02.2006;Fiorentina;Lazio;1;2;Serie A;Fair;S;6 mph;52 °F;76 %;29.72 in
+19.02.2006;Chievo;Palermo;0;0;Serie A;Fair;VAR;1 mph;41 °F;93 %;29.42 in
+19.02.2006;Treviso;Parma;0;1;Serie A;Mostly Cloudy;VAR;3 mph;36 °F;100 %;29.68 in
+19.02.2006;Lecce;Reggina;0;0;Serie A;Partly Cloudy;SSE;8 mph;55 °F;94 %;29.94 in
+19.02.2006;Udinese;Siena;1;2;Serie A;Mostly Cloudy;VAR;2 mph;45 °F;87 %;29.72 in
+11.02.2006;Treviso;Chievo;1;2;Serie A;Fair;VAR;3 mph;28 °F;64 %;29.88 in
+11.02.2006;Lazio;Udinese;1;1;Serie A;Fair;N;2 mph;39 °F;87 %;29.43 in
+12.02.2006;Parma;Ascoli;0;0;Serie A;Fair;SSW;6 mph;25 °F;74 %;30.06 in
+12.02.2006;Livorno;Fiorentina;2;0;Serie A;Fair;SE;8 mph;34 °F;41 %;30.21 in
+12.02.2006;Cagliari;Lecce;0;0;Serie A;Fair;VAR;2 mph;36 °F;81 %;29.82 in
+12.02.2006;Sampdoria;Messina;4;2;Serie A;Fair;VAR;1 mph;32 °F;60 %;30.26 in
+12.02.2006;Reggina;Milan;1;4;Serie A;Mostly Cloudy;ENE;12 mph;50 °F;82 %;29.97 in
+12.02.2006;Empoli;Palermo;0;1;Serie A;Fair;NNE;10 mph;43 °F;49 %;29.89 in
+12.02.2006;Siena;Roma;0;2;Serie A;Fair;SE;8 mph;34 °F;41 %;30.21 in
+12.02.2006;Inter;Juventus;1;2;Serie A;Fair;VAR;2 mph;36 °F;81 %;29.82 in
+08.02.2006;Roma;Cagliari;4;3;Serie A;Fair;ENE;2 mph;37 °F;60 %;29.57 in
+08.02.2006;Lecce;Empoli;1;2;Serie A;Fair;NW;10 mph;43 °F;46 %;29.88 in
+08.02.2006;Fiorentina;Inter;2;1;Serie A;Mostly Cloudy;W;1 mph;36 °F;81 %;29.90 in
+08.02.2006;Palermo;Lazio;3;1;Serie A;Fair;CALM;0 mph;28 °F;86 %;29.74 in
+08.02.2006;Ascoli;Livorno;0;0;Serie A;Fair;S;5 mph;28 °F;80 %;30.02 in
+08.02.2006;Juventus;Parma;1;1;Serie A;Fair;CALM;0 mph;28 °F;86 %;29.74 in
+08.02.2006;Udinese;Reggina;1;2;Serie A;Fair;CALM;0 mph;23 °F;80 %;30.02 in
+08.02.2006;Chievo;Sampdoria;1;1;Serie A;Mostly Cloudy;VAR;1 mph;36 °F;93 %;29.62 in
+08.02.2006;Messina;Siena;0;0;Serie A;Partly Cloudy / Windy;N;23 mph;45 °F;37 %;29.94 in
+08.02.2006;Milan;Treviso;5;0;Serie A;Mostly Cloudy;VAR;1 mph;36 °F;93 %;29.62 in
+04.02.2006;Siena;Ascoli;1;1;Serie A;Mostly Cloudy;CALM;0 mph;45 °F;87 %;29.91 in
+04.02.2006;Parma;Roma;0;3;Serie A;Fair;VAR;3 mph;30 °F;100 %;29.77 in
+05.02.2006;Inter;Chievo;1;0;Serie A;Fair;VAR;1 mph;34 °F;93 %;29.65 in
+05.02.2006;Cagliari;Empoli;4;1;Serie A;Fair;VAR;1 mph;34 °F;93 %;29.65 in
+05.02.2006;Fiorentina;Lecce;1;0;Serie A;Fair;VAR;3 mph;45 °F;66 %;29.84 in
+05.02.2006;Livorno;Messina;2;2;Serie A;Fair;ESE;6 mph;37 °F;81 %;29.94 in
+05.02.2006;Reggina;Palermo;2;2;Serie A;Mostly Cloudy;VAR;1 mph;52 °F;94 %;29.79 in
+05.02.2006;Sampdoria;Treviso;1;1;Serie A;Fair;NNE;16 mph;34 °F;52 %;30.11 in
+05.02.2006;Juventus;Udinese;1;0;Serie A;Fair;VAR;3 mph;32 °F;93 %;29.88 in
+05.02.2006;Lazio;Milan;0;0;Serie A;Cloudy;NE;2 mph;46 °F;87 %;29.43 in
+28.01.2006;Palermo;Siena;1;3;Serie A;Cloudy;WNW;5 mph;32 °F;93 %;30.03 in
+28.01.2006;Milan;Sampdoria;1;1;Serie A;Cloudy;CALM;0 mph;36 °F;93 %;29.79 in
+29.01.2006;Messina;Cagliari;1;0;Serie A;Partly Cloudy;S;14 mph;55 °F;77 %;30.15 in
+29.01.2006;Udinese;Fiorentina;0;0;Serie A;Cloudy;NNE;6 mph;41 °F;81 %;30.28 in
+29.01.2006;Ascoli;Juventus;1;3;Serie A;Fair;S;7 mph;39 °F;87 %;30.23 in
+29.01.2006;Treviso;Lazio;0;1;Serie A;Cloudy;WSW;3 mph;34 °F;100 %;30.15 in
+29.01.2006;Roma;Livorno;3;0;Serie A;Partly Cloudy;NE;1 mph;54 °F;67 %;29.69 in
+29.01.2006;Empoli;Parma;1;2;Serie A;Mostly Cloudy;VAR;1 mph;54 °F;62 %;29.95 in
+29.01.2006;Chievo;Reggina;4;0;Serie A;Cloudy;VAR;1 mph;37 °F;93 %;29.91 in
+29.01.2006;Lecce;Inter;0;2;Serie A;Mostly Cloudy;SE;8 mph;50 °F;100 %;30.29 in
+21.01.2006;Lazio;Cagliari;1;1;Serie A;Fair;E;1 mph;37 °F;81 %;29.78 in
+21.01.2006;Inter;Palermo;3;0;Serie A;Cloudy;VAR;1 mph;30 °F;93 %;29.79 in
+22.01.2006;Parma;Chievo;2;1;Serie A;Cloudy;CALM;0 mph;28 °F;100 %;30.03 in
+22.01.2006;Juventus;Empoli;2;1;Serie A;Cloudy;CALM;0 mph;28 °F;100 %;30.03 in
+22.01.2006;Ascoli;Lecce;2;0;Serie A;Fair;SW;5 mph;30 °F;86 %;30.02 in
+22.01.2006;Siena;Milan;0;3;Serie A;Partly Cloudy;SE;2 mph;43 °F;87 %;30.06 in
+22.01.2006;Udinese;Roma;1;4;Serie A;Mostly Cloudy;VAR;1 mph;34 °F;87 %;30.11 in
+22.01.2006;Reggina;Sampdoria;2;1;Serie A;Mostly Cloudy;VAR;3 mph;52 °F;76 %;29.91 in
+22.01.2006;Livorno;Treviso;1;1;Serie A;Partly Cloudy;SE;2 mph;43 °F;87 %;30.06 in
+22.01.2006;Fiorentina;Messina;2;0;Serie A;Partly Cloudy;VAR;1 mph;39 °F;100 %;29.93 in
+18.01.2006;Milan;Ascoli;1;0;Serie A;Cloudy;VAR;2 mph;34 °F;93 %;29.59 in
+18.01.2006;Sampdoria;Fiorentina;3;1;Serie A;Cloudy;VAR;2 mph;30 °F;80 %;30.00 in
+18.01.2006;Treviso;Inter;0;1;Serie A;Mostly Cloudy;CALM;0 mph;0 °F;100 %;29.85 in
+18.01.2006;Chievo;Juventus;1;1;Serie A;Cloudy;VAR;2 mph;34 °F;93 %;29.59 in
+18.01.2006;Messina;Lazio;1;1;Serie A;Mostly Cloudy;VAR;2 mph;50 °F;94 %;30.09 in
+18.01.2006;Lecce;Livorno;0;0;Serie A;Fair;SSE;8 mph;41 °F;93 %;30.11 in
+18.01.2006;Palermo;Parma;4;2;Serie A;Mostly Cloudy;CALM;0 mph;0 °F;100 %;29.85 in
+18.01.2006;Roma;Reggina;3;1;Serie A;Partly Cloudy;SE;13 mph;48 °F;82 %;29.60 in
+18.01.2006;Cagliari;Siena;1;0;Serie A;Cloudy;VAR;2 mph;34 °F;93 %;29.59 in
+18.01.2006;Empoli;Udinese;1;1;Serie A;Partly Cloudy;S;5 mph;52 °F;71 %;29.89 in
+14.01.2006;Lecce;Sampdoria;0;3;Serie A;Fair;NNE;7 mph;41 °F;61 %;30.32 in
+14.01.2006;Messina;Palermo;0;0;Serie A;N/A;VAR;2 mph;46 °F;81 %;30.23 in
+15.01.2006;Ascoli;Empoli;3;1;Serie A;Mostly Cloudy;VAR;1 mph;39 °F;75 %;30.32 in
+15.01.2006;Fiorentina;Chievo;2;1;Serie A;Fair;VAR;2 mph;32 °F;69 %;30.22 in
+15.01.2006;Inter;Cagliari;3;2;Serie A;Fair;VAR;1 mph;30 °F;93 %;29.97 in
+15.01.2006;Juventus;Reggina;1;0;Serie A;Fair;CALM;0 mph;21 °F;93 %;30.27 in
+15.01.2006;Livorno;Siena;2;2;Serie A;Fair;ESE;6 mph;27 °F;80 %;30.32 in
+15.01.2006;Parma;Lazio;1;1;Serie A;Fair;CALM;0 mph;21 °F;93 %;30.27 in
+15.01.2006;Udinese;Treviso;2;2;Serie A;N/A;VAR;2 mph;28 °F;51 %;30.43 in
+15.01.2006;Roma;Milan;1;0;Serie A;Mostly Cloudy;N;1 mph;37 °F;87 %;29.80 in
+07.01.2006;Reggina;Fiorentina;1;1;Serie A;Partly Cloudy;SW;5 mph;41 °F;87 %;30.06 in
+07.01.2006;Palermo;Juventus;1;2;Serie A;Mostly Cloudy;W;3 mph;34 °F;87 %;30.09 in
+08.01.2006;Cagliari;Udinese;2;1;Serie A;Mostly Cloudy;CALM;0 mph;39 °F;93 %;29.91 in
+08.01.2006;Chievo;Lecce;3;1;Serie A;Mostly Cloudy;CALM;0 mph;39 °F;93 %;29.91 in
+08.01.2006;Empoli;Messina;1;3;Serie A;Fair;VAR;3 mph;39 °F;70 %;29.98 in
+08.01.2006;Lazio;Ascoli;4;1;Serie A;Fair;N;2 mph;37 °F;93 %;29.75 in
+08.01.2006;Sampdoria;Livorno;0;2;Serie A;Fair;NNE;12 mph;41 °F;61 %;30.35 in
+08.01.2006;Siena;Inter;0;0;Serie A;Fair;E;10 mph;37 °F;65 %;30.29 in
+08.01.2006;Treviso;Roma;0;1;Serie A;Mostly Cloudy;W;3 mph;32 °F;93 %;30.21 in
+08.01.2006;Milan;Parma;4;3;Serie A;Mostly Cloudy;CALM;0 mph;39 °F;93 %;29.91 in
+21.12.2005;Ascoli;Treviso;1;0;Serie A;Fair;SW;5 mph;30 °F;75 %;30.32 in
+21.12.2005;Fiorentina;Palermo;1;0;Serie A;Partly Cloudy;CALM;0 mph;32 °F;87 %;30.22 in
+21.12.2005;Inter;Empoli;4;1;Serie A;Fair;WSW;7 mph;32 °F;93 %;29.91 in
+21.12.2005;Juventus;Siena;2;0;Serie A;Fair;CALM;0 mph;28 °F;93 %;30.15 in
+21.12.2005;Lecce;Lazio;0;0;Serie A;Fair;SSW;6 mph;37 °F;65 %;30.29 in
+21.12.2005;Livorno;Milan;0;3;Serie A;Fair;ESE;2 mph;0 °F;87 %;30.35 in
+21.12.2005;Messina;Reggina;1;1;Serie A;Fair;VAR;2 mph;43 °F;81 %;30.26 in
+21.12.2005;Parma;Cagliari;1;0;Serie A;Fair;CALM;0 mph;28 °F;93 %;30.15 in
+21.12.2005;Roma;Chievo;4;0;Serie A;Mostly Cloudy;N;2 mph;37 °F;93 %;29.86 in
+21.12.2005;Udinese;Sampdoria;2;0;Serie A;Partly Cloudy;CALM;0 mph;30 °F;80 %;30.28 in
+17.12.2005;Treviso;Lecce;2;1;Serie A;Fair / Windy;WSW;28 mph;50 °F;71 %;29.24 in
+17.12.2005;Lazio;Juventus;1;1;Serie A;Mostly Cloudy;S;6 mph;48 °F;100 %;29.19 in
+18.12.2005;Cagliari;Ascoli;2;1;Serie A;Fair;NNW;6 mph;37 °F;48 %;29.42 in
+18.12.2005;Chievo;Udinese;2;0;Serie A;Fair;NNW;6 mph;37 °F;48 %;29.42 in
+18.12.2005;Empoli;Fiorentina;1;1;Serie A;Mostly Cloudy;NNE;9 mph;45 °F;57 %;29.28 in
+18.12.2005;Milan;Messina;4;0;Serie A;Fair;NNW;6 mph;37 °F;48 %;29.42 in
+18.12.2005;Palermo;Livorno;0;2;Serie A;Fair;WNW;6 mph;28 °F;74 %;29.77 in
+18.12.2005;Reggina;Inter;0;4;Serie A;Mostly Cloudy / Windy;W;21 mph;59 °F;51 %;29.53 in
+18.12.2005;Siena;Parma;2;2;Serie A;Fair;S;1 mph;34 °F;81 %;29.73 in
+18.12.2005;Sampdoria;Roma;1;1;Serie A;Fair;W;8 mph;36 °F;30 %;29.76 in
+10.12.2005;Siena;Empoli;1;0;Serie A;Fair / Windy;ENE;22 mph;48 °F;37 %;30.29 in
+10.12.2005;Fiorentina;Treviso;1;0;Serie A;Partly Cloudy;NNE;14 mph;48 °F;57 %;30.19 in
+11.12.2005;Ascoli;Reggina;1;1;Serie A;Mostly Cloudy;WNW;8 mph;45 °F;57 %;30.29 in
+11.12.2005;Juventus;Cagliari;4;0;Serie A;Fair;WSW;5 mph;28 °F;86 %;30.35 in
+11.12.2005;Livorno;Lazio;2;1;Serie A;Fair;ENE;9 mph;43 °F;39 %;30.41 in
+11.12.2005;Messina;Chievo;2;0;Serie A;N/A;VAR;3 mph;52 °F;88 %;29.91 in
+11.12.2005;Parma;Sampdoria;1;1;Serie A;Fair;WSW;5 mph;28 °F;86 %;30.35 in
+11.12.2005;Roma;Palermo;1;2;Serie A;Partly Cloudy;N;8 mph;43 °F;66 %;29.72 in
+11.12.2005;Udinese;Lecce;1;2;Serie A;Fair;SE;8 mph;34 °F;44 %;30.52 in
+11.12.2005;Inter;Milan;3;2;Serie A;Fair;CALM;0 mph;32 °F;93 %;30.17 in
+03.12.2005;Chievo;Milan;2;1;Serie A;Cloudy;NNW;6 mph;36 °F;87 %;29.39 in
+03.12.2005;Inter;Ascoli;1;0;Serie A;Cloudy;NNW;6 mph;36 °F;87 %;29.39 in
+04.12.2005;Fiorentina;Juventus;1;2;Serie A;Fair;VAR;3 mph;50 °F;82 %;29.69 in
+04.12.2005;Lazio;Siena;3;2;Serie A;Partly Cloudy;SSW;2 mph;52 °F;94 %;29.40 in
+04.12.2005;Palermo;Cagliari;2;2;Serie A;Fair;VAR;3 mph;30 °F;100 %;29.68 in
+04.12.2005;Reggina;Parma;2;1;Serie A;Fair;WSW;13 mph;54 °F;82 %;30.00 in
+04.12.2005;Sampdoria;Empoli;2;0;Serie A;Mostly Cloudy;W;6 mph;41 °F;81 %;29.79 in
+04.12.2005;Treviso;Messina;0;0;Serie A;Fair;VAR;3 mph;30 °F;100 %;29.68 in
+04.12.2005;Udinese;Livorno;0;2;Serie A;Fair;VAR;2 mph;45 °F;87 %;29.72 in
+04.12.2005;Lecce;Roma;2;2;Serie A;Partly Cloudy;SSE;14 mph;59 °F;77 %;29.79 in
+26.11.2005;Livorno;Chievo;0;0;Serie A;Mostly Cloudy;W;10 mph;50 °F;82 %;29.47 in
+26.11.2005;Milan;Lecce;2;1;Serie A;Cloudy;VAR;1 mph;37 °F;75 %;29.10 in
+27.11.2005;Ascoli;Palermo;1;1;Serie A;Partly Cloudy;SSE;7 mph;57 °F;38 %;29.37 in
+27.11.2005;Cagliari;Sampdoria;2;0;Serie A;Cloudy;VAR;3 mph;36 °F;70 %;29.04 in
+27.11.2005;Empoli;Lazio;2;3;Serie A;Partly Cloudy;SW;8 mph;61 °F;59 %;29.31 in
+27.11.2005;Juventus;Treviso;3;1;Serie A;Cloudy;SSW;5 mph;32 °F;100 %;29.30 in
+27.11.2005;Messina;Inter;1;2;Serie A;Partly Cloudy;S;20 mph;61 °F;68 %;29.59 in
+27.11.2005;Parma;Udinese;1;2;Serie A;Cloudy;SSW;5 mph;32 °F;100 %;29.30 in
+27.11.2005;Siena;Reggina;0;0;Serie A;Mostly Cloudy;S;3 mph;45 °F;93 %;29.38 in
+27.11.2005;Roma;Fiorentina;1;1;Serie A;Mostly Cloudy;S;17 mph;54 °F;94 %;28.96 in
+19.11.2005;Udinese;Messina;1;0;Serie A;Fair;VAR;3 mph;32 °F;80 %;30.05 in
+19.11.2005;Roma;Juventus;1;4;Serie A;Partly Cloudy;N;10 mph;48 °F;71 %;29.40 in
+20.11.2005;Chievo;Ascoli;1;1;Serie A;Fair;CALM;0 mph;34 °F;75 %;29.91 in
+20.11.2005;Fiorentina;Milan;3;1;Serie A;Fair;VAR;2 mph;34 °F;87 %;30.19 in
+20.11.2005;Lecce;Siena;3;0;Serie A;Mostly Cloudy;NW;16 mph;50 °F;37 %;30.00 in
+20.11.2005;Livorno;Empoli;2;0;Serie A;Fair;SE;6 mph;36 °F;81 %;30.29 in
+20.11.2005;Reggina;Cagliari;3;1;Serie A;Partly Cloudy;SW;6 mph;52 °F;62 %;30.06 in
+20.11.2005;Sampdoria;Lazio;2;0;Serie A;Fair;NW;5 mph;37 °F;75 %;30.32 in
+20.11.2005;Treviso;Palermo;2;2;Serie A;Fair;SSW;7 mph;30 °F;75 %;30.18 in
+20.11.2005;Inter;Parma;2;0;Serie A;Fair;CALM;0 mph;34 °F;75 %;29.91 in
+05.11.2005;Empoli;Reggina;3;0;Serie A;Fair;VAR;1 mph;57 °F;82 %;29.95 in
+05.11.2005;Lazio;Inter;0;0;Serie A;Partly Cloudy;CALM;0 mph;57 °F;100 %;29.72 in
+06.11.2005;Ascoli;Fiorentina;0;2;Serie A;Mostly Cloudy;VAR;2 mph;57 °F;82 %;30.17 in
+06.11.2005;Cagliari;Treviso;0;0;Serie A;Cloudy;VAR;3 mph;55 °F;94 %;29.85 in
+06.11.2005;Juventus;Livorno;3;0;Serie A;Mostly Cloudy;NNW;6 mph;55 °F;94 %;30.00 in
+06.11.2005;Messina;Roma;0;2;Serie A;Fair;E;5 mph;59 °F;94 %;30.12 in
+06.11.2005;Milan;Udinese;5;1;Serie A;Cloudy;VAR;3 mph;55 °F;94 %;29.85 in
+06.11.2005;Parma;Lecce;2;0;Serie A;Mostly Cloudy;NNW;6 mph;55 °F;94 %;30.00 in
+06.11.2005;Siena;Chievo;0;1;Serie A;Mostly Cloudy;E;2 mph;63 °F;94 %;30.15 in
+06.11.2005;Palermo;Sampdoria;0;2;Serie A;Mostly Cloudy;NNW;6 mph;55 °F;94 %;30.00 in
+29.10.2005;Sampdoria;Inter;2;2;Serie A;Partly Cloudy;WNW;5 mph;55 °F;88 %;30.23 in
+29.10.2005;Milan;Juventus;3;1;Serie A;Mostly Cloudy;VAR;2 mph;59 °F;100 %;29.85 in
+30.10.2005;Chievo;Empoli;2;2;Serie A;Fair;CALM;0 mph;54 °F;100 %;29.85 in
+30.10.2005;Fiorentina;Cagliari;2;1;Serie A;Fair;E;3 mph;52 °F;94 %;30.10 in
+30.10.2005;Lecce;Messina;0;2;Serie A;Mostly Cloudy;WNW;5 mph;63 °F;77 %;30.17 in
+30.10.2005;Livorno;Parma;2;0;Serie A;Partly Cloudy;ESE;5 mph;55 °F;100 %;30.21 in
+30.10.2005;Reggina;Lazio;1;0;Serie A;Fair;VAR;2 mph;63 °F;82 %;30.18 in
+30.10.2005;Roma;Ascoli;2;1;Serie A;Fair;SE;1 mph;57 °F;88 %;29.75 in
+30.10.2005;Treviso;Siena;0;1;Serie A;Mostly Cloudy;SSW;7 mph;46 °F;93 %;30.06 in
+30.10.2005;Udinese;Palermo;0;0;Serie A;Cloudy;CALM;0 mph;55 °F;94 %;30.20 in
+26.10.2005;Ascoli;Udinese;1;1;Serie A;Fair;VAR;1 mph;55 °F;88 %;30.23 in
+26.10.2005;Cagliari;Livorno;1;1;Serie A;Partly Cloudy;CALM;0 mph;61 °F;100 %;29.82 in
+26.10.2005;Empoli;Milan;1;3;Serie A;Fair;VAR;1 mph;63 °F;88 %;29.98 in
+26.10.2005;Inter;Roma;2;3;Serie A;Partly Cloudy;CALM;0 mph;61 °F;100 %;29.82 in
+26.10.2005;Juventus;Sampdoria;2;0;Serie A;Partly Cloudy;VAR;3 mph;54 °F;94 %;30.03 in
+26.10.2005;Lazio;Chievo;2;2;Serie A;Fair;E;2 mph;61 °F;100 %;29.75 in
+26.10.2005;Palermo;Lecce;3;0;Serie A;Partly Cloudy;VAR;3 mph;54 °F;94 %;30.03 in
+26.10.2005;Parma;Messina;1;1;Serie A;Partly Cloudy;VAR;3 mph;54 °F;94 %;30.03 in
+26.10.2005;Reggina;Treviso;1;2;Serie A;Mostly Cloudy;NNE;9 mph;70 °F;78 %;30.18 in
+26.10.2005;Siena;Fiorentina;0;2;Serie A;Partly Cloudy;CALM;0 mph;63 °F;100 %;30.24 in
+22.10.2005;Messina;Ascoli;1;1;Serie A;N/A;SSE;18 mph;73 °F;83 %;29.91 in
+22.10.2005;Fiorentina;Parma;4;1;Serie A;Mostly Cloudy;VAR;3 mph;61 °F;100 %;29.81 in
+23.10.2005;Chievo;Cagliari;2;1;Serie A;Cloudy;VAR;1 mph;59 °F;88 %;29.62 in
+23.10.2005;Lecce;Juventus;0;3;Serie A;Partly Cloudy;SE;6 mph;66 °F;88 %;30.06 in
+23.10.2005;Livorno;Reggina;1;0;Serie A;Partly Cloudy;E;2 mph;64 °F;94 %;30.06 in
+23.10.2005;Milan;Palermo;2;1;Serie A;Cloudy;VAR;1 mph;59 °F;88 %;29.62 in
+23.10.2005;Sampdoria;Siena;3;3;Serie A;Mostly Cloudy;VAR;1 mph;59 °F;82 %;30.02 in
+23.10.2005;Treviso;Empoli;1;2;Serie A;Cloudy;CALM;0 mph;57 °F;100 %;29.85 in
+23.10.2005;Udinese;Inter;0;1;Serie A;Mostly Cloudy;CALM;0 mph;57 °F;94 %;30.02 in
+23.10.2005;Roma;Lazio;1;1;Serie A;Partly Cloudy;NE;2 mph;63 °F;100 %;29.54 in
+15.10.2005;Siena;Udinese;2;3;Serie A;Fair;SE;1 mph;61 °F;94 %;30.29 in
+15.10.2005;Juventus;Messina;1;0;Serie A;Partly Cloudy;CALM;0 mph;48 °F;93 %;30.18 in
+16.10.2005;Ascoli;Sampdoria;2;1;Serie A;Fair;SSW;5 mph;54 °F;72 %;30.26 in
+16.10.2005;Empoli;Roma;1;0;Serie A;Fair;NE;5 mph;57 °F;67 %;30.01 in
+16.10.2005;Inter;Livorno;5;0;Serie A;Fair;CALM;0 mph;54 °F;94 %;29.91 in
+16.10.2005;Lazio;Fiorentina;1;0;Serie A;Fair;CALM;0 mph;61 °F;100 %;29.78 in
+16.10.2005;Palermo;Chievo;2;2;Serie A;Fair;CALM;0 mph;48 °F;100 %;30.06 in
+16.10.2005;Parma;Treviso;1;1;Serie A;Fair;CALM;0 mph;48 °F;100 %;30.06 in
+16.10.2005;Reggina;Lecce;2;0;Serie A;Partly Cloudy;VAR;2 mph;66 °F;83 %;30.18 in
+16.10.2005;Cagliari;Milan;0;2;Serie A;Fair;CALM;0 mph;54 °F;94 %;29.91 in
+01.10.2005;Chievo;Treviso;0;0;Serie A;Partly Cloudy;E;8 mph;63 °F;63 %;29.74 in
+01.10.2005;Udinese;Lazio;3;0;Serie A;Fair;CALM;0 mph;46 °F;76 %;30.11 in
+02.10.2005;Lecce;Cagliari;3;0;Serie A;Fair;W;20 mph;64 °F;56 %;29.85 in
+02.10.2005;Messina;Sampdoria;1;4;Serie A;Partly Cloudy;ENE;5 mph;64 °F;56 %;29.88 in
+02.10.2005;Palermo;Empoli;2;2;Serie A;Mostly Cloudy;ENE;6 mph;59 °F;82 %;29.71 in
+02.10.2005;Ascoli;Parma;3;1;Serie A;Fair;VAR;3 mph;50 °F;76 %;29.99 in
+02.10.2005;Fiorentina;Livorno;3;2;Serie A;Fair;ESE;5 mph;55 °F;77 %;29.87 in
+02.10.2005;Milan;Reggina;2;1;Serie A;Partly Cloudy;CALM;0 mph;66 °F;68 %;29.56 in
+02.10.2005;Roma;Siena;2;3;Serie A;Fair;NNE;3 mph;59 °F;77 %;29.51 in
+02.10.2005;Juventus;Inter;2;0;Serie A;Mostly Cloudy;ENE;6 mph;59 °F;82 %;29.71 in
+24.09.2005;Reggina;Udinese;2;0;Serie A;Fair;W;5 mph;68 °F;73 %;29.97 in
+24.09.2005;Parma;Juventus;1;2;Serie A;Fair;WSW;6 mph;57 °F;88 %;29.85 in
+25.09.2005;Cagliari;Roma;0;0;Serie A;Fair;CALM;0 mph;66 °F;78 %;29.65 in
+25.09.2005;Empoli;Lecce;1;0;Serie A;Fair;CALM;0 mph;66 °F;73 %;29.75 in
+25.09.2005;Lazio;Palermo;4;2;Serie A;Fair;ESE;2 mph;64 °F;94 %;29.54 in
+25.09.2005;Livorno;Ascoli;2;0;Serie A;Fair;CALM;0 mph;64 °F;88 %;30.03 in
+25.09.2005;Sampdoria;Chievo;1;2;Serie A;Fair;VAR;3 mph;61 °F;88 %;30.02 in
+25.09.2005;Siena;Messina;4;2;Serie A;Fair;CALM;0 mph;64 °F;88 %;30.03 in
+25.09.2005;Treviso;Milan;0;2;Serie A;Fair;SSW;5 mph;61 °F;88 %;29.85 in
+25.09.2005;Inter;Fiorentina;1;0;Serie A;Fair;CALM;0 mph;66 °F;78 %;29.65 in
+21.09.2005;Ascoli;Siena;1;1;Serie A;Fair;SW;6 mph;61 °F;72 %;29.93 in
+21.09.2005;Chievo;Inter;0;1;Serie A;Partly Cloudy;CALM;0 mph;63 °F;77 %;29.62 in
+21.09.2005;Empoli;Cagliari;3;1;Serie A;Partly Cloudy;VAR;1 mph;63 °F;77 %;29.66 in
+21.09.2005;Lecce;Fiorentina;1;3;Serie A;Partly Cloudy;;0 mph;70 °F;73 %;29.76 in
+21.09.2005;Messina;Livorno;0;0;Serie A;Partly Cloudy;NE;5 mph;66 °F;88 %;29.79 in
+21.09.2005;Milan;Lazio;2;0;Serie A;Partly Cloudy;CALM;0 mph;63 °F;77 %;29.62 in
+21.09.2005;Palermo;Reggina;1;0;Serie A;Partly Cloudy;VAR;3 mph;55 °F;88 %;29.85 in
+21.09.2005;Roma;Parma;4;1;Serie A;Fair;N;6 mph;66 °F;94 %;29.43 in
+21.09.2005;Treviso;Sampdoria;0;2;Serie A;Partly Cloudy;VAR;3 mph;55 °F;88 %;29.85 in
+21.09.2005;Udinese;Juventus;0;1;Serie A;Mostly Cloudy;VAR;2 mph;54 °F;77 %;29.99 in
+17.09.2005;Parma;Empoli;1;0;Serie A;Partly Cloudy;SSE;5 mph;64 °F;83 %;29.44 in
+17.09.2005;Inter;Lecce;3;0;Serie A;Partly Cloudy;VAR;1 mph;70 °F;78 %;29.27 in
+18.09.2005;Cagliari;Messina;1;1;Serie A;Cloudy;VAR;3 mph;64 °F;77 %;29.39 in
+18.09.2005;Fiorentina;Udinese;4;2;Serie A;Mostly Cloudy;VAR;1 mph;64 °F;94 %;29.57 in
+18.09.2005;Juventus;Ascoli;2;1;Serie A;Mostly Cloudy;E;13 mph;61 °F;94 %;29.59 in
+18.09.2005;Lazio;Treviso;3;1;Serie A;Mostly Cloudy;SSE;8 mph;66 °F;100 %;29.22 in
+18.09.2005;Reggina;Chievo;1;3;Serie A;Partly Cloudy;VAR;2 mph;75 °F;83 %;29.79 in
+18.09.2005;Sampdoria;Milan;2;1;Serie A;Mostly Cloudy;NNE;20 mph;57 °F;82 %;29.82 in
+18.09.2005;Siena;Palermo;1;2;Serie A;Mostly Cloudy;NNE;7 mph;66 °F;94 %;29.70 in
+18.09.2005;Livorno;Roma;0;0;Serie A;Mostly Cloudy;NNE;7 mph;66 °F;94 %;29.70 in
+10.09.2005;Milan;Siena;3;1;Serie A;Partly Cloudy;ESE;5 mph;66 °F;73 %;29.53 in
+10.09.2005;Palermo;Inter;3;2;Serie A;Fair;CALM;0 mph;61 °F;94 %;29.71 in
+11.09.2005;Chievo;Parma;1;0;Serie A;Partly Cloudy;W;5 mph;68 °F;78 %;29.45 in
+11.09.2005;Empoli;Juventus;0;4;Serie A;Fair;CALM;0 mph;72 °F;83 %;29.69 in
+11.09.2005;Lecce;Ascoli;0;0;Serie A;Partly Cloudy;;0 mph;75 °F;89 %;29.82 in
+11.09.2005;Messina;Fiorentina;2;2;Serie A;N/A;NE;9 mph;77 °F;78 %;29.82 in
+11.09.2005;Roma;Udinese;0;1;Serie A;Fair;CALM;0 mph;70 °F;94 %;29.46 in
+11.09.2005;Sampdoria;Reggina;3;2;Serie A;Fair;SSW;7 mph;70 °F;83 %;29.82 in
+11.09.2005;Treviso;Livorno;0;1;Serie A;Partly Cloudy;S;5 mph;63 °F;88 %;29.65 in
+11.09.2005;Cagliari;Lazio;1;1;Serie A;Partly Cloudy;W;5 mph;68 °F;78 %;29.45 in
+27.08.2005;Livorno;Lecce;2;1;Serie A;Partly Cloudy;SE;1 mph;70 °F;83 %;30.06 in
+27.08.2005;Fiorentina;Sampdoria;2;1;Serie A;Fair;CALM;0 mph;70 °F;73 %;29.93 in
+28.08.2005;Ascoli;Milan;1;1;Serie A;Partly Cloudy;VAR;2 mph;70 °F;78 %;29.96 in
+28.08.2005;Inter;Treviso;3;0;Serie A;Mostly Cloudy;ENE;6 mph;64 °F;73 %;29.59 in
+28.08.2005;Lazio;Messina;1;0;Serie A;Partly Cloudy;SSW;1 mph;72 °F;94 %;29.54 in
+28.08.2005;Parma;Palermo;1;1;Serie A;Mostly Cloudy;E;7 mph;66 °F;83 %;29.80 in
+28.08.2005;Reggina;Roma;0;3;Serie A;Fair;SW;5 mph;72 °F;69 %;29.97 in
+28.08.2005;Siena;Cagliari;2;1;Serie A;Mostly Cloudy;S;2 mph;73 °F;94 %;29.94 in
+28.08.2005;Udinese;Empoli;1;0;Serie A;Cloudy;VAR;1 mph;66 °F;78 %;29.96 in
+28.08.2005;Juventus;Chievo;1;0;Serie A;Mostly Cloudy;E;7 mph;66 °F;83 %;29.80 in
