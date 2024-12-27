@@ -1,0 +1,307 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+23.08.2008;Galatasaray;Denizlispor;4;1;Süper Lig;Fair;NE;12 mph;81 °F;70 %;29.76 in
+23.08.2008;Başakşehir;Eskişehirspor;0;0;Süper Lig;Fair;NE;12 mph;81 °F;70 %;29.76 in
+23.08.2008;Hacettepe;Bursaspor;1;2;Süper Lig;Fair;NE;12 mph;81 °F;70 %;29.76 in
+23.08.2008;Sivasspor;Kayserispor;0;0;Süper Lig;Fair;WSW;1 mph;72 °F;33 %;26.43 in
+23.08.2008;Gaziantepspor;Fenerbahçe;1;0;Süper Lig;Fair;NE;12 mph;81 °F;70 %;29.76 in
+24.08.2008;Trabzonspor;Sincan Bld Ankaraspor;2;0;Süper Lig;Mostly Cloudy;S;3 mph;79 °F;78 %;29.67 in
+24.08.2008;Gençlerbirliği;Kocaelispor;1;1;Süper Lig;Fair;NE;8 mph;81 °F;74 %;29.61 in
+24.08.2008;Konyaspor;Ankaragücü;3;2;Süper Lig;Fair;W;7 mph;73 °F;31 %;26.35 in
+24.08.2008;Antalyaspor;Beşiktaş;2;3;Süper Lig;Fair;W;7 mph;86 °F;29 %;29.44 in
+29.08.2008;Ankaragücü;Trabzonspor;1;2;Süper Lig;Partly Cloudy;ENE;14 mph;77 °F;61 %;29.79 in
+30.08.2008;Sincan Bld Ankaraspor;Gaziantepspor;0;2;Süper Lig;Fair;S;1 mph;75 °F;69 %;29.76 in
+30.08.2008;Fenerbahçe;Başakşehir;2;0;Süper Lig;Fair;S;1 mph;75 °F;69 %;29.76 in
+30.08.2008;Kocaelispor;Sivasspor;0;2;Süper Lig;Fair;S;1 mph;75 °F;69 %;29.76 in
+31.08.2008;Bursaspor;Gençlerbirliği;2;0;Süper Lig;Partly Cloudy;NNE;14 mph;77 °F;69 %;29.82 in
+31.08.2008;Denizlispor;Antalyaspor;3;2;Süper Lig;Partly Cloudy;NNE;14 mph;77 °F;69 %;29.82 in
+31.08.2008;Eskişehirspor;Hacettepe;0;0;Süper Lig;Partly Cloudy;NNE;14 mph;77 °F;69 %;29.82 in
+31.08.2008;Kayserispor;Galatasaray;0;0;Süper Lig;Partly Cloudy;W;6 mph;77 °F;36 %;26.31 in
+01.09.2008;Beşiktaş;Konyaspor;2;0;Süper Lig;Fair;NNE;9 mph;72 °F;57 %;29.97 in
+13.09.2008;Hacettepe;Fenerbahçe;2;1;Süper Lig;Fair;VAR;3 mph;75 °F;57 %;29.70 in
+13.09.2008;Kayserispor;Kocaelispor;1;0;Süper Lig;Fair;N;2 mph;55 °F;47 %;26.38 in
+13.09.2008;Konyaspor;Denizlispor;1;1;Süper Lig;Fair;WNW;1 mph;72 °F;33 %;26.43 in
+13.09.2008;Galatasaray;Antalyaspor;1;1;Süper Lig;Fair;VAR;3 mph;75 °F;57 %;29.70 in
+14.09.2008;Sivasspor;Bursaspor;3;1;Süper Lig;Fair;WSW;1 mph;72 °F;33 %;26.43 in
+14.09.2008;Başakşehir;Sincan Bld Ankaraspor;1;2;Süper Lig;Partly Cloudy;SW;5 mph;77 °F;74 %;29.73 in
+14.09.2008;Gaziantepspor;Ankaragücü;2;2;Süper Lig;Partly Cloudy;SW;5 mph;77 °F;74 %;29.73 in
+14.09.2008;Gençlerbirliği;Eskişehirspor;3;1;Süper Lig;Partly Cloudy;SW;5 mph;77 °F;74 %;29.73 in
+14.09.2008;Trabzonspor;Beşiktaş;0;0;Süper Lig;Fair;VAR;1 mph;70 °F;83 %;29.72 in
+19.09.2008;Denizlispor;Trabzonspor;0;1;Süper Lig;Partly Cloudy;E;5 mph;64 °F;64 %;29.91 in
+20.09.2008;Ankaragücü;Başakşehir;0;0;Süper Lig;Partly Cloudy;NNE;8 mph;64 °F;56 %;29.82 in
+20.09.2008;Eskişehirspor;Sivasspor;2;2;Süper Lig;Partly Cloudy;NNE;8 mph;64 °F;56 %;29.82 in
+20.09.2008;Fenerbahçe;Gençlerbirliği;3;0;Süper Lig;Partly Cloudy;NNE;8 mph;64 °F;56 %;29.82 in
+21.09.2008;Kocaelispor;Galatasaray;1;4;Süper Lig;Mostly Cloudy;N;10 mph;66 °F;68 %;29.70 in
+21.09.2008;Sincan Bld Ankaraspor;Hacettepe;4;0;Süper Lig;Mostly Cloudy;N;10 mph;66 °F;68 %;29.70 in
+21.09.2008;Antalyaspor;Konyaspor;0;1;Süper Lig;Mostly Cloudy;VAR;2 mph;72 °F;69 %;29.62 in
+21.09.2008;Bursaspor;Kayserispor;1;0;Süper Lig;Mostly Cloudy;N;10 mph;66 °F;68 %;29.70 in
+21.09.2008;Beşiktaş;Gaziantepspor;3;0;Süper Lig;Mostly Cloudy;N;10 mph;66 °F;68 %;29.70 in
+26.09.2008;Sivasspor;Fenerbahçe;2;1;Süper Lig;Fair;WSW;5 mph;64 °F;64 %;29.91 in
+27.09.2008;Başakşehir;Beşiktaş;1;1;Süper Lig;Mostly Cloudy / Windy;NNW;26 mph;61 °F;77 %;29.82 in
+27.09.2008;Gençlerbirliği;Sincan Bld Ankaraspor;1;1;Süper Lig;Mostly Cloudy / Windy;NNW;26 mph;61 °F;77 %;29.82 in
+27.09.2008;Kocaelispor;Bursaspor;2;3;Süper Lig;Mostly Cloudy / Windy;NNW;26 mph;61 °F;77 %;29.82 in
+27.09.2008;Trabzonspor;Antalyaspor;3;2;Süper Lig;Mostly Cloudy;SSE;3 mph;64 °F;83 %;29.72 in
+28.09.2008;Gaziantepspor;Denizlispor;2;1;Süper Lig;Mostly Cloudy;NW;7 mph;59 °F;82 %;30.02 in
+28.09.2008;Hacettepe;Ankaragücü;0;1;Süper Lig;Mostly Cloudy;NW;7 mph;59 °F;82 %;30.02 in
+28.09.2008;Kayserispor;Eskişehirspor;1;0;Süper Lig;Partly Cloudy;WSW;1 mph;50 °F;87 %;26.44 in
+28.09.2008;Galatasaray;Konyaspor;4;1;Süper Lig;Mostly Cloudy;NW;7 mph;59 °F;82 %;30.02 in
+04.10.2008;Sincan Bld Ankaraspor;Sivasspor;2;0;Süper Lig;Mostly Cloudy;S;10 mph;64 °F;88 %;29.82 in
+04.10.2008;Antalyaspor;Gaziantepspor;1;4;Süper Lig;Mostly Cloudy;N;3 mph;66 °F;78 %;29.85 in
+04.10.2008;Konyaspor;Trabzonspor;2;3;Süper Lig;Mostly Cloudy;S;8 mph;57 °F;94 %;26.64 in
+05.10.2008;Denizlispor;Başakşehir;2;1;Süper Lig;Fair;VAR;3 mph;68 °F;88 %;29.76 in
+05.10.2008;Bursaspor;Galatasaray;2;1;Süper Lig;Fair;VAR;3 mph;68 °F;88 %;29.76 in
+05.10.2008;Ankaragücü;Gençlerbirliği;0;2;Süper Lig;Fair;VAR;3 mph;68 °F;88 %;29.76 in
+05.10.2008;Eskişehirspor;Kocaelispor;2;1;Süper Lig;Fair;VAR;3 mph;68 °F;88 %;29.76 in
+05.10.2008;Fenerbahçe;Kayserispor;1;4;Süper Lig;Fair;VAR;3 mph;68 °F;88 %;29.76 in
+06.10.2008;Beşiktaş;Hacettepe;2;1;Süper Lig;Partly Cloudy;SW;20 mph;66 °F;52 %;29.82 in
+18.10.2008;Başakşehir;Antalyaspor;2;1;Süper Lig;Fair;W;3 mph;64 °F;73 %;29.91 in
+18.10.2008;Hacettepe;Denizlispor;1;0;Süper Lig;Fair;W;3 mph;64 °F;73 %;29.91 in
+18.10.2008;Bursaspor;Eskişehirspor;1;2;Süper Lig;Fair;W;3 mph;64 °F;73 %;29.91 in
+18.10.2008;Kocaelispor;Fenerbahçe;2;3;Süper Lig;Fair;W;3 mph;64 °F;73 %;29.91 in
+19.10.2008;Gaziantepspor;Konyaspor;0;1;Süper Lig;Mostly Cloudy;NE;9 mph;61 °F;72 %;30.20 in
+19.10.2008;Kayserispor;Sincan Bld Ankaraspor;1;2;Süper Lig;Fair;NNE;3 mph;45 °F;93 %;26.70 in
+19.10.2008;Sivasspor;Ankaragücü;3;0;Süper Lig;Fair;WSW;6 mph;64 °F;73 %;29.91 in
+19.10.2008;Gençlerbirliği;Beşiktaş;1;3;Süper Lig;Mostly Cloudy;NE;9 mph;61 °F;72 %;30.20 in
+19.10.2008;Galatasaray;Trabzonspor;3;0;Süper Lig;Mostly Cloudy;NE;9 mph;61 °F;72 %;30.20 in
+24.10.2008;Beşiktaş;Sivasspor;1;1;Süper Lig;Partly Cloudy;NNW;9 mph;55 °F;77 %;30.08 in
+25.10.2008;Sincan Bld Ankaraspor;Kocaelispor;4;0;Süper Lig;Mostly Cloudy;NNE;9 mph;61 °F;59 %;30.14 in
+25.10.2008;Denizlispor;Gençlerbirliği;2;2;Süper Lig;Mostly Cloudy;NNE;9 mph;61 °F;59 %;30.14 in
+25.10.2008;Fenerbahçe;Bursaspor;5;2;Süper Lig;Mostly Cloudy;NNE;9 mph;61 °F;59 %;30.14 in
+26.10.2008;Ankaragücü;Kayserispor;1;3;Süper Lig;Mostly Cloudy;N;10 mph;59 °F;82 %;30.14 in
+26.10.2008;Antalyaspor;Hacettepe;1;1;Süper Lig;Fair;N;5 mph;61 °F;63 %;29.82 in
+26.10.2008;Konyaspor;Başakşehir;1;2;Süper Lig;Fair;NW;8 mph;46 °F;66 %;26.64 in
+26.10.2008;Trabzonspor;Gaziantepspor;1;1;Süper Lig;Mostly Cloudy;S;5 mph;59 °F;82 %;30.08 in
+26.10.2008;Eskişehirspor;Galatasaray;4;2;Süper Lig;Mostly Cloudy;N;10 mph;59 °F;82 %;30.14 in
+01.11.2008;Hacettepe;Konyaspor;1;2;Süper Lig;Fair;ESE;2 mph;64 °F;77 %;30.11 in
+01.11.2008;Başakşehir;Trabzonspor;0;4;Süper Lig;Fair;ESE;2 mph;64 °F;77 %;30.11 in
+01.11.2008;Eskişehirspor;Fenerbahçe;2;2;Süper Lig;Fair;ESE;2 mph;64 °F;77 %;30.11 in
+02.11.2008;Bursaspor;Sincan Bld Ankaraspor;0;1;Süper Lig;Fair;VAR;2 mph;66 °F;68 %;30.02 in
+02.11.2008;Gençlerbirliği;Antalyaspor;1;2;Süper Lig;Fair;VAR;2 mph;66 °F;68 %;30.02 in
+02.11.2008;Kocaelispor;Ankaragücü;1;1;Süper Lig;Fair;VAR;2 mph;66 °F;68 %;30.02 in
+02.11.2008;Sivasspor;Denizlispor;3;1;Süper Lig;Fair;WSW;4 mph;62 °F;68 %;30.02 in
+02.11.2008;Kayserispor;Beşiktaş;1;0;Süper Lig;Fair;CALM;0 mph;41 °F;87 %;26.70 in
+02.11.2008;Galatasaray;Gaziantepspor;3;1;Süper Lig;Fair;VAR;2 mph;66 °F;68 %;30.02 in
+07.11.2008;Beşiktaş;Kocaelispor;5;2;Süper Lig;Partly Cloudy;NNE;7 mph;59 °F;72 %;30.08 in
+08.11.2008;Ankaragücü;Bursaspor;1;1;Süper Lig;Partly Cloudy;NE;15 mph;57 °F;72 %;30.14 in
+08.11.2008;Trabzonspor;Hacettepe;1;0;Süper Lig;Mostly Cloudy;SW;8 mph;55 °F;72 %;30.22 in
+09.11.2008;Sincan Bld Ankaraspor;Eskişehirspor;2;0;Süper Lig;Partly Cloudy;NE;10 mph;59 °F;67 %;30.23 in
+09.11.2008;Antalyaspor;Sivasspor;2;1;Süper Lig;Partly Cloudy;N;3 mph;55 °F;67 %;29.94 in
+09.11.2008;Denizlispor;Kayserispor;1;0;Süper Lig;Partly Cloudy;NE;10 mph;59 °F;67 %;30.23 in
+09.11.2008;Gaziantepspor;Başakşehir;1;4;Süper Lig;Partly Cloudy;NE;10 mph;59 °F;67 %;30.23 in
+09.11.2008;Konyaspor;Gençlerbirliği;2;2;Süper Lig;Fair;NW;13 mph;48 °F;62 %;26.74 in
+09.11.2008;Fenerbahçe;Galatasaray;4;1;Süper Lig;Partly Cloudy;NE;10 mph;59 °F;67 %;30.23 in
+14.11.2008;Gençlerbirliği;Trabzonspor;0;1;Süper Lig;Fair;VAR;5 mph;50 °F;87 %;30.14 in
+15.11.2008;Kocaelispor;Denizlispor;3;2;Süper Lig;Partly Cloudy;NNW;8 mph;54 °F;88 %;30.20 in
+15.11.2008;Fenerbahçe;Sincan Bld Ankaraspor;2;0;Süper Lig;Partly Cloudy;NNW;8 mph;54 °F;88 %;30.20 in
+16.11.2008;Eskişehirspor;Ankaragücü;1;3;Süper Lig;Partly Cloudy;NNW;5 mph;54 °F;88 %;30.23 in
+16.11.2008;Hacettepe;Gaziantepspor;0;0;Süper Lig;Partly Cloudy;NNW;5 mph;54 °F;88 %;30.23 in
+16.11.2008;Kayserispor;Antalyaspor;0;0;Süper Lig;Fair;NNE;5 mph;30 °F;93 %;26.67 in
+16.11.2008;Sivasspor;Konyaspor;1;0;Süper Lig;Fair;WSW;5 mph;51 °F;88 %;30.23 in
+16.11.2008;Bursaspor;Beşiktaş;0;0;Süper Lig;Partly Cloudy;NNW;5 mph;54 °F;88 %;30.23 in
+16.11.2008;Galatasaray;Başakşehir;2;0;Süper Lig;Partly Cloudy;NNW;5 mph;54 °F;88 %;30.23 in
+22.11.2008;Antalyaspor;Kocaelispor;0;0;Süper Lig;Partly Cloudy;W;6 mph;54 °F;82 %;29.71 in
+22.11.2008;Gaziantepspor;Gençlerbirliği;2;0;Süper Lig;Partly Cloudy / Windy;S;26 mph;61 °F;72 %;29.46 in
+22.11.2008;Ankaragücü;Fenerbahçe;0;0;Süper Lig;Partly Cloudy / Windy;S;26 mph;61 °F;72 %;29.46 in
+22.11.2008;Sincan Bld Ankaraspor;Galatasaray;0;0;Süper Lig;Partly Cloudy / Windy;S;26 mph;61 °F;72 %;29.46 in
+23.11.2008;Başakşehir;Hacettepe;1;0;Süper Lig;Mostly Cloudy;NW;6 mph;43 °F;76 %;29.38 in
+23.11.2008;Denizlispor;Bursaspor;4;3;Süper Lig;Mostly Cloudy;NW;6 mph;43 °F;76 %;29.38 in
+23.11.2008;Konyaspor;Kayserispor;0;0;Süper Lig;Mostly Cloudy;S;18 mph;50 °F;71 %;26.14 in
+23.11.2008;Trabzonspor;Sivasspor;0;0;Süper Lig;Partly Cloudy;SSE;10 mph;66 °F;32 %;29.40 in
+23.11.2008;Beşiktaş;Eskişehirspor;2;0;Süper Lig;Mostly Cloudy;NW;6 mph;43 °F;76 %;29.38 in
+28.11.2008;Kayserispor;Trabzonspor;1;1;Süper Lig;Mostly Cloudy;SSE;2 mph;41 °F;93 %;26.44 in
+29.11.2008;Sincan Bld Ankaraspor;Ankaragücü;0;1;Süper Lig;Partly Cloudy;NE;6 mph;46 °F;71 %;30.08 in
+29.11.2008;Eskişehirspor;Denizlispor;4;3;Süper Lig;Partly Cloudy;NE;6 mph;46 °F;71 %;30.08 in
+29.11.2008;Sivasspor;Gaziantepspor;3;0;Süper Lig;Fair;WSW;4 mph;61 °F;59 %;29.85 in
+29.11.2008;Fenerbahçe;Beşiktaş;2;1;Süper Lig;Partly Cloudy;NE;6 mph;46 °F;71 %;30.08 in
+30.11.2008;Bursaspor;Antalyaspor;1;1;Süper Lig;Mostly Cloudy;SW;9 mph;54 °F;77 %;29.97 in
+30.11.2008;Gençlerbirliği;Başakşehir;0;0;Süper Lig;Mostly Cloudy;SW;9 mph;54 °F;77 %;29.97 in
+30.11.2008;Kocaelispor;Konyaspor;3;0;Süper Lig;Mostly Cloudy;SW;9 mph;54 °F;77 %;29.97 in
+30.11.2008;Galatasaray;Hacettepe;3;1;Süper Lig;Mostly Cloudy;SW;9 mph;54 °F;77 %;29.97 in
+05.12.2008;Denizlispor;Fenerbahçe;0;1;Süper Lig;Partly Cloudy;SSW;8 mph;61 °F;59 %;29.85 in
+06.12.2008;Antalyaspor;Eskişehirspor;0;0;Süper Lig;Partly Cloudy;N;7 mph;55 °F;47 %;30.09 in
+06.12.2008;Gaziantepspor;Kayserispor;0;0;Süper Lig;Partly Cloudy;WSW;10 mph;59 °F;72 %;30.05 in
+06.12.2008;Hacettepe;Gençlerbirliği;0;3;Süper Lig;Partly Cloudy;WSW;10 mph;59 °F;72 %;30.05 in
+06.12.2008;Beşiktaş;Sincan Bld Ankaraspor;1;3;Süper Lig;Partly Cloudy;WSW;10 mph;59 °F;72 %;30.05 in
+07.12.2008;Başakşehir;Sivasspor;0;3;Süper Lig;Mostly Cloudy;E;5 mph;63 °F;48 %;29.82 in
+07.12.2008;Konyaspor;Bursaspor;0;0;Süper Lig;Fair;W;3 mph;39 °F;93 %;26.61 in
+07.12.2008;Trabzonspor;Kocaelispor;2;1;Süper Lig;Partly Cloudy;VAR;2 mph;57 °F;36 %;29.96 in
+07.12.2008;Ankaragücü;Galatasaray;0;3;Süper Lig;Mostly Cloudy;E;5 mph;63 °F;48 %;29.82 in
+12.12.2008;Gençlerbirliği;Galatasaray;1;3;Süper Lig;Fair;ENE;9 mph;48 °F;46 %;30.11 in
+13.12.2008;Kayserispor;Başakşehir;2;0;Süper Lig;Fair;NE;7 mph;25 °F;69 %;26.54 in
+13.12.2008;Sivasspor;Hacettepe;2;1;Süper Lig;Fair;WSW;5 mph;60 °F;59 %;29.85 in
+13.12.2008;Bursaspor;Trabzonspor;2;1;Süper Lig;Mostly Cloudy;N;9 mph;48 °F;82 %;29.88 in
+13.12.2008;Beşiktaş;Ankaragücü;1;0;Süper Lig;Mostly Cloudy;N;9 mph;48 °F;82 %;29.88 in
+14.12.2008;Sincan Bld Ankaraspor;Denizlispor;2;0;Süper Lig;Partly Cloudy;E;3 mph;52 °F;88 %;29.97 in
+14.12.2008;Eskişehirspor;Konyaspor;0;0;Süper Lig;Partly Cloudy;E;3 mph;52 °F;88 %;29.97 in
+14.12.2008;Kocaelispor;Gaziantepspor;2;5;Süper Lig;Partly Cloudy;E;3 mph;52 °F;88 %;29.97 in
+14.12.2008;Fenerbahçe;Antalyaspor;2;0;Süper Lig;Partly Cloudy;E;3 mph;52 °F;88 %;29.97 in
+19.12.2008;Konyaspor;Fenerbahçe;1;2;Süper Lig;Fair;SSE;2 mph;34 °F;100 %;26.64 in
+20.12.2008;Başakşehir;Kocaelispor;5;0;Süper Lig;Mostly Cloudy;E;5 mph;54 °F;94 %;29.88 in
+20.12.2008;Hacettepe;Kayserispor;0;3;Süper Lig;Mostly Cloudy;E;5 mph;54 °F;94 %;29.88 in
+20.12.2008;Trabzonspor;Eskişehirspor;2;1;Süper Lig;Mostly Cloudy;S;3 mph;46 °F;76 %;29.93 in
+21.12.2008;Antalyaspor;Sincan Bld Ankaraspor;1;1;Süper Lig;Mostly Cloudy;N;3 mph;50 °F;94 %;29.71 in
+21.12.2008;Denizlispor;Ankaragücü;1;1;Süper Lig;Mostly Cloudy;N;13 mph;46 °F;87 %;29.85 in
+21.12.2008;Gençlerbirliği;Sivasspor;1;2;Süper Lig;Mostly Cloudy;N;13 mph;46 °F;87 %;29.85 in
+21.12.2008;Gaziantepspor;Bursaspor;2;0;Süper Lig;Mostly Cloudy;N;13 mph;46 °F;87 %;29.85 in
+21.12.2008;Galatasaray;Beşiktaş;4;2;Süper Lig;Mostly Cloudy;N;13 mph;46 °F;87 %;29.85 in
+23.01.2009;Sincan Bld Ankaraspor;Konyaspor;3;0;Süper Lig;Fair;NNW;9 mph;50 °F;62 %;29.76 in
+24.01.2009;Ankaragücü;Antalyaspor;0;1;Süper Lig;Mostly Cloudy;VAR;5 mph;50 °F;87 %;29.35 in
+24.01.2009;Eskişehirspor;Gaziantepspor;1;1;Süper Lig;Mostly Cloudy;VAR;5 mph;50 °F;87 %;29.35 in
+24.01.2009;Kayserispor;Gençlerbirliği;1;3;Süper Lig;Partly Cloudy;NNE;7 mph;37 °F;75 %;26.23 in
+24.01.2009;Sivasspor;Galatasaray;2;0;Süper Lig;Fair;WSW;9 mph;51 °F;60 %;29.76 in
+24.01.2009;Beşiktaş;Denizlispor;1;0;Süper Lig;Mostly Cloudy;VAR;5 mph;50 °F;87 %;29.35 in
+25.01.2009;Bursaspor;Başakşehir;2;0;Süper Lig;Mostly Cloudy;SW;6 mph;52 °F;71 %;29.41 in
+25.01.2009;Kocaelispor;Hacettepe;4;0;Süper Lig;Mostly Cloudy;SW;6 mph;52 °F;71 %;29.41 in
+25.01.2009;Fenerbahçe;Trabzonspor;0;0;Süper Lig;Mostly Cloudy;SW;6 mph;52 °F;71 %;29.41 in
+31.01.2009;Kayserispor;Sivasspor;0;0;Süper Lig;Mostly Cloudy;CALM;0 mph;32 °F;100 %;26.20 in
+31.01.2009;Kocaelispor;Gençlerbirliği;0;2;Süper Lig;Mostly Cloudy;NNW;18 mph;39 °F;93 %;29.82 in
+31.01.2009;Sincan Bld Ankaraspor;Trabzonspor;0;2;Süper Lig;Mostly Cloudy;NNW;18 mph;39 °F;93 %;29.82 in
+31.01.2009;Denizlispor;Galatasaray;0;2;Süper Lig;Mostly Cloudy;NNW;18 mph;39 °F;93 %;29.82 in
+01.02.2009;Ankaragücü;Konyaspor;1;3;Süper Lig;Mostly Cloudy;N;12 mph;41 °F;81 %;29.91 in
+01.02.2009;Bursaspor;Hacettepe;0;0;Süper Lig;Mostly Cloudy;N;12 mph;41 °F;81 %;29.91 in
+01.02.2009;Eskişehirspor;Başakşehir;6;1;Süper Lig;Mostly Cloudy;N;12 mph;41 °F;81 %;29.91 in
+01.02.2009;Fenerbahçe;Gaziantepspor;1;1;Süper Lig;Mostly Cloudy;N;12 mph;41 °F;81 %;29.91 in
+01.02.2009;Beşiktaş;Antalyaspor;1;0;Süper Lig;Mostly Cloudy;N;12 mph;41 °F;81 %;29.91 in
+06.02.2009;Trabzonspor;Ankaragücü;2;1;Süper Lig;Mostly Cloudy;SW;14 mph;64 °F;28 %;29.72 in
+07.02.2009;Hacettepe;Eskişehirspor;2;2;Süper Lig;Partly Cloudy;S;6 mph;50 °F;76 %;29.70 in
+07.02.2009;Sivasspor;Kocaelispor;2;0;Süper Lig;Fair;WSW;5 mph;54 °F;72 %;29.61 in
+07.02.2009;Galatasaray;Kayserispor;1;1;Süper Lig;Partly Cloudy;S;6 mph;50 °F;76 %;29.70 in
+08.02.2009;Antalyaspor;Denizlispor;2;1;Süper Lig;Mostly Cloudy;NE;6 mph;59 °F;88 %;29.80 in
+08.02.2009;Gaziantepspor;Sincan Bld Ankaraspor;2;0;Süper Lig;Partly Cloudy;SSW;5 mph;54 °F;72 %;29.61 in
+08.02.2009;Gençlerbirliği;Bursaspor;1;2;Süper Lig;Partly Cloudy;SSW;5 mph;54 °F;72 %;29.61 in
+08.02.2009;Konyaspor;Beşiktaş;0;0;Süper Lig;Fair;SSW;5 mph;46 °F;71 %;26.45 in
+08.02.2009;Başakşehir;Fenerbahçe;2;0;Süper Lig;Partly Cloudy;SSW;5 mph;54 °F;72 %;29.61 in
+14.02.2009;Ankaragücü;Gaziantepspor;3;1;Süper Lig;Mostly Cloudy;NE;8 mph;45 °F;93 %;29.58 in
+14.02.2009;Eskişehirspor;Gençlerbirliği;0;0;Süper Lig;Mostly Cloudy;NE;8 mph;45 °F;93 %;29.58 in
+14.02.2009;Antalyaspor;Galatasaray;1;0;Süper Lig;Mostly Cloudy;SSE;16 mph;59 °F;82 %;29.56 in
+14.02.2009;Fenerbahçe;Hacettepe;7;0;Süper Lig;Mostly Cloudy;NE;8 mph;45 °F;93 %;29.58 in
+15.02.2009;Sincan Bld Ankaraspor;Başakşehir;1;2;Süper Lig;Mostly Cloudy;NNE;17 mph;41 °F;87 %;29.58 in
+15.02.2009;Denizlispor;Konyaspor;2;1;Süper Lig;Mostly Cloudy;NNE;17 mph;41 °F;87 %;29.58 in
+15.02.2009;Kocaelispor;Kayserispor;1;2;Süper Lig;Mostly Cloudy;NNE;17 mph;41 °F;87 %;29.58 in
+15.02.2009;Bursaspor;Sivasspor;1;1;Süper Lig;Mostly Cloudy;NNE;17 mph;41 °F;87 %;29.58 in
+15.02.2009;Beşiktaş;Trabzonspor;1;1;Süper Lig;Mostly Cloudy;NNE;17 mph;41 °F;87 %;29.58 in
+20.02.2009;Gaziantepspor;Beşiktaş;0;3;Süper Lig;Mostly Cloudy;S;12 mph;46 °F;93 %;29.52 in
+21.02.2009;Başakşehir;Ankaragücü;1;2;Süper Lig;Mostly Cloudy;WNW;14 mph;37 °F;81 %;29.73 in
+21.02.2009;Kayserispor;Bursaspor;0;0;Süper Lig;Mostly Cloudy;ESE;1 mph;32 °F;100 %;26.10 in
+21.02.2009;Konyaspor;Antalyaspor;2;0;Süper Lig;Mostly Cloudy;SW;10 mph;34 °F;87 %;26.14 in
+21.02.2009;Trabzonspor;Denizlispor;0;2;Süper Lig;Partly Cloudy;SSW;7 mph;54 °F;44 %;29.52 in
+21.02.2009;Gençlerbirliği;Fenerbahçe;1;0;Süper Lig;Mostly Cloudy;WNW;14 mph;37 °F;81 %;29.73 in
+22.02.2009;Hacettepe;Sincan Bld Ankaraspor;3;1;Süper Lig;Mostly Cloudy;N;14 mph;37 °F;70 %;29.99 in
+22.02.2009;Sivasspor;Eskişehirspor;1;0;Süper Lig;Fair;WSW;5 mph;54 °F;72 %;29.61 in
+22.02.2009;Galatasaray;Kocaelispor;2;5;Süper Lig;Mostly Cloudy;N;14 mph;37 °F;70 %;29.99 in
+27.02.2009;Beşiktaş;Başakşehir;2;1;Süper Lig;Mostly Cloudy;NNE;16 mph;37 °F;75 %;29.82 in
+28.02.2009;Sincan Bld Ankaraspor;Gençlerbirliği;0;0;Süper Lig;Mostly Cloudy;VAR;1 mph;39 °F;70 %;29.82 in
+28.02.2009;Denizlispor;Gaziantepspor;2;0;Süper Lig;Mostly Cloudy;VAR;1 mph;39 °F;70 %;29.82 in
+28.02.2009;Eskişehirspor;Kayserispor;1;0;Süper Lig;Mostly Cloudy;VAR;1 mph;39 °F;70 %;29.82 in
+28.02.2009;Fenerbahçe;Sivasspor;4;2;Süper Lig;Mostly Cloudy;VAR;1 mph;39 °F;70 %;29.82 in
+01.03.2009;Ankaragücü;Hacettepe;1;0;Süper Lig;Partly Cloudy;WSW;5 mph;41 °F;81 %;29.97 in
+01.03.2009;Bursaspor;Kocaelispor;1;1;Süper Lig;Partly Cloudy;WSW;5 mph;41 °F;81 %;29.97 in
+01.03.2009;Antalyaspor;Trabzonspor;0;1;Süper Lig;Fair;WNW;14 mph;48 °F;43 %;29.65 in
+01.03.2009;Konyaspor;Galatasaray;0;1;Süper Lig;Mostly Cloudy;NW;17 mph;32 °F;87 %;26.38 in
+06.03.2009;Galatasaray;Bursaspor;2;1;Süper Lig;Mostly Cloudy;S;17 mph;57 °F;63 %;29.44 in
+07.03.2009;Başakşehir;Denizlispor;0;2;Süper Lig;Mostly Cloudy;SSE;10 mph;59 °F;51 %;29.41 in
+07.03.2009;Gaziantepspor;Antalyaspor;1;1;Süper Lig;Mostly Cloudy;SSE;10 mph;59 °F;51 %;29.41 in
+07.03.2009;Trabzonspor;Konyaspor;0;1;Süper Lig;Mostly Cloudy;SSW;18 mph;73 °F;20 %;29.61 in
+07.03.2009;Hacettepe;Beşiktaş;2;3;Süper Lig;Mostly Cloudy;SSE;10 mph;59 °F;51 %;29.41 in
+08.03.2009;Gençlerbirliği;Ankaragücü;2;0;Süper Lig;Partly Cloudy;SSW;6 mph;48 °F;76 %;29.46 in
+08.03.2009;Kocaelispor;Eskişehirspor;1;0;Süper Lig;Partly Cloudy;SSW;6 mph;48 °F;76 %;29.46 in
+08.03.2009;Sivasspor;Sincan Bld Ankaraspor;1;1;Süper Lig;Fair;WSW;17 mph;44 °F;87 %;26.38 in
+08.03.2009;Kayserispor;Fenerbahçe;0;2;Süper Lig;Mostly Cloudy;E;13 mph;55 °F;44 %;26.23 in
+13.03.2009;Fenerbahçe;Kocaelispor;1;1;Süper Lig;Mostly Cloudy;NE;15 mph;41 °F;81 %;29.82 in
+14.03.2009;Antalyaspor;Başakşehir;1;0;Süper Lig;Partly Cloudy;NW;10 mph;50 °F;71 %;29.59 in
+14.03.2009;Konyaspor;Gaziantepspor;2;3;Süper Lig;Mostly Cloudy;NW;8 mph;34 °F;100 %;26.25 in
+14.03.2009;Ankaragücü;Sivasspor;0;2;Süper Lig;Mostly Cloudy;SSW;5 mph;45 °F;81 %;29.82 in
+14.03.2009;Beşiktaş;Gençlerbirliği;3;0;Süper Lig;Mostly Cloudy;SSW;5 mph;45 °F;81 %;29.82 in
+15.03.2009;Denizlispor;Hacettepe;0;0;Süper Lig;Mostly Cloudy;NE;8 mph;39 °F;93 %;29.97 in
+15.03.2009;Eskişehirspor;Bursaspor;1;2;Süper Lig;Mostly Cloudy;NE;8 mph;39 °F;93 %;29.97 in
+15.03.2009;Sincan Bld Ankaraspor;Kayserispor;2;2;Süper Lig;Mostly Cloudy;NE;8 mph;39 °F;93 %;29.97 in
+15.03.2009;Trabzonspor;Galatasaray;2;2;Süper Lig;Mostly Cloudy;VAR;2 mph;41 °F;81 %;29.87 in
+20.03.2009;Bursaspor;Fenerbahçe;2;1;Süper Lig;Partly Cloudy;SSW;9 mph;37 °F;87 %;30.02 in
+21.03.2009;Başakşehir;Konyaspor;2;0;Süper Lig;Partly Cloudy;ENE;10 mph;43 °F;49 %;30.02 in
+21.03.2009;Hacettepe;Antalyaspor;1;2;Süper Lig;Partly Cloudy;ENE;10 mph;43 °F;49 %;30.02 in
+21.03.2009;Kayserispor;Ankaragücü;2;0;Süper Lig;Fair;NNE;5 mph;27 °F;93 %;26.51 in
+21.03.2009;Kocaelispor;Sincan Bld Ankaraspor;3;1;Süper Lig;Partly Cloudy;ENE;10 mph;43 °F;49 %;30.02 in
+21.03.2009;Gaziantepspor;Trabzonspor;3;2;Süper Lig;Partly Cloudy;ENE;10 mph;43 °F;49 %;30.02 in
+21.03.2009;Sivasspor;Beşiktaş;1;1;Süper Lig;Fair;WSW;10 mph;43 °F;49 %;30.02 in
+22.03.2009;Gençlerbirliği;Denizlispor;0;0;Süper Lig;Mostly Cloudy;NE;15 mph;46 °F;57 %;29.76 in
+22.03.2009;Galatasaray;Eskişehirspor;0;1;Süper Lig;Mostly Cloudy;NE;15 mph;46 °F;57 %;29.76 in
+04.04.2009;Sincan Bld Ankaraspor;Bursaspor;0;2;Süper Lig;Fair;NE;12 mph;48 °F;66 %;30.05 in
+04.04.2009;Konyaspor;Hacettepe;2;0;Süper Lig;Mostly Cloudy;NW;8 mph;48 °F;93 %;26.56 in
+04.04.2009;Denizlispor;Sivasspor;0;2;Süper Lig;Fair;NE;12 mph;48 °F;66 %;30.05 in
+04.04.2009;Beşiktaş;Kayserispor;1;0;Süper Lig;Fair;NE;12 mph;48 °F;66 %;30.05 in
+05.04.2009;Ankaragücü;Kocaelispor;4;0;Süper Lig;Fair;NNE;12 mph;46 °F;76 %;29.97 in
+05.04.2009;Antalyaspor;Gençlerbirliği;4;2;Süper Lig;Partly Cloudy;WNW;6 mph;63 °F;77 %;29.80 in
+05.04.2009;Trabzonspor;Başakşehir;0;0;Süper Lig;Mostly Cloudy;ESE;7 mph;48 °F;87 %;29.99 in
+05.04.2009;Fenerbahçe;Eskişehirspor;2;1;Süper Lig;Fair;NNE;12 mph;46 °F;76 %;29.97 in
+06.04.2009;Gaziantepspor;Galatasaray;0;1;Süper Lig;Partly Cloudy;N;15 mph;48 °F;71 %;29.88 in
+10.04.2009;Kocaelispor;Beşiktaş;1;3;Süper Lig;Fair;ENE;9 mph;55 °F;44 %;29.99 in
+11.04.2009;Bursaspor;Ankaragücü;2;0;Süper Lig;Fair;NE;8 mph;52 °F;54 %;29.94 in
+11.04.2009;Başakşehir;Gaziantepspor;1;1;Süper Lig;Fair;NE;8 mph;52 °F;54 %;29.94 in
+11.04.2009;Sivasspor;Antalyaspor;1;0;Süper Lig;Fair;WSW;15 mph;48 °F;71 %;29.88 in
+11.04.2009;Hacettepe;Trabzonspor;1;4;Süper Lig;Fair;NE;8 mph;52 °F;54 %;29.94 in
+12.04.2009;Eskişehirspor;Sincan Bld Ankaraspor;2;0;Süper Lig;Fair;NE;13 mph;50 °F;66 %;29.99 in
+12.04.2009;Gençlerbirliği;Konyaspor;1;0;Süper Lig;Fair;NE;13 mph;50 °F;66 %;29.99 in
+12.04.2009;Kayserispor;Denizlispor;2;0;Süper Lig;Fair;NE;3 mph;43 °F;61 %;26.46 in
+12.04.2009;Galatasaray;Fenerbahçe;0;0;Süper Lig;Fair;NE;13 mph;50 °F;66 %;29.99 in
+17.04.2009;Trabzonspor;Gençlerbirliği;2;0;Süper Lig;Mostly Cloudy;CALM;0 mph;50 °F;87 %;29.75 in
+18.04.2009;Konyaspor;Sivasspor;0;0;Süper Lig;Fair;SW;3 mph;39 °F;87 %;26.45 in
+18.04.2009;Sincan Bld Ankaraspor;Fenerbahçe;1;0;Süper Lig;Fair;E;6 mph;55 °F;58 %;29.91 in
+19.04.2009;Ankaragücü;Eskişehirspor;3;2;Süper Lig;Fair;SW;4 mph;61 °F;27 %;29.97 in
+19.04.2009;Antalyaspor;Kayserispor;2;1;Süper Lig;Fair;N;5 mph;52 °F;76 %;29.88 in
+19.04.2009;Denizlispor;Kocaelispor;2;1;Süper Lig;Fair;SW;1 mph;61 °F;27 %;29.97 in
+19.04.2009;Gaziantepspor;Hacettepe;0;0;Süper Lig;Fair;SW;2 mph;61 °F;27 %;29.97 in
+19.04.2009;Başakşehir;Galatasaray;0;1;Süper Lig;Fair;SW;1 mph;61 °F;27 %;29.97 in
+19.04.2009;Beşiktaş;Bursaspor;0;0;Süper Lig;Fair;SW;1 mph;61 °F;27 %;29.97 in
+25.04.2009;Hacettepe;Başakşehir;2;1;Süper Lig;Fair;VAR;8 mph;48 °F;62 %;29.99 in
+25.04.2009;Sivasspor;Trabzonspor;3;0;Süper Lig;Fair;WSW;5 mph;52 °F;76 %;29.88 in
+25.04.2009;Fenerbahçe;Ankaragücü;1;2;Süper Lig;Fair;VAR;8 mph;48 °F;62 %;29.99 in
+26.04.2009;Bursaspor;Denizlispor;2;0;Süper Lig;Partly Cloudy;ENE;12 mph;52 °F;58 %;30.08 in
+26.04.2009;Gençlerbirliği;Gaziantepspor;1;0;Süper Lig;Partly Cloudy;ENE;12 mph;52 °F;58 %;30.08 in
+26.04.2009;Kayserispor;Konyaspor;1;1;Süper Lig;Fair;N;5 mph;45 °F;76 %;26.44 in
+26.04.2009;Kocaelispor;Antalyaspor;1;0;Süper Lig;Partly Cloudy;ENE;12 mph;52 °F;58 %;30.08 in
+26.04.2009;Eskişehirspor;Beşiktaş;0;2;Süper Lig;Partly Cloudy;ENE;12 mph;52 °F;58 %;30.08 in
+26.04.2009;Galatasaray;Sincan Bld Ankaraspor;1;1;Süper Lig;Partly Cloudy;ENE;12 mph;52 °F;58 %;30.08 in
+01.05.2009;Hacettepe;Galatasaray;2;0;Süper Lig;Partly Cloudy;W;5 mph;55 °F;72 %;29.67 in
+02.05.2009;Trabzonspor;Kayserispor;4;1;Süper Lig;Partly Cloudy;VAR;2 mph;54 °F;88 %;29.67 in
+03.05.2009;Ankaragücü;Sincan Bld Ankaraspor;1;0;Süper Lig;Partly Cloudy;VAR;3 mph;55 °F;77 %;29.99 in
+03.05.2009;Antalyaspor;Bursaspor;2;3;Süper Lig;Partly Cloudy;N;5 mph;59 °F;82 %;29.91 in
+03.05.2009;Başakşehir;Gençlerbirliği;3;1;Süper Lig;Partly Cloudy;VAR;3 mph;55 °F;77 %;29.99 in
+03.05.2009;Denizlispor;Eskişehirspor;3;2;Süper Lig;Partly Cloudy;VAR;3 mph;55 °F;77 %;29.99 in
+03.05.2009;Gaziantepspor;Sivasspor;2;1;Süper Lig;Partly Cloudy;VAR;3 mph;55 °F;77 %;29.99 in
+03.05.2009;Konyaspor;Kocaelispor;2;0;Süper Lig;Fair;N;9 mph;46 °F;93 %;26.59 in
+03.05.2009;Beşiktaş;Fenerbahçe;1;2;Süper Lig;Partly Cloudy;VAR;3 mph;55 °F;77 %;29.99 in
+09.05.2009;Sincan Bld Ankaraspor;Beşiktaş;1;4;Süper Lig;Fair;ENE;6 mph;63 °F;30 %;30.05 in
+09.05.2009;Bursaspor;Konyaspor;3;0;Süper Lig;Fair;ENE;6 mph;63 °F;30 %;30.05 in
+09.05.2009;Eskişehirspor;Antalyaspor;2;0;Süper Lig;Fair;ENE;6 mph;63 °F;30 %;30.05 in
+09.05.2009;Fenerbahçe;Denizlispor;1;0;Süper Lig;Fair;ENE;6 mph;63 °F;30 %;30.05 in
+09.05.2009;Galatasaray;Ankaragücü;1;0;Süper Lig;Fair;ENE;6 mph;63 °F;30 %;30.05 in
+09.05.2009;Gençlerbirliği;Hacettepe;3;1;Süper Lig;Fair;ENE;6 mph;63 °F;30 %;30.05 in
+09.05.2009;Kocaelispor;Trabzonspor;1;3;Süper Lig;Fair;ENE;3 mph;63 °F;30 %;30.05 in
+09.05.2009;Sivasspor;Başakşehir;1;2;Süper Lig;Fair;WSW;4 mph;63 °F;30 %;30.05 in
+10.05.2009;Kayserispor;Gaziantepspor;3;0;Süper Lig;Fair;NE;3 mph;43 °F;93 %;26.57 in
+16.05.2009;Hacettepe;Sivasspor;1;2;Süper Lig;Fair;E;5 mph;70 °F;64 %;29.85 in
+17.05.2009;Ankaragücü;Beşiktaş;1;3;Süper Lig;Fair;VAR;1 mph;75 °F;50 %;29.88 in
+17.05.2009;Antalyaspor;Fenerbahçe;1;1;Süper Lig;Fair;N;3 mph;66 °F;83 %;29.77 in
+17.05.2009;Başakşehir;Kayserispor;1;0;Süper Lig;Fair;VAR;1 mph;75 °F;50 %;29.88 in
+17.05.2009;Denizlispor;Sincan Bld Ankaraspor;2;0;Süper Lig;Fair;VAR;1 mph;75 °F;50 %;29.88 in
+17.05.2009;Galatasaray;Gençlerbirliği;2;1;Süper Lig;Fair;VAR;1 mph;75 °F;50 %;29.88 in
+17.05.2009;Gaziantepspor;Kocaelispor;5;2;Süper Lig;Fair;VAR;1 mph;75 °F;50 %;29.88 in
+17.05.2009;Konyaspor;Eskişehirspor;1;2;Süper Lig;Fair;NW;9 mph;63 °F;52 %;26.59 in
+17.05.2009;Trabzonspor;Bursaspor;1;0;Süper Lig;Fair;VAR;2 mph;63 °F;72 %;29.93 in
+23.05.2009;Kayserispor;Hacettepe;1;0;Süper Lig;Fair;CALM;0 mph;48 °F;100 %;26.49 in
+24.05.2009;Ankaragücü;Denizlispor;3;0;Süper Lig;Partly Cloudy;SSE;1 mph;66 °F;68 %;29.85 in
+24.05.2009;Sincan Bld Ankaraspor;Antalyaspor;0;0;Süper Lig;Partly Cloudy;SSE;1 mph;66 °F;68 %;29.85 in
+24.05.2009;Beşiktaş;Galatasaray;2;1;Süper Lig;Partly Cloudy;SSE;1 mph;66 °F;68 %;29.85 in
+24.05.2009;Bursaspor;Gaziantepspor;2;2;Süper Lig;Partly Cloudy;SSE;2 mph;66 °F;68 %;29.85 in
+24.05.2009;Eskişehirspor;Trabzonspor;2;5;Süper Lig;Partly Cloudy;SSE;1 mph;66 °F;68 %;29.85 in
+24.05.2009;Fenerbahçe;Konyaspor;4;2;Süper Lig;Partly Cloudy;SSE;5 mph;66 °F;68 %;29.85 in
+24.05.2009;Kocaelispor;Başakşehir;2;3;Süper Lig;Partly Cloudy;SSE;1 mph;66 °F;68 %;29.85 in
+24.05.2009;Sivasspor;Gençlerbirliği;3;2;Süper Lig;Fair;WSW;7 mph;60 °F;68 %;29.85 in
+29.05.2009;Gaziantepspor;Eskişehirspor;1;1;Süper Lig;Fair;VAR;5 mph;64 °F;59 %;29.97 in
+29.05.2009;Hacettepe;Kocaelispor;0;4;Süper Lig;Fair;VAR;5 mph;64 °F;59 %;29.97 in
+30.05.2009;Antalyaspor;Ankaragücü;1;0;Süper Lig;Fair;VAR;2 mph;64 °F;68 %;29.82 in
+30.05.2009;Başakşehir;Bursaspor;0;1;Süper Lig;Partly Cloudy;ENE;8 mph;66 °F;43 %;29.97 in
+30.05.2009;Denizlispor;Beşiktaş;1;2;Süper Lig;Partly Cloudy;ENE;8 mph;66 °F;43 %;29.97 in
+30.05.2009;Galatasaray;Sivasspor;2;1;Süper Lig;Partly Cloudy;ENE;8 mph;66 °F;43 %;29.97 in
+30.05.2009;Gençlerbirliği;Kayserispor;0;4;Süper Lig;Partly Cloudy;ENE;8 mph;66 °F;43 %;29.97 in
+30.05.2009;Konyaspor;Sincan Bld Ankaraspor;3;0;Süper Lig;Fair;NNW;3 mph;59 °F;51 %;26.61 in
+30.05.2009;Trabzonspor;Fenerbahçe;1;2;Süper Lig;Fair;S;6 mph;59 °F;72 %;30.02 in

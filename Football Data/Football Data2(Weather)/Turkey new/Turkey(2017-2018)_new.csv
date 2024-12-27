@@ -1,0 +1,307 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+18.05.2018;Gençlerbirliği;Bursaspor;1;0;Süper Lig;Fair;SW;6 mph;73 °F;57 %;29.88 in
+18.05.2018;Akhisarspor;Sincan Bld Ankaraspor;2;1;Süper Lig;Fair;SW;6 mph;73 °F;57 %;29.88 in
+18.05.2018;Alanyaspor;Antalyaspor;3;2;Süper Lig;Fair;E;5 mph;64 °F;73 %;29.81 in
+18.05.2018;Trabzonspor;Karabükspor;3;0;Süper Lig;Fair;S;3 mph;64 °F;77 %;29.90 in
+18.05.2018;Yeni Malatyaspor;Kayserispor;3;2;Süper Lig;Fair;SW;6 mph;73 °F;57 %;29.88 in
+19.05.2018;Göztepe;Galatasaray;0;1;Süper Lig;Fair;VAR;2 mph;68 °F;64 %;29.53 in
+19.05.2018;Fenerbahçe;Konyaspor;3;2;Süper Lig;Fair;VAR;3 mph;73 °F;69 %;29.82 in
+19.05.2018;Başakşehir;Kasımpaşa;3;2;Süper Lig;Fair;VAR;3 mph;73 °F;69 %;29.82 in
+19.05.2018;Beşiktaş;Sivasspor;5;1;Süper Lig;Fair;VAR;3 mph;73 °F;69 %;29.82 in
+11.05.2018;Antalyaspor;Başakşehir;0;2;Süper Lig;Partly Cloudy;NW;12 mph;68 °F;52 %;29.56 in
+12.05.2018;Kasımpaşa;Gençlerbirliği;3;1;Süper Lig;Mostly Cloudy;NNE;14 mph;63 °F;88 %;29.76 in
+12.05.2018;Galatasaray;Yeni Malatyaspor;2;0;Süper Lig;Mostly Cloudy;NNE;14 mph;63 °F;88 %;29.76 in
+12.05.2018;Konyaspor;Göztepe;1;1;Süper Lig;Mostly Cloudy;N;7 mph;54 °F;88 %;26.35 in
+13.05.2018;Bursaspor;Trabzonspor;1;3;Süper Lig;Fair;NNE;9 mph;59 °F;63 %;29.85 in
+13.05.2018;Sincan Bld Ankaraspor;Beşiktaş;2;3;Süper Lig;Fair;NNE;9 mph;59 °F;63 %;29.85 in
+13.05.2018;Sivasspor;Alanyaspor;2;2;Süper Lig;Mostly Cloudy;NNW;8 mph;37 °F;100 %;25.58 in
+14.05.2018;Kayserispor;Akhisarspor;1;2;Süper Lig;Fair;VAR;2 mph;45 °F;87 %;26.38 in
+14.05.2018;Karabükspor;Fenerbahçe;0;7;Süper Lig;Fair;E;5 mph;63 °F;45 %;29.82 in
+04.05.2018;Başakşehir;Sivasspor;1;1;Süper Lig;Fair;N;13 mph;57 °F;82 %;29.79 in
+05.05.2018;Karabükspor;Konyaspor;0;1;Süper Lig;Fair;ENE;10 mph;59 °F;82 %;29.79 in
+05.05.2018;Alanyaspor;Sincan Bld Ankaraspor;1;1;Süper Lig;Thunder;NE;6 mph;75 °F;50 %;29.58 in
+05.05.2018;Trabzonspor;Kasımpaşa;2;5;Süper Lig;Mostly Cloudy;E;8 mph;64 °F;94 %;29.75 in
+06.05.2018;Fenerbahçe;Bursaspor;2;1;Süper Lig;Mostly Cloudy;NNE;10 mph;59 °F;88 %;29.73 in
+06.05.2018;Gençlerbirliği;Antalyaspor;0;1;Süper Lig;Mostly Cloudy;NNE;10 mph;59 °F;88 %;29.73 in
+06.05.2018;Akhisarspor;Galatasaray;1;2;Süper Lig;Mostly Cloudy;NNE;10 mph;59 °F;88 %;29.73 in
+07.05.2018;Beşiktaş;Kayserispor;2;0;Süper Lig;Mostly Cloudy;WNW;3 mph;61 °F;94 %;29.73 in
+07.05.2018;Göztepe;Yeni Malatyaspor;0;0;Süper Lig;Mostly Cloudy;VAR;1 mph;59 °F;82 %;29.45 in
+27.04.2018;Göztepe;Karabükspor;5;0;Süper Lig;Fair;VAR;2 mph;63 °F;63 %;29.45 in
+28.04.2018;Kayserispor;Alanyaspor;1;2;Süper Lig;Fair;VAR;1 mph;50 °F;58 %;26.41 in
+28.04.2018;Sivasspor;Gençlerbirliği;1;0;Süper Lig;Fair;NNE;16 mph;48 °F;34 %;25.75 in
+28.04.2018;Antalyaspor;Trabzonspor;1;2;Süper Lig;Partly Cloudy;NW;14 mph;73 °F;41 %;29.65 in
+28.04.2018;Kasımpaşa;Fenerbahçe;1;4;Süper Lig;Fair;NNE;9 mph;64 °F;56 %;29.94 in
+29.04.2018;Yeni Malatyaspor;Akhisarspor;0;0;Süper Lig;Fair;NNE;14 mph;59 °F;82 %;29.97 in
+29.04.2018;Sincan Bld Ankaraspor;Başakşehir;1;4;Süper Lig;Fair;NNE;14 mph;59 °F;82 %;29.97 in
+29.04.2018;Galatasaray;Beşiktaş;2;0;Süper Lig;Fair;NNE;14 mph;59 °F;82 %;29.97 in
+30.04.2018;Bursaspor;Konyaspor;2;1;Süper Lig;Fair;N;14 mph;59 °F;82 %;29.91 in
+20.04.2018;Başakşehir;Kayserispor;3;1;Süper Lig;Fair;ESE;7 mph;64 °F;45 %;29.94 in
+21.04.2018;Karabükspor;Bursaspor;1;4;Süper Lig;Fair;NNW;8 mph;50 °F;82 %;30.05 in
+21.04.2018;Gençlerbirliği;Sincan Bld Ankaraspor;0;3;Süper Lig;Fair;NNW;8 mph;50 °F;82 %;30.05 in
+21.04.2018;Trabzonspor;Sivasspor;0;2;Süper Lig;Light Rain Shower;WSW;9 mph;54 °F;82 %;29.84 in
+21.04.2018;Alanyaspor;Galatasaray;2;3;Süper Lig;Light Rain Shower;VAR;1 mph;63 °F;94 %;29.61 in
+22.04.2018;Akhisarspor;Göztepe;1;1;Süper Lig;Fair;VAR;3 mph;55 °F;58 %;29.99 in
+22.04.2018;Konyaspor;Kasımpaşa;2;0;Süper Lig;Fair;NNW;6 mph;37 °F;75 %;26.51 in
+22.04.2018;Beşiktaş;Yeni Malatyaspor;3;1;Süper Lig;Fair;VAR;3 mph;55 °F;58 %;29.99 in
+23.04.2018;Fenerbahçe;Antalyaspor;4;1;Süper Lig;Fair;VAR;1 mph;57 °F;48 %;29.91 in
+13.04.2018;Akhisarspor;Beşiktaş;0;3;Süper Lig;Fair;NNW;15 mph;55 °F;72 %;29.82 in
+14.04.2018;Kasımpaşa;Karabükspor;2;0;Süper Lig;Fair;N;17 mph;50 °F;87 %;29.94 in
+14.04.2018;Yeni Malatyaspor;Alanyaspor;1;1;Süper Lig;Fair;N;17 mph;50 °F;87 %;29.94 in
+14.04.2018;Sivasspor;Fenerbahçe;1;2;Süper Lig;Fair;VAR;1 mph;36 °F;81 %;25.78 in
+15.04.2018;Kayserispor;Gençlerbirliği;3;2;Süper Lig;Fair;E;2 mph;50 °F;58 %;26.57 in
+15.04.2018;Göztepe;Bursaspor;2;1;Süper Lig;Fair;VAR;1 mph;61 °F;82 %;29.65 in
+15.04.2018;Antalyaspor;Konyaspor;0;0;Süper Lig;Fair;VAR;2 mph;66 °F;88 %;29.77 in
+15.04.2018;Galatasaray;Başakşehir;2;0;Süper Lig;Mostly Cloudy;NNE;16 mph;52 °F;82 %;30.11 in
+16.04.2018;Sincan Bld Ankaraspor;Trabzonspor;3;3;Süper Lig;Fair;NE;16 mph;55 °F;31 %;30.08 in
+06.04.2018;Başakşehir;Yeni Malatyaspor;1;0;Süper Lig;Fair;S;3 mph;57 °F;55 %;29.76 in
+07.04.2018;Karabükspor;Antalyaspor;1;2;Süper Lig;Mostly Cloudy / Windy;N;23 mph;50 °F;87 %;29.76 in
+07.04.2018;Trabzonspor;Kayserispor;4;0;Süper Lig;Fair;SSW;2 mph;52 °F;76 %;29.78 in
+07.04.2018;Beşiktaş;Göztepe;5;1;Süper Lig;Mostly Cloudy / Windy;N;23 mph;50 °F;87 %;29.76 in
+08.04.2018;Konyaspor;Sivasspor;5;0;Süper Lig;Fair;W;5 mph;50 °F;50 %;26.48 in
+08.04.2018;Bursaspor;Kasımpaşa;0;1;Süper Lig;Mostly Cloudy;N;16 mph;52 °F;82 %;29.94 in
+08.04.2018;Alanyaspor;Akhisarspor;3;1;Süper Lig;Partly Cloudy;E;5 mph;54 °F;100 %;29.79 in
+08.04.2018;Fenerbahçe;Sincan Bld Ankaraspor;2;0;Süper Lig;Mostly Cloudy;N;16 mph;52 °F;82 %;29.94 in
+09.04.2018;Gençlerbirliği;Galatasaray;1;0;Süper Lig;Partly Cloudy;NE;9 mph;52 °F;82 %;29.97 in
+30.03.2018;Sivasspor;Karabükspor;1;0;Süper Lig;Mostly Cloudy;CALM;0 mph;36 °F;100 %;25.55 in
+31.03.2018;Yeni Malatyaspor;Gençlerbirliği;4;1;Süper Lig;Fair;ESE;5 mph;52 °F;58 %;30.02 in
+31.03.2018;Antalyaspor;Bursaspor;2;0;Süper Lig;Fair;NW;6 mph;54 °F;88 %;29.94 in
+31.03.2018;Beşiktaş;Alanyaspor;1;0;Süper Lig;Fair;ESE;5 mph;52 °F;58 %;30.02 in
+01.04.2018;Göztepe;Kasımpaşa;0;2;Süper Lig;Fair;SE;6 mph;52 °F;88 %;29.62 in
+01.04.2018;Sincan Bld Ankaraspor;Konyaspor;0;0;Süper Lig;Fair;S;5 mph;55 °F;72 %;29.82 in
+01.04.2018;Akhisarspor;Başakşehir;1;2;Süper Lig;Fair;S;5 mph;55 °F;72 %;29.82 in
+01.04.2018;Galatasaray;Trabzonspor;2;1;Süper Lig;Fair;S;5 mph;55 °F;72 %;29.82 in
+02.04.2018;Kayserispor;Fenerbahçe;0;5;Süper Lig;Fair;NE;3 mph;48 °F;71 %;26.36 in
+16.03.2018;Karabükspor;Sincan Bld Ankaraspor;0;4;Süper Lig;Fair;VAR;1 mph;48 °F;87 %;29.85 in
+16.03.2018;Kasımpaşa;Antalyaspor;2;3;Süper Lig;Fair;VAR;1 mph;48 °F;87 %;29.85 in
+17.03.2018;Gençlerbirliği;Akhisarspor;1;1;Süper Lig;Fair;S;10 mph;54 °F;77 %;29.76 in
+17.03.2018;Bursaspor;Sivasspor;1;0;Süper Lig;Fair;S;10 mph;54 °F;77 %;29.76 in
+17.03.2018;Fenerbahçe;Galatasaray;0;0;Süper Lig;Fair;S;10 mph;54 °F;77 %;29.76 in
+18.03.2018;Alanyaspor;Göztepe;1;1;Süper Lig;Partly Cloudy;VAR;2 mph;52 °F;100 %;29.93 in
+18.03.2018;Konyaspor;Kayserispor;2;0;Süper Lig;Fair;CALM;0 mph;45 °F;87 %;26.53 in
+18.03.2018;Trabzonspor;Yeni Malatyaspor;4;1;Süper Lig;Fair;SW;2 mph;55 °F;54 %;29.78 in
+18.03.2018;Başakşehir;Beşiktaş;1;0;Süper Lig;Fair;W;7 mph;61 °F;59 %;29.61 in
+09.03.2018;Alanyaspor;Başakşehir;4;1;Süper Lig;Partly Cloudy;N;6 mph;57 °F;88 %;29.61 in
+10.03.2018;Sivasspor;Kasımpaşa;2;2;Süper Lig;Partly Cloudy;ESE;5 mph;30 °F;80 %;25.68 in
+10.03.2018;Sincan Bld Ankaraspor;Bursaspor;2;1;Süper Lig;Fair;S;3 mph;48 °F;87 %;29.97 in
+10.03.2018;Beşiktaş;Gençlerbirliği;1;0;Süper Lig;Fair;S;3 mph;48 °F;87 %;29.97 in
+11.03.2018;Göztepe;Antalyaspor;2;1;Süper Lig;Fair;S;3 mph;48 °F;82 %;29.65 in
+11.03.2018;Kayserispor;Karabükspor;3;2;Süper Lig;Fair;NE;1 mph;37 °F;87 %;26.49 in
+11.03.2018;Yeni Malatyaspor;Fenerbahçe;0;2;Süper Lig;Fog;SW;3 mph;45 °F;93 %;29.94 in
+11.03.2018;Galatasaray;Konyaspor;2;1;Süper Lig;Fog;SW;3 mph;45 °F;93 %;29.94 in
+12.03.2018;Akhisarspor;Trabzonspor;1;3;Süper Lig;Mist;VAR;1 mph;50 °F;71 %;29.91 in
+02.03.2018;Bursaspor;Kayserispor;1;0;Süper Lig;Fair;ESE;5 mph;39 °F;65 %;29.97 in
+03.03.2018;Kasımpaşa;Sincan Bld Ankaraspor;1;1;Süper Lig;Light Rain Shower;WSW;6 mph;52 °F;82 %;29.58 in
+03.03.2018;Başakşehir;Göztepe;2;0;Süper Lig;Light Rain Shower;WSW;6 mph;52 °F;82 %;29.58 in
+03.03.2018;Karabükspor;Galatasaray;0;7;Süper Lig;Light Rain Shower;WSW;6 mph;52 °F;82 %;29.58 in
+04.03.2018;Gençlerbirliği;Alanyaspor;0;1;Süper Lig;Mostly Cloudy;W;5 mph;54 °F;72 %;29.55 in
+04.03.2018;Konyaspor;Yeni Malatyaspor;0;1;Süper Lig;Mostly Cloudy;S;6 mph;48 °F;62 %;26.35 in
+04.03.2018;Antalyaspor;Sivasspor;1;4;Süper Lig;Mostly Cloudy;NE;5 mph;57 °F;88 %;29.71 in
+04.03.2018;Fenerbahçe;Akhisarspor;2;3;Süper Lig;Mostly Cloudy;W;5 mph;54 °F;72 %;29.55 in
+05.03.2018;Trabzonspor;Beşiktaş;0;2;Süper Lig;Mostly Cloudy;SSE;3 mph;54 °F;82 %;29.52 in
+23.02.2018;Galatasaray;Bursaspor;5;0;Süper Lig;Mostly Cloudy;N;9 mph;50 °F;82 %;29.82 in
+23.02.2018;Akhisarspor;Konyaspor;3;0;Süper Lig;Mostly Cloudy;N;9 mph;50 °F;82 %;29.82 in
+24.02.2018;Kayserispor;Kasımpaşa;3;2;Süper Lig;Fair;VAR;2 mph;36 °F;70 %;26.28 in
+24.02.2018;Alanyaspor;Trabzonspor;1;2;Süper Lig;Fair;ESE;6 mph;46 °F;100 %;29.73 in
+25.02.2018;Sincan Bld Ankaraspor;Antalyaspor;0;0;Süper Lig;Light Rain Shower;NNE;14 mph;45 °F;81 %;29.64 in
+25.02.2018;Yeni Malatyaspor;Karabükspor;3;1;Süper Lig;Light Rain Shower;NNE;14 mph;45 °F;81 %;29.64 in
+25.02.2018;Göztepe;Sivasspor;1;0;Süper Lig;Mostly Cloudy;S;7 mph;45 °F;93 %;29.30 in
+25.02.2018;Beşiktaş;Fenerbahçe;3;1;Süper Lig;Light Rain Shower;NNE;14 mph;45 °F;81 %;29.64 in
+26.02.2018;Başakşehir;Gençlerbirliği;1;1;Süper Lig;Mostly Cloudy;NE;17 mph;41 °F;76 %;29.82 in
+16.02.2018;Konyaspor;Beşiktaş;1;1;Süper Lig;Mostly Cloudy;SSW;5 mph;41 °F;81 %;26.56 in
+17.02.2018;Antalyaspor;Kayserispor;2;1;Süper Lig;Partly Cloudy;NNW;12 mph;55 °F;72 %;29.77 in
+17.02.2018;Sivasspor;Sincan Bld Ankaraspor;3;2;Süper Lig;Fair;ESE;3 mph;28 °F;80 %;25.78 in
+17.02.2018;Fenerbahçe;Alanyaspor;3;0;Süper Lig;Mist;NNE;9 mph;46 °F;87 %;30.14 in
+18.02.2018;Karabükspor;Akhisarspor;0;3;Süper Lig;Partly Cloudy;NNE;14 mph;45 °F;71 %;30.14 in
+18.02.2018;Bursaspor;Yeni Malatyaspor;0;0;Süper Lig;Partly Cloudy;NNE;14 mph;45 °F;71 %;30.14 in
+18.02.2018;Trabzonspor;Başakşehir;0;1;Süper Lig;Mostly Cloudy;WNW;13 mph;50 °F;76 %;29.96 in
+18.02.2018;Kasımpaşa;Galatasaray;2;1;Süper Lig;Partly Cloudy;NNE;14 mph;45 °F;71 %;30.14 in
+19.02.2018;Gençlerbirliği;Göztepe;3;0;Süper Lig;Fair;ENE;9 mph;48 °F;66 %;29.97 in
+09.02.2018;Yeni Malatyaspor;Kasımpaşa;1;1;Süper Lig;Fair;SSW;5 mph;50 °F;87 %;29.85 in
+10.02.2018;Göztepe;Sincan Bld Ankaraspor;3;3;Süper Lig;Mostly Cloudy;CALM;0 mph;50 °F;82 %;29.50 in
+10.02.2018;Gençlerbirliği;Trabzonspor;0;0;Süper Lig;Fair;VAR;5 mph;52 °F;62 %;29.85 in
+10.02.2018;Beşiktaş;Karabükspor;5;0;Süper Lig;Fair;VAR;5 mph;52 °F;62 %;29.85 in
+11.02.2018;Kayserispor;Sivasspor;1;1;Süper Lig;Partly Cloudy;NNE;13 mph;45 °F;76 %;26.31 in
+11.02.2018;Akhisarspor;Bursaspor;1;0;Süper Lig;Mostly Cloudy;NNE;17 mph;48 °F;87 %;29.52 in
+11.02.2018;Alanyaspor;Konyaspor;1;2;Süper Lig;Mist;SE;6 mph;52 °F;100 %;29.64 in
+11.02.2018;Başakşehir;Fenerbahçe;0;2;Süper Lig;Mostly Cloudy;NNE;17 mph;48 °F;87 %;29.52 in
+12.02.2018;Galatasaray;Antalyaspor;3;0;Süper Lig;Light Rain Shower;NNW;12 mph;39 °F;87 %;29.73 in
+02.02.2018;Bursaspor;Beşiktaş;2;2;Süper Lig;Fair;SSW;18 mph;54 °F;77 %;29.99 in
+03.02.2018;Karabükspor;Alanyaspor;1;0;Süper Lig;Mostly Cloudy;SSW;16 mph;54 °F;77 %;29.97 in
+03.02.2018;Antalyaspor;Yeni Malatyaspor;3;1;Süper Lig;Mostly Cloudy;N;5 mph;54 °F;82 %;30.09 in
+03.02.2018;Fenerbahçe;Gençlerbirliği;2;2;Süper Lig;Mostly Cloudy;SSW;16 mph;54 °F;77 %;29.97 in
+04.02.2018;Sincan Bld Ankaraspor;Kayserispor;0;1;Süper Lig;Fair / Windy;SSW;21 mph;55 °F;72 %;29.79 in
+04.02.2018;Kasımpaşa;Akhisarspor;2;0;Süper Lig;Fair / Windy;SSW;21 mph;55 °F;72 %;29.79 in
+04.02.2018;Konyaspor;Başakşehir;1;1;Süper Lig;Mist;WSW;5 mph;37 °F;93 %;26.64 in
+04.02.2018;Sivasspor;Galatasaray;2;1;Süper Lig;Mostly Cloudy;SE;9 mph;27 °F;86 %;25.83 in
+05.02.2018;Trabzonspor;Göztepe;0;0;Süper Lig;Mostly Cloudy / Windy;SW;21 mph;73 °F;22 %;29.67 in
+26.01.2018;Beşiktaş;Kasımpaşa;2;1;Süper Lig;Light Rain Shower;NE;12 mph;37 °F;81 %;30.23 in
+26.01.2018;Gençlerbirliği;Konyaspor;2;1;Süper Lig;Light Rain Shower;NE;12 mph;37 °F;81 %;30.23 in
+27.01.2018;Alanyaspor;Bursaspor;3;1;Süper Lig;Fair;NE;8 mph;48 °F;54 %;29.90 in
+27.01.2018;Göztepe;Kayserispor;1;1;Süper Lig;Fair / Windy;N;23 mph;37 °F;52 %;29.82 in
+27.01.2018;Galatasaray;Sincan Bld Ankaraspor;2;0;Süper Lig;Partly Cloudy;N;9 mph;37 °F;60 %;30.32 in
+28.01.2018;Yeni Malatyaspor;Sivasspor;1;0;Süper Lig;Mostly Cloudy;ENE;7 mph;41 °F;65 %;30.41 in
+28.01.2018;Akhisarspor;Antalyaspor;1;1;Süper Lig;Mostly Cloudy;ENE;7 mph;41 °F;65 %;30.41 in
+28.01.2018;Trabzonspor;Fenerbahçe;1;1;Süper Lig;Light Rain;SW;13 mph;45 °F;81 %;30.31 in
+29.01.2018;Başakşehir;Karabükspor;5;0;Süper Lig;Fair;NNW;3 mph;37 °F;87 %;30.35 in
+19.01.2018;Kasımpaşa;Alanyaspor;3;2;Süper Lig;Fair;W;9 mph;39 °F;61 %;29.82 in
+20.01.2018;Karabükspor;Gençlerbirliği;0;2;Süper Lig;Fair;S;15 mph;46 °F;62 %;29.91 in
+20.01.2018;Sincan Bld Ankaraspor;Yeni Malatyaspor;0;0;Süper Lig;Fair;S;15 mph;46 °F;62 %;29.91 in
+20.01.2018;Fenerbahçe;Göztepe;2;1;Süper Lig;Fair;S;15 mph;46 °F;62 %;29.91 in
+21.01.2018;Konyaspor;Trabzonspor;2;2;Süper Lig;Fair;SSW;6 mph;32 °F;80 %;26.53 in
+21.01.2018;Sivasspor;Akhisarspor;1;1;Süper Lig;Fair;SSE;14 mph;21 °F;74 %;25.73 in
+21.01.2018;Bursaspor;Başakşehir;0;3;Süper Lig;Light Rain Shower;SSW;18 mph;54 °F;77 %;29.73 in
+21.01.2018;Antalyaspor;Beşiktaş;1;2;Süper Lig;Partly Cloudy;NNW;3 mph;48 °F;82 %;29.97 in
+22.01.2018;Kayserispor;Galatasaray;1;3;Süper Lig;Fair;CALM;0 mph;32 °F;93 %;26.31 in
+22.12.2017;Antalyaspor;Alanyaspor;3;1;Süper Lig;Partly Cloudy;N;3 mph;57 °F;82 %;29.97 in
+23.12.2017;Bursaspor;Gençlerbirliği;1;1;Süper Lig;Rain Shower;NNE;18 mph;41 °F;87 %;29.94 in
+23.12.2017;Sivasspor;Beşiktaş;2;1;Süper Lig;Mostly Cloudy;S;16 mph;43 °F;81 %;25.60 in
+23.12.2017;Konyaspor;Fenerbahçe;1;1;Süper Lig;Mostly Cloudy;WNW;3 mph;39 °F;93 %;26.38 in
+24.12.2017;Karabükspor;Trabzonspor;1;1;Süper Lig;Partly Cloudy;N;15 mph;39 °F;65 %;30.05 in
+24.12.2017;Kayserispor;Yeni Malatyaspor;0;1;Süper Lig;Light Rain;W;9 mph;43 °F;87 %;26.15 in
+24.12.2017;Kasımpaşa;Başakşehir;1;2;Süper Lig;Partly Cloudy;N;15 mph;39 °F;65 %;30.05 in
+24.12.2017;Galatasaray;Göztepe;3;1;Süper Lig;Partly Cloudy;N;15 mph;39 °F;65 %;30.05 in
+25.12.2017;Sincan Bld Ankaraspor;Akhisarspor;3;2;Süper Lig;Mostly Cloudy;W;6 mph;45 °F;66 %;30.17 in
+16.12.2017;Gençlerbirliği;Kasımpaşa;0;0;Süper Lig;Fair;S;13 mph;57 °F;72 %;29.85 in
+16.12.2017;Alanyaspor;Sivasspor;1;1;Süper Lig;Mostly Cloudy;E;3 mph;54 °F;94 %;30.05 in
+16.12.2017;Trabzonspor;Bursaspor;1;0;Süper Lig;Fair;VAR;2 mph;52 °F;58 %;29.96 in
+17.12.2017;Başakşehir;Antalyaspor;4;1;Süper Lig;Light Rain Shower;S;12 mph;57 °F;82 %;29.82 in
+17.12.2017;Akhisarspor;Kayserispor;0;2;Süper Lig;Light Rain Shower;S;12 mph;57 °F;82 %;29.82 in
+17.12.2017;Yeni Malatyaspor;Galatasaray;2;1;Süper Lig;Light Rain Shower;S;12 mph;57 °F;82 %;29.82 in
+17.12.2017;Beşiktaş;Sincan Bld Ankaraspor;5;1;Süper Lig;Light Rain Shower;S;12 mph;57 °F;82 %;29.82 in
+18.12.2017;Göztepe;Konyaspor;1;0;Süper Lig;Mostly Cloudy;S;13 mph;61 °F;77 %;29.56 in
+18.12.2017;Fenerbahçe;Karabükspor;2;0;Süper Lig;Light Rain Shower;NNW;10 mph;48 °F;87 %;29.82 in
+08.12.2017;Bursaspor;Fenerbahçe;0;1;Süper Lig;Fair;SSW;13 mph;52 °F;71 %;30.20 in
+09.12.2017;Yeni Malatyaspor;Göztepe;2;3;Süper Lig;Fair;SSW;14 mph;54 °F;67 %;30.05 in
+09.12.2017;Kasımpaşa;Trabzonspor;0;3;Süper Lig;Fair;SSW;14 mph;54 °F;67 %;30.05 in
+09.12.2017;Antalyaspor;Gençlerbirliği;1;1;Süper Lig;Fair;N;8 mph;41 °F;81 %;30.12 in
+09.12.2017;Galatasaray;Akhisarspor;4;2;Süper Lig;Fair;SSW;14 mph;54 °F;67 %;30.05 in
+10.12.2017;Sincan Bld Ankaraspor;Alanyaspor;3;0;Süper Lig;Fair / Windy;SSW;23 mph;57 °F;67 %;29.82 in
+10.12.2017;Sivasspor;Başakşehir;1;0;Süper Lig;Fair;SSE;9 mph;23 °F;86 %;25.85 in
+10.12.2017;Kayserispor;Beşiktaş;1;1;Süper Lig;Fair;CALM;0 mph;27 °F;93 %;26.62 in
+11.12.2017;Konyaspor;Karabükspor;2;0;Süper Lig;Partly Cloudy;VAR;3 mph;36 °F;93 %;26.69 in
+02.12.2017;Akhisarspor;Yeni Malatyaspor;0;0;Süper Lig;Fair;SSE;9 mph;64 °F;59 %;29.94 in
+02.12.2017;Karabükspor;Göztepe;0;1;Süper Lig;Fair;SSE;9 mph;64 °F;59 %;29.94 in
+02.12.2017;Beşiktaş;Galatasaray;3;0;Süper Lig;Fair;SSE;9 mph;64 °F;59 %;29.94 in
+03.12.2017;Konyaspor;Bursaspor;0;3;Süper Lig;Fair;VAR;1 mph;39 °F;93 %;26.77 in
+03.12.2017;Gençlerbirliği;Sivasspor;4;0;Süper Lig;Fair;VAR;2 mph;61 °F;63 %;29.99 in
+03.12.2017;Başakşehir;Sincan Bld Ankaraspor;1;0;Süper Lig;Fair;VAR;2 mph;61 °F;63 %;29.99 in
+03.12.2017;Fenerbahçe;Kasımpaşa;4;2;Süper Lig;Fair;VAR;2 mph;61 °F;63 %;29.99 in
+04.12.2017;Trabzonspor;Antalyaspor;3;0;Süper Lig;Fair;VAR;2 mph;59 °F;48 %;30.02 in
+04.12.2017;Alanyaspor;Kayserispor;1;2;Süper Lig;Fair;ESE;5 mph;48 °F;100 %;30.14 in
+24.11.2017;Sincan Bld Ankaraspor;Gençlerbirliği;2;0;Süper Lig;Fair;VAR;2 mph;54 °F;77 %;30.08 in
+25.11.2017;Göztepe;Akhisarspor;2;0;Süper Lig;Fair;CALM;0 mph;41 °F;87 %;29.77 in
+25.11.2017;Yeni Malatyaspor;Beşiktaş;0;0;Süper Lig;Mist;NNW;3 mph;50 °F;82 %;30.11 in
+25.11.2017;Galatasaray;Alanyaspor;2;0;Süper Lig;Mist;NNW;3 mph;50 °F;82 %;30.11 in
+26.11.2017;Bursaspor;Karabükspor;2;1;Süper Lig;Mist;NNW;3 mph;48 °F;87 %;30.05 in
+26.11.2017;Sivasspor;Trabzonspor;1;2;Süper Lig;Fair;ESE;10 mph;19 °F;86 %;25.88 in
+26.11.2017;Kasımpaşa;Konyaspor;2;1;Süper Lig;Mist;NNW;3 mph;48 °F;87 %;30.05 in
+26.11.2017;Antalyaspor;Fenerbahçe;0;1;Süper Lig;Light Rain Shower;NW;8 mph;55 °F;94 %;30.00 in
+27.11.2017;Kayserispor;Başakşehir;1;1;Süper Lig;Fair;VAR;1 mph;32 °F;87 %;26.62 in
+17.11.2017;Beşiktaş;Akhisarspor;0;0;Süper Lig;Mostly Cloudy;NNE;10 mph;57 °F;82 %;30.05 in
+18.11.2017;Bursaspor;Göztepe;0;0;Süper Lig;Fair;NNE;7 mph;57 °F;82 %;29.91 in
+18.11.2017;Konyaspor;Antalyaspor;1;1;Süper Lig;Fair;WSW;2 mph;41 °F;81 %;26.59 in
+18.11.2017;Başakşehir;Galatasaray;5;1;Süper Lig;Fair;NNE;7 mph;57 °F;82 %;29.91 in
+19.11.2017;Gençlerbirliği;Kayserispor;1;2;Süper Lig;Fair;NE;9 mph;59 °F;82 %;29.82 in
+19.11.2017;Alanyaspor;Yeni Malatyaspor;1;0;Süper Lig;Fair;ESE;6 mph;52 °F;88 %;29.79 in
+19.11.2017;Trabzonspor;Sincan Bld Ankaraspor;4;3;Süper Lig;Fair;S;5 mph;55 °F;63 %;29.81 in
+19.11.2017;Fenerbahçe;Sivasspor;4;1;Süper Lig;Fair;NE;9 mph;59 °F;82 %;29.82 in
+20.11.2017;Karabükspor;Kasımpaşa;0;2;Süper Lig;Light Rain Shower;NNW;12 mph;54 °F;88 %;29.67 in
+03.11.2017;Galatasaray;Gençlerbirliği;5;1;Süper Lig;Fair;CALM;0 mph;48 °F;62 %;29.99 in
+04.11.2017;Kayserispor;Trabzonspor;0;0;Süper Lig;Fair;NE;5 mph;32 °F;69 %;26.49 in
+04.11.2017;Kasımpaşa;Bursaspor;2;2;Süper Lig;Mostly Cloudy;NW;6 mph;59 °F;77 %;29.94 in
+04.11.2017;Antalyaspor;Karabükspor;2;1;Süper Lig;Mostly Cloudy;N;7 mph;55 °F;77 %;29.80 in
+04.11.2017;Sincan Bld Ankaraspor;Fenerbahçe;1;1;Süper Lig;Mostly Cloudy;NW;6 mph;59 °F;77 %;29.94 in
+05.11.2017;Akhisarspor;Alanyaspor;0;4;Süper Lig;Mostly Cloudy;N;12 mph;55 °F;82 %;30.05 in
+05.11.2017;Yeni Malatyaspor;Başakşehir;0;2;Süper Lig;Mostly Cloudy;N;12 mph;55 °F;82 %;30.05 in
+05.11.2017;Göztepe;Beşiktaş;1;3;Süper Lig;Fair;NNE;10 mph;55 °F;63 %;29.59 in
+05.11.2017;Sivasspor;Konyaspor;2;1;Süper Lig;Mostly Cloudy;E;13 mph;37 °F;93 %;25.78 in
+27.10.2017;Kasımpaşa;Göztepe;3;1;Süper Lig;Fair;NNW;8 mph;52 °F;88 %;30.14 in
+28.10.2017;Gençlerbirliği;Yeni Malatyaspor;0;1;Süper Lig;Fair;SW;8 mph;61 °F;77 %;29.76 in
+28.10.2017;Başakşehir;Akhisarspor;2;1;Süper Lig;Fair;SW;8 mph;61 °F;77 %;29.76 in
+28.10.2017;Alanyaspor;Beşiktaş;1;2;Süper Lig;Fair;NE;3 mph;59 °F;94 %;29.76 in
+29.10.2017;Karabükspor;Sivasspor;0;1;Süper Lig;Light Rain Shower / Windy;NNW;22 mph;52 °F;88 %;29.64 in
+29.10.2017;Konyaspor;Sincan Bld Ankaraspor;1;0;Süper Lig;Partly Cloudy;W;1 mph;45 °F;81 %;26.38 in
+29.10.2017;Bursaspor;Antalyaspor;4;0;Süper Lig;Light Rain Shower / Windy;NNW;22 mph;52 °F;88 %;29.64 in
+29.10.2017;Trabzonspor;Galatasaray;2;1;Süper Lig;Mostly Cloudy;VAR;2 mph;66 °F;52 %;29.58 in
+30.10.2017;Fenerbahçe;Kayserispor;3;3;Süper Lig;Mostly Cloudy / Windy;SW;23 mph;59 °F;63 %;29.52 in
+20.10.2017;Göztepe;Alanyaspor;3;3;Süper Lig;Fair;NW;2 mph;55 °F;77 %;29.68 in
+20.10.2017;Antalyaspor;Kasımpaşa;2;1;Süper Lig;Fair;N;6 mph;61 °F;59 %;29.82 in
+21.10.2017;Sincan Bld Ankaraspor;Karabükspor;3;0;Süper Lig;Patches of Fog;SW;3 mph;63 °F;94 %;29.97 in
+21.10.2017;Akhisarspor;Gençlerbirliği;3;3;Süper Lig;Patches of Fog;SW;3 mph;63 °F;94 %;29.97 in
+21.10.2017;Yeni Malatyaspor;Trabzonspor;1;0;Süper Lig;Patches of Fog;SW;3 mph;63 °F;94 %;29.97 in
+22.10.2017;Sivasspor;Bursaspor;0;0;Süper Lig;Fair;SE;2 mph;36 °F;65 %;25.75 in
+22.10.2017;Kayserispor;Konyaspor;2;1;Süper Lig;Fair;NE;5 mph;41 °F;45 %;26.49 in
+22.10.2017;Galatasaray;Fenerbahçe;0;0;Süper Lig;Mist;S;5 mph;63 °F;94 %;29.88 in
+23.10.2017;Beşiktaş;Başakşehir;1;1;Süper Lig;Fair;ENE;9 mph;63 °F;72 %;29.88 in
+13.10.2017;Gençlerbirliği;Beşiktaş;2;1;Süper Lig;Fair;VAR;2 mph;57 °F;63 %;30.11 in
+14.10.2017;Karabükspor;Kayserispor;1;0;Süper Lig;Fair;CALM;0 mph;61 °F;68 %;30.02 in
+14.10.2017;Antalyaspor;Göztepe;1;3;Süper Lig;Fair;NNW;6 mph;61 °F;48 %;29.82 in
+14.10.2017;Başakşehir;Alanyaspor;2;1;Süper Lig;Fair;CALM;0 mph;61 °F;68 %;30.02 in
+14.10.2017;Konyaspor;Galatasaray;0;2;Süper Lig;Fair;WNW;7 mph;46 °F;46 %;26.64 in
+15.10.2017;Kasımpaşa;Sivasspor;2;3;Süper Lig;Fair;N;7 mph;54 °F;88 %;30.20 in
+15.10.2017;Trabzonspor;Akhisarspor;1;6;Süper Lig;Mostly Cloudy;W;14 mph;63 °F;52 %;30.02 in
+15.10.2017;Fenerbahçe;Yeni Malatyaspor;3;1;Süper Lig;Fair;N;7 mph;54 °F;88 %;30.20 in
+16.10.2017;Bursaspor;Sincan Bld Ankaraspor;3;1;Süper Lig;Fair;VAR;2 mph;61 °F;68 %;30.20 in
+29.09.2017;Akhisarspor;Fenerbahçe;1;0;Süper Lig;Mostly Cloudy;NE;13 mph;64 °F;59 %;30.11 in
+30.09.2017;Sivasspor;Antalyaspor;3;1;Süper Lig;Fair;CALM;0 mph;41 °F;81 %;25.78 in
+30.09.2017;Sincan Bld Ankaraspor;Kasımpaşa;3;0;Süper Lig;Mostly Cloudy;NE;9 mph;64 °F;64 %;29.99 in
+30.09.2017;Kayserispor;Bursaspor;3;1;Süper Lig;Fair;CALM;0 mph;52 °F;54 %;26.46 in
+30.09.2017;Galatasaray;Karabükspor;3;2;Süper Lig;Mostly Cloudy;NE;9 mph;64 °F;64 %;29.99 in
+01.10.2017;Yeni Malatyaspor;Konyaspor;1;1;Süper Lig;Mostly Cloudy;NNE;17 mph;61 °F;88 %;29.97 in
+01.10.2017;Alanyaspor;Gençlerbirliği;4;1;Süper Lig;Partly Cloudy;ESE;3 mph;66 °F;94 %;29.84 in
+01.10.2017;Göztepe;Başakşehir;1;2;Süper Lig;Partly Cloudy;N;10 mph;68 °F;64 %;29.56 in
+01.10.2017;Beşiktaş;Trabzonspor;2;2;Süper Lig;Mostly Cloudy;NNE;17 mph;61 °F;88 %;29.97 in
+22.09.2017;Trabzonspor;Alanyaspor;3;4;Süper Lig;Partly Cloudy;S;5 mph;73 °F;83 %;29.64 in
+23.09.2017;Konyaspor;Akhisarspor;2;0;Süper Lig;Partly Cloudy;N;5 mph;63 °F;32 %;26.53 in
+23.09.2017;Gençlerbirliği;Başakşehir;1;0;Süper Lig;Mostly Cloudy;NW;13 mph;66 °F;56 %;29.94 in
+23.09.2017;Fenerbahçe;Beşiktaş;2;1;Süper Lig;Mostly Cloudy;NW;13 mph;66 °F;56 %;29.94 in
+24.09.2017;Sivasspor;Göztepe;2;3;Süper Lig;Fair;CALM;0 mph;45 °F;100 %;25.88 in
+24.09.2017;Karabükspor;Yeni Malatyaspor;2;4;Süper Lig;Fair;ESE;5 mph;68 °F;56 %;30.02 in
+24.09.2017;Kasımpaşa;Kayserispor;1;1;Süper Lig;Fair;ESE;5 mph;68 °F;56 %;30.02 in
+24.09.2017;Bursaspor;Galatasaray;1;2;Süper Lig;Fair;ESE;5 mph;68 °F;56 %;30.02 in
+25.09.2017;Antalyaspor;Sincan Bld Ankaraspor;3;0;Süper Lig;Fair;N;7 mph;72 °F;78 %;29.77 in
+15.09.2017;Kayserispor;Antalyaspor;2;0;Süper Lig;Fair;NNE;5 mph;68 °F;35 %;26.41 in
+16.09.2017;Yeni Malatyaspor;Bursaspor;2;4;Süper Lig;Fair;NE;8 mph;75 °F;78 %;29.82 in
+16.09.2017;Akhisarspor;Karabükspor;2;1;Süper Lig;Fair;NE;8 mph;75 °F;78 %;29.82 in
+16.09.2017;Galatasaray;Kasımpaşa;2;0;Süper Lig;Fair;NE;8 mph;75 °F;78 %;29.82 in
+17.09.2017;Sincan Bld Ankaraspor;Sivasspor;2;4;Süper Lig;Fair;NNW;8 mph;72 °F;88 %;29.88 in
+17.09.2017;Başakşehir;Trabzonspor;2;2;Süper Lig;Fair;NNW;8 mph;72 °F;88 %;29.88 in
+17.09.2017;Alanyaspor;Fenerbahçe;1;4;Süper Lig;Fair;E;3 mph;72 °F;94 %;29.73 in
+17.09.2017;Göztepe;Gençlerbirliği;3;2;Süper Lig;Fair;E;5 mph;73 °F;78 %;29.53 in
+18.09.2017;Beşiktaş;Konyaspor;2;0;Süper Lig;Fair;W;3 mph;72 °F;88 %;29.79 in
+09.09.2017;Sivasspor;Kayserispor;0;2;Süper Lig;Fair;VAR;2 mph;57 °F;38 %;25.85 in
+09.09.2017;Karabükspor;Beşiktaş;0;1;Süper Lig;Fair;N;7 mph;72 °F;57 %;29.85 in
+09.09.2017;Fenerbahçe;Başakşehir;2;3;Süper Lig;Fair;N;7 mph;72 °F;57 %;29.85 in
+09.09.2017;Konyaspor;Alanyaspor;0;2;Süper Lig;Fair;SW;5 mph;61 °F;36 %;26.56 in
+10.09.2017;Sincan Bld Ankaraspor;Göztepe;0;2;Süper Lig;Partly Cloudy;VAR;3 mph;77 °F;69 %;29.79 in
+10.09.2017;Trabzonspor;Gençlerbirliği;3;1;Süper Lig;Mostly Cloudy;S;2 mph;73 °F;78 %;29.81 in
+10.09.2017;Antalyaspor;Galatasaray;1;1;Süper Lig;Fair;NE;3 mph;72 °F;78 %;29.68 in
+10.09.2017;Bursaspor;Akhisarspor;3;0;Süper Lig;Partly Cloudy;VAR;3 mph;77 °F;69 %;29.79 in
+11.09.2017;Kasımpaşa;Yeni Malatyaspor;3;2;Süper Lig;Fair;N;6 mph;73 °F;57 %;29.79 in
+25.08.2017;Alanyaspor;Karabükspor;1;1;Süper Lig;Fair;VAR;2 mph;73 °F;83 %;29.67 in
+25.08.2017;Galatasaray;Sivasspor;3;0;Süper Lig;Fair;NE;10 mph;73 °F;61 %;30.02 in
+26.08.2017;Yeni Malatyaspor;Antalyaspor;1;1;Süper Lig;Fair;NE;9 mph;72 °F;60 %;30.02 in
+26.08.2017;Beşiktaş;Bursaspor;2;1;Süper Lig;Fair;NE;9 mph;72 °F;60 %;30.02 in
+26.08.2017;Göztepe;Trabzonspor;3;2;Süper Lig;Fair;N;16 mph;77 °F;50 %;29.53 in
+26.08.2017;Kayserispor;Sincan Bld Ankaraspor;2;2;Süper Lig;Fair;E;5 mph;63 °F;63 %;26.54 in
+27.08.2017;Başakşehir;Konyaspor;2;1;Süper Lig;Fair;NNE;8 mph;73 °F;53 %;29.94 in
+27.08.2017;Akhisarspor;Kasımpaşa;2;1;Süper Lig;Fair;NNE;8 mph;73 °F;53 %;29.94 in
+27.08.2017;Gençlerbirliği;Fenerbahçe;1;2;Süper Lig;Fair;NNE;8 mph;73 °F;53 %;29.94 in
+18.08.2017;Kasımpaşa;Beşiktaş;2;2;Süper Lig;Fair;NNW;8 mph;75 °F;89 %;29.79 in
+19.08.2017;Karabükspor;Başakşehir;3;1;Süper Lig;Fair;NNE;7 mph;77 °F;78 %;29.85 in
+19.08.2017;Bursaspor;Alanyaspor;3;2;Süper Lig;Fair;NNE;7 mph;77 °F;78 %;29.85 in
+19.08.2017;Sincan Bld Ankaraspor;Galatasaray;1;3;Süper Lig;Fair;NNE;7 mph;77 °F;78 %;29.85 in
+19.08.2017;Sivasspor;Yeni Malatyaspor;2;0;Süper Lig;Partly Cloudy;NNW;1 mph;57 °F;88 %;25.75 in
+20.08.2017;Kayserispor;Göztepe;1;0;Süper Lig;Fair;CALM;0 mph;68 °F;68 %;26.44 in
+20.08.2017;Fenerbahçe;Trabzonspor;2;2;Süper Lig;Fair;NNE;7 mph;77 °F;78 %;29.85 in
+20.08.2017;Antalyaspor;Akhisarspor;2;2;Süper Lig;Fair;ENE;5 mph;81 °F;74 %;29.68 in
+21.08.2017;Konyaspor;Gençlerbirliği;3;0;Süper Lig;Fair;N;7 mph;70 °F;60 %;26.40 in
+11.08.2017;Başakşehir;Bursaspor;1;0;Süper Lig;Fair;NE;10 mph;79 °F;74 %;29.82 in
+12.08.2017;Akhisarspor;Sivasspor;1;0;Süper Lig;Fair;NNE;10 mph;79 °F;83 %;29.79 in
+12.08.2017;Gençlerbirliği;Karabükspor;1;1;Süper Lig;Fair;NNE;10 mph;79 °F;83 %;29.79 in
+12.08.2017;Alanyaspor;Kasımpaşa;1;3;Süper Lig;Mostly Cloudy;SSE;3 mph;81 °F;89 %;29.58 in
+12.08.2017;Göztepe;Fenerbahçe;2;2;Süper Lig;Fair;N;15 mph;86 °F;48 %;29.36 in
+13.08.2017;Yeni Malatyaspor;Sincan Bld Ankaraspor;3;1;Süper Lig;Fair;NE;7 mph;79 °F;69 %;29.61 in
+13.08.2017;Trabzonspor;Konyaspor;2;1;Süper Lig;Mostly Cloudy;SSW;2 mph;81 °F;79 %;29.58 in
+13.08.2017;Beşiktaş;Antalyaspor;2;0;Süper Lig;Fair;NE;7 mph;79 °F;69 %;29.61 in
+14.08.2017;Galatasaray;Kayserispor;4;1;Süper Lig;Fair;NNW;7 mph;77 °F;69 %;29.67 in

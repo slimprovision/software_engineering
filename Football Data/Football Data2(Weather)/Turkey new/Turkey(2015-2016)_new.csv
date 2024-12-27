@@ -1,0 +1,307 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+18.05.2016;Konyaspor;Beşiktaş;2;1;Süper Lig;Fair;NW;16 mph;61 °F;52 %;26.40 in
+18.05.2016;Mersin İ.Y.;Bursaspor;2;5;Süper Lig;Fair;ENE;12 mph;59 °F;72 %;29.91 in
+18.05.2016;Başakşehir;Ç. Rizespor;1;0;Süper Lig;Fair;ENE;12 mph;59 °F;72 %;29.91 in
+19.05.2016;Sivasspor;Fenerbahçe;2;2;Süper Lig;Mostly Cloudy;VAR;2 mph;45 °F;93 %;25.63 in
+19.05.2016;Trabzonspor;Kasımpaşa;0;6;Süper Lig;Mostly Cloudy;SW;7 mph;61 °F;82 %;29.75 in
+19.05.2016;Gençlerbirliği;Eskişehirspor;3;1;Süper Lig;Fair;ESE;5 mph;61 °F;59 %;29.91 in
+19.05.2016;Sincan Bld Ankaraspor;Akhisarspor;1;0;Süper Lig;Fair;ESE;5 mph;61 °F;59 %;29.91 in
+19.05.2016;Gaziantepspor;Antalyaspor;2;0;Süper Lig;Fair;ESE;5 mph;61 °F;59 %;29.91 in
+19.05.2016;Galatasaray;Kayserispor;6;0;Süper Lig;Fair;ESE;5 mph;61 °F;59 %;29.91 in
+13.05.2016;Antalyaspor;Trabzonspor;7;0;Süper Lig;Mostly Cloudy;VAR;2 mph;66 °F;94 %;29.71 in
+14.05.2016;Bursaspor;Konyaspor;1;1;Süper Lig;Fair;SSW;5 mph;66 °F;78 %;29.61 in
+14.05.2016;Ç. Rizespor;Gaziantepspor;1;0;Süper Lig;Light Rain with Thunder;SSW;9 mph;70 °F;78 %;29.55 in
+14.05.2016;Kayserispor;Sivasspor;1;1;Süper Lig;Partly Cloudy;NW;3 mph;61 °F;77 %;26.36 in
+14.05.2016;Eskişehirspor;Başakşehir;1;2;Süper Lig;Fair;SSW;5 mph;66 °F;78 %;29.61 in
+15.05.2016;Akhisarspor;Galatasaray;1;2;Süper Lig;Fair / Windy;SW;21 mph;68 °F;73 %;29.67 in
+15.05.2016;Fenerbahçe;Gençlerbirliği;2;1;Süper Lig;Fair / Windy;SW;21 mph;68 °F;73 %;29.67 in
+15.05.2016;Kasımpaşa;Mersin İ.Y.;7;0;Süper Lig;Fair / Windy;SW;21 mph;68 °F;73 %;29.67 in
+15.05.2016;Beşiktaş;Sincan Bld Ankaraspor;3;1;Süper Lig;Fair / Windy;SW;21 mph;68 °F;73 %;29.67 in
+07.05.2016;Sivasspor;Gençlerbirliği;2;1;Süper Lig;Light Rain;CALM;0 mph;39 °F;93 %;25.60 in
+07.05.2016;Gaziantepspor;Eskişehirspor;1;1;Süper Lig;Fair;NNE;7 mph;55 °F;82 %;29.88 in
+07.05.2016;Sincan Bld Ankaraspor;Bursaspor;3;3;Süper Lig;Fair;NNE;7 mph;55 °F;82 %;29.88 in
+08.05.2016;Akhisarspor;Kayserispor;1;1;Süper Lig;Fair;ENE;7 mph;61 °F;52 %;29.91 in
+08.05.2016;Trabzonspor;Ç. Rizespor;6;0;Süper Lig;Mostly Cloudy;E;2 mph;55 °F;94 %;29.96 in
+08.05.2016;Mersin İ.Y.;Antalyaspor;0;1;Süper Lig;Fair;ENE;7 mph;61 °F;52 %;29.91 in
+08.05.2016;Galatasaray;Beşiktaş;0;1;Süper Lig;Fair;ENE;7 mph;61 °F;52 %;29.91 in
+09.05.2016;Başakşehir;Fenerbahçe;2;1;Süper Lig;Fair;N;14 mph;57 °F;82 %;29.99 in
+09.05.2016;Konyaspor;Kasımpaşa;2;0;Süper Lig;Fair;NW;7 mph;54 °F;51 %;26.61 in
+29.04.2016;Ç. Rizespor;Mersin İ.Y.;2;0;Süper Lig;Mostly Cloudy;CALM;0 mph;55 °F;88 %;29.99 in
+29.04.2016;Bursaspor;Galatasaray;1;1;Süper Lig;Fair;E;5 mph;61 °F;48 %;29.97 in
+30.04.2016;Gençlerbirliği;Başakşehir;0;0;Süper Lig;Fair;ENE;9 mph;61 °F;48 %;29.94 in
+30.04.2016;Eskişehirspor;Trabzonspor;1;0;Süper Lig;Fair;ENE;9 mph;61 °F;48 %;29.94 in
+30.04.2016;Beşiktaş;Kayserispor;4;0;Süper Lig;Fair;ENE;9 mph;61 °F;48 %;29.94 in
+01.05.2016;Sivasspor;Akhisarspor;1;1;Süper Lig;Fair;SE;8 mph;36 °F;93 %;25.73 in
+01.05.2016;Fenerbahçe;Gaziantepspor;3;0;Süper Lig;Fair;NNE;12 mph;55 °F;77 %;29.97 in
+01.05.2016;Antalyaspor;Konyaspor;1;0;Süper Lig;Fair;N;6 mph;63 °F;72 %;29.68 in
+02.05.2016;Kasımpaşa;Sincan Bld Ankaraspor;1;1;Süper Lig;Partly Cloudy;NE;14 mph;57 °F;77 %;29.91 in
+22.04.2016;Kayserispor;Bursaspor;2;1;Süper Lig;Fair;NE;7 mph;36 °F;75 %;26.70 in
+23.04.2016;Sincan Bld Ankaraspor;Antalyaspor;3;0;Süper Lig;Fair;VAR;5 mph;59 °F;59 %;29.85 in
+23.04.2016;Başakşehir;Sivasspor;2;2;Süper Lig;Fair;VAR;5 mph;59 °F;59 %;29.85 in
+23.04.2016;Akhisarspor;Beşiktaş;3;3;Süper Lig;Fair;VAR;5 mph;59 °F;59 %;29.85 in
+24.04.2016;Konyaspor;Ç. Rizespor;3;1;Süper Lig;Fair;CALM;0 mph;55 °F;31 %;26.35 in
+24.04.2016;Mersin İ.Y.;Eskişehirspor;1;2;Süper Lig;Fair;E;3 mph;63 °F;48 %;29.61 in
+24.04.2016;Galatasaray;Kasımpaşa;4;1;Süper Lig;Fair;E;3 mph;63 °F;48 %;29.61 in
+24.04.2016;Trabzonspor;Fenerbahçe;0;4;Süper Lig;Fair;SSW;3 mph;61 °F;52 %;29.61 in
+25.04.2016;Gaziantepspor;Gençlerbirliği;1;3;Süper Lig;Mostly Cloudy;W;10 mph;57 °F;77 %;29.41 in
+16.04.2016;Eskişehirspor;Konyaspor;1;2;Süper Lig;Fair;E;7 mph;63 °F;59 %;29.94 in
+16.04.2016;Ç. Rizespor;Sincan Bld Ankaraspor;0;1;Süper Lig;Mostly Cloudy;S;5 mph;57 °F;82 %;29.90 in
+16.04.2016;Antalyaspor;Galatasaray;4;2;Süper Lig;Partly Cloudy;NNW;5 mph;61 °F;94 %;29.85 in
+16.04.2016;Sivasspor;Beşiktaş;1;2;Süper Lig;Fair;CALM;0 mph;36 °F;93 %;25.80 in
+17.04.2016;Kasımpaşa;Kayserispor;1;2;Süper Lig;Fair;S;5 mph;61 °F;48 %;29.97 in
+17.04.2016;Başakşehir;Gaziantepspor;4;1;Süper Lig;Fair;S;5 mph;61 °F;48 %;29.97 in
+17.04.2016;Bursaspor;Akhisarspor;0;2;Süper Lig;Fair;S;5 mph;61 °F;48 %;29.97 in
+17.04.2016;Fenerbahçe;Mersin İ.Y.;4;1;Süper Lig;Fair;S;5 mph;61 °F;48 %;29.97 in
+18.04.2016;Gençlerbirliği;Trabzonspor;3;1;Süper Lig;Fair;VAR;2 mph;64 °F;56 %;30.02 in
+08.04.2016;Gaziantepspor;Sivasspor;0;1;Süper Lig;Fair;N;7 mph;64 °F;37 %;29.76 in
+09.04.2016;Sincan Bld Ankaraspor;Eskişehirspor;0;0;Süper Lig;Fair;S;3 mph;64 °F;59 %;29.58 in
+09.04.2016;Galatasaray;Ç. Rizespor;1;1;Süper Lig;Fair;S;3 mph;64 °F;59 %;29.58 in
+09.04.2016;Konyaspor;Fenerbahçe;2;1;Süper Lig;Fair;SSW;9 mph;64 °F;21 %;26.43 in
+10.04.2016;Mersin İ.Y.;Gençlerbirliği;1;3;Süper Lig;Mostly Cloudy;WSW;7 mph;63 °F;72 %;29.52 in
+10.04.2016;Kayserispor;Antalyaspor;0;0;Süper Lig;Light Rain Shower;SW;17 mph;55 °F;72 %;26.33 in
+10.04.2016;Trabzonspor;Başakşehir;1;1;Süper Lig;Fair;SSW;12 mph;82 °F;23 %;29.49 in
+11.04.2016;Akhisarspor;Kasımpaşa;0;1;Süper Lig;Mostly Cloudy;SE;5 mph;59 °F;77 %;29.58 in
+11.04.2016;Beşiktaş;Bursaspor;3;2;Süper Lig;Mostly Cloudy;SE;5 mph;59 °F;77 %;29.58 in
+02.04.2016;Gençlerbirliği;Konyaspor;0;1;Süper Lig;Fair;SW;9 mph;55 °F;82 %;29.94 in
+02.04.2016;Gaziantepspor;Trabzonspor;0;1;Süper Lig;Fair;SW;9 mph;55 °F;82 %;29.94 in
+02.04.2016;Eskişehirspor;Galatasaray;4;3;Süper Lig;Fair;SW;9 mph;55 °F;82 %;29.94 in
+03.04.2016;Sivasspor;Bursaspor;1;2;Süper Lig;Partly Cloudy;NNW;10 mph;34 °F;93 %;25.78 in
+03.04.2016;Başakşehir;Mersin İ.Y.;3;0;Süper Lig;Partly Cloudy;ENE;13 mph;50 °F;71 %;30.17 in
+03.04.2016;Antalyaspor;Akhisarspor;2;2;Süper Lig;Fair;VAR;2 mph;57 °F;82 %;29.85 in
+03.04.2016;Fenerbahçe;Sincan Bld Ankaraspor;0;0;Süper Lig;Partly Cloudy;ENE;13 mph;50 °F;71 %;30.17 in
+04.04.2016;Ç. Rizespor;Kayserispor;0;0;Süper Lig;Partly Cloudy;SW;5 mph;45 °F;81 %;30.16 in
+04.04.2016;Kasımpaşa;Beşiktaş;2;1;Süper Lig;Fair;NE;10 mph;52 °F;41 %;30.08 in
+18.03.2016;Kayserispor;Eskişehirspor;0;0;Süper Lig;Fair;NE;2 mph;25 °F;80 %;26.54 in
+18.03.2016;Akhisarspor;Ç. Rizespor;1;1;Süper Lig;Fair;NW;2 mph;37 °F;81 %;30.14 in
+19.03.2016;Sincan Bld Ankaraspor;Gençlerbirliği;3;1;Süper Lig;Fair;SW;9 mph;50 °F;82 %;29.82 in
+19.03.2016;Trabzonspor;Sivasspor;1;0;Süper Lig;Partly Cloudy;VAR;2 mph;45 °F;61 %;29.81 in
+19.03.2016;Beşiktaş;Antalyaspor;1;0;Süper Lig;Fair;SW;9 mph;50 °F;82 %;29.82 in
+20.03.2016;Konyaspor;Başakşehir;1;1;Süper Lig;Partly Cloudy;N;5 mph;36 °F;93 %;26.35 in
+20.03.2016;Mersin İ.Y.;Gaziantepspor;0;0;Süper Lig;Mostly Cloudy;NE;9 mph;46 °F;76 %;29.91 in
+20.03.2016;Bursaspor;Kasımpaşa;4;1;Süper Lig;Mostly Cloudy;NE;9 mph;46 °F;76 %;29.91 in
+13.04.2016;Galatasaray;Fenerbahçe;0;0;Süper Lig;Fair;ESE;5 mph;59 °F;72 %;29.85 in
+11.03.2016;Trabzonspor;Mersin İ.Y.;1;0;Süper Lig;Mostly Cloudy;W;7 mph;57 °F;77 %;29.75 in
+12.03.2016;Gaziantepspor;Konyaspor;0;1;Süper Lig;Fair;W;5 mph;54 °F;72 %;29.97 in
+12.03.2016;Başakşehir;Sincan Bld Ankaraspor;2;3;Süper Lig;Fair;W;5 mph;54 °F;72 %;29.97 in
+12.03.2016;Ç. Rizespor;Beşiktaş;1;2;Süper Lig;Mostly Cloudy;NW;5 mph;54 °F;88 %;29.96 in
+13.03.2016;Eskişehirspor;Akhisarspor;3;3;Süper Lig;Mostly Cloudy;NNE;15 mph;48 °F;87 %;29.99 in
+13.03.2016;Gençlerbirliği;Galatasaray;1;1;Süper Lig;Mostly Cloudy;NNE;15 mph;48 °F;87 %;29.99 in
+13.03.2016;Fenerbahçe;Kayserispor;1;0;Süper Lig;Mostly Cloudy;NNE;15 mph;48 °F;87 %;29.99 in
+14.03.2016;Sivasspor;Kasımpaşa;1;0;Süper Lig;Partly Cloudy;SSE;14 mph;43 °F;61 %;25.55 in
+14.03.2016;Antalyaspor;Bursaspor;3;0;Süper Lig;Mostly Cloudy;NNE;3 mph;57 °F;72 %;29.44 in
+04.03.2016;Mersin İ.Y.;Sivasspor;1;0;Süper Lig;Fair;SSE;6 mph;52 °F;82 %;29.49 in
+05.03.2016;Kayserispor;Gençlerbirliği;0;2;Süper Lig;Mostly Cloudy;N;9 mph;43 °F;81 %;26.25 in
+05.03.2016;Bursaspor;Ç. Rizespor;1;0;Süper Lig;Light Rain Shower;NW;3 mph;48 °F;87 %;29.55 in
+05.03.2016;Sincan Bld Ankaraspor;Gaziantepspor;1;1;Süper Lig;Light Rain Shower;NW;3 mph;48 °F;87 %;29.55 in
+06.03.2016;Kasımpaşa;Antalyaspor;2;1;Süper Lig;Fair;ESE;6 mph;48 °F;87 %;29.88 in
+06.03.2016;Galatasaray;Başakşehir;3;3;Süper Lig;Fair;ESE;6 mph;48 °F;87 %;29.88 in
+06.03.2016;Akhisarspor;Fenerbahçe;0;3;Süper Lig;Fair;ESE;6 mph;48 °F;87 %;29.88 in
+06.03.2016;Konyaspor;Trabzonspor;2;0;Süper Lig;Fair;SW;6 mph;39 °F;70 %;26.53 in
+07.03.2016;Beşiktaş;Eskişehirspor;3;1;Süper Lig;Fair;S;8 mph;52 °F;71 %;29.85 in
+26.02.2016;Başakşehir;Kayserispor;1;0;Süper Lig;Mostly Cloudy;VAR;2 mph;48 °F;87 %;29.94 in
+27.02.2016;Ç. Rizespor;Kasımpaşa;2;0;Süper Lig;Fog;E;5 mph;43 °F;100 %;29.87 in
+27.02.2016;Mersin İ.Y.;Konyaspor;0;2;Süper Lig;Mostly Cloudy;NNW;9 mph;54 °F;82 %;29.79 in
+27.02.2016;Eskişehirspor;Bursaspor;0;1;Süper Lig;Mostly Cloudy;NNW;9 mph;54 °F;82 %;29.79 in
+27.02.2016;Trabzonspor;Sincan Bld Ankaraspor;1;2;Süper Lig;Fog;E;5 mph;43 °F;100 %;29.87 in
+28.02.2016;Sivasspor;Antalyaspor;0;0;Süper Lig;Mostly Cloudy;S;5 mph;34 °F;100 %;25.88 in
+28.02.2016;Gençlerbirliği;Akhisarspor;3;1;Süper Lig;Mostly Cloudy;N;13 mph;48 °F;87 %;30.08 in
+28.02.2016;Gaziantepspor;Galatasaray;2;0;Süper Lig;Mostly Cloudy;N;13 mph;48 °F;87 %;30.08 in
+29.02.2016;Fenerbahçe;Beşiktaş;2;0;Süper Lig;Mist;NW;9 mph;45 °F;93 %;30.20 in
+19.02.2016;Konyaspor;Sivasspor;2;1;Süper Lig;Fair;VAR;2 mph;46 °F;71 %;26.53 in
+20.02.2016;Kasımpaşa;Eskişehirspor;2;1;Süper Lig;Mostly Cloudy;NNW;8 mph;46 °F;81 %;30.05 in
+20.02.2016;Antalyaspor;Ç. Rizespor;2;1;Süper Lig;Fair;W;6 mph;63 °F;52 %;29.74 in
+20.02.2016;Bursaspor;Fenerbahçe;0;0;Süper Lig;Mostly Cloudy;NNW;8 mph;46 °F;81 %;30.05 in
+21.02.2016;Kayserispor;Gaziantepspor;2;2;Süper Lig;Partly Cloudy;NNE;7 mph;37 °F;87 %;26.36 in
+21.02.2016;Sincan Bld Ankaraspor;Mersin İ.Y.;3;1;Süper Lig;Light Rain Shower;N;13 mph;46 °F;81 %;29.94 in
+21.02.2016;Akhisarspor;Başakşehir;0;0;Süper Lig;Light Rain Shower;N;13 mph;46 °F;81 %;29.94 in
+21.02.2016;Galatasaray;Trabzonspor;2;1;Süper Lig;Light Rain Shower;N;13 mph;46 °F;81 %;29.94 in
+22.02.2016;Beşiktaş;Gençlerbirliği;1;0;Süper Lig;Fair;SSE;6 mph;43 °F;81 %;30.02 in
+12.02.2016;Fenerbahçe;Kasımpaşa;3;1;Süper Lig;Mostly Cloudy;E;10 mph;50 °F;87 %;29.82 in
+13.02.2016;Gençlerbirliği;Bursaspor;2;0;Süper Lig;Mostly Cloudy;S;5 mph;55 °F;77 %;29.79 in
+13.02.2016;Konyaspor;Sincan Bld Ankaraspor;1;1;Süper Lig;Mostly Cloudy;S;10 mph;45 °F;76 %;26.61 in
+13.02.2016;Mersin İ.Y.;Galatasaray;2;1;Süper Lig;Mostly Cloudy;S;5 mph;55 °F;77 %;29.79 in
+14.02.2016;Gaziantepspor;Akhisarspor;0;1;Süper Lig;Mostly Cloudy;SW;15 mph;55 °F;77 %;29.61 in
+14.02.2016;Sivasspor;Ç. Rizespor;2;1;Süper Lig;Mostly Cloudy;S;7 mph;36 °F;93 %;25.73 in
+14.02.2016;Eskişehirspor;Antalyaspor;3;2;Süper Lig;Mostly Cloudy;SW;15 mph;55 °F;77 %;29.61 in
+14.02.2016;Başakşehir;Beşiktaş;2;2;Süper Lig;Mostly Cloudy;SW;15 mph;55 °F;77 %;29.61 in
+15.02.2016;Trabzonspor;Kayserispor;2;1;Süper Lig;Partly Cloudy;ESE;2 mph;57 °F;59 %;29.93 in
+05.02.2016;Sincan Bld Ankaraspor;Sivasspor;4;0;Süper Lig;Mostly Cloudy;W;9 mph;54 °F;72 %;29.79 in
+05.02.2016;Antalyaspor;Fenerbahçe;4;2;Süper Lig;Mostly Cloudy;N;6 mph;50 °F;87 %;29.91 in
+06.02.2016;Kayserispor;Mersin İ.Y.;0;1;Süper Lig;Mostly Cloudy / Windy;SE;28 mph;46 °F;50 %;26.23 in
+06.02.2016;Bursaspor;Başakşehir;3;3;Süper Lig;Light Rain Shower / Windy;N;28 mph;39 °F;87 %;29.91 in
+06.02.2016;Galatasaray;Konyaspor;0;0;Süper Lig;Light Rain Shower / Windy;N;28 mph;39 °F;87 %;29.91 in
+07.02.2016;Ç. Rizespor;Eskişehirspor;1;1;Süper Lig;Light Rain Shower;SSE;6 mph;45 °F;81 %;29.90 in
+07.02.2016;Akhisarspor;Trabzonspor;2;1;Süper Lig;Fair;N;15 mph;37 °F;56 %;30.29 in
+07.02.2016;Beşiktaş;Gaziantepspor;4;0;Süper Lig;Fair;N;15 mph;37 °F;56 %;30.29 in
+08.02.2016;Kasımpaşa;Gençlerbirliği;0;1;Süper Lig;Fair;ENE;7 mph;39 °F;65 %;30.26 in
+23.01.2016;Konyaspor;Kayserispor;1;0;Süper Lig;Mostly Cloudy;NNW;13 mph;28 °F;80 %;26.61 in
+23.01.2016;Mersin İ.Y.;Akhisarspor;0;0;Süper Lig;Mostly Cloudy;N;16 mph;36 °F;56 %;30.38 in
+23.01.2016;Sincan Bld Ankaraspor;Galatasaray;3;2;Süper Lig;Mostly Cloudy;N;16 mph;36 °F;56 %;30.38 in
+24.01.2016;Gençlerbirliği;Antalyaspor;1;0;Süper Lig;Light Snow Shower;ENE;6 mph;30 °F;93 %;30.38 in
+24.01.2016;Sivasspor;Eskişehirspor;1;2;Süper Lig;Blowing Snow / Windy;NNE;23 mph;16 °F;86 %;25.60 in
+24.01.2016;Fenerbahçe;Ç. Rizespor;2;1;Süper Lig;Light Snow Shower;ENE;6 mph;30 °F;93 %;30.38 in
+24.01.2016;Gaziantepspor;Bursaspor;2;3;Süper Lig;Light Snow Shower;ENE;6 mph;30 °F;93 %;30.38 in
+25.01.2016;Başakşehir;Kasımpaşa;1;1;Süper Lig;Mostly Cloudy;N;9 mph;32 °F;55 %;30.41 in
+15.03.2016;Trabzonspor;Beşiktaş;0;2;Süper Lig;Light Rain Shower;WSW;10 mph;46 °F;81 %;29.64 in
+16.01.2016;Kasımpaşa;Gaziantepspor;1;2;Süper Lig;Partly Cloudy;SSW;10 mph;52 °F;67 %;29.79 in
+16.01.2016;Kayserispor;Sincan Bld Ankaraspor;1;0;Süper Lig;Fair;CALM;0 mph;25 °F;86 %;26.54 in
+16.01.2016;Akhisarspor;Konyaspor;0;2;Süper Lig;Partly Cloudy;SSW;10 mph;52 °F;67 %;29.79 in
+16.01.2016;Galatasaray;Sivasspor;3;1;Süper Lig;Partly Cloudy;SSW;10 mph;52 °F;67 %;29.79 in
+17.01.2016;Antalyaspor;Başakşehir;1;2;Süper Lig;Mostly Cloudy;SE;17 mph;59 °F;67 %;29.80 in
+17.01.2016;Ç. Rizespor;Gençlerbirliği;2;3;Süper Lig;Fair;CALM;0 mph;52 °F;38 %;29.81 in
+17.01.2016;Bursaspor;Trabzonspor;4;2;Süper Lig;Mostly Cloudy;S;13 mph;57 °F;59 %;29.55 in
+18.01.2016;Eskişehirspor;Fenerbahçe;0;3;Süper Lig;Light Snow Shower / Windy;NNW;23 mph;34 °F;93 %;29.46 in
+17.02.2016;Beşiktaş;Mersin İ.Y.;1;0;Süper Lig;Fair;VAR;2 mph;55 °F;67 %;30.29 in
+26.12.2015;Ç. Rizespor;Başakşehir;2;1;Süper Lig;Partly Cloudy;SSW;5 mph;50 °F;76 %;30.22 in
+26.12.2015;Antalyaspor;Gaziantepspor;0;0;Süper Lig;Fair;N;5 mph;45 °F;81 %;30.09 in
+26.12.2015;Kasımpaşa;Trabzonspor;1;1;Süper Lig;Mostly Cloudy;NNE;5 mph;50 °F;82 %;30.38 in
+27.12.2015;Bursaspor;Mersin İ.Y.;2;1;Süper Lig;Mist;N;3 mph;45 °F;81 %;30.41 in
+27.12.2015;Kayserispor;Galatasaray;1;1;Süper Lig;Mist;CALM;0 mph;21 °F;93 %;26.83 in
+27.12.2015;Akhisarspor;Sincan Bld Ankaraspor;0;0;Süper Lig;Mist;N;3 mph;45 °F;81 %;30.41 in
+27.12.2015;Beşiktaş;Konyaspor;4;0;Süper Lig;Mist;N;3 mph;45 °F;81 %;30.41 in
+28.12.2015;Eskişehirspor;Gençlerbirliği;2;0;Süper Lig;Mist;VAR;2 mph;48 °F;87 %;30.38 in
+28.12.2015;Fenerbahçe;Sivasspor;2;1;Süper Lig;Mist;VAR;2 mph;48 °F;87 %;30.38 in
+19.12.2015;Gaziantepspor;Ç. Rizespor;2;0;Süper Lig;Fair;NNE;7 mph;45 °F;81 %;30.20 in
+19.12.2015;Konyaspor;Bursaspor;1;0;Süper Lig;Mostly Cloudy;VAR;2 mph;34 °F;81 %;26.72 in
+19.12.2015;Trabzonspor;Antalyaspor;3;0;Süper Lig;Fair;S;8 mph;45 °F;57 %;30.19 in
+19.12.2015;Mersin İ.Y.;Kasımpaşa;1;2;Süper Lig;Fair;NNE;7 mph;45 °F;81 %;30.20 in
+20.12.2015;Sivasspor;Kayserispor;0;0;Süper Lig;Fair;ESE;8 mph;21 °F;93 %;25.90 in
+20.12.2015;Galatasaray;Akhisarspor;3;2;Süper Lig;Fair;NE;8 mph;46 °F;76 %;30.26 in
+20.12.2015;Gençlerbirliği;Fenerbahçe;0;1;Süper Lig;Fair;NE;8 mph;46 °F;76 %;30.26 in
+20.12.2015;Başakşehir;Eskişehirspor;2;1;Süper Lig;Fair;NE;8 mph;46 °F;76 %;30.26 in
+21.12.2015;Sincan Bld Ankaraspor;Beşiktaş;2;3;Süper Lig;Fair;VAR;5 mph;45 °F;81 %;30.41 in
+11.12.2015;Bursaspor;Sincan Bld Ankaraspor;0;4;Süper Lig;Mostly Cloudy;NNE;18 mph;48 °F;62 %;30.26 in
+12.12.2015;Kasımpaşa;Konyaspor;2;1;Süper Lig;Mostly Cloudy;NNE;13 mph;46 °F;76 %;30.17 in
+12.12.2015;Eskişehirspor;Gaziantepspor;1;2;Süper Lig;Mostly Cloudy;NNE;13 mph;46 °F;76 %;30.17 in
+12.12.2015;Ç. Rizespor;Trabzonspor;3;0;Süper Lig;Mostly Cloudy;SW;12 mph;48 °F;66 %;30.08 in
+12.12.2015;Antalyaspor;Mersin İ.Y.;3;2;Süper Lig;Mostly Cloudy;WNW;8 mph;54 °F;77 %;29.88 in
+13.12.2015;Kayserispor;Akhisarspor;3;2;Süper Lig;Fair;N;1 mph;21 °F;93 %;26.51 in
+13.12.2015;Gençlerbirliği;Sivasspor;0;1;Süper Lig;Partly Cloudy;N;7 mph;43 °F;76 %;30.17 in
+13.12.2015;Fenerbahçe;Başakşehir;1;0;Süper Lig;Partly Cloudy;N;7 mph;43 °F;76 %;30.17 in
+14.12.2015;Beşiktaş;Galatasaray;2;1;Süper Lig;Fair;NNW;5 mph;45 °F;76 %;30.11 in
+04.12.2015;Galatasaray;Bursaspor;3;0;Süper Lig;Fair;E;5 mph;46 °F;57 %;30.44 in
+05.12.2015;Sincan Bld Ankaraspor;Kasımpaşa;0;1;Süper Lig;Fair;NE;6 mph;46 °F;57 %;30.50 in
+05.12.2015;Konyaspor;Antalyaspor;3;2;Süper Lig;Partly Cloudy;N;10 mph;30 °F;80 %;26.92 in
+05.12.2015;Kayserispor;Beşiktaş;1;2;Süper Lig;Fair;CALM;0 mph;18 °F;93 %;26.85 in
+06.12.2015;Başakşehir;Gençlerbirliği;2;0;Süper Lig;Mist;NNW;7 mph;41 °F;76 %;30.47 in
+06.12.2015;Gaziantepspor;Fenerbahçe;2;2;Süper Lig;Mist;NNW;7 mph;41 °F;76 %;30.47 in
+06.12.2015;Mersin İ.Y.;Ç. Rizespor;3;0;Süper Lig;Mist;NNW;7 mph;41 °F;76 %;30.47 in
+07.12.2015;Akhisarspor;Sivasspor;1;0;Süper Lig;Mist;NNW;5 mph;43 °F;81 %;30.44 in
+07.12.2015;Trabzonspor;Eskişehirspor;3;1;Süper Lig;Mostly Cloudy;SSW;14 mph;46 °F;53 %;30.43 in
+27.11.2015;Antalyaspor;Sincan Bld Ankaraspor;1;1;Süper Lig;Mostly Cloudy;ESE;7 mph;64 °F;77 %;29.68 in
+27.11.2015;Ç. Rizespor;Konyaspor;0;0;Süper Lig;Mostly Cloudy;SSW;6 mph;72 °F;29 %;29.75 in
+27.11.2015;Bursaspor;Kayserispor;1;2;Süper Lig;Mostly Cloudy;E;5 mph;61 °F;77 %;29.67 in
+28.11.2015;Sivasspor;Başakşehir;2;2;Süper Lig;Mostly Cloudy;SSE;14 mph;43 °F;87 %;25.80 in
+28.11.2015;Eskişehirspor;Mersin İ.Y.;3;2;Süper Lig;Mostly Cloudy;ESE;6 mph;61 °F;77 %;29.73 in
+29.11.2015;Gençlerbirliği;Gaziantepspor;2;2;Süper Lig;Mostly Cloudy;SW;20 mph;57 °F;77 %;29.76 in
+29.11.2015;Beşiktaş;Akhisarspor;0;2;Süper Lig;Mostly Cloudy;SW;20 mph;57 °F;77 %;29.76 in
+29.11.2015;Kasımpaşa;Galatasaray;2;2;Süper Lig;Mostly Cloudy;SW;20 mph;57 °F;77 %;29.76 in
+30.11.2015;Fenerbahçe;Trabzonspor;2;0;Süper Lig;Partly Cloudy;NNW;9 mph;48 °F;66 %;30.02 in
+21.11.2015;Akhisarspor;Bursaspor;3;1;Süper Lig;Fair / Windy;SSW;23 mph;63 °F;59 %;29.73 in
+21.11.2015;Mersin İ.Y.;Fenerbahçe;1;3;Süper Lig;Fair / Windy;SSW;23 mph;63 °F;59 %;29.73 in
+21.11.2015;Kayserispor;Kasımpaşa;0;0;Süper Lig;Fair;NE;3 mph;28 °F;86 %;26.57 in
+21.11.2015;Galatasaray;Antalyaspor;3;3;Süper Lig;Fair / Windy;SSW;23 mph;63 °F;59 %;29.73 in
+22.11.2015;Konyaspor;Eskişehirspor;3;2;Süper Lig;Fair;VAR;2 mph;36 °F;81 %;26.56 in
+22.11.2015;Sincan Bld Ankaraspor;Ç. Rizespor;0;1;Süper Lig;Fair / Windy;SSW;25 mph;64 °F;64 %;29.61 in
+22.11.2015;Trabzonspor;Gençlerbirliği;1;0;Süper Lig;Fair / Windy;SSW;25 mph;72 °F;15 %;29.75 in
+22.11.2015;Beşiktaş;Sivasspor;2;0;Süper Lig;Fair / Windy;SSW;25 mph;64 °F;64 %;29.61 in
+23.11.2015;Gaziantepspor;Başakşehir;0;1;Süper Lig;Fair;S;12 mph;64 °F;64 %;29.82 in
+06.11.2015;Eskişehirspor;Sincan Bld Ankaraspor;0;2;Süper Lig;Fair;VAR;5 mph;55 °F;77 %;30.02 in
+06.11.2015;Gençlerbirliği;Mersin İ.Y.;1;1;Süper Lig;Fair;VAR;5 mph;55 °F;77 %;30.02 in
+07.11.2015;Antalyaspor;Kayserispor;1;1;Süper Lig;Fair;N;7 mph;55 °F;72 %;29.85 in
+07.11.2015;Başakşehir;Trabzonspor;1;0;Süper Lig;Mostly Cloudy;NNE;13 mph;59 °F;77 %;30.11 in
+07.11.2015;Kasımpaşa;Akhisarspor;2;1;Süper Lig;Mostly Cloudy;NNE;13 mph;59 °F;77 %;30.11 in
+07.11.2015;Ç. Rizespor;Galatasaray;4;3;Süper Lig;Mostly Cloudy;SW;3 mph;55 °F;82 %;30.08 in
+08.11.2015;Sivasspor;Gaziantepspor;3;0;Süper Lig;Fog;VAR;1 mph;30 °F;0 %;25.85 in
+08.11.2015;Fenerbahçe;Konyaspor;1;0;Süper Lig;Fair;N;12 mph;54 °F;88 %;30.17 in
+08.11.2015;Bursaspor;Beşiktaş;0;1;Süper Lig;Fair;N;12 mph;54 °F;88 %;30.17 in
+28.10.2015;Kayserispor;Ç. Rizespor;0;0;Süper Lig;Mostly Cloudy;N;7 mph;46 °F;66 %;26.51 in
+28.10.2015;Bursaspor;Sivasspor;1;0;Süper Lig;Mostly Cloudy;N;10 mph;55 °F;63 %;30.14 in
+28.10.2015;Trabzonspor;Gaziantepspor;2;2;Süper Lig;Mostly Cloudy;SSW;13 mph;57 °F;72 %;30.02 in
+29.10.2015;Mersin İ.Y.;Başakşehir;1;1;Süper Lig;Fair;NNE;9 mph;55 °F;67 %;30.08 in
+29.10.2015;Sincan Bld Ankaraspor;Fenerbahçe;0;1;Süper Lig;Fair;NNE;9 mph;55 °F;67 %;30.08 in
+29.10.2015;Galatasaray;Eskişehirspor;4;0;Süper Lig;Fair;NNE;9 mph;55 °F;67 %;30.08 in
+30.10.2015;Konyaspor;Gençlerbirliği;0;0;Süper Lig;Mostly Cloudy;NNW;13 mph;46 °F;71 %;26.61 in
+30.10.2015;Akhisarspor;Antalyaspor;2;1;Süper Lig;Fair;NE;8 mph;57 °F;77 %;30.05 in
+30.10.2015;Beşiktaş;Kasımpaşa;3;3;Süper Lig;Fair;NE;8 mph;57 °F;77 %;30.05 in
+23.10.2015;Ç. Rizespor;Akhisarspor;0;2;Süper Lig;Mostly Cloudy;S;3 mph;64 °F;88 %;29.72 in
+23.10.2015;Eskişehirspor;Kayserispor;1;3;Süper Lig;Mostly Cloudy;ENE;7 mph;64 °F;88 %;29.58 in
+24.10.2015;Kasımpaşa;Bursaspor;0;1;Süper Lig;Light Rain Shower / Windy;N;23 mph;57 °F;82 %;29.79 in
+24.10.2015;Gençlerbirliği;Sincan Bld Ankaraspor;1;0;Süper Lig;Light Rain Shower / Windy;N;23 mph;57 °F;82 %;29.79 in
+24.10.2015;Gaziantepspor;Mersin İ.Y.;1;0;Süper Lig;Light Rain Shower / Windy;N;23 mph;57 °F;82 %;29.79 in
+24.10.2015;Sivasspor;Trabzonspor;0;2;Süper Lig;Light Rain Shower;S;12 mph;52 °F;88 %;25.83 in
+25.10.2015;Başakşehir;Konyaspor;4;0;Süper Lig;Mostly Cloudy;NE;10 mph;57 °F;67 %;30.05 in
+25.10.2015;Fenerbahçe;Galatasaray;1;1;Süper Lig;Mostly Cloudy;NE;10 mph;57 °F;67 %;30.05 in
+26.10.2015;Antalyaspor;Beşiktaş;1;5;Süper Lig;Mostly Cloudy;NW;8 mph;64 °F;73 %;29.71 in
+17.10.2015;Bursaspor;Antalyaspor;0;2;Süper Lig;Mostly Cloudy;ENE;8 mph;64 °F;73 %;30.05 in
+17.10.2015;Galatasaray;Gençlerbirliği;4;1;Süper Lig;Mostly Cloudy;ENE;8 mph;64 °F;73 %;30.05 in
+17.10.2015;Konyaspor;Gaziantepspor;2;1;Süper Lig;Fair;NNW;9 mph;57 °F;55 %;26.66 in
+18.10.2015;Kasımpaşa;Sivasspor;2;1;Süper Lig;Mostly Cloudy;N;6 mph;64 °F;77 %;30.05 in
+18.10.2015;Kayserispor;Fenerbahçe;0;1;Süper Lig;Fair;NNE;5 mph;43 °F;76 %;26.62 in
+18.10.2015;Akhisarspor;Eskişehirspor;1;0;Süper Lig;Mostly Cloudy;N;6 mph;64 °F;77 %;30.05 in
+18.10.2015;Beşiktaş;Ç. Rizespor;1;0;Süper Lig;Mostly Cloudy;N;6 mph;64 °F;77 %;30.05 in
+19.10.2015;Sincan Bld Ankaraspor;Başakşehir;0;3;Süper Lig;Partly Cloudy;NNE;7 mph;63 °F;82 %;29.99 in
+19.10.2015;Mersin İ.Y.;Trabzonspor;3;2;Süper Lig;Partly Cloudy;NNE;7 mph;63 °F;82 %;29.99 in
+02.10.2015;Trabzonspor;Konyaspor;1;2;Süper Lig;Mostly Cloudy;CALM;0 mph;72 °F;78 %;30.02 in
+02.10.2015;Sivasspor;Mersin İ.Y.;2;2;Süper Lig;Partly Cloudy;E;3 mph;50 °F;94 %;25.90 in
+03.10.2015;Gaziantepspor;Sincan Bld Ankaraspor;2;1;Süper Lig;Fair;N;9 mph;66 °F;78 %;30.17 in
+03.10.2015;Gençlerbirliği;Kayserispor;2;0;Süper Lig;Fair;N;9 mph;66 °F;78 %;30.17 in
+03.10.2015;Başakşehir;Galatasaray;0;2;Süper Lig;Fair;N;9 mph;66 °F;78 %;30.17 in
+04.10.2015;Ç. Rizespor;Bursaspor;2;3;Süper Lig;Mostly Cloudy;SSW;5 mph;70 °F;78 %;30.11 in
+04.10.2015;Eskişehirspor;Beşiktaş;1;2;Süper Lig;Fair;NNE;6 mph;66 °F;73 %;30.14 in
+04.10.2015;Antalyaspor;Kasımpaşa;0;0;Süper Lig;Fair;NNW;5 mph;70 °F;78 %;29.91 in
+04.10.2015;Fenerbahçe;Akhisarspor;2;2;Süper Lig;Fair;NNE;6 mph;66 °F;73 %;30.14 in
+26.09.2015;Sincan Bld Ankaraspor;Trabzonspor;3;1;Süper Lig;Fair;ENE;6 mph;75 °F;57 %;29.85 in
+26.09.2015;Galatasaray;Gaziantepspor;2;1;Süper Lig;Fair;ENE;6 mph;75 °F;57 %;29.85 in
+26.09.2015;Akhisarspor;Gençlerbirliği;1;0;Süper Lig;Fair;ENE;6 mph;75 °F;57 %;29.85 in
+27.09.2015;Konyaspor;Mersin İ.Y.;2;0;Süper Lig;Fair;W;6 mph;63 °F;45 %;26.53 in
+27.09.2015;Antalyaspor;Sivasspor;1;1;Süper Lig;Mostly Cloudy;NNW;3 mph;73 °F;83 %;29.68 in
+27.09.2015;Beşiktaş;Fenerbahçe;3;2;Süper Lig;Fair;NNE;12 mph;75 °F;78 %;29.82 in
+28.09.2015;Kasımpaşa;Ç. Rizespor;1;1;Süper Lig;Partly Cloudy;NNE;9 mph;75 °F;78 %;29.88 in
+28.09.2015;Kayserispor;Başakşehir;0;1;Süper Lig;Fair;N;6 mph;59 °F;51 %;26.49 in
+28.09.2015;Bursaspor;Eskişehirspor;2;0;Süper Lig;Partly Cloudy;NNE;9 mph;75 °F;78 %;29.88 in
+18.09.2015;Başakşehir;Akhisarspor;2;0;Süper Lig;Fair;NE;9 mph;72 °F;73 %;29.91 in
+18.09.2015;Mersin İ.Y.;Sincan Bld Ankaraspor;0;4;Süper Lig;Fair;NE;9 mph;72 °F;73 %;29.91 in
+19.09.2015;Ç. Rizespor;Antalyaspor;5;1;Süper Lig;Partly Cloudy;SW;6 mph;73 °F;78 %;29.90 in
+19.09.2015;Sivasspor;Konyaspor;0;0;Süper Lig;Fair;E;7 mph;50 °F;76 %;25.85 in
+19.09.2015;Eskişehirspor;Kasımpaşa;0;3;Süper Lig;Fair;NE;13 mph;73 °F;73 %;29.94 in
+19.09.2015;Trabzonspor;Galatasaray;0;1;Süper Lig;Partly Cloudy;SW;6 mph;73 °F;78 %;29.90 in
+20.09.2015;Gaziantepspor;Kayserispor;1;0;Süper Lig;Partly Cloudy;VAR;7 mph;72 °F;78 %;29.85 in
+20.09.2015;Fenerbahçe;Bursaspor;2;1;Süper Lig;Partly Cloudy;VAR;7 mph;72 °F;78 %;29.85 in
+21.09.2015;Gençlerbirliği;Beşiktaş;1;1;Süper Lig;Fair;NNW;5 mph;70 °F;78 %;29.73 in
+12.09.2015;Akhisarspor;Gaziantepspor;0;0;Süper Lig;Fair;NNE;13 mph;75 °F;78 %;29.88 in
+12.09.2015;Bursaspor;Gençlerbirliği;3;2;Süper Lig;Fair;NNE;13 mph;75 °F;78 %;29.88 in
+12.09.2015;Antalyaspor;Eskişehirspor;2;0;Süper Lig;Fair;NNW;3 mph;79 °F;57 %;29.68 in
+12.09.2015;Galatasaray;Mersin İ.Y.;1;1;Süper Lig;Fair;NNE;13 mph;75 °F;78 %;29.88 in
+13.09.2015;Beşiktaş;Başakşehir;2;0;Süper Lig;Mostly Cloudy;NNW;16 mph;68 °F;88 %;29.94 in
+13.09.2015;Ç. Rizespor;Sivasspor;1;1;Süper Lig;Light Rain Shower;WNW;10 mph;77 °F;89 %;29.81 in
+13.09.2015;Sincan Bld Ankaraspor;Konyaspor;1;2;Süper Lig;Mostly Cloudy;NNW;16 mph;68 °F;88 %;29.94 in
+13.09.2015;Kasımpaşa;Fenerbahçe;0;1;Süper Lig;Mostly Cloudy;NNW;16 mph;68 °F;88 %;29.94 in
+14.09.2015;Kayserispor;Trabzonspor;0;1;Süper Lig;Fair;NE;6 mph;68 °F;60 %;26.54 in
+28.08.2015;Gaziantepspor;Beşiktaş;0;4;Süper Lig;Fair;NNE;8 mph;73 °F;61 %;29.99 in
+29.08.2015;Gençlerbirliği;Kasımpaşa;1;0;Süper Lig;Fair;NE;8 mph;75 °F;65 %;30.02 in
+29.08.2015;Başakşehir;Bursaspor;2;1;Süper Lig;Fair;NE;8 mph;75 °F;65 %;30.02 in
+29.08.2015;Konyaspor;Galatasaray;1;4;Süper Lig;Fair;NNW;9 mph;64 °F;49 %;26.66 in
+29.08.2015;Mersin İ.Y.;Kayserispor;1;2;Süper Lig;Fair;NE;8 mph;75 °F;65 %;30.02 in
+30.08.2015;Trabzonspor;Akhisarspor;2;2;Süper Lig;Fair;SSW;7 mph;72 °F;73 %;29.93 in
+30.08.2015;Eskişehirspor;Ç. Rizespor;1;1;Süper Lig;Fair;ENE;7 mph;77 °F;57 %;30.02 in
+30.08.2015;Sivasspor;Sincan Bld Ankaraspor;1;1;Süper Lig;Fair;N;9 mph;52 °F;82 %;25.88 in
+30.08.2015;Fenerbahçe;Antalyaspor;2;1;Süper Lig;Fair;ENE;7 mph;77 °F;57 %;30.02 in
+21.08.2015;Kasımpaşa;Başakşehir;1;0;Süper Lig;Fair;NE;10 mph;79 °F;65 %;29.82 in
+22.08.2015;Kayserispor;Konyaspor;1;1;Süper Lig;Fair;NE;7 mph;73 °F;50 %;26.41 in
+22.08.2015;Akhisarspor;Mersin İ.Y.;2;0;Süper Lig;Fair;NE;14 mph;77 °F;65 %;29.85 in
+22.08.2015;Beşiktaş;Trabzonspor;1;2;Süper Lig;Fair;NE;14 mph;77 °F;65 %;29.85 in
+23.08.2015;Eskişehirspor;Sivasspor;4;2;Süper Lig;Light Rain Shower;NNE;14 mph;72 °F;83 %;29.79 in
+23.08.2015;Bursaspor;Gaziantepspor;0;1;Süper Lig;Light Rain Shower;NNE;14 mph;72 °F;83 %;29.79 in
+23.08.2015;Antalyaspor;Gençlerbirliği;3;1;Süper Lig;Fair;CALM;0 mph;81 °F;84 %;29.50 in
+23.08.2015;Ç. Rizespor;Fenerbahçe;1;1;Süper Lig;Fair;WSW;5 mph;62 °F;66 %;30.06 in
+24.08.2015;Galatasaray;Sincan Bld Ankaraspor;1;2;Süper Lig;Fair;NNE;8 mph;73 °F;65 %;29.85 in
+14.08.2015;Fenerbahçe;Eskişehirspor;2;0;Süper Lig;Fair;NNE;9 mph;79 °F;74 %;29.76 in
+15.08.2015;Trabzonspor;Bursaspor;1;0;Süper Lig;Partly Cloudy;CALM;0 mph;81 °F;79 %;29.72 in
+15.08.2015;Başakşehir;Antalyaspor;2;3;Süper Lig;Fair;NNE;10 mph;81 °F;65 %;29.73 in
+15.08.2015;Sivasspor;Galatasaray;2;2;Süper Lig;Fair;NW;12 mph;66 °F;52 %;25.75 in
+16.08.2015;Konyaspor;Akhisarspor;1;1;Süper Lig;Fair;NNE;6 mph;66 °F;68 %;26.48 in
+16.08.2015;Sincan Bld Ankaraspor;Kayserispor;1;1;Süper Lig;Fair;VAR;2 mph;81 °F;65 %;29.70 in
+16.08.2015;Gaziantepspor;Kasımpaşa;0;3;Süper Lig;Fair;VAR;2 mph;81 °F;65 %;29.70 in
+16.08.2015;Mersin İ.Y.;Beşiktaş;2;5;Süper Lig;Fair;VAR;2 mph;81 °F;65 %;29.70 in
+17.08.2015;Gençlerbirliği;Ç. Rizespor;2;3;Süper Lig;Fair;NE;8 mph;82 °F;48 %;29.73 in

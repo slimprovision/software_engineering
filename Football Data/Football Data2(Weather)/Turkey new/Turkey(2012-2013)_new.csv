@@ -1,0 +1,307 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+17.05.2013;Mersin İ.Y.;Gaziantepspor;1;2;Süper Lig;Fair;ESE;2 mph;70 °F;53 %;29.82 in
+18.05.2013;Karabükspor;Fenerbahçe;3;2;Süper Lig;Fair;WSW;6 mph;72 °F;53 %;29.79 in
+18.05.2013;Orduspor;Akhisarspor;0;2;Süper Lig;Fair;WSW;6 mph;72 °F;53 %;29.79 in
+18.05.2013;Başakşehir;Kasımpaşa;1;2;Süper Lig;Fair;WSW;6 mph;72 °F;53 %;29.79 in
+18.05.2013;Galatasaray;Trabzonspor;2;0;Süper Lig;Fair;WSW;6 mph;72 °F;53 %;29.79 in
+19.05.2013;Elazığspor;Sivasspor;0;0;Süper Lig;Fair;VAR;1 mph;72 °F;60 %;29.88 in
+19.05.2013;Gençlerbirliği;Bursaspor;2;2;Süper Lig;Fair;VAR;1 mph;72 °F;60 %;29.88 in
+19.05.2013;Kayserispor;Beşiktaş;2;0;Süper Lig;Partly Cloudy;NE;8 mph;59 °F;67 %;26.51 in
+19.05.2013;Eskişehirspor;Antalyaspor;3;1;Süper Lig;Fair;VAR;1 mph;72 °F;60 %;29.88 in
+10.05.2013;Kasımpaşa;Kayserispor;1;2;Süper Lig;Mostly Cloudy;NNE;12 mph;59 °F;82 %;29.85 in
+10.05.2013;Gaziantepspor;Elazığspor;1;1;Süper Lig;Mostly Cloudy;NNE;12 mph;59 °F;82 %;29.85 in
+11.05.2013;Beşiktaş;Gençlerbirliği;3;0;Süper Lig;Fair;NNE;6 mph;57 °F;88 %;29.79 in
+11.05.2013;Antalyaspor;Orduspor;1;0;Süper Lig;Mostly Cloudy;NNE;5 mph;68 °F;78 %;29.65 in
+12.05.2013;Fenerbahçe;Galatasaray;2;1;Süper Lig;Fair;NNW;8 mph;59 °F;77 %;29.67 in
+13.05.2013;Bursaspor;Eskişehirspor;0;0;Süper Lig;Fair;VAR;2 mph;63 °F;82 %;29.58 in
+13.05.2013;Sivasspor;Karabükspor;2;1;Süper Lig;Mostly Cloudy;S;10 mph;46 °F;93 %;25.60 in
+13.05.2013;Akhisarspor;Mersin İ.Y.;1;0;Süper Lig;Fair;VAR;2 mph;63 °F;82 %;29.58 in
+13.05.2013;Trabzonspor;Başakşehir;4;3;Süper Lig;Mostly Cloudy;E;3 mph;63 °F;94 %;29.61 in
+03.05.2013;Gençlerbirliği;Kasımpaşa;0;0;Süper Lig;Fair;N;16 mph;59 °F;82 %;29.88 in
+04.05.2013;Orduspor;Bursaspor;2;4;Süper Lig;Fair;N;6 mph;57 °F;82 %;29.82 in
+04.05.2013;Kayserispor;Trabzonspor;2;1;Süper Lig;Fair;VAR;2 mph;54 °F;72 %;26.44 in
+05.05.2013;Eskişehirspor;Beşiktaş;1;2;Süper Lig;Fair;SSE;2 mph;59 °F;82 %;29.88 in
+05.05.2013;Başakşehir;Fenerbahçe;2;0;Süper Lig;Fair;SSE;2 mph;59 °F;82 %;29.88 in
+05.05.2013;Karabükspor;Gaziantepspor;0;2;Süper Lig;Fair;SSE;2 mph;59 °F;82 %;29.88 in
+05.05.2013;Galatasaray;Sivasspor;4;2;Süper Lig;Fair;SSE;2 mph;59 °F;82 %;29.88 in
+05.05.2013;Antalyaspor;Akhisarspor;4;3;Süper Lig;Fair;NW;5 mph;70 °F;78 %;29.68 in
+05.05.2013;Mersin İ.Y.;Elazığspor;0;2;Süper Lig;Fair;SSE;2 mph;59 °F;82 %;29.88 in
+26.04.2013;Mersin İ.Y.;Antalyaspor;1;1;Süper Lig;Fair;ESE;3 mph;59 °F;63 %;30.08 in
+27.04.2013;Elazığspor;Karabükspor;1;0;Süper Lig;Fair;ENE;5 mph;66 °F;46 %;29.94 in
+27.04.2013;Bursaspor;Akhisarspor;1;1;Süper Lig;Fair;ENE;5 mph;66 °F;46 %;29.94 in
+27.04.2013;Trabzonspor;Gençlerbirliği;2;0;Süper Lig;Fair;VAR;2 mph;59 °F;63 %;29.99 in
+27.04.2013;Beşiktaş;Orduspor;2;0;Süper Lig;Fair;ENE;5 mph;66 °F;46 %;29.94 in
+27.04.2013;Sivasspor;Başakşehir;4;1;Süper Lig;Fair;E;5 mph;36 °F;87 %;25.85 in
+28.04.2013;Kasımpaşa;Eskişehirspor;1;2;Süper Lig;Fair;WNW;2 mph;64 °F;45 %;29.88 in
+28.04.2013;Fenerbahçe;Kayserispor;2;1;Süper Lig;Fair;WNW;2 mph;64 °F;45 %;29.88 in
+28.04.2013;Gaziantepspor;Galatasaray;0;1;Süper Lig;Fair;WNW;2 mph;64 °F;45 %;29.88 in
+19.04.2013;Galatasaray;Elazığspor;3;1;Süper Lig;Fair;NNE;5 mph;46 °F;76 %;29.94 in
+20.04.2013;Orduspor;Kasımpaşa;0;2;Süper Lig;Partly Cloudy;N;9 mph;50 °F;71 %;29.88 in
+20.04.2013;Karabükspor;Mersin İ.Y.;1;0;Süper Lig;Partly Cloudy;N;9 mph;50 °F;71 %;29.88 in
+20.04.2013;Akhisarspor;Beşiktaş;4;1;Süper Lig;Partly Cloudy;N;9 mph;50 °F;71 %;29.88 in
+21.04.2013;Başakşehir;Gaziantepspor;1;3;Süper Lig;Fair;NNW;7 mph;46 °F;87 %;29.91 in
+21.04.2013;Kayserispor;Sivasspor;1;1;Süper Lig;Partly Cloudy;CALM;0 mph;43 °F;93 %;26.28 in
+21.04.2013;Antalyaspor;Bursaspor;0;1;Süper Lig;Fair;VAR;2 mph;57 °F;82 %;29.65 in
+21.04.2013;Gençlerbirliği;Fenerbahçe;2;0;Süper Lig;Fair;NNW;7 mph;46 °F;87 %;29.91 in
+22.04.2013;Eskişehirspor;Trabzonspor;0;1;Süper Lig;Fair;N;6 mph;50 °F;76 %;29.91 in
+12.04.2013;Trabzonspor;Orduspor;1;0;Süper Lig;Mostly Cloudy;E;7 mph;48 °F;100 %;29.90 in
+12.04.2013;Sivasspor;Gençlerbirliği;1;1;Süper Lig;Cloudy;E;7 mph;36 °F;93 %;25.70 in
+13.04.2013;Mersin İ.Y.;Bursaspor;0;1;Süper Lig;Fair;ESE;5 mph;57 °F;55 %;29.97 in
+13.04.2013;Karabükspor;Galatasaray;0;1;Süper Lig;Fair;ESE;5 mph;57 °F;55 %;29.97 in
+14.04.2013;Kasımpaşa;Akhisarspor;0;1;Süper Lig;Partly Cloudy;VAR;2 mph;61 °F;52 %;29.97 in
+14.04.2013;Gaziantepspor;Kayserispor;0;1;Süper Lig;Partly Cloudy;VAR;2 mph;61 °F;52 %;29.97 in
+14.04.2013;Fenerbahçe;Eskişehirspor;1;0;Süper Lig;Partly Cloudy;VAR;2 mph;61 °F;52 %;29.97 in
+14.04.2013;Elazığspor;Başakşehir;1;0;Süper Lig;Partly Cloudy;VAR;2 mph;61 °F;52 %;29.97 in
+15.04.2013;Beşiktaş;Antalyaspor;1;0;Süper Lig;Mostly Cloudy;NNE;8 mph;52 °F;76 %;30.05 in
+05.04.2013;Antalyaspor;Kasımpaşa;3;2;Süper Lig;Fair;NW;12 mph;61 °F;55 %;29.68 in
+06.04.2013;Başakşehir;Karabükspor;2;2;Süper Lig;Fair;SSW;5 mph;61 °F;63 %;29.70 in
+06.04.2013;Kayserispor;Elazığspor;4;1;Süper Lig;Fair;CALM;0 mph;41 °F;93 %;26.51 in
+06.04.2013;Galatasaray;Mersin İ.Y.;3;1;Süper Lig;Fair;SSW;5 mph;61 °F;63 %;29.70 in
+07.04.2013;Gençlerbirliği;Gaziantepspor;2;2;Süper Lig;Mostly Cloudy;VAR;2 mph;66 °F;37 %;29.73 in
+07.04.2013;Akhisarspor;Trabzonspor;1;0;Süper Lig;Mostly Cloudy;VAR;2 mph;66 °F;37 %;29.73 in
+07.04.2013;Orduspor;Fenerbahçe;0;2;Süper Lig;Mostly Cloudy;VAR;2 mph;66 °F;37 %;29.73 in
+07.04.2013;Eskişehirspor;Sivasspor;2;1;Süper Lig;Mostly Cloudy;VAR;2 mph;66 °F;37 %;29.73 in
+08.04.2013;Bursaspor;Beşiktaş;3;0;Süper Lig;Mostly Cloudy;N;15 mph;52 °F;82 %;29.44 in
+30.03.2013;Gaziantepspor;Eskişehirspor;2;0;Süper Lig;Mostly Cloudy;N;8 mph;48 °F;82 %;29.94 in
+30.03.2013;Sivasspor;Orduspor;3;2;Süper Lig;Fair;CALM;0 mph;34 °F;87 %;25.83 in
+30.03.2013;Galatasaray;Başakşehir;2;0;Süper Lig;Mostly Cloudy;N;8 mph;48 °F;82 %;29.94 in
+31.03.2013;Kasımpaşa;Bursaspor;2;0;Süper Lig;Fair;VAR;1 mph;57 °F;67 %;29.79 in
+31.03.2013;Trabzonspor;Antalyaspor;2;0;Süper Lig;Partly Cloudy;CALM;0 mph;52 °F;76 %;29.93 in
+31.03.2013;Fenerbahçe;Akhisarspor;2;0;Süper Lig;Fair;VAR;1 mph;57 °F;67 %;29.79 in
+31.03.2013;Elazığspor;Gençlerbirliği;1;1;Süper Lig;Fair;VAR;1 mph;57 °F;67 %;29.79 in
+01.04.2013;Karabükspor;Kayserispor;3;1;Süper Lig;Partly Cloudy;S;3 mph;59 °F;67 %;29.67 in
+01.04.2013;Mersin İ.Y.;Beşiktaş;1;2;Süper Lig;Partly Cloudy;S;3 mph;59 °F;67 %;29.67 in
+15.03.2013;Bursaspor;Trabzonspor;3;2;Süper Lig;Mostly Cloudy;WSW;13 mph;64 °F;40 %;29.26 in
+15.03.2013;Eskişehirspor;Elazığspor;2;2;Süper Lig;Mostly Cloudy;WSW;13 mph;64 °F;40 %;29.26 in
+16.03.2013;Başakşehir;Mersin İ.Y.;4;2;Süper Lig;Mostly Cloudy;SW;9 mph;52 °F;71 %;29.46 in
+16.03.2013;Gençlerbirliği;Karabükspor;2;1;Süper Lig;Mostly Cloudy;SW;9 mph;52 °F;71 %;29.46 in
+16.03.2013;Beşiktaş;Kasımpaşa;1;3;Süper Lig;Mostly Cloudy;SW;9 mph;52 °F;71 %;29.46 in
+17.03.2013;Orduspor;Gaziantepspor;2;3;Süper Lig;Mostly Cloudy;N;12 mph;37 °F;87 %;29.94 in
+17.03.2013;Akhisarspor;Sivasspor;2;1;Süper Lig;Mostly Cloudy;N;12 mph;37 °F;87 %;29.94 in
+17.03.2013;Kayserispor;Galatasaray;1;3;Süper Lig;Mostly Cloudy;WSW;9 mph;39 °F;87 %;26.23 in
+17.03.2013;Antalyaspor;Fenerbahçe;1;2;Süper Lig;Fair;N;12 mph;50 °F;62 %;29.65 in
+08.03.2013;Galatasaray;Gençlerbirliği;0;1;Süper Lig;Mostly Cloudy;WSW;6 mph;54 °F;54 %;29.88 in
+09.03.2013;Başakşehir;Kayserispor;0;0;Süper Lig;Mostly Cloudy;SSW;3 mph;50 °F;100 %;29.73 in
+09.03.2013;Gaziantepspor;Akhisarspor;2;2;Süper Lig;Mostly Cloudy;SSW;3 mph;50 °F;100 %;29.73 in
+09.03.2013;Trabzonspor;Beşiktaş;0;0;Süper Lig;Mostly Cloudy;VAR;5 mph;55 °F;51 %;29.78 in
+10.03.2013;Karabükspor;Eskişehirspor;0;0;Süper Lig;Mostly Cloudy;SSW;5 mph;52 °F;88 %;29.67 in
+10.03.2013;Sivasspor;Antalyaspor;2;1;Süper Lig;Mostly Cloudy;S;8 mph;36 °F;75 %;25.60 in
+10.03.2013;Elazığspor;Orduspor;1;0;Süper Lig;Mostly Cloudy;SSW;5 mph;52 °F;88 %;29.67 in
+10.03.2013;Fenerbahçe;Bursaspor;4;1;Süper Lig;Mostly Cloudy;SSW;5 mph;52 °F;88 %;29.67 in
+11.03.2013;Mersin İ.Y.;Kasımpaşa;1;1;Süper Lig;Fair;SW;9 mph;55 °F;72 %;29.61 in
+01.03.2013;Gençlerbirliği;Başakşehir;0;0;Süper Lig;Partly Cloudy;NNW;7 mph;36 °F;81 %;30.11 in
+02.03.2013;Orduspor;Karabükspor;3;2;Süper Lig;Fair;SSW;5 mph;41 °F;70 %;29.94 in
+02.03.2013;Eskişehirspor;Galatasaray;0;0;Süper Lig;Fair;SSW;5 mph;41 °F;70 %;29.94 in
+02.03.2013;Akhisarspor;Elazığspor;0;1;Süper Lig;Fair;SSW;5 mph;41 °F;70 %;29.94 in
+03.03.2013;Kayserispor;Mersin İ.Y.;2;1;Süper Lig;Fair;NE;2 mph;36 °F;75 %;26.46 in
+03.03.2013;Antalyaspor;Gaziantepspor;5;2;Süper Lig;Fair;N;7 mph;48 °F;87 %;29.82 in
+03.03.2013;Bursaspor;Sivasspor;1;0;Süper Lig;Mostly Cloudy;NE;9 mph;46 °F;71 %;30.02 in
+03.03.2013;Beşiktaş;Fenerbahçe;3;2;Süper Lig;Mostly Cloudy;NE;9 mph;46 °F;71 %;30.02 in
+04.03.2013;Kasımpaşa;Trabzonspor;2;0;Süper Lig;Fair;NNE;8 mph;41 °F;65 %;29.88 in
+22.02.2013;Gaziantepspor;Bursaspor;2;1;Süper Lig;Mostly Cloudy;VAR;1 mph;48 °F;62 %;29.88 in
+23.02.2013;Başakşehir;Eskişehirspor;2;2;Süper Lig;Mostly Cloudy;NE;6 mph;50 °F;94 %;29.61 in
+23.02.2013;Elazığspor;Antalyaspor;2;1;Süper Lig;Mostly Cloudy;NE;6 mph;50 °F;94 %;29.61 in
+23.02.2013;Sivasspor;Beşiktaş;0;1;Süper Lig;Cloudy / Windy;S;22 mph;32 °F;93 %;25.58 in
+23.02.2013;Mersin İ.Y.;Trabzonspor;0;1;Süper Lig;Mostly Cloudy;NE;6 mph;50 °F;94 %;29.61 in
+24.02.2013;Kayserispor;Gençlerbirliği;1;0;Süper Lig;Mostly Cloudy;CALM;0 mph;41 °F;93 %;26.51 in
+24.02.2013;Fenerbahçe;Kasımpaşa;3;1;Süper Lig;Partly Cloudy;NNW;7 mph;46 °F;87 %;30.02 in
+24.02.2013;Karabükspor;Akhisarspor;0;2;Süper Lig;Partly Cloudy;NNW;7 mph;46 °F;87 %;30.02 in
+25.02.2013;Galatasaray;Orduspor;4;2;Süper Lig;Fair;N;10 mph;45 °F;87 %;30.11 in
+15.02.2013;Akhisarspor;Galatasaray;1;2;Süper Lig;Mostly Cloudy;NNE;12 mph;46 °F;81 %;29.70 in
+16.02.2013;Eskişehirspor;Kayserispor;0;3;Süper Lig;Mostly Cloudy;NNW;17 mph;39 °F;81 %;29.97 in
+16.02.2013;Beşiktaş;Gaziantepspor;1;1;Süper Lig;Mostly Cloudy;NNW;17 mph;39 °F;81 %;29.97 in
+16.02.2013;Antalyaspor;Karabükspor;0;0;Süper Lig;Fair;NNW;5 mph;45 °F;93 %;29.71 in
+17.02.2013;Gençlerbirliği;Mersin İ.Y.;3;1;Süper Lig;Mostly Cloudy;NNE;8 mph;41 °F;65 %;30.05 in
+17.02.2013;Orduspor;Başakşehir;2;2;Süper Lig;Mostly Cloudy;NNE;8 mph;41 °F;65 %;30.05 in
+17.02.2013;Bursaspor;Elazığspor;1;0;Süper Lig;Mostly Cloudy;NNE;8 mph;41 °F;65 %;30.05 in
+17.02.2013;Trabzonspor;Fenerbahçe;0;3;Süper Lig;Mostly Cloudy;SSE;3 mph;45 °F;81 %;29.99 in
+18.02.2013;Kasımpaşa;Sivasspor;1;0;Süper Lig;Mostly Cloudy;NNE;12 mph;43 °F;57 %;30.02 in
+09.02.2013;Başakşehir;Akhisarspor;0;2;Süper Lig;Mostly Cloudy;SSW;9 mph;48 °F;82 %;29.64 in
+09.02.2013;Gençlerbirliği;Eskişehirspor;0;2;Süper Lig;Mostly Cloudy;SSW;9 mph;48 °F;82 %;29.64 in
+09.02.2013;Elazığspor;Beşiktaş;1;3;Süper Lig;Mostly Cloudy;SSW;9 mph;48 °F;82 %;29.64 in
+09.02.2013;Karabükspor;Bursaspor;0;3;Süper Lig;Mostly Cloudy;SSW;9 mph;48 °F;82 %;29.64 in
+10.02.2013;Sivasspor;Trabzonspor;2;0;Süper Lig;Mostly Cloudy;SSE;14 mph;36 °F;87 %;25.78 in
+10.02.2013;Kayserispor;Orduspor;0;0;Süper Lig;Mostly Cloudy;CALM;0 mph;39 °F;75 %;26.49 in
+10.02.2013;Mersin İ.Y.;Fenerbahçe;0;1;Süper Lig;Mostly Cloudy;SW;7 mph;48 °F;93 %;29.85 in
+10.02.2013;Galatasaray;Antalyaspor;2;0;Süper Lig;Mostly Cloudy;SW;7 mph;48 °F;93 %;29.85 in
+11.02.2013;Gaziantepspor;Kasımpaşa;2;1;Süper Lig;Partly Cloudy;S;7 mph;48 °F;82 %;29.76 in
+01.02.2013;Akhisarspor;Kayserispor;1;2;Süper Lig;Mostly Cloudy;WNW;7 mph;43 °F;87 %;29.82 in
+01.02.2013;Beşiktaş;Karabükspor;2;2;Süper Lig;Mostly Cloudy;WNW;7 mph;43 °F;87 %;29.82 in
+02.02.2013;Kasımpaşa;Elazığspor;0;0;Süper Lig;Partly Cloudy;N;5 mph;46 °F;76 %;29.82 in
+02.02.2013;Bursaspor;Galatasaray;1;1;Süper Lig;Partly Cloudy;N;5 mph;46 °F;76 %;29.82 in
+02.02.2013;Antalyaspor;Başakşehir;1;0;Süper Lig;Fair;WNW;8 mph;45 °F;61 %;29.77 in
+03.02.2013;Orduspor;Gençlerbirliği;2;1;Süper Lig;Fair;SW;14 mph;54 °F;72 %;29.70 in
+03.02.2013;Trabzonspor;Gaziantepspor;4;1;Süper Lig;Fair;ESE;6 mph;45 °F;49 %;29.93 in
+03.02.2013;Eskişehirspor;Mersin İ.Y.;0;0;Süper Lig;Fair;SW;14 mph;54 °F;72 %;29.70 in
+03.02.2013;Fenerbahçe;Sivasspor;1;2;Süper Lig;Fair;SW;14 mph;54 °F;72 %;29.70 in
+25.01.2013;Karabükspor;Kasımpaşa;0;3;Süper Lig;Mostly Cloudy;SE;9 mph;55 °F;63 %;29.52 in
+26.01.2013;Başakşehir;Bursaspor;4;1;Süper Lig;Mostly Cloudy / Windy;N;21 mph;45 °F;87 %;29.64 in
+26.01.2013;Gençlerbirliği;Akhisarspor;1;0;Süper Lig;Mostly Cloudy / Windy;N;21 mph;45 °F;87 %;29.64 in
+26.01.2013;Gaziantepspor;Fenerbahçe;1;2;Süper Lig;Mostly Cloudy / Windy;N;21 mph;45 °F;87 %;29.64 in
+27.01.2013;Kayserispor;Antalyaspor;2;0;Süper Lig;Mostly Cloudy;S;14 mph;48 °F;43 %;26.28 in
+27.01.2013;Elazığspor;Trabzonspor;3;1;Süper Lig;Mostly Cloudy / Windy;NNW;24 mph;43 °F;93 %;29.64 in
+27.01.2013;Mersin İ.Y.;Sivasspor;3;0;Süper Lig;Mostly Cloudy / Windy;NNW;24 mph;43 °F;93 %;29.64 in
+27.01.2013;Galatasaray;Beşiktaş;2;1;Süper Lig;Mostly Cloudy / Windy;NNW;24 mph;43 °F;93 %;29.64 in
+28.01.2013;Eskişehirspor;Orduspor;1;0;Süper Lig;Mostly Cloudy;N;9 mph;36 °F;87 %;29.91 in
+18.01.2013;Kasımpaşa;Galatasaray;2;1;Süper Lig;Mostly Cloudy;VAR;1 mph;50 °F;87 %;29.70 in
+19.01.2013;Sivasspor;Gaziantepspor;0;0;Süper Lig;Fair;SE;14 mph;25 °F;74 %;25.68 in
+19.01.2013;Beşiktaş;Başakşehir;2;2;Süper Lig;Mostly Cloudy;S;10 mph;50 °F;82 %;29.49 in
+19.01.2013;Bursaspor;Kayserispor;2;1;Süper Lig;Mostly Cloudy;S;10 mph;50 °F;82 %;29.49 in
+20.01.2013;Antalyaspor;Gençlerbirliği;3;5;Süper Lig;Partly Cloudy;NNW;5 mph;46 °F;76 %;29.80 in
+20.01.2013;Trabzonspor;Karabükspor;1;3;Süper Lig;Partly Cloudy;SSW;16 mph;64 °F;18 %;29.64 in
+20.01.2013;Fenerbahçe;Elazığspor;2;2;Süper Lig;Partly Cloudy;SSW;18 mph;48 °F;71 %;29.70 in
+21.01.2013;Orduspor;Mersin İ.Y.;1;1;Süper Lig;Fair;SW;10 mph;54 °F;77 %;29.85 in
+21.01.2013;Akhisarspor;Eskişehirspor;1;1;Süper Lig;Fair;SW;10 mph;54 °F;77 %;29.85 in
+21.12.2012;Beşiktaş;Kayserispor;3;1;Süper Lig;Mostly Cloudy;NW;12 mph;32 °F;93 %;29.88 in
+21.12.2012;Akhisarspor;Orduspor;0;0;Süper Lig;Mostly Cloudy;NW;12 mph;32 °F;93 %;29.88 in
+22.12.2012;Kasımpaşa;Başakşehir;0;2;Süper Lig;Mostly Cloudy;N;15 mph;34 °F;81 %;29.94 in
+22.12.2012;Fenerbahçe;Karabükspor;1;3;Süper Lig;Mostly Cloudy;N;15 mph;34 °F;81 %;29.94 in
+23.12.2012;Sivasspor;Elazığspor;3;1;Süper Lig;Cloudy;S;8 mph;30 °F;100 %;25.73 in
+23.12.2012;Gaziantepspor;Mersin İ.Y.;2;1;Süper Lig;Cloudy;N;18 mph;37 °F;81 %;30.05 in
+23.12.2012;Bursaspor;Gençlerbirliği;0;0;Süper Lig;Cloudy;N;18 mph;37 °F;81 %;30.05 in
+23.12.2012;Antalyaspor;Eskişehirspor;2;1;Süper Lig;Mostly Cloudy;N;7 mph;50 °F;100 %;29.80 in
+23.12.2012;Trabzonspor;Galatasaray;0;0;Süper Lig;Mostly Cloudy;WSW;5 mph;50 °F;82 %;29.93 in
+14.12.2012;Eskişehirspor;Bursaspor;2;2;Süper Lig;Fair;NNW;5 mph;34 °F;70 %;30.32 in
+15.12.2012;Mersin İ.Y.;Akhisarspor;2;1;Süper Lig;Fair;NNE;7 mph;41 °F;57 %;30.32 in
+15.12.2012;Elazığspor;Gaziantepspor;0;0;Süper Lig;Fair;NNE;7 mph;41 °F;57 %;30.32 in
+15.12.2012;Gençlerbirliği;Beşiktaş;1;1;Süper Lig;Fair;NNE;7 mph;41 °F;57 %;30.32 in
+16.12.2012;Başakşehir;Trabzonspor;2;1;Süper Lig;Fair;N;3 mph;39 °F;65 %;30.14 in
+16.12.2012;Karabükspor;Sivasspor;1;0;Süper Lig;Fair;N;3 mph;39 °F;65 %;30.14 in
+16.12.2012;Orduspor;Antalyaspor;1;1;Süper Lig;Fair;N;3 mph;39 °F;65 %;30.14 in
+16.12.2012;Galatasaray;Fenerbahçe;2;1;Süper Lig;Fair;N;3 mph;39 °F;65 %;30.14 in
+17.12.2012;Kayserispor;Kasımpaşa;1;0;Süper Lig;Mostly Cloudy;CALM;0 mph;30 °F;80 %;26.49 in
+07.12.2012;Beşiktaş;Eskişehirspor;2;2;Süper Lig;Mostly Cloudy;NNW;10 mph;45 °F;93 %;29.73 in
+07.12.2012;Elazığspor;Mersin İ.Y.;1;0;Süper Lig;Mostly Cloudy;NNW;10 mph;45 °F;93 %;29.73 in
+08.12.2012;Kasımpaşa;Gençlerbirliği;2;2;Süper Lig;Mostly Cloudy;N;9 mph;41 °F;87 %;29.94 in
+08.12.2012;Gaziantepspor;Karabükspor;0;2;Süper Lig;Mostly Cloudy;N;9 mph;41 °F;87 %;29.94 in
+08.12.2012;Sivasspor;Galatasaray;1;3;Süper Lig;Mostly Cloudy;S;15 mph;34 °F;93 %;25.55 in
+08.12.2012;Bursaspor;Orduspor;1;0;Süper Lig;Mostly Cloudy;N;9 mph;41 °F;87 %;29.94 in
+09.12.2012;Trabzonspor;Kayserispor;1;1;Süper Lig;Partly Cloudy;SSW;7 mph;45 °F;81 %;30.11 in
+09.12.2012;Fenerbahçe;Başakşehir;2;1;Süper Lig;Fair;SE;16 mph;52 °F;47 %;29.85 in
+09.01.2013;Akhisarspor;Antalyaspor;1;0;Süper Lig;Mostly Cloudy;WNW;15 mph;28 °F;100 %;30.08 in
+30.11.2012;Galatasaray;Gaziantepspor;1;1;Süper Lig;Mostly Cloudy;S;15 mph;64 °F;59 %;29.70 in
+01.12.2012;Karabükspor;Elazığspor;0;1;Süper Lig;Mostly Cloudy;VAR;2 mph;61 °F;94 %;29.79 in
+01.12.2012;Akhisarspor;Bursaspor;2;2;Süper Lig;Mostly Cloudy;VAR;2 mph;61 °F;94 %;29.79 in
+01.12.2012;Orduspor;Beşiktaş;1;2;Süper Lig;Mostly Cloudy;VAR;2 mph;61 °F;94 %;29.79 in
+02.12.2012;Başakşehir;Sivasspor;2;0;Süper Lig;Mostly Cloudy;SW;7 mph;59 °F;94 %;29.88 in
+02.12.2012;Antalyaspor;Mersin İ.Y.;1;0;Süper Lig;Partly Cloudy;N;5 mph;57 °F;88 %;29.94 in
+02.12.2012;Kayserispor;Fenerbahçe;1;1;Süper Lig;Partly Cloudy;CALM;0 mph;34 °F;93 %;26.59 in
+02.12.2012;Eskişehirspor;Kasımpaşa;2;2;Süper Lig;Mostly Cloudy;SW;7 mph;59 °F;94 %;29.88 in
+03.12.2012;Gençlerbirliği;Trabzonspor;0;4;Süper Lig;Mostly Cloudy;SW;8 mph;64 °F;56 %;29.49 in
+23.11.2012;Mersin İ.Y.;Karabükspor;2;1;Süper Lig;Mostly Cloudy;N;12 mph;55 °F;67 %;30.11 in
+23.11.2012;Beşiktaş;Akhisarspor;3;1;Süper Lig;Mostly Cloudy;N;12 mph;55 °F;67 %;30.11 in
+24.11.2012;Kasımpaşa;Orduspor;1;1;Süper Lig;Partly Cloudy;N;13 mph;52 °F;76 %;30.11 in
+24.11.2012;Bursaspor;Antalyaspor;1;1;Süper Lig;Partly Cloudy;N;13 mph;52 °F;76 %;30.11 in
+24.11.2012;Elazığspor;Galatasaray;0;1;Süper Lig;Partly Cloudy;N;13 mph;52 °F;76 %;30.11 in
+25.11.2012;Gaziantepspor;Başakşehir;2;1;Süper Lig;Mostly Cloudy;NNE;9 mph;50 °F;71 %;30.14 in
+25.11.2012;Sivasspor;Kayserispor;4;2;Süper Lig;Cloudy;N;9 mph;36 °F;93 %;25.78 in
+25.11.2012;Fenerbahçe;Gençlerbirliği;4;1;Süper Lig;Mostly Cloudy;NNE;9 mph;50 °F;71 %;30.14 in
+26.11.2012;Trabzonspor;Eskişehirspor;0;3;Süper Lig;Mostly Cloudy;VAR;1 mph;54 °F;82 %;30.05 in
+16.11.2012;Galatasaray;Karabükspor;1;3;Süper Lig;Fair;ENE;6 mph;57 °F;72 %;30.11 in
+17.11.2012;Başakşehir;Elazığspor;1;1;Süper Lig;Fair;NE;10 mph;57 °F;72 %;30.11 in
+17.11.2012;Eskişehirspor;Fenerbahçe;1;1;Süper Lig;Fair;NE;10 mph;57 °F;72 %;30.11 in
+17.11.2012;Gençlerbirliği;Sivasspor;1;1;Süper Lig;Fair;NE;10 mph;57 °F;72 %;30.11 in
+18.11.2012;Kayserispor;Gaziantepspor;1;1;Süper Lig;Mostly Cloudy;W;6 mph;37 °F;93 %;26.57 in
+18.11.2012;Akhisarspor;Kasımpaşa;0;2;Süper Lig;Mostly Cloudy;NE;10 mph;59 °F;72 %;30.02 in
+18.11.2012;Bursaspor;Mersin İ.Y.;3;0;Süper Lig;Mostly Cloudy;NE;10 mph;59 °F;72 %;30.02 in
+18.11.2012;Antalyaspor;Beşiktaş;3;5;Süper Lig;Fair;N;5 mph;59 °F;63 %;29.80 in
+19.11.2012;Orduspor;Trabzonspor;1;2;Süper Lig;Partly Cloudy;NNE;5 mph;57 °F;88 %;30.02 in
+09.11.2012;Sivasspor;Eskişehirspor;1;0;Süper Lig;Cloudy;ESE;10 mph;46 °F;93 %;25.65 in
+09.11.2012;Beşiktaş;Bursaspor;3;3;Süper Lig;Partly Cloudy;N;13 mph;57 °F;55 %;29.99 in
+10.11.2012;Kasımpaşa;Antalyaspor;1;1;Süper Lig;Mostly Cloudy;NW;8 mph;55 °F;72 %;29.91 in
+10.11.2012;Trabzonspor;Akhisarspor;3;1;Süper Lig;Mostly Cloudy;WSW;6 mph;59 °F;82 %;29.67 in
+10.11.2012;Karabükspor;Başakşehir;3;1;Süper Lig;Mostly Cloudy;NW;8 mph;55 °F;72 %;29.91 in
+11.11.2012;Gaziantepspor;Gençlerbirliği;2;3;Süper Lig;Mostly Cloudy;NNE;9 mph;57 °F;63 %;30.08 in
+11.11.2012;Mersin İ.Y.;Galatasaray;1;1;Süper Lig;Mostly Cloudy;NNE;9 mph;57 °F;63 %;30.08 in
+11.11.2012;Elazığspor;Kayserispor;0;4;Süper Lig;Mostly Cloudy;NNE;9 mph;57 °F;63 %;30.08 in
+11.11.2012;Fenerbahçe;Orduspor;2;1;Süper Lig;Mostly Cloudy;NNE;9 mph;57 °F;63 %;30.08 in
+02.11.2012;Başakşehir;Galatasaray;1;3;Süper Lig;Mostly Cloudy;E;3 mph;68 °F;64 %;29.73 in
+03.11.2012;Kayserispor;Karabükspor;3;0;Süper Lig;Partly Cloudy;NE;2 mph;46 °F;81 %;26.51 in
+03.11.2012;Akhisarspor;Fenerbahçe;1;2;Süper Lig;Mostly Cloudy;SSW;9 mph;66 °F;78 %;29.79 in
+03.11.2012;Eskişehirspor;Gaziantepspor;4;0;Süper Lig;Mostly Cloudy;SSW;9 mph;66 °F;78 %;29.79 in
+04.11.2012;Gençlerbirliği;Elazığspor;1;2;Süper Lig;Fair;NNE;7 mph;63 °F;72 %;29.97 in
+04.11.2012;Beşiktaş;Mersin İ.Y.;3;0;Süper Lig;Fair;NNE;7 mph;63 °F;72 %;29.97 in
+04.11.2012;Orduspor;Sivasspor;2;0;Süper Lig;Fair;NNE;7 mph;63 °F;72 %;29.97 in
+05.11.2012;Antalyaspor;Trabzonspor;2;1;Süper Lig;Fair;N;5 mph;63 °F;88 %;29.85 in
+05.11.2012;Bursaspor;Kasımpaşa;1;2;Süper Lig;Fair;WSW;5 mph;63 °F;100 %;29.91 in
+26.10.2012;Elazığspor;Eskişehirspor;1;1;Süper Lig;Partly Cloudy;ENE;3 mph;63 °F;63 %;29.79 in
+26.10.2012;Kasımpaşa;Beşiktaş;1;3;Süper Lig;Partly Cloudy;ENE;3 mph;63 °F;63 %;29.79 in
+27.10.2012;Mersin İ.Y.;Başakşehir;2;0;Süper Lig;Fair;VAR;2 mph;63 °F;82 %;29.82 in
+27.10.2012;Sivasspor;Akhisarspor;1;2;Süper Lig;Fair;CALM;0 mph;39 °F;87 %;25.73 in
+27.10.2012;Galatasaray;Kayserispor;3;0;Süper Lig;Fair;VAR;2 mph;63 °F;82 %;29.82 in
+28.10.2012;Karabükspor;Gençlerbirliği;0;0;Süper Lig;Fair;SW;12 mph;70 °F;60 %;29.70 in
+28.10.2012;Gaziantepspor;Orduspor;3;0;Süper Lig;Fair;SW;12 mph;70 °F;60 %;29.70 in
+28.10.2012;Trabzonspor;Bursaspor;0;1;Süper Lig;Partly Cloudy;SSW;5 mph;61 °F;82 %;29.84 in
+29.10.2012;Fenerbahçe;Antalyaspor;1;3;Süper Lig;Mostly Cloudy;SSW;3 mph;72 °F;60 %;29.70 in
+19.10.2012;Gençlerbirliği;Galatasaray;3;3;Süper Lig;Fair;ENE;9 mph;66 °F;68 %;30.14 in
+20.10.2012;Orduspor;Elazığspor;2;2;Süper Lig;Fair;NE;8 mph;63 °F;63 %;30.05 in
+20.10.2012;Bursaspor;Fenerbahçe;1;1;Süper Lig;Fair;NE;8 mph;63 °F;63 %;30.05 in
+20.10.2012;Antalyaspor;Sivasspor;4;2;Süper Lig;Fair;NNW;7 mph;73 °F;38 %;29.74 in
+21.10.2012;Kasımpaşa;Mersin İ.Y.;2;2;Süper Lig;Mostly Cloudy;NNE;8 mph;61 °F;88 %;29.94 in
+21.10.2012;Eskişehirspor;Karabükspor;5;2;Süper Lig;Mostly Cloudy;NNE;8 mph;61 °F;88 %;29.94 in
+21.10.2012;Beşiktaş;Trabzonspor;1;1;Süper Lig;Mostly Cloudy;NNE;8 mph;61 °F;88 %;29.94 in
+21.10.2012;Akhisarspor;Gaziantepspor;0;0;Süper Lig;Mostly Cloudy;NNE;8 mph;61 °F;88 %;29.94 in
+22.10.2012;Kayserispor;Başakşehir;0;1;Süper Lig;Fair;ESE;10 mph;63 °F;48 %;26.51 in
+05.10.2012;Trabzonspor;Kasımpaşa;1;0;Süper Lig;Partly Cloudy;W;10 mph;72 °F;73 %;29.75 in
+05.10.2012;Gaziantepspor;Antalyaspor;0;1;Süper Lig;Fair;N;5 mph;68 °F;73 %;29.85 in
+05.10.2012;Karabükspor;Orduspor;1;1;Süper Lig;Fair;N;5 mph;68 °F;73 %;29.85 in
+06.10.2012;Başakşehir;Gençlerbirliği;0;2;Süper Lig;Fair;E;5 mph;70 °F;78 %;29.99 in
+06.10.2012;Galatasaray;Eskişehirspor;1;1;Süper Lig;Fair;E;5 mph;70 °F;78 %;29.99 in
+06.10.2012;Elazığspor;Akhisarspor;0;0;Süper Lig;Fair;E;5 mph;70 °F;78 %;29.99 in
+07.10.2012;Sivasspor;Bursaspor;2;2;Süper Lig;Partly Cloudy;SE;5 mph;48 °F;76 %;25.88 in
+07.10.2012;Mersin İ.Y.;Kayserispor;1;2;Süper Lig;Fair;ENE;6 mph;68 °F;78 %;29.99 in
+07.10.2012;Fenerbahçe;Beşiktaş;3;0;Süper Lig;Fair;ENE;6 mph;68 °F;78 %;29.99 in
+28.09.2012;Orduspor;Galatasaray;2;0;Süper Lig;Fair;NNE;13 mph;72 °F;83 %;29.97 in
+29.09.2012;Bursaspor;Gaziantepspor;1;1;Süper Lig;Fair;VAR;8 mph;72 °F;78 %;29.99 in
+29.09.2012;Kasımpaşa;Fenerbahçe;2;0;Süper Lig;Fair;WSW;6 mph;55 °F;91 %;30.06 in
+29.09.2012;Akhisarspor;Karabükspor;1;3;Süper Lig;Fair;VAR;8 mph;72 °F;78 %;29.99 in
+30.09.2012;Eskişehirspor;Başakşehir;1;0;Süper Lig;Fair;ENE;8 mph;72 °F;73 %;29.99 in
+30.09.2012;Trabzonspor;Mersin İ.Y.;1;1;Süper Lig;Partly Cloudy;SSW;1 mph;72 °F;83 %;29.99 in
+30.09.2012;Antalyaspor;Elazığspor;4;0;Süper Lig;Fair;NNE;2 mph;72 °F;88 %;29.77 in
+30.09.2012;Gençlerbirliği;Kayserispor;4;0;Süper Lig;Fair;ENE;8 mph;72 °F;73 %;29.99 in
+01.10.2012;Beşiktaş;Sivasspor;0;1;Süper Lig;Fair;NE;10 mph;70 °F;83 %;29.99 in
+21.09.2012;Karabükspor;Antalyaspor;1;0;Süper Lig;Fair;SSE;3 mph;72 °F;73 %;29.79 in
+22.09.2012;Kayserispor;Eskişehirspor;3;2;Süper Lig;Partly Cloudy;CALM;0 mph;59 °F;77 %;26.41 in
+22.09.2012;Başakşehir;Orduspor;1;1;Süper Lig;Mostly Cloudy;N;13 mph;61 °F;55 %;29.97 in
+22.09.2012;Gaziantepspor;Beşiktaş;3;2;Süper Lig;Mostly Cloudy;N;13 mph;61 °F;55 %;29.97 in
+22.09.2012;Mersin İ.Y.;Gençlerbirliği;1;1;Süper Lig;Mostly Cloudy;N;13 mph;61 °F;55 %;29.97 in
+23.09.2012;Sivasspor;Kasımpaşa;1;0;Süper Lig;Partly Cloudy;W;7 mph;54 °F;72 %;25.80 in
+23.09.2012;Elazığspor;Bursaspor;1;1;Süper Lig;Fair;VAR;1 mph;64 °F;56 %;29.97 in
+23.09.2012;Galatasaray;Akhisarspor;3;0;Süper Lig;Fair;VAR;1 mph;64 °F;56 %;29.97 in
+24.09.2012;Fenerbahçe;Trabzonspor;0;0;Süper Lig;Fair;NNE;3 mph;68 °F;49 %;29.97 in
+15.09.2012;Kasımpaşa;Gaziantepspor;3;0;Süper Lig;Fair;NNW;6 mph;73 °F;50 %;29.82 in
+15.09.2012;Antalyaspor;Galatasaray;0;4;Süper Lig;Fair;NNE;3 mph;72 °F;73 %;29.71 in
+15.09.2012;Bursaspor;Karabükspor;4;1;Süper Lig;Fair;NNW;6 mph;73 °F;50 %;29.82 in
+16.09.2012;Eskişehirspor;Gençlerbirliği;4;2;Süper Lig;Partly Cloudy;N;7 mph;79 °F;36 %;29.73 in
+16.09.2012;Trabzonspor;Sivasspor;1;0;Süper Lig;Fair;S;6 mph;72 °F;83 %;29.78 in
+16.09.2012;Akhisarspor;Başakşehir;0;4;Süper Lig;Partly Cloudy;N;7 mph;79 °F;36 %;29.73 in
+16.09.2012;Fenerbahçe;Mersin İ.Y.;2;1;Süper Lig;Partly Cloudy;N;7 mph;79 °F;36 %;29.73 in
+17.09.2012;Orduspor;Kayserispor;3;2;Süper Lig;Mostly Cloudy;NE;8 mph;75 °F;65 %;29.73 in
+17.09.2012;Beşiktaş;Elazığspor;3;0;Süper Lig;Mostly Cloudy;NE;8 mph;75 °F;65 %;29.73 in
+31.08.2012;Gençlerbirliği;Orduspor;1;1;Süper Lig;Fair;ENE;8 mph;72 °F;60 %;29.94 in
+31.08.2012;Mersin İ.Y.;Eskişehirspor;1;3;Süper Lig;Fair;ENE;8 mph;72 °F;60 %;29.94 in
+01.09.2012;Başakşehir;Antalyaspor;0;1;Süper Lig;Fair;VAR;7 mph;72 °F;60 %;29.97 in
+01.09.2012;Kayserispor;Akhisarspor;1;1;Süper Lig;Fair;WSW;3 mph;55 °F;72 %;26.49 in
+01.09.2012;Karabükspor;Beşiktaş;0;3;Süper Lig;Fair;VAR;7 mph;72 °F;60 %;29.97 in
+01.09.2012;Elazığspor;Kasımpaşa;0;3;Süper Lig;Fair;VAR;7 mph;72 °F;60 %;29.97 in
+02.09.2012;Sivasspor;Fenerbahçe;0;0;Süper Lig;Partly Cloudy;NNW;7 mph;50 °F;87 %;25.85 in
+02.09.2012;Galatasaray;Bursaspor;3;2;Süper Lig;Fair;NE;14 mph;73 °F;65 %;30.02 in
+02.09.2012;Gaziantepspor;Trabzonspor;1;0;Süper Lig;Fair;NE;14 mph;73 °F;65 %;30.02 in
+24.08.2012;Kasımpaşa;Karabükspor;2;1;Süper Lig;Fair;NE;8 mph;81 °F;34 %;29.85 in
+25.08.2012;Sivasspor;Mersin İ.Y.;3;3;Süper Lig;Fair;NNW;7 mph;54 °F;67 %;25.80 in
+25.08.2012;Orduspor;Eskişehirspor;2;0;Süper Lig;Fair;ENE;7 mph;79 °F;57 %;29.85 in
+25.08.2012;Akhisarspor;Gençlerbirliği;0;0;Süper Lig;Fair;ENE;7 mph;79 °F;57 %;29.85 in
+25.08.2012;Fenerbahçe;Gaziantepspor;3;0;Süper Lig;Fair;ENE;7 mph;79 °F;57 %;29.85 in
+26.08.2012;Bursaspor;Başakşehir;0;1;Süper Lig;Fair;NE;10 mph;79 °F;74 %;29.76 in
+26.08.2012;Trabzonspor;Elazığspor;2;0;Süper Lig;Mostly Cloudy;SSW;3 mph;73 °F;78 %;29.81 in
+26.08.2012;Beşiktaş;Galatasaray;3;3;Süper Lig;Fair;NE;10 mph;79 °F;74 %;29.76 in
+27.08.2012;Antalyaspor;Kayserispor;3;0;Süper Lig;Fair;NNE;3 mph;79 °F;94 %;29.53 in
+17.08.2012;Eskişehirspor;Akhisarspor;0;1;Süper Lig;Fair;ENE;8 mph;77 °F;57 %;29.82 in
+18.08.2012;Karabükspor;Trabzonspor;1;1;Süper Lig;Fair;ENE;8 mph;77 °F;61 %;29.91 in
+18.08.2012;Gaziantepspor;Sivasspor;0;1;Süper Lig;Fair;ENE;8 mph;77 °F;61 %;29.91 in
+18.08.2012;Elazığspor;Fenerbahçe;1;1;Süper Lig;Fair;ENE;8 mph;77 °F;61 %;29.91 in
+19.08.2012;Başakşehir;Beşiktaş;1;1;Süper Lig;Partly Cloudy;NE;9 mph;75 °F;61 %;29.97 in
+19.08.2012;Kayserispor;Bursaspor;0;1;Süper Lig;Fair;N;3 mph;64 °F;59 %;26.46 in
+19.08.2012;Mersin İ.Y.;Orduspor;0;0;Süper Lig;Partly Cloudy;NE;9 mph;75 °F;61 %;29.97 in
+20.08.2012;Gençlerbirliği;Antalyaspor;3;1;Süper Lig;Partly Cloudy;NNE;8 mph;75 °F;61 %;30.02 in
+20.08.2012;Galatasaray;Kasımpaşa;2;1;Süper Lig;Partly Cloudy;NNE;8 mph;75 °F;61 %;30.02 in

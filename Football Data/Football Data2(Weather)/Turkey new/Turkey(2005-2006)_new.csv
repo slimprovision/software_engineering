@@ -1,0 +1,307 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;temperature;wind_speed;humidity;pressure
+13.05.2006;Sivasspor;Ankaragücü;3;1;Süper Lig;Fair;WSW;50 °F;7 mph;50 %;30.02 in
+13.05.2006;Manisaspor;Konyaspor;0;0;Süper Lig;Partly Cloudy;ENE;59 °F;5 mph;63 %;30.02 in
+14.05.2006;Denizlispor;Fenerbahçe;1;1;Süper Lig;Fair;CALM;59 °F;0 mph;59 %;30.05 in
+14.05.2006;Erciyesspor;Sincan Bld Ankaraspor;0;1;Süper Lig;Fair;CALM;59 °F;0 mph;59 %;30.05 in
+14.05.2006;Galatasaray;Kayserispor;3;0;Süper Lig;Fair;CALM;59 °F;0 mph;59 %;30.05 in
+14.05.2006;Gaziantepspor;Malatyaspor;1;0;Süper Lig;Fair;CALM;59 °F;0 mph;59 %;30.05 in
+14.05.2006;Samsunspor;Diyarbakırspor;1;0;Süper Lig;Cloudy;NW;57 °F;5 mph;82 %;30.15 in
+14.05.2006;Gençlerbirliği;Ç. Rizespor;1;3;Süper Lig;Fair;CALM;59 °F;0 mph;59 %;30.05 in
+14.05.2006;Trabzonspor;Beşiktaş;1;2;Süper Lig;Mostly Cloudy;W;55 °F;6 mph;100 %;29.99 in
+06.05.2006;Sincan Bld Ankaraspor;Trabzonspor;0;2;Süper Lig;Mostly Cloudy;NNE;52 °F;8 mph;71 %;29.99 in
+06.05.2006;Diyarbakırspor;Gençlerbirliği;0;2;Süper Lig;Mostly Cloudy;NNE;52 °F;8 mph;71 %;29.99 in
+06.05.2006;Kayserispor;Manisaspor;7;2;Süper Lig;Partly Cloudy;VAR;52 °F;2 mph;94 %;26.41 in
+06.05.2006;Malatyaspor;Samsunspor;3;0;Süper Lig;Mostly Cloudy;NNE;52 °F;8 mph;71 %;29.99 in
+06.05.2006;Ç. Rizespor;Denizlispor;1;2;Süper Lig;Mostly Cloudy;CALM;50 °F;0 mph;94 %;29.99 in
+07.05.2006;Ankaragücü;Gaziantepspor;2;1;Süper Lig;Fair;NNE;52 °F;9 mph;71 %;29.94 in
+07.05.2006;Konyaspor;Sivasspor;2;1;Süper Lig;Fair;WSW;52 °F;14 mph;54 %;29.88 in
+07.05.2006;Beşiktaş;Galatasaray;1;2;Süper Lig;Fair;NNE;52 °F;9 mph;71 %;29.94 in
+07.05.2006;Fenerbahçe;Erciyesspor;4;2;Süper Lig;Fair;NNE;52 °F;9 mph;71 %;29.94 in
+28.04.2006;Manisaspor;Beşiktaş;0;1;Süper Lig;Fair;NE;52 °F;14 mph;54 %;29.88 in
+29.04.2006;Ankaragücü;Malatyaspor;0;1;Süper Lig;Partly Cloudy;NE;52 °F;15 mph;71 %;29.76 in
+29.04.2006;Denizlispor;Diyarbakırspor;1;0;Süper Lig;Partly Cloudy;NE;52 °F;15 mph;71 %;29.76 in
+29.04.2006;Erciyesspor;Ç. Rizespor;0;2;Süper Lig;Partly Cloudy;NE;52 °F;15 mph;71 %;29.76 in
+29.04.2006;Galatasaray;Sincan Bld Ankaraspor;4;0;Süper Lig;Partly Cloudy;NE;52 °F;15 mph;71 %;29.76 in
+29.04.2006;Gaziantepspor;Konyaspor;2;0;Süper Lig;Partly Cloudy;NE;52 °F;15 mph;71 %;29.76 in
+29.04.2006;Samsunspor;Gençlerbirliği;2;0;Süper Lig;Fair;WSW;51 °F;10 mph;54 %;29.88 in
+29.04.2006;Trabzonspor;Fenerbahçe;2;3;Süper Lig;Partly Cloudy;SE;46 °F;3 mph;81 %;29.84 in
+30.04.2006;Sivasspor;Kayserispor;0;5;Süper Lig;Fair;WSW;42 °F;5 mph;82 %;29.84 in
+22.04.2006;Sincan Bld Ankaraspor;Manisaspor;3;1;Süper Lig;Fair;NW;54 °F;6 mph;72 %;29.88 in
+22.04.2006;Fenerbahçe;Galatasaray;4;0;Süper Lig;Fair;NW;54 °F;6 mph;72 %;29.88 in
+23.04.2006;Diyarbakırspor;Erciyesspor;2;1;Süper Lig;Fair;N;52 °F;13 mph;76 %;29.79 in
+23.04.2006;Gençlerbirliği;Denizlispor;3;3;Süper Lig;Fair;N;52 °F;13 mph;76 %;29.79 in
+23.04.2006;Kayserispor;Gaziantepspor;0;1;Süper Lig;Partly Cloudy;VAR;48 °F;2 mph;93 %;26.36 in
+23.04.2006;Konyaspor;Malatyaspor;0;2;Süper Lig;Mostly Cloudy;S;50 °F;3 mph;82 %;26.38 in
+23.04.2006;Ç. Rizespor;Trabzonspor;1;6;Süper Lig;Mostly Cloudy;SSE;54 °F;5 mph;88 %;29.78 in
+23.04.2006;Samsunspor;Ankaragücü;2;1;Süper Lig;Fair;WSW;56 °F;5 mph;80 %;30.06 in
+23.04.2006;Beşiktaş;Sivasspor;0;1;Süper Lig;Fair;N;52 °F;13 mph;76 %;29.79 in
+15.04.2006;Trabzonspor;Diyarbakırspor;3;0;Süper Lig;Mostly Cloudy;VAR;55 °F;2 mph;88 %;29.81 in
+15.04.2006;Denizlispor;Samsunspor;1;2;Süper Lig;Fair;NNW;48 °F;6 mph;82 %;29.94 in
+15.04.2006;Malatyaspor;Kayserispor;2;1;Süper Lig;Fair;NNW;48 °F;6 mph;82 %;29.94 in
+15.04.2006;Manisaspor;Fenerbahçe;5;3;Süper Lig;Fair;NNW;48 °F;6 mph;82 %;29.94 in
+16.04.2006;Ankaragücü;Konyaspor;3;0;Süper Lig;Fair;WSW;52 °F;3 mph;76 %;29.99 in
+16.04.2006;Erciyesspor;Gençlerbirliği;2;0;Süper Lig;Fair;WSW;52 °F;3 mph;76 %;29.99 in
+16.04.2006;Sivasspor;Sincan Bld Ankaraspor;2;2;Süper Lig;Fair;WSW;63 °F;5 mph;93 %;30.06 in
+16.04.2006;Gaziantepspor;Beşiktaş;2;2;Süper Lig;Fair;WSW;52 °F;3 mph;76 %;29.99 in
+16.04.2006;Galatasaray;Ç. Rizespor;4;2;Süper Lig;Fair;WSW;52 °F;3 mph;76 %;29.99 in
+07.04.2006;Diyarbakırspor;Galatasaray;1;3;Süper Lig;Mostly Cloudy;SW;55 °F;6 mph;58 %;29.79 in
+08.04.2006;Sincan Bld Ankaraspor;Gaziantepspor;3;0;Süper Lig;Mostly Cloudy;NE;61 °F;9 mph;55 %;29.70 in
+08.04.2006;Beşiktaş;Malatyaspor;2;2;Süper Lig;Mostly Cloudy;NE;61 °F;9 mph;55 %;29.70 in
+09.04.2006;Denizlispor;Erciyesspor;1;1;Süper Lig;Mostly Cloudy;N;46 °F;14 mph;87 %;29.97 in
+09.04.2006;Kayserispor;Ankaragücü;1;2;Süper Lig;Fair;N;52 °F;6 mph;30 %;26.41 in
+09.04.2006;Ç. Rizespor;Manisaspor;4;1;Süper Lig;Mostly Cloudy;S;75 °F;16 mph;29 %;29.75 in
+09.04.2006;Samsunspor;Konyaspor;1;1;Süper Lig;Fair;WSW;61 °F;9 mph;55 %;29.70 in
+09.04.2006;Gençlerbirliği;Trabzonspor;1;0;Süper Lig;Mostly Cloudy;N;46 °F;14 mph;87 %;29.97 in
+09.04.2006;Fenerbahçe;Sivasspor;3;0;Süper Lig;Mostly Cloudy;N;46 °F;14 mph;87 %;29.97 in
+01.04.2006;Ankaragücü;Beşiktaş;2;3;Süper Lig;Fair;VAR;50 °F;3 mph;71 %;29.88 in
+01.04.2006;Galatasaray;Gençlerbirliği;3;0;Süper Lig;Fair;VAR;50 °F;3 mph;71 %;29.88 in
+02.04.2006;Manisaspor;Diyarbakırspor;0;3;Süper Lig;Fair;VAR;48 °F;1 mph;76 %;29.91 in
+02.04.2006;Erciyesspor;Samsunspor;2;2;Süper Lig;Fair;VAR;48 °F;1 mph;76 %;29.91 in
+02.04.2006;Konyaspor;Kayserispor;1;0;Süper Lig;Mostly Cloudy;NNW;48 °F;13 mph;76 %;26.45 in
+02.04.2006;Malatyaspor;Sincan Bld Ankaraspor;0;2;Süper Lig;Fair;VAR;48 °F;1 mph;76 %;29.91 in
+02.04.2006;Sivasspor;Ç. Rizespor;1;2;Süper Lig;Fair;WSW;50 °F;2 mph;93 %;29.85 in
+02.04.2006;Trabzonspor;Denizlispor;3;0;Süper Lig;Mostly Cloudy;CALM;52 °F;0 mph;94 %;29.81 in
+02.04.2006;Gaziantepspor;Fenerbahçe;0;2;Süper Lig;Fair;VAR;48 °F;1 mph;76 %;29.91 in
+24.03.2006;Beşiktaş;Konyaspor;0;1;Süper Lig;Partly Cloudy / Windy;SW;55 °F;25 mph;67 %;29.58 in
+25.03.2006;Diyarbakırspor;Sivasspor;1;1;Süper Lig;Partly Cloudy;NNE;41 °F;14 mph;76 %;29.99 in
+25.03.2006;Gençlerbirliği;Manisaspor;2;1;Süper Lig;Partly Cloudy;NNE;41 °F;14 mph;76 %;29.99 in
+25.03.2006;Denizlispor;Galatasaray;1;2;Süper Lig;Partly Cloudy;NNE;41 °F;14 mph;76 %;29.99 in
+26.03.2006;Sincan Bld Ankaraspor;Ankaragücü;1;2;Süper Lig;Mostly Cloudy;NNE;45 °F;7 mph;76 %;29.99 in
+26.03.2006;Ç. Rizespor;Gaziantepspor;0;0;Süper Lig;Mostly Cloudy;W;43 °F;9 mph;87 %;29.90 in
+26.03.2006;Samsunspor;Kayserispor;0;0;Süper Lig;Fair;WSW;37 °F;2 mph;93 %;29.85 in
+26.03.2006;Erciyesspor;Trabzonspor;1;0;Süper Lig;Mostly Cloudy;NNE;45 °F;7 mph;76 %;29.99 in
+26.03.2006;Fenerbahçe;Malatyaspor;2;0;Süper Lig;Mostly Cloudy;NNE;45 °F;7 mph;76 %;29.99 in
+17.03.2006;Kayserispor;Beşiktaş;0;1;Süper Lig;Mostly Cloudy;VAR;37 °F;2 mph;93 %;26.38 in
+18.03.2006;Manisaspor;Denizlispor;4;2;Süper Lig;Mostly Cloudy;NE;43 °F;8 mph;70 %;29.94 in
+18.03.2006;Ankaragücü;Fenerbahçe;1;4;Süper Lig;Mostly Cloudy;NE;43 °F;8 mph;70 %;29.94 in
+19.03.2006;Gaziantepspor;Diyarbakırspor;2;0;Süper Lig;Mostly Cloudy;N;43 °F;10 mph;70 %;29.91 in
+19.03.2006;Konyaspor;Sincan Bld Ankaraspor;0;0;Süper Lig;Mostly Cloudy;N;39 °F;7 mph;81 %;26.35 in
+19.03.2006;Malatyaspor;Ç. Rizespor;1;0;Süper Lig;Mostly Cloudy;N;43 °F;10 mph;70 %;29.91 in
+19.03.2006;Sivasspor;Gençlerbirliği;2;1;Süper Lig;Fair;WSW;37 °F;2 mph;93 %;29.85 in
+19.03.2006;Trabzonspor;Samsunspor;2;1;Süper Lig;Mostly Cloudy;CALM;46 °F;0 mph;93 %;29.78 in
+19.03.2006;Galatasaray;Erciyesspor;4;2;Süper Lig;Mostly Cloudy;N;43 °F;10 mph;70 %;29.91 in
+10.03.2006;Erciyesspor;Manisaspor;2;1;Süper Lig;Fair;ENE;36 °F;5 mph;65 %;30.02 in
+11.03.2006;Gençlerbirliği;Gaziantepspor;3;1;Süper Lig;Fair;SSW;45 °F;12 mph;76 %;29.85 in
+11.03.2006;Ç. Rizespor;Ankaragücü;1;0;Süper Lig;Partly Cloudy;ESE;39 °F;6 mph;75 %;30.02 in
+11.03.2006;Fenerbahçe;Konyaspor;5;0;Süper Lig;Fair;SSW;45 °F;12 mph;76 %;29.85 in
+12.03.2006;Sincan Bld Ankaraspor;Kayserispor;1;3;Süper Lig;Mostly Cloudy;S;50 °F;18 mph;76 %;29.67 in
+12.03.2006;Denizlispor;Sivasspor;4;0;Süper Lig;Mostly Cloudy;S;50 °F;18 mph;76 %;29.67 in
+12.03.2006;Diyarbakırspor;Malatyaspor;3;2;Süper Lig;Mostly Cloudy;S;50 °F;18 mph;76 %;29.67 in
+12.03.2006;Samsunspor;Beşiktaş;1;3;Süper Lig;Fair;WSW;37 °F;2 mph;93 %;29.85 in
+12.03.2006;Trabzonspor;Galatasaray;1;1;Süper Lig;Fair / Windy;S;64 °F;24 mph;19 %;29.81 in
+04.03.2006;Manisaspor;Trabzonspor;1;2;Süper Lig;Fair;ESE;43 °F;8 mph;61 %;29.99 in
+04.03.2006;Galatasaray;Samsunspor;3;2;Süper Lig;Fair;ESE;43 °F;8 mph;61 %;29.99 in
+05.03.2006;Ankaragücü;Diyarbakırspor;5;1;Süper Lig;Fair;WSW;48 °F;14 mph;71 %;29.76 in
+05.03.2006;Gaziantepspor;Denizlispor;1;0;Süper Lig;Fair;WSW;48 °F;14 mph;71 %;29.76 in
+05.03.2006;Konyaspor;Ç. Rizespor;3;1;Süper Lig;Fair;SSW;43 °F;3 mph;66 %;26.48 in
+05.03.2006;Malatyaspor;Gençlerbirliği;1;3;Süper Lig;Fair;WSW;48 °F;14 mph;71 %;29.76 in
+05.03.2006;Sivasspor;Erciyesspor;3;0;Süper Lig;Fair;WSW;37 °F;2 mph;93 %;29.85 in
+05.03.2006;Beşiktaş;Sincan Bld Ankaraspor;3;0;Süper Lig;Fair;WSW;48 °F;14 mph;71 %;29.76 in
+05.03.2006;Kayserispor;Fenerbahçe;1;0;Süper Lig;Fair;NE;34 °F;5 mph;70 %;26.44 in
+25.02.2006;Erciyesspor;Gaziantepspor;1;0;Süper Lig;Mostly Cloudy;NNE;45 °F;14 mph;87 %;29.73 in
+25.02.2006;Galatasaray;Manisaspor;4;2;Süper Lig;Mostly Cloudy;NNE;45 °F;14 mph;87 %;29.73 in
+26.02.2006;Denizlispor;Malatyaspor;1;0;Süper Lig;Mostly Cloudy;N;45 °F;7 mph;93 %;29.82 in
+26.02.2006;Diyarbakırspor;Konyaspor;0;3;Süper Lig;Mostly Cloudy;N;45 °F;7 mph;93 %;29.82 in
+26.02.2006;Gençlerbirliği;Ankaragücü;1;1;Süper Lig;Mostly Cloudy;N;45 °F;7 mph;93 %;29.82 in
+26.02.2006;Ç. Rizespor;Kayserispor;0;0;Süper Lig;Partly Cloudy;WSW;46 °F;3 mph;87 %;29.78 in
+26.02.2006;Samsunspor;Sincan Bld Ankaraspor;0;1;Süper Lig;Fair;WSW;37 °F;2 mph;93 %;29.85 in
+26.02.2006;Trabzonspor;Sivasspor;0;0;Süper Lig;Partly Cloudy;WSW;46 °F;3 mph;87 %;29.78 in
+26.02.2006;Fenerbahçe;Beşiktaş;2;2;Süper Lig;Mostly Cloudy;N;45 °F;7 mph;93 %;29.82 in
+17.02.2006;Beşiktaş;Ç. Rizespor;0;1;Süper Lig;Fair;S;43 °F;18 mph;57 %;29.82 in
+18.02.2006;Sincan Bld Ankaraspor;Fenerbahçe;2;1;Süper Lig;Fair / Windy;SSW;48 °F;21 mph;71 %;29.79 in
+19.02.2006;Ankaragücü;Denizlispor;1;1;Süper Lig;Fair;WSW;50 °F;7 mph;76 %;30.05 in
+19.02.2006;Kayserispor;Diyarbakırspor;3;0;Süper Lig;Mostly Cloudy;VAR;32 °F;2 mph;93 %;26.64 in
+19.02.2006;Konyaspor;Gençlerbirliği;0;3;Süper Lig;Mostly Cloudy;SSW;37 °F;8 mph;81 %;26.69 in
+19.02.2006;Malatyaspor;Erciyesspor;2;2;Süper Lig;Fair;WSW;50 °F;7 mph;76 %;30.05 in
+19.02.2006;Manisaspor;Samsunspor;3;0;Süper Lig;Fair;WSW;50 °F;7 mph;76 %;30.05 in
+19.02.2006;Gaziantepspor;Trabzonspor;0;2;Süper Lig;Fair;WSW;50 °F;7 mph;76 %;30.05 in
+19.02.2006;Sivasspor;Galatasaray;0;0;Süper Lig;Fair;WSW;37 °F;2 mph;93 %;29.85 in
+10.02.2006;Diyarbakırspor;Beşiktaş;1;3;Süper Lig;Mostly Cloudy;S;45 °F;12 mph;66 %;29.76 in
+11.02.2006;Erciyesspor;Ankaragücü;1;2;Süper Lig;Mostly Cloudy;N;37 °F;12 mph;93 %;29.76 in
+11.02.2006;Manisaspor;Sivasspor;3;1;Süper Lig;Mostly Cloudy;N;37 °F;12 mph;93 %;29.76 in
+11.02.2006;Samsunspor;Fenerbahçe;0;5;Süper Lig;Fair;WSW;37 °F;2 mph;93 %;29.85 in
+12.02.2006;Denizlispor;Konyaspor;5;2;Süper Lig;Partly Cloudy;N;37 °F;5 mph;81 %;29.91 in
+12.02.2006;Gençlerbirliği;Kayserispor;3;2;Süper Lig;Partly Cloudy;N;37 °F;5 mph;81 %;29.91 in
+12.02.2006;Ç. Rizespor;Sincan Bld Ankaraspor;1;1;Süper Lig;Mostly Cloudy;CALM;43 °F;0 mph;93 %;29.87 in
+12.02.2006;Trabzonspor;Malatyaspor;1;0;Süper Lig;Mostly Cloudy;CALM;43 °F;0 mph;93 %;29.87 in
+12.02.2006;Galatasaray;Gaziantepspor;6;0;Süper Lig;Partly Cloudy;N;37 °F;5 mph;81 %;29.91 in
+03.02.2006;Fenerbahçe;Ç. Rizespor;1;1;Süper Lig;Fair;VAR;37 °F;2 mph;93 %;29.85 in
+04.02.2006;Sincan Bld Ankaraspor;Diyarbakırspor;3;3;Süper Lig;Fair;N;36 °F;5 mph;93 %;29.88 in
+04.02.2006;Kayserispor;Denizlispor;2;2;Süper Lig;Mostly Cloudy;WSW;30 °F;5 mph;93 %;26.36 in
+04.02.2006;Beşiktaş;Gençlerbirliği;2;1;Süper Lig;Fair;N;36 °F;5 mph;93 %;29.88 in
+05.02.2006;Gaziantepspor;Manisaspor;1;1;Süper Lig;Fair;NNW;36 °F;13 mph;100 %;29.94 in
+05.02.2006;Konyaspor;Erciyesspor;2;0;Süper Lig;Mostly Cloudy;SE;25 °F;5 mph;93 %;26.53 in
+05.02.2006;Sivasspor;Samsunspor;0;3;Süper Lig;Fair;WSW;37 °F;2 mph;93 %;29.85 in
+05.02.2006;Ankaragücü;Trabzonspor;1;2;Süper Lig;Fair;NNW;36 °F;13 mph;100 %;29.94 in
+05.02.2006;Malatyaspor;Galatasaray;1;1;Süper Lig;Fair;NNW;36 °F;13 mph;100 %;29.94 in
+29.03.2006;Erciyesspor;Kayserispor;0;0;Süper Lig;Fair;CALM;50 °F;0 mph;58 %;29.82 in
+29.03.2006;Gençlerbirliği;Sincan Bld Ankaraspor;2;1;Süper Lig;Fair;CALM;50 °F;0 mph;58 %;29.82 in
+29.03.2006;Sivasspor;Gaziantepspor;0;0;Süper Lig;Fair;WSW;37 °F;2 mph;93 %;29.85 in
+29.03.2006;Manisaspor;Malatyaspor;4;3;Süper Lig;Fair;CALM;50 °F;0 mph;58 %;29.82 in
+29.03.2006;Samsunspor;Ç. Rizespor;0;0;Süper Lig;Fair;WSW;37 °F;2 mph;93 %;29.85 in
+29.03.2006;Denizlispor;Beşiktaş;1;1;Süper Lig;Fair;CALM;50 °F;0 mph;58 %;29.82 in
+29.03.2006;Galatasaray;Ankaragücü;2;0;Süper Lig;Fair;CALM;50 °F;0 mph;58 %;29.82 in
+30.03.2006;Trabzonspor;Konyaspor;1;2;Süper Lig;Fair;VAR;46 °F;2 mph;87 %;29.75 in
+30.03.2006;Diyarbakırspor;Fenerbahçe;0;4;Süper Lig;Fair;WSW;59 °F;14 mph;67 %;29.73 in
+20.01.2006;Fenerbahçe;Gençlerbirliği;3;0;Süper Lig;Mostly Cloudy;NNW;39 °F;9 mph;81 %;29.94 in
+21.01.2006;Ankaragücü;Manisaspor;0;2;Süper Lig;Partly Cloudy;VAR;36 °F;1 mph;75 %;30.23 in
+21.01.2006;Beşiktaş;Erciyesspor;2;2;Süper Lig;Partly Cloudy;VAR;36 °F;1 mph;75 %;30.23 in
+22.01.2006;Sincan Bld Ankaraspor;Denizlispor;1;3;Süper Lig;Fair;SW;43 °F;9 mph;76 %;30.02 in
+22.01.2006;Malatyaspor;Sivasspor;0;0;Süper Lig;Fair;SW;43 °F;9 mph;76 %;30.02 in
+22.01.2006;Ç. Rizespor;Diyarbakırspor;2;0;Süper Lig;Mostly Cloudy;SE;32 °F;5 mph;60 %;30.14 in
+22.01.2006;Kayserispor;Trabzonspor;4;2;Süper Lig;Fair;VAR;18 °F;2 mph;79 %;26.62 in
+22.01.2006;Gaziantepspor;Samsunspor;0;1;Süper Lig;Fair;SW;43 °F;9 mph;76 %;30.02 in
+22.01.2006;Konyaspor;Galatasaray;0;1;Süper Lig;Fair;SSE;16 °F;5 mph;100 %;26.69 in
+16.12.2005;Kayserispor;Galatasaray;1;3;Süper Lig;Mostly Cloudy;WSW;37 °F;3 mph;93 %;26.20 in
+17.12.2005;Ankaragücü;Sivasspor;0;0;Süper Lig;Partly Cloudy / Windy;S;46 °F;22 mph;76 %;29.46 in
+17.12.2005;Malatyaspor;Gaziantepspor;2;0;Süper Lig;Partly Cloudy / Windy;S;46 °F;22 mph;76 %;29.46 in
+17.12.2005;Fenerbahçe;Denizlispor;6;2;Süper Lig;Partly Cloudy / Windy;S;46 °F;22 mph;76 %;29.46 in
+18.12.2005;Sincan Bld Ankaraspor;Erciyesspor;1;1;Süper Lig;Mostly Cloudy;NNE;43 °F;17 mph;87 %;29.49 in
+18.12.2005;Diyarbakırspor;Samsunspor;0;0;Süper Lig;Mostly Cloudy;NNE;43 °F;17 mph;87 %;29.49 in
+18.12.2005;Konyaspor;Manisaspor;1;1;Süper Lig;Partly Cloudy;S;45 °F;17 mph;71 %;26.32 in
+18.12.2005;Ç. Rizespor;Gençlerbirliği;1;1;Süper Lig;Mostly Cloudy;S;50 °F;2 mph;76 %;29.64 in
+18.12.2005;Beşiktaş;Trabzonspor;0;1;Süper Lig;Mostly Cloudy;NNE;43 °F;17 mph;87 %;29.49 in
+09.12.2005;Manisaspor;Kayserispor;1;0;Süper Lig;Mostly Cloudy;N;45 °F;5 mph;87 %;30.08 in
+10.12.2005;Gaziantepspor;Ankaragücü;1;1;Süper Lig;Fair;NE;46 °F;12 mph;71 %;30.23 in
+10.12.2005;Denizlispor;Ç. Rizespor;2;0;Süper Lig;Fair;NE;46 °F;12 mph;71 %;30.23 in
+10.12.2005;Galatasaray;Beşiktaş;3;2;Süper Lig;Fair;NE;46 °F;12 mph;71 %;30.23 in
+11.12.2005;Gençlerbirliği;Diyarbakırspor;4;0;Süper Lig;Mostly Cloudy;NNE;50 °F;17 mph;71 %;30.32 in
+11.12.2005;Samsunspor;Malatyaspor;1;2;Süper Lig;Fair;WSW;46 °F;12 mph;71 %;30.23 in
+11.12.2005;Sivasspor;Konyaspor;1;1;Süper Lig;Fair;WSW;43 °F;10 mph;60 %;29.23 in
+11.12.2005;Trabzonspor;Sincan Bld Ankaraspor;2;3;Süper Lig;Mostly Cloudy;CALM;50 °F;0 mph;94 %;30.31 in
+11.12.2005;Erciyesspor;Fenerbahçe;0;3;Süper Lig;Mostly Cloudy;NNE;50 °F;17 mph;71 %;30.32 in
+02.12.2005;Fenerbahçe;Trabzonspor;2;2;Süper Lig;Mostly Cloudy;VAR;57 °F;3 mph;72 %;29.82 in
+03.12.2005;Konyaspor;Gaziantepspor;3;2;Süper Lig;Fair;N;43 °F;6 mph;70 %;26.61 in
+03.12.2005;Ç. Rizespor;Erciyesspor;2;2;Süper Lig;Mostly Cloudy;WSW;64 °F;7 mph;59 %;29.81 in
+03.12.2005;Sincan Bld Ankaraspor;Galatasaray;1;2;Süper Lig;Mostly Cloudy / Windy;N;52 °F;21 mph;82 %;29.88 in
+04.12.2005;Diyarbakırspor;Denizlispor;1;0;Süper Lig;Fair;VAR;52 °F;1 mph;94 %;29.91 in
+04.12.2005;Gençlerbirliği;Samsunspor;0;1;Süper Lig;Fair;VAR;52 °F;1 mph;94 %;29.91 in
+04.12.2005;Kayserispor;Sivasspor;2;2;Süper Lig;Fair;NE;37 °F;3 mph;87 %;26.57 in
+04.12.2005;Beşiktaş;Manisaspor;3;1;Süper Lig;Fair;VAR;52 °F;1 mph;94 %;29.91 in
+05.12.2005;Malatyaspor;Ankaragücü;0;0;Süper Lig;Partly Cloudy;NW;54 °F;5 mph;88 %;29.85 in
+25.11.2005;Trabzonspor;Ç. Rizespor;3;1;Süper Lig;Partly Cloudy;VAR;45 °F;3 mph;66 %;30.05 in
+26.11.2005;Malatyaspor;Konyaspor;1;0;Süper Lig;Mostly Cloudy;S;54 °F;18 mph;82 %;29.88 in
+26.11.2005;Sivasspor;Beşiktaş;1;3;Süper Lig;Fair;WSW;46 °F;13 mph;100 %;26.40 in
+26.11.2005;Manisaspor;Sincan Bld Ankaraspor;1;0;Süper Lig;Mostly Cloudy;S;54 °F;18 mph;82 %;29.88 in
+27.11.2005;Ankaragücü;Samsunspor;1;1;Süper Lig;Mostly Cloudy;SW;55 °F;9 mph;88 %;29.91 in
+27.11.2005;Denizlispor;Gençlerbirliği;0;2;Süper Lig;Mostly Cloudy;SW;55 °F;9 mph;88 %;29.91 in
+27.11.2005;Erciyesspor;Diyarbakırspor;0;2;Süper Lig;Mostly Cloudy;SW;55 °F;9 mph;88 %;29.91 in
+27.11.2005;Gaziantepspor;Kayserispor;1;4;Süper Lig;Mostly Cloudy;SW;55 °F;9 mph;88 %;29.91 in
+27.11.2005;Galatasaray;Fenerbahçe;0;1;Süper Lig;Mostly Cloudy;SW;55 °F;9 mph;88 %;29.91 in
+19.11.2005;Diyarbakırspor;Trabzonspor;3;0;Süper Lig;Mostly Cloudy;W;52 °F;5 mph;94 %;29.82 in
+19.11.2005;Gençlerbirliği;Erciyesspor;3;0;Süper Lig;Mostly Cloudy;W;52 °F;5 mph;94 %;29.82 in
+19.11.2005;Samsunspor;Denizlispor;1;2;Süper Lig;Fair;WSW;46 °F;13 mph;100 %;26.40 in
+19.11.2005;Fenerbahçe;Manisaspor;2;1;Süper Lig;Mostly Cloudy;W;52 °F;5 mph;94 %;29.82 in
+20.11.2005;Sincan Bld Ankaraspor;Sivasspor;1;1;Süper Lig;Mostly Cloudy / Windy;NNW;43 °F;24 mph;93 %;29.76 in
+20.11.2005;Kayserispor;Malatyaspor;2;0;Süper Lig;Mostly Cloudy;VAR;43 °F;2 mph;81 %;26.36 in
+20.11.2005;Konyaspor;Ankaragücü;2;0;Süper Lig;Mostly Cloudy;S;46 °F;13 mph;100 %;26.40 in
+20.11.2005;Beşiktaş;Gaziantepspor;0;1;Süper Lig;Mostly Cloudy / Windy;NNW;43 °F;24 mph;93 %;29.76 in
+20.11.2005;Ç. Rizespor;Galatasaray;0;3;Süper Lig;Mostly Cloudy;CALM;57 °F;0 mph;51 %;29.75 in
+04.11.2005;Galatasaray;Diyarbakırspor;2;0;Süper Lig;Partly Cloudy;NW;46 °F;8 mph;87 %;30.11 in
+05.11.2005;Erciyesspor;Denizlispor;2;0;Süper Lig;Partly Cloudy;NNW;50 °F;15 mph;87 %;30.08 in
+05.11.2005;Trabzonspor;Gençlerbirliği;1;1;Süper Lig;Mostly Cloudy;S;55 °F;7 mph;77 %;29.87 in
+05.11.2005;Gaziantepspor;Sincan Bld Ankaraspor;3;3;Süper Lig;Partly Cloudy;NNW;50 °F;15 mph;87 %;30.08 in
+06.11.2005;Ankaragücü;Kayserispor;2;0;Süper Lig;Mostly Cloudy;N;39 °F;5 mph;87 %;26.61 in
+06.11.2005;Sivasspor;Fenerbahçe;2;3;Süper Lig;Fair;WSW;46 °F;13 mph;100 %;26.40 in
+06.11.2005;Manisaspor;Ç. Rizespor;1;1;Süper Lig;Mostly Cloudy;N;52 °F;13 mph;88 %;30.17 in
+06.11.2005;Konyaspor;Samsunspor;4;2;Süper Lig;Mostly Cloudy;NW;39 °F;5 mph;87 %;26.61 in
+06.11.2005;Malatyaspor;Beşiktaş;1;1;Süper Lig;Mostly Cloudy;N;52 °F;13 mph;88 %;30.17 in
+28.10.2005;Denizlispor;Trabzonspor;0;1;Süper Lig;Fair;VAR;59 °F;3 mph;94 %;29.99 in
+29.10.2005;Sincan Bld Ankaraspor;Malatyaspor;1;2;Süper Lig;Mostly Cloudy;NNE;54 °F;15 mph;58 %;30.20 in
+29.10.2005;Fenerbahçe;Gaziantepspor;1;0;Süper Lig;Mostly Cloudy;NNE;54 °F;15 mph;58 %;30.20 in
+30.10.2005;Diyarbakırspor;Manisaspor;0;2;Süper Lig;Mostly Cloudy;N;50 °F;12 mph;76 %;30.26 in
+30.10.2005;Gençlerbirliği;Galatasaray;2;1;Süper Lig;Mostly Cloudy;N;50 °F;12 mph;76 %;30.26 in
+30.10.2005;Kayserispor;Konyaspor;1;0;Süper Lig;Mostly Cloudy;NE;39 °F;5 mph;56 %;26.57 in
+30.10.2005;Ç. Rizespor;Sivasspor;1;0;Süper Lig;Mostly Cloudy;VAR;52 °F;3 mph;67 %;30.08 in
+30.10.2005;Samsunspor;Erciyesspor;1;1;Süper Lig;Fair;WSW;67 °F;4 mph;87 %;30.06 in
+30.10.2005;Beşiktaş;Ankaragücü;4;2;Süper Lig;Mostly Cloudy;N;50 °F;12 mph;76 %;30.26 in
+21.10.2005;Trabzonspor;Erciyesspor;0;0;Süper Lig;Mostly Cloudy;SSW;54 °F;7 mph;62 %;29.96 in
+22.10.2005;Ankaragücü;Sincan Bld Ankaraspor;3;2;Süper Lig;Fair;ENE;39 °F;5 mph;87 %;26.61 in
+22.10.2005;Galatasaray;Denizlispor;1;1;Süper Lig;Fair;ENE;54 °F;8 mph;67 %;30.11 in
+22.10.2005;Kayserispor;Samsunspor;6;3;Süper Lig;Fair;NNE;32 °F;5 mph;93 %;26.67 in
+23.10.2005;Gaziantepspor;Ç. Rizespor;1;1;Süper Lig;Fair;SSE;57 °F;3 mph;77 %;30.14 in
+23.10.2005;Konyaspor;Beşiktaş;0;1;Süper Lig;Fair;CALM;37 °F;0 mph;87 %;26.82 in
+23.10.2005;Sivasspor;Diyarbakırspor;4;1;Süper Lig;Fair;WSW;54 °F;8 mph;67 %;30.11 in
+23.10.2005;Manisaspor;Gençlerbirliği;0;3;Süper Lig;Fair;SSE;57 °F;3 mph;77 %;30.14 in
+23.10.2005;Malatyaspor;Fenerbahçe;0;3;Süper Lig;Fair;SSE;57 °F;3 mph;77 %;30.14 in
+15.10.2005;Erciyesspor;Galatasaray;1;2;Süper Lig;Fair;ENE;59 °F;7 mph;77 %;30.08 in
+15.10.2005;Sincan Bld Ankaraspor;Konyaspor;0;0;Süper Lig;Fair;ENE;59 °F;7 mph;77 %;30.08 in
+15.10.2005;Diyarbakırspor;Gaziantepspor;1;2;Süper Lig;Fair;ENE;59 °F;7 mph;77 %;30.08 in
+15.10.2005;Fenerbahçe;Ankaragücü;2;1;Süper Lig;Fair;ENE;59 °F;7 mph;77 %;30.08 in
+16.10.2005;Denizlispor;Manisaspor;1;1;Süper Lig;Partly Cloudy;NNW;57 °F;9 mph;77 %;29.99 in
+16.10.2005;Gençlerbirliği;Sivasspor;0;1;Süper Lig;Partly Cloudy;NNW;57 °F;9 mph;77 %;29.99 in
+16.10.2005;Ç. Rizespor;Malatyaspor;1;0;Süper Lig;Mostly Cloudy;SSE;61 °F;5 mph;88 %;29.84 in
+16.10.2005;Samsunspor;Trabzonspor;3;1;Süper Lig;Fair;WSW;60 °F;7 mph;80 %;30.06 in
+16.10.2005;Beşiktaş;Kayserispor;0;0;Süper Lig;Partly Cloudy;NNW;57 °F;9 mph;77 %;29.99 in
+30.09.2005;Gaziantepspor;Gençlerbirliği;1;1;Süper Lig;Partly Cloudy;WNW;61 °F;7 mph;94 %;29.94 in
+01.10.2005;Sivasspor;Denizlispor;1;0;Süper Lig;Fair;WSW;58 °F;4 mph;58 %;30.06 in
+01.10.2005;Konyaspor;Fenerbahçe;2;4;Süper Lig;Fair;NW;57 °F;2 mph;72 %;26.59 in
+01.10.2005;Manisaspor;Erciyesspor;0;2;Süper Lig;Fair;ENE;66 °F;8 mph;78 %;29.88 in
+02.10.2005;Beşiktaş;Samsunspor;3;2;Süper Lig;Partly Cloudy;ENE;70 °F;6 mph;73 %;29.82 in
+02.10.2005;Ankaragücü;Ç. Rizespor;1;0;Süper Lig;Partly Cloudy;ENE;70 °F;6 mph;73 %;29.82 in
+02.10.2005;Kayserispor;Sincan Bld Ankaraspor;2;1;Süper Lig;Fair;ENE;54 °F;5 mph;67 %;26.57 in
+02.10.2005;Malatyaspor;Diyarbakırspor;1;2;Süper Lig;Partly Cloudy;ENE;70 °F;6 mph;73 %;29.82 in
+02.10.2005;Galatasaray;Trabzonspor;4;1;Süper Lig;Partly Cloudy;ENE;70 °F;6 mph;73 %;29.82 in
+23.09.2005;Trabzonspor;Manisaspor;0;2;Süper Lig;Mostly Cloudy;VAR;73 °F;3 mph;83 %;29.75 in
+24.09.2005;Denizlispor;Gaziantepspor;1;2;Süper Lig;Mostly Cloudy;NW;64 °F;6 mph;77 %;29.88 in
+24.09.2005;Fenerbahçe;Kayserispor;3;0;Süper Lig;Mostly Cloudy;NW;64 °F;6 mph;77 %;29.88 in
+24.09.2005;Gençlerbirliği;Malatyaspor;2;0;Süper Lig;Mostly Cloudy;NW;64 °F;6 mph;77 %;29.88 in
+25.09.2005;Sincan Bld Ankaraspor;Beşiktaş;2;0;Süper Lig;Mostly Cloudy;VAR;64 °F;3 mph;77 %;29.88 in
+25.09.2005;Diyarbakırspor;Ankaragücü;0;3;Süper Lig;Mostly Cloudy;VAR;64 °F;3 mph;77 %;29.88 in
+25.09.2005;Erciyesspor;Sivasspor;0;0;Süper Lig;Mostly Cloudy;VAR;64 °F;3 mph;77 %;29.88 in
+25.09.2005;Ç. Rizespor;Konyaspor;1;1;Süper Lig;Mostly Cloudy;S;68 °F;8 mph;78 %;29.75 in
+25.09.2005;Samsunspor;Galatasaray;1;2;Süper Lig;Fair;WSW;61 °F;5 mph;94 %;30.06 in
+16.09.2005;Sivasspor;Trabzonspor;2;1;Süper Lig;Fair;WSW;55 °F;3 mph;55 %;30.06 in
+17.09.2005;Ankaragücü;Gençlerbirliği;1;1;Süper Lig;Partly Cloudy;NNW;70 °F;10 mph;88 %;29.64 in
+17.09.2005;Kayserispor;Ç. Rizespor;3;1;Süper Lig;Mostly Cloudy;SE;59 °F;5 mph;88 %;26.44 in
+17.09.2005;Konyaspor;Diyarbakırspor;5;1;Süper Lig;Mostly Cloudy;ESE;57 °F;3 mph;94 %;26.43 in
+17.09.2005;Malatyaspor;Denizlispor;0;1;Süper Lig;Partly Cloudy;NNW;70 °F;10 mph;88 %;29.64 in
+18.09.2005;Manisaspor;Galatasaray;1;4;Süper Lig;Fair;ENE;72 °F;5 mph;78 %;29.82 in
+18.09.2005;Sincan Bld Ankaraspor;Samsunspor;3;3;Süper Lig;Fair;ENE;72 °F;5 mph;78 %;29.82 in
+18.09.2005;Beşiktaş;Fenerbahçe;1;2;Süper Lig;Fair;ENE;72 °F;5 mph;78 %;29.82 in
+18.09.2005;Gaziantepspor;Erciyesspor;1;2;Süper Lig;Fair;ENE;72 °F;5 mph;78 %;29.82 in
+10.09.2005;Ç. Rizespor;Beşiktaş;1;0;Süper Lig;Mostly Cloudy;S;72 °F;5 mph;64 %;29.81 in
+10.09.2005;Diyarbakırspor;Kayserispor;0;2;Süper Lig;Fair;N;72 °F;6 mph;64 %;29.94 in
+10.09.2005;Erciyesspor;Malatyaspor;1;1;Süper Lig;Fair;N;72 °F;6 mph;64 %;29.94 in
+10.09.2005;Fenerbahçe;Sincan Bld Ankaraspor;2;1;Süper Lig;Fair;N;72 °F;6 mph;64 %;29.94 in
+11.09.2005;Trabzonspor;Gaziantepspor;2;0;Süper Lig;Mostly Cloudy;VAR;70 °F;2 mph;73 %;29.75 in
+11.09.2005;Denizlispor;Ankaragücü;0;0;Süper Lig;Fair;E;70 °F;6 mph;78 %;29.82 in
+11.09.2005;Galatasaray;Sivasspor;2;0;Süper Lig;Fair;E;70 °F;6 mph;78 %;29.82 in
+11.09.2005;Gençlerbirliği;Konyaspor;1;1;Süper Lig;Fair;E;70 °F;6 mph;78 %;29.82 in
+11.09.2005;Samsunspor;Manisaspor;1;1;Süper Lig;Fair;WSW;66 °F;5 mph;77 %;30.06 in
+26.08.2005;Gaziantepspor;Galatasaray;2;2;Süper Lig;Fair;NE;75 °F;8 mph;73 %;29.82 in
+27.08.2005;Sincan Bld Ankaraspor;Ç. Rizespor;0;0;Süper Lig;Fair;NE;75 °F;9 mph;69 %;29.88 in
+27.08.2005;Fenerbahçe;Samsunspor;5;2;Süper Lig;Fair;NE;75 °F;9 mph;69 %;29.88 in
+27.08.2005;Konyaspor;Denizlispor;1;0;Süper Lig;Partly Cloudy;N;77 °F;9 mph;44 %;26.43 in
+27.08.2005;Sivasspor;Manisaspor;1;0;Süper Lig;Fair;WSW;74 °F;4 mph;77 %;30.06 in
+28.08.2005;Malatyaspor;Trabzonspor;1;1;Süper Lig;Fair;NE;75 °F;7 mph;69 %;29.91 in
+28.08.2005;Ankaragücü;Erciyesspor;1;2;Süper Lig;Fair;NE;75 °F;7 mph;69 %;29.91 in
+28.08.2005;Kayserispor;Gençlerbirliği;2;0;Süper Lig;Partly Cloudy;NNE;68 °F;9 mph;64 %;26.44 in
+28.08.2005;Beşiktaş;Diyarbakırspor;1;1;Süper Lig;Fair;NE;75 °F;7 mph;69 %;29.91 in
+20.08.2005;Trabzonspor;Ankaragücü;3;1;Süper Lig;Mostly Cloudy;CALM;79 °F;0 mph;78 %;29.72 in
+20.08.2005;Denizlispor;Kayserispor;1;3;Süper Lig;Fair;ENE;75 °F;6 mph;69 %;29.82 in
+20.08.2005;Samsunspor;Sivasspor;1;2;Süper Lig;Fair;WSW;67 °F;5 mph;67 %;30.06 in
+20.08.2005;Gençlerbirliği;Beşiktaş;0;2;Süper Lig;Fair;ENE;75 °F;6 mph;69 %;29.82 in
+21.08.2005;Ç. Rizespor;Fenerbahçe;1;2;Süper Lig;Mostly Cloudy;S;77 °F;14 mph;65 %;29.64 in
+21.08.2005;Diyarbakırspor;Sincan Bld Ankaraspor;1;2;Süper Lig;Fair;NNW;72 °F;8 mph;78 %;29.79 in
+21.08.2005;Erciyesspor;Konyaspor;0;0;Süper Lig;Fair;NNW;72 °F;8 mph;78 %;29.79 in
+21.08.2005;Manisaspor;Gaziantepspor;1;2;Süper Lig;Fair;NNW;72 °F;8 mph;78 %;29.79 in
+21.08.2005;Galatasaray;Malatyaspor;5;2;Süper Lig;Fair;NNW;72 °F;8 mph;78 %;29.79 in
+12.08.2005;Ankaragücü;Galatasaray;0;1;Süper Lig;Fair;NE;73 °F;7 mph;61 %;29.88 in
+13.08.2005;Gaziantepspor;Sivasspor;0;0;Süper Lig;Fair;ENE;75 °F;7 mph;69 %;29.85 in
+13.08.2005;Malatyaspor;Manisaspor;0;5;Süper Lig;Fair;ENE;75 °F;7 mph;69 %;29.85 in
+13.08.2005;Ç. Rizespor;Samsunspor;1;2;Süper Lig;Mostly Cloudy;S;73 °F;5 mph;83 %;29.87 in
+13.08.2005;Fenerbahçe;Diyarbakırspor;2;2;Süper Lig;Fair;ENE;75 °F;7 mph;69 %;29.85 in
+14.08.2005;Konyaspor;Trabzonspor;0;0;Süper Lig;Fair;NNW;75 °F;9 mph;34 %;26.53 in
+14.08.2005;Sincan Bld Ankaraspor;Gençlerbirliği;0;0;Süper Lig;Fair;NNE;79 °F;8 mph;36 %;29.76 in
+14.08.2005;Kayserispor;Erciyesspor;1;2;Süper Lig;Fair;NNE;68 °F;5 mph;46 %;26.49 in
+14.08.2005;Beşiktaş;Denizlispor;2;0;Süper Lig;Fair;NNE;79 °F;8 mph;36 %;29.76 in
+05.08.2005;Gençlerbirliği;Fenerbahçe;0;0;Süper Lig;Fair;NE;81 °F;14 mph;54 %;29.61 in
+06.08.2005;Erciyesspor;Beşiktaş;1;1;Süper Lig;Fair;NNE;67 °F;11 mph;72 %;29.55 in
+06.08.2005;Diyarbakırspor;Ç. Rizespor;1;0;Süper Lig;Fair;NNE;79 °F;17 mph;74 %;29.55 in
+06.08.2005;Sivasspor;Malatyaspor;1;1;Süper Lig;Fair;WSW;77 °F;5 mph;83 %;29.61 in
+06.08.2005;Trabzonspor;Kayserispor;2;1;Süper Lig;Partly Cloudy;SSE;77 °F;5 mph;83 %;29.61 in
+07.08.2005;Denizlispor;Sincan Bld Ankaraspor;1;1;Süper Lig;Mostly Cloudy;NW;73 °F;14 mph;88 %;29.58 in
+07.08.2005;Galatasaray;Konyaspor;2;1;Süper Lig;Mostly Cloudy;NW;73 °F;14 mph;88 %;29.58 in
+07.08.2005;Samsunspor;Gaziantepspor;2;3;Süper Lig;Fair;WSW;67 °F;5 mph;83 %;29.61 in
+07.08.2005;Manisaspor;Ankaragücü;2;2;Süper Lig;Mostly Cloudy;NW;73 °F;14 mph;88 %;29.58 in

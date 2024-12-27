@@ -1,0 +1,343 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+06.06.2023;F. Karagümrük;Kasımpaşa;3;0;Süper Lig;Fair;NNE;13 mph;64 °F;83 %;29.91 in
+06.06.2023;Sivasspor;Kayserispor;1;1;Süper Lig;Mostly Cloudy;N;7 mph;50 °F;100 %;24.84 in
+06.06.2023;Başakşehir;Trabzonspor;3;1;Süper Lig;Fair;NNE;13 mph;64 °F;83 %;29.91 in
+07.06.2023;Hatayspor;Galatasaray;0;3;Süper Lig;Fair;W;5 mph;74 °F;79 %;29.88 in
+07.06.2023;Fenerbahçe;Gaziantep FK;3;0;Süper Lig;Fair;NE;14 mph;64 °F;83 %;29.88 in
+07.06.2023;Giresunspor;Antalyaspor;2;0;Süper Lig;Fair;NE;14 mph;64 °F;83 %;29.88 in
+07.06.2023;İstanbulspor;Ümraniyespor;4;0;Süper Lig;Fair;NE;14 mph;64 °F;83 %;29.88 in
+07.06.2023;Ankaragücü;Adana Demirspor;1;2;Süper Lig;Fair;NE;14 mph;64 °F;83 %;29.88 in
+07.06.2023;Beşiktaş;Konyaspor;3;3;Süper Lig;Fair;NE;14 mph;64 °F;83 %;29.88 in
+03.06.2023;Konyaspor;F. Karagümrük;1;1;Süper Lig;Partly Cloudy;W;3 mph;57 °F;94 %;26.43 in
+03.06.2023;Trabzonspor;Alanyaspor;5;1;Süper Lig;Mostly Cloudy;SE;8 mph;68 °F;94 %;29.80 in
+03.06.2023;Kasımpaşa;Beşiktaş;2;5;Süper Lig;Mostly Cloudy;NE;12 mph;68 °F;73 %;29.65 in
+03.06.2023;Kayserispor;Ankaragücü;0;1;Süper Lig;Partly Cloudy;NE;6 mph;57 °F;82 %;26.41 in
+03.06.2023;Adana Demirspor;Başakşehir;2;3;Süper Lig;Fair;N;8 mph;81 °F;45 %;29.67 in
+03.06.2023;Gaziantep FK;İstanbulspor;0;3;Süper Lig;Fair;NW;5 mph;68 °F;49 %;27.54 in
+03.06.2023;Ümraniyespor;Giresunspor;0;1;Süper Lig;Mostly Cloudy;NE;12 mph;68 °F;73 %;29.65 in
+03.06.2023;Antalyaspor;Hatayspor;3;0;Süper Lig;Partly Cloudy;SE;6 mph;73 °F;69 %;29.56 in
+04.06.2023;Galatasaray;Fenerbahçe;3;0;Süper Lig;Light Rain Shower;NNE;10 mph;66 °F;88 %;29.80 in
+30.05.2023;Fenerbahçe;Antalyaspor;2;0;Süper Lig;Mostly Cloudy;N;7 mph;64 °F;88 %;29.68 in
+30.05.2023;Hatayspor;Ümraniyespor;0;3;Süper Lig;Fair;WSW;3 mph;72 °F;76 %;29.88 in
+30.05.2023;Ankaragücü;Galatasaray;1;4;Süper Lig;Mostly Cloudy;N;7 mph;64 °F;88 %;29.68 in
+30.05.2023;Giresunspor;Trabzonspor;2;4;Süper Lig;Mostly Cloudy;N;7 mph;64 °F;88 %;29.68 in
+30.05.2023;Başakşehir;Gaziantep FK;3;0;Süper Lig;Mostly Cloudy;N;7 mph;64 °F;88 %;29.68 in
+30.05.2023;İstanbulspor;Adana Demirspor;0;2;Süper Lig;Mostly Cloudy;N;7 mph;64 °F;88 %;29.68 in
+30.05.2023;Alanyaspor;Kasımpaşa;1;3;Süper Lig;Fair;E;6 mph;61 °F;100 %;29.79 in
+30.05.2023;Sivasspor;Konyaspor;1;0;Süper Lig;Mostly Cloudy;ESE;9 mph;48 °F;87 %;24.74 in
+30.05.2023;F. Karagümrük;Kayserispor;2;0;Süper Lig;Mostly Cloudy;N;7 mph;64 °F;88 %;29.68 in
+20.05.2023;Hatayspor;Fenerbahçe;0;3;Süper Lig;Fair;WSW;8 mph;70 °F;72 %;29.83 in
+20.05.2023;Gaziantep FK;Giresunspor;0;3;Süper Lig;Fair;WSW;7 mph;59 °F;67 %;27.38 in
+20.05.2023;Kasımpaşa;İstanbulspor;1;0;Süper Lig;Mostly Cloudy;NW;9 mph;59 °F;88 %;29.77 in
+20.05.2023;Kayserispor;Alanyaspor;0;4;Süper Lig;Mostly Cloudy;WSW;5 mph;54 °F;77 %;26.33 in
+20.05.2023;Galatasaray;Sivasspor;2;0;Süper Lig;Mostly Cloudy;NW;9 mph;59 °F;88 %;29.77 in
+21.05.2023;Ümraniyespor;Ankaragücü;1;2;Süper Lig;Mostly Cloudy;N;10 mph;61 °F;82 %;29.68 in
+21.05.2023;Adana Demirspor;Beşiktaş;1;4;Süper Lig;Partly Cloudy;CALM;0 mph;64 °F;88 %;29.70 in
+21.05.2023;Antalyaspor;Başakşehir;0;0;Süper Lig;Partly Cloudy;NNW;10 mph;68 °F;78 %;29.62 in
+22.05.2023;Trabzonspor;F. Karagümrük;4;1;Süper Lig;Partly Cloudy;S;3 mph;57 °F;100 %;29.74 in
+16.05.2023;Sivasspor;Kasımpaşa;1;2;Süper Lig;Fair;NW;5 mph;39 °F;81 %;24.86 in
+16.05.2023;İstanbulspor;Galatasaray;0;2;Süper Lig;Fair;N;6 mph;64 °F;52 %;29.77 in
+16.05.2023;Alanyaspor;Konyaspor;0;3;Süper Lig;Fair;ESE;7 mph;66 °F;78 %;29.79 in
+17.05.2023;Başakşehir;Ümraniyespor;1;1;Süper Lig;Mostly Cloudy;NNW;16 mph;63 °F;77 %;29.65 in
+17.05.2023;Beşiktaş;Gaziantep FK;3;0;Süper Lig;Mostly Cloudy;NNW;16 mph;63 °F;77 %;29.65 in
+17.05.2023;Giresunspor;Hatayspor;3;0;Süper Lig;Mostly Cloudy;NNW;16 mph;63 °F;77 %;29.65 in
+17.05.2023;Ankaragücü;Antalyaspor;1;1;Süper Lig;Mostly Cloudy;NNW;16 mph;63 °F;77 %;29.65 in
+17.05.2023;F. Karagümrük;Adana Demirspor;2;3;Süper Lig;Mostly Cloudy;NNW;16 mph;63 °F;77 %;29.65 in
+18.05.2023;Fenerbahçe;Trabzonspor;3;1;Süper Lig;Partly Cloudy;N;7 mph;59 °F;82 %;29.59 in
+06.05.2023;Antalyaspor;Beşiktaş;1;3;Süper Lig;Light Rain Shower;VAR;1 mph;66 °F;94 %;29.50 in
+06.05.2023;Adana Demirspor;Alanyaspor;4;2;Süper Lig;Light Rain Shower;SSW;14 mph;70 °F;83 %;29.73 in
+07.05.2023;Gaziantep FK;F. Karagümrük;0;3;Süper Lig;Fair;WSW;7 mph;54 °F;88 %;27.40 in
+07.05.2023;Hatayspor;İstanbulspor;0;3;Süper Lig;N/A;NE;3 mph;67 °F;65 %;29.85 in
+07.05.2023;Ümraniyespor;Sivasspor;4;1;Süper Lig;Mostly Cloudy;NNE;10 mph;57 °F;82 %;29.80 in
+07.05.2023;Konyaspor;Kayserispor;2;2;Süper Lig;Partly Cloudy;N;6 mph;48 °F;82 %;26.38 in
+07.05.2023;Giresunspor;Fenerbahçe;1;1;Süper Lig;Mostly Cloudy;NNE;10 mph;57 °F;82 %;29.80 in
+08.05.2023;Trabzonspor;Ankaragücü;2;0;Süper Lig;Mostly Cloudy;CALM;0 mph;57 °F;94 %;29.86 in
+08.05.2023;Galatasaray;Başakşehir;1;0;Süper Lig;Mostly Cloudy;ENE;8 mph;55 °F;77 %;29.91 in
+28.04.2023;Alanyaspor;Ümraniyespor;1;0;Süper Lig;Fair;E;7 mph;54 °F;94 %;29.67 in
+29.04.2023;F. Karagümrük;Antalyaspor;0;1;Süper Lig;Fair;WNW;3 mph;52 °F;50 %;29.88 in
+29.04.2023;Konyaspor;Trabzonspor;2;1;Süper Lig;Fair;N;17 mph;37 °F;70 %;26.43 in
+29.04.2023;Ankaragücü;Kasımpaşa;0;0;Süper Lig;Fair;WNW;3 mph;52 °F;50 %;29.88 in
+29.04.2023;Sivasspor;Fenerbahçe;1;3;Süper Lig;Mostly Cloudy;VAR;2 mph;39 °F;93 %;24.57 in
+30.04.2023;Beşiktaş;Galatasaray;3;1;Süper Lig;Fair;SW;2 mph;52 °F;58 %;29.80 in
+30.04.2023;Kayserispor;Gaziantep FK;3;0;Süper Lig;Mostly Cloudy;W;5 mph;43 °F;87 %;26.28 in
+30.04.2023;Başakşehir;Hatayspor;3;0;Süper Lig;Fair;SW;2 mph;52 °F;58 %;29.80 in
+01.05.2023;İstanbulspor;Giresunspor;1;0;Süper Lig;Fair;W;3 mph;54 °F;67 %;29.80 in
+22.04.2023;Ümraniyespor;Beşiktaş;0;2;Süper Lig;Mostly Cloudy;E;5 mph;55 °F;67 %;29.74 in
+23.04.2023;Hatayspor;Ankaragücü;0;3;Süper Lig;N/A;CALM;0 mph;65 °F;56 %;29.85 in
+23.04.2023;Kasımpaşa;Konyaspor;1;2;Süper Lig;Fair;NNE;9 mph;54 °F;67 %;29.82 in
+23.04.2023;Adana Demirspor;Kayserispor;5;3;Süper Lig;Fair;SSE;3 mph;64 °F;83 %;29.75 in
+23.04.2023;Gaziantep FK;Alanyaspor;0;3;Süper Lig;Fair;NNW;2 mph;59 °F;59 %;27.48 in
+23.04.2023;Galatasaray;F. Karagümrük;3;3;Süper Lig;Fair;NNE;9 mph;54 °F;67 %;29.82 in
+24.04.2023;Giresunspor;Başakşehir;2;4;Süper Lig;Fair;NE;12 mph;50 °F;82 %;29.82 in
+24.04.2023;Antalyaspor;Sivasspor;1;2;Süper Lig;Fair;WNW;14 mph;63 °F;52 %;29.68 in
+24.04.2023;Fenerbahçe;İstanbulspor;3;3;Süper Lig;Fair;NE;12 mph;50 °F;82 %;29.82 in
+18.04.2023;F. Karagümrük;Ümraniyespor;4;2;Süper Lig;Fair;NNE;7 mph;52 °F;88 %;29.68 in
+18.04.2023;Alanyaspor;Galatasaray;1;4;Süper Lig;Fair;E;6 mph;59 °F;67 %;29.76 in
+19.04.2023;İstanbulspor;Antalyaspor;3;3;Süper Lig;Partly Cloudy;N;7 mph;52 °F;88 %;29.68 in
+19.04.2023;Kayserispor;Kasımpaşa;0;0;Süper Lig;Fair;CALM;0 mph;43 °F;81 %;26.41 in
+19.04.2023;Beşiktaş;Hatayspor;3;0;Süper Lig;Partly Cloudy;N;7 mph;52 °F;88 %;29.68 in
+19.04.2023;Konyaspor;Adana Demirspor;1;2;Süper Lig;Fair;VAR;2 mph;48 °F;62 %;26.43 in
+19.04.2023;Başakşehir;Fenerbahçe;1;2;Süper Lig;Partly Cloudy;N;7 mph;52 °F;88 %;29.68 in
+20.04.2023;Ankaragücü;Giresunspor;3;1;Süper Lig;Mostly Cloudy;N;2 mph;54 °F;82 %;29.68 in
+20.04.2023;Sivasspor;Trabzonspor;4;1;Süper Lig;Mostly Cloudy;S;16 mph;50 °F;66 %;24.64 in
+14.04.2023;Antalyaspor;Alanyaspor;3;1;Süper Lig;Fair;NE;8 mph;57 °F;77 %;29.82 in
+14.04.2023;Galatasaray;Kayserispor;6;0;Süper Lig;Fair;VAR;1 mph;54 °F;67 %;29.71 in
+15.04.2023;İstanbulspor;Başakşehir;1;0;Süper Lig;Fair;ESE;5 mph;59 °F;67 %;29.68 in
+15.04.2023;Adana Demirspor;Kasımpaşa;5;0;Süper Lig;Fair;NE;3 mph;55 °F;88 %;30.08 in
+15.04.2023;Fenerbahçe;Ankaragücü;2;1;Süper Lig;Fair;ESE;5 mph;59 °F;67 %;29.68 in
+16.04.2023;Hatayspor;F. Karagümrük;0;3;Süper Lig;N/A;ESE;7 mph;72 °F;36 %;29.98 in
+16.04.2023;Gaziantep FK;Konyaspor;0;3;Süper Lig;Fair;VAR;2 mph;50 °F;82 %;27.65 in
+16.04.2023;Giresunspor;Sivasspor;1;0;Süper Lig;Fair;NNW;5 mph;61 °F;59 %;29.74 in
+16.04.2023;Trabzonspor;Beşiktaş;0;0;Süper Lig;Fair;CALM;0 mph;59 °F;63 %;29.89 in
+07.04.2023;Konyaspor;Antalyaspor;1;1;Süper Lig;Mostly Cloudy;S;7 mph;43 °F;87 %;26.40 in
+08.04.2023;Ankaragücü;İstanbulspor;3;2;Süper Lig;Fair;NE;8 mph;45 °F;87 %;29.91 in
+08.04.2023;Kasımpaşa;Trabzonspor;2;0;Süper Lig;Fair;NE;8 mph;45 °F;87 %;29.91 in
+09.04.2023;Sivasspor;Başakşehir;1;1;Süper Lig;Mostly Cloudy;VAR;1 mph;34 °F;81 %;24.86 in
+09.04.2023;Adana Demirspor;Gaziantep FK;3;0;Süper Lig;Mostly Cloudy;ENE;5 mph;61 °F;72 %;29.93 in
+09.04.2023;Beşiktaş;Giresunspor;3;1;Süper Lig;Fair;ENE;13 mph;50 °F;76 %;29.91 in
+09.04.2023;Alanyaspor;Hatayspor;3;0;Süper Lig;Mostly Cloudy;NE;3 mph;59 °F;77 %;29.93 in
+10.04.2023;Kayserispor;Ümraniyespor;3;1;Süper Lig;Mostly Cloudy;CALM;0 mph;50 °F;87 %;26.41 in
+10.04.2023;F. Karagümrük;Fenerbahçe;1;2;Süper Lig;Partly Cloudy;NE;16 mph;50 °F;76 %;29.82 in
+01.04.2023;Başakşehir;Ankaragücü;1;0;Süper Lig;Fair;W;5 mph;52 °F;71 %;29.71 in
+01.04.2023;Trabzonspor;Kayserispor;3;4;Süper Lig;Fair;S;7 mph;41 °F;61 %;29.98 in
+01.04.2023;Galatasaray;Adana Demirspor;2;0;Süper Lig;Fair;W;5 mph;52 °F;71 %;29.71 in
+02.04.2023;Ümraniyespor;Konyaspor;2;2;Süper Lig;Mostly Cloudy;SW;12 mph;55 °F;82 %;29.50 in
+02.04.2023;Giresunspor;Alanyaspor;2;2;Süper Lig;Mostly Cloudy;SW;12 mph;55 °F;82 %;29.50 in
+02.04.2023;Hatayspor;Sivasspor;0;3;Süper Lig;N/A;CALM;0 mph;62 °F;60 %;30.02 in
+02.04.2023;Gaziantep FK;Kasımpaşa;0;3;Süper Lig;Fair;CALM;0 mph;45 °F;87 %;27.59 in
+02.04.2023;Fenerbahçe;Beşiktaş;2;4;Süper Lig;Mostly Cloudy;SW;12 mph;55 °F;82 %;29.50 in
+03.04.2023;İstanbulspor;F. Karagümrük;0;1;Süper Lig;Mostly Cloudy;SE;3 mph;55 °F;88 %;29.65 in
+17.03.2023;Konyaspor;Galatasaray;2;1;Süper Lig;Partly Cloudy;S;8 mph;45 °F;71 %;26.35 in
+18.03.2023;Kasımpaşa;Ümraniyespor;1;1;Süper Lig;Light Rain Shower;N;14 mph;45 °F;87 %;29.91 in
+18.03.2023;Adana Demirspor;Antalyaspor;2;0;Süper Lig;Mostly Cloudy;N;7 mph;55 °F;88 %;29.78 in
+18.03.2023;Beşiktaş;İstanbulspor;3;1;Süper Lig;Light Rain Shower;N;14 mph;45 °F;87 %;29.91 in
+19.03.2023;Sivasspor;Ankaragücü;2;0;Süper Lig;Light Rain Shower;ENE;12 mph;39 °F;93 %;24.59 in
+19.03.2023;F. Karagümrük;Başakşehir;2;2;Süper Lig;Cloudy;N;18 mph;46 °F;93 %;29.88 in
+19.03.2023;Gaziantep FK;Trabzonspor;0;3;Süper Lig;T-Storm;N;6 mph;48 °F;93 %;27.38 in
+19.03.2023;Alanyaspor;Fenerbahçe;1;3;Süper Lig;Fair;ESE;5 mph;50 °F;94 %;29.70 in
+19.03.2023;Kayserispor;Hatayspor;3;0;Süper Lig;Light Rain Shower;ESE;7 mph;46 °F;71 %;26.25 in
+10.03.2023;Giresunspor;F. Karagümrük;2;2;Süper Lig;Fair;WSW;12 mph;54 °F;82 %;29.65 in
+11.03.2023;Antalyaspor;Kayserispor;4;0;Süper Lig;Mostly Cloudy;E;9 mph;59 °F;88 %;29.82 in
+11.03.2023;Galatasaray;Kasımpaşa;1;0;Süper Lig;Mostly Cloudy;SSW;10 mph;57 °F;77 %;29.53 in
+12.03.2023;Ankaragücü;Alanyaspor;2;0;Süper Lig;Mostly Cloudy;WSW;5 mph;54 °F;88 %;29.38 in
+12.03.2023;Trabzonspor;Adana Demirspor;4;1;Süper Lig;Fair;S;14 mph;75 °F;21 %;29.59 in
+12.03.2023;Başakşehir;Beşiktaş;0;2;Süper Lig;Mostly Cloudy;WSW;5 mph;54 °F;88 %;29.38 in
+12.03.2023;Ümraniyespor;Gaziantep FK;3;0;Süper Lig;Mostly Cloudy;WSW;5 mph;54 °F;88 %;29.38 in
+12.03.2023;Hatayspor;Konyaspor;0;3;Süper Lig;N/A;NNW;2 mph;65 °F;72 %;29.84 in
+13.03.2023;İstanbulspor;Sivasspor;3;0;Süper Lig;Mostly Cloudy;NNE;17 mph;46 °F;66 %;29.82 in
+03.03.2023;Alanyaspor;Başakşehir;1;0;Süper Lig;Partly Cloudy;NNE;5 mph;63 °F;59 %;29.73 in
+04.03.2023;F. Karagümrük;Sivasspor;4;3;Süper Lig;Mostly Cloudy;W;3 mph;48 °F;82 %;29.88 in
+04.03.2023;Trabzonspor;Ümraniyespor;1;2;Süper Lig;Mostly Cloudy;VAR;2 mph;50 °F;87 %;29.89 in
+04.03.2023;Kayserispor;Fenerbahçe;1;2;Süper Lig;Partly Cloudy;VAR;1 mph;41 °F;81 %;26.41 in
+05.03.2023;Konyaspor;Giresunspor;0;0;Süper Lig;Mostly Cloudy;W;14 mph;52 °F;50 %;26.51 in
+05.03.2023;Gaziantep FK;Galatasaray;0;3;Süper Lig;Fair;VAR;1 mph;50 °F;66 %;27.62 in
+05.03.2023;Beşiktaş;Ankaragücü;2;1;Süper Lig;Mostly Cloudy;CALM;0 mph;48 °F;93 %;29.74 in
+05.03.2023;Adana Demirspor;Hatayspor;3;0;Süper Lig;Fair;ENE;3 mph;55 °F;88 %;29.96 in
+06.03.2023;Kasımpaşa;Antalyaspor;3;1;Süper Lig;Light Rain Shower;NW;5 mph;48 °F;87 %;29.59 in
+04.02.2023;Ankaragücü;F. Karagümrük;0;2;Süper Lig;Fair;SSW;1 mph;37 °F;81 %;29.91 in
+04.02.2023;Sivasspor;Beşiktaş;1;0;Süper Lig;Mostly Cloudy;SE;14 mph;16 °F;79 %;24.69 in
+04.02.2023;Antalyaspor;Gaziantep FK;1;0;Süper Lig;Mostly Cloudy;N;10 mph;46 °F;76 %;29.82 in
+05.02.2023;İstanbulspor;Alanyaspor;2;1;Süper Lig;Mostly Cloudy;WNW;12 mph;41 °F;81 %;29.68 in
+05.02.2023;Hatayspor;Kasımpaşa;1;0;Süper Lig;Mostly Cloudy;ESE;7 mph;44 °F;74 %;29.96 in
+05.02.2023;Galatasaray;Trabzonspor;2;1;Süper Lig;Mostly Cloudy;WNW;12 mph;41 °F;81 %;29.68 in
+25.02.2023;Fenerbahçe;Konyaspor;4;0;Süper Lig;Mist;SW;6 mph;46 °F;93 %;29.77 in
+25.02.2023;Giresunspor;Kayserispor;1;2;Süper Lig;Mist;SW;6 mph;46 °F;93 %;29.77 in
+26.02.2023;Ümraniyespor;Adana Demirspor;1;1;Süper Lig;Fair;SW;17 mph;55 °F;72 %;29.68 in
+31.01.2023;Alanyaspor;Sivasspor;0;3;Süper Lig;Mostly Cloudy;CALM;0 mph;48 °F;87 %;29.64 in
+31.01.2023;F. Karagümrük;Beşiktaş;1;1;Süper Lig;Mostly Cloudy;N;5 mph;37 °F;87 %;29.74 in
+01.02.2023;Kasımpaşa;Giresunspor;5;1;Süper Lig;Light Rain Shower;NNW;10 mph;37 °F;87 %;29.77 in
+01.02.2023;Gaziantep FK;Hatayspor;4;1;Süper Lig;Mist;S;1 mph;41 °F;93 %;27.29 in
+01.02.2023;Trabzonspor;Antalyaspor;2;0;Süper Lig;Mostly Cloudy;WNW;9 mph;48 °F;76 %;29.68 in
+01.02.2023;Galatasaray;Ümraniyespor;3;2;Süper Lig;Light Rain Shower;NNW;10 mph;37 °F;87 %;29.77 in
+02.02.2023;Kayserispor;Başakşehir;1;0;Süper Lig;Cloudy;NNE;5 mph;30 °F;80 %;26.28 in
+02.02.2023;Konyaspor;İstanbulspor;0;1;Süper Lig;Partly Cloudy / Windy;NNW;21 mph;28 °F;74 %;26.45 in
+02.02.2023;Adana Demirspor;Fenerbahçe;1;1;Süper Lig;Mostly Cloudy;WNW;7 mph;48 °F;50 %;29.64 in
+27.01.2023;Beşiktaş;Alanyaspor;3;0;Süper Lig;Fair;NE;12 mph;52 °F;54 %;29.62 in
+28.01.2023;Sivasspor;Adana Demirspor;1;2;Süper Lig;Mostly Cloudy / Windy;SSE;23 mph;36 °F;52 %;24.69 in
+28.01.2023;Hatayspor;Trabzonspor;2;1;Süper Lig;Partly Cloudy;SSE;13 mph;63 °F;31 %;29.96 in
+28.01.2023;Ankaragücü;Gaziantep FK;0;2;Süper Lig;Mostly Cloudy;SSW;10 mph;50 °F;82 %;29.53 in
+28.01.2023;Antalyaspor;Ümraniyespor;3;2;Süper Lig;Partly Cloudy;NW;7 mph;55 °F;88 %;29.59 in
+28.01.2023;Giresunspor;Galatasaray;0;4;Süper Lig;Mostly Cloudy;SSW;10 mph;50 °F;82 %;29.53 in
+29.01.2023;İstanbulspor;Kayserispor;2;4;Süper Lig;Cloudy;N;13 mph;39 °F;75 %;29.85 in
+29.01.2023;Fenerbahçe;Kasımpaşa;5;1;Süper Lig;Cloudy;N;13 mph;39 °F;75 %;29.85 in
+29.01.2023;Başakşehir;Konyaspor;2;0;Süper Lig;Cloudy;N;13 mph;39 °F;75 %;29.85 in
+20.01.2023;Adana Demirspor;Giresunspor;1;1;Süper Lig;Mist;NNE;2 mph;52 °F;94 %;30.08 in
+21.01.2023;Kasımpaşa;Başakşehir;1;3;Süper Lig;Fair;SSW;15 mph;55 °F;72 %;29.77 in
+21.01.2023;Galatasaray;Antalyaspor;2;1;Süper Lig;Fair;SSW;15 mph;55 °F;72 %;29.77 in
+22.01.2023;Gaziantep FK;Sivasspor;1;2;Süper Lig;Mist;NNW;2 mph;37 °F;93 %;27.76 in
+22.01.2023;Alanyaspor;F. Karagümrük;2;2;Süper Lig;Fair;ESE;8 mph;50 °F;76 %;30.05 in
+22.01.2023;Kayserispor;Beşiktaş;0;2;Süper Lig;Fair;NE;6 mph;27 °F;80 %;26.57 in
+22.01.2023;Trabzonspor;İstanbulspor;4;0;Süper Lig;Fair;S;5 mph;48 °F;76 %;30.09 in
+23.01.2023;Konyaspor;Ankaragücü;0;1;Süper Lig;Fair;WNW;2 mph;32 °F;75 %;26.66 in
+23.01.2023;Ümraniyespor;Fenerbahçe;1;2;Süper Lig;Fair;N;13 mph;52 °F;82 %;30.03 in
+13.01.2023;Kayserispor;Sivasspor;4;1;Süper Lig;Fair;CALM;0 mph;32 °F;55 %;26.46 in
+13.01.2023;Galatasaray;Hatayspor;4;0;Süper Lig;Cloudy;N;17 mph;46 °F;93 %;29.88 in
+14.01.2023;Antalyaspor;Giresunspor;2;2;Süper Lig;Mostly Cloudy;WNW;10 mph;50 °F;87 %;29.85 in
+14.01.2023;Adana Demirspor;Ankaragücü;3;1;Süper Lig;Mostly Cloudy;NE;6 mph;50 °F;58 %;30.02 in
+14.01.2023;Konyaspor;Beşiktaş;1;2;Süper Lig;Mostly Cloudy;SW;2 mph;37 °F;81 %;26.53 in
+14.01.2023;Trabzonspor;Başakşehir;1;0;Süper Lig;Fair;S;5 mph;46 °F;50 %;29.98 in
+15.01.2023;Ümraniyespor;İstanbulspor;0;2;Süper Lig;Cloudy;NNE;13 mph;48 °F;87 %;29.94 in
+15.01.2023;Kasımpaşa;F. Karagümrük;2;2;Süper Lig;Cloudy;NNE;13 mph;48 °F;87 %;29.94 in
+15.01.2023;Gaziantep FK;Fenerbahçe;1;2;Süper Lig;Mostly Cloudy;NNE;8 mph;41 °F;87 %;27.70 in
+07.01.2023;Hatayspor;Antalyaspor;0;0;Süper Lig;Light Rain Shower;NW;8 mph;55 °F;87 %;30.14 in
+07.01.2023;Beşiktaş;Kasımpaşa;2;1;Süper Lig;Fair;VAR;2 mph;50 °F;87 %;30.06 in
+08.01.2023;F. Karagümrük;Konyaspor;3;3;Süper Lig;Mist;N;5 mph;45 °F;87 %;30.03 in
+08.01.2023;Ankaragücü;Kayserispor;2;1;Süper Lig;Mist;N;5 mph;45 °F;87 %;30.03 in
+08.01.2023;Giresunspor;Ümraniyespor;0;1;Süper Lig;Mist;N;5 mph;45 °F;87 %;30.03 in
+08.01.2023;Fenerbahçe;Galatasaray;0;3;Süper Lig;Mist;N;5 mph;45 °F;87 %;30.03 in
+09.01.2023;Başakşehir;Adana Demirspor;2;1;Süper Lig;Fair;NE;7 mph;43 °F;81 %;30.00 in
+09.01.2023;Alanyaspor;Trabzonspor;5;0;Süper Lig;Partly Cloudy;ESE;7 mph;50 °F;82 %;29.99 in
+09.01.2023;İstanbulspor;Gaziantep FK;1;1;Süper Lig;Fair;NE;7 mph;43 °F;81 %;30.00 in
+03.01.2023;Ümraniyespor;Hatayspor;2;2;Süper Lig;Mist;W;2 mph;43 °F;93 %;30.21 in
+03.01.2023;Antalyaspor;Fenerbahçe;1;2;Süper Lig;Fair;NW;6 mph;45 °F;61 %;30.12 in
+04.01.2023;Kasımpaşa;Alanyaspor;4;1;Süper Lig;Mostly Cloudy;W;14 mph;48 °F;93 %;30.12 in
+04.01.2023;Kayserispor;F. Karagümrük;2;4;Süper Lig;Fair;CALM;0 mph;21 °F;93 %;26.70 in
+04.01.2023;Galatasaray;Ankaragücü;2;1;Süper Lig;Mostly Cloudy;W;14 mph;48 °F;93 %;30.12 in
+04.01.2023;Konyaspor;Sivasspor;2;2;Süper Lig;Mist;N;5 mph;23 °F;93 %;26.77 in
+05.01.2023;Gaziantep FK;Başakşehir;1;1;Süper Lig;Fair;CALM;0 mph;32 °F;69 %;27.59 in
+05.01.2023;Trabzonspor;Giresunspor;3;0;Süper Lig;Partly Cloudy;SW;7 mph;50 °F;58 %;30.09 in
+05.01.2023;Adana Demirspor;İstanbulspor;6;0;Süper Lig;Fair;NE;5 mph;43 °F;76 %;29.99 in
+27.12.2022;Ankaragücü;Ümraniyespor;1;2;Süper Lig;Fair;SSE;2 mph;46 °F;87 %;30.15 in
+27.12.2022;Başakşehir;Antalyaspor;2;0;Süper Lig;Fair;SSE;2 mph;46 °F;87 %;30.15 in
+27.12.2022;Fenerbahçe;Hatayspor;4;0;Süper Lig;Fair;SSE;2 mph;46 °F;87 %;30.15 in
+28.12.2022;Alanyaspor;Kayserispor;3;1;Süper Lig;Fair;ESE;7 mph;50 °F;76 %;30.20 in
+28.12.2022;İstanbulspor;Kasımpaşa;2;1;Süper Lig;Fair;SSW;9 mph;54 °F;77 %;30.09 in
+28.12.2022;F. Karagümrük;Trabzonspor;4;1;Süper Lig;Fair;SSW;9 mph;54 °F;77 %;30.09 in
+29.12.2022;Sivasspor;Galatasaray;1;2;Süper Lig;Mostly Cloudy;VAR;2 mph;27 °F;100 %;24.98 in
+29.12.2022;Giresunspor;Gaziantep FK;2;1;Süper Lig;Fair;NE;10 mph;48 °F;71 %;30.18 in
+29.12.2022;Beşiktaş;Adana Demirspor;1;0;Süper Lig;Fair;NE;10 mph;48 °F;71 %;30.18 in
+23.12.2022;Antalyaspor;Ankaragücü;0;2;Süper Lig;Fair;N;7 mph;46 °F;81 %;29.82 in
+23.12.2022;Ümraniyespor;Başakşehir;1;3;Süper Lig;Fair;N;5 mph;46 °F;81 %;29.85 in
+24.12.2022;Hatayspor;Giresunspor;1;1;Süper Lig;Fair;ESE;2 mph;56 °F;53 %;29.94 in
+24.12.2022;Kasımpaşa;Sivasspor;1;2;Süper Lig;Fair;WSW;8 mph;50 °F;82 %;29.82 in
+24.12.2022;Trabzonspor;Fenerbahçe;2;0;Süper Lig;Mostly Cloudy;WSW;7 mph;52 °F;82 %;29.92 in
+25.12.2022;Adana Demirspor;F. Karagümrük;2;1;Süper Lig;Fair;CALM;0 mph;48 °F;76 %;29.87 in
+25.12.2022;Gaziantep FK;Beşiktaş;1;1;Süper Lig;Fair;NNW;3 mph;37 °F;81 %;27.54 in
+25.12.2022;Konyaspor;Alanyaspor;2;2;Süper Lig;Mist;ESE;6 mph;34 °F;93 %;26.56 in
+25.12.2022;Galatasaray;İstanbulspor;2;1;Süper Lig;Fair;WSW;9 mph;52 °F;88 %;29.85 in
+11.11.2022;Alanyaspor;Adana Demirspor;0;0;Süper Lig;Fair;ESE;7 mph;55 °F;77 %;30.05 in
+11.11.2022;Ankaragücü;Trabzonspor;1;1;Süper Lig;Fair;NE;6 mph;52 °F;82 %;30.12 in
+12.11.2022;Sivasspor;Ümraniyespor;2;2;Süper Lig;Mist;SE;3 mph;32 °F;93 %;25.01 in
+12.11.2022;Fenerbahçe;Giresunspor;1;2;Süper Lig;Mostly Cloudy;NE;12 mph;57 °F;77 %;30.15 in
+12.11.2022;Başakşehir;Galatasaray;0;7;Süper Lig;Mostly Cloudy;NE;12 mph;57 °F;77 %;30.15 in
+13.11.2022;F. Karagümrük;Gaziantep FK;3;3;Süper Lig;Fair;NE;14 mph;57 °F;82 %;30.21 in
+13.11.2022;İstanbulspor;Hatayspor;0;1;Süper Lig;Fair;NE;14 mph;57 °F;82 %;30.21 in
+13.11.2022;Kayserispor;Konyaspor;1;2;Süper Lig;Fair;ENE;2 mph;34 °F;81 %;26.77 in
+26.02.2023;Beşiktaş;Antalyaspor;0;0;Süper Lig;Fair;SW;17 mph;55 °F;72 %;29.68 in
+04.11.2022;Ümraniyespor;Alanyaspor;3;1;Süper Lig;Fair;NE;9 mph;57 °F;82 %;29.94 in
+04.11.2022;Kasımpaşa;Ankaragücü;1;1;Süper Lig;Fair;NE;9 mph;57 °F;82 %;29.94 in
+05.11.2022;Giresunspor;İstanbulspor;3;2;Süper Lig;Fair;CALM;0 mph;57 °F;88 %;29.77 in
+05.11.2022;Galatasaray;Beşiktaş;2;1;Süper Lig;Fair;CALM;0 mph;57 °F;88 %;29.77 in
+06.11.2022;Gaziantep FK;Kayserispor;1;2;Süper Lig;Fair;VAR;1 mph;48 °F;62 %;27.67 in
+06.11.2022;Antalyaspor;F. Karagümrük;4;2;Süper Lig;Fair;N;7 mph;61 °F;88 %;29.88 in
+06.11.2022;Trabzonspor;Konyaspor;2;2;Süper Lig;Fair;SSW;6 mph;57 °F;94 %;29.98 in
+07.11.2022;Fenerbahçe;Sivasspor;1;0;Süper Lig;Fair;NNE;14 mph;63 °F;82 %;29.77 in
+07.11.2022;Hatayspor;Başakşehir;3;3;Süper Lig;Mostly Cloudy;ESE;1 mph;76 °F;28 %;29.93 in
+28.10.2022;F. Karagümrük;Galatasaray;0;2;Süper Lig;Fair;E;6 mph;59 °F;88 %;30.15 in
+29.10.2022;Konyaspor;Kasımpaşa;1;1;Süper Lig;Fair;NNW;9 mph;46 °F;57 %;26.74 in
+29.10.2022;Alanyaspor;Gaziantep FK;2;0;Süper Lig;Fair;NE;9 mph;73 °F;27 %;29.93 in
+30.10.2022;Ankaragücü;Hatayspor;4;1;Süper Lig;Fair;NNE;7 mph;55 °F;82 %;30.03 in
+30.10.2022;Beşiktaş;Ümraniyespor;5;2;Süper Lig;Fair;NNE;7 mph;55 °F;82 %;30.03 in
+30.10.2022;Kayserispor;Adana Demirspor;2;2;Süper Lig;Fair;NE;5 mph;34 °F;75 %;26.59 in
+30.10.2022;İstanbulspor;Fenerbahçe;2;5;Süper Lig;Fair;NNE;7 mph;55 °F;82 %;30.03 in
+31.10.2022;Sivasspor;Antalyaspor;0;2;Süper Lig;Fair;SSE;5 mph;30 °F;75 %;24.86 in
+31.10.2022;Başakşehir;Giresunspor;3;1;Süper Lig;Fair;NNW;2 mph;54 °F;82 %;29.91 in
+21.10.2022;Antalyaspor;İstanbulspor;2;1;Süper Lig;Fair;NW;6 mph;66 °F;94 %;29.77 in
+22.10.2022;Ümraniyespor;F. Karagümrük;1;3;Süper Lig;Fair;NNE;7 mph;54 °F;62 %;30.12 in
+22.10.2022;Trabzonspor;Sivasspor;1;0;Süper Lig;Mostly Cloudy;SW;8 mph;55 °F;72 %;30.24 in
+22.10.2022;Fenerbahçe;Başakşehir;1;0;Süper Lig;Fair;NNE;7 mph;54 °F;62 %;30.12 in
+23.10.2022;Kasımpaşa;Kayserispor;0;1;Süper Lig;Fair;WSW;6 mph;59 °F;72 %;30.00 in
+23.10.2022;Adana Demirspor;Konyaspor;1;1;Süper Lig;Fair;N;5 mph;68 °F;35 %;30.05 in
+23.10.2022;Galatasaray;Alanyaspor;2;2;Süper Lig;Fair;WSW;6 mph;59 °F;72 %;30.00 in
+24.10.2022;Giresunspor;Ankaragücü;1;1;Süper Lig;Fair;NNE;6 mph;59 °F;77 %;30.03 in
+24.10.2022;Hatayspor;Beşiktaş;2;1;Süper Lig;Fair;S;1 mph;71 °F;56 %;30.08 in
+14.10.2022;Alanyaspor;Antalyaspor;3;2;Süper Lig;Fair;ESE;6 mph;64 °F;77 %;29.84 in
+15.10.2022;F. Karagümrük;Hatayspor;3;0;Süper Lig;Mostly Cloudy;NE;15 mph;63 °F;72 %;29.77 in
+15.10.2022;Kasımpaşa;Adana Demirspor;1;4;Süper Lig;Mostly Cloudy;NE;15 mph;63 °F;72 %;29.77 in
+15.10.2022;Konyaspor;Gaziantep FK;0;1;Süper Lig;Mostly Cloudy;N;13 mph;55 °F;63 %;26.45 in
+15.10.2022;Kayserispor;Galatasaray;2;1;Süper Lig;Mostly Cloudy;CALM;0 mph;48 °F;76 %;26.41 in
+16.10.2022;Başakşehir;İstanbulspor;2;0;Süper Lig;Mostly Cloudy;NNE;17 mph;63 °F;82 %;29.88 in
+16.10.2022;Beşiktaş;Trabzonspor;2;2;Süper Lig;Mostly Cloudy;NNE;17 mph;63 °F;82 %;29.88 in
+17.10.2022;Sivasspor;Giresunspor;3;0;Süper Lig;Partly Cloudy;E;6 mph;50 °F;82 %;24.91 in
+17.10.2022;Ankaragücü;Fenerbahçe;0;3;Süper Lig;Mostly Cloudy;N;16 mph;61 °F;72 %;30.09 in
+07.10.2022;Gaziantep FK;Adana Demirspor;1;1;Süper Lig;Fair;VAR;1 mph;59 °F;63 %;27.57 in
+08.10.2022;İstanbulspor;Ankaragücü;1;2;Süper Lig;Mostly Cloudy;NNE;13 mph;66 °F;73 %;29.91 in
+08.10.2022;Antalyaspor;Konyaspor;1;1;Süper Lig;Partly Cloudy;NW;10 mph;70 °F;49 %;29.71 in
+08.10.2022;Giresunspor;Beşiktaş;0;1;Süper Lig;Mostly Cloudy;NNE;13 mph;66 °F;73 %;29.91 in
+09.10.2022;Ümraniyespor;Kayserispor;2;2;Süper Lig;Partly Cloudy;W;7 mph;63 °F;88 %;29.85 in
+09.10.2022;Hatayspor;Alanyaspor;1;0;Süper Lig;Thunder;WSW;8 mph;72 °F;64 %;29.91 in
+09.10.2022;Fenerbahçe;F. Karagümrük;5;4;Süper Lig;Partly Cloudy;W;7 mph;63 °F;88 %;29.85 in
+10.10.2022;Trabzonspor;Kasımpaşa;0;0;Süper Lig;Mostly Cloudy;SSW;15 mph;66 °F;64 %;29.89 in
+10.10.2022;Başakşehir;Sivasspor;0;2;Süper Lig;Fair;N;2 mph;61 °F;77 %;29.97 in
+01.10.2022;Kasımpaşa;Gaziantep FK;1;0;Süper Lig;Fair;E;2 mph;72 °F;69 %;29.88 in
+01.10.2022;Ankaragücü;Başakşehir;1;2;Süper Lig;Fair;E;2 mph;72 °F;69 %;29.88 in
+01.10.2022;Kayserispor;Trabzonspor;1;2;Süper Lig;Fair;ENE;5 mph;55 °F;82 %;26.64 in
+01.10.2022;Adana Demirspor;Galatasaray;0;0;Süper Lig;Fair;CALM;0 mph;75 °F;94 %;29.93 in
+02.10.2022;Alanyaspor;Giresunspor;1;1;Süper Lig;Fair;E;6 mph;72 °F;83 %;29.81 in
+02.10.2022;Sivasspor;Hatayspor;1;2;Süper Lig;Fair;VAR;2 mph;50 °F;71 %;24.94 in
+02.10.2022;Konyaspor;Ümraniyespor;1;0;Süper Lig;Fair;W;5 mph;68 °F;37 %;26.64 in
+02.10.2022;Beşiktaş;Fenerbahçe;0;0;Süper Lig;Fair;ENE;5 mph;72 °F;73 %;29.71 in
+03.10.2022;F. Karagümrük;İstanbulspor;1;2;Süper Lig;Fair;NW;6 mph;64 °F;68 %;29.80 in
+16.09.2022;Galatasaray;Konyaspor;2;1;Süper Lig;Fair;SSW;5 mph;72 °F;78 %;29.68 in
+16.09.2022;Hatayspor;Kayserispor;0;4;Süper Lig;Fair;SW;1 mph;81 °F;73 %;29.90 in
+17.09.2022;Ümraniyespor;Kasımpaşa;1;2;Süper Lig;Fair;SW;8 mph;75 °F;78 %;29.59 in
+17.09.2022;Antalyaspor;Adana Demirspor;0;3;Süper Lig;Fair;N;7 mph;73 °F;88 %;29.62 in
+17.09.2022;İstanbulspor;Beşiktaş;2;2;Süper Lig;Fair;SW;8 mph;75 °F;78 %;29.59 in
+18.09.2022;Trabzonspor;Gaziantep FK;3;2;Süper Lig;Fair;CALM;0 mph;75 °F;69 %;29.57 in
+18.09.2022;Başakşehir;F. Karagümrük;0;0;Süper Lig;Fair;NW;7 mph;75 °F;53 %;29.44 in
+18.09.2022;Ankaragücü;Sivasspor;2;1;Süper Lig;Fair;NW;7 mph;75 °F;53 %;29.44 in
+18.09.2022;Fenerbahçe;Alanyaspor;5;0;Süper Lig;Fair;NW;7 mph;75 °F;53 %;29.44 in
+09.09.2022;Alanyaspor;Ankaragücü;2;1;Süper Lig;Fair;ESE;6 mph;72 °F;73 %;29.79 in
+10.09.2022;Konyaspor;Hatayspor;1;0;Süper Lig;Fair;NW;9 mph;66 °F;32 %;26.61 in
+10.09.2022;F. Karagümrük;Giresunspor;1;1;Süper Lig;Fair;NE;7 mph;70 °F;78 %;29.82 in
+11.09.2022;Sivasspor;İstanbulspor;1;1;Süper Lig;Fair;S;6 mph;50 °F;47 %;24.84 in
+11.09.2022;Gaziantep FK;Ümraniyespor;1;1;Süper Lig;Fair;CALM;0 mph;70 °F;40 %;27.46 in
+11.09.2022;Kasımpaşa;Galatasaray;2;3;Süper Lig;Fair;CALM;0 mph;73 °F;65 %;29.65 in
+11.09.2022;Kayserispor;Antalyaspor;1;0;Süper Lig;Fair;ENE;5 mph;55 °F;44 %;26.36 in
+12.09.2022;Beşiktaş;Başakşehir;0;1;Süper Lig;Fair;NNE;8 mph;72 °F;83 %;29.59 in
+12.09.2022;Adana Demirspor;Trabzonspor;3;2;Süper Lig;Partly Cloudy;CALM;0 mph;79 °F;83 %;29.67 in
+02.09.2022;Ümraniyespor;Trabzonspor;0;1;Süper Lig;Partly Cloudy;NE;7 mph;77 °F;83 %;29.68 in
+03.09.2022;Sivasspor;F. Karagümrük;0;0;Süper Lig;Fair;VAR;2 mph;64 °F;34 %;24.86 in
+03.09.2022;Başakşehir;Alanyaspor;2;0;Süper Lig;Partly Cloudy;NE;6 mph;79 °F;78 %;29.68 in
+03.09.2022;Fenerbahçe;Kayserispor;2;0;Süper Lig;Partly Cloudy;NE;6 mph;79 °F;78 %;29.68 in
+03.09.2022;Giresunspor;Konyaspor;0;1;Süper Lig;Partly Cloudy;NE;6 mph;79 °F;78 %;29.68 in
+04.09.2022;Hatayspor;Adana Demirspor;1;1;Süper Lig;Fair;W;1 mph;84 °F;73 %;29.85 in
+04.09.2022;Antalyaspor;Kasımpaşa;0;2;Süper Lig;Fair;N;5 mph;75 °F;73 %;29.68 in
+04.09.2022;Ankaragücü;Beşiktaş;2;3;Süper Lig;Partly Cloudy;N;15 mph;73 °F;73 %;29.88 in
+05.09.2022;Galatasaray;Gaziantep FK;2;1;Süper Lig;Mostly Cloudy;NNE;12 mph;72 °F;73 %;29.91 in
+26.08.2022;Gaziantep FK;Antalyaspor;5;2;Süper Lig;Fair;VAR;1 mph;72 °F;57 %;27.38 in
+27.08.2022;F. Karagümrük;Ankaragücü;4;1;Süper Lig;Fair;N;3 mph;73 °F;83 %;29.62 in
+27.08.2022;Alanyaspor;İstanbulspor;0;1;Süper Lig;Fair;E;5 mph;75 °F;89 %;29.70 in
+27.08.2022;Adana Demirspor;Ümraniyespor;1;0;Süper Lig;Fair;SE;3 mph;77 °F;83 %;29.70 in
+28.08.2022;Kasımpaşa;Hatayspor;1;0;Süper Lig;Fair;CALM;0 mph;0 °F;0 %;0.00 in
+28.08.2022;Kayserispor;Giresunspor;3;0;Süper Lig;Fair;VAR;2 mph;70 °F;56 %;26.41 in
+28.08.2022;Trabzonspor;Galatasaray;0;0;Süper Lig;Mostly Cloudy;SW;5 mph;81 °F;84 %;29.77 in
+29.08.2022;Konyaspor;Fenerbahçe;1;0;Süper Lig;Fair;N;13 mph;75 °F;47 %;26.51 in
+29.08.2022;Beşiktaş;Sivasspor;3;1;Süper Lig;Fair;ENE;8 mph;77 °F;78 %;29.74 in
+19.08.2022;Ümraniyespor;Galatasaray;0;1;Süper Lig;Fair;ENE;6 mph;79 °F;69 %;29.65 in
+20.08.2022;Giresunspor;Kasımpaşa;1;0;Süper Lig;Fair;NNE;7 mph;77 °F;83 %;29.68 in
+20.08.2022;Hatayspor;Gaziantep FK;1;2;Süper Lig;Mostly Cloudy;WSW;5 mph;84 °F;76 %;29.65 in
+20.08.2022;Antalyaspor;Trabzonspor;5;2;Süper Lig;Fair;NNW;3 mph;82 °F;84 %;29.47 in
+21.08.2022;Başakşehir;Kayserispor;2;0;Süper Lig;Fair;ENE;9 mph;77 °F;78 %;29.59 in
+21.08.2022;Beşiktaş;F. Karagümrük;4;1;Süper Lig;Fair;ENE;9 mph;77 °F;78 %;29.59 in
+22.08.2022;Sivasspor;Alanyaspor;1;1;Süper Lig;Fair;N;3 mph;61 °F;77 %;24.69 in
+22.08.2022;İstanbulspor;Konyaspor;0;4;Süper Lig;Fair;ENE;8 mph;77 °F;83 %;29.50 in
+22.08.2022;Fenerbahçe;Adana Demirspor;4;2;Süper Lig;Fair;ENE;8 mph;77 °F;83 %;29.50 in
+12.08.2022;Trabzonspor;Hatayspor;1;0;Süper Lig;Mostly Cloudy;SW;9 mph;79 °F;61 %;29.74 in
+13.08.2022;Kayserispor;İstanbulspor;1;0;Süper Lig;Fair;NE;7 mph;70 °F;60 %;26.36 in
+13.08.2022;Galatasaray;Giresunspor;0;1;Süper Lig;Fair;NE;10 mph;75 °F;83 %;29.68 in
+13.08.2022;Adana Demirspor;Sivasspor;3;0;Süper Lig;Fair;CALM;0 mph;81 °F;79 %;29.61 in
+14.08.2022;Ümraniyespor;Antalyaspor;0;1;Süper Lig;Fair;ENE;5 mph;75 °F;78 %;29.59 in
+14.08.2022;Gaziantep FK;Ankaragücü;1;0;Süper Lig;Fair;W;7 mph;81 °F;48 %;27.24 in
+14.08.2022;Alanyaspor;Beşiktaş;3;3;Süper Lig;Fair;VAR;2 mph;81 °F;84 %;29.55 in
+15.08.2022;Konyaspor;Başakşehir;0;0;Süper Lig;Fair;SSW;2 mph;73 °F;47 %;26.27 in
+15.08.2022;Kasımpaşa;Fenerbahçe;0;6;Süper Lig;Mostly Cloudy;NE;7 mph;77 °F;78 %;29.50 in
+05.08.2022;İstanbulspor;Trabzonspor;0;2;Süper Lig;Fair;NE;9 mph;75 °F;78 %;29.77 in
+06.08.2022;Sivasspor;Gaziantep FK;1;1;Süper Lig;Fair;NNW;5 mph;57 °F;77 %;24.77 in
+06.08.2022;Beşiktaş;Kayserispor;1;0;Süper Lig;Fair;ENE;12 mph;75 °F;78 %;29.68 in
+07.08.2022;F. Karagümrük;Alanyaspor;2;4;Süper Lig;Fair;NE;13 mph;77 °F;74 %;29.62 in
+07.08.2022;Giresunspor;Adana Demirspor;2;3;Süper Lig;Fair;NE;13 mph;77 °F;74 %;29.62 in
+07.08.2022;Antalyaspor;Galatasaray;0;1;Süper Lig;Partly Cloudy;NE;6 mph;81 °F;89 %;29.44 in
+08.08.2022;Başakşehir;Kasımpaşa;4;0;Süper Lig;Fair;NNE;12 mph;79 °F;78 %;29.65 in
+08.08.2022;Ankaragücü;Konyaspor;0;0;Süper Lig;Fair;NNE;12 mph;79 °F;78 %;29.65 in
+08.08.2022;Fenerbahçe;Ümraniyespor;3;3;Süper Lig;Fair;NNE;12 mph;79 °F;78 %;29.65 in
