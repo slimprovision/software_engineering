@@ -1,0 +1,381 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+24.05.2019;Amiens;Guingamp;2;1;Ligue 1;Fair;N;3 mph;59 °F;63 %;29.37 in
+24.05.2019;Angers;St Etienne;1;1;Ligue 1;Mostly Cloudy;S;3 mph;63 °F;88 %;29.94 in
+24.05.2019;Caen;Bordeaux;0;1;Ligue 1;Fair;W;18 mph;64 °F;73 %;29.49 in
+24.05.2019;Dijon;Toulouse;2;1;Ligue 1;Fair;N;5 mph;54 °F;82 %;29.73 in
+24.05.2019;Marsilya;Montpellier;1;0;Ligue 1;Fair;SE;7 mph;59 °F;77 %;29.94 in
+24.05.2019;Nantes;Strasbourg;0;1;Ligue 1;Fair;N;5 mph;54 °F;82 %;29.73 in
+24.05.2019;Nice;Monaco;2;0;Ligue 1;Mostly Cloudy;S;3 mph;63 °F;88 %;29.94 in
+24.05.2019;Nimes;Lyon;2;3;Ligue 1;Cloudy;NNW;5 mph;54 °F;88 %;29.93 in
+24.05.2019;Reims;PSG;3;1;Ligue 1;Fair;N;3 mph;59 °F;63 %;29.37 in
+24.05.2019;Rennes;Lille;3;1;Ligue 1;Cloudy;NNW;5 mph;54 °F;88 %;29.93 in
+18.05.2019;Bordeaux;Reims;0;1;Ligue 1;Light Rain;W;9 mph;52 °F;94 %;29.26 in
+18.05.2019;Guingamp;Nimes;2;2;Ligue 1;Mostly Cloudy;ESE;6 mph;59 °F;63 %;29.31 in
+18.05.2019;Lille;Angers;5;0;Ligue 1;Mist;NE;2 mph;52 °F;88 %;29.52 in
+18.05.2019;Lyon;Caen;4;0;Ligue 1;Fair;VAR;2 mph;52 °F;94 %;28.90 in
+18.05.2019;Monaco;Amiens;2;0;Ligue 1;Mostly Cloudy / Windy;E;23 mph;63 °F;63 %;29.61 in
+18.05.2019;Montpellier;Nantes;1;1;Ligue 1;Light Rain;W;9 mph;52 °F;94 %;29.26 in
+18.05.2019;PSG;Dijon;4;0;Ligue 1;Mostly Cloudy;ESE;6 mph;59 °F;63 %;29.31 in
+18.05.2019;St Etienne;Nice;3;0;Ligue 1;Mist;NE;2 mph;52 °F;88 %;29.52 in
+18.05.2019;Strasbourg;Rennes;0;2;Ligue 1;Fair;SSE;6 mph;59 °F;63 %;29.17 in
+18.05.2019;Toulouse;Marsilya;2;5;Ligue 1;Light Rain;W;9 mph;52 °F;94 %;29.26 in
+10.05.2019;St Etienne;Montpellier;0;1;Ligue 1;Mostly Cloudy;SW;14 mph;52 °F;82 %;29.47 in
+11.05.2019;Angers;PSG;1;2;Ligue 1;Partly Cloudy;E;6 mph;61 °F;88 %;29.91 in
+11.05.2019;Amiens;Toulouse;0;0;Ligue 1;Light Rain;SE;12 mph;54 °F;94 %;29.11 in
+11.05.2019;Caen;Reims;3;2;Ligue 1;Mostly Cloudy;WNW;7 mph;61 °F;77 %;29.49 in
+11.05.2019;Dijon;Strasbourg;2;1;Ligue 1;Cloudy;WSW;5 mph;48 °F;100 %;29.49 in
+11.05.2019;Nice;Nantes;1;1;Ligue 1;Partly Cloudy;E;6 mph;61 °F;88 %;29.91 in
+11.05.2019;Nimes;Monaco;1;0;Ligue 1;Light Rain;SW;8 mph;54 °F;100 %;29.67 in
+12.05.2019;Rennes;Guingamp;1;1;Ligue 1;Fair;WSW;2 mph;46 °F;93 %;30.28 in
+12.05.2019;Lille;Bordeaux;1;0;Ligue 1;Fair;NNW;8 mph;46 °F;71 %;30.17 in
+12.05.2019;Marsilya;Lyon;0;3;Ligue 1;Fair / Windy;WNW;28 mph;57 °F;63 %;30.06 in
+03.05.2019;Strasbourg;Marsilya;1;1;Ligue 1;Light Drizzle;SSE;3 mph;52 °F;94 %;29.31 in
+04.05.2019;PSG;Nice;1;1;Ligue 1;Fair;WNW;6 mph;48 °F;82 %;29.57 in
+04.05.2019;Bordeaux;Angers;0;1;Ligue 1;Fair;W;13 mph;52 °F;82 %;29.43 in
+04.05.2019;Guingamp;Caen;0;0;Ligue 1;Fair;WNW;6 mph;48 °F;82 %;29.57 in
+04.05.2019;Reims;Nimes;0;3;Ligue 1;Cloudy;WSW;5 mph;48 °F;100 %;29.26 in
+05.05.2019;Montpellier;Amiens;1;1;Ligue 1;Partly Cloudy;NNW;18 mph;45 °F;81 %;29.52 in
+05.05.2019;Nantes;Dijon;3;0;Ligue 1;Fair;WNW;3 mph;36 °F;81 %;29.93 in
+05.05.2019;Toulouse;Rennes;2;2;Ligue 1;Partly Cloudy;NNW;18 mph;45 °F;81 %;29.52 in
+05.05.2019;Monaco;St Etienne;2;3;Ligue 1;Fair;NNW;9 mph;55 °F;82 %;29.44 in
+05.05.2019;Lyon;Lille;2;2;Ligue 1;Mostly Cloudy;NNW;16 mph;39 °F;93 %;29.10 in
+26.04.2019;Bordeaux;Lyon;2;3;Ligue 1;Fair;ESE;7 mph;50 °F;87 %;29.35 in
+28.04.2019;Amiens;Strasbourg;0;0;Ligue 1;Fair;SW;8 mph;37 °F;93 %;29.49 in
+28.04.2019;Angers;Reims;1;1;Ligue 1;Fair;NNE;3 mph;55 °F;82 %;29.94 in
+28.04.2019;Caen;Dijon;1;0;Ligue 1;Mostly Cloudy;WNW;12 mph;50 °F;76 %;29.81 in
+28.04.2019;Lille;Nimes;5;0;Ligue 1;Fair;SW;12 mph;48 °F;71 %;29.82 in
+28.04.2019;Nice;Guingamp;3;0;Ligue 1;Fair;NNE;3 mph;55 °F;82 %;29.94 in
+28.04.2019;St Etienne;Toulouse;2;0;Ligue 1;Fair;SW;12 mph;48 °F;71 %;29.82 in
+28.04.2019;Marsilya;Nantes;1;2;Ligue 1;Fair / Windy;WNW;25 mph;57 °F;48 %;30.15 in
+30.04.2019;Montpellier;PSG;3;2;Ligue 1;Fair;NW;6 mph;54 °F;62 %;29.55 in
+01.05.2019;Rennes;Monaco;2;2;Ligue 1;Fair;N;5 mph;52 °F;82 %;29.99 in
+19.04.2019;Dijon;Rennes;3;2;Ligue 1;Mist;NE;5 mph;52 °F;94 %;29.75 in
+19.04.2019;Lyon;Angers;2;1;Ligue 1;Fair;SSE;7 mph;63 °F;42 %;29.33 in
+20.04.2019;Guingamp;Marsilya;1;3;Ligue 1;Fair;N;6 mph;61 °F;55 %;29.93 in
+20.04.2019;Nice;Caen;0;1;Ligue 1;Fair;NNW;8 mph;59 °F;51 %;30.26 in
+20.04.2019;Nimes;Bordeaux;2;1;Ligue 1;Fair;NNW;6 mph;57 °F;67 %;30.19 in
+20.04.2019;Strasbourg;Montpellier;1;3;Ligue 1;Fair;N;5 mph;57 °F;55 %;29.75 in
+21.04.2019;Nantes;Amiens;3;2;Ligue 1;Mist;VAR;3 mph;50 °F;87 %;29.90 in
+21.04.2019;Toulouse;Lille;0;0;Ligue 1;Fair;E;6 mph;59 °F;42 %;29.58 in
+21.04.2019;Reims;St Etienne;0;2;Ligue 1;Fair;ENE;8 mph;57 °F;55 %;29.57 in
+21.04.2019;PSG;Monaco;3;1;Ligue 1;Fair;NNE;9 mph;61 °F;52 %;29.87 in
+12.04.2019;Dijon;Amiens;0;0;Ligue 1;Fair;NE;5 mph;39 °F;87 %;29.87 in
+12.04.2019;Nantes;Lyon;2;1;Ligue 1;Fair;NE;5 mph;39 °F;87 %;29.87 in
+13.04.2019;Marsilya;Nimes;2;1;Ligue 1;Fair;N;13 mph;54 °F;77 %;29.92 in
+13.04.2019;Caen;Angers;0;1;Ligue 1;Fair;W;14 mph;52 °F;50 %;29.55 in
+13.04.2019;Monaco;Reims;0;0;Ligue 1;Partly Cloudy;NNW;7 mph;54 °F;82 %;29.85 in
+13.04.2019;Strasbourg;Guingamp;3;3;Ligue 1;Fair;N;12 mph;41 °F;61 %;29.60 in
+14.04.2019;Montpellier;Toulouse;2;1;Ligue 1;Fair;W;5 mph;50 °F;47 %;29.49 in
+14.04.2019;Rennes;Nice;0;0;Ligue 1;Fair;E;10 mph;45 °F;53 %;30.05 in
+14.04.2019;St Etienne;Bordeaux;3;0;Ligue 1;Fair;N;7 mph;36 °F;75 %;30.05 in
+14.04.2019;Lille;PSG;5;1;Ligue 1;Fair;N;7 mph;36 °F;75 %;30.05 in
+05.04.2019;Bordeaux;Marsilya;2;0;Ligue 1;Fair;ESE;7 mph;45 °F;71 %;29.06 in
+06.04.2019;Lyon;Dijon;1;3;Ligue 1;Fair;SSE;6 mph;50 °F;76 %;28.76 in
+06.04.2019;Amiens;St Etienne;2;2;Ligue 1;Fair;E;9 mph;43 °F;81 %;29.00 in
+06.04.2019;Angers;Rennes;3;3;Ligue 1;Fair;VAR;1 mph;52 °F;88 %;29.64 in
+06.04.2019;Guingamp;Monaco;1;1;Ligue 1;Fair;E;8 mph;48 °F;62 %;29.25 in
+06.04.2019;Nimes;Caen;2;0;Ligue 1;Fair;E;3 mph;46 °F;100 %;29.37 in
+07.04.2019;Reims;Lille;1;1;Ligue 1;Fair;VAR;2 mph;48 °F;76 %;29.00 in
+07.04.2019;Toulouse;Nantes;1;0;Ligue 1;Fair;VAR;2 mph;41 °F;93 %;29.06 in
+07.04.2019;Nice;Montpellier;1;0;Ligue 1;Light Rain;NNW;8 mph;46 °F;93 %;29.70 in
+07.04.2019;PSG;Strasbourg;2;2;Ligue 1;Fair;ESE;5 mph;54 °F;58 %;29.25 in
+29.03.2019;Rennes;Lyon;0;1;Ligue 1;Fair;NE;6 mph;45 °F;76 %;30.34 in
+30.03.2019;Marsilya;Angers;2;2;Ligue 1;Fair;VAR;3 mph;46 °F;76 %;30.30 in
+31.03.2019;Amiens;Bordeaux;0;0;Ligue 1;Fair;ENE;6 mph;48 °F;66 %;29.49 in
+31.03.2019;Dijon;Nice;0;1;Ligue 1;Mist;NNE;8 mph;46 °F;100 %;29.73 in
+31.03.2019;Monaco;Caen;0;1;Ligue 1;Fair;NNW;8 mph;52 °F;54 %;30.11 in
+31.03.2019;Nantes;Lille;2;3;Ligue 1;Mist;NNE;8 mph;46 °F;100 %;29.73 in
+31.03.2019;Toulouse;PSG;0;1;Ligue 1;Fair;ESE;12 mph;50 °F;76 %;29.58 in
+01.04.2019;St Etienne;Nimes;2;1;Ligue 1;Fair;NNE;12 mph;48 °F;71 %;29.99 in
+03.04.2019;Montpellier;Guingamp;2;0;Ligue 1;Fair;W;5 mph;54 °F;72 %;29.35 in
+03.04.2019;Strasbourg;Reims;4;0;Ligue 1;Fair;SW;7 mph;59 °F;45 %;29.17 in
+15.03.2019;Nice;Toulouse;1;1;Ligue 1;Fair;NW;7 mph;48 °F;54 %;29.82 in
+15.03.2019;Lille;Monaco;0;1;Ligue 1;Fair;WSW;9 mph;45 °F;87 %;29.64 in
+16.03.2019;Angers;Amiens;0;0;Ligue 1;Fair;NW;10 mph;50 °F;87 %;29.97 in
+16.03.2019;Caen;St Etienne;0;5;Ligue 1;Cloudy;NW;10 mph;52 °F;67 %;29.78 in
+16.03.2019;Guingamp;Dijon;1;0;Ligue 1;Cloudy;WSW;14 mph;54 °F;82 %;29.72 in
+16.03.2019;Nimes;Strasbourg;2;2;Ligue 1;Cloudy;SW;10 mph;52 °F;88 %;30.02 in
+17.03.2019;Lyon;Montpellier;3;2;Ligue 1;Fair;VAR;2 mph;55 °F;58 %;29.07 in
+17.03.2019;Reims;Nantes;1;0;Ligue 1;Fair / Windy;SW;21 mph;48 °F;82 %;29.11 in
+17.03.2019;Bordeaux;Rennes;1;1;Ligue 1;Fair;S;5 mph;48 °F;76 %;29.40 in
+17.03.2019;PSG;Marsilya;3;1;Ligue 1;Partly Cloudy;SW;16 mph;50 °F;71 %;29.40 in
+09.03.2019;Strasbourg;Lyon;2;2;Ligue 1;Fair;S;8 mph;46 °F;66 %;29.55 in
+09.03.2019;Amiens;Nimes;2;1;Ligue 1;Fair;SW;20 mph;46 °F;76 %;29.40 in
+09.03.2019;Dijon;Reims;1;1;Ligue 1;Mostly Cloudy;W;8 mph;48 °F;93 %;29.67 in
+09.03.2019;Monaco;Bordeaux;1;1;Ligue 1;Fair;NW;8 mph;50 °F;76 %;30.08 in
+10.03.2019;Montpellier;Angers;2;2;Ligue 1;Mostly Cloudy;SW;7 mph;55 °F;88 %;29.84 in
+10.03.2019;St Etienne;Lille;0;1;Ligue 1;Fair;SSE;5 mph;48 °F;82 %;29.79 in
+10.03.2019;Toulouse;Guingamp;1;0;Ligue 1;Mostly Cloudy;SW;7 mph;55 °F;88 %;29.84 in
+10.03.2019;Rennes;Caen;3;1;Ligue 1;Cloudy;SW;14 mph;54 °F;100 %;29.90 in
+10.03.2019;Marsilya;Nice;1;0;Ligue 1;Fair;NW;12 mph;55 °F;82 %;30.27 in
+17.04.2019;Nantes;PSG;3;2;Ligue 1;Cloudy;E;6 mph;50 °F;94 %;29.70 in
+02.03.2019;Caen;PSG;1;2;Ligue 1;Cloudy;VAR;2 mph;52 °F;71 %;29.72 in
+02.03.2019;Angers;Monaco;2;2;Ligue 1;Fair;NNW;7 mph;48 °F;82 %;29.94 in
+02.03.2019;Reims;Amiens;2;2;Ligue 1;Mist;SW;6 mph;46 °F;93 %;29.49 in
+03.03.2019;Guingamp;Nantes;0;0;Ligue 1;Mostly Cloudy;SW;15 mph;50 °F;76 %;29.66 in
+03.03.2019;Lille;Dijon;1;0;Ligue 1;Cloudy;S;17 mph;50 °F;76 %;29.67 in
+03.03.2019;Nice;Strasbourg;1;0;Ligue 1;Fair;NNW;8 mph;48 °F;82 %;30.00 in
+03.03.2019;Lyon;Toulouse;5;1;Ligue 1;Fair;VAR;2 mph;41 °F;93 %;29.33 in
+03.03.2019;Marsilya;St Etienne;2;0;Ligue 1;Fair / Windy;NW;26 mph;54 °F;62 %;30.06 in
+05.03.2019;Bordeaux;Montpellier;1;2;Ligue 1;Fair;S;6 mph;48 °F;71 %;29.55 in
+09.04.2019;Nimes;Rennes;3;1;Ligue 1;Fair;S;5 mph;46 °F;100 %;29.72 in
+22.02.2019;Dijon;St Etienne;0;1;Ligue 1;Fair;SSE;9 mph;48 °F;71 %;30.02 in
+22.02.2019;Strasbourg;Lille;1;1;Ligue 1;Cloudy;VAR;2 mph;45 °F;87 %;29.89 in
+23.02.2019;PSG;Nimes;3;0;Ligue 1;Fair;NE;3 mph;48 °F;87 %;30.19 in
+23.02.2019;Amiens;Nice;1;0;Ligue 1;Fair;E;10 mph;45 °F;87 %;29.92 in
+23.02.2019;Guingamp;Angers;1;0;Ligue 1;Fair;NE;3 mph;48 °F;87 %;30.19 in
+24.02.2019;Montpellier;Reims;2;4;Ligue 1;Fair;SSW;7 mph;50 °F;71 %;29.84 in
+24.02.2019;Nantes;Bordeaux;1;0;Ligue 1;Fog;ENE;3 mph;45 °F;100 %;30.10 in
+24.02.2019;Toulouse;Caen;1;1;Ligue 1;Fair;SSW;7 mph;50 °F;71 %;29.84 in
+24.02.2019;Rennes;Marsilya;1;1;Ligue 1;Fair;ESE;2 mph;45 °F;100 %;30.34 in
+24.02.2019;Monaco;Lyon;2;0;Ligue 1;Fair;NNW;9 mph;45 °F;87 %;30.38 in
+15.02.2019;Nimes;Dijon;2;0;Ligue 1;Fair;ESE;3 mph;41 °F;87 %;30.22 in
+15.02.2019;Lyon;Guingamp;2;1;Ligue 1;Fair;SSE;6 mph;46 °F;57 %;29.59 in
+16.02.2019;Marsilya;Amiens;2;0;Ligue 1;Mist;ESE;6 mph;37 °F;87 %;30.39 in
+16.02.2019;Angers;Nice;3;0;Ligue 1;Fair;NNW;8 mph;48 °F;71 %;30.38 in
+16.02.2019;Monaco;Nantes;1;0;Ligue 1;Fair;NNW;8 mph;48 °F;71 %;30.38 in
+17.02.2019;Bordeaux;Toulouse;2;1;Ligue 1;Fair;SE;13 mph;46 °F;87 %;29.69 in
+17.02.2019;Caen;Strasbourg;0;0;Ligue 1;Fair;SE;13 mph;46 °F;87 %;29.69 in
+17.02.2019;Lille;Montpellier;0;0;Ligue 1;Fair;SSE;7 mph;41 °F;87 %;30.02 in
+17.02.2019;Reims;Rennes;2;0;Ligue 1;Fair;SE;8 mph;43 °F;70 %;29.60 in
+17.02.2019;St Etienne;PSG;0;1;Ligue 1;Fair;SSE;7 mph;41 °F;87 %;30.02 in
+08.02.2019;Dijon;Marsilya;1;2;Ligue 1;Cloudy;SW;17 mph;50 °F;82 %;29.58 in
+09.02.2019;PSG;Bordeaux;1;0;Ligue 1;Mostly Cloudy / Windy;SW;24 mph;50 °F;82 %;29.34 in
+09.02.2019;Amiens;Caen;1;0;Ligue 1;Light Rain / Windy;SSW;28 mph;46 °F;81 %;29.08 in
+09.02.2019;Strasbourg;Angers;1;2;Ligue 1;Fair;SSE;9 mph;41 °F;76 %;29.31 in
+10.02.2019;Montpellier;Monaco;2;2;Ligue 1;Fair;SSE;12 mph;50 °F;76 %;29.43 in
+10.02.2019;Nantes;Nimes;2;4;Ligue 1;Cloudy;VAR;1 mph;43 °F;100 %;29.11 in
+10.02.2019;Toulouse;Reims;1;1;Ligue 1;Fair;SSE;12 mph;50 °F;76 %;29.43 in
+10.02.2019;Guingamp;Lille;0;2;Ligue 1;Light Rain;S;15 mph;48 °F;87 %;29.40 in
+10.02.2019;Rennes;St Etienne;3;0;Ligue 1;Rain / Windy;S;23 mph;52 °F;94 %;29.43 in
+10.02.2019;Nice;Lyon;1;0;Ligue 1;Fair;NNW;10 mph;46 °F;76 %;30.06 in
+01.02.2019;Lille;Nice;4;0;Ligue 1;Light Snow;ENE;17 mph;30 °F;100 %;28.91 in
+02.02.2019;Angers;Dijon;1;0;Ligue 1;Mostly Cloudy;NNW;12 mph;48 °F;87 %;29.20 in
+02.02.2019;Monaco;Toulouse;2;1;Ligue 1;Mostly Cloudy;NNW;12 mph;48 °F;87 %;29.20 in
+02.02.2019;Rennes;Amiens;1;0;Ligue 1;Cloudy;NNW;9 mph;39 °F;93 %;29.19 in
+02.02.2019;Reims;Marsilya;2;1;Ligue 1;Light Drizzle;SE;8 mph;39 °F;100 %;28.56 in
+03.02.2019;Nimes;Montpellier;1;1;Ligue 1;Fair;WNW;6 mph;32 °F;87 %;29.96 in
+03.02.2019;Lyon;PSG;2;1;Ligue 1;Light Rain;NW;17 mph;37 °F;93 %;28.87 in
+13.02.2019;St Etienne;Strasbourg;2;1;Ligue 1;Fair;SSE;6 mph;37 °F;87 %;30.40 in
+13.02.2019;Caen;Nantes;0;1;Ligue 1;Fair;SSW;6 mph;36 °F;87 %;29.95 in
+20.02.2019;Bordeaux;Guingamp;0;0;Ligue 1;Fair;SSE;3 mph;45 °F;81 %;29.64 in
+25.01.2019;Marsilya;Lille;1;2;Ligue 1;Fair / Windy;NNW;28 mph;36 °F;60 %;29.68 in
+26.01.2019;Dijon;Monaco;2;0;Ligue 1;Cloudy;W;6 mph;48 °F;93 %;29.75 in
+26.01.2019;Guingamp;Reims;0;1;Ligue 1;Mist;WSW;7 mph;45 °F;93 %;29.66 in
+26.01.2019;Nice;Nimes;2;0;Ligue 1;Fair;N;9 mph;43 °F;57 %;29.79 in
+26.01.2019;Strasbourg;Bordeaux;1;0;Ligue 1;Cloudy;S;9 mph;34 °F;70 %;29.49 in
+27.01.2019;Montpellier;Caen;2;0;Ligue 1;Mostly Cloudy;SW;7 mph;46 °F;93 %;29.35 in
+27.01.2019;Amiens;Lyon;0;1;Ligue 1;Cloudy / Windy;SSW;23 mph;45 °F;93 %;28.88 in
+27.01.2019;Toulouse;Angers;0;0;Ligue 1;Mostly Cloudy;SW;7 mph;46 °F;93 %;29.35 in
+27.01.2019;PSG;Rennes;4;1;Ligue 1;Light Rain;SSW;18 mph;46 °F;93 %;29.14 in
+30.01.2019;Nantes;St Etienne;1;1;Ligue 1;Mostly Cloudy;WNW;14 mph;41 °F;65 %;29.23 in
+18.01.2019;Lille;Amiens;2;1;Ligue 1;Partly Cloudy;W;9 mph;34 °F;93 %;29.85 in
+19.01.2019;PSG;Guingamp;9;0;Ligue 1;Fair;ESE;5 mph;30 °F;93 %;29.66 in
+19.01.2019;Monaco;Strasbourg;1;5;Ligue 1;Mostly Cloudy;NNW;9 mph;46 °F;57 %;29.91 in
+19.01.2019;Nimes;Toulouse;0;1;Ligue 1;Cloudy;SE;9 mph;39 °F;100 %;29.72 in
+19.01.2019;Reims;Nice;1;1;Ligue 1;Fair;ESE;8 mph;27 °F;93 %;29.40 in
+20.01.2019;Rennes;Montpellier;0;0;Ligue 1;Mist;W;2 mph;43 °F;100 %;29.64 in
+20.01.2019;Angers;Nantes;1;0;Ligue 1;Mostly Cloudy;NNW;8 mph;45 °F;81 %;29.88 in
+20.01.2019;Caen;Marsilya;0;1;Ligue 1;Fair;SE;13 mph;43 °F;87 %;29.26 in
+20.01.2019;Bordeaux;Dijon;1;0;Ligue 1;Fair;SE;13 mph;43 °F;87 %;29.26 in
+20.01.2019;St Etienne;Lyon;1;2;Ligue 1;Cloudy;ENE;7 mph;30 °F;80 %;29.67 in
+11.01.2019;Caen;Lille;1;3;Ligue 1;Cloudy;WNW;9 mph;36 °F;75 %;29.78 in
+11.01.2019;Lyon;Reims;1;1;Ligue 1;Fair;N;13 mph;32 °F;87 %;29.39 in
+12.01.2019;Amiens;PSG;0;3;Ligue 1;Cloudy;NW;8 mph;41 °F;93 %;29.72 in
+12.01.2019;Guingamp;St Etienne;0;1;Ligue 1;Mostly Cloudy;NW;6 mph;43 °F;93 %;30.07 in
+12.01.2019;Nice;Bordeaux;1;0;Ligue 1;Fair;NNW;9 mph;39 °F;52 %;30.11 in
+13.01.2019;Nantes;Rennes;0;1;Ligue 1;Cloudy;NW;3 mph;48 °F;93 %;30.02 in
+13.01.2019;Dijon;Montpellier;1;1;Ligue 1;Cloudy;NW;3 mph;48 °F;93 %;30.02 in
+13.01.2019;Toulouse;Strasbourg;1;2;Ligue 1;Cloudy;W;12 mph;45 °F;76 %;29.90 in
+13.01.2019;Marsilya;Monaco;1;1;Ligue 1;Fair;WNW;20 mph;46 °F;62 %;30.12 in
+23.01.2019;Nimes;Angers;3;1;Ligue 1;Fair;W;6 mph;41 °F;87 %;29.40 in
+22.12.2018;Angers;Marsilya;1;1;Ligue 1;Fair;NNW;9 mph;50 °F;71 %;30.11 in
+22.12.2018;Lille;Toulouse;1;2;Ligue 1;Cloudy;SW;15 mph;52 °F;82 %;29.64 in
+22.12.2018;Monaco;Guingamp;0;2;Ligue 1;Fair;NNW;9 mph;50 °F;71 %;30.11 in
+22.12.2018;Montpellier;Lyon;1;1;Ligue 1;Fair;VAR;2 mph;50 °F;82 %;29.78 in
+22.12.2018;PSG;Nantes;1;0;Ligue 1;Mostly Cloudy;WSW;13 mph;55 °F;88 %;29.60 in
+22.12.2018;Reims;Caen;2;2;Ligue 1;Light Rain;WSW;18 mph;54 °F;100 %;29.31 in
+22.12.2018;Rennes;Nimes;4;0;Ligue 1;Mostly Cloudy;WSW;13 mph;55 °F;82 %;29.90 in
+22.12.2018;St Etienne;Dijon;3;0;Ligue 1;Cloudy;SW;15 mph;52 °F;82 %;29.64 in
+22.12.2018;Strasbourg;Nice;2;0;Ligue 1;Light Drizzle;S;14 mph;55 °F;77 %;29.37 in
+23.12.2018;Bordeaux;Amiens;1;1;Ligue 1;Patches of Fog;S;3 mph;52 °F;94 %;29.87 in
+15.12.2018;Reims;Strasbourg;2;1;Ligue 1;Cloudy;ESE;2 mph;32 °F;75 %;29.60 in
+16.12.2018;Nimes;Lille;2;3;Ligue 1;Fair;WSW;7 mph;46 °F;93 %;29.69 in
+16.12.2018;Nice;St Etienne;1;1;Ligue 1;Mostly Cloudy;NW;13 mph;45 °F;71 %;30.03 in
+16.12.2018;Lyon;Monaco;3;0;Ligue 1;Light Rain;SE;9 mph;36 °F;93 %;29.19 in
+18.12.2018;Caen;Toulouse;2;1;Ligue 1;Fair;SE;3 mph;43 °F;93 %;29.75 in
+08.01.2019;Amiens;Angers;0;0;Ligue 1;Light Rain / Windy;SW;21 mph;41 °F;100 %;29.75 in
+08.01.2019;Nantes;Montpellier;2;0;Ligue 1;Cloudy;WSW;5 mph;45 °F;87 %;30.22 in
+16.01.2019;Guingamp;Rennes;2;1;Ligue 1;Mostly Cloudy;SW;7 mph;43 °F;70 %;29.78 in
+05.02.2019;Marsilya;Bordeaux;1;0;Ligue 1;Fair;WNW;2 mph;37 °F;87 %;30.24 in
+12.03.2019;Dijon;PSG;0;4;Ligue 1;Cloudy;SSW;20 mph;48 °F;71 %;29.87 in
+08.12.2018;Guingamp;Amiens;1;2;Ligue 1;Fair;WSW;16 mph;45 °F;76 %;29.63 in
+08.12.2018;Rennes;Dijon;2;0;Ligue 1;Fair;WSW;12 mph;46 °F;81 %;29.93 in
+09.12.2018;Strasbourg;Caen;2;2;Ligue 1;Cloudy;S;16 mph;50 °F;82 %;29.17 in
+09.12.2018;Lille;Reims;1;1;Ligue 1;Mostly Cloudy / Windy;W;23 mph;50 °F;82 %;29.35 in
+15.01.2019;Angers;Bordeaux;1;2;Ligue 1;Fair;NNW;10 mph;48 °F;57 %;29.85 in
+16.01.2019;Monaco;Nice;1;1;Ligue 1;Fair;NNW;10 mph;45 °F;53 %;30.11 in
+16.01.2019;Nimes;Nantes;1;0;Ligue 1;Fair;SSE;3 mph;39 °F;87 %;29.96 in
+16.01.2019;Toulouse;Lyon;2;2;Ligue 1;Fair;S;3 mph;34 °F;93 %;29.55 in
+16.01.2019;St Etienne;Marsilya;2;1;Ligue 1;Cloudy;SSW;17 mph;45 °F;81 %;29.85 in
+20.02.2019;PSG;Montpellier;5;1;Ligue 1;Mostly Cloudy;WSW;2 mph;37 °F;93 %;29.84 in
+04.12.2018;Amiens;Monaco;0;2;Ligue 1;Cloudy;WSW;18 mph;52 °F;88 %;29.26 in
+04.12.2018;Nice;Angers;0;0;Ligue 1;Fair / Windy;E;25 mph;59 °F;82 %;29.85 in
+04.12.2018;Montpellier;Lille;0;1;Ligue 1;Mostly Cloudy;W;8 mph;55 °F;88 %;29.64 in
+05.12.2018;Bordeaux;St Etienne;3;2;Ligue 1;Fog;SE;2 mph;48 °F;93 %;29.66 in
+05.12.2018;Caen;Nimes;1;2;Ligue 1;Fog;SE;2 mph;48 °F;93 %;29.66 in
+05.12.2018;Dijon;Guingamp;2;1;Ligue 1;Light Drizzle;SW;15 mph;55 °F;94 %;29.70 in
+05.12.2018;Lyon;Rennes;0;2;Ligue 1;Fair;ENE;2 mph;45 °F;93 %;29.42 in
+05.12.2018;Nantes;Marsilya;3;2;Ligue 1;Light Drizzle;SW;15 mph;55 °F;94 %;29.70 in
+05.12.2018;Reims;Toulouse;0;1;Ligue 1;Cloudy;SE;7 mph;43 °F;87 %;29.63 in
+05.12.2018;Strasbourg;PSG;1;1;Ligue 1;Mist;N;1 mph;45 °F;93 %;29.75 in
+30.11.2018;St Etienne;Nantes;3;0;Ligue 1;Fair;SSW;16 mph;52 °F;82 %;29.55 in
+01.12.2018;Lille;Lyon;2;2;Ligue 1;Fair;S;8 mph;45 °F;87 %;29.76 in
+01.12.2018;Angers;Caen;1;1;Ligue 1;Light Rain;NNW;8 mph;48 °F;87 %;29.94 in
+01.12.2018;Guingamp;Nice;0;0;Ligue 1;Fair;VAR;3 mph;46 °F;87 %;29.66 in
+01.12.2018;Monaco;Montpellier;1;2;Ligue 1;Light Rain;NNW;8 mph;48 °F;87 %;29.94 in
+01.12.2018;Nimes;Amiens;3;0;Ligue 1;Fair;S;7 mph;46 °F;100 %;29.87 in
+02.12.2018;Toulouse;Dijon;2;2;Ligue 1;Light Rain;S;6 mph;48 °F;87 %;29.58 in
+02.12.2018;Marsilya;Reims;0;0;Ligue 1;Fair;SE;3 mph;41 °F;93 %;30.09 in
+02.12.2018;Rennes;Strasbourg;1;4;Ligue 1;Cloudy;SW;12 mph;57 °F;100 %;29.55 in
+02.12.2018;Bordeaux;PSG;2;2;Ligue 1;Light Rain;S;6 mph;48 °F;87 %;29.58 in
+23.11.2018;Lyon;St Etienne;1;0;Ligue 1;Partly Cloudy;VAR;2 mph;43 °F;87 %;29.19 in
+24.11.2018;PSG;Toulouse;1;0;Ligue 1;Light Rain;ENE;2 mph;43 °F;100 %;29.43 in
+24.11.2018;Caen;Monaco;0;1;Ligue 1;Mist;SSE;3 mph;41 °F;93 %;29.40 in
+24.11.2018;Dijon;Bordeaux;0;0;Ligue 1;Fair;SSE;7 mph;41 °F;100 %;29.35 in
+24.11.2018;Nantes;Angers;1;1;Ligue 1;Fair;SSE;7 mph;41 °F;100 %;29.35 in
+24.11.2018;Reims;Guingamp;2;1;Ligue 1;Light Rain;ESE;10 mph;43 °F;93 %;29.17 in
+24.11.2018;Strasbourg;Nimes;0;1;Ligue 1;Light Rain;NW;3 mph;37 °F;93 %;29.34 in
+25.11.2018;Montpellier;Rennes;2;2;Ligue 1;Fair;ESE;6 mph;45 °F;76 %;29.23 in
+25.11.2018;Nice;Lille;2;0;Ligue 1;Mostly Cloudy;NNW;8 mph;54 °F;77 %;29.85 in
+25.11.2018;Amiens;Marsilya;1;3;Ligue 1;Mist;SE;6 mph;41 °F;93 %;29.23 in
+09.11.2018;Lille;Strasbourg;0;0;Ligue 1;Fair;ENE;7 mph;45 °F;81 %;29.79 in
+10.11.2018;Guingamp;Lyon;2;4;Ligue 1;Fair;S;13 mph;54 °F;77 %;29.31 in
+10.11.2018;Angers;Montpellier;1;0;Ligue 1;Mostly Cloudy;NNW;9 mph;57 °F;82 %;29.97 in
+10.11.2018;Nimes;Nice;0;1;Ligue 1;Light Rain;S;18 mph;52 °F;100 %;29.31 in
+10.11.2018;St Etienne;Reims;2;0;Ligue 1;Fair;SSE;16 mph;54 °F;82 %;29.41 in
+10.11.2018;Toulouse;Amiens;0;1;Ligue 1;Fair;SSW;3 mph;46 °F;100 %;29.35 in
+11.11.2018;Bordeaux;Caen;0;0;Ligue 1;Fair;S;7 mph;55 °F;82 %;29.32 in
+11.11.2018;Marsilya;Dijon;2;0;Ligue 1;Cloudy;ESE;13 mph;63 °F;77 %;29.92 in
+11.11.2018;Rennes;Nantes;1;1;Ligue 1;Mostly Cloudy;S;10 mph;52 °F;94 %;29.37 in
+11.11.2018;Monaco;PSG;0;4;Ligue 1;Mostly Cloudy;NNW;7 mph;57 °F;88 %;29.97 in
+02.11.2018;PSG;Lille;2;1;Ligue 1;Fair;N;6 mph;50 °F;54 %;29.98 in
+03.11.2018;Lyon;Bordeaux;1;1;Ligue 1;Mostly Cloudy;NNW;12 mph;48 °F;87 %;29.39 in
+03.11.2018;Caen;Rennes;1;2;Ligue 1;Fair;W;6 mph;46 °F;93 %;29.75 in
+03.11.2018;Dijon;Nimes;0;4;Ligue 1;Fair;SSE;8 mph;45 °F;93 %;29.99 in
+03.11.2018;Nice;Amiens;1;0;Ligue 1;Light Rain;NNW;8 mph;59 °F;72 %;29.97 in
+03.11.2018;Reims;Monaco;1;0;Ligue 1;Fair;NNE;8 mph;36 °F;93 %;29.75 in
+03.11.2018;Strasbourg;Toulouse;1;1;Ligue 1;Cloudy;N;8 mph;48 °F;82 %;29.78 in
+04.11.2018;Nantes;Guingamp;5;0;Ligue 1;Mostly Cloudy;S;20 mph;54 °F;82 %;29.58 in
+04.11.2018;St Etienne;Angers;4;3;Ligue 1;Fair;ESE;3 mph;37 °F;87 %;29.94 in
+04.11.2018;Montpellier;Marsilya;3;0;Ligue 1;Fair;SSE;2 mph;43 °F;93 %;29.55 in
+26.10.2018;Nimes;St Etienne;1;1;Ligue 1;Fog;CALM;0 mph;43 °F;100 %;29.96 in
+27.10.2018;Angers;Lyon;1;2;Ligue 1;Mostly Cloudy;W;2 mph;63 °F;88 %;29.79 in
+27.10.2018;Amiens;Nantes;1;2;Ligue 1;Fair;W;7 mph;46 °F;87 %;29.20 in
+27.10.2018;Guingamp;Strasbourg;1;1;Ligue 1;Fair;NNW;6 mph;45 °F;81 %;29.55 in
+27.10.2018;Lille;Caen;1;0;Ligue 1;Fair;W;8 mph;39 °F;93 %;29.61 in
+27.10.2018;Monaco;Dijon;2;2;Ligue 1;Mostly Cloudy;W;2 mph;63 °F;88 %;29.79 in
+27.10.2018;Toulouse;Montpellier;0;3;Ligue 1;Mostly Cloudy;VAR;3 mph;54 °F;94 %;29.35 in
+28.10.2018;Rennes;Reims;0;2;Ligue 1;Fair;NNE;8 mph;39 °F;87 %;29.75 in
+28.10.2018;Bordeaux;Nice;0;1;Ligue 1;Mostly Cloudy;NW;6 mph;45 °F;76 %;29.11 in
+28.10.2018;Marsilya;PSG;0;2;Ligue 1;Cloudy;NNW;8 mph;48 °F;87 %;29.44 in
+19.10.2018;Lyon;Nimes;2;0;Ligue 1;Fair;VAR;2 mph;55 °F;77 %;29.19 in
+20.10.2018;PSG;Amiens;5;0;Ligue 1;Fair;N;9 mph;54 °F;82 %;29.95 in
+20.10.2018;Caen;Guingamp;0;0;Ligue 1;Fair;VAR;2 mph;61 °F;88 %;29.61 in
+20.10.2018;Dijon;Lille;1;2;Ligue 1;Fair;NE;8 mph;52 °F;94 %;29.99 in
+20.10.2018;Nantes;Toulouse;4;0;Ligue 1;Fair;NE;8 mph;52 °F;94 %;29.99 in
+20.10.2018;Reims;Angers;1;1;Ligue 1;Mist;N;7 mph;50 °F;94 %;29.63 in
+20.10.2018;Strasbourg;Monaco;2;1;Ligue 1;Mist;NNW;6 mph;50 °F;94 %;29.69 in
+21.10.2018;Montpellier;Bordeaux;2;0;Ligue 1;Mist;S;3 mph;55 °F;94 %;29.72 in
+21.10.2018;St Etienne;Rennes;1;1;Ligue 1;Fair;CALM;0 mph;45 °F;93 %;30.26 in
+21.10.2018;Nice;Marsilya;0;1;Ligue 1;Fair;NNW;5 mph;66 °F;68 %;30.14 in
+05.10.2018;Toulouse;Nice;1;1;Ligue 1;Fair;SE;16 mph;66 °F;56 %;29.55 in
+06.10.2018;Lille;St Etienne;3;1;Ligue 1;Fair;CALM;0 mph;55 °F;82 %;29.70 in
+06.10.2018;Amiens;Dijon;1;0;Ligue 1;Fair;SE;7 mph;57 °F;72 %;29.28 in
+06.10.2018;Angers;Strasbourg;2;2;Ligue 1;Mostly Cloudy;NW;2 mph;70 °F;60 %;30.00 in
+06.10.2018;Guingamp;Montpellier;1;1;Ligue 1;Fair;SW;2 mph;55 °F;82 %;29.57 in
+06.10.2018;Nimes;Reims;0;0;Ligue 1;Fair;CALM;0 mph;55 °F;88 %;29.75 in
+07.10.2018;Bordeaux;Nantes;3;0;Ligue 1;Heavy Rain;W;9 mph;55 °F;94 %;29.49 in
+07.10.2018;Marsilya;Caen;2;0;Ligue 1;Mostly Cloudy;S;5 mph;66 °F;78 %;29.92 in
+07.10.2018;Monaco;Rennes;1;2;Ligue 1;Mostly Cloudy;VAR;3 mph;66 °F;73 %;29.91 in
+07.10.2018;PSG;Lyon;5;0;Ligue 1;Fair;VAR;2 mph;61 °F;72 %;29.43 in
+28.09.2018;St Etienne;Monaco;2;0;Ligue 1;Fair;SW;2 mph;52 °F;76 %;30.02 in
+29.09.2018;Nice;PSG;0;3;Ligue 1;Fair;NW;5 mph;66 °F;73 %;29.88 in
+29.09.2018;Angers;Guingamp;0;1;Ligue 1;Fair;NW;5 mph;66 °F;73 %;29.88 in
+29.09.2018;Caen;Amiens;1;0;Ligue 1;Fair;WNW;10 mph;72 °F;53 %;29.55 in
+29.09.2018;Lyon;Nantes;1;1;Ligue 1;Fair;NNW;16 mph;64 °F;56 %;29.24 in
+29.09.2018;Reims;Bordeaux;0;0;Ligue 1;Fair;NNE;20 mph;50 °F;76 %;29.66 in
+29.09.2018;Strasbourg;Dijon;3;0;Ligue 1;Mostly Cloudy;N;10 mph;55 °F;67 %;29.72 in
+30.09.2018;Rennes;Toulouse;1;1;Ligue 1;Fair;N;3 mph;48 °F;71 %;30.05 in
+30.09.2018;Montpellier;Nimes;3;0;Ligue 1;Fair;VAR;2 mph;59 °F;63 %;29.49 in
+30.09.2018;Lille;Marsilya;3;0;Ligue 1;Fair;N;3 mph;46 °F;71 %;29.99 in
+25.09.2018;Monaco;Angers;0;1;Ligue 1;Mostly Cloudy / Windy;E;22 mph;79 °F;47 %;30.08 in
+25.09.2018;Nantes;Nice;1;2;Ligue 1;Fair;NE;7 mph;46 °F;87 %;30.25 in
+25.09.2018;Toulouse;St Etienne;2;3;Ligue 1;Fair;NNW;7 mph;55 °F;63 %;29.84 in
+26.09.2018;Amiens;Rennes;2;1;Ligue 1;Fair;ENE;9 mph;48 °F;66 %;29.89 in
+26.09.2018;Bordeaux;Lille;1;0;Ligue 1;Fair;ESE;5 mph;64 °F;59 %;29.81 in
+26.09.2018;Caen;Montpellier;2;2;Ligue 1;Fair;ESE;5 mph;64 °F;59 %;29.81 in
+26.09.2018;Dijon;Lyon;0;3;Ligue 1;Fair;ENE;6 mph;46 °F;76 %;30.13 in
+26.09.2018;Marsilya;Strasbourg;3;2;Ligue 1;Fair;VAR;2 mph;64 °F;73 %;30.39 in
+26.09.2018;Nimes;Guingamp;0;0;Ligue 1;Fair;ENE;8 mph;52 °F;58 %;30.37 in
+26.09.2018;PSG;Reims;4;1;Ligue 1;Fair;ENE;9 mph;52 °F;67 %;30.19 in
+21.09.2018;Monaco;Nimes;1;1;Ligue 1;Fair;NNW;7 mph;77 °F;57 %;29.97 in
+22.09.2018;Lille;Nantes;2;1;Ligue 1;Fair;SW;13 mph;55 °F;77 %;29.91 in
+22.09.2018;Angers;Toulouse;0;0;Ligue 1;Fair;VAR;2 mph;73 °F;78 %;29.91 in
+22.09.2018;Montpellier;Nice;1;0;Ligue 1;Cloudy;WNW;6 mph;64 °F;83 %;29.69 in
+22.09.2018;Reims;Dijon;0;0;Ligue 1;Fair;SW;7 mph;46 °F;81 %;29.54 in
+22.09.2018;St Etienne;Caen;2;1;Ligue 1;Fair;SW;13 mph;55 °F;77 %;29.91 in
+22.09.2018;Strasbourg;Amiens;3;1;Ligue 1;Fair;SSE;5 mph;55 °F;77 %;29.63 in
+23.09.2018;Rennes;PSG;1;3;Ligue 1;Cloudy;SW;13 mph;68 °F;88 %;29.90 in
+23.09.2018;Guingamp;Bordeaux;1;3;Ligue 1;Mostly Cloudy;SW;17 mph;66 °F;83 %;29.63 in
+23.09.2018;Lyon;Marsilya;4;2;Ligue 1;Fair;SSE;5 mph;66 °F;43 %;29.36 in
+14.09.2018;Nice;Rennes;2;1;Ligue 1;Fair;NW;6 mph;73 °F;69 %;29.94 in
+14.09.2018;PSG;St Etienne;4;0;Ligue 1;Mostly Cloudy;NNW;2 mph;61 °F;82 %;29.84 in
+15.09.2018;Caen;Lyon;2;2;Ligue 1;Fair;SW;5 mph;66 °F;73 %;29.64 in
+15.09.2018;Amiens;Lille;2;3;Ligue 1;Fair;NNW;7 mph;54 °F;77 %;29.57 in
+15.09.2018;Dijon;Angers;1;3;Ligue 1;Fair;SW;2 mph;48 °F;93 %;29.93 in
+15.09.2018;Montpellier;Strasbourg;1;1;Ligue 1;Fair;SW;5 mph;66 °F;73 %;29.64 in
+15.09.2018;Toulouse;Monaco;1;1;Ligue 1;Fair;SW;5 mph;66 °F;73 %;29.64 in
+16.09.2018;Nantes;Reims;0;0;Ligue 1;Fair;ESE;7 mph;50 °F;100 %;29.81 in
+16.09.2018;Bordeaux;Nimes;3;3;Ligue 1;Fair;SSE;2 mph;64 °F;73 %;29.61 in
+16.09.2018;Marsilya;Guingamp;4;0;Ligue 1;Fair;SE;6 mph;70 °F;73 %;30.09 in
+31.08.2018;Lyon;Nice;0;1;Ligue 1;Mostly Cloudy;NNW;8 mph;63 °F;72 %;29.27 in
+01.09.2018;Nimes;PSG;2;4;Ligue 1;Fair;VAR;1 mph;57 °F;94 %;30.08 in
+01.09.2018;Angers;Lille;1;0;Ligue 1;Fair;NW;7 mph;72 °F;57 %;29.85 in
+01.09.2018;Dijon;Caen;0;2;Ligue 1;Fair;S;3 mph;59 °F;88 %;29.84 in
+01.09.2018;Guingamp;Toulouse;1;2;Ligue 1;Fair;NNE;5 mph;59 °F;67 %;29.90 in
+01.09.2018;Reims;Montpellier;0;1;Ligue 1;Fair;N;7 mph;54 °F;77 %;29.57 in
+01.09.2018;Strasbourg;Nantes;2;3;Ligue 1;Mist;S;3 mph;57 °F;100 %;29.63 in
+02.09.2018;St Etienne;Amiens;0;0;Ligue 1;Fair;NNE;8 mph;57 °F;72 %;30.11 in
+02.09.2018;Rennes;Bordeaux;2;0;Ligue 1;Fair;E;7 mph;66 °F;60 %;30.08 in
+02.09.2018;Monaco;Marsilya;2;3;Ligue 1;Mostly Cloudy;NNW;10 mph;66 °F;73 %;29.94 in
+24.08.2018;Lyon;Strasbourg;2;0;Ligue 1;Fair;VAR;2 mph;73 °F;69 %;29.13 in
+25.08.2018;PSG;Angers;3;1;Ligue 1;Fair;WSW;8 mph;61 °F;59 %;29.63 in
+25.08.2018;Amiens;Reims;4;1;Ligue 1;Cloudy;SW;5 mph;55 °F;77 %;29.34 in
+25.08.2018;Montpellier;St Etienne;0;0;Ligue 1;Fair;W;8 mph;64 °F;68 %;29.58 in
+25.08.2018;Nantes;Caen;1;1;Ligue 1;Cloudy;WNW;5 mph;57 °F;88 %;29.70 in
+25.08.2018;Nice;Dijon;0;4;Ligue 1;Fair;N;5 mph;79 °F;69 %;29.70 in
+25.08.2018;Toulouse;Nimes;1;0;Ligue 1;Fair;W;8 mph;64 °F;68 %;29.58 in
+26.08.2018;Lille;Guingamp;3;0;Ligue 1;Fair;SW;7 mph;54 °F;82 %;29.85 in
+26.08.2018;Bordeaux;Monaco;2;1;Ligue 1;Fair;WNW;7 mph;63 °F;68 %;29.55 in
+26.08.2018;Marsilya;Rennes;2;2;Ligue 1;Fair / Windy;NW;22 mph;68 °F;49 %;29.86 in
+17.08.2018;Reims;Lyon;1;0;Ligue 1;Fair;N;9 mph;70 °F;68 %;29.28 in
+18.08.2018;Guingamp;PSG;1;3;Ligue 1;Fair;N;6 mph;63 °F;68 %;29.87 in
+18.08.2018;Amiens;Montpellier;1;2;Ligue 1;Fair;N;7 mph;59 °F;72 %;29.54 in
+18.08.2018;Caen;Nice;1;1;Ligue 1;Fair;W;16 mph;66 °F;60 %;29.66 in
+18.08.2018;Dijon;Nantes;2;0;Ligue 1;Mostly Cloudy;WSW;5 mph;55 °F;94 %;29.90 in
+18.08.2018;Monaco;Lille;0;0;Ligue 1;Fair;NNW;6 mph;77 °F;57 %;29.94 in
+18.08.2018;Rennes;Angers;1;0;Ligue 1;Fair;VAR;2 mph;55 °F;82 %;30.14 in
+19.08.2018;Strasbourg;St Etienne;1;1;Ligue 1;Fair;WNW;5 mph;70 °F;49 %;29.63 in
+19.08.2018;Toulouse;Bordeaux;2;1;Ligue 1;Fair;W;12 mph;73 °F;53 %;29.64 in
+19.08.2018;Nimes;Marsilya;3;1;Ligue 1;Fair;NNE;2 mph;61 °F;88 %;30.11 in
+10.08.2018;Marsilya;Toulouse;4;0;Ligue 1;Mostly Cloudy;NE;3 mph;72 °F;83 %;30.06 in
+11.08.2018;Nantes;Monaco;1;3;Ligue 1;Mostly Cloudy;SW;6 mph;61 °F;94 %;29.90 in
+11.08.2018;Angers;Nimes;3;4;Ligue 1;Fair;NW;8 mph;77 °F;65 %;30.03 in
+11.08.2018;Lille;Rennes;3;1;Ligue 1;Mostly Cloudy;SW;15 mph;59 °F;94 %;29.96 in
+11.08.2018;Montpellier;Dijon;1;2;Ligue 1;Fair;WNW;7 mph;70 °F;53 %;29.72 in
+11.08.2018;Nice;Reims;0;1;Ligue 1;Fair;NW;8 mph;77 °F;65 %;30.03 in
+11.08.2018;St Etienne;Guingamp;2;1;Ligue 1;Mostly Cloudy;SW;15 mph;59 °F;94 %;29.96 in
+12.08.2018;Lyon;Amiens;2;0;Ligue 1;Fair;CALM;0 mph;64 °F;68 %;29.30 in
+12.08.2018;Bordeaux;Strasbourg;0;2;Ligue 1;Fair;VAR;3 mph;77 °F;41 %;29.55 in
+12.08.2018;PSG;Caen;3;0;Ligue 1;Fair;VAR;1 mph;64 °F;59 %;29.81 in

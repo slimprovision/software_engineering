@@ -1,0 +1,381 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+23.05.2015;Levante;Elche;0;0;La Liga;Fair;NE;14 mph;57 °F;44 %;28.13 in
+23.05.2015;Ath. Bilbao;Villarreal;4;0;La Liga;Partly Cloudy;VAR;2 mph;50 °F;94 %;30.15 in
+23.05.2015;Barcelona;Deportivo;2;2;La Liga;Fair;W;7 mph;61 °F;72 %;30.07 in
+23.05.2015;Granada;Atl. Madrid;0;0;La Liga;N/A;S;3 mph;63 °F;58 %;28.11 in
+23.05.2015;Rayo Vallecano;R. Sociedad;2;4;La Liga;Fair;NE;14 mph;57 °F;44 %;28.13 in
+23.05.2015;Eibar;Cordoba;3;0;La Liga;Fair;NE;14 mph;57 °F;44 %;28.13 in
+23.05.2015;Celta Vigo;Espanyol;3;2;La Liga;Fair;NE;14 mph;57 °F;44 %;28.13 in
+23.05.2015;Almeria;Valencia;2;3;La Liga;Partly Cloudy;NNE;2 mph;57 °F;82 %;29.76 in
+23.05.2015;Malaga;Sevilla;2;3;La Liga;Fair;NE;14 mph;57 °F;44 %;28.13 in
+23.05.2015;Real Madrid;Getafe;7;3;La Liga;Fair;NE;14 mph;57 °F;44 %;28.13 in
+17.05.2015;Villarreal;Malaga;2;1;La Liga;Mostly Cloudy;NNW;3 mph;59 °F;94 %;30.29 in
+17.05.2015;Elche;Ath. Bilbao;2;3;La Liga;Fair;NE;7 mph;66 °F;30 %;28.26 in
+17.05.2015;Deportivo;Levante;2;0;La Liga;Fair;NE;7 mph;66 °F;30 %;28.26 in
+17.05.2015;Atl. Madrid;Barcelona;0;1;La Liga;Fair;NE;7 mph;66 °F;30 %;28.26 in
+17.05.2015;R. Sociedad;Granada;0;3;La Liga;Fair;NE;7 mph;66 °F;30 %;28.26 in
+17.05.2015;Cordoba;Rayo Vallecano;1;2;La Liga;Fair;NE;7 mph;66 °F;30 %;28.26 in
+17.05.2015;Getafe;Eibar;1;1;La Liga;Fair;WNW;3 mph;64 °F;49 %;29.99 in
+17.05.2015;Espanyol;Real Madrid;1;4;La Liga;Fair;NE;7 mph;66 °F;30 %;28.26 in
+17.05.2015;Valencia;Celta Vigo;1;1;La Liga;Fair;WNW;3 mph;64 °F;49 %;29.99 in
+17.05.2015;Sevilla;Almeria;2;1;La Liga;Fair;NE;7 mph;66 °F;30 %;28.26 in
+08.05.2015;Eibar;Espanyol;0;2;La Liga;Fair;ESE;6 mph;66 °F;40 %;27.93 in
+09.05.2015;Granada;Cordoba;2;0;La Liga;N/A;SW;5 mph;60 °F;64 %;28.29 in
+09.05.2015;Barcelona;R. Sociedad;2;0;La Liga;Fair;CALM;0 mph;66 °F;83 %;30.13 in
+09.05.2015;Real Madrid;Valencia;2;2;La Liga;Fair;SW;6 mph;66 °F;60 %;28.21 in
+09.05.2015;Ath. Bilbao;Deportivo;1;1;La Liga;Fair;VAR;1 mph;55 °F;94 %;30.15 in
+10.05.2015;Levante;Atl. Madrid;2;2;La Liga;Fair;N;3 mph;66 °F;46 %;28.21 in
+10.05.2015;Villarreal;Elche;1;0;La Liga;Fair;VAR;1 mph;59 °F;82 %;30.21 in
+10.05.2015;Almeria;Malaga;1;2;La Liga;Fair;W;1 mph;59 °F;94 %;29.93 in
+10.05.2015;Celta Vigo;Sevilla;1;1;La Liga;Fair;N;3 mph;66 °F;46 %;28.21 in
+11.05.2015;Rayo Vallecano;Getafe;2;0;La Liga;Fair;VAR;1 mph;70 °F;31 %;28.15 in
+01.05.2015;R. Sociedad;Levante;3;0;La Liga;Fair;WSW;8 mph;66 °F;60 %;28.07 in
+02.05.2015;Cordoba;Barcelona;0;8;La Liga;Partly Cloudy;WSW;8 mph;66 °F;68 %;28.04 in
+02.05.2015;Atl. Madrid;Ath. Bilbao;0;0;La Liga;Partly Cloudy;WSW;8 mph;66 °F;68 %;28.04 in
+02.05.2015;Sevilla;Real Madrid;2;3;La Liga;Partly Cloudy;WSW;8 mph;66 °F;68 %;28.04 in
+02.05.2015;Deportivo;Villarreal;1;1;La Liga;Partly Cloudy;WSW;8 mph;66 °F;68 %;28.04 in
+03.05.2015;Espanyol;Rayo Vallecano;1;1;La Liga;Fair;W;7 mph;72 °F;57 %;27.93 in
+03.05.2015;Getafe;Granada;1;2;La Liga;Fair;VAR;2 mph;68 °F;68 %;29.64 in
+03.05.2015;Valencia;Eibar;3;1;La Liga;Fair;VAR;2 mph;68 °F;68 %;29.64 in
+03.05.2015;Malaga;Elche;1;2;La Liga;Fair;W;7 mph;72 °F;57 %;27.93 in
+04.05.2015;Almeria;Celta Vigo;2;2;La Liga;Partly Cloudy;CALM;0 mph;61 °F;94 %;29.55 in
+28.04.2015;Barcelona;Getafe;6;0;La Liga;Fair;N;8 mph;63 °F;59 %;29.77 in
+28.04.2015;Ath. Bilbao;R. Sociedad;1;1;La Liga;Mostly Cloudy;VAR;1 mph;52 °F;76 %;30.06 in
+28.04.2015;Levante;Cordoba;1;0;La Liga;Fair;NNE;2 mph;52 °F;71 %;28.02 in
+29.04.2015;Eibar;Sevilla;1;3;La Liga;Fair;SW;7 mph;63 °F;52 %;28.04 in
+29.04.2015;Real Madrid;Almeria;3;0;La Liga;Fair;SW;7 mph;63 °F;52 %;28.04 in
+29.04.2015;Celta Vigo;Malaga;1;0;La Liga;Fair;SW;7 mph;63 °F;52 %;28.04 in
+29.04.2015;Elche;Deportivo;4;0;La Liga;Fair;SW;7 mph;63 °F;52 %;28.04 in
+29.04.2015;Villarreal;Atl. Madrid;0;1;La Liga;Fair;VAR;2 mph;50 °F;82 %;29.94 in
+30.04.2015;Rayo Vallecano;Valencia;1;1;La Liga;Fair;W;8 mph;61 °F;45 %;28.10 in
+30.04.2015;Granada;Espanyol;1;2;La Liga;N/A;SSE;2 mph;56 °F;67 %;28.21 in
+24.04.2015;Cordoba;Ath. Bilbao;0;1;La Liga;Fair;ESE;6 mph;61 °F;39 %;28.02 in
+25.04.2015;Espanyol;Barcelona;0;2;La Liga;Fair;WSW;9 mph;64 °F;45 %;27.93 in
+25.04.2015;Atl. Madrid;Elche;3;0;La Liga;Fair;WSW;9 mph;64 °F;45 %;27.93 in
+25.04.2015;Getafe;Levante;0;1;La Liga;Fair;E;5 mph;63 °F;88 %;29.69 in
+25.04.2015;R. Sociedad;Villarreal;0;0;La Liga;Fair;WSW;9 mph;64 °F;45 %;27.93 in
+26.04.2015;Malaga;Deportivo;1;1;La Liga;Partly Cloudy;S;8 mph;55 °F;82 %;27.93 in
+26.04.2015;Almeria;Eibar;2;0;La Liga;Mist;SE;1 mph;59 °F;94 %;29.58 in
+26.04.2015;Sevilla;Rayo Vallecano;2;0;La Liga;Partly Cloudy;S;8 mph;55 °F;82 %;27.93 in
+26.04.2015;Celta Vigo;Real Madrid;2;4;La Liga;Partly Cloudy;S;8 mph;55 °F;82 %;27.93 in
+27.04.2015;Valencia;Granada;4;0;La Liga;Fair;W;13 mph;63 °F;48 %;29.52 in
+17.04.2015;Levante;Espanyol;2;2;La Liga;Mostly Cloudy;WSW;7 mph;59 °F;67 %;28.04 in
+18.04.2015;Barcelona;Valencia;2;0;La Liga;Fair;VAR;2 mph;59 °F;88 %;30.04 in
+18.04.2015;Deportivo;Atl. Madrid;1;2;La Liga;Fair;CALM;0 mph;55 °F;67 %;28.02 in
+18.04.2015;Real Madrid;Malaga;3;1;La Liga;Fair;CALM;0 mph;55 °F;67 %;28.02 in
+18.04.2015;Ath. Bilbao;Getafe;4;0;La Liga;Fair;VAR;2 mph;55 °F;88 %;29.91 in
+19.04.2015;Rayo Vallecano;Almeria;2;0;La Liga;Fair;W;10 mph;52 °F;58 %;27.99 in
+19.04.2015;Granada;Sevilla;1;1;La Liga;N/A;SSW;6 mph;55 °F;60 %;28.07 in
+19.04.2015;Villarreal;Cordoba;0;0;La Liga;Mostly Cloudy;VAR;1 mph;50 °F;94 %;29.85 in
+19.04.2015;Eibar;Celta Vigo;0;1;La Liga;Fair;W;10 mph;52 °F;58 %;27.99 in
+20.04.2015;Elche;R. Sociedad;1;0;La Liga;Fair;VAR;2 mph;52 °F;54 %;28.04 in
+11.04.2015;Real Madrid;Eibar;3;0;La Liga;Fair;NNW;7 mph;52 °F;82 %;28.18 in
+11.04.2015;Malaga;Atl. Madrid;2;2;La Liga;Fair;NNW;7 mph;52 °F;82 %;28.18 in
+11.04.2015;Sevilla;Barcelona;2;2;La Liga;Fair;NNW;7 mph;52 °F;82 %;28.18 in
+11.04.2015;Almeria;Granada;3;0;La Liga;Fair;CALM;0 mph;48 °F;93 %;29.93 in
+11.04.2015;Celta Vigo;Rayo Vallecano;6;1;La Liga;Fair;NNW;7 mph;52 °F;82 %;28.18 in
+12.04.2015;Getafe;Villarreal;1;1;La Liga;Fair;VAR;2 mph;57 °F;88 %;30.10 in
+12.04.2015;Espanyol;Ath. Bilbao;1;0;La Liga;Partly Cloudy;VAR;2 mph;55 °F;72 %;28.26 in
+12.04.2015;R. Sociedad;Deportivo;2;2;La Liga;Partly Cloudy;VAR;2 mph;55 °F;72 %;28.26 in
+12.04.2015;Cordoba;Elche;0;2;La Liga;Partly Cloudy;VAR;2 mph;55 °F;72 %;28.26 in
+13.04.2015;Valencia;Levante;3;0;La Liga;Fair;ENE;7 mph;57 °F;72 %;30.13 in
+07.04.2015;Atl. Madrid;R. Sociedad;2;0;La Liga;Partly Cloudy;SE;8 mph;55 °F;63 %;28.13 in
+07.04.2015;Levante;Sevilla;1;2;La Liga;Partly Cloudy;SE;8 mph;55 °F;63 %;28.13 in
+07.04.2015;Eibar;Malaga;1;0;La Liga;Partly Cloudy;SE;8 mph;55 °F;63 %;28.13 in
+08.04.2015;Deportivo;Cordoba;1;1;La Liga;Fair;SSE;8 mph;48 °F;57 %;28.29 in
+08.04.2015;Barcelona;Almeria;4;0;La Liga;Fair;NNW;6 mph;50 °F;76 %;30.45 in
+08.04.2015;Granada;Celta Vigo;1;1;La Liga;N/A;NE;3 mph;50 °F;62 %;28.23 in
+08.04.2015;Rayo Vallecano;Real Madrid;0;2;La Liga;Fair;SSE;8 mph;48 °F;57 %;28.29 in
+09.04.2015;Ath. Bilbao;Valencia;1;1;La Liga;Fair;SSE;8 mph;63 °F;34 %;30.06 in
+09.04.2015;Elche;Getafe;0;1;La Liga;Fair;SE;5 mph;52 °F;50 %;28.21 in
+09.04.2015;Villarreal;Espanyol;0;3;La Liga;Fair;SSE;8 mph;63 °F;34 %;30.06 in
+03.04.2015;Eibar;Rayo Vallecano;1;2;La Liga;Fair;VAR;2 mph;55 °F;58 %;28.18 in
+04.04.2015;Sevilla;Ath. Bilbao;2;0;La Liga;Fair;ESE;3 mph;61 °F;34 %;27.99 in
+04.04.2015;Cordoba;Atl. Madrid;0;2;La Liga;Fair;ESE;3 mph;61 °F;34 %;27.99 in
+04.04.2015;Almeria;Levante;1;4;La Liga;Fair;CALM;0 mph;48 °F;93 %;29.67 in
+04.04.2015;Malaga;R. Sociedad;1;1;La Liga;Fair;ESE;3 mph;61 °F;34 %;27.99 in
+05.04.2015;Real Madrid;Granada;9;1;La Liga;Fair;N;5 mph;57 °F;38 %;27.91 in
+05.04.2015;Valencia;Villarreal;0;0;La Liga;Fair;VAR;2 mph;54 °F;82 %;29.69 in
+05.04.2015;Getafe;Deportivo;2;1;La Liga;Fair;VAR;2 mph;54 °F;82 %;29.69 in
+05.04.2015;Celta Vigo;Barcelona;0;1;La Liga;Fair;N;5 mph;57 °F;38 %;27.91 in
+06.04.2015;Espanyol;Elche;1;1;La Liga;Fair;VAR;2 mph;59 °F;39 %;27.85 in
+20.03.2015;Elche;Valencia;0;4;La Liga;Fair;N;9 mph;50 °F;71 %;27.93 in
+21.03.2015;Atl. Madrid;Getafe;2;0;La Liga;Cloudy;NNW;7 mph;48 °F;87 %;27.80 in
+21.03.2015;Rayo Vallecano;Malaga;1;0;La Liga;Cloudy;NNW;7 mph;48 °F;87 %;27.80 in
+21.03.2015;Levante;Celta Vigo;0;1;La Liga;Cloudy;NNW;7 mph;48 °F;87 %;27.80 in
+21.03.2015;Ath. Bilbao;Almeria;2;1;La Liga;Partly Cloudy;CALM;0 mph;48 °F;82 %;29.94 in
+21.03.2015;Granada;Eibar;0;0;La Liga;N/A;E;2 mph;48 °F;83 %;27.78 in
+22.03.2015;Deportivo;Espanyol;0;0;La Liga;Partly Cloudy;NNE;12 mph;48 °F;76 %;27.77 in
+22.03.2015;Villarreal;Sevilla;0;2;La Liga;Rain;NE;10 mph;52 °F;94 %;29.82 in
+22.03.2015;R. Sociedad;Cordoba;3;1;La Liga;Partly Cloudy;NNE;12 mph;48 °F;76 %;27.77 in
+22.03.2015;Barcelona;Real Madrid;2;1;La Liga;Mist;NE;13 mph;55 °F;94 %;29.80 in
+13.03.2015;Valencia;Deportivo;2;0;La Liga;Fair;ENE;7 mph;55 °F;88 %;29.93 in
+14.03.2015;Espanyol;Atl. Madrid;0;0;La Liga;Fair;NE;2 mph;45 °F;43 %;28.15 in
+14.03.2015;Eibar;Barcelona;0;2;La Liga;Fair;NE;2 mph;45 °F;43 %;28.15 in
+14.03.2015;Rayo Vallecano;Granada;3;1;La Liga;Fair;NE;2 mph;45 °F;43 %;28.15 in
+14.03.2015;Celta Vigo;Ath. Bilbao;1;2;La Liga;Fair;NE;2 mph;45 °F;43 %;28.15 in
+15.03.2015;Almeria;Villarreal;0;0;La Liga;Partly Cloudy;VAR;1 mph;36 °F;93 %;29.76 in
+15.03.2015;Malaga;Cordoba;2;0;La Liga;Fair;N;12 mph;41 °F;61 %;28.13 in
+15.03.2015;Sevilla;Elche;3;0;La Liga;Fair;N;12 mph;41 °F;61 %;28.13 in
+15.03.2015;Real Madrid;Levante;2;0;La Liga;Fair;N;12 mph;41 °F;61 %;28.13 in
+16.03.2015;Getafe;R. Sociedad;0;1;La Liga;Light Rain;WSW;7 mph;48 °F;82 %;29.84 in
+06.03.2015;Levante;Eibar;2;1;La Liga;Fair;N;3 mph;43 °F;29 %;28.37 in
+07.03.2015;Deportivo;Sevilla;3;4;La Liga;Fair;NNW;6 mph;41 °F;57 %;28.40 in
+07.03.2015;Ath. Bilbao;Real Madrid;1;0;La Liga;Fair;VAR;2 mph;46 °F;81 %;30.26 in
+07.03.2015;Elche;Almeria;1;0;La Liga;Fair;NNW;6 mph;41 °F;57 %;28.40 in
+07.03.2015;Granada;Malaga;1;0;La Liga;N/A;E;3 mph;42 °F;55 %;28.45 in
+08.03.2015;Barcelona;Rayo Vallecano;6;1;La Liga;Fair;N;5 mph;50 °F;82 %;30.28 in
+08.03.2015;R. Sociedad;Espanyol;1;0;La Liga;Fair;NNW;3 mph;43 °F;57 %;28.24 in
+08.03.2015;Villarreal;Celta Vigo;4;1;La Liga;Fair;VAR;2 mph;39 °F;93 %;30.18 in
+08.03.2015;Atl. Madrid;Valencia;1;1;La Liga;Fair;NNW;3 mph;43 °F;57 %;28.24 in
+09.03.2015;Cordoba;Getafe;1;2;La Liga;Fair;VAR;1 mph;52 °F;28 %;28.21 in
+27.02.2015;Espanyol;Cordoba;1;0;La Liga;Fair;VAR;2 mph;46 °F;76 %;28.15 in
+28.02.2015;Granada;Barcelona;1;3;La Liga;N/A;SSW;7 mph;47 °F;85 %;28.28 in
+28.02.2015;Rayo Vallecano;Levante;4;2;La Liga;Fair;CALM;0 mph;43 °F;53 %;28.21 in
+28.02.2015;Almeria;Deportivo;0;0;La Liga;Fair;CALM;0 mph;34 °F;81 %;29.79 in
+28.02.2015;Malaga;Getafe;3;2;La Liga;Fair;CALM;0 mph;43 °F;53 %;28.21 in
+01.03.2015;Valencia;R. Sociedad;2;0;La Liga;Fair;W;5 mph;50 °F;66 %;29.93 in
+01.03.2015;Eibar;Ath. Bilbao;0;1;La Liga;Partly Cloudy;VAR;2 mph;46 °F;76 %;28.21 in
+01.03.2015;Sevilla;Atl. Madrid;0;0;La Liga;Partly Cloudy;VAR;2 mph;46 °F;76 %;28.21 in
+01.03.2015;Real Madrid;Villarreal;1;1;La Liga;Partly Cloudy;VAR;2 mph;46 °F;76 %;28.21 in
+02.03.2015;Celta Vigo;Elche;1;1;La Liga;Fair;ESE;5 mph;54 °F;82 %;28.24 in
+20.02.2015;Getafe;Espanyol;2;1;La Liga;Fair;VAR;2 mph;43 °F;87 %;30.16 in
+21.02.2015;Barcelona;Malaga;0;1;La Liga;Mostly Cloudy;VAR;2 mph;45 °F;87 %;29.95 in
+21.02.2015;Cordoba;Valencia;1;2;La Liga;Partly Cloudy;S;7 mph;46 °F;66 %;27.93 in
+21.02.2015;Atl. Madrid;Almeria;3;0;La Liga;Partly Cloudy;S;7 mph;46 °F;66 %;27.93 in
+21.02.2015;Deportivo;Celta Vigo;0;2;La Liga;Partly Cloudy;S;7 mph;46 °F;66 %;27.93 in
+22.02.2015;R. Sociedad;Sevilla;4;3;La Liga;Fair;SSE;3 mph;41 °F;61 %;27.88 in
+22.02.2015;Ath. Bilbao;Rayo Vallecano;1;0;La Liga;Partly Cloudy;NW;12 mph;48 °F;76 %;29.85 in
+22.02.2015;Villarreal;Eibar;1;0;La Liga;Partly Cloudy;NW;12 mph;48 °F;76 %;29.85 in
+22.02.2015;Elche;Real Madrid;0;2;La Liga;Fair;SSE;3 mph;41 °F;61 %;27.88 in
+23.02.2015;Levante;Granada;2;1;La Liga;Partly Cloudy;ESE;5 mph;48 °F;76 %;28.02 in
+13.02.2015;Almeria;R. Sociedad;2;2;La Liga;Fair;CALM;0 mph;43 °F;100 %;29.82 in
+14.02.2015;Sevilla;Cordoba;3;0;La Liga;Mostly Cloudy;SW;13 mph;48 °F;71 %;28.10 in
+14.02.2015;Real Madrid;Deportivo;2;0;La Liga;Mostly Cloudy;SW;13 mph;48 °F;71 %;28.10 in
+14.02.2015;Granada;Ath. Bilbao;0;0;La Liga;N/A;S;3 mph;40 °F;92 %;28.29 in
+14.02.2015;Malaga;Espanyol;0;2;La Liga;Mostly Cloudy;SW;13 mph;48 °F;71 %;28.10 in
+15.02.2015;Valencia;Getafe;1;0;La Liga;Mostly Cloudy;WSW;14 mph;57 °F;63 %;29.69 in
+15.02.2015;Barcelona;Levante;5;0;La Liga;Fair;WNW;7 mph;52 °F;62 %;29.83 in
+15.02.2015;Rayo Vallecano;Villarreal;2;0;La Liga;Light Rain;SW;12 mph;46 °F;93 %;27.93 in
+15.02.2015;Celta Vigo;Atl. Madrid;2;0;La Liga;Light Rain;SW;12 mph;46 °F;93 %;27.93 in
+16.02.2015;Eibar;Elche;0;1;La Liga;Fair;W;14 mph;50 °F;71 %;28.02 in
+06.02.2015;Deportivo;Eibar;2;0;La Liga;Fair;N;7 mph;34 °F;60 %;27.93 in
+07.02.2015;Atl. Madrid;Real Madrid;4;0;La Liga;Mostly Cloudy;CALM;0 mph;32 °F;69 %;27.91 in
+07.02.2015;Villarreal;Granada;2;0;La Liga;Mostly Cloudy;VAR;2 mph;36 °F;100 %;29.97 in
+07.02.2015;Levante;Malaga;4;1;La Liga;Mostly Cloudy;CALM;0 mph;32 °F;69 %;27.91 in
+07.02.2015;R. Sociedad;Celta Vigo;1;1;La Liga;Mostly Cloudy;CALM;0 mph;32 °F;69 %;27.91 in
+08.02.2015;Cordoba;Almeria;1;2;La Liga;Fair;N;5 mph;30 °F;69 %;28.15 in
+08.02.2015;Getafe;Sevilla;2;1;La Liga;Fair;VAR;2 mph;34 °F;81 %;29.99 in
+08.02.2015;Espanyol;Valencia;1;2;La Liga;Fair;N;5 mph;30 °F;69 %;28.15 in
+08.02.2015;Ath. Bilbao;Barcelona;2;5;La Liga;Mostly Cloudy;VAR;1 mph;37 °F;93 %;30.23 in
+09.02.2015;Elche;Rayo Vallecano;2;0;La Liga;Fair;VAR;1 mph;34 °F;65 %;28.13 in
+30.01.2015;Rayo Vallecano;Deportivo;1;2;La Liga;Mostly Cloudy;SW;17 mph;52 °F;82 %;27.77 in
+31.01.2015;Real Madrid;R. Sociedad;4;1;La Liga;Light Rain;WSW;15 mph;54 °F;94 %;27.41 in
+31.01.2015;Eibar;Atl. Madrid;1;3;La Liga;Light Rain;WSW;15 mph;54 °F;94 %;27.41 in
+31.01.2015;Granada;Elche;1;0;La Liga;Heavy Drizzle;W;8 mph;52 °F;97 %;27.83 in
+31.01.2015;Celta Vigo;Cordoba;1;0;La Liga;Light Rain;WSW;15 mph;54 °F;94 %;27.41 in
+01.02.2015;Levante;Ath. Bilbao;0;2;La Liga;Partly Cloudy;W;13 mph;39 °F;61 %;27.77 in
+01.02.2015;Almeria;Getafe;1;0;La Liga;Fair;NE;2 mph;32 °F;100 %;29.09 in
+01.02.2015;Sevilla;Espanyol;3;2;La Liga;Partly Cloudy;W;13 mph;39 °F;61 %;27.77 in
+01.02.2015;Barcelona;Villarreal;3;2;La Liga;Fair / Windy;NW;21 mph;45 °F;57 %;29.42 in
+02.02.2015;Malaga;Valencia;1;0;La Liga;Fair;W;16 mph;41 °F;57 %;27.93 in
+24.01.2015;Cordoba;Real Madrid;1;2;La Liga;Fair;NNW;7 mph;34 °F;70 %;28.24 in
+24.01.2015;Elche;Barcelona;0;6;La Liga;Fair;NNW;7 mph;34 °F;70 %;28.24 in
+24.01.2015;Atl. Madrid;Rayo Vallecano;3;1;La Liga;Fair;NNW;7 mph;34 °F;70 %;28.24 in
+24.01.2015;R. Sociedad;Eibar;1;0;La Liga;Fair;NNW;7 mph;34 °F;70 %;28.24 in
+24.01.2015;Villarreal;Levante;1;0;La Liga;Fog;CALM;0 mph;34 °F;100 %;30.29 in
+25.01.2015;Deportivo;Granada;2;2;La Liga;Fair;N;12 mph;46 °F;62 %;28.29 in
+25.01.2015;Ath. Bilbao;Malaga;1;1;La Liga;Mostly Cloudy;CALM;0 mph;41 °F;93 %;30.41 in
+25.01.2015;Espanyol;Almeria;3;0;La Liga;Fair;N;12 mph;46 °F;62 %;28.29 in
+25.01.2015;Valencia;Sevilla;3;1;La Liga;Fair;NW;20 mph;59 °F;36 %;29.93 in
+26.01.2015;Getafe;Celta Vigo;2;1;La Liga;Fair;NW;3 mph;48 °F;30 %;30.05 in
+16.01.2015;Cordoba;Eibar;1;1;La Liga;Drizzle;SSE;8 mph;46 °F;100 %;27.85 in
+17.01.2015;R. Sociedad;Rayo Vallecano;0;1;La Liga;Mostly Cloudy;E;1 mph;36 °F;75 %;28.13 in
+17.01.2015;Valencia;Almeria;3;2;La Liga;Fair;WSW;6 mph;48 °F;54 %;29.87 in
+17.01.2015;Villarreal;Ath. Bilbao;2;0;La Liga;Partly Cloudy;VAR;1 mph;43 °F;87 %;30.06 in
+17.01.2015;Espanyol;Celta Vigo;1;0;La Liga;Mostly Cloudy;E;1 mph;36 °F;75 %;28.13 in
+18.01.2015;Getafe;Real Madrid;0;3;La Liga;Fair;W;7 mph;39 °F;70 %;29.93 in
+18.01.2015;Atl. Madrid;Granada;2;0;La Liga;Fair;SE;2 mph;34 °F;81 %;28.10 in
+18.01.2015;Deportivo;Barcelona;0;4;La Liga;Fair;SE;2 mph;34 °F;81 %;28.10 in
+18.01.2015;Elche;Levante;1;0;La Liga;Fair;SE;2 mph;34 °F;81 %;28.10 in
+18.01.2015;Sevilla;Malaga;2;0;La Liga;Fair;SE;2 mph;34 °F;81 %;28.10 in
+09.01.2015;Levante;Deportivo;0;0;La Liga;Fair;VAR;2 mph;36 °F;81 %;28.68 in
+10.01.2015;Real Madrid;Espanyol;3;0;La Liga;Fair;NNW;3 mph;34 °F;87 %;28.70 in
+10.01.2015;Malaga;Villarreal;1;1;La Liga;Fair;NNW;3 mph;34 °F;87 %;28.70 in
+10.01.2015;Celta Vigo;Valencia;1;1;La Liga;Fair;NNW;3 mph;34 °F;87 %;28.70 in
+10.01.2015;Eibar;Getafe;2;1;La Liga;Fair;NNW;3 mph;34 °F;87 %;28.70 in
+11.01.2015;Almeria;Sevilla;0;2;La Liga;Fair;CALM;0 mph;41 °F;100 %;29.99 in
+11.01.2015;Ath. Bilbao;Elche;1;2;La Liga;Mostly Cloudy;VAR;2 mph;52 °F;94 %;30.35 in
+11.01.2015;Granada;R. Sociedad;1;1;La Liga;N/A;;0 mph;32 °F;77 %;28.50 in
+11.01.2015;Barcelona;Atl. Madrid;3;1;La Liga;Fair;NW;12 mph;50 °F;76 %;30.28 in
+12.01.2015;Rayo Vallecano;Cordoba;0;1;La Liga;Fair;NNW;3 mph;37 °F;81 %;28.48 in
+03.01.2015;Atl. Madrid;Levante;3;1;La Liga;Fair;NNW;3 mph;32 °F;87 %;28.62 in
+03.01.2015;Sevilla;Celta Vigo;1;0;La Liga;Fair;NNW;3 mph;32 °F;87 %;28.62 in
+03.01.2015;Elche;Villarreal;2;2;La Liga;Fair;NNW;3 mph;32 °F;87 %;28.62 in
+03.01.2015;Deportivo;Ath. Bilbao;1;0;La Liga;Fair;NNW;3 mph;32 °F;87 %;28.62 in
+03.01.2015;Malaga;Almeria;1;2;La Liga;Fair;NNW;3 mph;32 °F;87 %;28.62 in
+04.01.2015;Getafe;Rayo Vallecano;1;2;La Liga;Fair;VAR;1 mph;48 °F;62 %;30.25 in
+04.01.2015;Valencia;Real Madrid;2;1;La Liga;Fair;VAR;1 mph;48 °F;62 %;30.25 in
+04.01.2015;Espanyol;Eibar;1;2;La Liga;Fair;N;5 mph;34 °F;81 %;28.57 in
+04.01.2015;R. Sociedad;Barcelona;1;0;La Liga;Fair;N;5 mph;34 °F;81 %;28.57 in
+05.01.2015;Cordoba;Granada;2;0;La Liga;Fair;N;3 mph;36 °F;81 %;28.40 in
+19.12.2014;Celta Vigo;Almeria;0;1;La Liga;Fair;N;5 mph;39 °F;100 %;28.37 in
+20.12.2014;Barcelona;Cordoba;5;0;La Liga;Fair;NW;15 mph;50 °F;82 %;30.36 in
+20.12.2014;Levante;R. Sociedad;1;1;La Liga;Patches of Fog;N;3 mph;34 °F;100 %;28.43 in
+20.12.2014;Eibar;Valencia;0;1;La Liga;Patches of Fog;N;3 mph;34 °F;100 %;28.43 in
+20.12.2014;Rayo Vallecano;Espanyol;1;3;La Liga;Patches of Fog;N;3 mph;34 °F;100 %;28.43 in
+21.12.2014;Villarreal;Deportivo;3;0;La Liga;Mostly Cloudy;VAR;2 mph;52 °F;100 %;30.44 in
+21.12.2014;Granada;Getafe;1;1;La Liga;Fair;;0 mph;33 °F;95 %;28.46 in
+21.12.2014;Elche;Malaga;1;2;La Liga;Fair;NE;3 mph;45 °F;81 %;28.48 in
+21.12.2014;Ath. Bilbao;Atl. Madrid;1;4;La Liga;Mostly Cloudy;VAR;2 mph;52 °F;100 %;30.44 in
+04.02.2015;Real Madrid;Sevilla;2;1;La Liga;Partly Cloudy;WSW;7 mph;39 °F;75 %;27.46 in
+12.12.2014;Almeria;Real Madrid;1;4;La Liga;Fair;VAR;2 mph;41 °F;100 %;29.93 in
+13.12.2014;Getafe;Barcelona;0;0;La Liga;Fair;VAR;2 mph;46 °F;71 %;29.78 in
+13.12.2014;Valencia;Rayo Vallecano;3;0;La Liga;Fair;VAR;2 mph;46 °F;71 %;29.78 in
+13.12.2014;Cordoba;Levante;0;0;La Liga;Fair;ESE;5 mph;39 °F;93 %;28.02 in
+13.12.2014;Malaga;Celta Vigo;1;0;La Liga;Fair;ESE;5 mph;39 °F;93 %;28.02 in
+14.12.2014;Espanyol;Granada;2;1;La Liga;Light Rain;VAR;2 mph;48 °F;100 %;27.88 in
+14.12.2014;Sevilla;Eibar;0;0;La Liga;Light Rain;VAR;2 mph;48 °F;100 %;27.88 in
+14.12.2014;Atl. Madrid;Villarreal;0;1;La Liga;Light Rain;VAR;2 mph;48 °F;100 %;27.88 in
+14.12.2014;R. Sociedad;Ath. Bilbao;1;1;La Liga;Light Rain;VAR;2 mph;48 °F;100 %;27.88 in
+15.12.2014;Deportivo;Elche;1;0;La Liga;Mostly Cloudy;N;7 mph;45 °F;100 %;27.96 in
+06.12.2014;Elche;Atl. Madrid;0;2;La Liga;Fair;CALM;0 mph;37 °F;87 %;28.21 in
+06.12.2014;Ath. Bilbao;Cordoba;0;1;La Liga;Light Rain;VAR;2 mph;48 °F;87 %;30.21 in
+06.12.2014;Real Madrid;Celta Vigo;3;0;La Liga;Fair;CALM;0 mph;37 °F;87 %;28.21 in
+06.12.2014;Deportivo;Malaga;0;1;La Liga;Fair;CALM;0 mph;37 °F;87 %;28.21 in
+07.12.2014;Rayo Vallecano;Sevilla;0;1;La Liga;Fair;N;10 mph;39 °F;65 %;28.24 in
+07.12.2014;Barcelona;Espanyol;5;1;La Liga;Fair;NNW;9 mph;43 °F;76 %;30.04 in
+07.12.2014;Villarreal;R. Sociedad;4;0;La Liga;Mostly Cloudy;VAR;2 mph;39 °F;100 %;30.26 in
+07.12.2014;Granada;Valencia;1;1;La Liga;N/A;SW;2 mph;33 °F;92 %;28.30 in
+08.12.2014;Eibar;Almeria;5;2;La Liga;Fair;CALM;0 mph;36 °F;87 %;28.35 in
+08.12.2014;Levante;Getafe;1;1;La Liga;Fair;CALM;0 mph;36 °F;87 %;28.35 in
+28.11.2014;R. Sociedad;Elche;3;0;La Liga;Mostly Cloudy;SSE;14 mph;50 °F;76 %;27.35 in
+29.11.2014;Getafe;Ath. Bilbao;1;2;La Liga;Rain;SE;13 mph;61 °F;94 %;29.11 in
+29.11.2014;Espanyol;Levante;2;1;La Liga;Mostly Cloudy;N;3 mph;46 °F;100 %;27.38 in
+29.11.2014;Malaga;Real Madrid;1;2;La Liga;Mostly Cloudy;N;3 mph;46 °F;100 %;27.38 in
+29.11.2014;Celta Vigo;Eibar;0;1;La Liga;Mostly Cloudy;N;3 mph;46 °F;100 %;27.38 in
+30.11.2014;Atl. Madrid;Deportivo;2;0;La Liga;Mist;SSE;5 mph;46 °F;100 %;27.49 in
+30.11.2014;Sevilla;Granada;5;1;La Liga;Mist;SSE;5 mph;46 °F;100 %;27.49 in
+30.11.2014;Cordoba;Villarreal;0;2;La Liga;Mist;SSE;5 mph;46 °F;100 %;27.49 in
+30.11.2014;Valencia;Barcelona;0;1;La Liga;Fair;NW;6 mph;57 °F;94 %;29.20 in
+01.12.2014;Almeria;Rayo Vallecano;0;1;La Liga;Drizzle;VAR;9 mph;54 °F;94 %;29.11 in
+21.11.2014;Ath. Bilbao;Espanyol;3;1;La Liga;Fair;SE;13 mph;63 °F;68 %;29.85 in
+22.11.2014;Atl. Madrid;Malaga;3;1;La Liga;Fair;NNE;5 mph;48 °F;93 %;28.04 in
+22.11.2014;Eibar;Real Madrid;0;4;La Liga;Fair;NNE;5 mph;48 °F;93 %;28.04 in
+22.11.2014;Barcelona;Sevilla;5;1;La Liga;Partly Cloudy;NNW;5 mph;61 °F;88 %;30.04 in
+22.11.2014;Deportivo;R. Sociedad;0;0;La Liga;Fair;NNE;5 mph;48 °F;93 %;28.04 in
+23.11.2014;Rayo Vallecano;Celta Vigo;1;0;La Liga;Fair;NNW;2 mph;55 °F;82 %;27.93 in
+23.11.2014;Levante;Valencia;2;1;La Liga;Fair;NNW;2 mph;55 °F;82 %;27.93 in
+23.11.2014;Elche;Cordoba;2;2;La Liga;Fair;NNW;2 mph;55 °F;82 %;27.93 in
+23.11.2014;Villarreal;Getafe;2;1;La Liga;Partly Cloudy;VAR;2 mph;57 °F;88 %;29.73 in
+24.11.2014;Granada;Almeria;0;0;La Liga;N/A;S;2 mph;56 °F;80 %;27.95 in
+07.11.2014;Cordoba;Deportivo;0;0;La Liga;Partly Cloudy;SW;12 mph;54 °F;67 %;27.99 in
+08.11.2014;Almeria;Barcelona;1;2;La Liga;Mostly Cloudy;CALM;0 mph;52 °F;94 %;29.64 in
+08.11.2014;Getafe;Elche;0;0;La Liga;Fair;WSW;8 mph;61 °F;77 %;29.75 in
+08.11.2014;Real Madrid;Rayo Vallecano;5;1;La Liga;Mostly Cloudy;VAR;2 mph;52 °F;67 %;28.02 in
+08.11.2014;Celta Vigo;Granada;0;0;La Liga;Mostly Cloudy;VAR;2 mph;52 °F;67 %;28.02 in
+08.11.2014;Malaga;Eibar;2;1;La Liga;Mostly Cloudy;VAR;2 mph;52 °F;67 %;28.02 in
+09.11.2014;Sevilla;Levante;1;1;La Liga;Mostly Cloudy;SW;12 mph;50 °F;82 %;27.82 in
+09.11.2014;Espanyol;Villarreal;1;1;La Liga;Mostly Cloudy;SW;12 mph;50 °F;82 %;27.82 in
+09.11.2014;Valencia;Ath. Bilbao;0;0;La Liga;Fair;VAR;2 mph;57 °F;63 %;29.61 in
+09.11.2014;R. Sociedad;Atl. Madrid;2;1;La Liga;Mostly Cloudy;SW;12 mph;50 °F;82 %;27.82 in
+31.10.2014;Deportivo;Getafe;1;2;La Liga;Fair;CALM;0 mph;55 °F;72 %;28.21 in
+01.11.2014;Granada;Real Madrid;0;4;La Liga;N/A;;0 mph;50 °F;88 %;28.25 in
+01.11.2014;Atl. Madrid;Cordoba;4;2;La Liga;Fair;NW;9 mph;52 °F;76 %;28.21 in
+01.11.2014;Barcelona;Celta Vigo;0;1;La Liga;Mostly Cloudy;NW;2 mph;64 °F;77 %;30.22 in
+01.11.2014;R. Sociedad;Malaga;0;1;La Liga;Fair;NW;9 mph;52 °F;76 %;28.21 in
+02.11.2014;Ath. Bilbao;Sevilla;1;0;La Liga;Mist;VAR;2 mph;61 °F;100 %;29.94 in
+02.11.2014;Villarreal;Valencia;1;3;La Liga;Mist;VAR;2 mph;61 °F;100 %;29.94 in
+02.11.2014;Levante;Almeria;2;1;La Liga;Fair;N;3 mph;52 °F;82 %;28.18 in
+02.11.2014;Elche;Espanyol;2;1;La Liga;Fair;N;3 mph;52 °F;82 %;28.18 in
+03.11.2014;Rayo Vallecano;Eibar;2;3;La Liga;Partly Cloudy;CALM;0 mph;52 °F;100 %;28.04 in
+24.10.2014;Celta Vigo;Levante;3;0;La Liga;Fair;NNW;7 mph;64 °F;45 %;28.15 in
+25.10.2014;Almeria;Ath. Bilbao;0;1;La Liga;Fair;CALM;0 mph;55 °F;94 %;29.73 in
+25.10.2014;Real Madrid;Barcelona;3;1;La Liga;Fair;NNW;3 mph;66 °F;52 %;28.13 in
+25.10.2014;Valencia;Elche;3;1;La Liga;Fair;VAR;2 mph;63 °F;68 %;29.84 in
+25.10.2014;Cordoba;R. Sociedad;1;1;La Liga;Fair;NNW;3 mph;66 °F;52 %;28.13 in
+25.10.2014;Eibar;Granada;1;1;La Liga;Fair;NNW;3 mph;66 °F;52 %;28.13 in
+26.10.2014;Malaga;Rayo Vallecano;4;0;La Liga;Fair;CALM;0 mph;59 °F;63 %;28.18 in
+26.10.2014;Espanyol;Deportivo;0;0;La Liga;Fair;CALM;0 mph;59 °F;63 %;28.18 in
+26.10.2014;Sevilla;Villarreal;2;1;La Liga;Fair;CALM;0 mph;59 °F;63 %;28.18 in
+26.10.2014;Getafe;Atl. Madrid;0;1;La Liga;Fair;W;3 mph;63 °F;77 %;29.93 in
+17.10.2014;Granada;Rayo Vallecano;0;1;La Liga;N/A;S;2 mph;60 °F;93 %;28.15 in
+18.10.2014;Levante;Real Madrid;0;5;La Liga;Fair;VAR;2 mph;59 °F;88 %;28.10 in
+18.10.2014;Ath. Bilbao;Celta Vigo;1;1;La Liga;Fair;S;5 mph;73 °F;50 %;29.79 in
+18.10.2014;Barcelona;Eibar;3;0;La Liga;Fair;VAR;2 mph;66 °F;83 %;30.04 in
+18.10.2014;Cordoba;Malaga;1;2;La Liga;Fair;VAR;2 mph;59 °F;88 %;28.10 in
+19.10.2014;Atl. Madrid;Espanyol;2;0;La Liga;Fair;NNW;5 mph;61 °F;77 %;28.15 in
+19.10.2014;Deportivo;Valencia;3;0;La Liga;Fair;NNW;5 mph;61 °F;77 %;28.15 in
+19.10.2014;Elche;Sevilla;0;2;La Liga;Fair;NNW;5 mph;61 °F;77 %;28.15 in
+19.10.2014;Villarreal;Almeria;2;0;La Liga;Fair;ESE;3 mph;66 °F;64 %;29.94 in
+20.10.2014;R. Sociedad;Getafe;1;2;La Liga;Fair;NNW;5 mph;64 °F;73 %;28.21 in
+03.10.2014;Getafe;Cordoba;1;1;La Liga;Fair;W;3 mph;66 °F;94 %;30.02 in
+04.10.2014;Valencia;Atl. Madrid;3;1;La Liga;Partly Cloudy;WNW;3 mph;68 °F;94 %;29.90 in
+04.10.2014;Rayo Vallecano;Barcelona;0;2;La Liga;Fair;NNW;5 mph;63 °F;77 %;28.13 in
+04.10.2014;Eibar;Levante;3;3;La Liga;Fair;NNW;5 mph;63 °F;77 %;28.13 in
+04.10.2014;Almeria;Elche;2;2;La Liga;Mostly Cloudy;CALM;0 mph;61 °F;100 %;29.79 in
+04.10.2014;Malaga;Granada;2;1;La Liga;Fair;NNW;5 mph;63 °F;77 %;28.13 in
+05.10.2014;Sevilla;Deportivo;4;1;La Liga;Fair;N;5 mph;68 °F;49 %;28.04 in
+05.10.2014;Celta Vigo;Villarreal;1;3;La Liga;Fair;N;5 mph;68 °F;49 %;28.04 in
+05.10.2014;Espanyol;R. Sociedad;2;0;La Liga;Fair;N;5 mph;68 °F;49 %;28.04 in
+05.10.2014;Real Madrid;Ath. Bilbao;5;0;La Liga;Fair;N;5 mph;68 °F;49 %;28.04 in
+26.09.2014;Elche;Celta Vigo;0;1;La Liga;Fair;NW;8 mph;61 °F;45 %;28.15 in
+27.09.2014;Villarreal;Real Madrid;0;2;La Liga;Fair;VAR;1 mph;55 °F;94 %;30.06 in
+27.09.2014;Barcelona;Granada;6;0;La Liga;Fair;ESE;10 mph;75 °F;50 %;30.19 in
+27.09.2014;Atl. Madrid;Sevilla;4;0;La Liga;Partly Cloudy;SSE;13 mph;72 °F;53 %;28.15 in
+27.09.2014;Ath. Bilbao;Eibar;0;0;La Liga;Fair;VAR;1 mph;55 °F;94 %;30.06 in
+27.09.2014;Levante;Rayo Vallecano;0;2;La Liga;Partly Cloudy;SSE;13 mph;72 °F;53 %;28.15 in
+28.09.2014;Getafe;Malaga;1;0;La Liga;Mostly Cloudy;N;5 mph;72 °F;69 %;29.96 in
+28.09.2014;Deportivo;Almeria;0;1;La Liga;Partly Cloudy;SE;12 mph;66 °F;64 %;28.18 in
+28.09.2014;R. Sociedad;Valencia;1;1;La Liga;Partly Cloudy;SE;12 mph;66 °F;64 %;28.18 in
+28.09.2014;Cordoba;Espanyol;0;0;La Liga;Partly Cloudy;SE;12 mph;66 °F;64 %;28.18 in
+23.09.2014;Real Madrid;Elche;5;1;La Liga;Fair;S;8 mph;64 °F;68 %;27.99 in
+23.09.2014;Celta Vigo;Deportivo;2;1;La Liga;Fair;S;8 mph;64 °F;68 %;27.99 in
+24.09.2014;Almeria;Atl. Madrid;0;1;La Liga;Partly Cloudy;WNW;2 mph;63 °F;100 %;29.64 in
+24.09.2014;Eibar;Villarreal;1;1;La Liga;Fair;VAR;2 mph;63 °F;72 %;27.96 in
+24.09.2014;Rayo Vallecano;Ath. Bilbao;2;1;La Liga;Fair;VAR;2 mph;63 °F;72 %;27.96 in
+24.09.2014;Sevilla;R. Sociedad;1;0;La Liga;Fair;VAR;2 mph;63 °F;72 %;27.96 in
+24.09.2014;Granada;Levante;0;1;La Liga;N/A;WSW;8 mph;65 °F;69 %;28.07 in
+24.09.2014;Malaga;Barcelona;0;0;La Liga;Fair;VAR;2 mph;63 °F;72 %;27.96 in
+25.09.2014;Espanyol;Getafe;2;0;La Liga;Partly Cloudy;N;5 mph;63 °F;72 %;28.10 in
+25.09.2014;Valencia;Cordoba;3;0;La Liga;Thunder;NW;12 mph;66 °F;94 %;29.84 in
+19.09.2014;Elche;Eibar;0;2;La Liga;Partly Cloudy;E;3 mph;61 °F;100 %;27.91 in
+20.09.2014;Deportivo;Real Madrid;2;8;La Liga;Fair;CALM;0 mph;63 °F;77 %;28.02 in
+20.09.2014;Ath. Bilbao;Granada;0;1;La Liga;Fair;S;3 mph;70 °F;64 %;29.79 in
+20.09.2014;Atl. Madrid;Celta Vigo;2;2;La Liga;Fair;CALM;0 mph;63 °F;77 %;28.02 in
+20.09.2014;Espanyol;Malaga;2;2;La Liga;Fair;CALM;0 mph;63 °F;77 %;28.02 in
+21.09.2014;R. Sociedad;Almeria;1;2;La Liga;Fair;N;8 mph;66 °F;56 %;28.10 in
+21.09.2014;Villarreal;Rayo Vallecano;4;2;La Liga;Fair;VAR;2 mph;63 °F;94 %;29.97 in
+21.09.2014;Cordoba;Sevilla;1;3;La Liga;Fair;N;8 mph;66 °F;56 %;28.10 in
+21.09.2014;Levante;Barcelona;0;5;La Liga;Fair;N;8 mph;66 °F;56 %;28.10 in
+22.09.2014;Getafe;Valencia;0;3;La Liga;Fair;VAR;1 mph;77 °F;78 %;29.78 in
+12.09.2014;Almeria;Cordoba;1;1;La Liga;Fair;CALM;0 mph;68 °F;100 %;29.58 in
+13.09.2014;Barcelona;Ath. Bilbao;2;0;La Liga;Fair;E;1 mph;75 °F;73 %;29.98 in
+13.09.2014;Malaga;Levante;0;0;La Liga;Fair;WSW;8 mph;77 °F;41 %;28.02 in
+13.09.2014;Real Madrid;Atl. Madrid;1;2;La Liga;Fair;WSW;8 mph;77 °F;41 %;28.02 in
+13.09.2014;Celta Vigo;R. Sociedad;2;2;La Liga;Fair;WSW;8 mph;77 °F;41 %;28.02 in
+14.09.2014;Rayo Vallecano;Elche;2;3;La Liga;Fair;WSW;8 mph;77 °F;39 %;28.02 in
+14.09.2014;Valencia;Espanyol;3;1;La Liga;Fair;ENE;3 mph;79 °F;78 %;29.75 in
+14.09.2014;Sevilla;Getafe;2;0;La Liga;Fair;WSW;8 mph;77 °F;39 %;28.02 in
+14.09.2014;Granada;Villarreal;0;0;La Liga;N/A;;0 mph;67 °F;55 %;28.10 in
+15.09.2014;Eibar;Deportivo;0;1;La Liga;Fair;W;6 mph;73 °F;38 %;27.96 in
+29.08.2014;Getafe;Almeria;1;0;La Liga;Mostly Cloudy;NE;8 mph;81 °F;79 %;29.75 in
+29.08.2014;Valencia;Malaga;3;0;La Liga;Mostly Cloudy;NE;8 mph;81 °F;79 %;29.75 in
+30.08.2014;Cordoba;Celta Vigo;1;1;La Liga;Fair;NNW;6 mph;79 °F;32 %;27.99 in
+30.08.2014;Ath. Bilbao;Levante;3;0;La Liga;Mostly Cloudy;VAR;1 mph;64 °F;94 %;30.03 in
+30.08.2014;Atl. Madrid;Eibar;2;1;La Liga;Fair;NNW;6 mph;79 °F;32 %;27.99 in
+31.08.2014;Espanyol;Sevilla;1;2;La Liga;Fair;VAR;2 mph;81 °F;45 %;28.02 in
+31.08.2014;Villarreal;Barcelona;0;1;La Liga;Mostly Cloudy;VAR;1 mph;66 °F;83 %;30.00 in
+31.08.2014;R. Sociedad;Real Madrid;4;2;La Liga;Fair;VAR;2 mph;81 °F;45 %;28.02 in
+31.08.2014;Deportivo;Rayo Vallecano;2;2;La Liga;Fair;VAR;2 mph;81 °F;45 %;28.02 in
+01.09.2014;Elche;Granada;1;1;La Liga;Fair;ENE;6 mph;81 °F;39 %;28.02 in
+23.08.2014;Malaga;Ath. Bilbao;1;0;La Liga;Fair;NE;3 mph;70 °F;49 %;28.02 in
+23.08.2014;Sevilla;Valencia;1;1;La Liga;Fair;NE;3 mph;70 °F;49 %;28.02 in
+23.08.2014;Granada;Deportivo;2;1;La Liga;N/A;SSE;3 mph;69 °F;43 %;28.08 in
+24.08.2014;Almeria;Espanyol;1;1;La Liga;Fair;CALM;0 mph;63 °F;100 %;29.79 in
+24.08.2014;Eibar;R. Sociedad;1;0;La Liga;Fair;N;5 mph;75 °F;29 %;28.07 in
+24.08.2014;Celta Vigo;Getafe;3;1;La Liga;Fair;N;5 mph;75 °F;29 %;28.07 in
+24.08.2014;Barcelona;Elche;3;0;La Liga;Mostly Cloudy;ESE;5 mph;73 °F;69 %;30.10 in
+25.08.2014;Levante;Villarreal;0;2;La Liga;Fair;VAR;2 mph;77 °F;24 %;28.04 in
+25.08.2014;Real Madrid;Cordoba;2;0;La Liga;Fair;VAR;2 mph;77 °F;24 %;28.04 in
+25.08.2014;Rayo Vallecano;Atl. Madrid;0;0;La Liga;Fair;VAR;2 mph;77 °F;24 %;28.04 in

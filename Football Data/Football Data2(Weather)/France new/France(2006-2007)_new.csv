@@ -1,0 +1,381 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+04.08.2006;Nantes;Lyon;1;3;Ligue 1;Fair;NNW;6 mph;57 °F;100 %;29.78 in
+05.08.2006;AJ Auxerre;Valenciennes;1;1;Ligue 1;Fair;NNW;15 mph;61 °F;82 %;29.40 in
+05.08.2006;Bordeaux;Toulouse;2;0;Ligue 1;Fair;WNW;6 mph;68 °F;60 %;29.55 in
+05.08.2006;Le Mans;Nice;1;0;Ligue 1;Partly Cloudy;NNW;8 mph;64 °F;68 %;29.75 in
+05.08.2006;Lens;Troyes;1;0;Ligue 1;Mostly Cloudy;NNW;7 mph;63 °F;72 %;29.88 in
+05.08.2006;Nancy;Monaco;1;0;Ligue 1;Fair;NNW;15 mph;61 °F;82 %;29.40 in
+05.08.2006;PSG;Lorient;2;3;Ligue 1;Partly Cloudy;NNW;8 mph;64 °F;68 %;29.75 in
+05.08.2006;Rennes;Lille;1;2;Ligue 1;Fair;NNW;5 mph;59 °F;88 %;30.02 in
+05.08.2006;St Etienne;Sochaux;1;2;Ligue 1;Mostly Cloudy;NNW;7 mph;63 °F;72 %;29.88 in
+06.08.2006;Sedan;Marsilya;0;0;Ligue 1;Fair;N;8 mph;66 °F;68 %;29.81 in
+12.08.2006;Lorient;Bordeaux;0;1;Ligue 1;Fair;WNW;8 mph;59 °F;77 %;29.87 in
+12.08.2006;Lyon;Toulouse;1;1;Ligue 1;Mostly Cloudy;VAR;2 mph;61 °F;82 %;29.10 in
+12.08.2006;Monaco;St Etienne;1;2;Ligue 1;Mostly Cloudy;NW;7 mph;68 °F;73 %;29.64 in
+12.08.2006;Nancy;Sedan;3;1;Ligue 1;Fair;SW;2 mph;50 °F;94 %;29.26 in
+12.08.2006;Nice;Nantes;1;1;Ligue 1;Mostly Cloudy;NW;7 mph;68 °F;73 %;29.64 in
+12.08.2006;Sochaux;AJ Auxerre;1;1;Ligue 1;Fair;W;7 mph;54 °F;88 %;29.57 in
+12.08.2006;Troyes;Le Mans;2;2;Ligue 1;Fair;W;7 mph;54 °F;88 %;29.57 in
+12.08.2006;Valenciennes;PSG;0;0;Ligue 1;Fair;W;7 mph;54 °F;88 %;29.57 in
+13.08.2006;Lille;Lens;4;0;Ligue 1;Mostly Cloudy;ENE;7 mph;55 °F;94 %;29.52 in
+13.08.2006;Marsilya;Rennes;2;0;Ligue 1;Fair / Windy;NNW;22 mph;68 °F;49 %;29.77 in
+19.08.2006;AJ Auxerre;Marsilya;0;3;Ligue 1;Fair;S;6 mph;59 °F;94 %;29.23 in
+19.08.2006;Le Mans;Valenciennes;3;2;Ligue 1;Fair;S;3 mph;61 °F;88 %;29.52 in
+19.08.2006;Lens;Lorient;1;1;Ligue 1;Fair;S;7 mph;64 °F;83 %;29.61 in
+19.08.2006;Nantes;Troyes;1;1;Ligue 1;Partly Cloudy;SSW;7 mph;61 °F;94 %;29.38 in
+19.08.2006;PSG;Lille;1;0;Ligue 1;Fair;S;3 mph;61 °F;88 %;29.52 in
+19.08.2006;Rennes;Monaco;1;1;Ligue 1;Fair;S;6 mph;59 °F;88 %;29.67 in
+19.08.2006;St Etienne;Nancy;1;0;Ligue 1;Fair;S;7 mph;64 °F;83 %;29.61 in
+19.08.2006;Sedan;Sochaux;1;1;Ligue 1;Fair;S;3 mph;61 °F;88 %;29.52 in
+20.08.2006;Toulouse;Nice;1;0;Ligue 1;Fair;NNW;12 mph;70 °F;53 %;29.64 in
+20.08.2006;Bordeaux;Lyon;1;2;Ligue 1;Fair;NNW;12 mph;70 °F;53 %;29.64 in
+26.08.2006;Nice;Lyon;1;4;Ligue 1;Fair;NW;8 mph;68 °F;68 %;29.70 in
+26.08.2006;Lille;Bordeaux;3;0;Ligue 1;Mostly Cloudy;SE;2 mph;57 °F;88 %;29.64 in
+26.08.2006;Lorient;Nantes;3;1;Ligue 1;Mostly Cloudy;W;8 mph;63 °F;88 %;29.75 in
+26.08.2006;Sochaux;PSG;3;2;Ligue 1;Fair;SW;2 mph;55 °F;82 %;29.52 in
+26.08.2006;Troyes;Toulouse;1;2;Ligue 1;Fair;SW;2 mph;55 °F;82 %;29.52 in
+27.08.2006;Marsilya;Le Mans;2;0;Ligue 1;Fair / Windy;NW;23 mph;72 °F;53 %;29.89 in
+27.08.2006;Monaco;Sedan;2;1;Ligue 1;Fair;NNW;8 mph;66 °F;78 %;29.76 in
+27.08.2006;Nancy;AJ Auxerre;1;0;Ligue 1;Fair;W;10 mph;59 °F;100 %;29.28 in
+27.08.2006;Valenciennes;Rennes;3;1;Ligue 1;Mostly Cloudy;W;8 mph;63 °F;77 %;29.60 in
+27.08.2006;St Etienne;Lens;3;2;Ligue 1;Mostly Cloudy;W;5 mph;61 °F;94 %;29.67 in
+09.09.2006;Bordeaux;Nice;3;2;Ligue 1;Fair;N;3 mph;77 °F;65 %;29.49 in
+09.09.2006;AJ Auxerre;Monaco;2;1;Ligue 1;Fair;NE;9 mph;54 °F;77 %;29.66 in
+09.09.2006;Le Mans;Lorient;1;1;Ligue 1;Fair;NE;10 mph;57 °F;77 %;29.93 in
+09.09.2006;Lens;Valenciennes;3;0;Ligue 1;Fair;ENE;8 mph;55 °F;82 %;30.17 in
+09.09.2006;Lyon;Troyes;2;0;Ligue 1;Fair;VAR;2 mph;61 °F;77 %;29.30 in
+09.09.2006;Nantes;Lille;1;1;Ligue 1;Fair;ENE;5 mph;57 °F;88 %;29.81 in
+09.09.2006;Rennes;Sochaux;2;1;Ligue 1;Fair;ENE;6 mph;61 °F;59 %;30.08 in
+09.09.2006;Sedan;St Etienne;2;2;Ligue 1;Fair;NE;10 mph;57 °F;77 %;29.93 in
+10.09.2006;Toulouse;Nancy;2;2;Ligue 1;Fair;SE;9 mph;73 °F;65 %;29.58 in
+10.09.2006;PSG;Marsilya;1;3;Ligue 1;Fair;WNW;2 mph;61 °F;72 %;29.78 in
+16.09.2006;Sedan;Le Mans;1;2;Ligue 1;Mostly Cloudy;N;7 mph;66 °F;94 %;29.37 in
+16.09.2006;Lille;Toulouse;1;3;Ligue 1;Fair;NE;8 mph;68 °F;73 %;29.55 in
+16.09.2006;Lorient;Lyon;1;3;Ligue 1;Fair;NW;12 mph;61 °F;88 %;29.69 in
+16.09.2006;Troyes;Nice;2;0;Ligue 1;Mostly Cloudy;N;7 mph;66 °F;94 %;29.37 in
+16.09.2006;Valenciennes;Nantes;1;0;Ligue 1;Mostly Cloudy;N;7 mph;66 °F;94 %;29.37 in
+17.09.2006;Monaco;PSG;1;2;Ligue 1;Fair;NNW;9 mph;66 °F;78 %;29.70 in
+17.09.2006;Nancy;Rennes;0;0;Ligue 1;Fair;W;6 mph;55 °F;100 %;29.23 in
+17.09.2006;St Etienne;AJ Auxerre;2;3;Ligue 1;Mostly Cloudy;WNW;7 mph;66 °F;83 %;29.64 in
+17.09.2006;Sochaux;Lens;0;3;Ligue 1;Partly Cloudy;WSW;5 mph;59 °F;94 %;29.52 in
+17.09.2006;Marsilya;Bordeaux;2;1;Ligue 1;Fair;WNW;7 mph;66 °F;88 %;29.74 in
+23.09.2006;Lyon;Lille;4;1;Ligue 1;Fair;SSE;10 mph;70 °F;60 %;29.07 in
+23.09.2006;AJ Auxerre;Sedan;2;2;Ligue 1;Fair;ESE;8 mph;63 °F;88 %;29.28 in
+23.09.2006;Bordeaux;Troyes;2;1;Ligue 1;Mostly Cloudy;SSW;2 mph;61 °F;94 %;29.29 in
+23.09.2006;Le Mans;Sochaux;2;2;Ligue 1;Fair;SSE;3 mph;61 °F;94 %;29.55 in
+23.09.2006;Nice;Valenciennes;2;0;Ligue 1;Fair;NNW;8 mph;68 °F;68 %;29.94 in
+23.09.2006;PSG;Nancy;0;0;Ligue 1;Fair;SSE;3 mph;61 °F;94 %;29.55 in
+23.09.2006;Rennes;St Etienne;0;0;Ligue 1;Fair;SE;6 mph;59 °F;88 %;29.67 in
+23.09.2006;Toulouse;Lorient;0;0;Ligue 1;Mostly Cloudy;SSW;2 mph;61 °F;94 %;29.29 in
+24.09.2006;Lens;Monaco;1;0;Ligue 1;Mostly Cloudy;E;6 mph;66 °F;83 %;29.52 in
+24.09.2006;Nantes;Marsilya;2;1;Ligue 1;Mostly Cloudy;SSE;7 mph;57 °F;100 %;29.17 in
+30.09.2006;Sochaux;Lyon;0;1;Ligue 1;Fair;SSW;9 mph;63 °F;82 %;29.46 in
+30.09.2006;Lille;Nice;1;0;Ligue 1;Fair;SW;8 mph;63 °F;88 %;29.58 in
+30.09.2006;Lorient;Troyes;0;0;Ligue 1;Fair;S;8 mph;59 °F;94 %;29.64 in
+30.09.2006;Monaco;Le Mans;2;1;Ligue 1;Mostly Cloudy;NNW;3 mph;66 °F;94 %;29.97 in
+30.09.2006;Sedan;Rennes;1;0;Ligue 1;Fair;SSW;9 mph;63 °F;82 %;29.46 in
+30.09.2006;Valenciennes;Bordeaux;2;0;Ligue 1;Fair;SSW;9 mph;63 °F;82 %;29.46 in
+01.10.2006;AJ Auxerre;Nantes;1;0;Ligue 1;Fair;S;15 mph;59 °F;94 %;29.20 in
+01.10.2006;Marsilya;Toulouse;3;0;Ligue 1;Mostly Cloudy;SSE;16 mph;73 °F;83 %;29.97 in
+01.10.2006;Nancy;Lens;2;1;Ligue 1;Fair;S;15 mph;59 °F;94 %;29.20 in
+01.10.2006;St Etienne;PSG;1;0;Ligue 1;Mostly Cloudy;SSE;10 mph;61 °F;88 %;29.58 in
+14.10.2006;Lyon;St Etienne;2;1;Ligue 1;Mostly Cloudy;VAR;2 mph;59 °F;88 %;29.42 in
+14.10.2006;Bordeaux;Monaco;1;0;Ligue 1;Fair;NE;2 mph;59 °F;94 %;29.66 in
+14.10.2006;Nantes;Sochaux;0;2;Ligue 1;Fair;E;3 mph;52 °F;88 %;29.90 in
+14.10.2006;Nice;Lorient;3;0;Ligue 1;Fair;NNW;12 mph;64 °F;64 %;30.17 in
+14.10.2006;PSG;Sedan;4;2;Ligue 1;Mostly Cloudy;NE;7 mph;63 °F;88 %;29.98 in
+14.10.2006;Rennes;AJ Auxerre;3;1;Ligue 1;Cloudy;E;6 mph;61 °F;82 %;30.17 in
+14.10.2006;Toulouse;Valenciennes;3;0;Ligue 1;Fair;NE;2 mph;59 °F;94 %;29.66 in
+14.10.2006;Troyes;Lille;1;1;Ligue 1;Mostly Cloudy;NE;7 mph;63 °F;88 %;29.98 in
+15.10.2006;Le Mans;Nancy;0;0;Ligue 1;Mostly Cloudy;NE;10 mph;57 °F;82 %;29.90 in
+15.10.2006;Lens;Marsilya;1;1;Ligue 1;Fair;E;8 mph;52 °F;94 %;30.14 in
+21.10.2006;Lille;Lorient;1;0;Ligue 1;Mostly Cloudy;SSW;8 mph;57 °F;94 %;29.26 in
+21.10.2006;Monaco;Toulouse;1;3;Ligue 1;Mostly Cloudy;E;9 mph;61 °F;82 %;29.73 in
+21.10.2006;Nancy;Nantes;1;0;Ligue 1;Fair;S;10 mph;57 °F;94 %;28.94 in
+21.10.2006;Rennes;Nice;1;0;Ligue 1;Fair;SSE;6 mph;54 °F;94 %;29.40 in
+21.10.2006;St Etienne;Le Mans;2;0;Ligue 1;Mostly Cloudy;SSW;8 mph;57 °F;94 %;29.26 in
+21.10.2006;Sedan;Lens;2;2;Ligue 1;Mostly Cloudy;SSW;9 mph;59 °F;94 %;29.20 in
+21.10.2006;Sochaux;Bordeaux;2;1;Ligue 1;Mostly Cloudy;SSW;9 mph;59 °F;94 %;29.20 in
+21.10.2006;Valenciennes;Troyes;3;1;Ligue 1;Mostly Cloudy;SSW;9 mph;59 °F;94 %;29.20 in
+22.10.2006;AJ Auxerre;PSG;0;0;Ligue 1;Fair;S;14 mph;54 °F;100 %;29.08 in
+22.10.2006;Marsilya;Lyon;1;4;Ligue 1;Mostly Cloudy;NNE;3 mph;61 °F;94 %;29.83 in
+28.10.2006;Lens;AJ Auxerre;1;0;Ligue 1;Mostly Cloudy;S;3 mph;55 °F;88 %;30.11 in
+28.10.2006;Bordeaux;Sedan;3;1;Ligue 1;Fair;S;2 mph;63 °F;88 %;29.78 in
+28.10.2006;Le Mans;Lille;1;1;Ligue 1;Fair;WSW;3 mph;57 °F;94 %;29.98 in
+28.10.2006;Lorient;Valenciennes;1;0;Ligue 1;Fair;S;7 mph;57 °F;100 %;30.17 in
+28.10.2006;Nantes;Monaco;1;0;Ligue 1;Cloudy;S;10 mph;57 °F;100 %;29.93 in
+28.10.2006;PSG;Rennes;1;0;Ligue 1;Fair;WSW;3 mph;57 °F;94 %;29.98 in
+28.10.2006;Toulouse;Sochaux;1;2;Ligue 1;Fair;S;2 mph;63 °F;88 %;29.78 in
+28.10.2006;Troyes;St Etienne;3;1;Ligue 1;Fair;WSW;3 mph;57 °F;94 %;29.98 in
+29.10.2006;Nice;Marsilya;2;1;Ligue 1;Partly Cloudy;N;5 mph;63 °F;94 %;30.11 in
+29.10.2006;Lyon;Nancy;1;0;Ligue 1;Fair;SW;2 mph;59 °F;88 %;29.45 in
+04.11.2006;Rennes;Lyon;1;0;Ligue 1;Fair;E;5 mph;41 °F;87 %;30.37 in
+04.11.2006;AJ Auxerre;Le Mans;2;3;Ligue 1;Fair;CALM;0 mph;34 °F;93 %;29.86 in
+04.11.2006;Marsilya;Lorient;0;1;Ligue 1;Fair;VAR;2 mph;39 °F;75 %;30.21 in
+04.11.2006;Monaco;Nice;0;0;Ligue 1;Partly Cloudy;NNW;10 mph;52 °F;62 %;30.26 in
+04.11.2006;St Etienne;Toulouse;3;0;Ligue 1;Fair;WNW;6 mph;41 °F;93 %;30.32 in
+04.11.2006;Sedan;Nantes;1;1;Ligue 1;Fair;W;3 mph;32 °F;100 %;30.16 in
+04.11.2006;Sochaux;Troyes;1;0;Ligue 1;Fair;W;3 mph;32 °F;100 %;30.16 in
+04.11.2006;Valenciennes;Lille;0;3;Ligue 1;Fair;W;3 mph;32 °F;100 %;30.16 in
+05.11.2006;Nancy;Bordeaux;2;1;Ligue 1;Cloudy;SW;3 mph;37 °F;100 %;29.89 in
+05.11.2006;PSG;Lens;1;3;Ligue 1;Cloudy;S;2 mph;36 °F;100 %;30.19 in
+10.11.2006;Lyon;Valenciennes;2;1;Ligue 1;Mostly Cloudy;N;5 mph;50 °F;100 %;29.59 in
+11.11.2006;Bordeaux;AJ Auxerre;0;0;Ligue 1;Fair;S;3 mph;46 °F;93 %;29.84 in
+11.11.2006;Le Mans;PSG;1;1;Ligue 1;Fair;S;2 mph;39 °F;93 %;29.95 in
+11.11.2006;Lens;Rennes;0;0;Ligue 1;Fair;S;12 mph;43 °F;81 %;30.02 in
+11.11.2006;Lorient;Nancy;2;0;Ligue 1;Fair;S;3 mph;45 °F;93 %;30.17 in
+11.11.2006;Nantes;St Etienne;2;2;Ligue 1;Mostly Cloudy;WSW;9 mph;57 °F;100 %;29.87 in
+11.11.2006;Nice;Sochaux;0;0;Ligue 1;Fair;NNW;12 mph;54 °F;72 %;30.41 in
+11.11.2006;Toulouse;Sedan;3;1;Ligue 1;Fair;S;3 mph;46 °F;93 %;29.84 in
+12.11.2006;Troyes;Monaco;0;4;Ligue 1;Mostly Cloudy;W;12 mph;52 °F;76 %;29.84 in
+12.11.2006;Lille;Marsilya;1;0;Ligue 1;Mostly Cloudy;W;18 mph;52 °F;76 %;29.85 in
+18.11.2006;Sochaux;Lille;0;0;Ligue 1;Fair;S;14 mph;52 °F;76 %;29.43 in
+18.11.2006;Lens;Nantes;2;0;Ligue 1;Mostly Cloudy;SSW;20 mph;54 °F;77 %;29.47 in
+18.11.2006;Monaco;Lorient;2;2;Ligue 1;Mostly Cloudy;N;12 mph;57 °F;88 %;30.00 in
+18.11.2006;Nancy;Troyes;1;0;Ligue 1;Fair;S;16 mph;45 °F;100 %;29.20 in
+18.11.2006;PSG;Bordeaux;0;2;Ligue 1;Fair;S;14 mph;52 °F;76 %;29.43 in
+18.11.2006;Rennes;Le Mans;1;1;Ligue 1;Fair;W;6 mph;45 °F;93 %;29.64 in
+18.11.2006;St Etienne;Nice;2;1;Ligue 1;Mostly Cloudy;SSW;20 mph;54 °F;77 %;29.47 in
+18.11.2006;Sedan;Lyon;0;1;Ligue 1;Fair;S;14 mph;52 °F;76 %;29.43 in
+19.11.2006;AJ Auxerre;Toulouse;1;0;Ligue 1;Fair;SSE;5 mph;46 °F;100 %;29.46 in
+19.11.2006;Marsilya;Valenciennes;1;0;Ligue 1;Fair;VAR;2 mph;52 °F;94 %;30.15 in
+25.11.2006;Troyes;Marsilya;1;1;Ligue 1;Fair;SSE;14 mph;63 °F;63 %;28.96 in
+25.11.2006;Bordeaux;St Etienne;1;0;Ligue 1;Fair / Windy;SE;25 mph;63 °F;68 %;28.94 in
+25.11.2006;Lille;Monaco;1;1;Ligue 1;Mostly Cloudy;S;14 mph;57 °F;88 %;29.11 in
+25.11.2006;Lorient;Sochaux;1;3;Ligue 1;Mostly Cloudy / Windy;S;21 mph;59 °F;94 %;28.93 in
+25.11.2006;Nice;Sedan;2;2;Ligue 1;Mostly Cloudy;E;15 mph;61 °F;94 %;29.97 in
+25.11.2006;Toulouse;Rennes;1;0;Ligue 1;Fair / Windy;SE;25 mph;63 °F;68 %;28.94 in
+26.11.2006;Le Mans;Lens;1;1;Ligue 1;Mostly Cloudy;SSE;7 mph;52 °F;88 %;29.57 in
+26.11.2006;Nantes;PSG;1;1;Ligue 1;Partly Cloudy;S;12 mph;50 °F;87 %;29.32 in
+26.11.2006;Valenciennes;Nancy;1;0;Ligue 1;Mostly Cloudy;SSE;7 mph;52 °F;88 %;29.57 in
+26.11.2006;Lyon;AJ Auxerre;1;0;Ligue 1;Fair;S;9 mph;63 °F;55 %;29.13 in
+02.12.2006;Le Mans;Lyon;0;1;Ligue 1;Fair;S;7 mph;48 °F;82 %;29.78 in
+02.12.2006;AJ Auxerre;Nice;0;0;Ligue 1;Fair;SSE;13 mph;43 °F;93 %;29.54 in
+02.12.2006;Lens;Bordeaux;3;0;Ligue 1;Mostly Cloudy;SSW;14 mph;50 °F;76 %;29.88 in
+02.12.2006;Monaco;Valenciennes;3;0;Ligue 1;Fair;NNW;8 mph;50 °F;87 %;30.38 in
+02.12.2006;Rennes;Nantes;2;0;Ligue 1;Cloudy;S;10 mph;52 °F;100 %;29.90 in
+02.12.2006;St Etienne;Lorient;2;0;Ligue 1;Mostly Cloudy;SSW;14 mph;50 °F;76 %;29.88 in
+02.12.2006;Sedan;Troyes;1;2;Ligue 1;Fair;S;7 mph;48 °F;82 %;29.78 in
+03.12.2006;Sochaux;Marsilya;1;0;Ligue 1;Mostly Cloudy;SSW;8 mph;46 °F;100 %;29.63 in
+03.12.2006;Nancy;Lille;1;3;Ligue 1;Partly Cloudy;SSW;7 mph;48 °F;93 %;29.37 in
+09.12.2006;Toulouse;Lens;0;1;Ligue 1;Mostly Cloudy;W;18 mph;45 °F;81 %;29.20 in
+09.12.2006;Bordeaux;Rennes;1;2;Ligue 1;Mostly Cloudy;W;18 mph;45 °F;81 %;29.20 in
+09.12.2006;Lorient;Sedan;2;0;Ligue 1;Mostly Cloudy;WNW;7 mph;41 °F;87 %;29.52 in
+09.12.2006;Marsilya;Monaco;2;1;Ligue 1;Fair;WNW;16 mph;48 °F;87 %;29.65 in
+09.12.2006;Nantes;Le Mans;0;0;Ligue 1;Fair;WNW;9 mph;46 °F;76 %;29.32 in
+09.12.2006;Nice;Nancy;0;0;Ligue 1;Fair;WNW;7 mph;52 °F;88 %;29.52 in
+09.12.2006;Troyes;AJ Auxerre;3;3;Ligue 1;Mostly Cloudy;SSW;6 mph;45 °F;87 %;29.22 in
+09.12.2006;Valenciennes;Sochaux;0;0;Ligue 1;Mostly Cloudy;SSW;6 mph;45 °F;87 %;29.22 in
+10.12.2006;Lille;St Etienne;2;2;Ligue 1;Fair;W;7 mph;37 °F;93 %;29.96 in
+10.12.2006;Lyon;PSG;3;1;Ligue 1;Mostly Cloudy;VAR;2 mph;41 °F;87 %;29.36 in
+16.12.2006;Nancy;Marsilya;2;0;Ligue 1;Fair;S;15 mph;41 °F;87 %;29.60 in
+16.12.2006;Le Mans;Toulouse;2;0;Ligue 1;Fair;SSW;7 mph;43 °F;81 %;29.87 in
+16.12.2006;Monaco;Sochaux;3;0;Ligue 1;Fair;NNW;12 mph;52 °F;71 %;30.38 in
+16.12.2006;Nantes;Bordeaux;0;0;Ligue 1;Cloudy;SW;13 mph;54 °F;94 %;29.73 in
+16.12.2006;Rennes;Troyes;1;1;Ligue 1;Cloudy;S;12 mph;48 °F;87 %;30.05 in
+16.12.2006;St Etienne;Valenciennes;3;0;Ligue 1;Fair;SSW;12 mph;41 °F;81 %;29.94 in
+16.12.2006;Sedan;Lille;2;0;Ligue 1;Fair;SSW;7 mph;43 °F;81 %;29.87 in
+17.12.2006;PSG;Nice;0;0;Ligue 1;Fair;W;3 mph;34 °F;93 %;30.04 in
+17.12.2006;AJ Auxerre;Lorient;2;1;Ligue 1;Partly Cloudy;NW;5 mph;41 °F;100 %;29.72 in
+17.12.2006;Lens;Lyon;0;4;Ligue 1;Fair;CALM;0 mph;36 °F;100 %;30.11 in
+22.12.2006;Marsilya;St Etienne;2;1;Ligue 1;Fair;S;3 mph;34 °F;87 %;30.42 in
+23.12.2006;Sochaux;Nancy;2;1;Ligue 1;Fair;NNE;8 mph;36 °F;87 %;30.30 in
+23.12.2006;Troyes;PSG;1;1;Ligue 1;Fair;NNE;8 mph;36 °F;87 %;30.30 in
+23.12.2006;Lyon;Monaco;0;0;Ligue 1;Cloudy;SE;3 mph;30 °F;93 %;29.70 in
+23.12.2006;Bordeaux;Le Mans;1;0;Ligue 1;Fair;SW;3 mph;28 °F;93 %;29.98 in
+23.12.2006;Lille;AJ Auxerre;1;1;Ligue 1;Fair;NE;10 mph;37 °F;93 %;30.55 in
+23.12.2006;Lorient;Rennes;0;0;Ligue 1;Fair;N;7 mph;34 °F;93 %;30.52 in
+23.12.2006;Nice;Lens;1;2;Ligue 1;Fair;NNW;16 mph;43 °F;49 %;30.38 in
+23.12.2006;Toulouse;Nantes;0;4;Ligue 1;Fair;SW;3 mph;28 °F;93 %;29.98 in
+23.12.2006;Valenciennes;Sedan;2;1;Ligue 1;Fair;NNE;8 mph;36 °F;87 %;30.30 in
+13.01.2007;PSG;Valenciennes;1;2;Ligue 1;Mostly Cloudy;SW;12 mph;54 °F;88 %;30.01 in
+13.01.2007;Lens;Lille;1;1;Ligue 1;Cloudy / Windy;W;25 mph;54 °F;82 %;29.99 in
+13.01.2007;AJ Auxerre;Sochaux;1;0;Ligue 1;Partly Cloudy;SW;15 mph;52 °F;94 %;29.72 in
+13.01.2007;Bordeaux;Lorient;1;1;Ligue 1;Mostly Cloudy;CALM;0 mph;54 °F;88 %;29.95 in
+13.01.2007;Le Mans;Troyes;2;0;Ligue 1;Mostly Cloudy;SW;12 mph;54 °F;88 %;30.01 in
+13.01.2007;Nantes;Nice;1;0;Ligue 1;Mostly Cloudy;WSW;9 mph;52 °F;94 %;29.99 in
+13.01.2007;Sedan;Nancy;2;2;Ligue 1;Mostly Cloudy;SW;12 mph;54 °F;88 %;30.01 in
+13.01.2007;Toulouse;Lyon;2;0;Ligue 1;Mostly Cloudy;CALM;0 mph;54 °F;88 %;29.95 in
+14.01.2007;St Etienne;Monaco;0;1;Ligue 1;Mostly Cloudy;WSW;20 mph;52 °F;88 %;29.88 in
+14.01.2007;Rennes;Marsilya;0;2;Ligue 1;Mostly Cloudy;SW;9 mph;52 °F;88 %;30.17 in
+17.01.2007;PSG;Toulouse;0;0;Ligue 1;Cloudy;SSW;10 mph;48 °F;93 %;29.75 in
+24.01.2007;Marsilya;AJ Auxerre;3;1;Ligue 1;Mostly Cloudy / Windy;W;25 mph;37 °F;70 %;29.50 in
+24.01.2007;Lille;PSG;1;0;Ligue 1;Fair;N;8 mph;32 °F;87 %;29.64 in
+24.01.2007;Lorient;Lens;1;0;Ligue 1;Fair;NW;7 mph;30 °F;86 %;29.87 in
+24.01.2007;Monaco;Rennes;0;2;Ligue 1;Mostly Cloudy / Windy;WSW;24 mph;41 °F;76 %;29.38 in
+24.01.2007;Nice;Toulouse;0;1;Ligue 1;Mostly Cloudy / Windy;WSW;24 mph;41 °F;76 %;29.38 in
+24.01.2007;Sochaux;Sedan;1;1;Ligue 1;Fair;N;16 mph;32 °F;75 %;29.46 in
+24.01.2007;Troyes;Nantes;1;0;Ligue 1;Fair;N;16 mph;32 °F;75 %;29.46 in
+24.01.2007;Valenciennes;Le Mans;1;1;Ligue 1;Mostly Cloudy;N;10 mph;55 °F;86%;29.93 in
+24.01.2007;Lyon;Bordeaux;1;2;Ligue 1;Mostly Cloudy;NW;13 mph;28 °F;86 %;28.73 in
+25.01.2007;Nancy;St Etienne;0;2;Ligue 1;Fair;NNE;8 mph;25 °F;93 %;29.26 in
+27.01.2007;Le Mans;Marsilya;2;0;Ligue 1;Mostly Cloudy;W;8 mph;36 °F;81 %;29.98 in
+27.01.2007;Bordeaux;Lille;0;1;Ligue 1;Fair;WNW;6 mph;23 °F;86 %;29.87 in
+27.01.2007;Lyon;Nice;1;1;Ligue 1;Fair;NW;8 mph;23 °F;80 %;29.50 in
+27.01.2007;Nantes;Lorient;0;2;Ligue 1;Mostly Cloudy;WNW;2 mph;41 °F;93 %;30.08 in
+27.01.2007;PSG;Sochaux;0;0;Ligue 1;Mostly Cloudy;W;8 mph;36 °F;81 %;29.98 in
+27.01.2007;Rennes;Valenciennes;1;0;Ligue 1;Mostly Cloudy;W;2 mph;37 °F;93 %;30.25 in
+27.01.2007;Sedan;Monaco;0;1;Ligue 1;Mostly Cloudy;W;8 mph;36 °F;81 %;29.98 in
+27.01.2007;Toulouse;Troyes;1;1;Ligue 1;Fair;WNW;6 mph;23 °F;86 %;29.87 in
+28.01.2007;AJ Auxerre;Nancy;2;0;Ligue 1;Partly Cloudy;SW;6 mph;34 °F;100 %;29.92 in
+28.01.2007;Lens;St Etienne;3;3;Ligue 1;Mostly Cloudy;WSW;6 mph;41 °F;87 %;30.32 in
+03.02.2007;Lille;Nantes;0;0;Ligue 1;Partly Cloudy;NNE;10 mph;43 °F;87 %;30.43 in
+03.02.2007;Lorient;Le Mans;2;1;Ligue 1;Cloudy;NE;13 mph;48 °F;87 %;30.37 in
+03.02.2007;Monaco;AJ Auxerre;2;1;Ligue 1;Mostly Cloudy;NNW;8 mph;50 °F;82 %;30.29 in
+03.02.2007;Nancy;Toulouse;2;1;Ligue 1;Cloudy;N;9 mph;46 °F;93 %;29.86 in
+03.02.2007;Nice;Bordeaux;2;1;Ligue 1;Mostly Cloudy;NNW;8 mph;50 °F;82 %;30.29 in
+03.02.2007;St Etienne;Sedan;1;2;Ligue 1;Partly Cloudy;NNE;10 mph;43 °F;87 %;30.43 in
+03.02.2007;Sochaux;Rennes;0;0;Ligue 1;Mostly Cloudy;NNE;8 mph;48 °F;87 %;30.19 in
+03.02.2007;Valenciennes;Lens;1;3;Ligue 1;Mostly Cloudy;NNE;8 mph;48 °F;87 %;30.19 in
+04.02.2007;Troyes;Lyon;1;0;Ligue 1;Fair;NNE;8 mph;39 °F;87 %;30.16 in
+04.02.2007;Marsilya;PSG;1;1;Ligue 1;Fair;S;3 mph;37 °F;87 %;30.12 in
+10.02.2007;PSG;Monaco;4;2;Ligue 1;Mostly Cloudy;SSW;8 mph;46 °F;93 %;29.22 in
+10.02.2007;AJ Auxerre;St Etienne;1;1;Ligue 1;Mostly Cloudy;S;13 mph;43 °F;93 %;28.97 in
+10.02.2007;Le Mans;Sedan;3;2;Ligue 1;Mostly Cloudy;SSW;8 mph;46 °F;93 %;29.22 in
+10.02.2007;Lyon;Lorient;1;0;Ligue 1;Fair;S;9 mph;45 °F;71 %;28.96 in
+10.02.2007;Nantes;Valenciennes;2;5;Ligue 1;Mostly Cloudy;S;18 mph;46 °F;93 %;28.94 in
+10.02.2007;Nice;Troyes;3;0;Ligue 1;Fair;N;6 mph;48 °F;76 %;29.76 in
+10.02.2007;Rennes;Nancy;1;1;Ligue 1;Mostly Cloudy;SSE;12 mph;45 °F;87 %;29.40 in
+10.02.2007;Toulouse;Lille;1;0;Ligue 1;Fair;S;5 mph;41 °F;93 %;29.32 in
+11.02.2007;Lens;Sochaux;3;1;Ligue 1;Fair;SSW;16 mph;46 °F;87 %;29.38 in
+11.02.2007;Bordeaux;Marsilya;1;0;Ligue 1;Fair;S;2 mph;46 °F;93 %;29.46 in
+16.02.2007;Lille;Lyon;1;2;Ligue 1;Fair;SSE;13 mph;43 °F;81 %;29.88 in
+17.02.2007;St Etienne;Rennes;1;3;Ligue 1;Fair;SSE;8 mph;48 °F;57 %;29.64 in
+17.02.2007;Lorient;Toulouse;0;1;Ligue 1;Fair;E;3 mph;48 °F;71 %;29.49 in
+17.02.2007;Nancy;PSG;0;3;Ligue 1;Fair;E;15 mph;43 °F;76 %;29.20 in
+17.02.2007;Sedan;AJ Auxerre;2;2;Ligue 1;Fair;ENE;8 mph;48 °F;57 %;29.43 in
+17.02.2007;Sochaux;Le Mans;2;0;Ligue 1;Fair;ENE;8 mph;48 °F;57 %;29.43 in
+17.02.2007;Troyes;Bordeaux;1;0;Ligue 1;Fair;ENE;8 mph;48 °F;57 %;29.43 in
+17.02.2007;Valenciennes;Nice;0;1;Ligue 1;Fair;ENE;8 mph;48 °F;57 %;29.43 in
+18.02.2007;Monaco;Lens;0;0;Ligue 1;Fair / Windy;E;38 mph;57 °F;51 %;30.00 in
+18.02.2007;Marsilya;Nantes;0;0;Ligue 1;Cloudy / Windy;ESE;29 mph;57 °F;48 %;29.86 in
+24.02.2007;Toulouse;Marsilya;3;0;Ligue 1;Mostly Cloudy;SW;3 mph;50 °F;87 %;29.37 in
+24.02.2007;Le Mans;Monaco;0;2;Ligue 1;Partly Cloudy;S;14 mph;48 °F;87 %;29.25 in
+24.02.2007;Lyon;Sochaux;3;3;Ligue 1;Fair;SSW;14 mph;52 °F;71 %;29.01 in
+24.02.2007;Nantes;AJ Auxerre;1;1;Ligue 1;Mostly Cloudy;W;15 mph;52 °F;82 %;29.03 in
+24.02.2007;Nice;Lille;2;1;Ligue 1;Partly Cloudy;NNW;8 mph;50 °F;87 %;29.91 in
+24.02.2007;Rennes;Sedan;0;2;Ligue 1;Partly Cloudy;WSW;10 mph;48 °F;93 %;29.31 in
+24.02.2007;Troyes;Lorient;3;0;Ligue 1;Partly Cloudy;S;14 mph;48 °F;87 %;29.25 in
+25.02.2007;Lens;Nancy;2;2;Ligue 1;Mostly Cloudy;SSW;13 mph;46 °F;93 %;29.29 in
+25.02.2007;Bordeaux;Valenciennes;2;1;Ligue 1;Mostly Cloudy;SSW;5 mph;52 °F;94 %;29.43 in
+25.02.2007;PSG;St Etienne;0;2;Ligue 1;Mostly Cloudy;S;13 mph;48 °F;93 %;29.20 in
+03.03.2007;St Etienne;Lyon;1;3;Ligue 1;Mostly Cloudy;SE;13 mph;45 °F;93 %;29.23 in
+03.03.2007;AJ Auxerre;Rennes;1;0;Ligue 1;Cloudy / Windy;SSW;23 mph;52 °F;94 %;28.94 in
+03.03.2007;Lille;Troyes;4;0;Ligue 1;Mostly Cloudy;SE;13 mph;45 °F;93 %;29.23 in
+03.03.2007;Lorient;Nice;0;0;Ligue 1;Mostly Cloudy;WSW;15 mph;54 °F;82 %;29.49 in
+03.03.2007;Monaco;Bordeaux;0;0;Ligue 1;Fair;NNW;5 mph;54 °F;77 %;29.82 in
+03.03.2007;Nancy;Le Mans;1;1;Ligue 1;Cloudy / Windy;SSW;23 mph;52 °F;94 %;28.94 in
+03.03.2007;Sedan;PSG;2;0;Ligue 1;Mostly Cloudy;SSW;17 mph;54 °F;94 %;29.20 in
+03.03.2007;Valenciennes;Toulouse;0;0;Ligue 1;Mostly Cloudy;SSW;17 mph;54 °F;94 %;29.20 in
+04.03.2007;Sochaux;Nantes;1;2;Ligue 1;Fair;VAR;2 mph;45 °F;87 %;29.75 in
+04.03.2007;Marsilya;Lens;0;1;Ligue 1;Fair;NW;3 mph;55 °F;82 %;30.03 in
+10.03.2007;Toulouse;Monaco;1;1;Ligue 1;Partly Cloudy;WNW;14 mph;48 °F;87 %;30.04 in
+10.03.2007;Bordeaux;Sochaux;2;0;Ligue 1;Partly Cloudy;WNW;14 mph;48 °F;87 %;30.04 in
+10.03.2007;Le Mans;St Etienne;2;1;Ligue 1;Fair;WNW;5 mph;45 °F;81 %;30.22 in
+10.03.2007;Lorient;Lille;0;0;Ligue 1;Fair;W;2 mph;41 °F;93 %;30.55 in
+10.03.2007;Nantes;Nancy;2;1;Ligue 1;Partly Cloudy;SSW;3 mph;43 °F;87 %;30.31 in
+10.03.2007;Nice;Rennes;1;1;Ligue 1;Fair;NNW;6 mph;54 °F;67 %;30.03 in
+10.03.2007;Troyes;Valenciennes;1;3;Ligue 1;Fair;WNW;5 mph;45 °F;81 %;30.22 in
+11.03.2007;Lens;Sedan;1;1;Ligue 1;Mostly Cloudy;SSW;6 mph;43 °F;93 %;30.40 in
+11.03.2007;PSG;AJ Auxerre;0;1;Ligue 1;Fair;CALM;0 mph;41 °F;87 %;30.28 in
+11.03.2007;Lyon;Marsilya;1;1;Ligue 1;Fair;NNW;17 mph;43 °F;66 %;29.67 in
+17.03.2007;Sochaux;Toulouse;4;2;Ligue 1;Mostly Cloudy;WSW;3 mph;45 °F;87 %;30.01 in
+17.03.2007;Lille;Le Mans;0;2;Ligue 1;Mostly Cloudy;W;13 mph;48 °F;82 %;30.05 in
+17.03.2007;Marsilya;Nice;3;0;Ligue 1;Fair;ESE;8 mph;50 °F;87 %;30.18 in
+17.03.2007;Monaco;Nantes;2;1;Ligue 1;Fair;NW;8 mph;50 °F;76 %;30.14 in
+17.03.2007;Nancy;Lyon;0;3;Ligue 1;Cloudy;WSW;8 mph;45 °F;87 %;29.66 in
+17.03.2007;St Etienne;Troyes;3;1;Ligue 1;Mostly Cloudy;W;13 mph;48 °F;82 %;30.05 in
+17.03.2007;Sedan;Bordeaux;1;1;Ligue 1;Mostly Cloudy;WSW;3 mph;45 °F;87 %;30.01 in
+17.03.2007;Valenciennes;Lorient;0;0;Ligue 1;Mostly Cloudy;WSW;3 mph;45 °F;87 %;30.01 in
+18.03.2007;AJ Auxerre;Lens;1;0;Ligue 1;Mostly Cloudy;SW;18 mph;48 °F;93 %;29.54 in
+18.03.2007;Rennes;PSG;1;0;Ligue 1;Cloudy;W;12 mph;50 °F;82 %;30.14 in
+31.03.2007;Lorient;Marsilya;2;1;Ligue 1;Fair;N;3 mph;39 °F;93 %;29.75 in
+01.04.2007;Nantes;Sedan;0;1;Ligue 1;Mostly Cloudy;ENE;9 mph;46 °F;87 %;29.75 in
+01.04.2007;Le Mans;AJ Auxerre;2;2;Ligue 1;Mostly Cloudy;N;3 mph;43 °F;93 %;29.72 in
+01.04.2007;Lille;Valenciennes;0;2;Ligue 1;Fair;CALM;0 mph;52 °F;82 %;29.94 in
+01.04.2007;Nice;Monaco;1;1;Ligue 1;Mostly Cloudy;N;10 mph;48 °F;87 %;30.03 in
+01.04.2007;Toulouse;St Etienne;1;0;Ligue 1;Fair;ESE;10 mph;45 °F;76 %;29.40 in
+01.04.2007;Troyes;Sochaux;0;1;Ligue 1;Mostly Cloudy;N;3 mph;43 °F;93 %;29.72 in
+01.04.2007;Lens;PSG;1;2;Ligue 1;Fair;CALM;0 mph;52 °F;82 %;29.94 in
+07.04.2007;Valenciennes;Lyon;0;0;Ligue 1;Fair;N;10 mph;54 °F;67 %;29.84 in
+07.04.2007;AJ Auxerre;Bordeaux;0;0;Ligue 1;Fair;N;8 mph;50 °F;82 %;29.52 in
+07.04.2007;Monaco;Troyes;0;0;Ligue 1;Fair;WNW;6 mph;52 °F;71 %;30.08 in
+07.04.2007;Nancy;Lorient;0;1;Ligue 1;Fair;N;8 mph;50 °F;82 %;29.52 in
+07.04.2007;PSG;Le Mans;2;1;Ligue 1;Fair;N;10 mph;54 °F;67 %;29.84 in
+07.04.2007;Rennes;Lens;1;0;Ligue 1;Fair;NW;3 mph;50 °F;82 %;30.08 in
+07.04.2007;St Etienne;Nantes;2;1;Ligue 1;Mostly Cloudy;N;8 mph;46 °F;93 %;30.05 in
+07.04.2007;Sochaux;Nice;1;1;Ligue 1;Fair;N;10 mph;54 °F;67 %;29.84 in
+08.04.2007;Sedan;Toulouse;0;2;Ligue 1;Fair;NNE;12 mph;46 °F;66 %;29.93 in
+08.04.2007;Marsilya;Lille;4;1;Ligue 1;Fair;ESE;7 mph;54 °F;88 %;30.09 in
+14.04.2007;Bordeaux;PSG;0;0;Ligue 1;Mostly Cloudy;SE;10 mph;55 °F;88 %;29.52 in
+14.04.2007;Le Mans;Rennes;0;0;Ligue 1;Fair;WNW;6 mph;59 °F;77 %;29.69 in
+14.04.2007;Lille;Sochaux;2;0;Ligue 1;Fair;NW;6 mph;57 °F;88 %;29.88 in
+14.04.2007;Lorient;Monaco;0;0;Ligue 1;Fair;E;5 mph;57 °F;94 %;29.96 in
+14.04.2007;Nantes;Lens;0;0;Ligue 1;Cloudy;CALM;0 mph;54 °F;94 %;29.70 in
+14.04.2007;Toulouse;AJ Auxerre;2;0;Ligue 1;Mostly Cloudy;SE;10 mph;55 °F;88 %;29.52 in
+14.04.2007;Troyes;Nancy;0;0;Ligue 1;Fair;WNW;6 mph;59 °F;77 %;29.69 in
+14.04.2007;Valenciennes;Marsilya;0;0;Ligue 1;Fair;WNW;6 mph;59 °F;77 %;29.69 in
+15.04.2007;Nice;St Etienne;2;1;Ligue 1;Fair;NW;7 mph;59 °F;72 %;30.08 in
+15.04.2007;Lyon;Sedan;1;0;Ligue 1;Fair;NNW;3 mph;61 °F;82 %;29.27 in
+18.04.2007;Bordeaux;Nancy;3;0;Ligue 1;Mostly Cloudy;W;5 mph;59 °F;88 %;29.61 in
+18.04.2007;Lyon;Rennes;0;0;Ligue 1;Fair;NNW;8 mph;63 °F;72 %;29.22 in
+21.04.2007;PSG;Nantes;4;0;Ligue 1;Fair;NE;13 mph;55 °F;58 %;29.78 in
+21.04.2007;Lens;Le Mans;2;0;Ligue 1;Fair;NE;8 mph;48 °F;71 %;29.99 in
+21.04.2007;Marsilya;Troyes;2;1;Ligue 1;Fair;SE;5 mph;59 °F;77 %;29.97 in
+21.04.2007;Monaco;Lille;3;1;Ligue 1;Fair;NNW;7 mph;63 °F;68 %;29.97 in
+21.04.2007;Nancy;Valenciennes;1;0;Ligue 1;Fair;N;8 mph;46 °F;81 %;29.49 in
+21.04.2007;Rennes;Toulouse;3;2;Ligue 1;Fair;W;2 mph;52 °F;82 %;29.93 in
+21.04.2007;Sedan;Nice;1;1;Ligue 1;Fair;NE;13 mph;55 °F;58 %;29.78 in
+21.04.2007;Sochaux;Lorient;1;1;Ligue 1;Fair;NE;13 mph;55 °F;58 %;29.78 in
+22.04.2007;AJ Auxerre;Lyon;0;0;Ligue 1;Fair;NNE;2 mph;52 °F;62 %;29.49 in
+22.04.2007;St Etienne;Bordeaux;0;2;Ligue 1;Fair;NE;6 mph;50 °F;62 %;29.96 in
+28.04.2007;Toulouse;PSG;1;3;Ligue 1;Fair;E;10 mph;61 °F;63 %;29.52 in
+28.04.2007;Lille;Nancy;0;1;Ligue 1;Fair;W;7 mph;63 °F;72 %;29.94 in
+28.04.2007;Lorient;St Etienne;0;0;Ligue 1;Fair;N;3 mph;55 °F;100 %;29.99 in
+28.04.2007;Lyon;Le Mans;2;1;Ligue 1;Fair;S;7 mph;63 °F;77 %;29.30 in
+28.04.2007;Nantes;Rennes;0;2;Ligue 1;Fair;ENE;6 mph;57 °F;94 %;29.75 in
+28.04.2007;Nice;AJ Auxerre;0;0;Ligue 1;Fair;NNW;8 mph;61 °F;59 %;30.11 in
+28.04.2007;Troyes;Sedan;3;2;Ligue 1;Fair;SW;7 mph;63 °F;82 %;29.75 in
+28.04.2007;Valenciennes;Monaco;2;2;Ligue 1;Fair;SW;7 mph;63 °F;82 %;29.75 in
+29.04.2007;Bordeaux;Lens;1;0;Ligue 1;Fair;NE;5 mph;63 °F;52 %;29.52 in
+29.04.2007;Marsilya;Sochaux;4;2;Ligue 1;Fair;VAR;2 mph;61 °F;68 %;30.06 in
+05.05.2007;PSG;Lyon;1;1;Ligue 1;Fair;NW;10 mph;55 °F;88 %;29.52 in
+05.05.2007;AJ Auxerre;Troyes;1;0;Ligue 1;Fair;NNW;13 mph;55 °F;77 %;29.14 in
+05.05.2007;Le Mans;Nantes;1;1;Ligue 1;Fair;NW;10 mph;55 °F;88 %;29.52 in
+05.05.2007;Lens;Toulouse;2;0;Ligue 1;Fair;N;16 mph;52 °F;88 %;29.73 in
+05.05.2007;Nancy;Nice;3;0;Ligue 1;Fair;NNW;13 mph;55 °F;77 %;29.14 in
+05.05.2007;Rennes;Bordeaux;0;0;Ligue 1;Mostly Cloudy;NNW;10 mph;50 °F;87 %;29.84 in
+05.05.2007;Sedan;Lorient;3;1;Ligue 1;Fair;NW;10 mph;55 °F;88 %;29.52 in
+05.05.2007;Sochaux;Valenciennes;1;0;Ligue 1;Fair;NW;10 mph;55 °F;88 %;29.52 in
+06.05.2007;St Etienne;Lille;2;1;Ligue 1;Partly Cloudy;N;9 mph;48 °F;87 %;29.91 in
+06.05.2007;Monaco;Marsilya;1;2;Ligue 1;Partly Cloudy;NNW;3 mph;57 °F;88 %;29.76 in
+09.05.2007;Sochaux;Monaco;2;1;Ligue 1;Mostly Cloudy;SW;8 mph;59 °F;94 %;29.72 in
+09.05.2007;Bordeaux;Nantes;0;1;Ligue 1;Fair;SSW;3 mph;54 °F;94 %;29.81 in
+09.05.2007;Lille;Sedan;2;1;Ligue 1;Mostly Cloudy;W;16 mph;54 °F;88 %;29.79 in
+09.05.2007;Lorient;AJ Auxerre;2;1;Ligue 1;Cloudy;SW;12 mph;59 °F;88 %;29.99 in
+09.05.2007;Marsilya;Nancy;2;1;Ligue 1;Fair;WNW;17 mph;66 °F;73 %;30.12 in
+09.05.2007;Nice;PSG;1;0;Ligue 1;Fair;E;10 mph;66 °F;83 %;29.97 in
+09.05.2007;Troyes;Rennes;2;2;Ligue 1;Mostly Cloudy;SW;8 mph;59 °F;94 %;29.72 in
+09.05.2007;Valenciennes;St Etienne;1;0;Ligue 1;Mostly Cloudy;SW;8 mph;59 °F;94 %;29.72 in
+09.05.2007;Lyon;Lens;3;0;Ligue 1;Mostly Cloudy;ESE;3 mph;61 °F;94 %;29.39 in
+10.05.2007;Toulouse;Le Mans;0;1;Ligue 1;Fair;SSW;3 mph;59 °F;77 %;29.69 in
+19.05.2007;AJ Auxerre;Lille;2;1;Ligue 1;Fair;S;9 mph;63 °F;88 %;29.31 in
+19.05.2007;Le Mans;Bordeaux;1;1;Ligue 1;Partly Cloudy;S;6 mph;64 °F;88 %;29.57 in
+19.05.2007;Lens;Nice;0;0;Ligue 1;Mostly Cloudy;W;10 mph;59 °F;82 %;29.70 in
+19.05.2007;Monaco;Lyon;1;0;Ligue 1;Fair;N;7 mph;66 °F;52 %;29.91 in
+19.05.2007;Nancy;Sochaux;5;2;Ligue 1;Fair;S;9 mph;63 °F;88 %;29.31 in
+19.05.2007;Nantes;Toulouse;0;0;Ligue 1;Fair;WSW;3 mph;48 °F;87 %;29.64 in
+19.05.2007;PSG;Troyes;2;1;Ligue 1;Partly Cloudy;S;6 mph;64 °F;88 %;29.57 in
+19.05.2007;Rennes;Lorient;4;1;Ligue 1;Fair;W;7 mph;59 °F;88 %;29.84 in
+19.05.2007;St Etienne;Marsilya;1;2;Ligue 1;Mostly Cloudy;W;10 mph;59 °F;82 %;29.70 in
+19.05.2007;Sedan;Valenciennes;1;1;Ligue 1;Partly Cloudy;S;6 mph;64 °F;88 %;29.57 in
+26.05.2007;Lille;Rennes;1;1;Ligue 1;Fair;N;10 mph;66 °F;73 %;29.47 in
+26.05.2007;Lorient;PSG;0;1;Ligue 1;Cloudy;NNW;9 mph;57 °F;88 %;29.64 in
+26.05.2007;Lyon;Nantes;3;1;Ligue 1;Fair;SSE;6 mph;75 °F;47 %;28.87 in
+26.05.2007;Marsilya;Sedan;1;0;Ligue 1;Fair;ESE;10 mph;77 °F;39 %;29.62 in
+26.05.2007;Monaco;Nancy;2;0;Ligue 1;Fair;ENE;6 mph;77 °F;47 %;29.70 in
+26.05.2007;Nice;Le Mans;3;3;Ligue 1;Fair;ENE;6 mph;77 °F;47 %;29.70 in
+26.05.2007;Sochaux;St Etienne;1;0;Ligue 1;Fair;WSW;6 mph;59 °F;94 %;29.37 in
+26.05.2007;Toulouse;Bordeaux;3;1;Ligue 1;Mostly Cloudy;W;14 mph;64 °F;88 %;29.17 in
+26.05.2007;Troyes;Lens;3;0;Ligue 1;Fair;WSW;6 mph;59 °F;94 %;29.37 in
+26.05.2007;Valenciennes;AJ Auxerre;1;3;Ligue 1;Fair;WSW;6 mph;59 °F;94 %;29.37 in

@@ -1,0 +1,136 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+13.12.2024;Toulouse;St Etienne;2;1;Ligue 1;Fair;ESE;13 mph;48 °F;76 %;29.64 in
+14.12.2024;Marsilya;Lille;1;1;Ligue 1;Mostly Cloudy;E;9 mph;52 °F;71 %;30.18 in
+14.12.2024;AJ Auxerre;Lens;2;2;Ligue 1;Fog;N;5 mph;28 °F;100 %;29.57 in
+14.12.2024;Reims;Monaco;0;0;Ligue 1;Fog;N;5 mph;28 °F;100 %;29.57 in
+15.12.2024;Montpellier;Nice;2;2;Ligue 1;Mostly Cloudy;VAR;3 mph;43 °F;81 %;29.93 in
+15.12.2024;Rennes;Angers;2;0;Ligue 1;Cloudy;W;5 mph;43 °F;87 %;30.31 in
+15.12.2024;Le Havre;Strasbourg;0;3;Ligue 1;Fair;WNW;14 mph;45 °F;87 %;30.24 in
+15.12.2024;Brest;Nantes;4;1;Ligue 1;Cloudy;W;5 mph;43 °F;93 %;30.10 in
+15.12.2024;PSG;Lyon;3;1;Ligue 1;Mist;W;6 mph;37 °F;100 %;30.01 in
+06.12.2024;Lille;Brest;3;1;Ligue 1;Light Rain / Windy;WSW;24 mph;55 °F;88 %;29.41 in
+06.12.2024;AJ Auxerre;PSG;0;0;Ligue 1;Cloudy / Windy;SW;25 mph;50 °F;100 %;29.14 in
+07.12.2024;Monaco;Toulouse;2;0;Ligue 1;Fair;NNW;10 mph;50 °F;76 %;30.00 in
+07.12.2024;Nice;Le Havre;2;1;Ligue 1;Fair;NNW;10 mph;50 °F;76 %;30.00 in
+07.12.2024;Angers;Lyon;0;3;Ligue 1;Fair;NNW;10 mph;50 °F;76 %;30.00 in
+08.12.2024;Lens;Montpellier;2;0;Ligue 1;Cloudy;W;20 mph;45 °F;93 %;29.23 in
+08.12.2024;Strasbourg;Reims;0;0;Ligue 1;Mostly Cloudy;SSW;12 mph;43 °F;81 %;29.05 in
+08.12.2024;Nantes;Rennes;1;0;Ligue 1;Mostly Cloudy / Windy;NNW;26 mph;48 °F;57 %;29.78 in
+08.12.2024;St Etienne;Marsilya;0;2;Ligue 1;Cloudy;W;20 mph;45 °F;93 %;29.23 in
+29.11.2024;Reims;Lens;0;2;Ligue 1;Mist;E;8 mph;32 °F;100 %;29.80 in
+30.11.2024;Rennes;St Etienne;5;0;Ligue 1;Fog;ESE;6 mph;46 °F;100 %;30.16 in
+30.11.2024;Brest;Strasbourg;3;1;Ligue 1;Mostly Cloudy;S;9 mph;57 °F;94 %;29.84 in
+30.11.2024;PSG;Nantes;1;1;Ligue 1;Fair;ESE;2 mph;36 °F;93 %;29.98 in
+01.12.2024;Montpellier;Lille;2;2;Ligue 1;Fair;SSE;6 mph;46 °F;100 %;29.72 in
+01.12.2024;Le Havre;Angers;0;1;Ligue 1;Fair;VAR;1 mph;50 °F;82 %;30.30 in
+01.12.2024;Toulouse;AJ Auxerre;2;0;Ligue 1;Fair;SSE;6 mph;46 °F;100 %;29.72 in
+01.12.2024;Lyon;Nice;4;1;Ligue 1;Fog;VAR;3 mph;36 °F;100 %;29.47 in
+01.12.2024;Marsilya;Monaco;2;1;Ligue 1;Fair;VAR;1 mph;50 °F;82 %;30.30 in
+22.11.2024;Monaco;Brest;3;2;Ligue 1;Partly Cloudy;NW;9 mph;59 °F;82 %;29.32 in
+22.11.2024;PSG;Toulouse;3;0;Ligue 1;Fair;W;6 mph;32 °F;93 %;29.28 in
+23.11.2024;Lens;Marsilya;1;3;Ligue 1;Fair;S;9 mph;32 °F;100 %;29.85 in
+23.11.2024;St Etienne;Montpellier;1;0;Ligue 1;Fair;S;9 mph;32 °F;100 %;29.85 in
+23.11.2024;Reims;Lyon;1;1;Ligue 1;Fair;SW;12 mph;34 °F;93 %;29.49 in
+24.11.2024;Lille;Rennes;1;0;Ligue 1;Light Drizzle / Windy;S;22 mph;48 °F;93 %;29.52 in
+24.11.2024;Nantes;Le Havre;0;2;Ligue 1;Cloudy / Windy;SSW;30 mph;61 °F;88 %;29.17 in
+24.11.2024;AJ Auxerre;Angers;1;0;Ligue 1;Fair;S;20 mph;48 °F;66 %;29.28 in
+24.11.2024;Nice;Strasbourg;2;1;Ligue 1;Mostly Cloudy;NW;13 mph;50 °F;54 %;30.41 in
+08.11.2024;Marsilya;AJ Auxerre;1;3;Ligue 1;Fair;VAR;3 mph;59 °F;67 %;30.24 in
+09.11.2024;Strasbourg;Monaco;1;3;Ligue 1;Cloudy;SE;1 mph;48 °F;87 %;29.72 in
+09.11.2024;Lens;Nantes;3;2;Ligue 1;Cloudy;ENE;6 mph;45 °F;87 %;30.05 in
+09.11.2024;Angers;PSG;2;4;Ligue 1;Mostly Cloudy;NNW;9 mph;61 °F;55 %;30.23 in
+10.11.2024;Nice;Lille;2;2;Ligue 1;Partly Cloudy;NNW;8 mph;57 °F;77 %;30.14 in
+10.11.2024;Montpellier;Brest;3;1;Ligue 1;Cloudy;W;12 mph;57 °F;94 %;29.75 in
+10.11.2024;Le Havre;Reims;0;3;Ligue 1;Fair;ESE;2 mph;59 °F;82 %;30.15 in
+10.11.2024;Rennes;Toulouse;0;2;Ligue 1;Cloudy;WSW;2 mph;54 °F;94 %;30.16 in
+10.11.2024;Lyon;St Etienne;1;0;Ligue 1;Mist;VAR;2 mph;50 °F;94 %;29.42 in
+01.11.2024;Monaco;Angers;0;1;Ligue 1;Fair;NNW;8 mph;63 °F;59 %;30.20 in
+01.11.2024;Lille;Lyon;1;1;Ligue 1;Cloudy;S;7 mph;52 °F;94 %;30.08 in
+02.11.2024;PSG;Lens;1;0;Ligue 1;Cloudy;NE;6 mph;50 °F;87 %;29.98 in
+02.11.2024;Brest;Nice;0;1;Ligue 1;Mist;ENE;12 mph;54 °F;100 %;29.93 in
+02.11.2024;St Etienne;Strasbourg;2;0;Ligue 1;Cloudy;CALM;0 mph;52 °F;94 %;30.17 in
+03.11.2024;Toulouse;Reims;1;0;Ligue 1;Fair;VAR;1 mph;54 °F;88 %;29.64 in
+03.11.2024;AJ Auxerre;Rennes;4;0;Ligue 1;Cloudy;ESE;8 mph;50 °F;87 %;29.75 in
+03.11.2024;Le Havre;Montpellier;1;0;Ligue 1;Fair;CALM;0 mph;57 °F;88 %;30.21 in
+03.11.2024;Nantes;Marsilya;1;2;Ligue 1;Cloudy;ESE;8 mph;50 °F;94 %;29.90 in
+25.10.2024;Rennes;Le Havre;1;0;Ligue 1;Fair;SE;7 mph;59 °F;88 %;29.78 in
+26.10.2024;Angers;St Etienne;4;2;Ligue 1;Mostly Cloudy;NNW;7 mph;61 °F;94 %;30.11 in
+26.10.2024;Reims;Brest;1;2;Ligue 1;Fair;ENE;6 mph;57 °F;100 %;29.40 in
+26.10.2024;Lens;Lille;0;2;Ligue 1;Mostly Cloudy;WNW;5 mph;59 °F;94 %;29.85 in
+27.10.2024;Lyon;AJ Auxerre;2;2;Ligue 1;Fair;E;7 mph;55 °F;94 %;29.19 in
+27.10.2024;Nice;Monaco;2;1;Ligue 1;Mostly Cloudy;VAR;3 mph;63 °F;88 %;30.08 in
+27.10.2024;Montpellier;Toulouse;0;3;Ligue 1;Cloudy;WNW;3 mph;54 °F;94 %;29.46 in
+27.10.2024;Strasbourg;Nantes;3;1;Ligue 1;Cloudy;VAR;2 mph;52 °F;100 %;29.49 in
+27.10.2024;Marsilya;PSG;0;3;Ligue 1;Fair;E;6 mph;63 °F;82 %;30.00 in
+18.10.2024;Monaco;Lille;0;0;Ligue 1;Mostly Cloudy / Windy;E;23 mph;66 °F;88 %;29.91 in
+19.10.2024;Brest;Rennes;1;1;Ligue 1;Light Drizzle;SSW;15 mph;61 °F;94 %;29.46 in
+19.10.2024;St Etienne;Lens;0;2;Ligue 1;Cloudy;SW;5 mph;57 °F;94 %;29.76 in
+19.10.2024;PSG;Strasbourg;4;2;Ligue 1;Mostly Cloudy;SSW;6 mph;57 °F;94 %;29.66 in
+20.10.2024;Le Havre;Lyon;0;4;Ligue 1;Fair;NW;8 mph;63 °F;77 %;30.00 in
+20.10.2024;AJ Auxerre;Reims;2;1;Ligue 1;Cloudy;SSE;9 mph;57 °F;88 %;29.46 in
+20.10.2024;Toulouse;Angers;1;1;Ligue 1;Fair;ESE;5 mph;57 °F;94 %;29.58 in
+20.10.2024;Nantes;Nice;1;1;Ligue 1;Fair;S;10 mph;55 °F;94 %;29.61 in
+20.10.2024;Montpellier;Marsilya;0;5;Ligue 1;Fair;ESE;5 mph;57 °F;94 %;29.58 in
+04.10.2024;Marsilya;Angers;1;1;Ligue 1;Fair / Windy;NW;29 mph;59 °F;67 %;29.71 in
+05.10.2024;St Etienne;AJ Auxerre;3;1;Ligue 1;Fair;NNE;2 mph;46 °F;87 %;29.96 in
+05.10.2024;Lille;Toulouse;2;1;Ligue 1;Fair;NNE;2 mph;46 °F;87 %;29.96 in
+05.10.2024;Rennes;Monaco;1;2;Ligue 1;Fair;ESE;5 mph;50 °F;87 %;29.96 in
+06.10.2024;Lyon;Nantes;2;0;Ligue 1;Fair;SE;10 mph;48 °F;87 %;29.04 in
+06.10.2024;Brest;Le Havre;2;0;Ligue 1;Light Rain;ESE;10 mph;50 °F;100 %;29.23 in
+06.10.2024;Strasbourg;Lens;2;2;Ligue 1;Fair;WNW;3 mph;45 °F;93 %;29.40 in
+06.10.2024;Reims;Montpellier;4;2;Ligue 1;Fair;ESE;9 mph;48 °F;87 %;29.23 in
+06.10.2024;Nice;PSG;1;1;Ligue 1;Fair;NW;10 mph;59 °F;77 %;29.85 in
+27.09.2024;AJ Auxerre;Brest;3;0;Ligue 1;Fair / Windy;SW;21 mph;55 °F;88 %;28.94 in
+27.09.2024;PSG;Rennes;3;1;Ligue 1;Fair;SW;14 mph;55 °F;82 %;29.20 in
+28.09.2024;Lens;Nice;0;0;Ligue 1;Fair;WNW;12 mph;52 °F;76 %;29.70 in
+28.09.2024;Le Havre;Lille;0;3;Ligue 1;Cloudy / Windy;W;23 mph;63 °F;59 %;29.94 in
+28.09.2024;Monaco;Montpellier;2;1;Ligue 1;Fair;W;18 mph;66 °F;56 %;29.76 in
+29.09.2024;Toulouse;Lyon;1;2;Ligue 1;Fair;S;3 mph;50 °F;82 %;29.75 in
+29.09.2024;Nantes;St Etienne;2;2;Ligue 1;Fair;SE;6 mph;48 °F;87 %;29.90 in
+29.09.2024;Angers;Reims;1;3;Ligue 1;Fair;N;8 mph;63 °F;59 %;30.00 in
+29.09.2024;Strasbourg;Marsilya;1;0;Ligue 1;Fair;VAR;2 mph;43 °F;93 %;29.81 in
+20.09.2024;Nice;St Etienne;8;0;Ligue 1;Fair;NNW;10 mph;64 °F;68 %;30.00 in
+21.09.2024;Lille;Strasbourg;3;3;Ligue 1;Fair;NE;3 mph;61 °F;88 %;29.91 in
+21.09.2024;Rennes;Lens;1;1;Ligue 1;Fair;E;6 mph;59 °F;72 %;29.84 in
+21.09.2024;Reims;PSG;1;1;Ligue 1;Fair;E;7 mph;59 °F;82 %;29.43 in
+22.09.2024;Monaco;Le Havre;3;1;Ligue 1;Fair;NNW;9 mph;68 °F;64 %;30.06 in
+22.09.2024;Brest;Toulouse;2;0;Ligue 1;Light Rain;VAR;2 mph;59 °F;100 %;29.52 in
+22.09.2024;Angers;Nantes;1;1;Ligue 1;Fair;NNW;9 mph;68 °F;64 %;30.06 in
+22.09.2024;Montpellier;AJ Auxerre;3;2;Ligue 1;Fair;SE;18 mph;66 °F;78 %;29.37 in
+22.09.2024;Lyon;Marsilya;2;3;Ligue 1;Fair;SSW;14 mph;68 °F;64 %;29.19 in
+13.09.2024;St Etienne;Lille;1;0;Ligue 1;Fair;W;5 mph;46 °F;93 %;29.91 in
+14.09.2024;Marsilya;Nice;2;0;Ligue 1;Fair / Windy;NNW;24 mph;59 °F;51 %;30.06 in
+14.09.2024;AJ Auxerre;Monaco;0;3;Ligue 1;Fair;NNW;7 mph;50 °F;87 %;29.75 in
+14.09.2024;PSG;Brest;3;1;Ligue 1;Fair;N;5 mph;52 °F;82 %;30.10 in
+15.09.2024;Rennes;Montpellier;3;0;Ligue 1;Fair;NNE;6 mph;54 °F;77 %;30.28 in
+15.09.2024;Nantes;Reims;1;2;Ligue 1;Fair;NNE;6 mph;48 °F;93 %;30.05 in
+15.09.2024;Toulouse;Le Havre;2;0;Ligue 1;Fair;NW;7 mph;55 °F;72 %;29.72 in
+15.09.2024;Strasbourg;Angers;1;1;Ligue 1;Cloudy;VAR;2 mph;50 °F;87 %;29.84 in
+15.09.2024;Lens;Lyon;0;0;Ligue 1;Fair;SSW;2 mph;52 °F;82 %;30.23 in
+30.08.2024;Lyon;Strasbourg;4;3;Ligue 1;Fair;S;3 mph;79 °F;65 %;29.16 in
+31.08.2024;Brest;St Etienne;4;0;Ligue 1;Mist;NNE;7 mph;59 °F;94 %;29.75 in
+31.08.2024;Montpellier;Nantes;1;3;Ligue 1;Fair;SSW;7 mph;75 °F;53 %;29.46 in
+31.08.2024;Toulouse;Marsilya;1;3;Ligue 1;Fair;SSW;7 mph;75 °F;53 %;29.46 in
+01.09.2024;Monaco;Lens;1;1;Ligue 1;Fair;NNW;9 mph;82 °F;42 %;29.94 in
+01.09.2024;Angers;Nice;1;4;Ligue 1;Fair;NNW;9 mph;82 °F;42 %;29.94 in
+01.09.2024;Le Havre;AJ Auxerre;3;1;Ligue 1;Fair;ESE;2 mph;73 °F;73 %;29.94 in
+01.09.2024;Reims;Rennes;2;1;Ligue 1;Fair;NNE;8 mph;72 °F;100 %;29.37 in
+01.09.2024;Lille;PSG;1;3;Ligue 1;Fair;NE;12 mph;68 °F;78 %;29.88 in
+23.08.2024;PSG;Montpellier;6;0;Ligue 1;Fair;SW;6 mph;64 °F;68 %;29.52 in
+24.08.2024;Lyon;Monaco;0;2;Ligue 1;Fair;S;2 mph;73 °F;61 %;29.10 in
+24.08.2024;Lille;Angers;2;0;Ligue 1;Fair;SSE;6 mph;63 °F;94 %;29.64 in
+24.08.2024;St Etienne;Le Havre;0;2;Ligue 1;Fair;SSE;6 mph;63 °F;94 %;29.64 in
+25.08.2024;Lens;Brest;2;0;Ligue 1;Fair;SW;9 mph;59 °F;88 %;29.70 in
+25.08.2024;Strasbourg;Rennes;3;1;Ligue 1;Fair;S;7 mph;72 °F;78 %;29.37 in
+25.08.2024;Nantes;AJ Auxerre;2;0;Ligue 1;Fair;W;6 mph;50 °F;94 %;29.73 in
+25.08.2024;Nice;Toulouse;1;1;Ligue 1;Fair;NW;7 mph;77 °F;74 %;29.97 in
+25.08.2024;Marsilya;Reims;2;2;Ligue 1;Mostly Cloudy;SSW;3 mph;75 °F;89 %;30.00 in
+16.08.2024;Le Havre;PSG;1;4;Ligue 1;Fair;VAR;1 mph;73 °F;83 %;30.00 in
+17.08.2024;Brest;Marsilya;1;5;Ligue 1;Cloudy;N;7 mph;61 °F;94 %;29.67 in
+17.08.2024;Reims;Lille;0;2;Ligue 1;Fair;SSW;7 mph;66 °F;88 %;29.37 in
+17.08.2024;Monaco;St Etienne;1;0;Ligue 1;Fair;W;10 mph;77 °F;78 %;29.97 in
+18.08.2024;AJ Auxerre;Nice;2;1;Ligue 1;Light Rain;SSW;5 mph;64 °F;100 %;29.23 in
+18.08.2024;Montpellier;Strasbourg;1;1;Ligue 1;Partly Cloudy;W;12 mph;72 °F;78 %;29.46 in
+18.08.2024;Toulouse;Nantes;0;0;Ligue 1;Partly Cloudy;W;12 mph;72 °F;78 %;29.46 in
+18.08.2024;Angers;Lens;0;1;Ligue 1;Fair;NNW;9 mph;77 °F;69 %;29.82 in
+18.08.2024;Rennes;Lyon;3;0;Ligue 1;Fair;W;2 mph;55 °F;82 %;29.84 in

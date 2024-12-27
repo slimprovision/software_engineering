@@ -1,0 +1,168 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+01.11.2024;Alaves;Mallorca;1;0;La Liga;Fair;ESE;13 mph;66 °F;68 %;30.03 in
+02.11.2024;Osasuna;R. Valladolid;1;0;La Liga;Partly Cloudy;NNW;5 mph;61 °F;94 %;29.70 in
+02.11.2024;Girona;Leganes;4;3;La Liga;Partly Cloudy;NNW;5 mph;61 °F;94 %;29.70 in
+03.11.2024;Atl. Madrid;Las Palmas;2;0;La Liga;Fair;CALM;0 mph;52 °F;94 %;28.06 in
+03.11.2024;Barcelona;Espanyol;3;1;La Liga;Mostly Cloudy;NNW;8 mph;61 °F;88 %;30.19 in
+03.11.2024;Sevilla;R. Sociedad;0;2;La Liga;Fair;CALM;0 mph;52 °F;94 %;28.06 in
+03.11.2024;Ath. Bilbao;Real Betis;1;1;La Liga;Cloudy;VAR;2 mph;63 °F;94 %;30.06 in
+04.11.2024;Celta Vigo;Getafe;1;0;La Liga;Fair;NNW;3 mph;54 °F;82 %;28.06 in
+08.11.2024;Rayo Vallecano;Las Palmas;1;3;La Liga;Fair;NNW;2 mph;52 °F;94 %;28.09 in
+09.11.2024;Real Madrid;Osasuna;4;0;La Liga;Partly Cloudy;CALM;0 mph;52 °F;94 %;28.11 in
+09.11.2024;Villarreal;Alaves;3;0;La Liga;Light Rain;W;6 mph;63 °F;94 %;30.06 in
+09.11.2024;Leganes;Sevilla;1;0;La Liga;Partly Cloudy;CALM;0 mph;52 °F;94 %;28.11 in
+10.11.2024;Real Betis;Celta Vigo;2;2;La Liga;Fair;NW;5 mph;59 °F;94 %;29.98 in
+10.11.2024;Mallorca;Atl. Madrid;0;1;La Liga;Fair;W;6 mph;49 °F;98 %;28.34 in
+10.11.2024;Getafe;Girona;0;1;La Liga;Fair;NW;5 mph;59 °F;94 %;29.98 in
+10.11.2024;R. Valladolid;Ath. Bilbao;1;1;La Liga;Fair;VAR;1 mph;48 °F;87 %;28.20 in
+10.11.2024;R. Sociedad;Barcelona;1;0;La Liga;Fair;VAR;1 mph;48 °F;87 %;28.20 in
+22.11.2024;Getafe;R. Valladolid;2;0;La Liga;Fair;W;13 mph;63 °F;55 %;29.57 in
+23.11.2024;Valencia;Real Betis;4;2;La Liga;Mostly Cloudy;CALM;0 mph;54 °F;94 %;29.98 in
+23.11.2024;Atl. Madrid;Alaves;2;1;La Liga;Mostly Cloudy;NNW;5 mph;46 °F;71 %;28.09 in
+23.11.2024;Las Palmas;Mallorca;2;3;La Liga;Fair;S;2 mph;44 °F;100 %;28.24 in
+23.11.2024;Girona;Espanyol;4;1;La Liga;Cloudy;VAR;2 mph;48 °F;76 %;29.73 in
+23.11.2024;Celta Vigo;Barcelona;2;2;La Liga;Mostly Cloudy;NNW;5 mph;46 °F;71 %;28.09 in
+24.11.2024;Osasuna;Villarreal;2;2;La Liga;Fair;WSW;8 mph;59 °F;77 %;29.73 in
+24.11.2024;Sevilla;Rayo Vallecano;1;0;La Liga;Fair;CALM;0 mph;46 °F;93 %;28.11 in
+24.11.2024;Leganes;Real Madrid;0;3;La Liga;Fair;CALM;0 mph;46 °F;93 %;28.11 in
+24.11.2024;Ath. Bilbao;R. Sociedad;1;0;La Liga;Fair / Windy;ESE;21 mph;63 °F;55 %;29.88 in
+29.11.2024;Mallorca;Valencia;2;1;La Liga;Fair;SW;2 mph;46 °F;100 %;28.39 in
+30.11.2024;Barcelona;Las Palmas;1;2;La Liga;Partly Cloudy;NNW;8 mph;52 °F;88 %;30.28 in
+30.11.2024;Alaves;Leganes;1;1;La Liga;Fair;E;2 mph;52 °F;94 %;30.21 in
+30.11.2024;Espanyol;Celta Vigo;3;1;La Liga;Fair;NNW;2 mph;45 °F;93 %;28.25 in
+30.11.2024;R. Valladolid;Atl. Madrid;0;5;La Liga;Fair;NNW;2 mph;45 °F;93 %;28.25 in
+01.12.2024;Villarreal;Girona;2;2;La Liga;Fair;E;6 mph;64 °F;64 %;30.09 in
+01.12.2024;Real Madrid;Getafe;2;0;La Liga;Fair;N;2 mph;46 °F;93 %;28.22 in
+01.12.2024;Rayo Vallecano;Ath. Bilbao;1;2;La Liga;Fair;N;2 mph;46 °F;93 %;28.22 in
+01.12.2024;R. Sociedad;Real Betis;2;0;La Liga;Fair;N;2 mph;46 °F;93 %;28.22 in
+02.12.2024;Sevilla;Osasuna;1;1;La Liga;Fair;VAR;2 mph;52 °F;88 %;28.14 in
+06.12.2024;Celta Vigo;Mallorca;2;0;La Liga;Fair;CALM;0 mph;43 °F;87 %;28.28 in
+07.12.2024;Las Palmas;R. Valladolid;2;1;La Liga;Fair;S;1 mph;44 °F;95 %;28.40 in
+07.12.2024;Real Betis;Barcelona;2;2;La Liga;Fair;WNW;12 mph;63 °F;63 %;29.95 in
+07.12.2024;Valencia;Rayo Vallecano;0;1;La Liga;Fair;WNW;12 mph;63 °F;63 %;29.95 in
+07.12.2024;Girona;Real Madrid;0;3;La Liga;Fair;W;5 mph;45 °F;100 %;29.67 in
+08.12.2024;Leganes;R. Sociedad;0;3;La Liga;Fair;E;3 mph;48 °F;43 %;28.11 in
+08.12.2024;Ath. Bilbao;Villarreal;2;0;La Liga;Mostly Cloudy / Windy;WNW;28 mph;52 °F;62 %;30.18 in
+08.12.2024;Osasuna;Alaves;2;2;La Liga;Fair;W;1 mph;41 °F;76 %;29.44 in
+08.12.2024;Atl. Madrid;Sevilla;4;3;La Liga;Fair;E;3 mph;48 °F;43 %;28.11 in
+09.12.2024;Getafe;Espanyol;1;0;La Liga;Fair;NW;9 mph;50 °F;47 %;29.74 in
+25.10.2024;Espanyol;Sevilla;0;2;La Liga;Partly Cloudy;VAR;2 mph;59 °F;82 %;28.03 in
+26.10.2024;R. Valladolid;Villarreal;1;2;La Liga;Partly Cloudy;VAR;2 mph;54 °F;72 %;27.89 in
+26.10.2024;Rayo Vallecano;Alaves;1;0;La Liga;Partly Cloudy;VAR;2 mph;54 °F;72 %;27.89 in
+26.10.2024;Las Palmas;Girona;1;0;La Liga;Fair;W;5 mph;56 °F;85 %;28.14 in
+26.10.2024;Real Madrid;Barcelona;0;4;La Liga;Partly Cloudy;VAR;2 mph;54 °F;72 %;27.89 in
+27.10.2024;Leganes;Celta Vigo;3;0;La Liga;Mostly Cloudy;N;2 mph;45 °F;87 %;27.89 in
+27.10.2024;Getafe;Valencia;1;1;La Liga;Fair;W;6 mph;55 °F;67 %;29.71 in
+27.10.2024;Real Betis;Atl. Madrid;1;0;La Liga;Fair;W;6 mph;55 °F;67 %;29.71 in
+27.10.2024;R. Sociedad;Osasuna;0;2;La Liga;Mostly Cloudy;N;2 mph;45 °F;87 %;27.89 in
+28.10.2024;Mallorca;Ath. Bilbao;0;0;La Liga;Fair;ESE;5 mph;46 °F;85 %;28.08 in
+18.10.2024;Alaves;R. Valladolid;2;3;La Liga;Mostly Cloudy;W;7 mph;57 °F;88 %;30.03 in
+19.10.2024;Ath. Bilbao;Espanyol;4;1;La Liga;Partly Cloudy;E;5 mph;59 °F;94 %;30.00 in
+19.10.2024;Osasuna;Real Betis;1;2;La Liga;Fair;CALM;0 mph;52 °F;100 %;29.58 in
+19.10.2024;Girona;R. Sociedad;0;1;La Liga;Fair;CALM;0 mph;52 °F;100 %;29.58 in
+19.10.2024;Celta Vigo;Real Madrid;1;2;La Liga;Fair;VAR;1 mph;54 °F;72 %;28.06 in
+20.10.2024;Mallorca;Rayo Vallecano;1;0;La Liga;Fair;WNW;5 mph;58 °F;85 %;28.27 in
+20.10.2024;Atl. Madrid;Leganes;3;1;La Liga;Fair;ESE;5 mph;59 °F;82 %;28.09 in
+20.10.2024;Villarreal;Getafe;1;1;La Liga;Fair;VAR;1 mph;63 °F;100 %;29.97 in
+20.10.2024;Barcelona;Sevilla;5;1;La Liga;Fair;NW;7 mph;61 °F;72 %;30.10 in
+21.10.2024;Valencia;Las Palmas;2;3;La Liga;Fair;NNW;6 mph;68 °F;78 %;29.98 in
+04.10.2024;Leganes;Valencia;0;0;La Liga;Fair;VAR;2 mph;61 °F;55 %;27.89 in
+05.10.2024;Espanyol;Mallorca;2;1;La Liga;Fair;WNW;1 mph;63 °F;59 %;27.87 in
+05.10.2024;Getafe;Osasuna;1;1;La Liga;Fair;NW;6 mph;64 °F;68 %;29.69 in
+05.10.2024;Las Palmas;Celta Vigo;0;1;La Liga;Fair;E;5 mph;64 °F;69 %;28.06 in
+05.10.2024;R. Valladolid;Rayo Vallecano;1;2;La Liga;Fair;WNW;1 mph;63 °F;59 %;27.87 in
+05.10.2024;Real Madrid;Villarreal;2;0;La Liga;Fair;WNW;1 mph;63 °F;59 %;27.87 in
+06.10.2024;Girona;Ath. Bilbao;2;1;La Liga;Fair;NNE;2 mph;57 °F;94 %;29.35 in
+06.10.2024;Alaves;Barcelona;0;3;La Liga;Light Rain;ESE;5 mph;68 °F;100 %;29.62 in
+06.10.2024;Sevilla;Real Betis;1;0;La Liga;Fair;WSW;14 mph;72 °F;64 %;27.81 in
+06.10.2024;R. Sociedad;Atl. Madrid;1;1;La Liga;Fair;WSW;14 mph;72 °F;64 %;27.81 in
+27.09.2024;R. Valladolid;Mallorca;1;2;La Liga;Fair;SW;8 mph;66 °F;78 %;27.87 in
+28.09.2024;Getafe;Alaves;2;0;La Liga;Fair;NNW;10 mph;72 °F;35 %;29.80 in
+28.09.2024;Rayo Vallecano;Leganes;1;1;La Liga;Partly Cloudy;NNE;3 mph;55 °F;47 %;28.06 in
+28.09.2024;R. Sociedad;Valencia;3;0;La Liga;Partly Cloudy;NNE;3 mph;55 °F;47 %;28.06 in
+28.09.2024;Osasuna;Barcelona;4;2;La Liga;Fair;NNW;3 mph;54 °F;77 %;29.53 in
+29.09.2024;Celta Vigo;Girona;1;1;La Liga;Fair;N;5 mph;55 °F;44 %;28.11 in
+29.09.2024;Ath. Bilbao;Sevilla;1;1;La Liga;Fair;ESE;6 mph;52 °F;100 %;30.15 in
+29.09.2024;Real Betis;Espanyol;1;0;La Liga;Fair;NW;3 mph;63 °F;63 %;30.01 in
+29.09.2024;Atl. Madrid;Real Madrid;1;1;La Liga;Fair;N;5 mph;55 °F;44 %;28.11 in
+30.09.2024;Villarreal;Las Palmas;3;1;La Liga;Fair;ESE;5 mph;61 °F;94 %;30.00 in
+17.09.2024;Mallorca;R. Sociedad;1;0;La Liga;Fair;ENE;6 mph;72 °F;50 %;27.98 in
+19.09.2024;Leganes;Ath. Bilbao;0;2;La Liga;Fair;SSE;13 mph;68 °F;68 %;27.84 in
+24.09.2024;Sevilla;R. Valladolid;2;1;La Liga;Fair;W;10 mph;68 °F;37 %;27.87 in
+24.09.2024;Valencia;Osasuna;0;0;La Liga;Fair;NNW;5 mph;70 °F;88 %;29.69 in
+24.09.2024;Real Madrid;Alaves;3;2;La Liga;Fair;W;10 mph;68 °F;37 %;27.87 in
+25.09.2024;Girona;Rayo Vallecano;0;0;La Liga;Fair;CALM;0 mph;59 °F;94 %;29.44 in
+25.09.2024;Barcelona;Getafe;1;0;La Liga;Fair;ENE;5 mph;68 °F;68 %;29.89 in
+26.09.2024;Espanyol;Villarreal;1;2;La Liga;Mostly Cloudy;SSW;12 mph;70 °F;78 %;27.87 in
+26.09.2024;Las Palmas;Real Betis;1;1;La Liga;Fair;N;2 mph;64 °F;79 %;28.14 in
+26.09.2024;Celta Vigo;Atl. Madrid;0;1;La Liga;Mostly Cloudy;SSW;12 mph;70 °F;78 %;27.87 in
+20.09.2024;Alaves;Sevilla;2;1;La Liga;Fair;VAR;2 mph;66 °F;88 %;29.79 in
+21.09.2024;R. Valladolid;R. Sociedad;0;0;La Liga;Partly Cloudy;VAR;2 mph;66 °F;73 %;27.84 in
+21.09.2024;Osasuna;Las Palmas;2;1;La Liga;Fair;CALM;0 mph;61 °F;94 %;29.56 in
+21.09.2024;Valencia;Girona;2;0;La Liga;Partly Cloudy;NE;5 mph;72 °F;83 %;29.74 in
+21.09.2024;Real Madrid;Espanyol;4;1;La Liga;Partly Cloudy;VAR;2 mph;66 °F;73 %;27.84 in
+22.09.2024;Getafe;Leganes;1;1;La Liga;Partly Cloudy;NE;6 mph;70 °F;83 %;29.69 in
+22.09.2024;Ath. Bilbao;Celta Vigo;3;1;La Liga;Rain;VAR;1 mph;64 °F;100 %;29.82 in
+22.09.2024;Villarreal;Barcelona;1;5;La Liga;Rain;VAR;1 mph;64 °F;100 %;29.82 in
+22.09.2024;Rayo Vallecano;Atl. Madrid;1;1;La Liga;Fair;VAR;2 mph;66 °F;64 %;27.87 in
+23.09.2024;Real Betis;Mallorca;1;2;La Liga;Mostly Cloudy;NNW;6 mph;72 °F;83 %;29.69 in
+13.09.2024;Real Betis;Leganes;2;0;La Liga;Fair;SE;6 mph;77 °F;65 %;29.71 in
+14.09.2024;Mallorca;Villarreal;1;2;La Liga;Fair;N;2 mph;71 °F;70 %;28.15 in
+14.09.2024;Espanyol;Alaves;3;2;La Liga;Fair;ENE;8 mph;61 °F;45 %;28.09 in
+14.09.2024;Sevilla;Getafe;1;0;La Liga;Fair;ENE;8 mph;61 °F;45 %;28.09 in
+14.09.2024;R. Sociedad;Real Madrid;0;2;La Liga;Fair;ENE;8 mph;61 °F;45 %;28.09 in
+15.09.2024;Celta Vigo;R. Valladolid;3;1;La Liga;Fair;NNW;6 mph;64 °F;45 %;28.03 in
+15.09.2024;Girona;Barcelona;1;4;La Liga;Fair;CALM;0 mph;54 °F;72 %;29.61 in
+15.09.2024;Las Palmas;Ath. Bilbao;2;3;La Liga;Fair;NE;2 mph;69 °F;72 %;28.19 in
+15.09.2024;Atl. Madrid;Valencia;3;0;La Liga;Fair;NNW;6 mph;64 °F;45 %;28.03 in
+16.09.2024;Rayo Vallecano;Osasuna;3;1;La Liga;Fair;NE;7 mph;72 °F;15 %;27.98 in
+31.08.2024;Barcelona;R. Valladolid;7;0;La Liga;Fair;VAR;1 mph;77 °F;78 %;29.98 in
+31.08.2024;Ath. Bilbao;Atl. Madrid;0;1;La Liga;Mostly Cloudy;VAR;1 mph;72 °F;100 %;29.88 in
+31.08.2024;Espanyol;Rayo Vallecano;2;1;La Liga;Thunder in the Vicinity;E;3 mph;70 °F;83 %;27.89 in
+31.08.2024;Valencia;Villarreal;1;1;La Liga;Fair;ENE;5 mph;79 °F;74 %;29.71 in
+31.08.2024;Leganes;Mallorca;0;1;La Liga;Thunder in the Vicinity;E;3 mph;70 °F;83 %;27.89 in
+01.09.2024;Alaves;Las Palmas;2;0;La Liga;Fair;ESE;3 mph;66 °F;100 %;29.82 in
+01.09.2024;Osasuna;Celta Vigo;3;2;La Liga;Fair;W;3 mph;72 °F;88 %;29.47 in
+01.09.2024;Sevilla;Girona;0;2;La Liga;Partly Cloudy;VAR;2 mph;70 °F;83 %;27.87 in
+01.09.2024;Getafe;R. Sociedad;0;0;La Liga;Fair;NE;5 mph;79 °F;78 %;29.69 in
+01.09.2024;Real Madrid;Real Betis;2;0;La Liga;Partly Cloudy;VAR;2 mph;70 °F;83 %;27.87 in
+26.08.2024;Villarreal;Celta Vigo;4;3;La Liga;Mostly Cloudy;E;3 mph;61 °F;88 %;30.12 in
+27.08.2024;Mallorca;Sevilla;0;0;La Liga;Fair;S;5 mph;80 °F;66 %;28.09 in
+27.08.2024;Rayo Vallecano;Barcelona;1;2;La Liga;Fair;N;6 mph;81 °F;37 %;27.89 in
+28.08.2024;Ath. Bilbao;Valencia;1;0;La Liga;Fair;VAR;2 mph;68 °F;88 %;29.88 in
+28.08.2024;R. Valladolid;Leganes;0;0;La Liga;Fair;VAR;2 mph;84 °F;28 %;27.84 in
+28.08.2024;R. Sociedad;Alaves;1;2;La Liga;Fair;VAR;2 mph;84 °F;28 %;27.84 in
+28.08.2024;Atl. Madrid;Espanyol;0;0;La Liga;Fair;VAR;2 mph;84 °F;28 %;27.84 in
+29.08.2024;Girona;Osasuna;4;0;La Liga;Fair;CALM;0 mph;70 °F;88 %;29.53 in
+29.08.2024;Las Palmas;Real Madrid;1;1;La Liga;Fair;SSW;6 mph;83 °F;39 %;28.04 in
+18.09.2024;Real Betis;Getafe;2;1;La Liga;Partly Cloudy;ESE;6 mph;73 °F;69 %;29.69 in
+23.08.2024;Celta Vigo;Valencia;3;1;La Liga;Fair;W;6 mph;86 °F;22 %;27.87 in
+23.08.2024;Sevilla;Villarreal;1;2;La Liga;Fair;W;6 mph;86 °F;22 %;27.87 in
+24.08.2024;Osasuna;Mallorca;1;0;La Liga;Fair;SSW;6 mph;73 °F;88 %;29.47 in
+24.08.2024;Barcelona;Ath. Bilbao;2;1;La Liga;Fair;SSW;6 mph;79 °F;83 %;29.95 in
+24.08.2024;Getafe;Rayo Vallecano;0;0;La Liga;Partly Cloudy;ENE;1 mph;79 °F;89 %;29.71 in
+24.08.2024;Espanyol;R. Sociedad;0;1;La Liga;Fair;VAR;2 mph;77 °F;44 %;27.87 in
+25.08.2024;Real Madrid;R. Valladolid;3;0;La Liga;Fair;NW;5 mph;84 °F;27 %;27.87 in
+25.08.2024;Leganes;Las Palmas;2;1;La Liga;Fair;NW;5 mph;84 °F;27 %;27.87 in
+25.08.2024;Alaves;Real Betis;0;0;La Liga;Light Drizzle;SE;3 mph;66 °F;94 %;30.09 in
+25.08.2024;Atl. Madrid;Girona;3;0;La Liga;Fair;NW;5 mph;84 °F;27 %;27.87 in
+15.08.2024;Ath. Bilbao;Getafe;1;1;La Liga;Mostly Cloudy;W;3 mph;68 °F;73 %;30.06 in
+15.08.2024;Real Betis;Girona;1;1;La Liga;Fair;W;5 mph;73 °F;83 %;29.71 in
+16.08.2024;Celta Vigo;Alaves;2;1;La Liga;Fair;N;6 mph;77 °F;34 %;27.98 in
+16.08.2024;Las Palmas;Sevilla;2;2;La Liga;Fair;S;5 mph;78 °F;48 %;28.09 in
+17.08.2024;Osasuna;Leganes;1;1;La Liga;Fair;VAR;2 mph;75 °F;73 %;29.53 in
+17.08.2024;Valencia;Barcelona;1;2;La Liga;Fair;WNW;5 mph;79 °F;69 %;29.77 in
+18.08.2024;R. Sociedad;Rayo Vallecano;1;2;La Liga;Fair;N;5 mph;82 °F;25 %;27.87 in
+18.08.2024;Mallorca;Real Madrid;1;1;La Liga;Fair;NNW;1 mph;77 °F;45 %;28.08 in
+19.08.2024;R. Valladolid;Espanyol;1;0;La Liga;Fair;ENE;10 mph;79 °F;44 %;27.89 in
+19.08.2024;Villarreal;Atl. Madrid;2;2;La Liga;Mostly Cloudy;SE;2 mph;64 °F;94 %;30.03 in
+13.12.2024;R. Valladolid;Valencia;1;0;La Liga;Partly Cloudy;VAR;1 mph;41 °F;81 %;27.98 in
+14.12.2024;Espanyol;Osasuna;0;0;La Liga;Fair;ESE;2 mph;36 °F;93 %;28.20 in
+14.12.2024;Mallorca;Girona;2;1;La Liga;Fair;SW;5 mph;37 °F;100 %;28.36 in
+14.12.2024;Sevilla;Celta Vigo;1;0;La Liga;Fair;ESE;2 mph;36 °F;93 %;28.20 in
+14.12.2024;Rayo Vallecano;Real Madrid;3;3;La Liga;Fair;ESE;2 mph;36 °F;93 %;28.20 in
+15.12.2024;Atl. Madrid;Getafe;1;0;La Liga;Fair;CALM;0 mph;32 °F;93 %;28.39 in
+15.12.2024;Alaves;Ath. Bilbao;1;1;La Liga;Light Rain;E;5 mph;48 °F;93 %;30.44 in
+15.12.2024;Villarreal;Real Betis;1;2;La Liga;Light Rain;E;5 mph;48 °F;93 %;30.44 in
+15.12.2024;R. Sociedad;Las Palmas;0;0;La Liga;Fair;CALM;0 mph;32 °F;93 %;28.39 in
+15.12.2024;Barcelona;Leganes;0;1;La Liga;Fair;WNW;13 mph;43 °F;87 %;30.36 in

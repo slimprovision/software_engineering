@@ -1,0 +1,211 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+04.01.2000;Valencia;Celta Vigo;1;1;La Liga;Fair;W;2 mph;41 °F;93 %;30.19 in
+05.01.2000;Mallorca;R. Valladolid;0;0;La Liga;Fair;WSW;10 mph;55 °F;93 %;30.06 in
+05.01.2000;Numancia;Alaves;0;0;La Liga;Cloudy;ENE;1 mph;34 °F;93 %;28.35 in
+05.01.2000;Ath. Bilbao;Espanyol;2;1;La Liga;Fair;SSE;2 mph;41 °F;81 %;30.12 in
+05.01.2000;Deportivo;R. Santander;0;3;La Liga;Cloudy;ENE;1 mph;34 °F;93 %;28.35 in
+05.01.2000;Malaga;Real Zaragoza;0;0;La Liga;Cloudy;ENE;1 mph;34 °F;93 %;28.35 in
+05.01.2000;Barcelona;R. Sociedad;3;1;La Liga;Fair;N;14 mph;41 °F;81 %;30.34 in
+05.01.2000;Real Oviedo;Rayo Vallecano;2;0;La Liga;Cloudy;ENE;1 mph;34 °F;93 %;28.35 in
+05.01.2000;Sevilla;Atl. Madrid;2;1;La Liga;Cloudy;ENE;1 mph;34 °F;93 %;28.35 in
+08.01.2000;Espanyol;Deportivo;0;0;La Liga;Fair;N;3 mph;34 °F;93 %;28.26 in
+09.01.2000;Rayo Vallecano;Sevilla;2;0;La Liga;Fair;N;2 mph;34 °F;93 %;28.24 in
+09.01.2000;Real Betis;Numancia;1;2;La Liga;Partly Cloudy;W;2 mph;39 °F;93 %;30.02 in
+09.01.2000;Alaves;Ath. Bilbao;1;2;La Liga;Mostly Cloudy;E;5 mph;43 °F;100 %;30.09 in
+09.01.2000;R. Santander;Malaga;2;3;La Liga;Fair;N;2 mph;34 °F;93 %;28.24 in
+09.01.2000;Celta Vigo;Barcelona;0;2;La Liga;Fair;N;2 mph;34 °F;93 %;28.24 in
+09.01.2000;R. Sociedad;Real Oviedo;0;0;La Liga;Fair;N;2 mph;34 °F;93 %;28.24 in
+09.01.2000;Atl. Madrid;Mallorca;1;0;La Liga;Fair;N;2 mph;34 °F;93 %;28.24 in
+09.01.2000;Real Zaragoza;Valencia;4;2;La Liga;Fair;N;2 mph;34 °F;93 %;28.24 in
+15.01.2000;Rayo Vallecano;Atl. Madrid;1;1;La Liga;Mostly Cloudy;E;3 mph;37 °F;93 %;27.85 in
+16.01.2000;R. Sociedad;Sevilla;1;1;La Liga;Partly Cloudy;N;5 mph;36 °F;87 %;28.15 in
+16.01.2000;Celta Vigo;Real Oviedo;5;3;La Liga;Partly Cloudy;N;5 mph;36 °F;87 %;28.15 in
+16.01.2000;R. Santander;Valencia;1;1;La Liga;Partly Cloudy;N;5 mph;36 °F;87 %;28.15 in
+16.01.2000;Espanyol;Malaga;0;2;La Liga;Partly Cloudy;N;5 mph;36 °F;87 %;28.15 in
+16.01.2000;Alaves;Deportivo;2;1;La Liga;Partly Cloudy;ESE;5 mph;34 °F;100 %;30.21 in
+16.01.2000;Real Betis;Ath. Bilbao;2;1;La Liga;Cloudy;S;6 mph;45 °F;93 %;29.96 in
+16.01.2000;R. Valladolid;Numancia;2;0;La Liga;Partly Cloudy;N;5 mph;36 °F;87 %;28.15 in
+16.01.2000;Real Zaragoza;Barcelona;0;0;La Liga;Partly Cloudy;N;5 mph;36 °F;87 %;28.15 in
+17.01.2000;Real Madrid;Mallorca;2;1;La Liga;Mostly Cloudy;N;6 mph;41 °F;81 %;28.29 in
+22.01.2000;Deportivo;Real Betis;2;0;La Liga;Fair;NNW;1 mph;0 °F;93 %;28.21 in
+23.01.2000;Mallorca;Rayo Vallecano;2;1;La Liga;Fair;WSW;8 mph;54 °F;78 %;30.06 in
+23.01.2000;Sevilla;Celta Vigo;0;1;La Liga;Fair;N;3 mph;30 °F;93 %;28.10 in
+23.01.2000;Real Oviedo;Real Zaragoza;1;0;La Liga;Fair;N;3 mph;30 °F;93 %;28.10 in
+23.01.2000;Barcelona;R. Santander;1;0;La Liga;Fair;N;7 mph;39 °F;70 %;30.01 in
+23.01.2000;Valencia;Espanyol;1;2;La Liga;Fair;W;5 mph;36 °F;93 %;29.81 in
+23.01.2000;Malaga;Alaves;0;1;La Liga;Fair;N;3 mph;30 °F;93 %;28.10 in
+23.01.2000;Ath. Bilbao;R. Valladolid;1;0;La Liga;Mostly Cloudy;N;6 mph;45 °F;71 %;30.09 in
+23.01.2000;Numancia;Real Madrid;0;0;La Liga;Fair;N;3 mph;30 °F;93 %;28.10 in
+23.01.2000;Atl. Madrid;R. Sociedad;1;1;La Liga;Fair;N;3 mph;30 °F;93 %;28.10 in
+26.01.2000;Real Madrid;Real Betis;2;1;La Liga;Fair;N;5 mph;30 °F;75 %;28.04 in
+29.01.2000;Celta Vigo;Atl. Madrid;0;1;La Liga;Fair;ESE;1 mph;41 °F;81 %;28.29 in
+29.01.2000;Espanyol;Barcelona;1;1;La Liga;Fair;ESE;1 mph;41 °F;81 %;28.29 in
+30.01.2000;R. Sociedad;Rayo Vallecano;2;1;La Liga;Fair;N;3 mph;37 °F;93 %;28.46 in
+30.01.2000;Real Zaragoza;Sevilla;2;1;La Liga;Fair;N;3 mph;37 °F;93 %;28.46 in
+30.01.2000;R. Santander;Real Oviedo;3;1;La Liga;Fair;N;3 mph;37 °F;93 %;28.46 in
+30.01.2000;Alaves;Valencia;0;1;La Liga;Mostly Cloudy;W;3 mph;52 °F;76 %;30.38 in
+30.01.2000;Real Betis;Malaga;0;0;La Liga;Fair;SW;5 mph;43 °F;87 %;30.19 in
+30.01.2000;R. Valladolid;Deportivo;4;1;La Liga;Fair;N;3 mph;37 °F;93 %;28.46 in
+30.01.2000;Numancia;Mallorca;3;1;La Liga;Fair;N;3 mph;37 °F;93 %;28.46 in
+30.01.2000;Real Madrid;Ath. Bilbao;3;1;La Liga;Fair;N;3 mph;37 °F;93 %;28.46 in
+05.02.2000;Valencia;Real Betis;3;1;La Liga;Cloudy;CALM;0 mph;48 °F;100 %;30.40 in
+06.02.2000;Mallorca;R. Sociedad;2;1;La Liga;Fair;WSW;10 mph;42 °F;73 %;30.06 in
+06.02.2000;Rayo Vallecano;Celta Vigo;1;0;La Liga;Fair;N;5 mph;37 °F;75 %;28.43 in
+06.02.2000;Atl. Madrid;Real Zaragoza;2;2;La Liga;Fair;N;5 mph;37 °F;75 %;28.43 in
+06.02.2000;Sevilla;R. Santander;1;0;La Liga;Fair;N;5 mph;37 °F;75 %;28.43 in
+06.02.2000;Real Oviedo;Espanyol;1;0;La Liga;Fair;N;5 mph;37 °F;75 %;28.43 in
+06.02.2000;Barcelona;Alaves;0;1;La Liga;Mostly Cloudy;NNW;2 mph;48 °F;93 %;30.45 in
+06.02.2000;Malaga;R. Valladolid;0;0;La Liga;Fair;N;5 mph;37 °F;75 %;28.43 in
+06.02.2000;Deportivo;Real Madrid;5;2;La Liga;Fair;N;5 mph;37 °F;75 %;28.43 in
+06.02.2000;Ath. Bilbao;Numancia;2;1;La Liga;Fair;E;3 mph;37 °F;87 %;30.26 in
+12.02.2000;R. Valladolid;Valencia;0;0;La Liga;Fair;CALM;0 mph;46 °F;87 %;28.24 in
+12.02.2000;Real Madrid;Malaga;1;0;La Liga;Fair;CALM;0 mph;46 °F;87 %;28.24 in
+12.02.2000;Ath. Bilbao;Mallorca;1;1;La Liga;Mostly Cloudy;E;3 mph;36 °F;100 %;30.35 in
+13.02.2000;Celta Vigo;R. Sociedad;4;1;La Liga;Fair;NNW;5 mph;37 °F;60 %;28.43 in
+13.02.2000;Real Zaragoza;Rayo Vallecano;1;1;La Liga;Fair;NNW;5 mph;37 °F;60 %;28.43 in
+13.02.2000;R. Santander;Atl. Madrid;2;1;La Liga;Fair;NNW;5 mph;37 °F;60 %;28.43 in
+13.02.2000;Espanyol;Sevilla;2;2;La Liga;Fair;NNW;5 mph;37 °F;60 %;28.43 in
+13.02.2000;Alaves;Real Oviedo;1;0;La Liga;Fair;ESE;5 mph;34 °F;100 %;30.32 in
+13.02.2000;Real Betis;Barcelona;2;1;La Liga;Fair;W;2 mph;43 °F;87 %;30.25 in
+13.02.2000;Numancia;Deportivo;1;0;La Liga;Fair;NNW;5 mph;37 °F;60 %;28.43 in
+15.02.2000;R. Valladolid;Real Madrid;0;1;La Liga;Fair;N;2 mph;48 °F;76 %;28.35 in
+19.02.2000;Deportivo;Ath. Bilbao;2;0;La Liga;Fair;N;3 mph;45 °F;87 %;28.24 in
+20.02.2000;Mallorca;Celta Vigo;1;0;La Liga;Fair;WSW;10 mph;40 °F;76 %;30.06 in
+20.02.2000;R. Sociedad;Real Zaragoza;2;1;La Liga;Fair;NE;1 mph;50 °F;62 %;28.21 in
+20.02.2000;Rayo Vallecano;R. Santander;1;2;La Liga;Fair;NE;1 mph;50 °F;62 %;28.21 in
+20.02.2000;Atl. Madrid;Espanyol;1;1;La Liga;Fair;NE;1 mph;50 °F;62 %;28.21 in
+20.02.2000;Sevilla;Alaves;2;2;La Liga;Fair;NE;1 mph;50 °F;62 %;28.21 in
+20.02.2000;Real Oviedo;Real Betis;1;1;La Liga;Fair;NE;1 mph;50 °F;62 %;28.21 in
+20.02.2000;Barcelona;R. Valladolid;4;0;La Liga;Partly Cloudy;CALM;0 mph;52 °F;94 %;30.10 in
+20.02.2000;Valencia;Real Madrid;1;1;La Liga;Fair;W;3 mph;48 °F;71 %;29.90 in
+20.02.2000;Malaga;Numancia;3;1;La Liga;Fair;NE;1 mph;50 °F;62 %;28.21 in
+26.02.2000;Numancia;Valencia;1;2;La Liga;Fair;WSW;7 mph;46 °F;80 %;30.06 in
+26.02.2000;Real Madrid;Barcelona;3;0;La Liga;Fair;WSW;5 mph;51 °F;86 %;30.06 in
+27.02.2000;Real Zaragoza;Celta Vigo;2;1;La Liga;Fair;WSW;10 mph;55 °F;76 %;30.06 in
+27.02.2000;R. Santander;R. Sociedad;0;0;La Liga;Fair;WSW;7 mph;47 °F;67 %;30.06 in
+27.02.2000;Espanyol;Rayo Vallecano;5;1;La Liga;Fair;WSW;6 mph;54 °F;87 %;30.06 in
+27.02.2000;Alaves;Atl. Madrid;2;0;La Liga;Fair;WSW;7 mph;52 °F;74 %;30.06 in
+27.02.2000;R. Valladolid;Real Oviedo;2;1;La Liga;Fair;WSW;7 mph;53 °F;86 %;30.06 in
+27.02.2000;Ath. Bilbao;Malaga;2;2;La Liga;Fair;WSW;6 mph;49 °F;79 %;30.06 in
+27.02.2000;Deportivo;Mallorca;2;1;La Liga;Fair;WSW;9 mph;44 °F;83 %;30.06 in
+27.02.2000;Real Betis;Sevilla;1;1;La Liga;Fair;WSW;6 mph;51 °F;75 %;30.06 in
+04.03.2000;Real Oviedo;Real Madrid;1;1;La Liga;Fair;WSW;8 mph;48 °F;89 %;30.06 in
+04.03.2000;Barcelona;Numancia;4;0;La Liga;Fair;WSW;8 mph;59 °F;94 %;30.06 in
+04.03.2000;Valencia;Ath. Bilbao;2;0;La Liga;Fair;WSW;8 mph;44 °F;75 %;30.06 in
+05.03.2000;Mallorca;Real Zaragoza;1;1;La Liga;Fair;WSW;10 mph;49 °F;65 %;30.06 in
+05.03.2000;Celta Vigo;R. Santander;2;0;La Liga;Fair;WSW;6 mph;59 °F;76 %;30.06 in
+05.03.2000;R. Sociedad;Espanyol;1;0;La Liga;Fair;WSW;6 mph;42 °F;97 %;30.06 in
+05.03.2000;Rayo Vallecano;Alaves;0;1;La Liga;Fair;WSW;10 mph;51 °F;67 %;30.06 in
+05.03.2000;Atl. Madrid;Real Betis;0;0;La Liga;Fair;WSW;8 mph;46 °F;72 %;30.06 in
+05.03.2000;Sevilla;R. Valladolid;0;1;La Liga;Fair;WSW;5 mph;50 °F;73 %;30.06 in
+05.03.2000;Malaga;Deportivo;1;0;La Liga;Fair;WSW;5 mph;51 °F;81 %;30.06 in
+11.03.2000;Ath. Bilbao;Barcelona;0;4;La Liga;Fair;WSW;6 mph;46 °F;76 %;30.06 in
+11.03.2000;Real Betis;Rayo Vallecano;1;1;La Liga;Fair;WSW;7 mph;50 °F;75 %;30.06 in
+11.03.2000;Real Madrid;Sevilla;3;1;La Liga;Fair;WSW;8 mph;41 °F;69 %;30.06 in
+12.03.2000;R. Santander;Real Zaragoza;1;2;La Liga;Fair;WSW;8 mph;59 °F;71 %;30.06 in
+12.03.2000;Espanyol;Celta Vigo;3;0;La Liga;Fair;WSW;5 mph;49 °F;84 %;30.06 in
+12.03.2000;Alaves;R. Sociedad;2;1;La Liga;Fair;WSW;7 mph;50 °F;85 %;30.06 in
+12.03.2000;Numancia;Real Oviedo;1;1;La Liga;Fair;WSW;7 mph;48 °F;80 %;30.06 in
+12.03.2000;Deportivo;Valencia;2;0;La Liga;Fair;WSW;5 mph;56 °F;74 %;30.06 in
+12.03.2000;Malaga;Mallorca;0;0;La Liga;Fair;WSW;5 mph;42 °F;95 %;30.06 in
+12.03.2000;R. Valladolid;Atl. Madrid;1;0;La Liga;Fair;WSW;6 mph;44 °F;79 %;30.06 in
+18.03.2000;Atl. Madrid;Real Madrid;1;1;La Liga;Fair;WSW;6 mph;40 °F;73 %;30.06 in
+18.03.2000;Barcelona;Deportivo;2;1;La Liga;Fair;WSW;6 mph;52 °F;91 %;30.06 in
+18.03.2000;Valencia;Malaga;2;2;La Liga;Fair;WSW;6 mph;46 °F;98 %;30.06 in
+19.03.2000;Rayo Vallecano;R. Valladolid;4;1;La Liga;Fair;WSW;7 mph;41 °F;84 %;30.06 in
+19.03.2000;Mallorca;R. Santander;1;2;La Liga;Fair;WSW;5 mph;60 °F;73 %;30.06 in
+19.03.2000;Real Zaragoza;Espanyol;1;1;La Liga;Fair;WSW;5 mph;57 °F;92 %;30.06 in
+19.03.2000;R. Sociedad;Real Betis;1;0;La Liga;Fair;WSW;9 mph;50 °F;74 %;30.06 in
+19.03.2000;Sevilla;Numancia;4;0;La Liga;Fair;WSW;10 mph;60 °F;81 %;30.06 in
+19.03.2000;Real Oviedo;Ath. Bilbao;1;0;La Liga;Fair;WSW;7 mph;47 °F;73 %;30.06 in
+19.03.2000;Celta Vigo;Alaves;1;1;La Liga;Fair;WSW;6 mph;43 °F;93 %;30.06 in
+25.03.2000;Espanyol;R. Santander;1;0;La Liga;Fair;WSW;5 mph;50 °F;93 %;30.06 in
+25.03.2000;R. Valladolid;R. Sociedad;2;1;La Liga;Fair;WSW;5 mph;42 °F;84 %;30.06 in
+25.03.2000;Ath. Bilbao;Sevilla;1;1;La Liga;Fair;WSW;5 mph;44 °F;86 %;30.06 in
+25.03.2000;Numancia;Atl. Madrid;3;0;La Liga;Fair;WSW;9 mph;46 °F;76 %;30.06 in
+25.03.2000;Malaga;Barcelona;1;2;La Liga;Fair;WSW;6 mph;50 °F;96 %;30.06 in
+25.03.2000;Alaves;Real Zaragoza;0;2;La Liga;Fair;WSW;5 mph;53 °F;65 %;30.06 in
+25.03.2000;Real Madrid;Rayo Vallecano;0;0;La Liga;Fair;WSW;10 mph;44 °F;98 %;30.06 in
+25.03.2000;Valencia;Mallorca;1;0;La Liga;Fair;WSW;7 mph;46 °F;93 %;30.06 in
+26.03.2000;Real Betis;Celta Vigo;0;0;La Liga;Fair;WSW;5 mph;52 °F;93 %;30.06 in
+26.03.2000;Deportivo;Real Oviedo;3;1;La Liga;Fair;WSW;8 mph;53 °F;89 %;30.06 in
+01.04.2000;R. Sociedad;Real Madrid;1;1;La Liga;Fair;WSW;10 mph;60 °F;88 %;30.06 in
+02.04.2000;Mallorca;Espanyol;1;3;La Liga;Fair;WSW;8 mph;44 °F;96 %;30.06 in
+02.04.2000;R. Santander;Alaves;0;0;La Liga;Fair;WSW;9 mph;59 °F;76 %;30.06 in
+02.04.2000;Real Zaragoza;Real Betis;1;0;La Liga;Fair;WSW;9 mph;47 °F;93 %;30.06 in
+02.04.2000;Celta Vigo;R. Valladolid;1;1;La Liga;Fair;WSW;7 mph;45 °F;95 %;30.06 in
+02.04.2000;Rayo Vallecano;Numancia;0;0;La Liga;Fair;WSW;9 mph;42 °F;97 %;30.06 in
+02.04.2000;Sevilla;Deportivo;1;3;La Liga;Fair;WSW;10 mph;45 °F;80 %;30.06 in
+02.04.2000;Real Oviedo;Malaga;2;2;La Liga;Fair;WSW;8 mph;60 °F;96 %;30.06 in
+02.04.2000;Barcelona;Valencia;3;0;La Liga;Fair;WSW;5 mph;58 °F;97 %;30.06 in
+02.04.2000;Atl. Madrid;Ath. Bilbao;1;2;La Liga;Fair;WSW;10 mph;42 °F;90 %;30.06 in
+08.04.2000;Deportivo;Atl. Madrid;4;1;La Liga;Fair;WSW;10 mph;51 °F;66 %;30.06 in
+09.04.2000;Alaves;Espanyol;0;0;La Liga;Fair;WSW;7 mph;43 °F;70 %;30.06 in
+09.04.2000;R. Valladolid;Real Zaragoza;1;1;La Liga;Fair;WSW;6 mph;41 °F;81 %;30.06 in
+09.04.2000;Numancia;R. Sociedad;1;2;La Liga;Fair;WSW;7 mph;43 °F;87 %;30.06 in
+09.04.2000;Ath. Bilbao;Rayo Vallecano;1;2;La Liga;Fair;WSW;5 mph;50 °F;69 %;30.06 in
+09.04.2000;Malaga;Sevilla;3;0;La Liga;Fair;WSW;9 mph;60 °F;83 %;30.06 in
+09.04.2000;Valencia;Real Oviedo;6;2;La Liga;Fair;WSW;8 mph;48 °F;93 %;30.06 in
+09.04.2000;Barcelona;Mallorca;0;3;La Liga;Fair;WSW;9 mph;40 °F;88 %;30.06 in
+09.04.2000;Real Betis;R. Santander;2;2;La Liga;Fair;WSW;9 mph;57 °F;76 %;30.06 in
+09.04.2000;Real Madrid;Celta Vigo;1;0;La Liga;Fair;WSW;6 mph;54 °F;69 %;30.06 in
+15.04.2000;Real Oviedo;Barcelona;3;0;La Liga;Fair;WSW;10 mph;45 °F;74 %;30.06 in
+15.04.2000;Real Zaragoza;Real Madrid;0;1;La Liga;Fair;WSW;10 mph;54 °F;91 %;30.06 in
+15.04.2000;Sevilla;Valencia;1;2;La Liga;Fair;WSW;10 mph;56 °F;95 %;30.06 in
+16.04.2000;Mallorca;Alaves;2;0;La Liga;Fair;WSW;8 mph;48 °F;67 %;30.06 in
+16.04.2000;Espanyol;Real Betis;3;0;La Liga;Fair;WSW;6 mph;43 °F;84 %;30.06 in
+16.04.2000;R. Santander;R. Valladolid;1;1;La Liga;Fair;WSW;9 mph;46 °F;91 %;30.06 in
+16.04.2000;Celta Vigo;Numancia;0;0;La Liga;Fair;WSW;9 mph;41 °F;86 %;30.06 in
+16.04.2000;R. Sociedad;Ath. Bilbao;4;1;La Liga;Fair;WSW;6 mph;41 °F;72 %;30.06 in
+16.04.2000;Atl. Madrid;Malaga;2;2;La Liga;Fair;WSW;7 mph;52 °F;73 %;30.06 in
+16.04.2000;Rayo Vallecano;Deportivo;2;0;La Liga;Fair;WSW;8 mph;48 °F;93 %;30.06 in
+22.04.2000;R. Valladolid;Espanyol;1;0;La Liga;Fair;WSW;9 mph;46 °F;70 %;30.06 in
+22.04.2000;Malaga;Rayo Vallecano;2;0;La Liga;Fair;WSW;7 mph;48 °F;82 %;30.06 in
+22.04.2000;Numancia;Real Zaragoza;1;2;La Liga;Fair;WSW;10 mph;59 °F;66 %;30.06 in
+22.04.2000;Real Madrid;R. Santander;2;4;La Liga;Fair;WSW;10 mph;53 °F;78 %;30.06 in
+22.04.2000;Ath. Bilbao;Celta Vigo;1;0;La Liga;Fair;WSW;8 mph;45 °F;87 %;30.06 in
+22.04.2000;Valencia;Atl. Madrid;2;0;La Liga;Fair;WSW;7 mph;42 °F;77 %;30.06 in
+22.04.2000;Barcelona;Sevilla;1;0;La Liga;Fair;WSW;10 mph;46 °F;93 %;30.06 in
+23.04.2000;Real Betis;Alaves;0;1;La Liga;Fair;WSW;8 mph;49 °F;67 %;30.06 in
+23.04.2000;Deportivo;R. Sociedad;2;0;La Liga;Fair;WSW;8 mph;53 °F;88 %;30.06 in
+23.04.2000;Real Oviedo;Mallorca;0;0;La Liga;Fair;WSW;5 mph;57 °F;88 %;30.06 in
+29.04.2000;Espanyol;Real Madrid;0;2;La Liga;Fair;WSW;10 mph;47 °F;84 %;30.06 in
+29.04.2000;Rayo Vallecano;Valencia;1;3;La Liga;Fair;WSW;10 mph;49 °F;92 %;30.06 in
+29.04.2000;Atl. Madrid;Barcelona;0;3;La Liga;Fair;WSW;10 mph;49 °F;71 %;30.06 in
+30.04.2000;Mallorca;Real Betis;4;0;La Liga;Fair;WSW;8 mph;40 °F;74 %;30.06 in
+30.04.2000;Alaves;R. Valladolid;1;0;La Liga;Fair;WSW;9 mph;47 °F;71 %;30.06 in
+30.04.2000;R. Santander;Numancia;1;1;La Liga;Fair;WSW;9 mph;44 °F;75 %;30.06 in
+30.04.2000;Real Zaragoza;Ath. Bilbao;0;0;La Liga;Fair;WSW;8 mph;50 °F;77 %;30.06 in
+30.04.2000;Celta Vigo;Deportivo;2;1;La Liga;Fair;WSW;8 mph;56 °F;74 %;30.06 in
+30.04.2000;R. Sociedad;Malaga;2;2;La Liga;Fair;WSW;5 mph;48 °F;86 %;30.06 in
+30.04.2000;Sevilla;Real Oviedo;2;3;La Liga;Fair;WSW;7 mph;40 °F;97 %;30.06 in
+06.05.2000;Numancia;Espanyol;2;0;La Liga;Mostly Cloudy;SSE;10 mph;61 °F;63 %;27.82 in
+06.05.2000;Barcelona;Rayo Vallecano;0;2;La Liga;Fair;WSW;7 mph;54 °F;97 %;30.06 in
+06.05.2000;Real Madrid;Alaves;0;1;La Liga;Mostly Cloudy;SSE;10 mph;61 °F;63 %;27.82 in
+06.05.2000;Valencia;R. Sociedad;4;0;La Liga;Fair;WSW;7 mph;48 °F;85 %;30.06 in
+07.05.2000;R. Valladolid;Real Betis;0;3;La Liga;Fair;WSW;9 mph;59 °F;98 %;30.06 in
+07.05.2000;Ath. Bilbao;R. Santander;2;2;La Liga;Fair;WSW;7 mph;47 °F;98 %;30.06 in
+07.05.2000;Malaga;Celta Vigo;0;1;La Liga;Fair;WSW;8 mph;59 °F;83 %;30.06 in
+07.05.2000;Real Oviedo;Atl. Madrid;2;2;La Liga;Fair;WSW;9 mph;46 °F;84 %;30.06 in
+07.05.2000;Sevilla;Mallorca;0;4;La Liga;Fair;WSW;9 mph;40 °F;80 %;30.06 in
+07.05.2000;Deportivo;Real Zaragoza;2;2;La Liga;Fair;WSW;10 mph;60 °F;89 %;30.06 in
+13.05.2000;Atl. Madrid;Sevilla;1;1;La Liga;Fair;CALM;0 mph;0 °F;0 %;28.13 in
+14.05.2000;R. Valladolid;Mallorca;2;1;La Liga;Fair;WSW;9 mph;41 °F;92 %;30.06 in
+14.05.2000;Real Betis;Real Madrid;0;2;La Liga;Fair;WSW;7 mph;42 °F;85 %;30.06 in
+14.05.2000;Alaves;Numancia;2;2;La Liga;Fair;WSW;7 mph;52 °F;93 %;30.06 in
+14.05.2000;Espanyol;Ath. Bilbao;0;0;La Liga;Fair;WSW;7 mph;60 °F;83 %;30.06 in
+14.05.2000;R. Santander;Deportivo;0;0;La Liga;Fair;WSW;5 mph;47 °F;74 %;30.06 in
+14.05.2000;Real Zaragoza;Malaga;3;2;La Liga;Fair;WSW;7 mph;44 °F;90 %;30.06 in
+14.05.2000;Celta Vigo;Valencia;0;0;La Liga;Fair;WSW;10 mph;58 °F;76 %;30.06 in
+14.05.2000;R. Sociedad;Barcelona;0;0;La Liga;Fair;WSW;7 mph;59 °F;73 %;30.06 in
+14.05.2000;Rayo Vallecano;Real Oviedo;1;2;La Liga;Fair;WSW;8 mph;41 °F;98 %;30.06 in
+19.05.2000;Real Madrid;R. Valladolid;0;1;La Liga;Fair;CALM;0 mph;54 °F;94 %;27.96 in
+19.05.2000;Ath. Bilbao;Alaves;2;1;La Liga;Mostly Cloudy;NNW;3 mph;55 °F;88 %;30.00 in
+19.05.2000;Deportivo;Espanyol;2;0;La Liga;Fair;CALM;0 mph;54 °F;94 %;27.96 in
+19.05.2000;Valencia;Real Zaragoza;2;1;La Liga;Fair;E;3 mph;68 °F;78 %;29.72 in
+19.05.2000;Barcelona;Celta Vigo;2;2;La Liga;Partly Cloudy;E;2 mph;63 °F;88 %;29.95 in
+19.05.2000;Sevilla;Rayo Vallecano;2;3;La Liga;Fair;CALM;0 mph;54 °F;94 %;27.96 in
+19.05.2000;Mallorca;Atl. Madrid;1;2;La Liga;Fair;WSW;8 mph;49 °F;72 %;30.06 in
+20.05.2000;Malaga;R. Santander;0;0;La Liga;Fair;CALM;0 mph;0 °F;0 %;27.91 in
+20.05.2000;Real Oviedo;R. Sociedad;0;1;La Liga;Fair;CALM;0 mph;0 °F;0 %;27.91 in
+20.05.2000;Numancia;Real Betis;1;2;La Liga;Fair;CALM;0 mph;0 °F;0 %;27.91 in

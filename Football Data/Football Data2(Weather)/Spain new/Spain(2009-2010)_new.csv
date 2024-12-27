@@ -1,0 +1,381 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+15.05.2010;Ath. Bilbao;Deportivo;2;0;La Liga;Mostly Cloudy;NW;17 mph;50 °F;82 %;29.88 in
+15.05.2010;Atl. Madrid;Getafe;0;3;La Liga;Mostly Cloudy;WSW;3 mph;57 °F;88 %;27.96 in
+15.05.2010;Real Zaragoza;Villarreal;3;3;La Liga;Mostly Cloudy;WSW;3 mph;57 °F;88 %;27.96 in
+15.05.2010;Almeria;Sevilla;2;3;La Liga;Mostly Cloudy;NE;3 mph;52 °F;94 %;29.49 in
+15.05.2010;Mallorca;Espanyol;2;0;La Liga;N/A;SSW;3 mph;50 °F;84 %;28.15 in
+16.05.2010;R. Santander;Sporting Gijon;2;0;La Liga;Fair;N;7 mph;59 °F;59 %;28.13 in
+16.05.2010;Barcelona;R. Valladolid;4;0;La Liga;Fair;N;2 mph;55 °F;77 %;29.98 in
+16.05.2010;Valencia;Tenerife;1;0;La Liga;Fair;NNW;14 mph;64 °F;34 %;29.84 in
+16.05.2010;Osasuna;Xerez;1;1;La Liga;Fair;W;2 mph;46 °F;93 %;29.64 in
+16.05.2010;Malaga;Real Madrid;1;1;La Liga;Fair;N;7 mph;59 °F;59 %;28.13 in
+08.05.2010;Getafe;Malaga;2;1;La Liga;Partly Cloudy;SSE;6 mph;57 °F;94 %;29.52 in
+08.05.2010;Sporting Gijon;Atl. Madrid;1;1;La Liga;Fair;W;5 mph;54 °F;58 %;27.71 in
+08.05.2010;R. Valladolid;R. Santander;2;1;La Liga;Fair;W;5 mph;54 °F;58 %;27.71 in
+08.05.2010;Sevilla;Barcelona;2;3;La Liga;Fair;W;5 mph;54 °F;58 %;27.71 in
+08.05.2010;Tenerife;Almeria;2;2;La Liga;Fair;W;5 mph;54 °F;58 %;27.71 in
+08.05.2010;Villarreal;Valencia;2;0;La Liga;Mostly Cloudy;E;2 mph;50 °F;94 %;29.62 in
+08.05.2010;Xerez;Real Zaragoza;3;2;La Liga;Fair;W;5 mph;54 °F;58 %;27.71 in
+08.05.2010;Espanyol;Osasuna;2;1;La Liga;Fair;W;5 mph;54 °F;58 %;27.71 in
+08.05.2010;Deportivo;Mallorca;1;0;La Liga;Fair;W;5 mph;54 °F;58 %;27.71 in
+08.05.2010;Real Madrid;Ath. Bilbao;5;1;La Liga;Fair;W;5 mph;54 °F;58 %;27.71 in
+04.05.2010;Getafe;Sporting Gijon;1;1;La Liga;Partly Cloudy;W;6 mph;54 °F;72 %;29.55 in
+04.05.2010;Barcelona;Tenerife;4;1;La Liga;Mostly Cloudy;N;12 mph;50 °F;87 %;29.60 in
+04.05.2010;Almeria;Villarreal;4;2;La Liga;Cloudy;N;14 mph;48 °F;87 %;29.29 in
+04.05.2010;Valencia;Xerez;3;1;La Liga;Partly Cloudy;W;6 mph;54 °F;72 %;29.55 in
+05.05.2010;Atl. Madrid;R. Valladolid;3;1;La Liga;Fair;N;15 mph;45 °F;46 %;27.93 in
+05.05.2010;R. Santander;Sevilla;1;5;La Liga;Fair;N;15 mph;45 °F;46 %;27.93 in
+05.05.2010;Real Zaragoza;Espanyol;1;0;La Liga;Fair;N;15 mph;45 °F;46 %;27.93 in
+05.05.2010;Osasuna;Deportivo;3;1;La Liga;Mostly Cloudy;VAR;1 mph;45 °F;93 %;29.41 in
+05.05.2010;Ath. Bilbao;Malaga;1;1;La Liga;Mostly Cloudy;NNW;10 mph;48 °F;76 %;29.91 in
+05.05.2010;Mallorca;Real Madrid;1;4;La Liga;N/A;W;1 mph;40 °F;61 %;28.04 in
+01.05.2010;Malaga;Sporting Gijon;1;1;La Liga;Fair;N;3 mph;61 °F;59 %;27.85 in
+01.05.2010;R. Valladolid;Getafe;0;0;La Liga;Fair;N;3 mph;61 °F;59 %;27.85 in
+01.05.2010;Tenerife;R. Santander;2;1;La Liga;Fair;N;3 mph;61 °F;59 %;27.85 in
+01.05.2010;Xerez;Almeria;2;1;La Liga;Fair;N;3 mph;61 °F;59 %;27.85 in
+01.05.2010;Deportivo;Real Zaragoza;0;1;La Liga;Fair;N;3 mph;61 °F;59 %;27.85 in
+01.05.2010;Espanyol;Valencia;0;2;La Liga;Fair;N;3 mph;61 °F;59 %;27.85 in
+01.05.2010;Villarreal;Barcelona;1;4;La Liga;Mostly Cloudy;WNW;3 mph;55 °F;88 %;29.85 in
+02.05.2010;Sevilla;Atl. Madrid;3;1;La Liga;Fair;VAR;2 mph;55 °F;72 %;27.93 in
+02.05.2010;Real Madrid;Osasuna;3;2;La Liga;Fair;VAR;2 mph;55 °F;72 %;27.93 in
+02.05.2010;Ath. Bilbao;Mallorca;1;3;La Liga;Partly Cloudy;CALM;0 mph;52 °F;94 %;29.88 in
+24.04.2010;Barcelona;Xerez;3;1;La Liga;Fair;W;5 mph;61 °F;68 %;29.92 in
+24.04.2010;Real Zaragoza;Real Madrid;1;2;La Liga;Fair;SE;3 mph;57 °F;82 %;27.96 in
+24.04.2010;Valencia;Deportivo;1;0;La Liga;Fair;VAR;1 mph;61 °F;94 %;29.75 in
+25.04.2010;Sporting Gijon;R. Valladolid;0;2;La Liga;Fair;VAR;2 mph;63 °F;63 %;28.10 in
+25.04.2010;R. Santander;Villarreal;1;2;La Liga;Fair;VAR;2 mph;63 °F;63 %;28.10 in
+25.04.2010;Almeria;Espanyol;0;1;La Liga;Partly Cloudy;CALM;0 mph;55 °F;82 %;29.79 in
+25.04.2010;Mallorca;Malaga;1;1;La Liga;N/A;SW;3 mph;57 °F;78 %;28.14 in
+25.04.2010;Atl. Madrid;Tenerife;3;1;La Liga;Fair;VAR;2 mph;63 °F;63 %;28.10 in
+25.04.2010;Getafe;Sevilla;4;3;La Liga;Fair;W;2 mph;63 °F;88 %;29.90 in
+26.04.2010;Osasuna;Ath. Bilbao;0;0;La Liga;Fair;VAR;2 mph;61 °F;77 %;29.90 in
+17.04.2010;Sevilla;Sporting Gijon;3;0;La Liga;Mostly Cloudy;SE;2 mph;54 °F;82 %;27.93 in
+17.04.2010;Espanyol;Barcelona;0;0;La Liga;Mostly Cloudy;SE;2 mph;54 °F;82 %;27.93 in
+17.04.2010;Villarreal;Atl. Madrid;2;1;La Liga;Fair;VAR;2 mph;45 °F;76 %;29.82 in
+18.04.2010;Malaga;R. Valladolid;0;0;La Liga;Partly Cloudy;E;3 mph;52 °F;94 %;27.91 in
+18.04.2010;Tenerife;Getafe;3;2;La Liga;Partly Cloudy;E;3 mph;52 °F;94 %;27.91 in
+18.04.2010;Xerez;R. Santander;2;2;La Liga;Partly Cloudy;E;3 mph;52 °F;94 %;27.91 in
+18.04.2010;Deportivo;Almeria;0;0;La Liga;Partly Cloudy;E;3 mph;52 °F;94 %;27.91 in
+18.04.2010;Ath. Bilbao;Real Zaragoza;0;0;La Liga;Fair;E;6 mph;55 °F;63 %;29.73 in
+18.04.2010;Real Madrid;Valencia;2;0;La Liga;Partly Cloudy;E;3 mph;52 °F;94 %;27.91 in
+19.04.2010;Mallorca;Osasuna;2;0;La Liga;N/A;SW;2 mph;45 °F;88 %;28.15 in
+13.04.2010;R. Valladolid;Sevilla;2;1;La Liga;Mostly Cloudy;ENE;8 mph;54 °F;62 %;27.77 in
+13.04.2010;Sporting Gijon;Tenerife;0;2;La Liga;Mostly Cloudy;ENE;8 mph;54 °F;62 %;27.77 in
+13.04.2010;Getafe;Villarreal;3;0;La Liga;Mostly Cloudy;ENE;18 mph;55 °F;88 %;29.58 in
+14.04.2010;Atl. Madrid;Xerez;1;2;La Liga;Mostly Cloudy;ENE;3 mph;48 °F;100 %;27.82 in
+14.04.2010;R. Santander;Espanyol;3;1;La Liga;Mostly Cloudy;ENE;3 mph;48 °F;100 %;27.82 in
+14.04.2010;Real Zaragoza;Mallorca;1;1;La Liga;Mostly Cloudy;ENE;3 mph;48 °F;100 %;27.82 in
+14.04.2010;Osasuna;Malaga;2;2;La Liga;Partly Cloudy;VAR;1 mph;48 °F;82 %;29.61 in
+14.04.2010;Barcelona;Deportivo;3;0;La Liga;Fair;NNW;5 mph;52 °F;76 %;29.95 in
+15.04.2010;Almeria;Real Madrid;1;2;La Liga;Fair;CALM;0 mph;46 °F;87 %;29.55 in
+15.04.2010;Valencia;Ath. Bilbao;2;0;La Liga;Mostly Cloudy;NNE;3 mph;55 °F;77 %;29.69 in
+10.04.2010;Malaga;Sevilla;1;2;La Liga;Fair;SE;3 mph;55 °F;51 %;28.21 in
+10.04.2010;Tenerife;R. Valladolid;0;0;La Liga;Fair;SE;3 mph;55 °F;51 %;28.21 in
+10.04.2010;Villarreal;Sporting Gijon;1;0;La Liga;Fair;CALM;0 mph;48 °F;82 %;30.18 in
+10.04.2010;Xerez;Getafe;0;1;La Liga;Fair;SE;3 mph;55 °F;51 %;28.21 in
+10.04.2010;Real Madrid;Barcelona;0;2;La Liga;Fair;SE;3 mph;55 °F;51 %;28.21 in
+11.04.2010;Deportivo;R. Santander;1;1;La Liga;Fair;ESE;3 mph;57 °F;51 %;28.04 in
+11.04.2010;Ath. Bilbao;Almeria;4;1;La Liga;Fair;E;5 mph;45 °F;87 %;29.94 in
+11.04.2010;Osasuna;Real Zaragoza;2;0;La Liga;Partly Cloudy;CALM;0 mph;54 °F;72 %;29.70 in
+11.04.2010;Espanyol;Atl. Madrid;3;0;La Liga;Fair;ESE;3 mph;57 °F;51 %;28.04 in
+11.04.2010;Mallorca;Valencia;3;2;La Liga;N/A;SSW;3 mph;47 °F;68 %;28.03 in
+03.04.2010;Real Zaragoza;Malaga;2;0;La Liga;Fair;S;7 mph;50 °F;62 %;28.02 in
+03.04.2010;Barcelona;Ath. Bilbao;4;1;La Liga;Fair;SW;12 mph;55 °F;77 %;30.01 in
+03.04.2010;Sevilla;Tenerife;3;0;La Liga;Fair;S;7 mph;50 °F;62 %;28.02 in
+04.04.2010;R. Valladolid;Villarreal;0;2;La Liga;Mostly Cloudy;SW;5 mph;48 °F;76 %;27.99 in
+04.04.2010;Sporting Gijon;Xerez;2;2;La Liga;Mostly Cloudy;SW;5 mph;48 °F;76 %;27.99 in
+04.04.2010;Getafe;Espanyol;1;1;La Liga;Fair;ESE;5 mph;57 °F;77 %;29.69 in
+04.04.2010;Almeria;Mallorca;1;1;La Liga;Fair;SSW;1 mph;52 °F;94 %;29.58 in
+04.04.2010;Valencia;Osasuna;3;0;La Liga;Fair;ESE;5 mph;57 °F;77 %;29.69 in
+04.04.2010;R. Santander;Real Madrid;0;2;La Liga;Mostly Cloudy;SW;5 mph;48 °F;76 %;27.99 in
+04.04.2010;Atl. Madrid;Deportivo;3;0;La Liga;Mostly Cloudy;SW;5 mph;48 °F;76 %;27.99 in
+27.03.2010;Malaga;Tenerife;1;1;La Liga;Fair;SW;13 mph;48 °F;87 %;28.13 in
+27.03.2010;Mallorca;Barcelona;0;1;La Liga;N/A;WSW;5 mph;41 °F;84 %;28.34 in
+27.03.2010;Real Zaragoza;Valencia;3;0;La Liga;Fair;SW;13 mph;48 °F;87 %;28.13 in
+28.03.2010;Xerez;R. Valladolid;3;0;La Liga;Fair;S;2 mph;50 °F;71 %;28.21 in
+28.03.2010;Espanyol;Sporting Gijon;0;0;La Liga;Fair;S;2 mph;50 °F;71 %;28.21 in
+28.03.2010;Deportivo;Getafe;1;3;La Liga;Fair;S;2 mph;50 °F;71 %;28.21 in
+28.03.2010;Osasuna;Almeria;1;0;La Liga;Partly Cloudy;CALM;0 mph;50 °F;76 %;29.84 in
+28.03.2010;Villarreal;Sevilla;3;0;La Liga;Partly Cloudy;E;3 mph;46 °F;76 %;30.06 in
+28.03.2010;Real Madrid;Atl. Madrid;3;2;La Liga;Fair;S;2 mph;50 °F;71 %;28.21 in
+29.03.2010;Ath. Bilbao;R. Santander;4;3;La Liga;Fair;ESE;9 mph;55 °F;63 %;29.65 in
+23.03.2010;Sporting Gijon;Deportivo;2;1;La Liga;Fair;N;3 mph;50 °F;82 %;28.13 in
+23.03.2010;Sevilla;Xerez;1;1;La Liga;Fair;N;3 mph;50 °F;82 %;28.13 in
+24.03.2010;Tenerife;Villarreal;2;2;La Liga;Fair;SSE;6 mph;55 °F;77 %;27.88 in
+24.03.2010;R. Valladolid;Espanyol;0;0;La Liga;Fair;SSE;6 mph;55 °F;77 %;27.88 in
+24.03.2010;R. Santander;Mallorca;0;0;La Liga;Fair;SSE;6 mph;55 °F;77 %;27.88 in
+24.03.2010;Barcelona;Osasuna;2;0;La Liga;Mostly Cloudy;SSW;3 mph;55 °F;88 %;29.98 in
+24.03.2010;Almeria;Real Zaragoza;1;0;La Liga;Partly Cloudy;VAR;1 mph;52 °F;94 %;29.67 in
+24.03.2010;Valencia;Malaga;1;0;La Liga;Mostly Cloudy;NNW;3 mph;55 °F;88 %;29.78 in
+25.03.2010;Getafe;Real Madrid;2;4;La Liga;Partly Cloudy;VAR;2 mph;57 °F;88 %;29.67 in
+25.03.2010;Atl. Madrid;Ath. Bilbao;2;0;La Liga;Mostly Cloudy;S;6 mph;52 °F;88 %;27.77 in
+20.03.2010;Xerez;Tenerife;2;1;La Liga;Fair;NNW;6 mph;54 °F;94 %;28.18 in
+20.03.2010;Deportivo;R. Valladolid;0;2;La Liga;Fair;NNW;6 mph;54 °F;94 %;28.18 in
+20.03.2010;Ath. Bilbao;Getafe;2;2;La Liga;Fair;SSW;20 mph;72 °F;38 %;29.85 in
+20.03.2010;Real Madrid;Sporting Gijon;3;1;La Liga;Fair;NNW;6 mph;54 °F;94 %;28.18 in
+20.03.2010;Espanyol;Sevilla;2;0;La Liga;Fair;NNW;6 mph;54 °F;94 %;28.18 in
+21.03.2010;Malaga;Villarreal;2;0;La Liga;Fair;S;8 mph;55 °F;77 %;28.15 in
+21.03.2010;Mallorca;Atl. Madrid;4;1;La Liga;N/A;ESE;9 mph;51 °F;93 %;28.24 in
+21.03.2010;Osasuna;R. Santander;1;3;La Liga;Mostly Cloudy;VAR;1 mph;52 °F;94 %;29.79 in
+21.03.2010;Valencia;Almeria;2;0;La Liga;Fair;SW;5 mph;61 °F;77 %;29.96 in
+21.03.2010;Real Zaragoza;Barcelona;2;4;La Liga;Fair;S;8 mph;55 °F;77 %;28.15 in
+13.03.2010;Getafe;Mallorca;3;0;La Liga;Partly Cloudy;NW;9 mph;45 °F;57 %;29.96 in
+13.03.2010;Sporting Gijon;Ath. Bilbao;0;0;La Liga;Fair;NNE;6 mph;37 °F;56 %;28.13 in
+13.03.2010;Sevilla;Deportivo;1;1;La Liga;Fair;NNE;6 mph;37 °F;56 %;28.13 in
+14.03.2010;Villarreal;Xerez;2;0;La Liga;Mostly Cloudy;CALM;0 mph;39 °F;93 %;30.29 in
+14.03.2010;Tenerife;Espanyol;4;1;La Liga;Fair;VAR;2 mph;41 °F;61 %;28.21 in
+14.03.2010;R. Santander;Real Zaragoza;0;0;La Liga;Fair;VAR;2 mph;41 °F;61 %;28.21 in
+14.03.2010;Almeria;Malaga;1;0;La Liga;Fair;CALM;0 mph;36 °F;87 %;29.90 in
+14.03.2010;Barcelona;Valencia;3;0;La Liga;Fair;NNW;10 mph;43 °F;70 %;30.22 in
+14.03.2010;R. Valladolid;Real Madrid;1;4;La Liga;Fair;VAR;2 mph;41 °F;61 %;28.21 in
+15.03.2010;Atl. Madrid;Osasuna;1;0;La Liga;Fair;E;3 mph;41 °F;57 %;28.26 in
+06.03.2010;Deportivo;Tenerife;3;1;La Liga;Mostly Cloudy;NE;6 mph;39 °F;93 %;27.99 in
+06.03.2010;Almeria;Barcelona;2;2;La Liga;Fair;N;6 mph;43 °F;46 %;29.82 in
+06.03.2010;Real Madrid;Sevilla;3;2;La Liga;Mostly Cloudy;NE;6 mph;39 °F;93 %;27.99 in
+07.03.2010;Malaga;Xerez;2;4;La Liga;Mostly Cloudy;N;6 mph;41 °F;93 %;27.91 in
+07.03.2010;Espanyol;Villarreal;0;0;La Liga;Mostly Cloudy;N;6 mph;41 °F;93 %;27.91 in
+07.03.2010;Mallorca;Sporting Gijon;3;0;La Liga;N/A;;0 mph;43 °F;79 %;27.98 in
+07.03.2010;Osasuna;Getafe;0;0;La Liga;Fair;CALM;0 mph;34 °F;70 %;29.61 in
+07.03.2010;Ath. Bilbao;R. Valladolid;2;0;La Liga;Fair;CALM;0 mph;37 °F;75 %;29.82 in
+07.03.2010;Real Zaragoza;Atl. Madrid;1;1;La Liga;Mostly Cloudy;N;6 mph;41 °F;93 %;27.91 in
+08.03.2010;Valencia;R. Santander;0;0;La Liga;Mostly Cloudy;ENE;8 mph;48 °F;100 %;29.49 in
+27.02.2010;Getafe;Real Zaragoza;0;2;La Liga;Fair;W;3 mph;55 °F;67 %;29.67 in
+27.02.2010;Tenerife;Real Madrid;1;5;La Liga;Fair;CALM;0 mph;45 °F;93 %;27.85 in
+27.02.2010;Barcelona;Malaga;2;1;La Liga;Fair;NNW;8 mph;50 °F;71 %;29.89 in
+28.02.2010;Xerez;Espanyol;1;1;La Liga;Partly Cloudy / Windy;WSW;29 mph;52 °F;76 %;27.60 in
+28.02.2010;Villarreal;Deportivo;1;0;La Liga;Fair / Windy;WSW;31 mph;63 °F;37 %;29.09 in
+28.02.2010;R. Valladolid;Mallorca;1;2;La Liga;Partly Cloudy / Windy;WSW;29 mph;52 °F;76 %;27.60 in
+28.02.2010;Sporting Gijon;Osasuna;3;2;La Liga;Partly Cloudy / Windy;WSW;29 mph;52 °F;76 %;27.60 in
+28.02.2010;R. Santander;Almeria;0;2;La Liga;Partly Cloudy / Windy;WSW;29 mph;52 °F;76 %;27.60 in
+28.02.2010;Sevilla;Ath. Bilbao;0;0;La Liga;Partly Cloudy / Windy;WSW;29 mph;52 °F;76 %;27.60 in
+28.02.2010;Atl. Madrid;Valencia;4;1;La Liga;Partly Cloudy / Windy;WSW;29 mph;52 °F;76 %;27.60 in
+20.02.2010;Deportivo;Xerez;2;1;La Liga;Fair;W;10 mph;39 °F;70 %;27.77 in
+20.02.2010;Barcelona;R. Santander;4;0;La Liga;Fair;NE;12 mph;46 °F;81 %;29.60 in
+20.02.2010;Mallorca;Sevilla;1;3;La Liga;N/A;WSW;9 mph;39 °F;82 %;28.01 in
+21.02.2010;Malaga;Espanyol;2;1;La Liga;Fair;SSE;2 mph;37 °F;81 %;27.80 in
+21.02.2010;Ath. Bilbao;Tenerife;4;1;La Liga;Fair;ESE;12 mph;43 °F;57 %;29.41 in
+21.02.2010;Osasuna;R. Valladolid;1;1;La Liga;Fair;VAR;1 mph;37 °F;87 %;29.46 in
+21.02.2010;Real Zaragoza;Sporting Gijon;1;3;La Liga;Fair;SSE;2 mph;37 °F;81 %;27.80 in
+21.02.2010;Almeria;Atl. Madrid;1;0;La Liga;Fair;VAR;1 mph;37 °F;87 %;29.46 in
+21.02.2010;Real Madrid;Villarreal;6;2;La Liga;Fair;SSE;2 mph;37 °F;81 %;27.80 in
+22.02.2010;Valencia;Getafe;2;1;La Liga;Fair;SW;14 mph;54 °F;77 %;29.37 in
+13.02.2010;Sporting Gijon;Valencia;1;1;La Liga;Fair;N;5 mph;34 °F;65 %;27.80 in
+13.02.2010;Xerez;Real Madrid;0;3;La Liga;Fair;N;5 mph;34 °F;65 %;27.80 in
+13.02.2010;Villarreal;Ath. Bilbao;2;1;La Liga;Mostly Cloudy;ESE;1 mph;34 °F;81 %;29.85 in
+14.02.2010;Espanyol;Deportivo;2;0;La Liga;Fair;N;6 mph;30 °F;69 %;27.82 in
+14.02.2010;R. Valladolid;Real Zaragoza;1;1;La Liga;Fair;N;6 mph;30 °F;69 %;27.82 in
+14.02.2010;Getafe;Almeria;2;2;La Liga;Partly Cloudy;NW;5 mph;39 °F;93 %;29.64 in
+14.02.2010;R. Santander;Malaga;0;3;La Liga;Fair;N;6 mph;30 °F;69 %;27.82 in
+14.02.2010;Sevilla;Osasuna;1;0;La Liga;Fair;N;6 mph;30 °F;69 %;27.82 in
+14.02.2010;Atl. Madrid;Barcelona;2;1;La Liga;Fair;N;6 mph;30 °F;69 %;27.82 in
+15.02.2010;Tenerife;Mallorca;1;0;La Liga;Fair;N;3 mph;30 °F;75 %;27.66 in
+06.02.2010;Valencia;R. Valladolid;2;0;La Liga;Fair;WSW;15 mph;54 °F;62 %;29.93 in
+06.02.2010;Barcelona;Getafe;2;1;La Liga;Fair;VAR;1 mph;48 °F;66 %;30.01 in
+06.02.2010;Real Madrid;Espanyol;3;0;La Liga;Fair;SSW;7 mph;48 °F;76 %;28.15 in
+07.02.2010;Malaga;Deportivo;0;0;La Liga;Fair;ESE;3 mph;43 °F;81 %;28.10 in
+07.02.2010;Ath. Bilbao;Xerez;3;2;La Liga;Mostly Cloudy;CALM;0 mph;48 °F;93 %;30.00 in
+07.02.2010;Mallorca;Villarreal;1;0;La Liga;N/A;;0 mph;38 °F;89 %;28.23 in
+07.02.2010;Osasuna;Tenerife;1;0;La Liga;Fair;NE;6 mph;39 °F;87 %;29.58 in
+07.02.2010;Almeria;Sporting Gijon;3;1;La Liga;Fair;NE;6 mph;39 °F;87 %;29.58 in
+07.02.2010;Real Zaragoza;Sevilla;2;1;La Liga;Fair;ESE;3 mph;43 °F;81 %;28.10 in
+07.02.2010;R. Santander;Atl. Madrid;1;1;La Liga;Fair;ESE;3 mph;43 °F;81 %;28.10 in
+30.01.2010;Espanyol;Ath. Bilbao;1;0;La Liga;Fair;WNW;16 mph;45 °F;61 %;27.71 in
+30.01.2010;Sporting Gijon;Barcelona;0;1;La Liga;Fair;WNW;16 mph;45 °F;61 %;27.71 in
+30.01.2010;Deportivo;Real Madrid;1;3;La Liga;Fair;WNW;16 mph;45 °F;61 %;27.71 in
+31.01.2010;Xerez;Mallorca;2;1;La Liga;Fair;WSW;5 mph;46 °F;57 %;27.80 in
+31.01.2010;Villarreal;Osasuna;0;2;La Liga;Mostly Cloudy;ESE;2 mph;41 °F;93 %;29.62 in
+31.01.2010;Tenerife;Real Zaragoza;1;3;La Liga;Fair;WSW;5 mph;46 °F;57 %;27.80 in
+31.01.2010;R. Valladolid;Almeria;1;1;La Liga;Fair;WSW;5 mph;46 °F;57 %;27.80 in
+31.01.2010;Getafe;R. Santander;0;0;La Liga;Fair;W;20 mph;50 °F;66 %;29.52 in
+31.01.2010;Atl. Madrid;Malaga;0;2;La Liga;Fair;WSW;5 mph;46 °F;57 %;27.80 in
+31.01.2010;Sevilla;Valencia;2;1;La Liga;Fair;WSW;5 mph;46 °F;57 %;27.80 in
+23.01.2010;Sevilla;Almeria;1;0;La Liga;Fair;NNE;3 mph;45 °F;87 %;28.07 in
+23.01.2010;R. Valladolid;Barcelona;0;3;La Liga;Fair;NNE;3 mph;45 °F;87 %;28.07 in
+23.01.2010;Deportivo;Ath. Bilbao;3;1;La Liga;Fair;NNE;3 mph;45 °F;87 %;28.07 in
+24.01.2010;Sporting Gijon;R. Santander;0;1;La Liga;Mostly Cloudy;CALM;0 mph;46 °F;76 %;28.04 in
+24.01.2010;Tenerife;Valencia;0;0;La Liga;Mostly Cloudy;CALM;0 mph;46 °F;76 %;28.04 in
+24.01.2010;Villarreal;Real Zaragoza;4;2;La Liga;Mostly Cloudy;CALM;0 mph;48 °F;93 %;30.00 in
+24.01.2010;Xerez;Osasuna;1;2;La Liga;Mostly Cloudy;CALM;0 mph;46 °F;76 %;28.04 in
+24.01.2010;Espanyol;Mallorca;1;1;La Liga;Mostly Cloudy;CALM;0 mph;46 °F;76 %;28.04 in
+24.01.2010;Getafe;Atl. Madrid;1;0;La Liga;Partly Cloudy;NNW;9 mph;48 °F;87 %;29.87 in
+24.01.2010;Real Madrid;Malaga;2;0;La Liga;Mostly Cloudy;CALM;0 mph;46 °F;76 %;28.04 in
+16.01.2010;Osasuna;Espanyol;2;0;La Liga;Fair;VAR;1 mph;37 °F;93 %;29.84 in
+16.01.2010;Ath. Bilbao;Real Madrid;1;0;La Liga;Fair;S;9 mph;57 °F;55 %;29.85 in
+16.01.2010;Barcelona;Sevilla;4;0;La Liga;Fair;NNW;8 mph;46 °F;71 %;30.19 in
+17.01.2010;Malaga;Getafe;1;0;La Liga;Mostly Cloudy;CALM;0 mph;46 °F;93 %;28.21 in
+17.01.2010;R. Santander;R. Valladolid;1;1;La Liga;Mostly Cloudy;CALM;0 mph;46 °F;93 %;28.21 in
+17.01.2010;Almeria;Tenerife;1;1;La Liga;Mostly Cloudy;W;2 mph;46 °F;93 %;29.79 in
+17.01.2010;Real Zaragoza;Xerez;0;0;La Liga;Mostly Cloudy;CALM;0 mph;46 °F;93 %;28.21 in
+17.01.2010;Mallorca;Deportivo;2;0;La Liga;N/A;SW;3 mph;39 °F;91 %;28.38 in
+17.01.2010;Atl. Madrid;Sporting Gijon;3;2;La Liga;Mostly Cloudy;CALM;0 mph;46 °F;93 %;28.21 in
+17.01.2010;Valencia;Villarreal;4;1;La Liga;Fair;W;12 mph;61 °F;63 %;29.93 in
+09.01.2010;R. Valladolid;Atl. Madrid;0;4;La Liga;Partly Cloudy;NW;5 mph;32 °F;60 %;27.88 in
+09.01.2010;Sevilla;R. Santander;1;2;La Liga;Partly Cloudy;NW;5 mph;32 °F;60 %;27.88 in
+09.01.2010;Villarreal;Almeria;1;1;La Liga;Mostly Cloudy / Windy;N;23 mph;36 °F;65 %;29.85 in
+10.01.2010;Sporting Gijon;Getafe;1;0;La Liga;Partly Cloudy;CALM;0 mph;28 °F;69 %;27.99 in
+10.01.2010;Xerez;Valencia;1;3;La Liga;Partly Cloudy;CALM;0 mph;28 °F;69 %;27.99 in
+10.01.2010;Espanyol;Real Zaragoza;2;1;La Liga;Partly Cloudy;CALM;0 mph;28 °F;69 %;27.99 in
+10.01.2010;Deportivo;Osasuna;1;0;La Liga;Partly Cloudy;CALM;0 mph;28 °F;69 %;27.99 in
+10.01.2010;Malaga;Ath. Bilbao;1;1;La Liga;Partly Cloudy;CALM;0 mph;28 °F;69 %;27.99 in
+10.01.2010;Real Madrid;Mallorca;2;0;La Liga;Partly Cloudy;CALM;0 mph;28 °F;69 %;27.99 in
+10.01.2010;Tenerife;Barcelona;0;5;La Liga;Partly Cloudy;CALM;0 mph;28 °F;69 %;27.99 in
+02.01.2010;Valencia;Espanyol;1;0;La Liga;Fair;WSW;15 mph;54 °F;62 %;29.72 in
+02.01.2010;Barcelona;Villarreal;1;1;La Liga;Fair;WNW;17 mph;50 °F;58 %;29.80 in
+02.01.2010;Atl. Madrid;Sevilla;2;1;La Liga;Fair;W;7 mph;43 °F;76 %;27.99 in
+03.01.2010;Sporting Gijon;Malaga;2;2;La Liga;Mostly Cloudy;CALM;0 mph;41 °F;87 %;28.10 in
+03.01.2010;Getafe;R. Valladolid;1;0;La Liga;Fair;W;6 mph;41 °F;93 %;29.93 in
+03.01.2010;R. Santander;Tenerife;2;0;La Liga;Mostly Cloudy;CALM;0 mph;41 °F;87 %;28.10 in
+03.01.2010;Almeria;Xerez;1;0;La Liga;Mostly Cloudy;CALM;0 mph;43 °F;81 %;29.82 in
+03.01.2010;Real Zaragoza;Deportivo;0;0;La Liga;Mostly Cloudy;CALM;0 mph;41 °F;87 %;28.10 in
+03.01.2010;Mallorca;Ath. Bilbao;2;0;La Liga;N/A;WSW;1 mph;39 °F;90 %;28.19 in
+03.01.2010;Osasuna;Real Madrid;0;0;La Liga;Mostly Cloudy;CALM;0 mph;43 °F;81 %;29.82 in
+02.12.2009;Xerez;Barcelona;0;2;La Liga;Mostly Cloudy;SW;5 mph;46 °F;93 %;28.10 in
+19.12.2009;Ath. Bilbao;Osasuna;2;0;La Liga;Mostly Cloudy;VAR;2 mph;36 °F;87 %;29.68 in
+19.12.2009;Sevilla;Getafe;1;2;La Liga;Fair;NNE;8 mph;34 °F;70 %;27.69 in
+19.12.2009;Real Madrid;Real Zaragoza;6;0;La Liga;Fair;NNE;8 mph;34 °F;70 %;27.69 in
+20.12.2009;R. Valladolid;Sporting Gijon;2;1;La Liga;Fair;CALM;0 mph;27 °F;64 %;27.93 in
+20.12.2009;Villarreal;R. Santander;2;0;La Liga;Mostly Cloudy;E;5 mph;32 °F;87 %;29.88 in
+20.12.2009;Espanyol;Almeria;2;0;La Liga;Fair;CALM;0 mph;27 °F;64 %;27.93 in
+20.12.2009;Malaga;Mallorca;2;1;La Liga;Fair;CALM;0 mph;27 °F;64 %;27.93 in
+20.12.2009;Tenerife;Atl. Madrid;1;1;La Liga;Fair;CALM;0 mph;27 °F;64 %;27.93 in
+20.12.2009;Deportivo;Valencia;0;0;La Liga;Fair;CALM;0 mph;27 °F;64 %;27.93 in
+12.12.2009;Real Zaragoza;Ath. Bilbao;1;2;La Liga;Fair;NNE;3 mph;39 °F;100 %;28.04 in
+12.12.2009;Barcelona;Espanyol;1;0;La Liga;Fair;NNW;10 mph;48 °F;82 %;29.98 in
+12.12.2009;Valencia;Real Madrid;2;3;La Liga;Fair;WNW;5 mph;46 °F;93 %;29.78 in
+13.12.2009;R. Valladolid;Malaga;1;1;La Liga;Fair;N;6 mph;43 °F;57 %;27.82 in
+13.12.2009;Getafe;Tenerife;2;1;La Liga;Mostly Cloudy;NNW;7 mph;48 °F;93 %;29.61 in
+13.12.2009;R. Santander;Xerez;3;2;La Liga;Fair;N;6 mph;43 °F;57 %;27.82 in
+13.12.2009;Almeria;Deportivo;1;1;La Liga;Mostly Cloudy;NNE;10 mph;41 °F;70 %;29.49 in
+13.12.2009;Osasuna;Mallorca;0;1;La Liga;Mostly Cloudy;NNE;10 mph;41 °F;70 %;29.49 in
+13.12.2009;Atl. Madrid;Villarreal;1;2;La Liga;Fair;N;6 mph;43 °F;57 %;27.82 in
+13.12.2009;Sporting Gijon;Sevilla;0;1;La Liga;Fair;N;6 mph;43 °F;57 %;27.82 in
+05.12.2009;Sevilla;R. Valladolid;1;1;La Liga;Fair;CALM;0 mph;39 °F;87 %;28.13 in
+05.12.2009;Xerez;Atl. Madrid;0;2;La Liga;Fair;CALM;0 mph;39 °F;87 %;28.13 in
+05.12.2009;Real Madrid;Almeria;4;2;La Liga;Fair;CALM;0 mph;39 °F;87 %;28.13 in
+05.12.2009;Deportivo;Barcelona;1;3;La Liga;Fair;CALM;0 mph;39 °F;87 %;28.13 in
+06.12.2009;Tenerife;Sporting Gijon;2;1;La Liga;Mostly Cloudy;CALM;0 mph;41 °F;93 %;28.13 in
+06.12.2009;Espanyol;R. Santander;0;4;La Liga;Mostly Cloudy;CALM;0 mph;41 °F;93 %;28.13 in
+06.12.2009;Mallorca;Real Zaragoza;4;1;La Liga;Cloudy;;0 mph;29 °F;96 %;28.29 in
+06.12.2009;Malaga;Osasuna;1;1;La Liga;Mostly Cloudy;CALM;0 mph;41 °F;93 %;28.13 in
+06.12.2009;Villarreal;Getafe;3;2;La Liga;Partly Cloudy;SSW;10 mph;63 °F;55 %;29.71 in
+06.12.2009;Ath. Bilbao;Valencia;1;2;La Liga;Partly Cloudy;SSW;10 mph;63 °F;55 %;29.71 in
+28.11.2009;Sporting Gijon;Villarreal;1;0;La Liga;Fair;CALM;0 mph;43 °F;87 %;28.15 in
+28.11.2009;Valencia;Mallorca;1;1;La Liga;Fair;W;5 mph;55 °F;58 %;29.90 in
+28.11.2009;Sevilla;Malaga;2;2;La Liga;Fair;CALM;0 mph;43 °F;87 %;28.15 in
+29.11.2009;R. Valladolid;Tenerife;3;3;La Liga;Partly Cloudy;SSE;1 mph;45 °F;93 %;27.91 in
+29.11.2009;Getafe;Xerez;5;1;La Liga;Fair;W;6 mph;50 °F;66 %;29.75 in
+29.11.2009;R. Santander;Deportivo;0;1;La Liga;Partly Cloudy;SSE;1 mph;45 °F;93 %;27.91 in
+29.11.2009;Almeria;Ath. Bilbao;1;4;La Liga;Fair;WSW;5 mph;54 °F;62 %;29.55 in
+29.11.2009;Real Zaragoza;Osasuna;0;1;La Liga;Partly Cloudy;SSE;1 mph;45 °F;93 %;27.91 in
+29.11.2009;Barcelona;Real Madrid;1;0;La Liga;Mostly Cloudy;NW;5 mph;52 °F;71 %;29.89 in
+29.11.2009;Atl. Madrid;Espanyol;4;0;La Liga;Partly Cloudy;SSE;1 mph;45 °F;93 %;27.91 in
+21.11.2009;Tenerife;Sevilla;1;2;La Liga;Fair;N;3 mph;45 °F;87 %;28.32 in
+21.11.2009;Deportivo;Atl. Madrid;2;1;La Liga;Fair;N;3 mph;45 °F;87 %;28.32 in
+21.11.2009;Real Madrid;R. Santander;1;0;La Liga;Fair;N;3 mph;45 °F;87 %;28.32 in
+21.11.2009;Ath. Bilbao;Barcelona;1;1;La Liga;Fair;SE;20 mph;64 °F;49 %;30.03 in
+22.11.2009;Villarreal;R. Valladolid;3;1;La Liga;Mostly Cloudy;NW;6 mph;59 °F;82 %;30.06 in
+22.11.2009;Xerez;Sporting Gijon;0;0;La Liga;Mostly Cloudy;CALM;0 mph;54 °F;77 %;28.26 in
+22.11.2009;Espanyol;Getafe;0;2;La Liga;Mostly Cloudy;CALM;0 mph;54 °F;77 %;28.26 in
+22.11.2009;Mallorca;Almeria;3;1;La Liga;N/A;WSW;2 mph;44 °F;76 %;28.42 in
+22.11.2009;Malaga;Real Zaragoza;1;1;La Liga;Mostly Cloudy;CALM;0 mph;54 °F;77 %;28.26 in
+22.11.2009;Osasuna;Valencia;1;3;La Liga;Fair;SSW;14 mph;59 °F;88 %;29.82 in
+07.11.2009;Tenerife;Malaga;2;2;La Liga;Partly Cloudy;S;8 mph;57 °F;77 %;27.99 in
+07.11.2009;Getafe;Deportivo;0;2;La Liga;Fair;W;7 mph;59 °F;67 %;29.72 in
+07.11.2009;Barcelona;Mallorca;4;2;La Liga;Fair;N;3 mph;52 °F;76 %;29.86 in
+07.11.2009;Atl. Madrid;Real Madrid;2;3;La Liga;Partly Cloudy;S;8 mph;57 °F;77 %;27.99 in
+08.11.2009;R. Valladolid;Xerez;0;0;La Liga;Fair / Windy;W;21 mph;50 °F;54 %;28.02 in
+08.11.2009;Sporting Gijon;Espanyol;1;0;La Liga;Fair / Windy;W;21 mph;50 °F;54 %;28.02 in
+08.11.2009;R. Santander;Ath. Bilbao;0;2;La Liga;Fair / Windy;W;21 mph;50 °F;54 %;28.02 in
+08.11.2009;Almeria;Osasuna;2;0;La Liga;Fair;VAR;1 mph;37 °F;100 %;29.38 in
+08.11.2009;Valencia;Real Zaragoza;3;1;La Liga;Fair;WNW;20 mph;59 °F;39 %;29.72 in
+08.11.2009;Sevilla;Villarreal;3;2;La Liga;Fair / Windy;W;21 mph;50 °F;54 %;28.02 in
+31.10.2009;Real Madrid;Getafe;2;0;La Liga;Fair;NNE;2 mph;57 °F;82 %;28.21 in
+31.10.2009;Xerez;Sevilla;0;2;La Liga;Fair;NNE;2 mph;57 °F;82 %;28.21 in
+31.10.2009;Osasuna;Barcelona;1;1;La Liga;Partly Cloudy;CALM;0 mph;55 °F;100 %;29.87 in
+31.10.2009;Ath. Bilbao;Atl. Madrid;1;0;La Liga;Partly Cloudy;E;3 mph;59 °F;94 %;30.12 in
+01.11.2009;Villarreal;Tenerife;5;0;La Liga;Fair;ESE;3 mph;61 °F;88 %;30.12 in
+01.11.2009;Espanyol;R. Valladolid;1;1;La Liga;Fair;NNE;3 mph;61 °F;77 %;28.26 in
+01.11.2009;Mallorca;R. Santander;1;0;La Liga;N/A;;0 mph;53 °F;76 %;28.31 in
+01.11.2009;Real Zaragoza;Almeria;2;1;La Liga;Fair;NNE;3 mph;61 °F;77 %;28.26 in
+01.11.2009;Malaga;Valencia;0;1;La Liga;Fair;NNE;3 mph;61 °F;77 %;28.26 in
+01.11.2009;Deportivo;Sporting Gijon;1;1;La Liga;Fair;NNE;3 mph;61 °F;77 %;28.26 in
+24.10.2009;Atl. Madrid;Mallorca;1;1;La Liga;Fair;SE;2 mph;54 °F;82 %;28.15 in
+24.10.2009;Sporting Gijon;Real Madrid;0;0;La Liga;Fair;SE;2 mph;54 °F;82 %;28.15 in
+24.10.2009;Sevilla;Espanyol;0;0;La Liga;Fair;SE;2 mph;54 °F;82 %;28.15 in
+25.10.2009;Villarreal;Malaga;2;1;La Liga;Partly Cloudy;VAR;1 mph;63 °F;94 %;30.00 in
+25.10.2009;Tenerife;Xerez;1;0;La Liga;Fair;VAR;1 mph;57 °F;88 %;28.15 in
+25.10.2009;R. Valladolid;Deportivo;4;0;La Liga;Fair;VAR;1 mph;57 °F;88 %;28.15 in
+25.10.2009;Getafe;Ath. Bilbao;2;0;La Liga;Fair;WNW;5 mph;68 °F;68 %;29.84 in
+25.10.2009;R. Santander;Osasuna;1;1;La Liga;Fair;VAR;1 mph;57 °F;88 %;28.15 in
+25.10.2009;Almeria;Valencia;0;3;La Liga;Fair;NE;2 mph;59 °F;94 %;29.67 in
+25.10.2009;Barcelona;Real Zaragoza;6;1;La Liga;Fair;N;3 mph;63 °F;88 %;30.01 in
+17.10.2009;Deportivo;Sevilla;1;0;La Liga;Fair;NNW;7 mph;50 °F;37 %;28.15 in
+17.10.2009;Real Madrid;R. Valladolid;4;2;La Liga;Fair;NNW;7 mph;50 °F;37 %;28.15 in
+17.10.2009;Valencia;Barcelona;0;0;La Liga;Partly Cloudy;VAR;2 mph;57 °F;94 %;29.96 in
+18.10.2009;Xerez;Villarreal;2;1;La Liga;Fair;NNW;5 mph;50 °F;40 %;28.02 in
+18.10.2009;Espanyol;Tenerife;2;1;La Liga;Fair;NNW;5 mph;50 °F;40 %;28.02 in
+18.10.2009;Mallorca;Getafe;3;1;La Liga;N/A;;0 mph;49 °F;75 %;28.07 in
+18.10.2009;Real Zaragoza;R. Santander;2;2;La Liga;Fair;NNW;5 mph;50 °F;40 %;28.02 in
+18.10.2009;Malaga;Almeria;1;2;La Liga;Fair;NNW;5 mph;50 °F;40 %;28.02 in
+18.10.2009;Ath. Bilbao;Sporting Gijon;1;2;La Liga;Mostly Cloudy;E;3 mph;45 °F;87 %;30.09 in
+18.10.2009;Osasuna;Atl. Madrid;3;0;La Liga;Fair;N;3 mph;52 °F;47 %;29.70 in
+03.10.2009;Tenerife;Deportivo;0;1;La Liga;Fair;CALM;0 mph;63 °F;55 %;28.07 in
+03.10.2009;Barcelona;Almeria;1;0;La Liga;Fair;NNW;7 mph;66 °F;83 %;29.98 in
+03.10.2009;Atl. Madrid;Real Zaragoza;2;1;La Liga;Fair;CALM;0 mph;63 °F;55 %;28.07 in
+04.10.2009;Xerez;Malaga;1;1;La Liga;Fair;ESE;3 mph;61 °F;52 %;28.07 in
+04.10.2009;Villarreal;Espanyol;0;0;La Liga;Fair;CALM;0 mph;54 °F;88 %;29.91 in
+04.10.2009;R. Valladolid;Ath. Bilbao;2;2;La Liga;Fair;ESE;3 mph;61 °F;52 %;28.07 in
+04.10.2009;Sporting Gijon;Mallorca;4;1;La Liga;Fair;ESE;3 mph;61 °F;52 %;28.07 in
+04.10.2009;Getafe;Osasuna;2;1;La Liga;Partly Cloudy;W;5 mph;68 °F;94 %;29.84 in
+04.10.2009;R. Santander;Valencia;0;1;La Liga;Fair;ESE;3 mph;61 °F;52 %;28.07 in
+04.10.2009;Sevilla;Real Madrid;2;1;La Liga;Fair;ESE;3 mph;61 °F;52 %;28.07 in
+26.09.2009;Real Madrid;Tenerife;3;0;La Liga;Fair;N;7 mph;70 °F;35 %;28.10 in
+26.09.2009;Ath. Bilbao;Sevilla;0;4;La Liga;Mostly Cloudy;E;2 mph;59 °F;94 %;30.06 in
+26.09.2009;Malaga;Barcelona;0;2;La Liga;Fair;N;7 mph;70 °F;35 %;28.10 in
+26.09.2009;Valencia;Atl. Madrid;2;2;La Liga;Fair;WNW;6 mph;70 °F;83 %;29.87 in
+27.09.2009;Espanyol;Xerez;0;0;La Liga;Fair;SSE;7 mph;68 °F;49 %;28.10 in
+27.09.2009;Mallorca;R. Valladolid;3;0;La Liga;N/A;SW;2 mph;60 °F;84 %;28.09 in
+27.09.2009;Osasuna;Sporting Gijon;1;0;La Liga;Fair;CALM;0 mph;66 °F;73 %;29.82 in
+27.09.2009;Almeria;R. Santander;2;2;La Liga;Fair;CALM;0 mph;66 °F;73 %;29.82 in
+27.09.2009;Real Zaragoza;Getafe;3;0;La Liga;Fair;SSE;7 mph;68 °F;49 %;28.10 in
+27.09.2009;Deportivo;Villarreal;1;0;La Liga;Fair;SSE;7 mph;68 °F;49 %;28.10 in
+22.09.2009;Sevilla;Mallorca;2;0;La Liga;Fair;NE;9 mph;63 °F;52 %;28.24 in
+22.09.2009;R. Santander;Barcelona;1;4;La Liga;Fair;NE;9 mph;63 °F;52 %;28.24 in
+23.09.2009;Espanyol;Malaga;2;1;La Liga;Fair;VAR;1 mph;70 °F;38 %;28.21 in
+23.09.2009;Xerez;Deportivo;0;3;La Liga;Fair;VAR;1 mph;70 °F;38 %;28.21 in
+23.09.2009;Villarreal;Real Madrid;0;2;La Liga;Cloudy;VAR;1 mph;57 °F;94 %;30.15 in
+23.09.2009;R. Valladolid;Osasuna;1;2;La Liga;Fair;VAR;1 mph;70 °F;38 %;28.21 in
+23.09.2009;Atl. Madrid;Almeria;2;2;La Liga;Fair;VAR;1 mph;70 °F;38 %;28.21 in
+23.09.2009;Tenerife;Ath. Bilbao;1;0;La Liga;Fair;VAR;1 mph;70 °F;38 %;28.21 in
+23.09.2009;Getafe;Valencia;3;1;La Liga;Mostly Cloudy;N;8 mph;68 °F;88 %;29.96 in
+24.09.2009;Sporting Gijon;Real Zaragoza;1;1;La Liga;Fair;VAR;2 mph;68 °F;43 %;28.21 in
+19.09.2009;Deportivo;Espanyol;2;3;La Liga;Partly Cloudy;W;5 mph;57 °F;82 %;28.04 in
+19.09.2009;Mallorca;Tenerife;4;0;La Liga;N/A;;0 mph;57 °F;81 %;28.18 in
+19.09.2009;Osasuna;Sevilla;0;2;La Liga;Partly Cloudy;SW;6 mph;63 °F;63 %;29.61 in
+19.09.2009;Malaga;R. Santander;1;2;La Liga;Partly Cloudy;W;5 mph;57 °F;82 %;28.04 in
+19.09.2009;Barcelona;Atl. Madrid;5;2;La Liga;Fair;N;12 mph;66 °F;56 %;29.95 in
+20.09.2009;Ath. Bilbao;Villarreal;3;2;La Liga;Mostly Cloudy;VAR;2 mph;59 °F;94 %;30.12 in
+20.09.2009;Real Zaragoza;R. Valladolid;1;2;La Liga;Fair;NNE;3 mph;61 °F;52 %;28.18 in
+20.09.2009;Almeria;Getafe;1;0;La Liga;Mostly Cloudy;CALM;0 mph;64 °F;77 %;29.79 in
+20.09.2009;Real Madrid;Xerez;5;0;La Liga;Fair;NNE;3 mph;61 °F;52 %;28.18 in
+20.09.2009;Valencia;Sporting Gijon;2;2;La Liga;Fair;W;9 mph;70 °F;56 %;29.90 in
+12.09.2009;Getafe;Barcelona;0;2;La Liga;Fair;N;2 mph;77 °F;61 %;29.84 in
+12.09.2009;Atl. Madrid;R. Santander;1;1;La Liga;Fair;N;8 mph;75 °F;31 %;28.02 in
+12.09.2009;Espanyol;Real Madrid;0;3;La Liga;Fair;N;8 mph;75 °F;31 %;28.02 in
+12.09.2009;Sevilla;Real Zaragoza;4;1;La Liga;Fair;N;8 mph;75 °F;31 %;28.02 in
+13.09.2009;Deportivo;Malaga;1;0;La Liga;Fair;VAR;2 mph;72 °F;38 %;28.02 in
+13.09.2009;Villarreal;Mallorca;1;1;La Liga;Fair;SE;2 mph;57 °F;94 %;29.94 in
+13.09.2009;Tenerife;Osasuna;2;1;La Liga;Fair;VAR;2 mph;72 °F;38 %;28.02 in
+13.09.2009;Sporting Gijon;Almeria;1;0;La Liga;Fair;VAR;2 mph;72 °F;38 %;28.02 in
+13.09.2009;R. Valladolid;Valencia;2;4;La Liga;Fair;VAR;2 mph;72 °F;38 %;28.02 in
+13.09.2009;Xerez;Ath. Bilbao;0;1;La Liga;Fair;VAR;2 mph;72 °F;38 %;28.02 in
+29.08.2009;Real Madrid;Deportivo;3;2;La Liga;Fair;N;14 mph;81 °F;39 %;28.04 in
+29.08.2009;Real Zaragoza;Tenerife;1;0;La Liga;Fair;N;14 mph;81 °F;39 %;28.04 in
+30.08.2009;Ath. Bilbao;Espanyol;1;0;La Liga;Mostly Cloudy;VAR;2 mph;57 °F;88 %;30.09 in
+30.08.2009;Mallorca;Xerez;2;0;La Liga;Fair;N;8 mph;75 °F;31 %;28.02 in
+30.08.2009;Osasuna;Villarreal;1;1;La Liga;Partly Cloudy;E;3 mph;73 °F;41 %;29.76 in
+30.08.2009;R. Santander;Getafe;1;4;La Liga;Fair;NE;8 mph;84 °F;22 %;28.04 in
+30.08.2009;Malaga;Atl. Madrid;3;0;La Liga;Fair;NE;8 mph;84 °F;22 %;28.04 in
+30.08.2009;Valencia;Sevilla;2;0;La Liga;Partly Cloudy;NE;5 mph;81 °F;79 %;29.81 in
+30.08.2009;Almeria;R. Valladolid;0;0;La Liga;Partly Cloudy;E;3 mph;73 °F;41 %;29.76 in
+31.08.2009;Barcelona;Sporting Gijon;3;0;La Liga;Partly Cloudy;VAR;1 mph;75 °F;61 %;30.04 in

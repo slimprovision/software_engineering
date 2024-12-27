@@ -1,0 +1,381 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+28.05.2005;R. Sociedad;Barcelona;0;0;La Liga;Fair;W;6 mph;81 °F;24 %;27.96 in
+28.05.2005;Real Zaragoza;Real Madrid;1;3;La Liga;Fair;W;6 mph;81 °F;24 %;27.96 in
+29.05.2005;R. Santander;Albacete;1;0;La Liga;Fair;SE;15 mph;77 °F;29 %;27.96 in
+29.05.2005;Atl. Madrid;Getafe;2;2;La Liga;Fair;SE;15 mph;77 °F;29 %;27.96 in
+29.05.2005;Sevilla;Malaga;0;2;La Liga;Fair;SE;15 mph;77 °F;29 %;27.96 in
+29.05.2005;Espanyol;Ath. Bilbao;2;0;La Liga;Fair;SE;15 mph;77 °F;29 %;27.96 in
+29.05.2005;Valencia;Osasuna;1;0;La Liga;Fair;E;2 mph;70 °F;73 %;29.84 in
+29.05.2005;Mallorca;Real Betis;1;1;La Liga;Mostly Cloudy;SW;8 mph;65 °F;57 %;28.03 in
+29.05.2005;Villarreal;Levante;4;1;La Liga;Mostly Cloudy;E;5 mph;64 °F;73 %;29.91 in
+29.05.2005;Numancia;Deportivo;1;1;La Liga;Fair;SE;15 mph;77 °F;29 %;27.96 in
+21.05.2005;Real Betis;Real Zaragoza;3;2;La Liga;Fair;VAR;3 mph;66 °F;56 %;29.87 in
+21.05.2005;Real Madrid;Atl. Madrid;0;0;La Liga;Fair;W;8 mph;75 °F;22 %;28.04 in
+22.05.2005;Albacete;R. Sociedad;2;2;La Liga;Fair;WSW;10 mph;68 °F;46 %;27.93 in
+22.05.2005;Ath. Bilbao;Numancia;0;2;La Liga;Cloudy;ESE;5 mph;57 °F;82 %;29.88 in
+22.05.2005;Deportivo;Mallorca;0;3;La Liga;Fair;WSW;10 mph;68 °F;46 %;27.93 in
+22.05.2005;Getafe;Sevilla;0;0;La Liga;Partly Cloudy;VAR;2 mph;66 °F;83 %;29.72 in
+22.05.2005;Levante;Valencia;0;0;La Liga;Fair;WSW;10 mph;68 °F;46 %;27.93 in
+22.05.2005;Osasuna;Espanyol;1;1;La Liga;Mostly Cloudy;N;5 mph;63 °F;82 %;29.67 in
+22.05.2005;Barcelona;Villarreal;3;3;La Liga;Partly Cloudy;ENE;3 mph;66 °F;88 %;29.95 in
+22.05.2005;Malaga;R. Santander;2;0;La Liga;Fair;WSW;10 mph;68 °F;46 %;27.93 in
+14.05.2005;Sevilla;Real Madrid;2;2;La Liga;Partly Cloudy;WSW;10 mph;55 °F;72 %;28.04 in
+14.05.2005;Levante;Barcelona;1;1;La Liga;Partly Cloudy;WSW;10 mph;55 °F;72 %;28.04 in
+15.05.2005;R. Sociedad;Malaga;1;3;La Liga;Fair;WSW;12 mph;61 °F;39 %;28.10 in
+15.05.2005;Real Zaragoza;Deportivo;2;2;La Liga;Fair;WSW;12 mph;61 °F;39 %;28.10 in
+15.05.2005;R. Santander;Getafe;2;1;La Liga;Fair;WSW;12 mph;61 °F;39 %;28.10 in
+15.05.2005;Villarreal;Albacete;1;0;La Liga;Fair;SSW;12 mph;66 °F;43 %;29.88 in
+15.05.2005;Mallorca;Ath. Bilbao;4;3;La Liga;Mostly Cloudy;;0 mph;47 °F;63 %;28.18 in
+15.05.2005;Numancia;Osasuna;2;2;La Liga;Fair;WSW;12 mph;61 °F;39 %;28.10 in
+15.05.2005;Atl. Madrid;Real Betis;1;2;La Liga;Fair;WSW;12 mph;61 °F;39 %;28.10 in
+15.05.2005;Espanyol;Valencia;2;2;La Liga;Fair;WSW;12 mph;61 °F;39 %;28.10 in
+07.05.2005;Ath. Bilbao;Real Zaragoza;2;0;La Liga;Fair;E;3 mph;48 °F;82 %;30.06 in
+07.05.2005;Osasuna;Mallorca;1;1;La Liga;Fair;VAR;1 mph;55 °F;77 %;29.79 in
+07.05.2005;Real Madrid;R. Santander;5;0;La Liga;Fair;N;6 mph;64 °F;26 %;28.10 in
+07.05.2005;Real Betis;Sevilla;1;0;La Liga;Fair;W;5 mph;59 °F;88 %;29.87 in
+08.05.2005;Albacete;Levante;3;1;La Liga;Fair;WSW;8 mph;73 °F;25 %;27.93 in
+08.05.2005;Espanyol;Numancia;3;0;La Liga;Fair;WSW;8 mph;73 °F;25 %;27.93 in
+08.05.2005;Getafe;R. Sociedad;2;0;La Liga;Fair;E;3 mph;64 °F;83 %;29.72 in
+08.05.2005;Malaga;Villarreal;0;2;La Liga;Fair;WSW;8 mph;73 °F;25 %;27.93 in
+08.05.2005;Valencia;Barcelona;0;2;La Liga;Fair;E;3 mph;64 °F;83 %;29.72 in
+08.05.2005;Deportivo;Atl. Madrid;2;0;La Liga;Fair;WSW;8 mph;73 °F;25 %;27.93 in
+30.04.2005;Atl. Madrid;Ath. Bilbao;1;1;La Liga;Fair;SE;7 mph;70 °F;20 %;28.02 in
+30.04.2005;Numancia;Valencia;1;1;La Liga;Fair;SE;7 mph;70 °F;20 %;28.02 in
+30.04.2005;R. Sociedad;Real Madrid;0;2;La Liga;Fair;SE;7 mph;70 °F;20 %;28.02 in
+01.05.2005;R. Santander;Real Betis;1;1;La Liga;Fair;W;5 mph;73 °F;33 %;27.91 in
+01.05.2005;Real Zaragoza;Osasuna;5;1;La Liga;Fair;W;5 mph;73 °F;33 %;27.91 in
+01.05.2005;Mallorca;Espanyol;3;2;La Liga;Mostly Cloudy;SW;2 mph;52 °F;76 %;28.02 in
+01.05.2005;Levante;Malaga;0;1;La Liga;Fair;W;5 mph;73 °F;33 %;27.91 in
+01.05.2005;Villarreal;Getafe;4;0;La Liga;Mostly Cloudy;E;1 mph;57 °F;82 %;29.71 in
+01.05.2005;Barcelona;Albacete;2;0;La Liga;Fair;W;5 mph;63 °F;72 %;29.98 in
+01.05.2005;Sevilla;Deportivo;2;0;La Liga;Fair;W;5 mph;73 °F;33 %;27.91 in
+23.04.2005;Osasuna;Atl. Madrid;1;0;La Liga;Partly Cloudy;SE;3 mph;55 °F;72 %;29.61 in
+23.04.2005;Real Madrid;Villarreal;2;1;La Liga;Fair;WSW;8 mph;64 °F;49 %;27.88 in
+24.04.2005;Real Betis;R. Sociedad;2;3;La Liga;Fair;E;2 mph;59 °F;88 %;29.58 in
+24.04.2005;Deportivo;R. Santander;1;4;La Liga;Partly Cloudy;WSW;10 mph;61 °F;48 %;27.80 in
+24.04.2005;Getafe;Levante;1;0;La Liga;Fair;E;2 mph;59 °F;88 %;29.58 in
+24.04.2005;Espanyol;Real Zaragoza;3;1;La Liga;Partly Cloudy;WSW;10 mph;61 °F;48 %;27.80 in
+24.04.2005;Valencia;Albacete;2;0;La Liga;Fair;E;2 mph;59 °F;88 %;29.58 in
+24.04.2005;Numancia;Mallorca;1;2;La Liga;Partly Cloudy;WSW;10 mph;61 °F;48 %;27.80 in
+24.04.2005;Malaga;Barcelona;0;4;La Liga;Partly Cloudy;WSW;10 mph;61 °F;48 %;27.80 in
+24.04.2005;Ath. Bilbao;Sevilla;1;3;La Liga;Mostly Cloudy;NNE;5 mph;59 °F;63 %;29.62 in
+16.04.2005;Atl. Madrid;Espanyol;0;0;La Liga;Mostly Cloudy;WSW;14 mph;46 °F;62 %;27.91 in
+16.04.2005;Sevilla;Osasuna;0;1;La Liga;Mostly Cloudy;WSW;14 mph;46 °F;62 %;27.91 in
+16.04.2005;R. Sociedad;Deportivo;1;0;La Liga;Mostly Cloudy;WSW;14 mph;46 °F;62 %;27.91 in
+17.04.2005;Albacete;Malaga;1;2;La Liga;Partly Cloudy;W;12 mph;52 °F;44 %;27.96 in
+17.04.2005;R. Santander;Ath. Bilbao;0;2;La Liga;Partly Cloudy;W;12 mph;52 °F;44 %;27.96 in
+17.04.2005;Real Zaragoza;Numancia;4;1;La Liga;Partly Cloudy;W;12 mph;52 °F;44 %;27.96 in
+17.04.2005;Mallorca;Valencia;0;0;La Liga;Fair;S;2 mph;35 °F;75 %;28.15 in
+17.04.2005;Villarreal;Real Betis;0;0;La Liga;Mostly Cloudy;VAR;1 mph;43 °F;87 %;29.82 in
+17.04.2005;Levante;Real Madrid;0;2;La Liga;Partly Cloudy;W;12 mph;52 °F;44 %;27.96 in
+17.04.2005;Barcelona;Getafe;2;0;La Liga;Fair;NNW;13 mph;55 °F;44 %;29.75 in
+09.04.2005;Numancia;Atl. Madrid;1;0;La Liga;Fair;N;8 mph;41 °F;53 %;28.02 in
+09.04.2005;Ath. Bilbao;R. Sociedad;3;0;La Liga;Mostly Cloudy;N;10 mph;43 °F;76 %;30.06 in
+10.04.2005;Real Betis;Levante;2;2;La Liga;Fair;NW;15 mph;46 °F;34 %;29.99 in
+10.04.2005;Espanyol;Sevilla;1;3;La Liga;Fair;N;17 mph;39 °F;49 %;28.26 in
+10.04.2005;Getafe;Albacete;1;0;La Liga;Fair;NW;15 mph;46 °F;34 %;29.99 in
+10.04.2005;Valencia;Malaga;2;2;La Liga;Fair;NW;15 mph;46 °F;34 %;29.99 in
+10.04.2005;Mallorca;Real Zaragoza;0;2;La Liga;Fair;ENE;7 mph;36 °F;0 %;28.34 in
+10.04.2005;Osasuna;R. Santander;1;0;La Liga;Fair;VAR;3 mph;46 °F;29 %;29.73 in
+10.04.2005;Real Madrid;Barcelona;4;2;La Liga;Fair;N;17 mph;39 °F;49 %;28.26 in
+10.04.2005;Deportivo;Villarreal;1;1;La Liga;Fair;N;17 mph;39 °F;49 %;28.26 in
+02.04.2005;R. Sociedad;Osasuna;2;0;La Liga;Mostly Cloudy;SSE;8 mph;59 °F;55 %;27.93 in
+02.04.2005;Real Zaragoza;Valencia;2;2;La Liga;Mostly Cloudy;SSE;8 mph;59 °F;55 %;27.93 in
+02.04.2005;Villarreal;Ath. Bilbao;3;1;La Liga;Fair;ESE;14 mph;64 °F;45 %;29.76 in
+03.04.2005;Barcelona;Real Betis;3;3;La Liga;Mostly Cloudy;NE;16 mph;59 °F;77 %;30.16 in
+03.04.2005;R. Santander;Espanyol;1;3;La Liga;Mostly Cloudy;ENE;5 mph;50 °F;94 %;28.04 in
+03.04.2005;Sevilla;Numancia;1;0;La Liga;Mostly Cloudy;ENE;5 mph;50 °F;94 %;28.04 in
+03.04.2005;Levante;Deportivo;0;1;La Liga;Mostly Cloudy;ENE;5 mph;50 °F;94 %;28.04 in
+03.04.2005;Malaga;Getafe;1;1;La Liga;Mostly Cloudy;ENE;5 mph;50 °F;94 %;28.04 in
+03.04.2005;Atl. Madrid;Mallorca;4;0;La Liga;Mostly Cloudy;ENE;5 mph;50 °F;94 %;28.04 in
+03.04.2005;Albacete;Real Madrid;1;2;La Liga;Mostly Cloudy;ENE;5 mph;50 °F;94 %;28.04 in
+19.03.2005;Real Betis;Albacete;2;1;La Liga;Fair;W;3 mph;46 °F;87 %;30.13 in
+19.03.2005;Espanyol;R. Sociedad;2;2;La Liga;Fair;SSE;5 mph;54 °F;51 %;28.26 in
+19.03.2005;Deportivo;Barcelona;0;1;La Liga;Fair;SSE;5 mph;54 °F;51 %;28.26 in
+20.03.2005;Ath. Bilbao;Levante;3;1;La Liga;Fair;S;10 mph;68 °F;28 %;29.82 in
+20.03.2005;Valencia;Getafe;3;1;La Liga;Fair;WSW;3 mph;50 °F;94 %;29.93 in
+20.03.2005;Mallorca;Sevilla;0;1;La Liga;Cloudy;SSW;2 mph;59 °F;63 %;28.17 in
+20.03.2005;Numancia;R. Santander;2;3;La Liga;Fair;N;2 mph;54 °F;58 %;28.07 in
+20.03.2005;Real Madrid;Malaga;1;0;La Liga;Fair;N;2 mph;54 °F;58 %;28.07 in
+20.03.2005;Real Zaragoza;Atl. Madrid;0;0;La Liga;Fair;N;2 mph;54 °F;58 %;28.07 in
+28.04.2005;Osasuna;Villarreal;3;2;La Liga;Fair;CALM;0 mph;55 °F;72 %;29.82 in
+12.03.2005;Barcelona;Ath. Bilbao;2;0;La Liga;Fair;NNW;9 mph;43 °F;87 %;30.13 in
+12.03.2005;Malaga;Real Betis;1;2;La Liga;Fair;N;5 mph;39 °F;39 %;28.02 in
+13.03.2005;Albacete;Deportivo;0;1;La Liga;Mostly Cloudy;VAR;1 mph;48 °F;71 %;27.85 in
+13.03.2005;R. Santander;Mallorca;3;0;La Liga;Mostly Cloudy;VAR;1 mph;48 °F;71 %;27.85 in
+13.03.2005;R. Sociedad;Numancia;2;1;La Liga;Mostly Cloudy;VAR;1 mph;48 °F;71 %;27.85 in
+13.03.2005;Villarreal;Espanyol;4;1;La Liga;Fair;E;1 mph;36 °F;81 %;29.82 in
+13.03.2005;Sevilla;Real Zaragoza;0;1;La Liga;Mostly Cloudy;VAR;1 mph;48 °F;71 %;27.85 in
+13.03.2005;Levante;Osasuna;4;0;La Liga;Mostly Cloudy;VAR;1 mph;48 °F;71 %;27.85 in
+13.03.2005;Getafe;Real Madrid;2;1;La Liga;Mostly Cloudy;WNW;3 mph;48 °F;93 %;29.64 in
+13.03.2005;Atl. Madrid;Valencia;1;0;La Liga;Mostly Cloudy;VAR;1 mph;48 °F;71 %;27.85 in
+05.03.2005;Atl. Madrid;Sevilla;3;0;La Liga;Fair;N;9 mph;32 °F;55 %;28.02 in
+05.03.2005;Osasuna;Barcelona;0;1;La Liga;Fair;S;3 mph;30 °F;93 %;29.46 in
+05.03.2005;Valencia;Real Madrid;1;1;La Liga;Fair;NW;13 mph;43 °F;42 %;29.75 in
+06.03.2005;Real Betis;Getafe;2;2;La Liga;Partly Cloudy;W;8 mph;50 °F;50 %;29.69 in
+06.03.2005;Mallorca;R. Sociedad;3;2;La Liga;Fair;SW;2 mph;31 °F;89 %;28.20 in
+06.03.2005;Espanyol;Levante;2;1;La Liga;Fair;NW;5 mph;43 °F;57 %;27.96 in
+06.03.2005;Real Zaragoza;R. Santander;1;0;La Liga;Fair;NW;5 mph;43 °F;57 %;27.96 in
+06.03.2005;Numancia;Villarreal;1;1;La Liga;Fair;NW;5 mph;43 °F;57 %;27.96 in
+06.03.2005;Ath. Bilbao;Albacete;3;1;La Liga;Mostly Cloudy;N;10 mph;45 °F;71 %;29.88 in
+06.03.2005;Deportivo;Malaga;1;0;La Liga;Fair;NW;5 mph;43 °F;57 %;27.96 in
+01.03.2005;Barcelona;Espanyol;0;0;La Liga;Mostly Cloudy;NNW;9 mph;34 °F;65 %;29.80 in
+02.03.2005;Albacete;Osasuna;1;1;La Liga;Mostly Cloudy;N;3 mph;32 °F;55 %;27.77 in
+02.03.2005;R. Santander;Atl. Madrid;2;1;La Liga;Mostly Cloudy;N;3 mph;32 °F;55 %;27.77 in
+02.03.2005;R. Sociedad;Real Zaragoza;2;1;La Liga;Mostly Cloudy;N;3 mph;32 °F;55 %;27.77 in
+02.03.2005;Getafe;Deportivo;1;1;La Liga;Cloudy;NW;3 mph;43 °F;81 %;29.61 in
+02.03.2005;Sevilla;Valencia;2;2;La Liga;Mostly Cloudy;N;3 mph;32 °F;55 %;27.77 in
+02.03.2005;Levante;Numancia;1;1;La Liga;Mostly Cloudy;N;3 mph;32 °F;55 %;27.77 in
+02.03.2005;Malaga;Ath. Bilbao;1;0;La Liga;Mostly Cloudy;N;3 mph;32 °F;55 %;27.77 in
+02.03.2005;Villarreal;Mallorca;2;1;La Liga;Fair;E;3 mph;28 °F;80 %;29.71 in
+02.03.2005;Real Madrid;Real Betis;3;1;La Liga;Mostly Cloudy;N;3 mph;32 °F;55 %;27.77 in
+26.02.2005;Espanyol;Albacete;2;1;La Liga;Fair;VAR;2 mph;32 °F;64 %;27.82 in
+26.02.2005;Mallorca;Levante;1;2;La Liga;Fair;SE;2 mph;36 °F;92 %;27.97 in
+26.02.2005;Numancia;Barcelona;1;1;La Liga;Fair;VAR;2 mph;32 °F;64 %;27.82 in
+26.02.2005;Deportivo;Real Madrid;2;0;La Liga;Fair;VAR;2 mph;32 °F;64 %;27.82 in
+27.02.2005;Sevilla;R. Santander;2;2;La Liga;Fair;VAR;1 mph;32 °F;75 %;27.85 in
+27.02.2005;Real Zaragoza;Villarreal;1;0;La Liga;Fair;VAR;1 mph;32 °F;75 %;27.85 in
+27.02.2005;Osasuna;Malaga;1;6;La Liga;Partly Cloudy;VAR;1 mph;41 °F;70 %;29.46 in
+27.02.2005;Atl. Madrid;R. Sociedad;1;0;La Liga;Fair;VAR;1 mph;32 °F;75 %;27.85 in
+27.02.2005;Valencia;Real Betis;2;1;La Liga;Mostly Cloudy;WNW;3 mph;45 °F;66 %;29.64 in
+16.03.2005;Ath. Bilbao;Getafe;1;2;La Liga;Fair;SSE;15 mph;64 °F;49 %;30.09 in
+19.02.2005;Barcelona;Mallorca;2;0;La Liga;Partly Cloudy;N;9 mph;41 °F;70 %;30.13 in
+19.02.2005;Real Madrid;Ath. Bilbao;0;2;La Liga;Fair;VAR;3 mph;36 °F;56 %;28.13 in
+19.02.2005;R. Sociedad;Sevilla;1;0;La Liga;Fair;VAR;3 mph;36 °F;56 %;28.13 in
+20.02.2005;Albacete;Numancia;1;2;La Liga;Fair;N;12 mph;43 °F;57 %;28.07 in
+20.02.2005;Real Betis;Deportivo;2;0;La Liga;Fair;N;17 mph;54 °F;35 %;29.78 in
+20.02.2005;Levante;Real Zaragoza;0;0;La Liga;Fair;N;12 mph;43 °F;57 %;28.07 in
+20.02.2005;Getafe;Osasuna;0;0;La Liga;Fair;N;17 mph;54 °F;35 %;29.78 in
+20.02.2005;Malaga;Espanyol;3;2;La Liga;Fair;N;12 mph;43 °F;57 %;28.07 in
+20.02.2005;R. Santander;Valencia;1;0;La Liga;Fair;N;12 mph;43 °F;57 %;28.07 in
+20.02.2005;Villarreal;Atl. Madrid;3;2;La Liga;Mostly Cloudy;NNW;7 mph;48 °F;71 %;30.06 in
+12.02.2005;Real Zaragoza;Barcelona;1;4;La Liga;Fair;N;2 mph;39 °F;81 %;28.48 in
+12.02.2005;Valencia;Deportivo;1;2;La Liga;Fair;WNW;5 mph;45 °F;87 %;30.25 in
+13.02.2005;Atl. Madrid;Levante;0;0;La Liga;Fair;VAR;2 mph;43 °F;81 %;28.32 in
+13.02.2005;R. Santander;R. Sociedad;1;3;La Liga;Fair;VAR;2 mph;43 °F;81 %;28.32 in
+13.02.2005;Espanyol;Getafe;2;0;La Liga;Fair;VAR;2 mph;43 °F;81 %;28.32 in
+13.02.2005;Sevilla;Villarreal;2;1;La Liga;Fair;VAR;2 mph;43 °F;81 %;28.32 in
+13.02.2005;Mallorca;Albacete;2;1;La Liga;Fair;WSW;2 mph;36 °F;67 %;28.45 in
+13.02.2005;Numancia;Malaga;0;1;La Liga;Fair;VAR;2 mph;43 °F;81 %;28.32 in
+13.02.2005;Osasuna;Real Madrid;1;2;La Liga;Partly Cloudy;CALM;0 mph;43 °F;93 %;29.70 in
+13.02.2005;Ath. Bilbao;Real Betis;4;4;La Liga;Mostly Cloudy;W;6 mph;52 °F;82 %;30.23 in
+05.02.2005;R. Sociedad;Valencia;3;3;La Liga;Partly Cloudy;NNW;6 mph;36 °F;75 %;28.21 in
+05.02.2005;Real Madrid;Espanyol;4;0;La Liga;Partly Cloudy;NNW;6 mph;36 °F;75 %;28.21 in
+06.02.2005;Albacete;Real Zaragoza;2;1;La Liga;Mostly Cloudy;ENE;1 mph;41 °F;70 %;28.02 in
+06.02.2005;Real Betis;Osasuna;3;1;La Liga;Mostly Cloudy;CALM;0 mph;46 °F;93 %;29.87 in
+06.02.2005;Levante;Sevilla;0;3;La Liga;Mostly Cloudy;ENE;1 mph;41 °F;70 %;28.02 in
+06.02.2005;Malaga;Mallorca;0;0;La Liga;Mostly Cloudy;ENE;1 mph;41 °F;70 %;28.02 in
+06.02.2005;Getafe;Numancia;1;0;La Liga;Mostly Cloudy;CALM;0 mph;46 °F;93 %;29.87 in
+06.02.2005;Villarreal;R. Santander;2;1;La Liga;Fair;E;3 mph;36 °F;81 %;29.91 in
+06.02.2005;Deportivo;Ath. Bilbao;1;1;La Liga;Mostly Cloudy;ENE;1 mph;41 °F;70 %;28.02 in
+06.02.2005;Barcelona;Atl. Madrid;0;2;La Liga;Mostly Cloudy;NW;6 mph;50 °F;82 %;30.13 in
+29.01.2005;Atl. Madrid;Albacete;3;1;La Liga;Partly Cloudy;NE;2 mph;36 °F;70 %;27.96 in
+29.01.2005;Sevilla;Barcelona;0;4;La Liga;Partly Cloudy;NE;2 mph;36 °F;70 %;27.96 in
+30.01.2005;Espanyol;Real Betis;2;2;La Liga;Fair;NNE;8 mph;36 °F;56 %;28.10 in
+30.01.2005;R. Santander;Levante;2;2;La Liga;Fair;NNE;8 mph;36 °F;56 %;28.10 in
+30.01.2005;R. Sociedad;Villarreal;0;4;La Liga;Fair;NNE;8 mph;36 °F;56 %;28.10 in
+30.01.2005;Real Zaragoza;Malaga;1;0;La Liga;Fair;NNE;8 mph;36 °F;56 %;28.10 in
+30.01.2005;Mallorca;Getafe;3;1;La Liga;Mostly Cloudy;SW;6 mph;38 °F;76 %;28.17 in
+30.01.2005;Osasuna;Deportivo;1;1;La Liga;Fair;CALM;0 mph;25 °F;64 %;29.76 in
+30.01.2005;Numancia;Real Madrid;1;2;La Liga;Fair;NNE;8 mph;36 °F;56 %;28.10 in
+30.01.2005;Valencia;Ath. Bilbao;2;2;La Liga;Mostly Cloudy;NE;8 mph;46 °F;76 %;29.87 in
+22.01.2005;Barcelona;R. Santander;3;0;La Liga;Fair;N;7 mph;50 °F;82 %;30.13 in
+22.01.2005;Ath. Bilbao;Osasuna;4;3;La Liga;Mostly Cloudy;W;2 mph;50 °F;87 %;30.18 in
+23.01.2005;Getafe;Real Zaragoza;3;0;La Liga;Fair;WNW;5 mph;45 °F;87 %;29.93 in
+23.01.2005;Albacete;Sevilla;0;2;La Liga;Fair;N;2 mph;39 °F;65 %;28.13 in
+23.01.2005;Deportivo;Espanyol;4;1;La Liga;Fair;N;2 mph;39 °F;65 %;28.13 in
+23.01.2005;Real Betis;Numancia;4;0;La Liga;Fair;WNW;5 mph;45 °F;87 %;29.93 in
+23.01.2005;Villarreal;Valencia;3;1;La Liga;Mostly Cloudy;VAR;2 mph;48 °F;87 %;30.03 in
+23.01.2005;Levante;R. Sociedad;2;1;La Liga;Fair;N;2 mph;39 °F;65 %;28.13 in
+23.01.2005;Malaga;Atl. Madrid;1;0;La Liga;Fair;N;2 mph;39 °F;65 %;28.13 in
+23.01.2005;Real Madrid;Mallorca;3;1;La Liga;Fair;N;2 mph;39 °F;65 %;28.13 in
+15.01.2005;Getafe;Atl. Madrid;1;1;La Liga;Fair;VAR;3 mph;43 °F;93 %;30.08 in
+15.01.2005;Malaga;Sevilla;1;0;La Liga;Fair;NNW;3 mph;37 °F;93 %;28.24 in
+16.01.2005;Albacete;R. Santander;0;0;La Liga;Fair;NNW;3 mph;37 °F;93 %;28.21 in
+16.01.2005;Ath. Bilbao;Espanyol;1;1;La Liga;Fair;SE;14 mph;48 °F;62 %;30.09 in
+16.01.2005;Deportivo;Numancia;1;1;La Liga;Fair;NNW;3 mph;37 °F;93 %;28.21 in
+16.01.2005;Real Betis;Mallorca;2;0;La Liga;Mostly Cloudy;NW;6 mph;48 °F;93 %;30.05 in
+16.01.2005;Levante;Villarreal;2;4;La Liga;Fair;NNW;3 mph;37 °F;93 %;28.21 in
+16.01.2005;Osasuna;Valencia;0;0;La Liga;Fair;VAR;1 mph;45 °F;100 %;29.96 in
+16.01.2005;Barcelona;R. Sociedad;1;0;La Liga;Mostly Cloudy;N;6 mph;52 °F;82 %;30.28 in
+16.01.2005;Real Madrid;Real Zaragoza;3;1;La Liga;Fair;NNW;3 mph;37 °F;93 %;28.21 in
+08.01.2005;Sevilla;Getafe;0;0;La Liga;Fair;N;3 mph;30 °F;86 %;28.48 in
+08.01.2005;Numancia;Ath. Bilbao;1;1;La Liga;Fair;N;3 mph;30 °F;86 %;28.48 in
+08.01.2005;Valencia;Levante;2;1;La Liga;Partly Cloudy;WNW;5 mph;39 °F;93 %;30.34 in
+09.01.2005;R. Sociedad;Albacete;0;2;La Liga;Fair;NNW;1 mph;30 °F;86 %;28.43 in
+09.01.2005;R. Santander;Malaga;2;1;La Liga;Fair;NNW;1 mph;30 °F;86 %;28.43 in
+09.01.2005;Espanyol;Osasuna;4;1;La Liga;Fair;NNW;1 mph;30 °F;86 %;28.43 in
+09.01.2005;Real Zaragoza;Real Betis;1;0;La Liga;Fair;NNW;1 mph;30 °F;86 %;28.43 in
+09.01.2005;Mallorca;Deportivo;2;2;La Liga;Fair;W;1 mph;26 °F;78 %;28.57 in
+09.01.2005;Atl. Madrid;Real Madrid;0;3;La Liga;Fair;NNW;1 mph;30 °F;86 %;28.43 in
+09.01.2005;Villarreal;Barcelona;3;0;La Liga;Fair;VAR;2 mph;37 °F;65 %;30.29 in
+21.12.2004;Barcelona;Levante;2;1;La Liga;Mostly Cloudy;N;9 mph;52 °F;62 %;30.07 in
+21.12.2004;Real Betis;Atl. Madrid;1;0;La Liga;Fair;NW;9 mph;48 °F;57 %;29.90 in
+22.12.2004;Albacete;Villarreal;2;2;La Liga;Fair;VAR;2 mph;36 °F;75 %;28.18 in
+22.12.2004;Ath. Bilbao;Mallorca;4;0;La Liga;Mostly Cloudy;E;3 mph;41 °F;87 %;30.26 in
+22.12.2004;Deportivo;Real Zaragoza;2;3;La Liga;Fair;VAR;2 mph;36 °F;75 %;28.18 in
+22.12.2004;Valencia;Espanyol;3;0;La Liga;Fair;NW;5 mph;45 °F;81 %;29.99 in
+22.12.2004;Osasuna;Numancia;2;0;La Liga;Partly Cloudy;VAR;3 mph;39 °F;65 %;29.93 in
+22.12.2004;Getafe;R. Santander;2;0;La Liga;Fair;NW;5 mph;45 °F;81 %;29.99 in
+22.12.2004;Malaga;R. Sociedad;1;5;La Liga;Fair;VAR;2 mph;36 °F;75 %;28.18 in
+22.12.2004;Real Madrid;Sevilla;0;1;La Liga;Fair;VAR;2 mph;36 °F;75 %;28.18 in
+18.12.2004;Levante;Albacete;1;1;La Liga;Fair;WNW;10 mph;52 °F;67 %;28.21 in
+18.12.2004;R. Santander;Real Madrid;2;3;La Liga;Fair;WNW;10 mph;52 °F;67 %;28.21 in
+18.12.2004;Barcelona;Valencia;1;1;La Liga;Fair;ESE;2 mph;59 °F;59 %;29.86 in
+19.12.2004;R. Sociedad;Getafe;1;1;La Liga;Fair;WNW;10 mph;54 °F;62 %;28.21 in
+19.12.2004;Real Zaragoza;Ath. Bilbao;0;2;La Liga;Fair;WNW;10 mph;54 °F;62 %;28.21 in
+19.12.2004;Mallorca;Osasuna;1;2;La Liga;Fair;N;1 mph;37 °F;90 %;28.39 in
+19.12.2004;Villarreal;Malaga;3;0;La Liga;Mostly Cloudy;VAR;2 mph;55 °F;67 %;29.88 in
+19.12.2004;Numancia;Espanyol;0;0;La Liga;Fair;WNW;10 mph;54 °F;62 %;28.21 in
+19.12.2004;Sevilla;Real Betis;2;1;La Liga;Fair;WNW;10 mph;54 °F;62 %;28.21 in
+19.12.2004;Atl. Madrid;Deportivo;1;0;La Liga;Fair;WNW;10 mph;54 °F;62 %;28.21 in
+11.12.2004;Albacete;Barcelona;1;2;La Liga;Fair;N;2 mph;37 °F;100 %;28.15 in
+11.12.2004;Ath. Bilbao;Atl. Madrid;1;0;La Liga;Cloudy;ESE;5 mph;48 °F;87 %;30.09 in
+12.12.2004;Deportivo;Sevilla;2;2;La Liga;Fair;CALM;0 mph;39 °F;87 %;28.13 in
+12.12.2004;Real Betis;R. Santander;2;1;La Liga;Fair;NW;7 mph;50 °F;87 %;29.96 in
+12.12.2004;Valencia;Numancia;1;0;La Liga;Fair;NW;7 mph;50 °F;87 %;29.96 in
+12.12.2004;Osasuna;Real Zaragoza;2;2;La Liga;Mostly Cloudy;NE;5 mph;52 °F;67 %;29.90 in
+12.12.2004;Getafe;Villarreal;1;2;La Liga;Fair;NW;7 mph;50 °F;87 %;29.96 in
+12.12.2004;Malaga;Levante;1;0;La Liga;Fair;CALM;0 mph;39 °F;87 %;28.13 in
+12.12.2004;Espanyol;Mallorca;2;1;La Liga;Fair;CALM;0 mph;39 °F;87 %;28.13 in
+05.01.2005;Real Madrid;R. Sociedad;2;1;La Liga;Fair;N;2 mph;30 °F;93 %;28.57 in
+04.12.2004;Albacete;Valencia;0;1;La Liga;Mostly Cloudy;N;9 mph;43 °F;81 %;28.04 in
+04.12.2004;Barcelona;Malaga;4;0;La Liga;Partly Cloudy;N;7 mph;57 °F;63 %;30.07 in
+04.12.2004;R. Sociedad;Real Betis;1;0;La Liga;Mostly Cloudy;N;9 mph;43 °F;81 %;28.04 in
+05.12.2004;R. Santander;Deportivo;2;2;La Liga;Mostly Cloudy;NNE;5 mph;46 °F;71 %;28.15 in
+05.12.2004;Real Zaragoza;Espanyol;0;1;La Liga;Mostly Cloudy;NNE;5 mph;46 °F;71 %;28.15 in
+05.12.2004;Sevilla;Ath. Bilbao;2;0;La Liga;Mostly Cloudy;NNE;5 mph;46 °F;71 %;28.15 in
+05.12.2004;Levante;Getafe;0;0;La Liga;Mostly Cloudy;NNE;5 mph;46 °F;71 %;28.15 in
+05.12.2004;Mallorca;Numancia;3;2;La Liga;Cloudy;;0 mph;40 °F;95 %;28.17 in
+05.12.2004;Villarreal;Real Madrid;0;0;La Liga;Mostly Cloudy;VAR;1 mph;48 °F;82 %;30.21 in
+05.12.2004;Atl. Madrid;Osasuna;3;2;La Liga;Mostly Cloudy;NNE;5 mph;46 °F;71 %;28.15 in
+27.11.2004;Ath. Bilbao;R. Santander;3;0;La Liga;Fair;VAR;2 mph;43 °F;81 %;30.18 in
+27.11.2004;Getafe;Barcelona;1;2;La Liga;Mostly Cloudy;WNW;3 mph;54 °F;94 %;30.13 in
+27.11.2004;Espanyol;Atl. Madrid;2;1;La Liga;Fair;N;3 mph;39 °F;93 %;28.32 in
+28.11.2004;Real Betis;Villarreal;2;1;La Liga;Mostly Cloudy;W;3 mph;54 °F;88 %;30.02 in
+28.11.2004;Deportivo;R. Sociedad;2;2;La Liga;Fair;N;2 mph;41 °F;87 %;28.18 in
+28.11.2004;Osasuna;Sevilla;4;1;La Liga;Fair;CALM;0 mph;37 °F;100 %;29.82 in
+28.11.2004;Numancia;Real Zaragoza;2;1;La Liga;Fair;N;2 mph;41 °F;87 %;28.18 in
+28.11.2004;Malaga;Albacete;0;2;La Liga;Fair;N;2 mph;41 °F;87 %;28.18 in
+28.11.2004;Real Madrid;Levante;5;0;La Liga;Fair;N;2 mph;41 °F;87 %;28.18 in
+28.11.2004;Valencia;Mallorca;2;0;La Liga;Mostly Cloudy;W;3 mph;54 °F;88 %;30.02 in
+20.11.2004;Villarreal;Deportivo;0;2;La Liga;Mostly Cloudy;VAR;2 mph;55 °F;88 %;30.23 in
+20.11.2004;Malaga;Valencia;0;2;La Liga;Fair;NW;5 mph;43 °F;81 %;28.26 in
+20.11.2004;Barcelona;Real Madrid;3;0;La Liga;Fair;NNW;12 mph;52 °F;71 %;30.16 in
+21.11.2004;Albacete;Getafe;1;1;La Liga;Fair;N;3 mph;41 °F;87 %;28.24 in
+21.11.2004;R. Santander;Osasuna;1;1;La Liga;Fair;N;3 mph;41 °F;87 %;28.24 in
+21.11.2004;Real Zaragoza;Mallorca;0;1;La Liga;Fair;N;3 mph;41 °F;87 %;28.24 in
+21.11.2004;Sevilla;Espanyol;1;0;La Liga;Fair;N;3 mph;41 °F;87 %;28.24 in
+21.11.2004;Levante;Real Betis;1;2;La Liga;Fair;N;3 mph;41 °F;87 %;28.24 in
+21.11.2004;Atl. Madrid;Numancia;2;0;La Liga;Fair;N;3 mph;41 °F;87 %;28.24 in
+21.11.2004;R. Sociedad;Ath. Bilbao;3;2;La Liga;Fair;N;3 mph;41 °F;87 %;28.24 in
+13.11.2004;Ath. Bilbao;Villarreal;2;1;La Liga;Mostly Cloudy;E;1 mph;46 °F;87 %;30.18 in
+13.11.2004;Espanyol;R. Santander;2;1;La Liga;Fair;ENE;9 mph;43 °F;66 %;28.10 in
+13.11.2004;Valencia;Real Zaragoza;0;0;La Liga;Partly Cloudy;NW;9 mph;55 °F;47 %;29.78 in
+13.11.2004;Getafe;Malaga;1;0;La Liga;Partly Cloudy;NW;9 mph;55 °F;47 %;29.78 in
+13.11.2004;Osasuna;R. Sociedad;1;0;La Liga;Partly Cloudy;VAR;3 mph;54 °F;51 %;29.64 in
+13.11.2004;Numancia;Sevilla;2;1;La Liga;Fair;ENE;9 mph;43 °F;66 %;28.10 in
+13.11.2004;Deportivo;Levante;1;0;La Liga;Fair;ENE;9 mph;43 °F;66 %;28.10 in
+14.11.2004;Mallorca;Atl. Madrid;1;1;La Liga;Fair;W;8 mph;40 °F;70 %;28.14 in
+14.11.2004;Real Madrid;Albacete;6;1;La Liga;Fair / Windy;NNE;22 mph;48 °F;54 %;28.07 in
+14.11.2004;Real Betis;Barcelona;2;1;La Liga;Fair;NW;10 mph;57 °F;38 %;29.69 in
+06.11.2004;Barcelona;Deportivo;2;1;La Liga;Partly Cloudy;N;13 mph;59 °F;72 %;30.16 in
+06.11.2004;Albacete;Real Betis;0;0;La Liga;Fair;NNW;7 mph;52 °F;76 %;28.21 in
+07.11.2004;R. Sociedad;Espanyol;0;2;La Liga;Fair;N;2 mph;50 °F;71 %;28.10 in
+07.11.2004;R. Santander;Numancia;2;0;La Liga;Fair;N;2 mph;50 °F;71 %;28.10 in
+07.11.2004;Sevilla;Mallorca;1;1;La Liga;Fair;N;2 mph;50 °F;71 %;28.10 in
+07.11.2004;Levante;Ath. Bilbao;1;0;La Liga;Fair;N;2 mph;50 °F;71 %;28.10 in
+07.11.2004;Getafe;Valencia;1;0;La Liga;Fair;NW;3 mph;55 °F;100 %;29.81 in
+07.11.2004;Villarreal;Osasuna;3;0;La Liga;Partly Cloudy;VAR;3 mph;50 °F;87 %;30.12 in
+07.11.2004;Malaga;Real Madrid;0;2;La Liga;Fair;N;2 mph;50 °F;71 %;28.10 in
+07.11.2004;Atl. Madrid;Real Zaragoza;1;1;La Liga;Fair;N;2 mph;50 °F;71 %;28.10 in
+30.10.2004;Ath. Bilbao;Barcelona;1;1;La Liga;Fair;SSW;13 mph;61 °F;45 %;29.44 in
+30.10.2004;Valencia;Atl. Madrid;1;1;La Liga;Partly Cloudy;VAR;3 mph;52 °F;82 %;29.49 in
+31.10.2004;Espanyol;Villarreal;0;0;La Liga;Mostly Cloudy;VAR;3 mph;48 °F;93 %;27.82 in
+31.10.2004;Mallorca;R. Santander;1;2;La Liga;Mostly Cloudy;WSW;2 mph;44 °F;95 %;27.97 in
+31.10.2004;Real Zaragoza;Sevilla;3;0;La Liga;Mostly Cloudy;VAR;3 mph;48 °F;93 %;27.82 in
+31.10.2004;Osasuna;Levante;0;1;La Liga;Mostly Cloudy;VAR;1 mph;57 °F;88 %;29.44 in
+31.10.2004;Deportivo;Albacete;0;0;La Liga;Mostly Cloudy;VAR;3 mph;48 °F;93 %;27.82 in
+31.10.2004;Numancia;R. Sociedad;0;2;La Liga;Mostly Cloudy;VAR;3 mph;48 °F;93 %;27.82 in
+31.10.2004;Real Madrid;Getafe;2;0;La Liga;Mostly Cloudy;VAR;3 mph;48 °F;93 %;27.82 in
+31.10.2004;Real Betis;Malaga;1;1;La Liga;Fair;W;6 mph;54 °F;72 %;29.55 in
+23.10.2004;Malaga;Deportivo;1;1;La Liga;Fair;N;2 mph;55 °F;88 %;28.18 in
+23.10.2004;Real Madrid;Valencia;1;0;La Liga;Fair;N;2 mph;55 °F;88 %;28.18 in
+24.10.2004;Albacete;Ath. Bilbao;1;0;La Liga;Fair;VAR;1 mph;61 °F;82 %;28.02 in
+24.10.2004;R. Santander;Real Zaragoza;1;0;La Liga;Fair;VAR;1 mph;61 °F;82 %;28.02 in
+24.10.2004;R. Sociedad;Mallorca;2;1;La Liga;Fair;VAR;1 mph;61 °F;82 %;28.02 in
+24.10.2004;Getafe;Real Betis;0;2;La Liga;Fair;VAR;2 mph;64 °F;94 %;29.84 in
+24.10.2004;Villarreal;Numancia;4;0;La Liga;Fair;VAR;2 mph;75 °F;47 %;29.71 in
+24.10.2004;Levante;Espanyol;0;2;La Liga;Fair;VAR;1 mph;61 °F;82 %;28.02 in
+24.10.2004;Sevilla;Atl. Madrid;2;1;La Liga;Fair;VAR;1 mph;61 °F;82 %;28.02 in
+24.10.2004;Barcelona;Osasuna;3;0;La Liga;Fair;VAR;3 mph;64 °F;83 %;30.07 in
+16.10.2004;Deportivo;Getafe;2;1;La Liga;Fair / Windy;WNW;21 mph;57 °F;41 %;27.93 in
+16.10.2004;Real Betis;Real Madrid;1;1;La Liga;Fair;W;10 mph;61 °F;48 %;29.67 in
+16.10.2004;Espanyol;Barcelona;0;1;La Liga;Fair / Windy;WNW;21 mph;57 °F;41 %;27.93 in
+17.10.2004;Ath. Bilbao;Malaga;1;0;La Liga;Mostly Cloudy;VAR;2 mph;50 °F;82 %;29.76 in
+17.10.2004;Real Zaragoza;R. Sociedad;2;1;La Liga;Partly Cloudy;W;12 mph;59 °F;55 %;27.91 in
+17.10.2004;Mallorca;Villarreal;1;1;La Liga;Fair;;0 mph;44 °F;72 %;28.07 in
+17.10.2004;Numancia;Levante;1;3;La Liga;Partly Cloudy;W;12 mph;59 °F;55 %;27.91 in
+17.10.2004;Atl. Madrid;R. Santander;1;0;La Liga;Partly Cloudy;W;12 mph;59 °F;55 %;27.91 in
+17.10.2004;Osasuna;Albacete;3;2;La Liga;Partly Cloudy;NNW;3 mph;55 °F;77 %;29.46 in
+17.10.2004;Valencia;Sevilla;1;2;La Liga;Fair;SW;7 mph;66 °F;46 %;29.64 in
+02.10.2004;Real Betis;Valencia;1;1;La Liga;Fair;NW;5 mph;68 °F;88 %;29.96 in
+02.10.2004;R. Sociedad;Atl. Madrid;1;0;La Liga;Fair;VAR;1 mph;68 °F;30 %;28.15 in
+03.10.2004;Albacete;Espanyol;1;0;La Liga;Fair;SE;3 mph;68 °F;35 %;28.15 in
+03.10.2004;R. Santander;Sevilla;0;0;La Liga;Fair;SE;3 mph;68 °F;35 %;28.15 in
+03.10.2004;Getafe;Ath. Bilbao;3;1;La Liga;Fair;NNW;7 mph;70 °F;88 %;29.96 in
+03.10.2004;Villarreal;Real Zaragoza;2;0;La Liga;Cloudy;E;3 mph;66 °F;78 %;30.09 in
+03.10.2004;Levante;Mallorca;2;0;La Liga;Fair;SE;3 mph;68 °F;35 %;28.15 in
+03.10.2004;Malaga;Osasuna;2;0;La Liga;Fair;SE;3 mph;68 °F;35 %;28.15 in
+03.10.2004;Barcelona;Numancia;1;0;La Liga;Fair;NNW;6 mph;72 °F;83 %;30.19 in
+03.10.2004;Real Madrid;Deportivo;0;1;La Liga;Fair;SE;3 mph;68 °F;35 %;28.15 in
+25.09.2004;Atl. Madrid;Villarreal;1;0;La Liga;Fair;NE;14 mph;66 °F;56 %;28.04 in
+25.09.2004;Ath. Bilbao;Real Madrid;2;1;La Liga;Partly Cloudy;ENE;2 mph;54 °F;88 %;30.09 in
+25.09.2004;Deportivo;Real Betis;1;1;La Liga;Fair;NE;14 mph;66 °F;56 %;28.04 in
+26.09.2004;Espanyol;Malaga;1;0;La Liga;Fair;E;6 mph;57 °F;44 %;28.18 in
+26.09.2004;Valencia;R. Santander;2;0;La Liga;Fair;NW;5 mph;63 °F;77 %;29.93 in
+26.09.2004;Numancia;Albacete;0;0;La Liga;Fair;E;6 mph;57 °F;44 %;28.18 in
+26.09.2004;Real Zaragoza;Levante;4;3;La Liga;Fair;E;6 mph;57 °F;44 %;28.18 in
+26.09.2004;Osasuna;Getafe;2;1;La Liga;Fair;VAR;2 mph;59 °F;55 %;29.82 in
+26.09.2004;Mallorca;Barcelona;1;3;La Liga;Partly Cloudy;SSE;6 mph;56 °F;66 %;28.17 in
+26.09.2004;Sevilla;R. Sociedad;2;1;La Liga;Fair;E;6 mph;57 °F;44 %;28.18 in
+21.09.2004;Real Madrid;Osasuna;1;0;La Liga;Fair;NNW;3 mph;70 °F;43 %;28.13 in
+22.09.2004;Albacete;Mallorca;0;0;La Liga;Fair;VAR;2 mph;75 °F;22 %;28.21 in
+22.09.2004;Real Betis;Ath. Bilbao;2;1;La Liga;Partly Cloudy;W;3 mph;72 °F;88 %;29.99 in
+22.09.2004;R. Sociedad;R. Santander;0;1;La Liga;Fair;VAR;2 mph;75 °F;22 %;28.21 in
+22.09.2004;Getafe;Espanyol;1;0;La Liga;Partly Cloudy;W;3 mph;72 °F;88 %;29.99 in
+22.09.2004;Levante;Atl. Madrid;1;0;La Liga;Fair;VAR;2 mph;75 °F;22 %;28.21 in
+22.09.2004;Malaga;Numancia;4;1;La Liga;Fair;VAR;2 mph;75 °F;22 %;28.21 in
+22.09.2004;Villarreal;Sevilla;0;0;La Liga;Mostly Cloudy;VAR;1 mph;64 °F;83 %;30.26 in
+22.09.2004;Deportivo;Valencia;1;5;La Liga;Fair;VAR;2 mph;75 °F;22 %;28.21 in
+23.09.2004;Barcelona;Real Zaragoza;4;1;La Liga;Fair;NW;5 mph;70 °F;83 %;30.13 in
+18.09.2004;Osasuna;Real Betis;3;2;La Liga;Fair;CALM;0 mph;63 °F;82 %;29.84 in
+18.09.2004;Espanyol;Real Madrid;1;0;La Liga;Fair;N;3 mph;66 °F;37 %;28.15 in
+18.09.2004;Valencia;R. Sociedad;3;1;La Liga;Fair;NW;3 mph;70 °F;78 %;29.93 in
+19.09.2004;R. Santander;Villarreal;1;1;La Liga;Fair;NNW;7 mph;68 °F;37 %;28.07 in
+19.09.2004;Sevilla;Levante;3;0;La Liga;Fair;NNW;7 mph;68 °F;37 %;28.07 in
+19.09.2004;Real Zaragoza;Albacete;4;3;La Liga;Fair;NNW;7 mph;68 °F;37 %;28.07 in
+19.09.2004;Mallorca;Malaga;1;2;La Liga;Fair;WSW;5 mph;62 °F;71 %;28.14 in
+19.09.2004;Numancia;Getafe;1;0;La Liga;Fair;NNW;7 mph;68 °F;37 %;28.07 in
+19.09.2004;Atl. Madrid;Barcelona;1;1;La Liga;Fair;NNW;7 mph;68 °F;37 %;28.07 in
+19.09.2004;Ath. Bilbao;Deportivo;1;2;La Liga;Cloudy;NW;7 mph;66 °F;83 %;30.03 in
+11.09.2004;Ath. Bilbao;Valencia;2;2;La Liga;Mostly Cloudy;CALM;0 mph;72 °F;78 %;30.00 in
+11.09.2004;Real Madrid;Numancia;1;0;La Liga;Fair;NE;1 mph;73 °F;38 %;28.13 in
+11.09.2004;Barcelona;Sevilla;2;0;La Liga;Fair;N;2 mph;75 °F;78 %;30.13 in
+12.09.2004;Deportivo;Osasuna;1;3;La Liga;Fair;VAR;3 mph;75 °F;31 %;28.15 in
+12.09.2004;Real Betis;Espanyol;1;4;La Liga;Partly Cloudy;N;5 mph;75 °F;78 %;29.87 in
+12.09.2004;Levante;R. Santander;3;1;La Liga;Fair;VAR;3 mph;75 °F;31 %;28.15 in
+12.09.2004;Malaga;Real Zaragoza;0;0;La Liga;Fair;VAR;3 mph;75 °F;31 %;28.15 in
+12.09.2004;Getafe;Mallorca;1;2;La Liga;Partly Cloudy;N;5 mph;75 °F;78 %;29.87 in
+12.09.2004;Villarreal;R. Sociedad;0;0;La Liga;Partly Cloudy;VAR;2 mph;68 °F;83 %;30.12 in
+12.09.2004;Albacete;Atl. Madrid;0;2;La Liga;Fair;VAR;3 mph;75 °F;31 %;28.15 in
+28.08.2004;Atl. Madrid;Malaga;2;0;La Liga;Fair;N;2 mph;73 °F;29 %;27.99 in
+28.08.2004;Numancia;Real Betis;1;1;La Liga;Fair;N;2 mph;73 °F;29 %;27.99 in
+28.08.2004;Espanyol;Deportivo;1;1;La Liga;Fair;N;2 mph;73 °F;29 %;27.99 in
+29.08.2004;R. Sociedad;Levante;1;1;La Liga;Fair;NNE;10 mph;79 °F;28 %;27.99 in
+29.08.2004;Mallorca;Real Madrid;0;1;La Liga;Fair;SSW;2 mph;63 °F;56 %;28.04 in
+29.08.2004;Real Zaragoza;Getafe;3;1;La Liga;Fair;NNE;10 mph;79 °F;28 %;27.99 in
+29.08.2004;Sevilla;Albacete;1;0;La Liga;Fair;NNE;10 mph;79 °F;28 %;27.99 in
+29.08.2004;Osasuna;Ath. Bilbao;1;1;La Liga;Mostly Cloudy;CALM;0 mph;70 °F;73 %;29.73 in
+29.08.2004;R. Santander;Barcelona;0;2;La Liga;Fair;NNE;10 mph;79 °F;28 %;27.99 in
+30.08.2004;Valencia;Villarreal;2;1;La Liga;Partly Cloudy;NE;5 mph;79 °F;83 %;29.84 in

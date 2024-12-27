@@ -1,0 +1,381 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+12.05.2012;R. Sociedad;Valencia;1;0;La Liga;Fair;VAR;2 mph;75 °F;50 %;30.09 in
+12.05.2012;Real Betis;Barcelona;2;2;La Liga;Fair;VAR;1 mph;70 °F;49 %;30.08 in
+13.05.2012;Getafe;Real Zaragoza;0;2;La Liga;Fair;CALM;0 mph;0 °F;0 %;29.96 in
+13.05.2012;Levante;Ath. Bilbao;3;0;La Liga;Fair;NNE;3 mph;72 °F;50 %;28.24 in
+13.05.2012;Real Madrid;Mallorca;4;1;La Liga;Fair;NNE;3 mph;72 °F;50 %;28.24 in
+13.05.2012;Rayo Vallecano;Granada;1;0;La Liga;Fair;NNE;3 mph;72 °F;50 %;28.24 in
+13.05.2012;Espanyol;Sevilla;1;1;La Liga;Fair;NNE;3 mph;72 °F;50 %;28.24 in
+13.05.2012;Malaga;Sporting Gijon;1;0;La Liga;Fair;NNE;3 mph;72 °F;50 %;28.24 in
+13.05.2012;Villarreal;Atl. Madrid;0;1;La Liga;Partly Cloudy;CALM;0 mph;54 °F;88 %;30.21 in
+13.05.2012;R. Santander;Osasuna;2;4;La Liga;Fair;NNE;3 mph;72 °F;50 %;28.24 in
+05.05.2012;Real Zaragoza;R. Santander;2;1;La Liga;Mostly Cloudy;S;5 mph;52 °F;94 %;27.85 in
+05.05.2012;Ath. Bilbao;Getafe;0;0;La Liga;Fair;S;3 mph;59 °F;55 %;29.59 in
+05.05.2012;Mallorca;Levante;1;0;La Liga;N/A;SSW;3 mph;53 °F;77 %;28.01 in
+05.05.2012;Granada;Real Madrid;1;2;La Liga;N/A;SSW;3 mph;53 °F;77 %;28.01 in
+05.05.2012;Sevilla;Rayo Vallecano;5;2;La Liga;Mostly Cloudy;S;5 mph;52 °F;94 %;27.85 in
+05.05.2012;Barcelona;Espanyol;4;0;La Liga;Fair;W;3 mph;61 °F;82 %;29.75 in
+05.05.2012;Sporting Gijon;Real Betis;2;1;La Liga;Mostly Cloudy;S;5 mph;52 °F;94 %;27.85 in
+05.05.2012;Atl. Madrid;Malaga;2;1;La Liga;Mostly Cloudy;S;5 mph;52 °F;94 %;27.85 in
+05.05.2012;Valencia;Villarreal;1;0;La Liga;Fair;W;9 mph;64 °F;52 %;29.64 in
+05.05.2012;Osasuna;R. Sociedad;1;0;La Liga;Fair;SW;8 mph;54 °F;88 %;29.44 in
+28.04.2012;Getafe;Mallorca;1;3;La Liga;Fair;VAR;1 mph;61 °F;88 %;29.61 in
+28.04.2012;Levante;Granada;3;1;La Liga;Mostly Cloudy;SSW;7 mph;54 °F;88 %;27.82 in
+28.04.2012;Espanyol;Sporting Gijon;0;3;La Liga;Mostly Cloudy;SSW;7 mph;54 °F;88 %;27.82 in
+28.04.2012;R. Sociedad;R. Santander;3;0;La Liga;Mostly Cloudy;SSW;7 mph;54 °F;88 %;27.82 in
+28.04.2012;Villarreal;Osasuna;1;1;La Liga;Mostly Cloudy;CALM;0 mph;48 °F;93 %;29.76 in
+29.04.2012;Real Madrid;Sevilla;3;0;La Liga;Fair;SW;9 mph;46 °F;76 %;27.77 in
+29.04.2012;Real Zaragoza;Ath. Bilbao;2;0;La Liga;Fair;SW;9 mph;46 °F;76 %;27.77 in
+29.04.2012;Malaga;Valencia;1;0;La Liga;Fair;SW;9 mph;46 °F;76 %;27.77 in
+29.04.2012;Real Betis;Atl. Madrid;2;2;La Liga;Fair;WSW;17 mph;57 °F;63 %;29.58 in
+29.04.2012;Rayo Vallecano;Barcelona;0;7;La Liga;Fair;SW;9 mph;46 °F;76 %;27.77 in
+21.04.2012;Mallorca;Real Zaragoza;1;0;La Liga;N/A;;0 mph;50 °F;83 %;28.07 in
+21.04.2012;Sporting Gijon;Rayo Vallecano;2;1;La Liga;Partly Cloudy;W;15 mph;59 °F;51 %;27.91 in
+21.04.2012;Barcelona;Real Madrid;1;2;La Liga;Fair;WSW;12 mph;61 °F;72 %;29.75 in
+21.04.2012;Sevilla;Levante;1;1;La Liga;Partly Cloudy;W;15 mph;59 °F;51 %;27.91 in
+22.04.2012;Granada;Getafe;1;0;La Liga;N/A;;0 mph;50 °F;72 %;28.11 in
+22.04.2012;R. Sociedad;Villarreal;1;1;La Liga;Fair;W;12 mph;59 °F;55 %;27.99 in
+22.04.2012;R. Santander;Ath. Bilbao;0;1;La Liga;Fair;W;12 mph;59 °F;55 %;27.99 in
+22.04.2012;Atl. Madrid;Espanyol;3;1;La Liga;Fair;W;12 mph;59 °F;55 %;27.99 in
+22.04.2012;Valencia;Real Betis;4;0;La Liga;Fair;WSW;13 mph;70 °F;46 %;29.69 in
+23.04.2012;Osasuna;Malaga;1;1;La Liga;Mostly Cloudy;CALM;0 mph;52 °F;82 %;29.67 in
+14.04.2012;Real Madrid;Sporting Gijon;3;1;La Liga;Fair;W;17 mph;52 °F;50 %;27.80 in
+14.04.2012;Levante;Barcelona;1;2;La Liga;Fair;W;17 mph;52 °F;50 %;27.80 in
+15.04.2012;Espanyol;Valencia;4;0;La Liga;Fair;NNW;5 mph;45 °F;81 %;27.74 in
+15.04.2012;Real Zaragoza;Granada;1;0;La Liga;Fair;NNW;5 mph;45 °F;81 %;27.74 in
+15.04.2012;Real Betis;Osasuna;1;0;La Liga;Fair;NW;16 mph;55 °F;51 %;29.40 in
+15.04.2012;Malaga;R. Sociedad;1;1;La Liga;Fair;NNW;5 mph;45 °F;81 %;27.74 in
+15.04.2012;Villarreal;R. Santander;1;1;La Liga;Mostly Cloudy;W;8 mph;43 °F;93 %;29.71 in
+15.04.2012;Ath. Bilbao;Mallorca;1;0;La Liga;Mostly Cloudy;W;8 mph;43 °F;93 %;29.71 in
+15.04.2012;Rayo Vallecano;Atl. Madrid;0;1;La Liga;Fair;NNW;5 mph;45 °F;81 %;27.74 in
+16.04.2012;Getafe;Sevilla;5;1;La Liga;Fair;NW;10 mph;55 °F;41 %;29.61 in
+10.04.2012;Osasuna;Espanyol;2;0;La Liga;Fair;CALM;0 mph;48 °F;93 %;29.44 in
+10.04.2012;R. Sociedad;Real Betis;1;1;La Liga;Fair;SW;7 mph;64 °F;37 %;27.74 in
+10.04.2012;Barcelona;Getafe;4;0;La Liga;Fair;WSW;6 mph;55 °F;82 %;29.77 in
+11.04.2012;Granada;Ath. Bilbao;2;2;La Liga;N/A;S;5 mph;53 °F;75 %;28.02 in
+11.04.2012;Sporting Gijon;Levante;3;2;La Liga;Partly Cloudy;WNW;15 mph;54 °F;47 %;27.82 in
+11.04.2012;Valencia;Rayo Vallecano;4;1;La Liga;Fair;W;14 mph;64 °F;52 %;29.52 in
+11.04.2012;Atl. Madrid;Real Madrid;1;4;La Liga;Partly Cloudy;WNW;15 mph;54 °F;47 %;27.82 in
+12.04.2012;Villarreal;Malaga;2;1;La Liga;Partly Cloudy;VAR;2 mph;54 °F;82 %;29.53 in
+12.04.2012;R. Santander;Mallorca;0;3;La Liga;Partly Cloudy;WSW;3 mph;54 °F;67 %;27.77 in
+12.04.2012;Sevilla;Real Zaragoza;3;0;La Liga;Partly Cloudy;WSW;3 mph;54 °F;67 %;27.77 in
+07.04.2012;Getafe;Sporting Gijon;2;0;La Liga;Fair;W;7 mph;50 °F;66 %;29.67 in
+07.04.2012;Rayo Vallecano;Osasuna;6;0;La Liga;Partly Cloudy;WNW;1 mph;45 °F;71 %;27.85 in
+07.04.2012;Espanyol;R. Sociedad;2;2;La Liga;Partly Cloudy;WNW;1 mph;45 °F;71 %;27.85 in
+07.04.2012;Real Zaragoza;Barcelona;1;4;La Liga;Partly Cloudy;WNW;1 mph;45 °F;71 %;27.85 in
+07.04.2012;Real Betis;Villarreal;3;1;La Liga;Fair;W;7 mph;50 °F;66 %;29.67 in
+08.04.2012;Levante;Atl. Madrid;2;0;La Liga;Fair;N;8 mph;46 °F;76 %;27.99 in
+08.04.2012;Mallorca;Granada;0;0;La Liga;N/A;;0 mph;40 °F;77 %;28.13 in
+08.04.2012;Ath. Bilbao;Sevilla;1;0;La Liga;Partly Cloudy;W;5 mph;50 °F;71 %;29.97 in
+08.04.2012;Real Madrid;Valencia;0;0;La Liga;Fair;N;8 mph;46 °F;76 %;27.99 in
+09.04.2012;Malaga;R. Santander;3;0;La Liga;Fair;N;2 mph;54 °F;62 %;27.99 in
+31.03.2012;R. Santander;Granada;0;1;La Liga;Fair;ENE;3 mph;57 °F;31 %;27.91 in
+31.03.2012;Sporting Gijon;Real Zaragoza;1;2;La Liga;Fair;ENE;3 mph;57 °F;31 %;27.91 in
+31.03.2012;Osasuna;Real Madrid;1;5;La Liga;Fair;VAR;1 mph;55 °F;63 %;29.55 in
+31.03.2012;Barcelona;Ath. Bilbao;2;0;La Liga;Fair;VAR;2 mph;59 °F;72 %;29.86 in
+31.03.2012;Malaga;Real Betis;0;2;La Liga;Fair;ENE;3 mph;57 °F;31 %;27.91 in
+01.04.2012;Atl. Madrid;Getafe;3;0;La Liga;Fair;CALM;0 mph;61 °F;34 %;27.80 in
+01.04.2012;Valencia;Levante;1;1;La Liga;Fair;VAR;2 mph;55 °F;63 %;29.58 in
+01.04.2012;R. Sociedad;Rayo Vallecano;4;0;La Liga;Fair;CALM;0 mph;61 °F;34 %;27.80 in
+01.04.2012;Villarreal;Espanyol;0;0;La Liga;Fair;CALM;0 mph;45 °F;93 %;29.76 in
+02.04.2012;Sevilla;Mallorca;3;1;La Liga;Fair;SSW;9 mph;59 °F;55 %;27.77 in
+24.03.2012;Mallorca;Barcelona;0;2;La Liga;N/A;ENE;5 mph;53 °F;66 %;28.14 in
+24.03.2012;Real Madrid;R. Sociedad;5;1;La Liga;Fair;S;6 mph;55 °F;54 %;28.13 in
+24.03.2012;Getafe;Valencia;3;1;La Liga;Fair;NW;3 mph;52 °F;94 %;30.02 in
+25.03.2012;Real Zaragoza;Atl. Madrid;1;0;La Liga;Fair;ESE;2 mph;50 °F;58 %;28.18 in
+25.03.2012;Levante;Osasuna;0;2;La Liga;Fair;ESE;2 mph;50 °F;58 %;28.18 in
+25.03.2012;Espanyol;Malaga;1;2;La Liga;Fair;ESE;2 mph;50 °F;58 %;28.18 in
+25.03.2012;Ath. Bilbao;Sporting Gijon;1;1;La Liga;Fair;E;3 mph;50 °F;66 %;30.06 in
+25.03.2012;Rayo Vallecano;Villarreal;0;2;La Liga;Fair;ESE;2 mph;50 °F;58 %;28.18 in
+25.03.2012;Real Betis;R. Santander;1;1;La Liga;Fair;VAR;2 mph;50 °F;87 %;30.05 in
+26.03.2012;Granada;Sevilla;0;3;La Liga;N/A;;0 mph;52 °F;72 %;28.20 in
+20.03.2012;Osasuna;Getafe;0;0;La Liga;Partly Cloudy;N;2 mph;43 °F;87 %;30.11 in
+20.03.2012;Barcelona;Granada;5;3;La Liga;Fair;NNW;7 mph;50 °F;76 %;30.39 in
+21.03.2012;Sporting Gijon;Mallorca;2;3;La Liga;Mostly Cloudy;NE;17 mph;41 °F;76 %;28.21 in
+21.03.2012;Atl. Madrid;Ath. Bilbao;2;1;La Liga;Mostly Cloudy;NE;17 mph;41 °F;76 %;28.21 in
+21.03.2012;Valencia;Real Zaragoza;1;2;La Liga;Partly Cloudy;NNE;18 mph;48 °F;87 %;29.87 in
+21.03.2012;R. Sociedad;Levante;1;3;La Liga;Mostly Cloudy;NE;17 mph;41 °F;76 %;28.21 in
+21.03.2012;Villarreal;Real Madrid;1;1;La Liga;Fair;CALM;0 mph;45 °F;81 %;30.21 in
+22.03.2012;R. Santander;Sevilla;0;3;La Liga;Partly Cloudy;ESE;3 mph;41 °F;87 %;28.15 in
+22.03.2012;Real Betis;Espanyol;1;1;La Liga;Fair;CALM;0 mph;46 °F;81 %;30.02 in
+22.03.2012;Malaga;Rayo Vallecano;4;2;La Liga;Partly Cloudy;ESE;3 mph;41 °F;87 %;28.15 in
+17.03.2012;Granada;Sporting Gijon;2;1;La Liga;N/A;S;3 mph;42 °F;83 %;28.37 in
+17.03.2012;Real Zaragoza;Osasuna;1;1;La Liga;Fair;SE;1 mph;50 °F;62 %;28.21 in
+17.03.2012;Getafe;R. Sociedad;1;0;La Liga;Fair;VAR;2 mph;50 °F;82 %;30.05 in
+17.03.2012;Sevilla;Barcelona;0;2;La Liga;Fair;SE;1 mph;50 °F;62 %;28.21 in
+17.03.2012;Rayo Vallecano;Real Betis;3;0;La Liga;Fair;SE;1 mph;50 °F;62 %;28.21 in
+18.03.2012;Levante;Villarreal;1;0;La Liga;Fair;WSW;18 mph;52 °F;67 %;28.18 in
+18.03.2012;Mallorca;Atl. Madrid;2;1;La Liga;N/A;;0 mph;45 °F;75 %;28.33 in
+18.03.2012;Ath. Bilbao;Valencia;0;3;La Liga;Partly Cloudy;NNW;13 mph;45 °F;87 %;30.00 in
+18.03.2012;Real Madrid;Malaga;1;1;La Liga;Fair;WSW;18 mph;52 °F;67 %;28.18 in
+19.03.2012;Espanyol;R. Santander;3;1;La Liga;Fair;N;5 mph;39 °F;45 %;28.29 in
+10.03.2012;R. Sociedad;Real Zaragoza;3;0;La Liga;Fair;E;5 mph;50 °F;35 %;28.35 in
+10.03.2012;Malaga;Levante;1;0;La Liga;Fair;E;5 mph;50 °F;35 %;28.35 in
+10.03.2012;Sporting Gijon;Sevilla;1;0;La Liga;Fair;E;5 mph;50 °F;35 %;28.35 in
+10.03.2012;Real Betis;Real Madrid;2;3;La Liga;Fair;W;3 mph;46 °F;76 %;30.31 in
+11.03.2012;Atl. Madrid;Granada;2;0;La Liga;Fair;CALM;0 mph;45 °F;49 %;28.32 in
+11.03.2012;Espanyol;Rayo Vallecano;5;1;La Liga;Fair;CALM;0 mph;45 °F;49 %;28.32 in
+11.03.2012;Valencia;Mallorca;2;2;La Liga;Fair;NW;6 mph;48 °F;66 %;30.10 in
+11.03.2012;R. Santander;Barcelona;0;2;La Liga;Fair;CALM;0 mph;45 °F;49 %;28.32 in
+11.03.2012;Osasuna;Ath. Bilbao;2;1;La Liga;Fair;CALM;0 mph;39 °F;75 %;29.96 in
+12.03.2012;Villarreal;Getafe;1;2;La Liga;Mostly Cloudy;CALM;0 mph;48 °F;93 %;30.23 in
+03.03.2012;Mallorca;Osasuna;1;1;La Liga;N/A;;0 mph;44 °F;91 %;28.46 in
+03.03.2012;Getafe;Malaga;1;3;La Liga;Fair;WSW;7 mph;50 °F;87 %;30.08 in
+03.03.2012;Rayo Vallecano;R. Santander;4;2;La Liga;Partly Cloudy;WSW;6 mph;50 °F;76 %;28.26 in
+03.03.2012;Barcelona;Sporting Gijon;3;1;La Liga;Fair;WSW;9 mph;55 °F;88 %;30.28 in
+03.03.2012;Sevilla;Atl. Madrid;1;1;La Liga;Partly Cloudy;WSW;6 mph;50 °F;76 %;28.26 in
+04.03.2012;Real Zaragoza;Villarreal;2;1;La Liga;Fair;SE;6 mph;48 °F;71 %;28.35 in
+04.03.2012;Ath. Bilbao;R. Sociedad;2;0;La Liga;Fair;VAR;1 mph;55 °F;67 %;30.09 in
+04.03.2012;Granada;Valencia;0;1;La Liga;N/A;SW;5 mph;42 °F;83 %;28.49 in
+04.03.2012;Real Madrid;Espanyol;5;0;La Liga;Fair;SE;6 mph;48 °F;71 %;28.35 in
+05.03.2012;Levante;Real Betis;3;1;La Liga;Partly Cloudy;N;9 mph;50 °F;71 %;28.26 in
+25.02.2012;R. Santander;Sporting Gijon;1;1;La Liga;Fair;N;3 mph;39 °F;36 %;28.26 in
+25.02.2012;Real Betis;Getafe;1;1;La Liga;Fair;NW;9 mph;48 °F;50 %;30.10 in
+25.02.2012;Malaga;Real Zaragoza;5;1;La Liga;Fair;N;3 mph;39 °F;36 %;28.26 in
+25.02.2012;Espanyol;Levante;1;2;La Liga;Fair;N;3 mph;39 °F;36 %;28.26 in
+26.02.2012;Villarreal;Ath. Bilbao;2;2;La Liga;Mostly Cloudy;CALM;0 mph;50 °F;94 %;30.15 in
+26.02.2012;Rayo Vallecano;Real Madrid;0;1;La Liga;Fair;NE;2 mph;45 °F;37 %;28.15 in
+26.02.2012;Valencia;Sevilla;1;2;La Liga;Fair;W;3 mph;46 °F;66 %;29.90 in
+26.02.2012;Osasuna;Granada;2;1;La Liga;Fair;WSW;1 mph;45 °F;100 %;29.73 in
+26.02.2012;R. Sociedad;Mallorca;1;0;La Liga;Fair;NE;2 mph;45 °F;37 %;28.15 in
+26.02.2012;Atl. Madrid;Barcelona;1;2;La Liga;Fair;NE;2 mph;45 °F;37 %;28.15 in
+18.02.2012;Getafe;Espanyol;1;1;La Liga;Fair;WNW;3 mph;41 °F;87 %;30.05 in
+18.02.2012;Real Madrid;R. Santander;4;0;La Liga;Fair;N;5 mph;36 °F;60 %;28.18 in
+18.02.2012;Sevilla;Osasuna;2;0;La Liga;Fair;N;5 mph;36 °F;60 %;28.18 in
+19.02.2012;Granada;R. Sociedad;4;1;La Liga;N/A;WSW;5 mph;34 °F;84 %;28.29 in
+19.02.2012;Ath. Bilbao;Malaga;3;0;La Liga;Mostly Cloudy;VAR;2 mph;43 °F;93 %;30.09 in
+19.02.2012;Sporting Gijon;Atl. Madrid;1;1;La Liga;Fair;NW;3 mph;37 °F;60 %;28.13 in
+19.02.2012;Mallorca;Villarreal;4;0;La Liga;N/A;WSW;5 mph;34 °F;84 %;28.29 in
+19.02.2012;Levante;Rayo Vallecano;3;5;La Liga;Fair;NW;3 mph;37 °F;60 %;28.13 in
+19.02.2012;Barcelona;Valencia;5;1;La Liga;Fair;NNW;6 mph;46 °F;81 %;30.10 in
+20.02.2012;Real Zaragoza;Real Betis;0;2;La Liga;Fair;NE;1 mph;43 °F;57 %;28.24 in
+11.02.2012;R. Santander;Atl. Madrid;0;0;La Liga;Fair;SE;5 mph;32 °F;60 %;28.10 in
+11.02.2012;Osasuna;Barcelona;3;2;La Liga;Fair;CALM;0 mph;27 °F;51 %;29.73 in
+11.02.2012;Real Betis;Ath. Bilbao;2;1;La Liga;Fair;NW;8 mph;37 °F;65 %;29.87 in
+12.02.2012;Espanyol;Real Zaragoza;0;2;La Liga;Fair;N;9 mph;28 °F;55 %;28.18 in
+12.02.2012;Malaga;Mallorca;3;1;La Liga;Fair;N;9 mph;28 °F;55 %;28.18 in
+12.02.2012;Rayo Vallecano;Getafe;2;0;La Liga;Fair;N;9 mph;28 °F;55 %;28.18 in
+12.02.2012;Valencia;Sporting Gijon;4;0;La Liga;Fair;NW;10 mph;39 °F;31 %;29.93 in
+12.02.2012;Villarreal;Granada;3;1;La Liga;Partly Cloudy;CALM;0 mph;34 °F;75 %;30.29 in
+12.02.2012;Real Madrid;Levante;4;2;La Liga;Fair;N;9 mph;28 °F;55 %;28.18 in
+13.02.2012;R. Sociedad;Sevilla;2;0;La Liga;Fair;NNE;10 mph;28 °F;51 %;28.26 in
+04.02.2012;Mallorca;Real Betis;1;0;La Liga;N/A;;0 mph;29 °F;36 %;28.44 in
+04.02.2012;Ath. Bilbao;Espanyol;3;3;La Liga;Partly Cloudy;NNE;5 mph;36 °F;52 %;30.50 in
+04.02.2012;Levante;R. Santander;1;1;La Liga;Fair;N;12 mph;27 °F;55 %;28.32 in
+04.02.2012;Getafe;Real Madrid;0;1;La Liga;Fair / Windy;NW;21 mph;37 °F;24 %;30.02 in
+04.02.2012;Barcelona;R. Sociedad;2;1;La Liga;Fair;NNW;15 mph;34 °F;30 %;30.13 in
+05.02.2012;Sporting Gijon;Osasuna;1;1;La Liga;Fair;NNE;16 mph;36 °F;52 %;28.40 in
+05.02.2012;Sevilla;Villarreal;1;2;La Liga;Fair;NNE;16 mph;36 °F;52 %;28.40 in
+05.02.2012;Real Zaragoza;Rayo Vallecano;1;2;La Liga;Fair;NNE;16 mph;36 °F;52 %;28.40 in
+05.02.2012;Atl. Madrid;Valencia;0;0;La Liga;Fair;NNE;16 mph;36 °F;52 %;28.40 in
+06.02.2012;Granada;Malaga;2;1;La Liga;N/A;NW;5 mph;42 °F;61 %;28.43 in
+28.01.2012;Espanyol;Mallorca;1;0;La Liga;Mostly Cloudy;N;9 mph;43 °F;66 %;28.21 in
+28.01.2012;Rayo Vallecano;Ath. Bilbao;2;3;La Liga;Mostly Cloudy;N;9 mph;43 °F;66 %;28.21 in
+28.01.2012;Real Madrid;Real Zaragoza;3;1;La Liga;Mostly Cloudy;N;9 mph;43 °F;66 %;28.21 in
+28.01.2012;Villarreal;Barcelona;0;0;La Liga;Partly Cloudy;CALM;0 mph;39 °F;93 %;30.26 in
+29.01.2012;Real Betis;Granada;1;2;La Liga;Fair;VAR;2 mph;43 °F;93 %;29.96 in
+29.01.2012;R. Sociedad;Sporting Gijon;5;1;La Liga;Fair;N;16 mph;43 °F;57 %;28.24 in
+29.01.2012;Levante;Getafe;1;2;La Liga;Fair;N;16 mph;43 °F;57 %;28.24 in
+29.01.2012;R. Santander;Valencia;2;2;La Liga;Fair;N;16 mph;43 °F;57 %;28.24 in
+29.01.2012;Malaga;Sevilla;2;1;La Liga;Fair;N;16 mph;43 °F;57 %;28.24 in
+30.01.2012;Osasuna;Atl. Madrid;0;1;La Liga;Partly Cloudy;WSW;2 mph;37 °F;93 %;29.73 in
+01.05.2012;Getafe;R. Santander;1;1;La Liga;Fair;WSW;7 mph;57 °F;63 %;29.75 in
+01.05.2012;Granada;Espanyol;2;1;La Liga;N/A;;0 mph;41 °F;94 %;28.14 in
+01.05.2012;Sporting Gijon;Villarreal;2;3;La Liga;Partly Cloudy;SSW;6 mph;48 °F;76 %;27.96 in
+02.05.2012;Atl. Madrid;R. Sociedad;1;1;La Liga;Fair;CALM;0 mph;48 °F;82 %;27.99 in
+02.05.2012;Barcelona;Malaga;4;1;La Liga;Fair;SW;3 mph;57 °F;94 %;30.01 in
+02.05.2012;Sevilla;Real Betis;1;2;La Liga;Fair;CALM;0 mph;48 °F;82 %;27.99 in
+02.05.2012;Mallorca;Rayo Vallecano;1;0;La Liga;N/A;SSW;2 mph;44 °F;82 %;28.09 in
+02.05.2012;Real Zaragoza;Levante;1;0;La Liga;Fair;CALM;0 mph;48 °F;82 %;27.99 in
+02.05.2012;Valencia;Osasuna;4;0;La Liga;Fair;NE;8 mph;59 °F;77 %;29.78 in
+02.05.2012;Ath. Bilbao;Real Madrid;0;3;La Liga;Fair;ESE;5 mph;52 °F;71 %;29.82 in
+14.01.2012;Real Zaragoza;Getafe;1;1;La Liga;Fair;NNW;3 mph;34 °F;87 %;28.21 in
+14.01.2012;Granada;Rayo Vallecano;1;2;La Liga;N/A;;0 mph;0 °F;0 %;0.00 in
+14.01.2012;Sevilla;Espanyol;0;0;La Liga;Fair;NNW;3 mph;34 °F;87 %;28.21 in
+14.01.2012;Mallorca;Real Madrid;1;2;La Liga;N/A;;0 mph;0 °F;0 %;0.00 in
+14.01.2012;Valencia;R. Sociedad;0;1;La Liga;Fair;NW;5 mph;48 °F;87 %;29.96 in
+15.01.2012;Atl. Madrid;Villarreal;3;0;La Liga;Fair;CALM;0 mph;32 °F;93 %;28.13 in
+15.01.2012;Osasuna;R. Santander;0;2;La Liga;Fair;CALM;0 mph;34 °F;87 %;29.76 in
+15.01.2012;Ath. Bilbao;Levante;3;0;La Liga;Fair;CALM;0 mph;36 °F;87 %;29.91 in
+15.01.2012;Sporting Gijon;Malaga;2;1;La Liga;Fair;CALM;0 mph;32 °F;93 %;28.13 in
+15.01.2012;Barcelona;Real Betis;4;2;La Liga;Mostly Cloudy;NNW;9 mph;45 °F;81 %;30.07 in
+07.01.2012;R. Santander;Real Zaragoza;1;0;La Liga;Fair;S;5 mph;45 °F;76 %;28.37 in
+07.01.2012;Levante;Mallorca;0;0;La Liga;Fair;S;5 mph;45 °F;76 %;28.37 in
+07.01.2012;R. Sociedad;Osasuna;0;0;La Liga;Fair;S;5 mph;45 °F;76 %;28.37 in
+07.01.2012;Real Madrid;Granada;5;1;La Liga;Fair;S;5 mph;45 °F;76 %;28.37 in
+07.01.2012;Malaga;Atl. Madrid;0;0;La Liga;Fair;S;5 mph;45 °F;76 %;28.37 in
+08.01.2012;Rayo Vallecano;Sevilla;2;1;La Liga;Fair;NNW;6 mph;36 °F;87 %;28.35 in
+08.01.2012;Getafe;Ath. Bilbao;0;0;La Liga;Fair;VAR;1 mph;43 °F;81 %;30.16 in
+08.01.2012;Villarreal;Valencia;2;2;La Liga;Mostly Cloudy;CALM;0 mph;48 °F;100 %;30.35 in
+08.01.2012;Real Betis;Sporting Gijon;2;0;La Liga;Fair;VAR;1 mph;43 °F;81 %;30.16 in
+08.01.2012;Espanyol;Barcelona;1;1;La Liga;Fair;NNW;6 mph;36 °F;87 %;28.35 in
+29.11.2011;Barcelona;Rayo Vallecano;4;0;La Liga;Partly Cloudy;NNW;8 mph;55 °F;88 %;30.22 in
+17.12.2011;Mallorca;Getafe;1;2;La Liga;N/A;WSW;5 mph;50 °F;94 %;28.30 in
+17.12.2011;Sporting Gijon;Espanyol;1;2;La Liga;Partly Cloudy;NNW;7 mph;48 °F;62 %;28.10 in
+17.12.2011;Ath. Bilbao;Real Zaragoza;2;1;La Liga;Mostly Cloudy;W;15 mph;48 °F;66 %;30.00 in
+17.12.2011;Sevilla;Real Madrid;2;6;La Liga;Partly Cloudy;NNW;7 mph;48 °F;62 %;28.10 in
+18.12.2011;Atl. Madrid;Real Betis;0;2;La Liga;Fair;N;3 mph;39 °F;75 %;28.18 in
+18.12.2011;Granada;Levante;2;1;La Liga;N/A;SSW;2 mph;35 °F;90 %;28.35 in
+18.12.2011;Osasuna;Villarreal;2;1;La Liga;Fair;N;3 mph;39 °F;87 %;29.67 in
+18.12.2011;R. Santander;R. Sociedad;0;0;La Liga;Fair;N;3 mph;39 °F;75 %;28.18 in
+18.12.2011;Valencia;Malaga;2;0;La Liga;Fair;W;3 mph;43 °F;70 %;29.93 in
+10.12.2011;Levante;Sevilla;1;0;La Liga;Mostly Cloudy;CALM;0 mph;37 °F;100 %;28.15 in
+10.12.2011;Real Betis;Valencia;2;1;La Liga;Fair;VAR;2 mph;48 °F;93 %;29.90 in
+10.12.2011;Real Madrid;Barcelona;1;3;La Liga;Mostly Cloudy;CALM;0 mph;37 °F;100 %;28.15 in
+11.12.2011;Rayo Vallecano;Sporting Gijon;1;3;La Liga;Cloudy;SSE;5 mph;39 °F;93 %;28.10 in
+11.12.2011;Getafe;Granada;1;0;La Liga;Fair;VAR;2 mph;48 °F;87 %;29.87 in
+11.12.2011;Villarreal;R. Sociedad;1;1;La Liga;Fair;VAR;2 mph;43 °F;93 %;29.88 in
+11.12.2011;Real Zaragoza;Mallorca;0;1;La Liga;Cloudy;SSE;5 mph;39 °F;93 %;28.10 in
+11.12.2011;Malaga;Osasuna;1;1;La Liga;Cloudy;SSE;5 mph;39 °F;93 %;28.10 in
+11.12.2011;Ath. Bilbao;R. Santander;1;1;La Liga;Fair;VAR;2 mph;43 °F;93 %;29.88 in
+11.12.2011;Espanyol;Atl. Madrid;4;2;La Liga;Cloudy;SSE;5 mph;39 °F;93 %;28.10 in
+03.12.2011;Sporting Gijon;Real Madrid;0;3;La Liga;Fair;NE;3 mph;41 °F;81 %;28.15 in
+03.12.2011;R. Santander;Villarreal;1;0;La Liga;Fair;NE;3 mph;41 °F;81 %;28.15 in
+03.12.2011;Barcelona;Levante;5;0;La Liga;Partly Cloudy;N;15 mph;55 °F;72 %;30.07 in
+03.12.2011;Valencia;Espanyol;2;1;La Liga;Partly Cloudy;NNW;6 mph;52 °F;88 %;29.87 in
+04.12.2011;Atl. Madrid;Rayo Vallecano;3;1;La Liga;Fair;N;2 mph;39 °F;93 %;28.26 in
+04.12.2011;R. Sociedad;Malaga;3;2;La Liga;Fair;N;2 mph;39 °F;93 %;28.26 in
+04.12.2011;Osasuna;Real Betis;2;1;La Liga;Fair;ENE;1 mph;48 °F;87 %;29.84 in
+04.12.2011;Mallorca;Ath. Bilbao;1;1;La Liga;Fair;;0 mph;54 °F;71 %;28.29 in
+04.12.2011;Granada;Real Zaragoza;1;0;La Liga;Fair;;0 mph;54 °F;71 %;28.29 in
+05.12.2011;Sevilla;Getafe;3;0;La Liga;Fair;N;2 mph;37 °F;93 %;28.18 in
+26.11.2011;Rayo Vallecano;Valencia;1;2;La Liga;Fair;CALM;0 mph;43 °F;87 %;28.40 in
+26.11.2011;Real Madrid;Atl. Madrid;4;1;La Liga;Fair;CALM;0 mph;43 °F;87 %;28.40 in
+26.11.2011;Getafe;Barcelona;1;0;La Liga;Fair;NW;5 mph;54 °F;88 %;30.19 in
+27.11.2011;Real Betis;R. Sociedad;2;3;La Liga;Fair;NW;3 mph;50 °F;87 %;30.16 in
+27.11.2011;Levante;Sporting Gijon;4;0;La Liga;Fair;NNW;5 mph;39 °F;93 %;28.35 in
+27.11.2011;Mallorca;R. Santander;2;1;La Liga;N/A;;0 mph;40 °F;84 %;28.38 in
+27.11.2011;Espanyol;Osasuna;1;2;La Liga;Fair;NNW;5 mph;39 °F;93 %;28.35 in
+27.11.2011;Ath. Bilbao;Granada;0;1;La Liga;Cloudy;VAR;1 mph;39 °F;100 %;30.23 in
+27.11.2011;Real Zaragoza;Sevilla;0;1;La Liga;Fair;NNW;5 mph;39 °F;93 %;28.35 in
+28.11.2011;Malaga;Villarreal;2;1;La Liga;Fair;N;1 mph;39 °F;93 %;28.24 in
+19.11.2011;Villarreal;Real Betis;1;0;La Liga;Fair;SE;12 mph;57 °F;72 %;29.73 in
+19.11.2011;Barcelona;Real Zaragoza;4;0;La Liga;Fair;NNW;6 mph;55 °F;94 %;30.04 in
+19.11.2011;Valencia;Real Madrid;2;3;La Liga;Mostly Cloudy;NW;5 mph;57 °F;94 %;29.81 in
+20.11.2011;R. Sociedad;Espanyol;0;0;La Liga;Partly Cloudy;E;6 mph;54 °F;77 %;27.85 in
+20.11.2011;Sporting Gijon;Getafe;2;1;La Liga;Partly Cloudy;E;6 mph;54 °F;77 %;27.85 in
+20.11.2011;Osasuna;Rayo Vallecano;0;0;La Liga;Mostly Cloudy;VAR;1 mph;57 °F;94 %;29.67 in
+20.11.2011;Sevilla;Ath. Bilbao;1;2;La Liga;Partly Cloudy;E;6 mph;54 °F;77 %;27.85 in
+20.11.2011;Atl. Madrid;Levante;3;2;La Liga;Partly Cloudy;E;6 mph;54 °F;77 %;27.85 in
+21.11.2011;R. Santander;Malaga;1;3;La Liga;Partly Cloudy;N;6 mph;52 °F;94 %;27.91 in
+07.12.2011;Granada;Mallorca;2;2;La Liga;N/A;;0 mph;39 °F;93 %;28.47 in
+05.11.2011;Mallorca;Sevilla;0;0;La Liga;N/A;W;5 mph;49 °F;91 %;27.72 in
+05.11.2011;Real Betis;Malaga;0;0;La Liga;Fair;SW;14 mph;57 °F;72 %;29.25 in
+05.11.2011;Levante;Valencia;0;2;La Liga;Mostly Cloudy;VAR;2 mph;48 °F;93 %;27.52 in
+06.11.2011;Real Madrid;Osasuna;7;1;La Liga;Fair;NNW;13 mph;52 °F;62 %;27.91 in
+06.11.2011;Granada;R. Santander;0;0;La Liga;N/A;W;10 mph;52 °F;77 %;28.04 in
+06.11.2011;Real Zaragoza;Sporting Gijon;2;2;La Liga;Fair;NNW;13 mph;52 °F;62 %;27.91 in
+06.11.2011;Rayo Vallecano;R. Sociedad;4;0;La Liga;Fair;NNW;13 mph;52 °F;62 %;27.91 in
+06.11.2011;Espanyol;Villarreal;0;0;La Liga;Fair;NNW;13 mph;52 °F;62 %;27.91 in
+06.11.2011;Ath. Bilbao;Barcelona;2;2;La Liga;Mostly Cloudy;NW;20 mph;57 °F;72 %;29.85 in
+06.11.2011;Getafe;Atl. Madrid;3;2;La Liga;Fair;W;7 mph;55 °F;67 %;29.46 in
+29.10.2011;Valencia;Getafe;3;1;La Liga;Mostly Cloudy;NE;6 mph;66 °F;60 %;29.90 in
+29.10.2011;Villarreal;Rayo Vallecano;2;0;La Liga;Mostly Cloudy;VAR;1 mph;57 °F;77 %;30.12 in
+29.10.2011;Barcelona;Mallorca;5;0;La Liga;Partly Cloudy;NNW;7 mph;64 °F;88 %;30.13 in
+29.10.2011;R. Sociedad;Real Madrid;0;1;La Liga;Fair;N;9 mph;54 °F;77 %;28.15 in
+30.10.2011;Sporting Gijon;Ath. Bilbao;1;1;La Liga;Fair;NNW;6 mph;55 °F;77 %;28.21 in
+30.10.2011;Osasuna;Levante;2;0;La Liga;Partly Cloudy;VAR;2 mph;59 °F;94 %;29.87 in
+30.10.2011;R. Santander;Real Betis;1;0;La Liga;Fair;NNW;6 mph;55 °F;77 %;28.21 in
+30.10.2011;Atl. Madrid;Real Zaragoza;3;1;La Liga;Fair;NNW;6 mph;55 °F;77 %;28.21 in
+30.10.2011;Malaga;Espanyol;2;1;La Liga;Fair;NNW;6 mph;55 °F;77 %;28.21 in
+31.10.2011;Sevilla;Granada;1;2;La Liga;Fair;N;3 mph;52 °F;94 %;28.13 in
+25.10.2011;Granada;Barcelona;0;1;La Liga;N/A;;0 mph;52 °F;91 %;27.79 in
+25.10.2011;Sevilla;R. Santander;2;2;La Liga;Partly Cloudy;VAR;3 mph;52 °F;76 %;27.63 in
+26.10.2011;Real Zaragoza;Valencia;0;1;La Liga;Fair;SW;9 mph;54 °F;62 %;27.91 in
+26.10.2011;Getafe;Osasuna;2;2;La Liga;Fair;W;5 mph;55 °F;67 %;29.72 in
+26.10.2011;Levante;R. Sociedad;3;2;La Liga;Fair;SW;9 mph;54 °F;62 %;27.91 in
+26.10.2011;Rayo Vallecano;Malaga;2;0;La Liga;Fair;SW;9 mph;54 °F;62 %;27.91 in
+26.10.2011;Mallorca;Sporting Gijon;1;2;La Liga;N/A;;0 mph;48 °F;89 %;28.06 in
+26.10.2011;Real Madrid;Villarreal;3;0;La Liga;Fair;SW;9 mph;54 °F;62 %;27.91 in
+27.10.2011;Espanyol;Real Betis;1;0;La Liga;Partly Cloudy;S;13 mph;55 °F;77 %;27.77 in
+27.10.2011;Ath. Bilbao;Atl. Madrid;3;0;La Liga;Fair / Windy;ESE;21 mph;66 °F;49 %;29.32 in
+22.10.2011;Sporting Gijon;Granada;2;0;La Liga;Fair;NNW;1 mph;50 °F;62 %;28.04 in
+22.10.2011;R. Santander;Espanyol;0;1;La Liga;Fair;NNW;1 mph;50 °F;62 %;28.04 in
+22.10.2011;Malaga;Real Madrid;0;4;La Liga;Fair;NNW;1 mph;50 °F;62 %;28.04 in
+22.10.2011;Barcelona;Sevilla;0;0;La Liga;Mostly Cloudy;ENE;8 mph;61 °F;88 %;30.13 in
+23.10.2011;Real Betis;Rayo Vallecano;0;2;La Liga;Partly Cloudy;NW;3 mph;66 °F;73 %;29.81 in
+23.10.2011;R. Sociedad;Getafe;0;0;La Liga;Partly Cloudy;VAR;2 mph;54 °F;67 %;27.99 in
+23.10.2011;Atl. Madrid;Mallorca;1;1;La Liga;Partly Cloudy;VAR;2 mph;54 °F;67 %;27.99 in
+23.10.2011;Osasuna;Real Zaragoza;3;0;La Liga;Partly Cloudy;CALM;0 mph;54 °F;94 %;29.73 in
+23.10.2011;Valencia;Ath. Bilbao;1;1;La Liga;Partly Cloudy;NW;3 mph;66 °F;73 %;29.81 in
+23.10.2011;Villarreal;Levante;0;3;La Liga;Fair;SE;8 mph;64 °F;52 %;29.73 in
+15.10.2011;Mallorca;Valencia;1;1;La Liga;Fair;;0 mph;51 °F;72 %;28.20 in
+15.10.2011;Getafe;Villarreal;0;0;La Liga;Mostly Cloudy;E;3 mph;73 °F;73 %;29.93 in
+15.10.2011;Real Madrid;Real Betis;4;1;La Liga;Fair;NW;2 mph;64 °F;19 %;28.10 in
+15.10.2011;Barcelona;R. Santander;3;0;La Liga;Fair;E;9 mph;70 °F;68 %;30.16 in
+15.10.2011;Granada;Atl. Madrid;0;0;La Liga;Fair;;0 mph;51 °F;72 %;28.20 in
+16.10.2011;Rayo Vallecano;Espanyol;0;1;La Liga;Fair;N;5 mph;61 °F;59 %;28.15 in
+16.10.2011;Real Zaragoza;R. Sociedad;2;0;La Liga;Fair;N;5 mph;61 °F;59 %;28.15 in
+16.10.2011;Levante;Malaga;3;0;La Liga;Fair;N;5 mph;61 °F;59 %;28.15 in
+16.10.2011;Sevilla;Sporting Gijon;2;1;La Liga;Fair;N;5 mph;61 °F;59 %;28.15 in
+17.10.2011;Ath. Bilbao;Osasuna;3;1;La Liga;Fair;VAR;2 mph;50 °F;100 %;30.09 in
+01.10.2011;Osasuna;Mallorca;2;2;La Liga;Fair;CALM;0 mph;63 °F;94 %;29.93 in
+01.10.2011;Villarreal;Real Zaragoza;2;2;La Liga;Fair;E;12 mph;79 °F;28 %;30.00 in
+01.10.2011;R. Santander;Rayo Vallecano;1;1;La Liga;Fair;NNE;5 mph;63 °F;48 %;28.18 in
+01.10.2011;Valencia;Granada;1;0;La Liga;Fair;N;5 mph;72 °F;83 %;29.99 in
+01.10.2011;Malaga;Getafe;3;2;La Liga;Fair;NNE;5 mph;63 °F;48 %;28.18 in
+02.10.2011;R. Sociedad;Ath. Bilbao;1;2;La Liga;Fair;SSE;7 mph;68 °F;56 %;28.24 in
+02.10.2011;Real Betis;Levante;0;1;La Liga;Fair;NNW;3 mph;68 °F;83 %;30.05 in
+02.10.2011;Atl. Madrid;Sevilla;0;0;La Liga;Fair;SSE;7 mph;68 °F;56 %;28.24 in
+02.10.2011;Sporting Gijon;Barcelona;0;1;La Liga;Fair;SSE;7 mph;68 °F;56 %;28.24 in
+02.10.2011;Espanyol;Real Madrid;0;4;La Liga;Fair;SSE;7 mph;68 °F;56 %;28.24 in
+24.09.2011;Sevilla;Valencia;1;0;La Liga;Fair;W;12 mph;73 °F;38 %;27.93 in
+24.09.2011;Ath. Bilbao;Villarreal;1;1;La Liga;Mostly Cloudy;VAR;1 mph;64 °F;94 %;29.85 in
+24.09.2011;Real Madrid;Rayo Vallecano;6;2;La Liga;Fair;W;12 mph;73 °F;38 %;27.93 in
+24.09.2011;Barcelona;Atl. Madrid;5;0;La Liga;Fair;VAR;2 mph;72 °F;83 %;29.95 in
+25.09.2011;Mallorca;R. Sociedad;2;1;La Liga;Partly Cloudy;NNW;2 mph;82 °F;29 %;28.01 in
+25.09.2011;Levante;Espanyol;3;1;La Liga;Fair;ESE;6 mph;64 °F;32 %;28.02 in
+25.09.2011;Granada;Osasuna;1;1;La Liga;Partly Cloudy;NNW;2 mph;82 °F;29 %;28.01 in
+25.09.2011;Sporting Gijon;R. Santander;0;0;La Liga;Fair;ESE;6 mph;64 °F;32 %;28.02 in
+25.09.2011;Real Zaragoza;Malaga;0;0;La Liga;Fair;ESE;6 mph;64 °F;32 %;28.02 in
+26.09.2011;Getafe;Real Betis;1;0;La Liga;Fair;N;3 mph;73 °F;78 %;29.96 in
+20.09.2011;Osasuna;Sevilla;0;0;La Liga;Fair;CALM;0 mph;57 °F;94 %;29.82 in
+20.09.2011;R. Sociedad;Granada;1;0;La Liga;Fair;NNW;6 mph;63 °F;34 %;28.15 in
+20.09.2011;Villarreal;Mallorca;2;0;La Liga;Fair;CALM;0 mph;55 °F;94 %;30.12 in
+21.09.2011;Atl. Madrid;Sporting Gijon;4;0;La Liga;Fair;N;3 mph;64 °F;30 %;28.10 in
+21.09.2011;Malaga;Ath. Bilbao;1;0;La Liga;Fair;N;3 mph;64 °F;30 %;28.10 in
+21.09.2011;Rayo Vallecano;Levante;1;2;La Liga;Fair;N;3 mph;64 °F;30 %;28.10 in
+21.09.2011;R. Santander;Real Madrid;0;0;La Liga;Fair;N;3 mph;64 °F;30 %;28.10 in
+21.09.2011;Valencia;Barcelona;2;2;La Liga;Fair;NNW;3 mph;72 °F;73 %;29.90 in
+22.09.2011;Espanyol;Getafe;1;0;La Liga;Fair;NNW;5 mph;68 °F;40 %;28.07 in
+22.09.2011;Real Betis;Real Zaragoza;4;3;La Liga;Fair;VAR;2 mph;73 °F;78 %;29.87 in
+17.09.2011;Sporting Gijon;Valencia;0;1;La Liga;Fair;SW;5 mph;79 °F;32 %;28.02 in
+17.09.2011;Granada;Villarreal;1;0;La Liga;N/A;S;1 mph;71 °F;68 %;28.06 in
+17.09.2011;Mallorca;Malaga;0;1;La Liga;N/A;S;1 mph;71 °F;68 %;28.06 in
+17.09.2011;Barcelona;Osasuna;8;0;La Liga;Fair;WSW;3 mph;75 °F;78 %;29.98 in
+17.09.2011;Sevilla;R. Sociedad;1;0;La Liga;Fair;SW;5 mph;79 °F;32 %;28.02 in
+18.09.2011;Getafe;Rayo Vallecano;0;1;La Liga;Fair;WNW;3 mph;75 °F;83 %;29.69 in
+18.09.2011;Real Zaragoza;Espanyol;2;1;La Liga;Fair;W;8 mph;79 °F;34 %;27.96 in
+18.09.2011;Atl. Madrid;R. Santander;4;0;La Liga;Fair;W;8 mph;79 °F;34 %;27.96 in
+18.09.2011;Levante;Real Madrid;1;0;La Liga;Fair;W;8 mph;79 °F;34 %;27.96 in
+18.09.2011;Ath. Bilbao;Real Betis;2;3;La Liga;Mostly Cloudy;W;7 mph;59 °F;94 %;29.91 in
+10.09.2011;R. Sociedad;Barcelona;2;2;La Liga;Fair;CALM;0 mph;77 °F;26 %;27.91 in
+10.09.2011;Villarreal;Sevilla;2;2;La Liga;Fair;CALM;0 mph;66 °F;83 %;29.68 in
+10.09.2011;Real Madrid;Getafe;4;2;La Liga;Fair;CALM;0 mph;77 °F;26 %;27.91 in
+10.09.2011;Valencia;Atl. Madrid;1;0;La Liga;Fair;VAR;2 mph;77 °F;74 %;29.69 in
+11.09.2011;Real Betis;Mallorca;1;0;La Liga;Fair;VAR;2 mph;77 °F;65 %;29.75 in
+11.09.2011;R. Santander;Levante;0;0;La Liga;Fair;WSW;9 mph;79 °F;26 %;28.02 in
+11.09.2011;Osasuna;Sporting Gijon;2;1;La Liga;Fair;SW;3 mph;72 °F;94 %;29.64 in
+11.09.2011;Rayo Vallecano;Real Zaragoza;0;0;La Liga;Fair;WSW;9 mph;79 °F;26 %;28.02 in
+11.09.2011;Espanyol;Ath. Bilbao;2;1;La Liga;Fair;WSW;9 mph;79 °F;26 %;28.02 in
+12.09.2011;Malaga;Granada;4;0;La Liga;Fair;VAR;2 mph;70 °F;31 %;28.13 in
+27.08.2011;Sporting Gijon;R. Sociedad;1;2;La Liga;Fair;NNE;3 mph;63 °F;32 %;28.07 in
+27.08.2011;Valencia;R. Santander;4;3;La Liga;Fair;E;6 mph;82 °F;54 %;29.72 in
+27.08.2011;Granada;Real Betis;0;1;La Liga;N/A;;0 mph;67 °F;61 %;28.04 in
+28.08.2011;Atl. Madrid;Osasuna;0;0;La Liga;Fair;N;5 mph;64 °F;30 %;28.07 in
+28.08.2011;Ath. Bilbao;Rayo Vallecano;1;1;La Liga;Fair;VAR;1 mph;59 °F;82 %;30.09 in
+28.08.2011;Mallorca;Espanyol;1;0;La Liga;N/A;;0 mph;69 °F;72 %;28.09 in
+28.08.2011;Getafe;Levante;1;1;La Liga;Fair;SE;5 mph;77 °F;69 %;29.90 in
+28.08.2011;Real Zaragoza;Real Madrid;0;6;La Liga;Fair;N;5 mph;64 °F;30 %;28.07 in
+28.08.2011;Sevilla;Malaga;2;1;La Liga;Fair;N;5 mph;64 °F;30 %;28.07 in
+29.08.2011;Barcelona;Villarreal;5;0;La Liga;Fair;WSW;6 mph;73 °F;83 %;30.01 in
+21.01.2012;R. Santander;Getafe;1;2;La Liga;Fair;CALM;0 mph;43 °F;81 %;28.43 in
+21.01.2012;Espanyol;Granada;3;0;La Liga;Fair;CALM;0 mph;43 °F;81 %;28.43 in
+21.01.2012;R. Sociedad;Atl. Madrid;0;4;La Liga;Fair;CALM;0 mph;43 °F;81 %;28.43 in
+21.01.2012;Real Betis;Sevilla;1;1;La Liga;Fair;WNW;3 mph;46 °F;87 %;30.16 in
+22.01.2012;Osasuna;Valencia;1;1;La Liga;Fair;NE;2 mph;41 °F;100 %;29.90 in
+22.01.2012;Rayo Vallecano;Mallorca;0;1;La Liga;Fair;NNE;5 mph;39 °F;87 %;28.32 in
+22.01.2012;Malaga;Barcelona;1;4;La Liga;Fair;NNE;5 mph;39 °F;87 %;28.32 in
+22.01.2012;Levante;Real Zaragoza;0;0;La Liga;Fair;NNE;5 mph;39 °F;87 %;28.32 in
+22.01.2012;Real Madrid;Ath. Bilbao;4;1;La Liga;Fair;NNE;5 mph;39 °F;87 %;28.32 in
+23.01.2012;Villarreal;Sporting Gijon;3;0;La Liga;Mostly Cloudy;W;3 mph;50 °F;94 %;30.12 in

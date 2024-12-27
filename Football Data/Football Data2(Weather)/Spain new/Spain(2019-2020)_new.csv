@@ -1,0 +1,381 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+19.07.2020;Alaves;Barcelona;0;5;La Liga;Fair;VAR;2 mph;66 °F;83 %;29.88 in
+19.07.2020;Villarreal;Eibar;4;0;La Liga;Fair;VAR;2 mph;66 °F;83 %;29.88 in
+19.07.2020;R. Valladolid;Real Betis;2;0;La Liga;Fair;ENE;3 mph;81 °F;17 %;27.89 in
+19.07.2020;Atl. Madrid;R. Sociedad;1;1;La Liga;Fair;ENE;3 mph;81 °F;17 %;27.89 in
+19.07.2020;Espanyol;Celta Vigo;0;0;La Liga;Fair;ENE;3 mph;81 °F;17 %;27.89 in
+19.07.2020;Granada;Ath. Bilbao;4;0;La Liga;N/A;CALM;0 mph;82 °F;46 %;28.07 in
+19.07.2020;Leganes;Real Madrid;2;2;La Liga;Fair;ENE;3 mph;81 °F;17 %;27.89 in
+19.07.2020;Levante;Getafe;1;0;La Liga;Fair;ENE;3 mph;81 °F;17 %;27.89 in
+19.07.2020;Osasuna;Mallorca;2;2;La Liga;Partly Cloudy;VAR;1 mph;66 °F;94 %;29.50 in
+19.07.2020;Sevilla;Valencia;1;0;La Liga;Fair;ENE;3 mph;81 °F;17 %;27.89 in
+16.07.2020;Eibar;R. Valladolid;3;1;La Liga;Fair;NNE;8 mph;79 °F;34 %;27.98 in
+16.07.2020;Ath. Bilbao;Leganes;0;2;La Liga;Mostly Cloudy;NW;1 mph;66 °F;83 %;30.12 in
+16.07.2020;Barcelona;Osasuna;1;2;La Liga;Partly Cloudy;E;10 mph;75 °F;78 %;30.04 in
+16.07.2020;Real Betis;Alaves;1;2;La Liga;Fair;E;5 mph;79 °F;69 %;29.80 in
+16.07.2020;Celta Vigo;Levante;2;3;La Liga;Fair;NNE;8 mph;79 °F;34 %;27.98 in
+16.07.2020;Getafe;Atl. Madrid;0;2;La Liga;Fair;E;5 mph;79 °F;69 %;29.80 in
+16.07.2020;Mallorca;Granada;1;2;La Liga;N/A;S;2 mph;80 °F;48 %;28.08 in
+16.07.2020;Real Madrid;Villarreal;2;1;La Liga;Fair;NNE;8 mph;79 °F;34 %;27.98 in
+16.07.2020;R. Sociedad;Sevilla;0;0;La Liga;Fair;NNE;8 mph;79 °F;34 %;27.98 in
+16.07.2020;Valencia;Espanyol;1;0;La Liga;Fair;E;5 mph;79 °F;69 %;29.80 in
+11.07.2020;Osasuna;Celta Vigo;2;1;La Liga;Fair;N;5 mph;68 °F;94 %;29.50 in
+11.07.2020;R. Valladolid;Barcelona;0;1;La Liga;Fair;E;3 mph;81 °F;32 %;27.87 in
+11.07.2020;Atl. Madrid;Real Betis;1;0;La Liga;Fair;E;3 mph;81 °F;32 %;27.87 in
+12.07.2020;Espanyol;Eibar;0;2;La Liga;Fair;SE;14 mph;84 °F;42 %;27.89 in
+12.07.2020;Levante;Ath. Bilbao;1;2;La Liga;Fair;SE;14 mph;84 °F;42 %;27.89 in
+12.07.2020;Leganes;Valencia;1;0;La Liga;Fair;SE;14 mph;84 °F;42 %;27.89 in
+12.07.2020;Sevilla;Mallorca;2;0;La Liga;Fair;SE;14 mph;84 °F;42 %;27.89 in
+13.07.2020;Alaves;Getafe;0;0;La Liga;Mostly Cloudy;WNW;5 mph;70 °F;73 %;30.09 in
+13.07.2020;Villarreal;R. Sociedad;1;2;La Liga;Mostly Cloudy;WNW;5 mph;70 °F;73 %;30.09 in
+13.07.2020;Granada;Real Madrid;1;2;La Liga;N/A;SE;7 mph;81 °F;43 %;28.10 in
+07.07.2020;Valencia;R. Valladolid;2;1;La Liga;Fair;NW;1 mph;81 °F;61 %;29.71 in
+07.07.2020;Celta Vigo;Atl. Madrid;1;1;La Liga;Fair;NE;8 mph;84 °F;35 %;27.95 in
+08.07.2020;Real Betis;Osasuna;3;0;La Liga;Fair;NE;3 mph;79 °F;78 %;29.74 in
+08.07.2020;Getafe;Villarreal;1;3;La Liga;Fair;NE;3 mph;79 °F;78 %;29.74 in
+08.07.2020;Barcelona;Espanyol;1;0;La Liga;Fair;VAR;2 mph;75 °F;78 %;30.01 in
+09.07.2020;Eibar;Leganes;0;0;La Liga;Fair;N;10 mph;81 °F;32 %;27.89 in
+09.07.2020;Mallorca;Levante;2;0;La Liga;N/A;WNW;2 mph;78 °F;41 %;28.06 in
+09.07.2020;Ath. Bilbao;Sevilla;1;2;La Liga;Fair;NW;6 mph;70 °F;83 %;29.94 in
+10.07.2020;R. Sociedad;Granada;2;3;La Liga;Partly Cloudy;N;8 mph;70 °F;60 %;27.98 in
+10.07.2020;Real Madrid;Alaves;2;0;La Liga;Partly Cloudy;N;8 mph;70 °F;60 %;27.98 in
+03.07.2020;Atl. Madrid;Mallorca;3;0;La Liga;Fair;N;6 mph;77 °F;29 %;27.92 in
+04.07.2020;Celta Vigo;Real Betis;1;1;La Liga;Fair;NNE;3 mph;77 °F;26 %;28.03 in
+04.07.2020;R. Valladolid;Alaves;1;0;La Liga;Fair;NNE;3 mph;77 °F;26 %;28.03 in
+04.07.2020;Granada;Valencia;2;2;La Liga;N/A;S;8 mph;76 °F;49 %;28.17 in
+05.07.2020;Ath. Bilbao;Real Madrid;0;1;La Liga;Fair;VAR;2 mph;64 °F;77 %;30.15 in
+05.07.2020;Espanyol;Leganes;0;1;La Liga;Fair;NNW;6 mph;79 °F;17 %;28.06 in
+05.07.2020;Osasuna;Getafe;0;0;La Liga;Fair;W;2 mph;66 °F;94 %;29.64 in
+05.07.2020;Villarreal;Barcelona;1;4;La Liga;Fair;VAR;2 mph;64 °F;77 %;30.15 in
+06.07.2020;Levante;R. Sociedad;1;1;La Liga;Fair;NNE;2 mph;82 °F;23 %;27.98 in
+06.07.2020;Sevilla;Eibar;1;0;La Liga;Fair;NNE;2 mph;82 °F;23 %;27.98 in
+30.06.2020;Mallorca;Celta Vigo;5;1;La Liga;N/A;S;7 mph;81 °F;33 %;28.04 in
+30.06.2020;Leganes;Sevilla;0;3;La Liga;Fair;NNW;3 mph;86 °F;19 %;27.84 in
+30.06.2020;Barcelona;Atl. Madrid;2;2;La Liga;Mostly Cloudy;SE;8 mph;77 °F;78 %;29.98 in
+01.07.2020;Alaves;Granada;0;2;La Liga;Fair;NW;3 mph;66 °F;88 %;29.82 in
+01.07.2020;Valencia;Ath. Bilbao;0;2;La Liga;Fair;E;3 mph;79 °F;83 %;29.63 in
+01.07.2020;Real Betis;Villarreal;0;2;La Liga;Fair;E;3 mph;79 °F;83 %;29.63 in
+01.07.2020;R. Valladolid;Levante;0;0;La Liga;Fair;W;8 mph;90 °F;24 %;27.78 in
+02.07.2020;Eibar;Osasuna;0;2;La Liga;Fair;WNW;9 mph;86 °F;23 %;27.84 in
+02.07.2020;R. Sociedad;Espanyol;2;1;La Liga;Fair;WNW;9 mph;86 °F;23 %;27.84 in
+02.07.2020;Real Madrid;Getafe;1;0;La Liga;Fair;WNW;9 mph;86 °F;23 %;27.84 in
+26.06.2020;Sevilla;R. Valladolid;1;1;La Liga;Fair;ENE;7 mph;75 °F;53 %;27.87 in
+27.06.2020;Ath. Bilbao;Mallorca;3;1;La Liga;Fair;E;3 mph;61 °F;100 %;29.85 in
+27.06.2020;Celta Vigo;Barcelona;2;2;La Liga;Fair;W;6 mph;79 °F;24 %;27.87 in
+27.06.2020;Osasuna;Leganes;2;1;La Liga;Fair;CALM;0 mph;66 °F;78 %;29.44 in
+27.06.2020;Atl. Madrid;Alaves;2;1;La Liga;Fair;W;6 mph;79 °F;24 %;27.87 in
+28.06.2020;Levante;Real Betis;4;2;La Liga;Fair;NNW;3 mph;77 °F;39 %;27.92 in
+28.06.2020;Villarreal;Valencia;2;0;La Liga;Mostly Cloudy;WNW;5 mph;68 °F;88 %;30.00 in
+28.06.2020;Granada;Eibar;1;2;La Liga;N/A;SW;5 mph;75 °F;39 %;28.11 in
+28.06.2020;Espanyol;Real Madrid;0;1;La Liga;Fair;NNW;3 mph;77 °F;39 %;27.92 in
+29.06.2020;Getafe;R. Sociedad;2;1;La Liga;Fair;ENE;3 mph;77 °F;83 %;29.77 in
+22.06.2020;Villarreal;Sevilla;2;2;La Liga;Mostly Cloudy;VAR;1 mph;70 °F;68 %;30.23 in
+22.06.2020;Leganes;Granada;0;0;La Liga;Fair;VAR;2 mph;79 °F;26 %;28.09 in
+23.06.2020;Levante;Atl. Madrid;0;1;La Liga;Fair;N;3 mph;79 °F;28 %;27.95 in
+23.06.2020;R. Valladolid;Getafe;1;1;La Liga;Fair;N;3 mph;79 °F;28 %;27.95 in
+23.06.2020;Barcelona;Ath. Bilbao;1;0;La Liga;Fair;SSE;2 mph;73 °F;78 %;30.13 in
+24.06.2020;Alaves;Osasuna;0;1;La Liga;Mist;VAR;1 mph;70 °F;83 %;29.82 in
+24.06.2020;R. Sociedad;Celta Vigo;0;1;La Liga;Fair;E;8 mph;84 °F;27 %;27.89 in
+24.06.2020;Real Madrid;Mallorca;2;0;La Liga;Fair;E;8 mph;84 °F;27 %;27.89 in
+25.06.2020;Eibar;Valencia;1;0;La Liga;Fair;NW;3 mph;77 °F;41 %;27.92 in
+25.06.2020;Real Betis;Espanyol;1;0;La Liga;Fair;NE;3 mph;77 °F;69 %;29.80 in
+19.06.2020;Granada;Villarreal;0;1;La Liga;N/A;WSW;9 mph;72 °F;32 %;28.06 in
+19.06.2020;Mallorca;Leganes;1;1;La Liga;N/A;WSW;9 mph;72 °F;32 %;28.06 in
+19.06.2020;Sevilla;Barcelona;0;0;La Liga;Fair;NNW;5 mph;72 °F;41 %;27.87 in
+20.06.2020;Espanyol;Levante;1;3;La Liga;Fair;W;8 mph;79 °F;30 %;27.98 in
+20.06.2020;Ath. Bilbao;Real Betis;1;0;La Liga;Fair;E;3 mph;57 °F;94 %;30.09 in
+20.06.2020;Getafe;Eibar;1;1;La Liga;Partly Cloudy;NNE;7 mph;73 °F;83 %;29.86 in
+20.06.2020;Atl. Madrid;R. Valladolid;1;0;La Liga;Fair;W;8 mph;79 °F;30 %;27.98 in
+21.06.2020;Celta Vigo;Alaves;6;0;La Liga;Fair;NW;3 mph;81 °F;28 %;28.06 in
+21.06.2020;Valencia;Osasuna;2;0;La Liga;Fair;E;5 mph;73 °F;83 %;29.89 in
+21.06.2020;R. Sociedad;Real Madrid;1;2;La Liga;Fair;NW;3 mph;81 °F;28 %;28.06 in
+15.06.2020;Levante;Sevilla;1;1;La Liga;Fair;VAR;2 mph;70 °F;40 %;28.03 in
+15.06.2020;Real Betis;Granada;2;2;La Liga;Fair;ENE;9 mph;72 °F;69 %;29.80 in
+16.06.2020;Getafe;Espanyol;0;0;La Liga;Fair;W;5 mph;70 °F;88 %;29.80 in
+16.06.2020;Villarreal;Mallorca;1;0;La Liga;Mostly Cloudy;VAR;2 mph;59 °F;94 %;30.09 in
+16.06.2020;Barcelona;Leganes;2;0;La Liga;Fair;E;3 mph;70 °F;83 %;30.07 in
+17.06.2020;Eibar;Ath. Bilbao;2;2;La Liga;Fair;W;9 mph;70 °F;38 %;27.95 in
+17.06.2020;R. Valladolid;Celta Vigo;0;0;La Liga;Fair;W;9 mph;70 °F;38 %;27.95 in
+17.06.2020;Osasuna;Atl. Madrid;0;5;La Liga;Partly Cloudy;S;3 mph;59 °F;94 %;29.50 in
+18.06.2020;Alaves;R. Sociedad;2;0;La Liga;Fair;VAR;1 mph;59 °F;94 %;29.94 in
+18.06.2020;Real Madrid;Valencia;3;0;La Liga;Fair;NNE;3 mph;70 °F;40 %;27.87 in
+11.06.2020;Sevilla;Real Betis;2;0;La Liga;Fair;W;7 mph;72 °F;29 %;27.81 in
+12.06.2020;Granada;Getafe;2;1;La Liga;N/A;W;9 mph;63 °F;65 %;27.94 in
+12.06.2020;Valencia;Levante;1;1;La Liga;Fair;WSW;12 mph;79 °F;34 %;29.36 in
+13.06.2020;Espanyol;Alaves;2;0;La Liga;Partly Cloudy;S;8 mph;55 °F;82 %;27.76 in
+13.06.2020;Celta Vigo;Villarreal;0;1;La Liga;Partly Cloudy;S;8 mph;55 °F;82 %;27.76 in
+13.06.2020;Leganes;R. Valladolid;1;2;La Liga;Partly Cloudy;S;8 mph;55 °F;82 %;27.76 in
+13.06.2020;Mallorca;Barcelona;0;4;La Liga;N/A;W;13 mph;60 °F;55 %;28.01 in
+14.06.2020;Ath. Bilbao;Atl. Madrid;1;1;La Liga;Partly Cloudy;S;1 mph;59 °F;94 %;29.97 in
+14.06.2020;Real Madrid;Eibar;3;1;La Liga;Fair;SW;9 mph;66 °F;40 %;27.95 in
+14.06.2020;R. Sociedad;Osasuna;1;1;La Liga;Fair;SW;9 mph;66 °F;40 %;27.95 in
+06.03.2020;Alaves;Valencia;1;1;La Liga;Fair;WSW;5 mph;50 °F;71 %;29.79 in
+07.03.2020;Eibar;Mallorca;1;2;La Liga;Fair;NNE;7 mph;45 °F;46 %;28.09 in
+07.03.2020;Atl. Madrid;Sevilla;2;2;La Liga;Fair;NNE;7 mph;45 °F;46 %;28.09 in
+07.03.2020;Barcelona;R. Sociedad;1;0;La Liga;Fair;NW;14 mph;50 °F;43 %;29.95 in
+07.03.2020;Getafe;Celta Vigo;0;0;La Liga;Fair;NW;12 mph;55 °F;31 %;29.89 in
+08.03.2020;Osasuna;Espanyol;1;0;La Liga;Fair;NW;3 mph;39 °F;93 %;29.73 in
+08.03.2020;R. Valladolid;Ath. Bilbao;1;4;La Liga;Fair;NW;1 mph;45 °F;71 %;28.17 in
+08.03.2020;Levante;Granada;1;1;La Liga;Fair;NW;1 mph;45 °F;71 %;28.17 in
+08.03.2020;Villarreal;Leganes;1;2;La Liga;Fair;E;5 mph;43 °F;100 %;30.18 in
+08.03.2020;Real Betis;Real Madrid;2;1;La Liga;Fair;NW;5 mph;52 °F;62 %;29.98 in
+28.02.2020;R. Sociedad;R. Valladolid;1;0;La Liga;Fair;SE;3 mph;50 °F;58 %;28.11 in
+29.02.2020;Eibar;Levante;3;0;La Liga;Fair;NNE;3 mph;46 °F;66 %;27.89 in
+29.02.2020;Valencia;Real Betis;2;1;La Liga;Fair;W;3 mph;52 °F;82 %;29.80 in
+29.02.2020;Leganes;Alaves;1;1;La Liga;Fair;NNE;3 mph;46 °F;66 %;27.89 in
+29.02.2020;Granada;Celta Vigo;0;0;La Liga;N/A;S;1 mph;43 °F;62 %;28.15 in
+01.03.2020;Sevilla;Osasuna;3;2;La Liga;Fair;WSW;13 mph;52 °F;67 %;27.84 in
+01.03.2020;Ath. Bilbao;Villarreal;1;0;La Liga;Fair;VAR;2 mph;48 °F;93 %;29.73 in
+01.03.2020;Espanyol;Atl. Madrid;1;1;La Liga;Fair;WSW;13 mph;52 °F;67 %;27.84 in
+01.03.2020;Mallorca;Getafe;0;1;La Liga;Heavy Drizzle;SSE;2 mph;53 °F;95 %;28.15 in
+01.03.2020;Real Madrid;Barcelona;2;0;La Liga;Fair;WSW;13 mph;52 °F;67 %;27.84 in
+21.02.2020;Real Betis;Mallorca;3;3;La Liga;Fair;WNW;3 mph;46 °F;93 %;30.07 in
+22.02.2020;Celta Vigo;Leganes;1;0;La Liga;Fair;NNW;3 mph;41 °F;70 %;28.28 in
+22.02.2020;Barcelona;Eibar;5;0;La Liga;Fair;NW;9 mph;52 °F;67 %;30.39 in
+22.02.2020;R. Sociedad;Valencia;3;0;La Liga;Fair;NNW;3 mph;41 °F;70 %;28.28 in
+22.02.2020;Levante;Real Madrid;1;0;La Liga;Fair;NNW;3 mph;41 °F;70 %;28.28 in
+23.02.2020;Osasuna;Granada;0;3;La Liga;Mostly Cloudy;VAR;8 mph;41 °F;70 %;28.28 in
+23.02.2020;Alaves;Ath. Bilbao;2;1;La Liga;Mostly Cloudy;VAR;3 mph;41 °F;70 %;28.28 in
+23.02.2020;R. Valladolid;Espanyol;2;1;La Liga;Mostly Cloudy;VAR;9 mph;52 °F;67 %;30.39 in
+23.02.2020;Getafe;Sevilla;0;3;La Liga;Mostly Cloudy;VAR;7 mph;51 °F;64 %;30.39 in
+23.02.2020;Atl. Madrid;Villarreal;3;1;La Liga;Mostly Cloudy;VAR;8 mph;51 °F;64 %;30.39 in
+14.02.2020;Valencia;Atl. Madrid;2;2;La Liga;Mostly Cloudy;VAR;5 mph;43 °F;100 %;28.18 in
+15.02.2020;Mallorca;Alaves;1;0;La Liga;Mostly Cloudy;VAR;6 mph;41 °F;88 %;29.18 in
+15.02.2020;Barcelona;Getafe;2;1;La Liga;Mostly Cloudy;VAR;5 mph;43 °F;89 %;30.18 in
+15.02.2020;Villarreal;Levante;2;1;La Liga;Mostly Cloudy;VAR;5 mph;43 °F;90 %;30.18 in
+15.02.2020;Granada;R. Valladolid;2;1;La Liga;Mostly Cloudy;VAR;9 mph;52 °F;67 %;30.39 in
+16.02.2020;Sevilla;Espanyol;2;2;La Liga;Fair;N;3 mph;43 °F;93 %;28.22 in
+16.02.2020;Leganes;Real Betis;0;0;La Liga;Fair;N;3 mph;43 °F;93 %;28.22 in
+16.02.2020;Ath. Bilbao;Osasuna;0;1;La Liga;Fair;SSW;7 mph;66 °F;46 %;30.00 in
+16.02.2020;Real Madrid;Celta Vigo;2;2;La Liga;Fair;N;3 mph;43 °F;93 %;28.22 in
+10.03.2020;Eibar;R. Sociedad;1;2;La Liga;Fair;VAR;1 mph;46 °F;57 %;28.17 in
+07.02.2020;Alaves;Eibar;2;1;La Liga;Fair;E;6 mph;52 °F;58 %;30.03 in
+08.02.2020;Levante;Leganes;2;0;La Liga;Mostly Cloudy;N;2 mph;41 °F;100 %;28.11 in
+08.02.2020;Getafe;Valencia;3;0;La Liga;Fair;WSW;3 mph;46 °F;87 %;30.01 in
+08.02.2020;R. Valladolid;Villarreal;1;1;La Liga;Mostly Cloudy;N;2 mph;41 °F;100 %;28.11 in
+08.02.2020;Atl. Madrid;Granada;1;0;La Liga;Mostly Cloudy;N;2 mph;41 °F;100 %;28.11 in
+09.02.2020;Espanyol;Mallorca;1;0;La Liga;Partly Cloudy;N;3 mph;41 °F;100 %;28.22 in
+09.02.2020;R. Sociedad;Ath. Bilbao;2;1;La Liga;Partly Cloudy;N;3 mph;41 °F;100 %;28.22 in
+09.02.2020;Osasuna;Real Madrid;1;4;La Liga;Fair;VAR;2 mph;45 °F;93 %;29.82 in
+09.02.2020;Celta Vigo;Sevilla;2;1;La Liga;Partly Cloudy;N;3 mph;41 °F;100 %;28.22 in
+09.02.2020;Real Betis;Barcelona;2;3;La Liga;Fair;NW;3 mph;52 °F;88 %;30.07 in
+01.02.2020;Granada;Espanyol;2;1;La Liga;Fair;E;3 mph;47 °F;97 %;28.34 in
+01.02.2020;Real Madrid;Atl. Madrid;1;0;La Liga;Mostly Cloudy;S;5 mph;54 °F;88 %;28.11 in
+01.02.2020;Mallorca;R. Valladolid;0;1;La Liga;Fair;E;3 mph;47 °F;97 %;28.34 in
+01.02.2020;Valencia;Celta Vigo;1;0;La Liga;Fair;W;7 mph;54 °F;82 %;29.92 in
+02.02.2020;Leganes;R. Sociedad;2;1;La Liga;Mostly Cloudy;VAR;1 mph;52 °F;94 %;28.25 in
+02.02.2020;Eibar;Real Betis;1;1;La Liga;Mostly Cloudy;VAR;1 mph;52 °F;94 %;28.25 in
+02.02.2020;Ath. Bilbao;Getafe;0;2;La Liga;Fair;ENE;5 mph;55 °F;94 %;30.09 in
+02.02.2020;Sevilla;Alaves;1;1;La Liga;Mostly Cloudy;VAR;1 mph;52 °F;94 %;28.25 in
+02.02.2020;Villarreal;Osasuna;3;1;La Liga;Fair;ENE;5 mph;55 °F;94 %;30.09 in
+02.02.2020;Barcelona;Levante;2;1;La Liga;Fair;NW;9 mph;54 °F;94 %;30.25 in
+24.01.2020;Osasuna;Levante;2;0;La Liga;Mist;CALM;0 mph;43 °F;93 %;29.70 in
+25.01.2020;Espanyol;Ath. Bilbao;1;1;La Liga;Mostly Cloudy;NNW;2 mph;43 °F;93 %;27.98 in
+25.01.2020;Valencia;Barcelona;2;0;La Liga;Mostly Cloudy;NW;3 mph;52 °F;94 %;29.93 in
+25.01.2020;Alaves;Villarreal;1;2;La Liga;Fair;VAR;2 mph;50 °F;71 %;29.97 in
+25.01.2020;Sevilla;Granada;2;0;La Liga;Mostly Cloudy;NNW;2 mph;43 °F;93 %;27.98 in
+26.01.2020;Atl. Madrid;Leganes;0;0;La Liga;Mostly Cloudy;NNW;3 mph;43 °F;100 %;27.95 in
+26.01.2020;Celta Vigo;Eibar;0;0;La Liga;Mostly Cloudy;NNW;3 mph;43 °F;100 %;27.95 in
+26.01.2020;Getafe;Real Betis;1;0;La Liga;Fair;NW;5 mph;52 °F;94 %;29.84 in
+26.01.2020;R. Sociedad;Mallorca;3;0;La Liga;Mostly Cloudy;NNW;3 mph;43 °F;100 %;27.95 in
+26.01.2020;R. Valladolid;Real Madrid;0;1;La Liga;Mostly Cloudy;NNW;3 mph;43 °F;100 %;27.95 in
+17.01.2020;Leganes;Getafe;0;3;La Liga;Fair;CALM;0 mph;43 °F;93 %;28.20 in
+18.01.2020;Levante;Alaves;0;1;La Liga;Fair;NW;5 mph;41 °F;87 %;28.31 in
+18.01.2020;Real Madrid;Sevilla;2;1;La Liga;Fair;NW;5 mph;41 °F;87 %;28.31 in
+18.01.2020;Osasuna;R. Valladolid;0;0;La Liga;Fair;NW;1 mph;37 °F;93 %;29.87 in
+18.01.2020;Eibar;Atl. Madrid;2;0;La Liga;Fair;NW;5 mph;41 °F;87 %;28.31 in
+19.01.2020;Mallorca;Valencia;4;1;La Liga;N/A;WNW;3 mph;48 °F;99 %;28.24 in
+19.01.2020;Real Betis;R. Sociedad;3;0;La Liga;Fair;SSW;7 mph;57 °F;72 %;29.87 in
+19.01.2020;Villarreal;Espanyol;1;2;La Liga;Mostly Cloudy;VAR;1 mph;48 °F;93 %;30.06 in
+19.01.2020;Ath. Bilbao;Celta Vigo;1;1;La Liga;Mostly Cloudy;VAR;1 mph;48 °F;93 %;30.06 in
+19.01.2020;Barcelona;Granada;1;0;La Liga;Mostly Cloudy;N;5 mph;50 °F;82 %;30.10 in
+03.01.2020;R. Valladolid;Leganes;2;2;La Liga;Fair;N;3 mph;36 °F;93 %;28.31 in
+03.01.2020;Sevilla;Ath. Bilbao;1;1;La Liga;Fair;N;3 mph;36 °F;93 %;28.31 in
+04.01.2020;Valencia;Eibar;1;0;La Liga;Mist;NW;5 mph;45 °F;93 %;30.28 in
+04.01.2020;Getafe;Real Madrid;0;3;La Liga;Mist;NW;5 mph;45 °F;93 %;30.28 in
+04.01.2020;Atl. Madrid;Levante;2;1;La Liga;Fog;N;5 mph;36 °F;93 %;28.39 in
+04.01.2020;Espanyol;Barcelona;2;2;La Liga;Fog;N;5 mph;36 °F;93 %;28.39 in
+05.01.2020;Granada;Mallorca;1;0;La Liga;Fair;CALM;0 mph;39 °F;96 %;28.46 in
+05.01.2020;R. Sociedad;Villarreal;1;2;La Liga;Fair;N;3 mph;36 °F;87 %;28.33 in
+05.01.2020;Alaves;Real Betis;1;1;La Liga;Mostly Cloudy;E;3 mph;48 °F;93 %;30.47 in
+05.01.2020;Celta Vigo;Osasuna;1;1;La Liga;Fair;N;3 mph;36 °F;87 %;28.33 in
+20.12.2019;Eibar;Granada;3;0;La Liga;Rain / Windy;S;23 mph;55 °F;94 %;27.45 in
+21.12.2019;Mallorca;Sevilla;0;2;La Liga;Heavy Drizzle;W;7 mph;58 °F;97 %;27.92 in
+21.12.2019;Barcelona;Alaves;4;1;La Liga;Light Rain;SW;10 mph;57 °F;94 %;29.42 in
+21.12.2019;Villarreal;Getafe;1;0;La Liga;Partly Cloudy;VAR;1 mph;50 °F;94 %;29.35 in
+21.12.2019;R. Valladolid;Valencia;1;1;La Liga;Fair;WSW;17 mph;57 °F;88 %;27.48 in
+22.12.2019;Leganes;Espanyol;2;0;La Liga;Mostly Cloudy / Windy;WSW;22 mph;54 °F;72 %;27.70 in
+22.12.2019;Osasuna;R. Sociedad;3;4;La Liga;Fair / Windy;W;21 mph;63 °F;45 %;28.89 in
+22.12.2019;Real Betis;Atl. Madrid;1;2;La Liga;Fair / Windy;W;35 mph;66 °F;37 %;29.49 in
+22.12.2019;Levante;Celta Vigo;3;1;La Liga;Mostly Cloudy / Windy;WSW;22 mph;54 °F;72 %;27.70 in
+22.12.2019;Real Madrid;Ath. Bilbao;0;0;La Liga;Mostly Cloudy / Windy;WSW;22 mph;54 °F;72 %;27.70 in
+13.12.2019;Alaves;Leganes;1;1;La Liga;Rain / Windy;W;26 mph;57 °F;94 %;29.56 in
+14.12.2019;Granada;Levante;1;2;La Liga;Fair;SSW;5 mph;45 °F;96 %;28.24 in
+14.12.2019;R. Sociedad;Barcelona;2;2;La Liga;Fair;SW;16 mph;52 °F;76 %;27.95 in
+14.12.2019;Ath. Bilbao;Eibar;0;0;La Liga;Fair;W;7 mph;57 °F;77 %;29.76 in
+14.12.2019;Atl. Madrid;Osasuna;2;0;La Liga;Fair;SW;16 mph;52 °F;76 %;27.95 in
+15.12.2019;Getafe;R. Valladolid;2;0;La Liga;Fair;W;10 mph;55 °F;58 %;29.78 in
+15.12.2019;Celta Vigo;Mallorca;2;2;La Liga;Fair;SE;3 mph;43 °F;100 %;27.95 in
+15.12.2019;Espanyol;Real Betis;2;2;La Liga;Fair;SE;3 mph;43 °F;100 %;27.95 in
+15.12.2019;Sevilla;Villarreal;1;2;La Liga;Fair;SE;3 mph;43 °F;100 %;27.95 in
+15.12.2019;Valencia;Real Madrid;1;1;La Liga;Fair;W;10 mph;55 °F;58 %;29.78 in
+06.12.2019;Villarreal;Atl. Madrid;0;0;La Liga;Fair;ENE;3 mph;43 °F;100 %;30.15 in
+07.12.2019;Real Madrid;Espanyol;2;0;La Liga;Partly Cloudy;NNW;5 mph;43 °F;87 %;28.11 in
+07.12.2019;Granada;Alaves;3;0;La Liga;N/A;ESE;3 mph;45 °F;87 %;28.21 in
+07.12.2019;Levante;Valencia;2;4;La Liga;Partly Cloudy;NNW;5 mph;43 °F;87 %;28.11 in
+07.12.2019;Barcelona;Mallorca;5;2;La Liga;Fair;NW;8 mph;50 °F;87 %;30.19 in
+08.12.2019;Eibar;Getafe;0;1;La Liga;Fair;N;2 mph;39 °F;93 %;28.17 in
+08.12.2019;Real Betis;Ath. Bilbao;3;2;La Liga;Fair;NW;3 mph;46 °F;93 %;30.02 in
+08.12.2019;R. Valladolid;R. Sociedad;0;0;La Liga;Fair;N;2 mph;39 °F;93 %;28.17 in
+08.12.2019;Leganes;Celta Vigo;3;2;La Liga;Fair;N;2 mph;39 °F;93 %;28.17 in
+08.12.2019;Osasuna;Sevilla;1;1;La Liga;Patches of Fog;VAR;1 mph;41 °F;93 %;29.70 in
+29.11.2019;Celta Vigo;R. Valladolid;0;0;La Liga;Mostly Cloudy;SW;14 mph;54 °F;88 %;27.92 in
+30.11.2019;Alaves;Real Madrid;1;2;La Liga;Fair;ESE;7 mph;48 °F;100 %;29.94 in
+30.11.2019;R. Sociedad;Eibar;4;1;La Liga;Cloudy;SW;9 mph;55 °F;94 %;28.06 in
+30.11.2019;Mallorca;Real Betis;1;2;La Liga;N/A;CALM;0 mph;43 °F;96 %;28.24 in
+30.11.2019;Valencia;Villarreal;2;1;La Liga;Fair;VAR;2 mph;57 °F;82 %;29.90 in
+01.12.2019;Sevilla;Leganes;1;0;La Liga;Mostly Cloudy;SSE;8 mph;46 °F;93 %;27.87 in
+01.12.2019;Ath. Bilbao;Granada;2;0;La Liga;Fair;ESE;6 mph;45 °F;100 %;29.79 in
+01.12.2019;Espanyol;Osasuna;2;4;La Liga;Mostly Cloudy;SSE;8 mph;46 °F;93 %;27.87 in
+01.12.2019;Getafe;Levante;4;0;La Liga;Fair;W;13 mph;63 °F;59 %;29.69 in
+01.12.2019;Atl. Madrid;Barcelona;0;1;La Liga;Mostly Cloudy;SSE;8 mph;46 °F;93 %;27.87 in
+22.11.2019;Levante;Mallorca;2;1;La Liga;Partly Cloudy;SSE;3 mph;45 °F;100 %;27.65 in
+23.11.2019;Leganes;Barcelona;1;2;La Liga;Partly Cloudy;SSW;15 mph;50 °F;82 %;27.26 in
+23.11.2019;Real Betis;Valencia;2;1;La Liga;Fair;SW;13 mph;59 °F;72 %;29.11 in
+23.11.2019;Granada;Atl. Madrid;1;1;La Liga;N/A;SW;5 mph;53 °F;77 %;27.67 in
+23.11.2019;Real Madrid;R. Sociedad;3;1;La Liga;Partly Cloudy;SSW;15 mph;50 °F;82 %;27.26 in
+24.11.2019;Espanyol;Getafe;1;1;La Liga;Fair;W;17 mph;50 °F;58 %;27.76 in
+24.11.2019;Osasuna;Ath. Bilbao;1;2;La Liga;Fair;CALM;0 mph;52 °F;71 %;29.20 in
+24.11.2019;Eibar;Alaves;0;2;La Liga;Fair;W;17 mph;50 °F;58 %;27.76 in
+24.11.2019;Villarreal;Celta Vigo;1;3;La Liga;Thunder in the Vicinity;W;12 mph;50 °F;82 %;29.68 in
+24.11.2019;R. Valladolid;Sevilla;0;1;La Liga;Fair;W;17 mph;50 °F;58 %;27.76 in
+08.11.2019;R. Sociedad;Leganes;1;1;La Liga;Fair;W;10 mph;45 °F;61 %;27.78 in
+09.11.2019;Alaves;R. Valladolid;3;0;La Liga;Partly Cloudy;W;5 mph;0 °F;0 %;29.94 in
+09.11.2019;Valencia;Granada;2;0;La Liga;Fair;W;13 mph;57 °F;36 %;29.78 in
+09.11.2019;Eibar;Real Madrid;0;4;La Liga;Fair;W;12 mph;46 °F;62 %;28.00 in
+09.11.2019;Barcelona;Celta Vigo;4;1;La Liga;Fair;WNW;5 mph;50 °F;58 %;29.83 in
+10.11.2019;Mallorca;Villarreal;3;1;La Liga;Fair;N;2 mph;47 °F;77 %;28.18 in
+10.11.2019;Ath. Bilbao;Levante;2;1;La Liga;Fair;W;5 mph;48 °F;82 %;29.88 in
+10.11.2019;Atl. Madrid;Espanyol;3;1;La Liga;Fair;WNW;15 mph;50 °F;62 %;27.89 in
+10.11.2019;Getafe;Osasuna;0;0;La Liga;Fair;W;12 mph;57 °F;59 %;29.69 in
+10.11.2019;Real Betis;Sevilla;1;2;La Liga;Fair;W;12 mph;57 °F;59 %;29.69 in
+02.11.2019;Espanyol;Valencia;1;2;La Liga;Partly Cloudy;SW;10 mph;63 °F;82 %;27.92 in
+02.11.2019;Levante;Barcelona;3;1;La Liga;Partly Cloudy;SW;10 mph;63 °F;82 %;27.92 in
+02.11.2019;Sevilla;Atl. Madrid;1;1;La Liga;Partly Cloudy;SW;10 mph;63 °F;82 %;27.92 in
+02.11.2019;Real Madrid;Real Betis;0;0;La Liga;Partly Cloudy;SW;10 mph;63 °F;82 %;27.92 in
+03.11.2019;R. Valladolid;Mallorca;3;0;La Liga;Fair / Windy;SW;21 mph;59 °F;72 %;27.59 in
+03.11.2019;Villarreal;Ath. Bilbao;0;0;La Liga;Fair;SW;15 mph;66 °F;56 %;29.29 in
+03.11.2019;Osasuna;Alaves;4;2;La Liga;Fair;SW;8 mph;64 °F;73 %;29.17 in
+03.11.2019;Celta Vigo;Getafe;0;1;La Liga;Fair / Windy;SW;21 mph;59 °F;72 %;27.59 in
+03.11.2019;Leganes;Eibar;1;2;La Liga;Fair / Windy;SW;21 mph;59 °F;72 %;27.59 in
+03.11.2019;Granada;R. Sociedad;1;2;La Liga;Fair;WSW;9 mph;60 °F;83 %;27.97 in
+29.10.2019;Alaves;Atl. Madrid;1;1;La Liga;Fair;NE;2 mph;57 °F;94 %;29.85 in
+29.10.2019;Barcelona;R. Valladolid;5;1;La Liga;Fair;NW;5 mph;61 °F;88 %;29.98 in
+30.10.2019;R. Sociedad;Levante;1;2;La Liga;Mist;NNW;3 mph;52 °F;94 %;28.06 in
+30.10.2019;Valencia;Sevilla;1;1;La Liga;Mist;WSW;5 mph;61 °F;94 %;29.87 in
+30.10.2019;Ath. Bilbao;Espanyol;3;0;La Liga;Fair;E;3 mph;55 °F;100 %;30.00 in
+30.10.2019;Real Betis;Celta Vigo;2;1;La Liga;Mist;WSW;5 mph;61 °F;94 %;29.87 in
+30.10.2019;Real Madrid;Leganes;5;0;La Liga;Mist;NNW;3 mph;52 °F;94 %;28.06 in
+31.10.2019;Eibar;Villarreal;2;1;La Liga;Mostly Cloudy;WSW;7 mph;63 °F;77 %;28.09 in
+31.10.2019;Mallorca;Osasuna;2;2;La Liga;N/A;CALM;0 mph;60 °F;74 %;28.32 in
+31.10.2019;Getafe;Granada;3;1;La Liga;Fair;VAR;2 mph;66 °F;83 %;29.90 in
+25.10.2019;Villarreal;Alaves;4;1;La Liga;Mostly Cloudy;ESE;3 mph;55 °F;100 %;30.06 in
+26.10.2019;Leganes;Mallorca;1;0;La Liga;Fair;NNW;3 mph;52 °F;88 %;28.09 in
+26.10.2019;R. Valladolid;Eibar;2;0;La Liga;Fair;NNW;3 mph;52 °F;88 %;28.09 in
+26.10.2019;Atl. Madrid;Ath. Bilbao;2;0;La Liga;Fair;NNW;3 mph;52 °F;88 %;28.09 in
+27.10.2019;Celta Vigo;R. Sociedad;0;1;La Liga;Fair;N;3 mph;54 °F;82 %;28.06 in
+27.10.2019;Granada;Real Betis;1;0;La Liga;N/A;SSW;2 mph;51 °F;85 %;28.22 in
+27.10.2019;Levante;Espanyol;0;1;La Liga;Fair;N;3 mph;54 °F;82 %;28.06 in
+27.10.2019;Sevilla;Getafe;2;0;La Liga;Fair;N;3 mph;54 °F;82 %;28.06 in
+27.10.2019;Osasuna;Valencia;3;1;La Liga;Fair;ESE;1 mph;55 °F;100 %;29.84 in
+18.12.2019;Barcelona;Real Madrid;0;0;La Liga;Fair;NNW;10 mph;54 °F;94 %;29.86 in
+18.10.2019;Granada;Osasuna;1;0;La Liga;N/A;CALM;0 mph;56 °F;53 %;28.20 in
+19.10.2019;Eibar;Barcelona;0;3;La Liga;Partly Cloudy;SSW;9 mph;61 °F;72 %;27.84 in
+19.10.2019;Atl. Madrid;Valencia;1;1;La Liga;Partly Cloudy;SSW;9 mph;61 °F;72 %;27.84 in
+19.10.2019;Getafe;Leganes;2;0;La Liga;Fair;WSW;7 mph;68 °F;64 %;29.69 in
+19.10.2019;Mallorca;Real Madrid;1;0;La Liga;N/A;SW;8 mph;62 °F;79 %;28.08 in
+20.10.2019;Alaves;Celta Vigo;2;0;La Liga;Light Rain;W;3 mph;57 °F;100 %;29.53 in
+20.10.2019;R. Sociedad;Real Betis;3;1;La Liga;Light Rain;ESE;7 mph;55 °F;94 %;27.59 in
+20.10.2019;Espanyol;Villarreal;0;1;La Liga;Light Rain;ESE;7 mph;55 °F;94 %;27.59 in
+20.10.2019;Ath. Bilbao;R. Valladolid;1;1;La Liga;Light Rain;W;3 mph;57 °F;100 %;29.53 in
+20.10.2019;Sevilla;Levante;1;0;La Liga;Light Rain;ESE;7 mph;55 °F;94 %;27.59 in
+04.10.2019;Real Betis;Eibar;1;1;La Liga;Fair;NW;3 mph;66 °F;73 %;29.81 in
+05.10.2019;Leganes;Levante;1;2;La Liga;Fair;N;5 mph;63 °F;48 %;27.92 in
+05.10.2019;Real Madrid;Granada;4;2;La Liga;Fair;N;5 mph;63 °F;48 %;27.92 in
+05.10.2019;Valencia;Alaves;2;1;La Liga;Fair;WNW;6 mph;68 °F;83 %;29.72 in
+05.10.2019;Osasuna;Villarreal;2;1;La Liga;Fair;N;3 mph;66 °F;83 %;29.67 in
+06.10.2019;Mallorca;Espanyol;2;0;La Liga;N/A;CALM;0 mph;62 °F;63 %;28.13 in
+06.10.2019;Celta Vigo;Ath. Bilbao;1;0;La Liga;Fair;NNW;5 mph;63 °F;59 %;27.95 in
+06.10.2019;R. Valladolid;Atl. Madrid;0;0;La Liga;Fair;NNW;5 mph;63 °F;59 %;27.95 in
+06.10.2019;R. Sociedad;Getafe;1;2;La Liga;Fair;NNW;5 mph;63 °F;59 %;27.95 in
+06.10.2019;Barcelona;Sevilla;4;0;La Liga;Partly Cloudy;CALM;0 mph;66 °F;88 %;30.01 in
+27.09.2019;Villarreal;Real Betis;5;1;La Liga;Cloudy;NE;2 mph;66 °F;83 %;29.97 in
+28.09.2019;Ath. Bilbao;Valencia;0;1;La Liga;Mostly Cloudy;SSE;2 mph;64 °F;88 %;30.09 in
+28.09.2019;Getafe;Barcelona;0;2;La Liga;Fair;WSW;6 mph;70 °F;88 %;29.84 in
+28.09.2019;Granada;Leganes;1;0;La Liga;N/A;CALM;0 mph;63 °F;57 %;28.19 in
+28.09.2019;Atl. Madrid;Real Madrid;0;0;La Liga;Fair;CALM;0 mph;66 °F;40 %;28.00 in
+29.09.2019;Espanyol;R. Valladolid;0;2;La Liga;Fair;N;3 mph;63 °F;48 %;28.00 in
+29.09.2019;Eibar;Celta Vigo;2;0;La Liga;Fair;N;3 mph;63 °F;48 %;28.00 in
+29.09.2019;Alaves;Mallorca;2;0;La Liga;Fair;E;3 mph;61 °F;94 %;29.91 in
+29.09.2019;Levante;Osasuna;1;1;La Liga;Fair;N;3 mph;63 °F;48 %;28.00 in
+29.09.2019;Sevilla;R. Sociedad;3;2;La Liga;Fair;N;3 mph;63 °F;48 %;28.00 in
+24.09.2019;R. Valladolid;Granada;1;1;La Liga;Fair;SE;3 mph;63 °F;68 %;28.03 in
+24.09.2019;Real Betis;Levante;3;1;La Liga;Fair;WNW;6 mph;72 °F;78 %;29.87 in
+24.09.2019;Barcelona;Villarreal;2;1;La Liga;Fair;WSW;8 mph;70 °F;78 %;30.04 in
+25.09.2019;Leganes;Ath. Bilbao;1;1;La Liga;Partly Cloudy;W;9 mph;72 °F;57 %;27.95 in
+25.09.2019;Mallorca;Atl. Madrid;0;2;La Liga;N/A;W;1 mph;59 °F;69 %;28.15 in
+25.09.2019;Valencia;Getafe;3;3;La Liga;Fair;W;12 mph;79 °F;36 %;29.72 in
+25.09.2019;Real Madrid;Osasuna;2;0;La Liga;Partly Cloudy;W;9 mph;72 °F;57 %;27.95 in
+26.09.2019;Eibar;Sevilla;3;2;La Liga;Fair;NW;1 mph;63 °F;63 %;27.98 in
+26.09.2019;Celta Vigo;Espanyol;1;1;La Liga;Fair;NW;1 mph;63 °F;63 %;27.98 in
+26.09.2019;R. Sociedad;Alaves;3;0;La Liga;Fair;NW;1 mph;63 °F;63 %;27.98 in
+20.09.2019;Osasuna;Real Betis;0;0;La Liga;Fair;WNW;3 mph;66 °F;83 %;29.76 in
+21.09.2019;Villarreal;R. Valladolid;2;0;La Liga;Partly Cloudy;SE;16 mph;66 °F;83 %;29.73 in
+21.09.2019;Levante;Eibar;0;0;La Liga;Partly Cloudy;N;5 mph;63 °F;94 %;27.87 in
+21.09.2019;Atl. Madrid;Celta Vigo;0;0;La Liga;Partly Cloudy;N;5 mph;63 °F;94 %;27.87 in
+21.09.2019;Granada;Barcelona;2;0;La Liga;N/A;CALM;0 mph;68 °F;79 %;28.05 in
+22.09.2019;Getafe;Mallorca;4;2;La Liga;Light Rain;ENE;8 mph;75 °F;89 %;29.67 in
+22.09.2019;Espanyol;R. Sociedad;1;3;La Liga;Mostly Cloudy;VAR;2 mph;64 °F;88 %;27.84 in
+22.09.2019;Valencia;Leganes;1;1;La Liga;Light Rain;ENE;8 mph;75 °F;89 %;29.67 in
+22.09.2019;Ath. Bilbao;Alaves;2;0;La Liga;Partly Cloudy;SSE;8 mph;79 °F;51 %;29.59 in
+22.09.2019;Sevilla;Real Madrid;0;1;La Liga;Mostly Cloudy;VAR;2 mph;64 °F;88 %;27.84 in
+13.09.2019;Mallorca;Ath. Bilbao;0;0;La Liga;N/A;CALM;0 mph;63 °F;83 %;28.25 in
+14.09.2019;Real Madrid;Levante;3;2;La Liga;Mostly Cloudy;NE;3 mph;66 °F;73 %;28.17 in
+14.09.2019;Leganes;Villarreal;0;3;La Liga;Mostly Cloudy;NE;3 mph;66 °F;73 %;28.17 in
+14.09.2019;R. Sociedad;Atl. Madrid;2;0;La Liga;Mostly Cloudy;NE;3 mph;66 °F;73 %;28.17 in
+14.09.2019;Barcelona;Valencia;5;2;La Liga;Fair;SW;6 mph;72 °F;83 %;30.34 in
+15.09.2019;Eibar;Espanyol;1;2;La Liga;Mostly Cloudy;VAR;1 mph;63 °F;94 %;28.09 in
+15.09.2019;Alaves;Sevilla;0;1;La Liga;Fair;SE;3 mph;68 °F;83 %;30.09 in
+15.09.2019;Celta Vigo;Granada;0;2;La Liga;Mostly Cloudy;VAR;1 mph;63 °F;94 %;28.09 in
+15.09.2019;R. Valladolid;Osasuna;1;1;La Liga;Mostly Cloudy;VAR;1 mph;63 °F;94 %;28.09 in
+15.09.2019;Real Betis;Getafe;1;1;La Liga;Mostly Cloudy;N;7 mph;75 °F;73 %;29.96 in
+30.08.2019;Sevilla;Celta Vigo;1;1;La Liga;Fair;N;7 mph;79 °F;44 %;28.03 in
+30.08.2019;Ath. Bilbao;R. Sociedad;2;0;La Liga;Mostly Cloudy;VAR;2 mph;73 °F;73 %;30.06 in
+31.08.2019;Osasuna;Barcelona;2;2;La Liga;Fair;VAR;1 mph;72 °F;73 %;29.70 in
+31.08.2019;Getafe;Alaves;1;1;La Liga;Fair;WNW;3 mph;77 °F;74 %;29.84 in
+31.08.2019;Levante;R. Valladolid;2;0;La Liga;Fair;SE;1 mph;73 °F;53 %;28.00 in
+31.08.2019;Real Betis;Leganes;2;1;La Liga;Fair;WNW;3 mph;77 °F;74 %;29.84 in
+01.09.2019;Valencia;Mallorca;2;0;La Liga;Fair;WNW;2 mph;77 °F;61 %;29.72 in
+01.09.2019;Atl. Madrid;Eibar;3;2;La Liga;Fair;N;3 mph;77 °F;44 %;27.89 in
+01.09.2019;Espanyol;Granada;0;3;La Liga;Fair;N;3 mph;77 °F;44 %;27.89 in
+01.09.2019;Villarreal;Real Madrid;2;2;La Liga;Mostly Cloudy;VAR;1 mph;70 °F;94 %;29.97 in
+23.08.2019;Granada;Sevilla;0;1;La Liga;N/A;CALM;0 mph;76 °F;66 %;28.15 in
+23.08.2019;Levante;Villarreal;2;1;La Liga;Fair;N;3 mph;73 °F;44 %;28.00 in
+24.08.2019;Osasuna;Eibar;0;0;La Liga;Fair;ENE;2 mph;68 °F;73 %;29.76 in
+24.08.2019;Real Madrid;R. Valladolid;1;1;La Liga;Fair;N;3 mph;75 °F;38 %;27.98 in
+24.08.2019;Celta Vigo;Valencia;1;0;La Liga;Fair;N;3 mph;75 °F;38 %;27.98 in
+24.08.2019;Getafe;Ath. Bilbao;1;1;La Liga;Fair;NW;3 mph;75 °F;78 %;29.87 in
+25.08.2019;Alaves;Espanyol;0;0;La Liga;Mostly Cloudy;NNW;5 mph;70 °F;83 %;30.00 in
+25.08.2019;Mallorca;R. Sociedad;0;1;La Liga;N/A;SSW;15 mph;77 °F;62 %;28.13 in
+25.08.2019;Leganes;Atl. Madrid;0;1;La Liga;Fair;VAR;2 mph;77 °F;36 %;27.92 in
+25.08.2019;Barcelona;Real Betis;5;2;La Liga;Fair;SSW;3 mph;77 °F;74 %;30.04 in
+16.08.2019;Ath. Bilbao;Barcelona;1;0;La Liga;Fair;VAR;2 mph;61 °F;94 %;30.09 in
+17.08.2019;Celta Vigo;Real Madrid;1;3;La Liga;Fair;NW;6 mph;86 °F;25 %;27.89 in
+17.08.2019;Valencia;R. Sociedad;1;1;La Liga;Fair;N;7 mph;79 °F;78 %;29.81 in
+17.08.2019;Mallorca;Eibar;2;1;La Liga;N/A;CALM;0 mph;74 °F;37 %;28.12 in
+17.08.2019;Leganes;Osasuna;0;1;La Liga;Fair;NW;6 mph;86 °F;25 %;27.89 in
+17.08.2019;Villarreal;Granada;4;4;La Liga;Fair;VAR;2 mph;63 °F;88 %;29.94 in
+18.08.2019;Alaves;Levante;1;0;La Liga;Fair;VAR;1 mph;68 °F;88 %;29.76 in
+18.08.2019;Espanyol;Sevilla;0;2;La Liga;Fair;W;10 mph;90 °F;15 %;27.81 in
+18.08.2019;Real Betis;R. Valladolid;1;2;La Liga;Fair;NE;7 mph;81 °F;79 %;29.72 in
+18.08.2019;Atl. Madrid;Getafe;1;0;La Liga;Fair;W;10 mph;90 °F;15 %;27.81 in

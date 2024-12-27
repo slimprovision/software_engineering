@@ -1,0 +1,381 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+19.05.2018;Celta Vigo;Levante;4;2;La Liga;Fair;VAR;1 mph;57 °F;82 %;28.02 in
+19.05.2018;Leganes;Real Betis;3;2;La Liga;Fair;VAR;1 mph;57 °F;82 %;28.02 in
+19.05.2018;Sevilla;Alaves;1;0;La Liga;Fair;VAR;1 mph;57 °F;82 %;28.02 in
+19.05.2018;Malaga;Getafe;0;1;La Liga;Fair;VAR;1 mph;57 °F;82 %;28.02 in
+19.05.2018;Las Palmas;Girona;1;2;La Liga;N/A;CALM;0 mph;59 °F;90 %;28.07 in
+19.05.2018;Villarreal;Real Madrid;2;2;La Liga;Mostly Cloudy;N;3 mph;61 °F;88 %;30.00 in
+20.05.2018;Valencia;Deportivo;2;1;La Liga;Fair;VAR;1 mph;66 °F;68 %;29.78 in
+20.05.2018;Ath. Bilbao;Espanyol;0;1;La Liga;Partly Cloudy;E;1 mph;57 °F;94 %;30.00 in
+20.05.2018;Atl. Madrid;Eibar;2;2;La Liga;Fair;S;5 mph;64 °F;64 %;27.99 in
+20.05.2018;Barcelona;R. Sociedad;1;0;La Liga;Fair;SW;7 mph;66 °F;73 %;29.98 in
+12.05.2018;R. Sociedad;Leganes;3;2;La Liga;Fair;SW;8 mph;68 °F;56 %;27.99 in
+12.05.2018;Girona;Valencia;0;1;La Liga;Fair;SSW;5 mph;57 °F;100 %;29.70 in
+12.05.2018;Alaves;Ath. Bilbao;3;1;La Liga;Fair;CALM;0 mph;57 °F;82 %;29.94 in
+12.05.2018;Deportivo;Villarreal;2;4;La Liga;Fair;SW;8 mph;68 °F;56 %;27.99 in
+12.05.2018;Getafe;Atl. Madrid;0;1;La Liga;Fair;NE;9 mph;66 °F;83 %;29.78 in
+12.05.2018;Real Betis;Sevilla;2;2;La Liga;Fair;NE;9 mph;66 °F;83 %;29.78 in
+12.05.2018;Eibar;Las Palmas;1;0;La Liga;Fair;SW;8 mph;68 °F;56 %;27.99 in
+12.05.2018;Real Madrid;Celta Vigo;6;0;La Liga;Fair;SW;8 mph;68 °F;56 %;27.99 in
+13.05.2018;Espanyol;Malaga;4;1;La Liga;Fair;NNW;10 mph;54 °F;35 %;28.04 in
+13.05.2018;Levante;Barcelona;5;4;La Liga;Fair;NNW;10 mph;54 °F;35 %;28.04 in
+04.05.2018;Sevilla;R. Sociedad;1;0;La Liga;Fair;NNW;6 mph;48 °F;62 %;27.96 in
+05.05.2018;Girona;Eibar;1;4;La Liga;Partly Cloudy;WNW;2 mph;59 °F;72 %;29.61 in
+05.05.2018;Ath. Bilbao;Real Betis;2;0;La Liga;Fair;ESE;1 mph;50 °F;94 %;30.06 in
+05.05.2018;Celta Vigo;Deportivo;1;1;La Liga;Fair;NE;12 mph;57 °F;55 %;27.99 in
+05.05.2018;Villarreal;Valencia;1;0;La Liga;Fair;ESE;1 mph;50 °F;94 %;30.06 in
+06.05.2018;Malaga;Alaves;0;3;La Liga;Mostly Cloudy;SSE;14 mph;61 °F;77 %;28.02 in
+06.05.2018;Atl. Madrid;Espanyol;0;2;La Liga;Mostly Cloudy;SSE;14 mph;61 °F;77 %;28.02 in
+06.05.2018;Las Palmas;Getafe;0;1;La Liga;N/A;E;1 mph;55 °F;95 %;28.08 in
+06.05.2018;Barcelona;Real Madrid;2;2;La Liga;Fair;WSW;3 mph;59 °F;94 %;30.01 in
+07.05.2018;Leganes;Levante;0;3;La Liga;Partly Cloudy;S;5 mph;61 °F;88 %;28.02 in
+27.04.2018;Levante;Sevilla;2;1;La Liga;Fair;SW;9 mph;70 °F;49 %;27.93 in
+28.04.2018;Espanyol;Las Palmas;1;1;La Liga;Fair;SW;15 mph;64 °F;49 %;27.88 in
+28.04.2018;R. Sociedad;Ath. Bilbao;3;1;La Liga;Fair;SW;15 mph;64 °F;49 %;27.88 in
+28.04.2018;Real Madrid;Leganes;2;1;La Liga;Fair;SW;15 mph;64 °F;49 %;27.88 in
+28.04.2018;Villarreal;Celta Vigo;4;1;La Liga;Mostly Cloudy;E;5 mph;54 °F;77 %;29.91 in
+29.04.2018;Getafe;Girona;1;1;La Liga;Mist;ESE;5 mph;61 °F;94 %;29.52 in
+29.04.2018;Alaves;Atl. Madrid;0;1;La Liga;Partly Cloudy;VAR;2 mph;52 °F;94 %;29.65 in
+29.04.2018;Valencia;Eibar;0;0;La Liga;Mist;ESE;5 mph;61 °F;94 %;29.52 in
+29.04.2018;Deportivo;Barcelona;2;4;La Liga;Mostly Cloudy;WSW;7 mph;54 °F;51 %;27.74 in
+30.04.2018;Real Betis;Malaga;2;1;La Liga;Fair;WSW;12 mph;59 °F;42 %;29.72 in
+20.04.2018;Leganes;Deportivo;0;0;La Liga;Partly Cloudy;E;8 mph;63 °F;55 %;28.15 in
+21.04.2018;Eibar;Getafe;0;1;La Liga;Fair;ESE;7 mph;59 °F;59 %;28.13 in
+21.04.2018;Celta Vigo;Valencia;1;1;La Liga;Fair;ESE;7 mph;59 °F;59 %;28.13 in
+22.04.2018;Girona;Espanyol;0;2;La Liga;Fair;CALM;0 mph;57 °F;72 %;29.76 in
+22.04.2018;Malaga;R. Sociedad;2;0;La Liga;Fair;VAR;2 mph;57 °F;72 %;28.07 in
+22.04.2018;Las Palmas;Alaves;0;4;La Liga;N/A;W;9 mph;61 °F;68 %;28.02 in
+22.04.2018;Atl. Madrid;Real Betis;0;0;La Liga;Fair;VAR;2 mph;57 °F;72 %;28.07 in
+23.04.2018;Ath. Bilbao;Levante;1;3;La Liga;Mist;NW;3 mph;59 °F;100 %;29.97 in
+09.05.2018;Barcelona;Villarreal;5;1;La Liga;Mist;W;6 mph;61 °F;94 %;29.80 in
+09.05.2018;Sevilla;Real Madrid;3;2;La Liga;Partly Cloudy;N;6 mph;61 °F;88 %;27.91 in
+17.04.2018;Deportivo;Sevilla;0;0;La Liga;Fair;S;6 mph;54 °F;77 %;28.13 in
+17.04.2018;Celta Vigo;Barcelona;2;2;La Liga;Fair;S;6 mph;54 °F;77 %;28.13 in
+17.04.2018;Villarreal;Leganes;2;1;La Liga;Fair;SE;5 mph;55 °F;77 %;29.97 in
+18.04.2018;Espanyol;Eibar;0;1;La Liga;Fair;E;3 mph;59 °F;59 %;28.21 in
+18.04.2018;Valencia;Getafe;1;2;La Liga;Fair;NW;5 mph;61 °F;68 %;30.05 in
+18.04.2018;Real Madrid;Ath. Bilbao;1;1;La Liga;Fair;E;3 mph;59 °F;59 %;28.21 in
+19.04.2018;R. Sociedad;Atl. Madrid;3;0;La Liga;Fair;SE;9 mph;63 °F;48 %;28.21 in
+19.04.2018;Alaves;Girona;1;2;La Liga;Fair;ENE;8 mph;75 °F;41 %;30.03 in
+19.04.2018;Levante;Malaga;1;0;La Liga;Fair;SE;9 mph;63 °F;48 %;28.21 in
+19.04.2018;Real Betis;Las Palmas;1;0;La Liga;Fair;NE;6 mph;64 °F;59 %;30.05 in
+13.04.2018;Girona;Real Betis;0;1;La Liga;Mist;CALM;0 mph;45 °F;100 %;29.32 in
+14.04.2018;Sevilla;Villarreal;2;2;La Liga;Partly Cloudy;NNW;7 mph;48 °F;82 %;27.88 in
+14.04.2018;Barcelona;Valencia;2;1;La Liga;Mostly Cloudy;NE;7 mph;55 °F;94 %;29.92 in
+14.04.2018;Las Palmas;R. Sociedad;0;1;La Liga;N/A;SW;2 mph;44 °F;96 %;27.94 in
+14.04.2018;Leganes;Celta Vigo;1;0;La Liga;Partly Cloudy;NNW;7 mph;48 °F;82 %;27.88 in
+14.04.2018;Ath. Bilbao;Deportivo;2;3;La Liga;Mist;CALM;0 mph;50 °F;100 %;29.79 in
+15.04.2018;Eibar;Alaves;0;1;La Liga;Fair;E;3 mph;54 °F;72 %;28.04 in
+15.04.2018;Atl. Madrid;Levante;3;0;La Liga;Fair;E;3 mph;54 °F;72 %;28.04 in
+15.04.2018;Getafe;Espanyol;1;0;La Liga;Fair;W;6 mph;55 °F;77 %;29.84 in
+15.04.2018;Malaga;Real Madrid;1;2;La Liga;Fair;E;3 mph;54 °F;72 %;28.04 in
+06.04.2018;Deportivo;Malaga;3;2;La Liga;Fair;NW;3 mph;54 °F;67 %;27.96 in
+07.04.2018;Alaves;Getafe;2;0;La Liga;Fair;W;7 mph;59 °F;67 %;29.53 in
+07.04.2018;Celta Vigo;Sevilla;4;0;La Liga;Mostly Cloudy;SE;8 mph;57 °F;88 %;27.74 in
+07.04.2018;Real Betis;Eibar;2;0;La Liga;Partly Cloudy;VAR;2 mph;61 °F;59 %;29.64 in
+07.04.2018;Barcelona;Leganes;3;1;La Liga;Fair;NE;16 mph;57 °F;77 %;29.92 in
+08.04.2018;Levante;Las Palmas;2;1;La Liga;Mostly Cloudy;W;1 mph;48 °F;93 %;27.77 in
+08.04.2018;Real Madrid;Atl. Madrid;1;1;La Liga;Mostly Cloudy;W;1 mph;48 °F;93 %;27.77 in
+08.04.2018;R. Sociedad;Girona;5;0;La Liga;Mostly Cloudy;W;1 mph;48 °F;93 %;27.77 in
+08.04.2018;Valencia;Espanyol;1;0;La Liga;Light Rain;SW;8 mph;54 °F;88 %;29.52 in
+09.04.2018;Villarreal;Ath. Bilbao;1;3;La Liga;Partly Cloudy;ESE;2 mph;52 °F;82 %;29.59 in
+31.03.2018;Girona;Levante;1;1;La Liga;Fair;VAR;2 mph;45 °F;66 %;29.23 in
+31.03.2018;Ath. Bilbao;Celta Vigo;1;1;La Liga;Fair;WSW;12 mph;52 °F;54 %;29.35 in
+31.03.2018;Las Palmas;Real Madrid;0;3;La Liga;N/A;WSW;5 mph;46 °F;74 %;27.97 in
+31.03.2018;Sevilla;Barcelona;2;2;La Liga;Partly Cloudy / Windy;WSW;22 mph;43 °F;81 %;27.66 in
+01.04.2018;Espanyol;Alaves;0;0;La Liga;Fair;WSW;6 mph;48 °F;62 %;28.04 in
+01.04.2018;Leganes;Valencia;0;1;La Liga;Fair;WSW;6 mph;48 °F;62 %;28.04 in
+01.04.2018;Eibar;R. Sociedad;0;0;La Liga;Fair;WSW;6 mph;48 °F;62 %;28.04 in
+01.04.2018;Malaga;Villarreal;1;0;La Liga;Fair;WSW;6 mph;48 °F;62 %;28.04 in
+01.04.2018;Atl. Madrid;Deportivo;1;0;La Liga;Fair;WSW;6 mph;48 °F;62 %;28.04 in
+02.04.2018;Getafe;Real Betis;0;1;La Liga;Fair;NNE;6 mph;57 °F;67 %;29.72 in
+16.03.2018;Levante;Eibar;2;1;La Liga;Partly Cloudy;SW;12 mph;45 °F;93 %;27.69 in
+17.03.2018;Deportivo;Las Palmas;1;1;La Liga;Partly Cloudy;WSW;8 mph;45 °F;76 %;27.71 in
+17.03.2018;Valencia;Alaves;3;1;La Liga;Fair;WSW;14 mph;52 °F;58 %;29.46 in
+17.03.2018;R. Sociedad;Getafe;1;2;La Liga;Partly Cloudy;WSW;8 mph;45 °F;76 %;27.71 in
+17.03.2018;Real Betis;Espanyol;3;0;La Liga;Fair;WSW;14 mph;52 °F;58 %;29.46 in
+18.03.2018;Leganes;Sevilla;2;1;La Liga;Fair;SW;8 mph;45 °F;61 %;27.55 in
+18.03.2018;Barcelona;Ath. Bilbao;2;0;La Liga;Fair;WSW;5 mph;45 °F;81 %;29.42 in
+18.03.2018;Villarreal;Atl. Madrid;2;1;La Liga;Light Rain;WSW;3 mph;45 °F;81 %;29.41 in
+18.03.2018;Celta Vigo;Malaga;0;0;La Liga;Fair;SW;8 mph;45 °F;61 %;27.55 in
+18.03.2018;Real Madrid;Girona;6;3;La Liga;Fair;SW;8 mph;45 °F;61 %;27.55 in
+09.03.2018;Girona;Deportivo;2;0;La Liga;Fog;CALM;0 mph;45 °F;100 %;29.52 in
+10.03.2018;Eibar;Real Madrid;1;2;La Liga;Mostly Cloudy;S;8 mph;54 °F;94 %;27.77 in
+10.03.2018;Sevilla;Valencia;0;2;La Liga;Mostly Cloudy;S;8 mph;54 °F;94 %;27.77 in
+10.03.2018;Getafe;Levante;0;1;La Liga;Fair;SW;10 mph;64 °F;56 %;29.61 in
+10.03.2018;Malaga;Barcelona;0;2;La Liga;Mostly Cloudy;S;8 mph;54 °F;94 %;27.77 in
+11.03.2018;Espanyol;R. Sociedad;2;1;La Liga;Partly Cloudy;SSW;9 mph;48 °F;87 %;27.63 in
+11.03.2018;Atl. Madrid;Celta Vigo;3;0;La Liga;Partly Cloudy;SSW;9 mph;48 °F;87 %;27.63 in
+11.03.2018;Las Palmas;Villarreal;0;2;La Liga;Light Rain;SW;13 mph;51 °F;85 %;27.86 in
+11.03.2018;Ath. Bilbao;Leganes;2;0;La Liga;Fair;SSW;12 mph;63 °F;39 %;29.29 in
+12.03.2018;Alaves;Real Betis;1;3;La Liga;Fair;WNW;7 mph;52 °F;67 %;29.44 in
+03.03.2018;Villarreal;Girona;0;2;La Liga;Light Rain;SW;15 mph;59 °F;55 %;29.09 in
+03.03.2018;Sevilla;Ath. Bilbao;2;0;La Liga;Mostly Cloudy;WSW;9 mph;48 °F;93 %;27.44 in
+03.03.2018;Leganes;Malaga;2;0;La Liga;Mostly Cloudy;WSW;9 mph;48 °F;93 %;27.44 in
+03.03.2018;Deportivo;Eibar;1;1;La Liga;Mostly Cloudy;WSW;9 mph;48 °F;93 %;27.44 in
+03.03.2018;Real Madrid;Getafe;3;1;La Liga;Mostly Cloudy;WSW;9 mph;48 °F;93 %;27.44 in
+04.03.2018;Levante;Espanyol;1;1;La Liga;Mostly Cloudy;S;14 mph;48 °F;93 %;27.49 in
+04.03.2018;Barcelona;Atl. Madrid;1;0;La Liga;Fair;VAR;2 mph;52 °F;82 %;29.51 in
+04.03.2018;R. Sociedad;Alaves;2;1;La Liga;Mostly Cloudy;S;14 mph;48 °F;93 %;27.49 in
+04.03.2018;Valencia;Real Betis;2;0;La Liga;Partly Cloudy;VAR;2 mph;57 °F;67 %;29.31 in
+05.03.2018;Celta Vigo;Las Palmas;2;1;La Liga;Mostly Cloudy;SSE;7 mph;46 °F;93 %;27.46 in
+27.02.2018;Espanyol;Real Madrid;1;0;La Liga;Fair;NNE;7 mph;43 °F;34 %;27.66 in
+27.02.2018;Girona;Celta Vigo;1;0;La Liga;Mostly Cloudy;NE;17 mph;36 °F;38 %;29.46 in
+28.02.2018;Getafe;Deportivo;3;0;La Liga;Light Drizzle;VAR;1 mph;43 °F;93 %;29.52 in
+28.02.2018;Ath. Bilbao;Valencia;1;1;La Liga;Fair;ESE;1 mph;28 °F;80 %;29.65 in
+28.02.2018;Malaga;Sevilla;0;1;La Liga;Light Rain;NNW;6 mph;37 °F;100 %;27.60 in
+28.02.2018;Atl. Madrid;Leganes;4;0;La Liga;Light Rain;NNW;6 mph;37 °F;100 %;27.60 in
+28.02.2018;Eibar;Villarreal;1;0;La Liga;Light Rain;NNW;6 mph;37 °F;100 %;27.60 in
+01.03.2018;Real Betis;R. Sociedad;0;0;La Liga;Mist;WNW;7 mph;46 °F;100 %;29.23 in
+01.03.2018;Las Palmas;Barcelona;1;1;La Liga;N/A;SSW;14 mph;56 °F;72 %;27.54 in
+01.03.2018;Alaves;Levante;1;0;La Liga;Fair;S;12 mph;50 °F;66 %;29.06 in
+23.02.2018;Deportivo;Espanyol;0;0;La Liga;Fair;E;3 mph;36 °F;44 %;27.77 in
+24.02.2018;Celta Vigo;Eibar;2;0;La Liga;Fair;CALM;0 mph;32 °F;51 %;27.69 in
+24.02.2018;Real Madrid;Alaves;4;0;La Liga;Fair;CALM;0 mph;32 °F;51 %;27.69 in
+24.02.2018;Leganes;Las Palmas;0;0;La Liga;Fair;CALM;0 mph;32 °F;51 %;27.69 in
+24.02.2018;Barcelona;Girona;6;1;La Liga;Fair;NW;8 mph;41 °F;70 %;29.72 in
+25.02.2018;Villarreal;Getafe;1;0;La Liga;Fair;E;5 mph;36 °F;87 %;29.76 in
+25.02.2018;Ath. Bilbao;Malaga;2;1;La Liga;Fair;E;5 mph;36 °F;87 %;29.76 in
+25.02.2018;Valencia;R. Sociedad;2;1;La Liga;Fair;W;5 mph;45 °F;87 %;29.61 in
+25.02.2018;Sevilla;Atl. Madrid;2;5;La Liga;Fair;NNW;5 mph;34 °F;56 %;27.80 in
+26.02.2018;Levante;Real Betis;0;2;La Liga;Fair;NNW;5 mph;36 °F;60 %;27.85 in
+16.02.2018;Girona;Leganes;3;0;La Liga;Mist;CALM;0 mph;43 °F;100 %;29.90 in
+17.02.2018;Las Palmas;Sevilla;1;2;La Liga;N/A;SSW;1 mph;46 °F;83 %;28.25 in
+17.02.2018;Eibar;Barcelona;0;2;La Liga;Mist;SE;5 mph;45 °F;100 %;28.15 in
+17.02.2018;Alaves;Deportivo;1;0;La Liga;Mist;VAR;1 mph;54 °F;100 %;30.03 in
+17.02.2018;Malaga;Valencia;1;2;La Liga;Mist;SE;5 mph;45 °F;100 %;28.15 in
+18.02.2018;R. Sociedad;Levante;3;0;La Liga;Fair;NE;8 mph;45 °F;61 %;28.24 in
+18.02.2018;Atl. Madrid;Ath. Bilbao;2;0;La Liga;Fair;NE;8 mph;45 °F;61 %;28.24 in
+18.02.2018;Espanyol;Villarreal;1;1;La Liga;Fair;NE;8 mph;45 °F;61 %;28.24 in
+18.02.2018;Real Betis;Real Madrid;3;5;La Liga;Partly Cloudy;NW;5 mph;55 °F;94 %;30.02 in
+19.02.2018;Getafe;Celta Vigo;3;0;La Liga;Fair;NW;5 mph;48 °F;93 %;29.90 in
+09.02.2018;Ath. Bilbao;Las Palmas;0;0;La Liga;Partly Cloudy;VAR;2 mph;36 °F;93 %;30.03 in
+10.02.2018;Villarreal;Alaves;1;2;La Liga;Partly Cloudy;W;3 mph;43 °F;81 %;30.18 in
+10.02.2018;Malaga;Atl. Madrid;0;1;La Liga;Partly Cloudy;CALM;0 mph;41 °F;65 %;28.13 in
+10.02.2018;Leganes;Eibar;0;1;La Liga;Partly Cloudy;CALM;0 mph;41 °F;65 %;28.13 in
+10.02.2018;Real Madrid;R. Sociedad;5;2;La Liga;Partly Cloudy;CALM;0 mph;41 °F;65 %;28.13 in
+11.02.2018;Sevilla;Girona;1;0;La Liga;Fair;VAR;2 mph;37 °F;75 %;28.13 in
+11.02.2018;Barcelona;Getafe;0;0;La Liga;Fair;WNW;12 mph;39 °F;52 %;30.04 in
+11.02.2018;Celta Vigo;Espanyol;2;2;La Liga;Fair;VAR;2 mph;37 °F;75 %;28.13 in
+11.02.2018;Valencia;Levante;3;1;La Liga;Fair;W;8 mph;41 °F;70 %;29.90 in
+12.02.2018;Deportivo;Real Betis;0;1;La Liga;Fair;WSW;10 mph;54 °F;62 %;28.04 in
+02.02.2018;R. Sociedad;Deportivo;5;0;La Liga;Fair;NNE;10 mph;39 °F;61 %;27.77 in
+03.02.2018;Eibar;Sevilla;5;1;La Liga;Fair;CALM;0 mph;34 °F;65 %;28.02 in
+03.02.2018;Real Betis;Villarreal;2;1;La Liga;Fair / Windy;NW;25 mph;46 °F;40 %;29.69 in
+03.02.2018;Alaves;Celta Vigo;2;1;La Liga;Unknown Precipitation;ESE;6 mph;41 °F;93 %;29.97 in
+03.02.2018;Levante;Real Madrid;2;2;La Liga;Fair;CALM;0 mph;34 °F;65 %;28.02 in
+04.02.2018;Getafe;Leganes;0;0;La Liga;Fair;SSW;12 mph;52 °F;44 %;29.69 in
+04.02.2018;Espanyol;Barcelona;1;1;La Liga;Partly Cloudy;SW;10 mph;45 °F;71 %;27.88 in
+04.02.2018;Girona;Ath. Bilbao;2;0;La Liga;Fair;CALM;0 mph;34 °F;87 %;29.49 in
+04.02.2018;Atl. Madrid;Valencia;1;0;La Liga;Partly Cloudy;SW;10 mph;45 °F;71 %;27.88 in
+05.02.2018;Las Palmas;Malaga;1;0;La Liga;N/A;E;2 mph;38 °F;95 %;27.78 in
+26.01.2018;Ath. Bilbao;Eibar;1;1;La Liga;Light Rain;ENE;6 mph;45 °F;100 %;30.03 in
+27.01.2018;Deportivo;Levante;2;2;La Liga;Fair;NNW;10 mph;41 °F;65 %;28.29 in
+27.01.2018;Valencia;Real Madrid;1;4;La Liga;Fair;NNW;9 mph;52 °F;47 %;29.96 in
+27.01.2018;Malaga;Girona;0;0;La Liga;Fair;NNW;10 mph;41 °F;65 %;28.29 in
+27.01.2018;Villarreal;R. Sociedad;4;2;La Liga;Light Rain;N;9 mph;48 °F;82 %;30.29 in
+28.01.2018;Leganes;Espanyol;3;2;La Liga;Fair;NNE;6 mph;39 °F;65 %;28.43 in
+28.01.2018;Atl. Madrid;Las Palmas;3;0;La Liga;Fair;NNE;6 mph;39 °F;65 %;28.43 in
+28.01.2018;Sevilla;Getafe;1;1;La Liga;Fair;NNE;6 mph;39 °F;65 %;28.43 in
+28.01.2018;Barcelona;Alaves;2;1;La Liga;Partly Cloudy;NNE;8 mph;52 °F;67 %;30.45 in
+29.01.2018;Celta Vigo;Real Betis;3;2;La Liga;Mostly Cloudy;WSW;2 mph;46 °F;76 %;28.54 in
+19.01.2018;Getafe;Ath. Bilbao;2;2;La Liga;Fair;VAR;2 mph;46 °F;87 %;29.90 in
+20.01.2018;Espanyol;Sevilla;0;3;La Liga;Fair;NNW;2 mph;41 °F;87 %;28.24 in
+20.01.2018;Atl. Madrid;Girona;1;1;La Liga;Fair;NNW;2 mph;41 °F;87 %;28.24 in
+20.01.2018;Villarreal;Levante;2;1;La Liga;Mostly Cloudy;CALM;0 mph;50 °F;100 %;30.21 in
+20.01.2018;Las Palmas;Valencia;2;1;La Liga;Fair;CALM;0 mph;38 °F;93 %;28.31 in
+21.01.2018;Alaves;Leganes;2;2;La Liga;Cloudy;W;8 mph;57 °F;82 %;30.18 in
+21.01.2018;Real Madrid;Deportivo;7;1;La Liga;Fair;VAR;2 mph;41 °F;81 %;28.29 in
+21.01.2018;R. Sociedad;Celta Vigo;1;2;La Liga;Fair;VAR;2 mph;41 °F;81 %;28.29 in
+21.01.2018;Real Betis;Barcelona;0;5;La Liga;Fair;WSW;9 mph;59 °F;39 %;29.96 in
+22.01.2018;Eibar;Malaga;1;1;La Liga;Fair;VAR;2 mph;43 °F;93 %;28.37 in
+12.01.2018;Getafe;Malaga;1;0;La Liga;Partly Cloudy;WSW;6 mph;48 °F;50 %;29.96 in
+13.01.2018;Girona;Las Palmas;6;0;La Liga;Fair;CALM;0 mph;34 °F;100 %;29.87 in
+13.01.2018;Real Madrid;Villarreal;0;1;La Liga;Fair;CALM;0 mph;36 °F;93 %;28.15 in
+13.01.2018;Eibar;Atl. Madrid;0;1;La Liga;Fair;CALM;0 mph;36 °F;93 %;28.15 in
+13.01.2018;Deportivo;Valencia;1;2;La Liga;Fair;CALM;0 mph;36 °F;93 %;28.15 in
+14.01.2018;Levante;Celta Vigo;0;1;La Liga;Mostly Cloudy;S;3 mph;39 °F;93 %;28.04 in
+14.01.2018;Alaves;Sevilla;1;0;La Liga;Light Rain;VAR;2 mph;43 °F;93 %;29.91 in
+14.01.2018;Espanyol;Ath. Bilbao;1;1;La Liga;Mostly Cloudy;S;3 mph;39 °F;93 %;28.04 in
+14.01.2018;R. Sociedad;Barcelona;2;4;La Liga;Mostly Cloudy;S;3 mph;39 °F;93 %;28.04 in
+15.01.2018;Real Betis;Leganes;3;2;La Liga;Fair;WNW;6 mph;41 °F;81 %;29.93 in
+06.01.2018;Atl. Madrid;Getafe;2;0;La Liga;Light Rain;WNW;12 mph;46 °F;93 %;27.63 in
+06.01.2018;Valencia;Girona;2;1;La Liga;Fair;WSW;5 mph;50 °F;66 %;29.49 in
+06.01.2018;Las Palmas;Eibar;1;2;La Liga;Fair;CALM;0 mph;41 °F;95 %;27.83 in
+06.01.2018;Sevilla;Real Betis;3;5;La Liga;Light Rain;WNW;12 mph;46 °F;93 %;27.63 in
+07.01.2018;Leganes;R. Sociedad;1;0;La Liga;Light Rain;NNW;8 mph;36 °F;100 %;27.44 in
+07.01.2018;Barcelona;Levante;3;0;La Liga;Fair;ENE;15 mph;57 °F;94 %;29.45 in
+07.01.2018;Villarreal;Deportivo;1;1;La Liga;Light Rain;CALM;0 mph;41 °F;100 %;29.53 in
+07.01.2018;Ath. Bilbao;Alaves;2;0;La Liga;Light Rain;CALM;0 mph;41 °F;100 %;29.53 in
+07.01.2018;Celta Vigo;Real Madrid;2;2;La Liga;Light Rain;NNW;8 mph;36 °F;100 %;27.44 in
+08.01.2018;Malaga;Espanyol;0;1;La Liga;Fair;NNW;5 mph;32 °F;100 %;27.71 in
+19.12.2017;Levante;Leganes;0;0;La Liga;Fair;SE;5 mph;39 °F;87 %;28.26 in
+20.12.2017;Getafe;Las Palmas;2;0;La Liga;Mostly Cloudy;NW;3 mph;48 °F;82 %;30.28 in
+20.12.2017;R. Sociedad;Sevilla;3;1;La Liga;Fair;NNW;3 mph;36 °F;70 %;28.43 in
+21.12.2017;Eibar;Girona;4;1;La Liga;Fair;N;3 mph;37 °F;81 %;28.43 in
+21.12.2017;Alaves;Malaga;1;0;La Liga;Cloudy;E;2 mph;46 °F;87 %;30.59 in
+22.12.2017;Real Betis;Ath. Bilbao;0;2;La Liga;Fair;WSW;6 mph;43 °F;87 %;30.37 in
+22.12.2017;Espanyol;Atl. Madrid;1;0;La Liga;Fair;N;2 mph;37 °F;93 %;28.59 in
+23.12.2017;Real Madrid;Barcelona;0;3;La Liga;Fair;CALM;0 mph;37 °F;87 %;28.46 in
+23.12.2017;Valencia;Villarreal;0;1;La Liga;Fair;W;3 mph;43 °F;76 %;30.28 in
+23.12.2017;Deportivo;Celta Vigo;1;3;La Liga;Fair;CALM;0 mph;37 °F;87 %;28.46 in
+15.12.2017;Sevilla;Levante;0;0;La Liga;Cloudy;WSW;17 mph;52 °F;100 %;27.93 in
+16.12.2017;Ath. Bilbao;R. Sociedad;0;0;La Liga;Partly Cloudy;CALM;0 mph;46 °F;87 %;29.88 in
+16.12.2017;Eibar;Valencia;2;1;La Liga;Fair;NE;7 mph;41 °F;61 %;27.96 in
+16.12.2017;Atl. Madrid;Alaves;1;0;La Liga;Fair;NE;7 mph;41 °F;61 %;27.96 in
+17.12.2017;Girona;Getafe;1;0;La Liga;Fair;N;6 mph;37 °F;65 %;29.84 in
+17.12.2017;Celta Vigo;Villarreal;0;1;La Liga;Fair;N;10 mph;39 °F;61 %;28.29 in
+17.12.2017;Las Palmas;Espanyol;2;2;La Liga;N/A;CALM;0 mph;38 °F;78 %;28.28 in
+17.12.2017;Barcelona;Deportivo;4;0;La Liga;Fair;NW;9 mph;43 °F;61 %;30.19 in
+18.12.2017;Malaga;Real Betis;0;2;La Liga;Fair;VAR;1 mph;37 °F;75 %;28.43 in
+21.02.2018;Leganes;Real Madrid;1;3;La Liga;Fair;N;9 mph;46 °F;62 %;27.96 in
+08.12.2017;Alaves;Las Palmas;2;0;La Liga;Mostly Cloudy;CALM;0 mph;55 °F;63 %;30.18 in
+09.12.2017;Getafe;Eibar;0;0;La Liga;Fair;VAR;2 mph;59 °F;55 %;29.96 in
+09.12.2017;Real Madrid;Sevilla;5;0;La Liga;Mostly Cloudy;NNW;1 mph;45 °F;71 %;28.24 in
+09.12.2017;Deportivo;Leganes;1;0;La Liga;Mostly Cloudy;NNW;1 mph;45 °F;71 %;28.24 in
+09.12.2017;Valencia;Celta Vigo;2;1;La Liga;Fair;VAR;2 mph;59 °F;55 %;29.96 in
+10.12.2017;R. Sociedad;Malaga;0;2;La Liga;Partly Cloudy;SW;9 mph;54 °F;72 %;28.15 in
+10.12.2017;Real Betis;Atl. Madrid;0;1;La Liga;Fair;CALM;0 mph;46 °F;87 %;29.90 in
+10.12.2017;Levante;Ath. Bilbao;1;2;La Liga;Partly Cloudy;SW;9 mph;54 °F;72 %;28.15 in
+10.12.2017;Villarreal;Barcelona;0;2;La Liga;Mostly Cloudy;E;3 mph;55 °F;82 %;29.85 in
+11.12.2017;Espanyol;Girona;0;1;La Liga;Light Rain / Windy;SSW;24 mph;52 °F;94 %;27.46 in
+01.12.2017;Malaga;Levante;0;0;La Liga;Fair;VAR;1 mph;32 °F;75 %;28.10 in
+02.12.2017;Barcelona;Celta Vigo;2;2;La Liga;Fair;NNW;10 mph;37 °F;56 %;29.92 in
+02.12.2017;Atl. Madrid;R. Sociedad;2;1;La Liga;Fair;NNE;1 mph;32 °F;69 %;28.18 in
+02.12.2017;Sevilla;Deportivo;2;0;La Liga;Fair;NNE;1 mph;32 °F;69 %;28.18 in
+02.12.2017;Ath. Bilbao;Real Madrid;0;0;La Liga;Mist;VAR;1 mph;37 °F;100 %;30.12 in
+03.12.2017;Leganes;Villarreal;3;1;La Liga;Fair;N;10 mph;37 °F;60 %;28.21 in
+03.12.2017;Getafe;Valencia;1;0;La Liga;Fair;NW;13 mph;43 °F;39 %;29.93 in
+03.12.2017;Eibar;Espanyol;3;1;La Liga;Fair;N;10 mph;37 °F;60 %;28.21 in
+03.12.2017;Las Palmas;Real Betis;1;0;La Liga;N/A;WSW;3 mph;32 °F;87 %;28.27 in
+04.12.2017;Girona;Alaves;2;3;La Liga;Fair;VAR;1 mph;28 °F;86 %;30.02 in
+24.11.2017;Celta Vigo;Leganes;1;0;La Liga;Fair;NW;3 mph;48 °F;62 %;28.13 in
+25.11.2017;Alaves;Eibar;1;2;La Liga;Rain;CALM;0 mph;54 °F;100 %;29.91 in
+25.11.2017;Real Madrid;Malaga;3;2;La Liga;Fair;VAR;2 mph;45 °F;100 %;28.10 in
+25.11.2017;Real Betis;Girona;2;2;La Liga;Fair;VAR;2 mph;54 °F;44 %;29.87 in
+25.11.2017;Levante;Atl. Madrid;0;5;La Liga;Fair;VAR;2 mph;45 °F;100 %;28.10 in
+26.11.2017;Deportivo;Ath. Bilbao;2;2;La Liga;Fair;ENE;7 mph;45 °F;76 %;28.26 in
+26.11.2017;R. Sociedad;Las Palmas;2;2;La Liga;Fair;ENE;7 mph;45 °F;76 %;28.26 in
+26.11.2017;Villarreal;Sevilla;2;3;La Liga;Light Rain;VAR;1 mph;45 °F;100 %;30.29 in
+26.11.2017;Valencia;Barcelona;1;1;La Liga;Fair;SW;5 mph;59 °F;77 %;29.99 in
+27.11.2017;Espanyol;Getafe;1;0;La Liga;Fair;N;3 mph;34 °F;75 %;28.35 in
+17.11.2017;Girona;R. Sociedad;1;1;La Liga;Fair;CALM;0 mph;39 °F;100 %;29.82 in
+18.11.2017;Getafe;Alaves;4;1;La Liga;Fair;VAR;2 mph;45 °F;81 %;29.90 in
+18.11.2017;Leganes;Barcelona;0;3;La Liga;Fair;N;2 mph;43 °F;70 %;28.13 in
+18.11.2017;Sevilla;Celta Vigo;2;1;La Liga;Fair;N;2 mph;43 °F;70 %;28.13 in
+18.11.2017;Atl. Madrid;Real Madrid;0;0;La Liga;Fair;N;2 mph;43 °F;70 %;28.13 in
+19.11.2017;Malaga;Deportivo;3;2;La Liga;Fair;NNW;2 mph;43 °F;70 %;28.13 in
+19.11.2017;Espanyol;Valencia;0;2;La Liga;Fair;NNW;2 mph;43 °F;70 %;28.13 in
+19.11.2017;Las Palmas;Levante;0;2;La Liga;N/A;CALM;0 mph;40 °F;86 %;28.17 in
+19.11.2017;Ath. Bilbao;Villarreal;1;1;La Liga;Fair;E;3 mph;41 °F;100 %;30.15 in
+20.11.2017;Eibar;Real Betis;5;0;La Liga;Fair;N;2 mph;37 °F;81 %;28.18 in
+03.11.2017;Real Betis;Getafe;2;2;La Liga;Partly Cloudy;NW;5 mph;64 °F;83 %;29.81 in
+04.11.2017;Valencia;Leganes;3;0;La Liga;Fair;VAR;2 mph;61 °F;94 %;29.69 in
+04.11.2017;Deportivo;Atl. Madrid;0;1;La Liga;Mostly Cloudy;NNW;5 mph;52 °F;88 %;27.91 in
+04.11.2017;Alaves;Espanyol;1;0;La Liga;Fair;E;2 mph;52 °F;94 %;29.73 in
+04.11.2017;Barcelona;Sevilla;2;1;La Liga;Fair;NW;6 mph;61 °F;88 %;29.92 in
+05.11.2017;Levante;Girona;1;2;La Liga;Fair;VAR;1 mph;52 °F;100 %;27.99 in
+05.11.2017;Celta Vigo;Ath. Bilbao;3;1;La Liga;Fair;VAR;1 mph;52 °F;100 %;27.99 in
+05.11.2017;R. Sociedad;Eibar;3;1;La Liga;Fair;VAR;1 mph;52 °F;100 %;27.99 in
+05.11.2017;Villarreal;Malaga;2;0;La Liga;Rain;NNW;9 mph;57 °F;94 %;29.94 in
+05.11.2017;Real Madrid;Las Palmas;3;0;La Liga;Fair;VAR;1 mph;52 °F;100 %;27.99 in
+28.10.2017;Alaves;Valencia;1;2;La Liga;Mostly Cloudy;VAR;1 mph;63 °F;82 %;30.38 in
+28.10.2017;Atl. Madrid;Villarreal;1;1;La Liga;Fair;NNE;9 mph;68 °F;35 %;28.29 in
+28.10.2017;Ath. Bilbao;Barcelona;0;2;La Liga;Mostly Cloudy;VAR;1 mph;63 °F;82 %;30.38 in
+28.10.2017;Sevilla;Leganes;2;1;La Liga;Fair;NNE;9 mph;68 °F;35 %;28.29 in
+29.10.2017;Getafe;R. Sociedad;2;1;La Liga;Fair;NNW;9 mph;61 °F;82 %;29.99 in
+29.10.2017;Girona;Real Madrid;2;1;La Liga;Fair;N;6 mph;55 °F;82 %;29.84 in
+29.10.2017;Eibar;Levante;2;2;La Liga;Fair;N;6 mph;59 °F;45 %;28.24 in
+29.10.2017;Malaga;Celta Vigo;2;1;La Liga;Fair;N;6 mph;59 °F;45 %;28.24 in
+30.10.2017;Espanyol;Real Betis;1;0;La Liga;Fair;ENE;8 mph;55 °F;58 %;28.10 in
+30.10.2017;Las Palmas;Deportivo;1;3;La Liga;N/A;WSW;1 mph;52 °F;83 %;28.13 in
+21.10.2017;Levante;Getafe;1;1;La Liga;Partly Cloudy;VAR;1 mph;61 °F;88 %;28.18 in
+21.10.2017;Real Betis;Alaves;2;0;La Liga;Fair;NW;3 mph;63 °F;88 %;29.96 in
+21.10.2017;Valencia;Sevilla;4;0;La Liga;Fair;NW;3 mph;63 °F;88 %;29.96 in
+21.10.2017;Barcelona;Malaga;2;0;La Liga;Fair;VAR;1 mph;64 °F;88 %;30.13 in
+22.10.2017;Villarreal;Las Palmas;4;0;La Liga;Fair;W;3 mph;61 °F;63 %;30.23 in
+22.10.2017;Celta Vigo;Atl. Madrid;0;1;La Liga;Mostly Cloudy;VAR;1 mph;59 °F;59 %;28.26 in
+22.10.2017;Leganes;Ath. Bilbao;1;0;La Liga;Mostly Cloudy;VAR;1 mph;59 °F;59 %;28.26 in
+22.10.2017;Real Madrid;Eibar;3;0;La Liga;Mostly Cloudy;VAR;1 mph;59 °F;59 %;28.26 in
+23.10.2017;R. Sociedad;Espanyol;1;1;La Liga;Fair;NNW;1 mph;54 °F;67 %;28.29 in
+23.10.2017;Deportivo;Girona;1;2;La Liga;Fair;NNW;1 mph;54 °F;67 %;28.29 in
+13.10.2017;Espanyol;Levante;0;0;La Liga;Fair;NNW;5 mph;64 °F;37 %;28.24 in
+14.10.2017;Ath. Bilbao;Sevilla;1;0;La Liga;Mist;CALM;0 mph;64 °F;88 %;30.15 in
+14.10.2017;Getafe;Real Madrid;1;2;La Liga;Partly Cloudy;NNW;3 mph;70 °F;83 %;30.08 in
+14.10.2017;Alaves;R. Sociedad;0;2;La Liga;Mist;CALM;0 mph;64 °F;88 %;30.15 in
+14.10.2017;Atl. Madrid;Barcelona;1;1;La Liga;Fair;N;3 mph;63 °F;45 %;28.24 in
+15.10.2017;Eibar;Deportivo;0;0;La Liga;Fair;NNW;3 mph;64 °F;42 %;28.26 in
+15.10.2017;Girona;Villarreal;1;2;La Liga;Fair;CALM;0 mph;61 °F;94 %;29.99 in
+15.10.2017;Malaga;Leganes;0;2;La Liga;Fair;NNW;3 mph;64 °F;42 %;28.26 in
+15.10.2017;Real Betis;Valencia;3;6;La Liga;Fair;VAR;1 mph;70 °F;88 %;30.10 in
+16.10.2017;Las Palmas;Celta Vigo;2;5;La Liga;N/A;WNW;1 mph;60 °F;43 %;28.29 in
+29.09.2017;Celta Vigo;Girona;3;3;La Liga;Fair;NNW;3 mph;66 °F;52 %;28.18 in
+30.09.2017;Deportivo;Getafe;2;1;La Liga;Fair;NNE;3 mph;70 °F;46 %;28.13 in
+30.09.2017;Sevilla;Malaga;2;0;La Liga;Fair;NNE;3 mph;70 °F;46 %;28.13 in
+30.09.2017;Levante;Alaves;0;2;La Liga;Fair;NNE;3 mph;70 °F;46 %;28.13 in
+30.09.2017;Leganes;Atl. Madrid;0;0;La Liga;Fair;NNE;3 mph;70 °F;46 %;28.13 in
+01.10.2017;R. Sociedad;Real Betis;4;4;La Liga;Fair;ENE;3 mph;72 °F;46 %;28.10 in
+01.10.2017;Barcelona;Las Palmas;3;0;La Liga;Rain Shower;NW;12 mph;66 °F;88 %;30.13 in
+01.10.2017;Valencia;Ath. Bilbao;3;2;La Liga;Fair;NE;3 mph;72 °F;78 %;29.87 in
+01.10.2017;Villarreal;Eibar;3;0;La Liga;Fair;VAR;2 mph;59 °F;100 %;30.09 in
+01.10.2017;Real Madrid;Espanyol;2;0;La Liga;Fair;ENE;3 mph;72 °F;46 %;28.10 in
+23.09.2017;Atl. Madrid;Sevilla;2;0;La Liga;Fair;E;5 mph;68 °F;46 %;28.13 in
+23.09.2017;Alaves;Real Madrid;1;2;La Liga;Partly Cloudy;VAR;1 mph;61 °F;94 %;30.06 in
+23.09.2017;Malaga;Ath. Bilbao;3;3;La Liga;Fair;E;5 mph;68 °F;46 %;28.13 in
+23.09.2017;Girona;Barcelona;0;3;La Liga;Fair;CALM;0 mph;61 °F;94 %;29.84 in
+24.09.2017;Espanyol;Deportivo;4;1;La Liga;Fair;N;2 mph;66 °F;46 %;28.13 in
+24.09.2017;Getafe;Villarreal;4;0;La Liga;Fair;VAR;2 mph;68 °F;83 %;29.93 in
+24.09.2017;Las Palmas;Leganes;0;2;La Liga;N/A;S;2 mph;69 °F;62 %;28.20 in
+24.09.2017;Eibar;Celta Vigo;0;4;La Liga;Fair;N;2 mph;66 °F;46 %;28.13 in
+24.09.2017;R. Sociedad;Valencia;2;3;La Liga;Fair;N;2 mph;66 °F;46 %;28.13 in
+25.09.2017;Real Betis;Levante;4;0;La Liga;Fair;VAR;1 mph;73 °F;78 %;29.84 in
+19.09.2017;Valencia;Malaga;5;0;La Liga;Fair;NW;5 mph;68 °F;78 %;29.90 in
+19.09.2017;Barcelona;Eibar;6;1;La Liga;Mostly Cloudy;ESE;3 mph;68 °F;68 %;30.07 in
+20.09.2017;Ath. Bilbao;Atl. Madrid;1;2;La Liga;Fair;VAR;1 mph;54 °F;94 %;30.15 in
+20.09.2017;Leganes;Girona;0;0;La Liga;Fair;VAR;1 mph;68 °F;23 %;28.15 in
+20.09.2017;Deportivo;Alaves;1;0;La Liga;Fair;VAR;1 mph;68 °F;23 %;28.15 in
+20.09.2017;Sevilla;Las Palmas;1;0;La Liga;Fair;VAR;1 mph;68 °F;23 %;28.15 in
+20.09.2017;Real Madrid;Real Betis;0;1;La Liga;Fair;VAR;1 mph;68 °F;23 %;28.15 in
+21.09.2017;Villarreal;Espanyol;0;0;La Liga;Fair;E;2 mph;57 °F;88 %;29.91 in
+21.09.2017;Celta Vigo;Getafe;1;1;La Liga;Fair;NNW;3 mph;64 °F;40 %;28.04 in
+21.09.2017;Levante;R. Sociedad;3;0;La Liga;Fair;NNW;3 mph;64 °F;40 %;28.04 in
+15.09.2017;Eibar;Leganes;1;0;La Liga;Fair;N;8 mph;66 °F;52 %;27.99 in
+16.09.2017;Levante;Valencia;1;1;La Liga;Fair;NE;7 mph;59 °F;48 %;27.96 in
+16.09.2017;Getafe;Barcelona;1;2;La Liga;Mostly Cloudy;VAR;2 mph;61 °F;88 %;29.75 in
+16.09.2017;Real Betis;Deportivo;2;1;La Liga;Mostly Cloudy;VAR;2 mph;61 °F;88 %;29.75 in
+16.09.2017;Atl. Madrid;Malaga;1;0;La Liga;Fair;NE;7 mph;59 °F;48 %;27.96 in
+17.09.2017;Alaves;Villarreal;0;3;La Liga;Mostly Cloudy;VAR;2 mph;54 °F;94 %;29.94 in
+17.09.2017;Girona;Sevilla;0;1;La Liga;Fair;VAR;1 mph;54 °F;82 %;29.70 in
+17.09.2017;Las Palmas;Ath. Bilbao;1;0;La Liga;N/A;SW;2 mph;56 °F;39 %;28.10 in
+17.09.2017;R. Sociedad;Real Madrid;1;3;La Liga;Fair;VAR;1 mph;55 °F;41 %;28.04 in
+18.09.2017;Espanyol;Celta Vigo;2;1;La Liga;Fair;N;6 mph;61 °F;34 %;28.04 in
+08.09.2017;Leganes;Getafe;1;2;La Liga;Fair;VAR;2 mph;72 °F;25 %;28.04 in
+09.09.2017;Real Madrid;Levante;1;1;La Liga;Fair;N;3 mph;72 °F;25 %;27.85 in
+09.09.2017;Valencia;Atl. Madrid;0;0;La Liga;Fair;VAR;1 mph;75 °F;78 %;29.61 in
+09.09.2017;Sevilla;Eibar;3;0;La Liga;Fair;N;3 mph;72 °F;25 %;27.85 in
+09.09.2017;Barcelona;Espanyol;5;0;La Liga;Fair;NNW;2 mph;70 °F;64 %;29.83 in
+10.09.2017;Deportivo;R. Sociedad;2;4;La Liga;Fair;N;9 mph;64 °F;42 %;27.85 in
+10.09.2017;Ath. Bilbao;Girona;2;0;La Liga;Partly Cloudy;VAR;1 mph;57 °F;88 %;29.79 in
+10.09.2017;Celta Vigo;Alaves;1;0;La Liga;Fair;N;9 mph;64 °F;42 %;27.85 in
+10.09.2017;Villarreal;Real Betis;3;1;La Liga;Partly Cloudy;VAR;1 mph;57 °F;88 %;29.79 in
+11.09.2017;Malaga;Las Palmas;1;3;La Liga;Fair;VAR;1 mph;64 °F;40 %;28.02 in
+25.08.2017;R. Sociedad;Villarreal;3;0;La Liga;Fair;VAR;2 mph;81 °F;23 %;28.02 in
+25.08.2017;Real Betis;Celta Vigo;2;1;La Liga;Fair;NNE;5 mph;79 °F;74 %;29.81 in
+26.08.2017;Alaves;Barcelona;0;2;La Liga;Mostly Cloudy;VAR;2 mph;70 °F;88 %;29.91 in
+26.08.2017;Levante;Deportivo;2;2;La Liga;Fair;SSE;3 mph;81 °F;26 %;27.99 in
+26.08.2017;Girona;Malaga;1;0;La Liga;Fair;S;3 mph;72 °F;88 %;29.73 in
+26.08.2017;Las Palmas;Atl. Madrid;1;5;La Liga;N/A;NNW;2 mph;80 °F;38 %;28.09 in
+27.08.2017;Espanyol;Leganes;0;1;La Liga;Fair;SE;3 mph;82 °F;26 %;27.99 in
+27.08.2017;Eibar;Ath. Bilbao;0;1;La Liga;Fair;SE;3 mph;82 °F;26 %;27.99 in
+27.08.2017;Getafe;Sevilla;0;1;La Liga;Mostly Cloudy;VAR;2 mph;81 °F;74 %;29.81 in
+27.08.2017;Real Madrid;Valencia;2;2;La Liga;Fair;SE;3 mph;82 °F;26 %;27.99 in
+18.08.2017;Leganes;Alaves;1;0;La Liga;Fair;N;7 mph;81 °F;34 %;28.04 in
+18.08.2017;Valencia;Las Palmas;1;0;La Liga;Fair;VAR;1 mph;79 °F;83 %;29.84 in
+19.08.2017;Celta Vigo;R. Sociedad;2;3;La Liga;Fair;NE;9 mph;84 °F;37 %;28.02 in
+19.08.2017;Girona;Atl. Madrid;2;2;La Liga;Fair;WSW;3 mph;73 °F;69 %;29.70 in
+19.08.2017;Sevilla;Espanyol;1;1;La Liga;Fair;NE;9 mph;84 °F;37 %;28.02 in
+20.08.2017;Ath. Bilbao;Getafe;0;0;La Liga;Fair;ENE;2 mph;61 °F;88 %;30.18 in
+20.08.2017;Barcelona;Real Betis;2;0;La Liga;Partly Cloudy;SSW;5 mph;77 °F;78 %;30.10 in
+20.08.2017;Deportivo;Real Madrid;0;3;La Liga;Fair;NNE;9 mph;86 °F;29 %;28.07 in
+21.08.2017;Levante;Villarreal;1;0;La Liga;Fair;NNW;5 mph;84 °F;15 %;28.10 in
+21.08.2017;Malaga;Eibar;0;1;La Liga;Fair;NNW;5 mph;84 °F;15 %;28.10 in

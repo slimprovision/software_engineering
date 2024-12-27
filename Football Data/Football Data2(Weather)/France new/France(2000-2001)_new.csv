@@ -1,0 +1,316 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+20.12.2000;Marsilya;Monaco;2;1;Ligue 1;Partly Cloudy;SSE;2 mph;50 °F;76 %;30.00 in
+21.12.2000;Bordeaux;Nantes;0;2;Ligue 1;Fair;SE;20 mph;54 °F;72 %;29.29 in
+21.12.2000;Lille;Bastia;1;0;Ligue 1;Fair;E;6 mph;36 °F;93 %;29.82 in
+21.12.2000;Toulouse;Guingamp;1;1;Ligue 1;Fair;SE;20 mph;54 °F;72 %;29.29 in
+21.12.2000;Rennes;Sedan;2;0;Ligue 1;Fair;ESE;3 mph;43 °F;100 %;29.72 in
+21.12.2000;PSG;Troyes;0;0;Ligue 1;Mostly Cloudy;E;3 mph;39 °F;100 %;29.60 in
+21.12.2000;AJ Auxerre;Lens;3;2;Ligue 1;Mostly Cloudy;N;9 mph;48 °F;84%;29.93 in
+21.12.2000;Lyon;St Etienne;2;1;Ligue 1;Fair;SE;12 mph;41 °F;87 %;29.16 in
+22.12.2000;Lyon;St Etienne;2;1;Ligue 1;Fair;VAR;1 mph;36 °F;93 %;29.19 in
+22.12.2000;PSG;Troyes;0;0;Ligue 1;Fair;E;8 mph;36 °F;93 %;29.69 in
+22.12.2000;AJ Auxerre;Lens;3;2;Ligue 1;Mostly Cloudy;N;5 mph;47 °F;96%;29.93 in
+22.12.2000;Bordeaux;Nantes;0;2;Ligue 1;Fair / Windy;ESE;24 mph;54 °F;77 %;29.29 in
+22.12.2000;Rennes;Sedan;2;0;Ligue 1;Fair;ESE;9 mph;46 °F;87 %;29.75 in
+22.12.2000;Lille;Bastia;1;0;Ligue 1;Fair;SSE;5 mph;34 °F;87 %;29.91 in
+22.12.2000;Toulouse;Guingamp;1;1;Ligue 1;Fair / Windy;ESE;24 mph;54 °F;77 %;29.29 in
+12.01.2001;Lens;Lyon;0;0;Ligue 1;Cloudy;ENE;17 mph;37 °F;93 %;29.99 in
+13.01.2001;Nantes;AJ Auxerre;1;1;Ligue 1;Mostly Cloudy;ENE;8 mph;43 °F;93 %;29.73 in
+13.01.2001;Guingamp;Bordeaux;1;1;Ligue 1;Fair;ENE;12 mph;34 °F;81 %;29.87 in
+13.01.2001;Bastia;Strasbourg;3;1;Ligue 1;Mostly Cloudy;N;8 mph;52 °F;94 %;29.91 in
+13.01.2001;Metz;Rennes;0;2;Ligue 1;Mostly Cloudy;E;3 mph;50 °F;94 %;29.43 in
+13.01.2001;St Etienne;PSG;1;0;Ligue 1;Fair;ENE;13 mph;34 °F;87 %;30.14 in
+13.01.2001;Marsilya;Toulouse;1;1;Ligue 1;Cloudy;NNW;5 mph;54 °F;88 %;29.89 in
+13.01.2001;Monaco;Sedan;1;0;Ligue 1;Mostly Cloudy;N;8 mph;52 °F;94 %;29.91 in
+13.01.2001;Troyes;Lille;2;1;Ligue 1;Fair;ENE;12 mph;34 °F;81 %;29.87 in
+26.01.2001;Bordeaux;Marsilya;3;0;Ligue 1;Fair;SSE;6 mph;39 °F;93 %;29.37 in
+27.01.2001;Lyon;Nantes;3;1;Ligue 1;Mostly Cloudy;S;20 mph;46 °F;71 %;28.67 in
+27.01.2001;PSG;Lens;1;0;Ligue 1;Mostly Cloudy;S;16 mph;41 °F;93 %;28.93 in
+27.01.2001;Rennes;Bastia;1;2;Ligue 1;Partly Cloudy;NW;14 mph;43 °F;87 %;29.28 in
+27.01.2001;Sedan;Metz;0;0;Ligue 1;Mostly Cloudy;S;16 mph;41 °F;93 %;28.93 in
+27.01.2001;Lille;St Etienne;4;1;Ligue 1;Cloudy;S;13 mph;43 °F;87 %;29.08 in
+27.01.2001;Toulouse;Monaco;2;1;Ligue 1;Mostly Cloudy;SSW;12 mph;48 °F;82 %;29.06 in
+27.01.2001;AJ Auxerre;Guingamp;1;1;Ligue 1;Mostly Cloudy;N;5 mph;56 °F;92%;29.93 in
+27.01.2001;Strasbourg;Troyes;3;3;Ligue 1;Fair;SE;1 mph;37 °F;87 %;28.97 in
+03.02.2001;Nantes;PSG;1;0;Ligue 1;Cloudy;SW;8 mph;46 °F;87 %;29.64 in
+03.02.2001;Marsilya;AJ Auxerre;0;1;Ligue 1;Fair;SE;2 mph;41 °F;57 %;30.09 in
+03.02.2001;Monaco;Metz;6;1;Ligue 1;Fair;NNW;10 mph;39 °F;61 %;30.03 in
+03.02.2001;Bastia;Sedan;0;1;Ligue 1;Fair;NNW;10 mph;39 °F;61 %;30.03 in
+03.02.2001;St Etienne;Strasbourg;3;3;Ligue 1;Mostly Cloudy;W;6 mph;39 °F;100 %;29.67 in
+03.02.2001;Toulouse;Bordeaux;1;1;Ligue 1;Mostly Cloudy;S;2 mph;45 °F;81 %;29.64 in
+03.02.2001;Guingamp;Lyon;2;3;Ligue 1;Mostly Cloudy;WSW;12 mph;41 °F;100 %;29.63 in
+04.02.2001;Lens;Lille;0;1;Ligue 1;Mostly Cloudy;WSW;9 mph;43 °F;87 %;29.50 in
+06.02.2001;Rennes;St Etienne;3;0;Ligue 1;Cloudy / Windy;S;21 mph;52 °F;94 %;29.37 in
+06.02.2001;Lyon;Marsilya;1;1;Ligue 1;Mostly Cloudy;SSW;15 mph;52 °F;71 %;29.07 in
+07.02.2001;Sedan;Troyes;2;1;Ligue 1;Cloudy;SSW;12 mph;50 °F;94 %;29.31 in
+07.02.2001;Strasbourg;Lens;1;0;Ligue 1;Fair;SSW;10 mph;54 °F;67 %;29.23 in
+07.02.2001;AJ Auxerre;Toulouse;2;0;Ligue 1;Mostly Cloudy;N;9 mph;44 °F;92%;29.93 in
+07.02.2001;Lille;Nantes;1;1;Ligue 1;Mostly Cloudy / Windy;SSW;21 mph;50 °F;87 %;29.38 in
+07.02.2001;PSG;Guingamp;1;3;Ligue 1;Cloudy;SSW;12 mph;50 °F;94 %;29.31 in
+07.02.2001;Bordeaux;Monaco;2;1;Ligue 1;Fair;SSE;10 mph;54 °F;82 %;29.23 in
+07.02.2001;Metz;Bastia;3;2;Ligue 1;Fair;SSE;10 mph;54 °F;82 %;29.23 in
+17.02.2001;Marsilya;PSG;1;0;Ligue 1;Fair;CALM;0 mph;43 °F;87 %;30.33 in
+17.02.2001;Troyes;Metz;3;2;Ligue 1;Mostly Cloudy;N;9 mph;43 °F;93 %;30.22 in
+17.02.2001;St Etienne;Sedan;0;2;Ligue 1;Mostly Cloudy;N;12 mph;43 °F;87 %;30.38 in
+17.02.2001;Toulouse;Lyon;1;1;Ligue 1;Cloudy;NNW;6 mph;43 °F;81 %;29.98 in
+17.02.2001;Guingamp;Lille;0;1;Ligue 1;Mostly Cloudy;N;9 mph;43 °F;93 %;30.22 in
+17.02.2001;Lens;Rennes;1;2;Ligue 1;Mostly Cloudy;N;12 mph;43 °F;87 %;30.38 in
+17.02.2001;Monaco;Bastia;2;1;Ligue 1;Fair;NNW;10 mph;46 °F;76 %;30.32 in
+18.02.2001;Nantes;Strasbourg;1;0;Ligue 1;Fair;ENE;3 mph;36 °F;93 %;30.34 in
+18.02.2001;Bordeaux;AJ Auxerre;1;0;Ligue 1;Mostly Cloudy;NW;8 mph;41 °F;81 %;29.93 in
+23.02.2001;Troyes;Rennes;3;1;Ligue 1;Mostly Cloudy;WNW;13 mph;48 °F;87 %;29.60 in
+24.02.2001;Troyes;Rennes;3;1;Ligue 1;Mostly Cloudy;NNW;15 mph;37 °F;81 %;29.43 in
+03.03.2001;Lyon;Bordeaux;2;1;Ligue 1;Cloudy;SSE;14 mph;50 °F;87 %;28.24 in
+03.03.2001;Sedan;Lens;2;2;Ligue 1;Mostly Cloudy;NE;13 mph;36 °F;81 %;28.87 in
+03.03.2001;Metz;St Etienne;3;0;Ligue 1;Mostly Cloudy;S;9 mph;48 °F;93 %;28.56 in
+03.03.2001;Strasbourg;Guingamp;0;1;Ligue 1;Cloudy;NW;1 mph;39 °F;81 %;28.68 in
+03.03.2001;AJ Auxerre;Monaco;1;0;Ligue 1;Mostly Cloudy;N;8 mph;46 °F;81%;29.93 in
+03.03.2001;Lille;Marsilya;1;0;Ligue 1;Mostly Cloudy;NE;9 mph;34 °F;87 %;29.14 in
+03.03.2001;PSG;Toulouse;3;0;Ligue 1;Mostly Cloudy;NE;13 mph;36 °F;81 %;28.87 in
+03.03.2001;Bastia;Troyes;2;2;Ligue 1;Mostly Cloudy;NNW;9 mph;43 °F;93 %;29.35 in
+04.03.2001;Rennes;Nantes;0;2;Ligue 1;Cloudy;SSE;6 mph;39 °F;93 %;29.11 in
+17.03.2001;Toulouse;Lille;0;2;Ligue 1;Mostly Cloudy;SE;15 mph;54 °F;88 %;29.11 in
+17.03.2001;Marsilya;Strasbourg;0;0;Ligue 1;Mostly Cloudy;ESE;20 mph;55 °F;77 %;29.65 in
+17.03.2001;St Etienne;Bastia;2;1;Ligue 1;Mostly Cloudy;ENE;12 mph;48 °F;87 %;29.41 in
+17.03.2001;Guingamp;Rennes;1;6;Ligue 1;Fair;SW;9 mph;54 °F;77 %;29.25 in
+17.03.2001;Nantes;Sedan;4;1;Ligue 1;Mostly Cloudy;SSW;7 mph;48 °F;93 %;29.14 in
+17.03.2001;AJ Auxerre;Lyon;0;3;Ligue 1;Mostly Cloudy;N;6 mph;48 °F;78%;29.93 in
+17.03.2001;Monaco;Troyes;4;3;Ligue 1;Cloudy;NNE;8 mph;55 °F;82 %;29.79 in
+17.03.2001;Lens;Metz;1;1;Ligue 1;Mostly Cloudy;ENE;12 mph;48 °F;87 %;29.41 in
+18.03.2001;Bordeaux;PSG;2;0;Ligue 1;Fair;S;5 mph;45 °F;81 %;29.26 in
+06.04.2001;Lille;Bordeaux;2;2;Ligue 1;Mostly Cloudy;WSW;18 mph;52 °F;88 %;29.50 in
+07.04.2001;Lyon;Monaco;2;1;Ligue 1;Cloudy;SSE;9 mph;55 °F;88 %;29.01 in
+07.04.2001;Bastia;Lens;1;3;Ligue 1;Mostly Cloudy;NW;6 mph;54 °F;88 %;29.88 in
+07.04.2001;Rennes;Marsilya;2;0;Ligue 1;Fair;WSW;12 mph;45 °F;81 %;29.61 in
+07.04.2001;Strasbourg;Toulouse;1;0;Ligue 1;Mostly Cloudy;SSW;15 mph;52 °F;94 %;29.17 in
+07.04.2001;Metz;Nantes;1;2;Ligue 1;Mostly Cloudy;WNW;8 mph;54 °F;94 %;29.46 in
+07.04.2001;PSG;AJ Auxerre;3;0;Ligue 1;Partly Cloudy;W;12 mph;48 °F;87 %;29.31 in
+07.04.2001;Sedan;Guingamp;2;2;Ligue 1;Partly Cloudy;W;12 mph;48 °F;87 %;29.31 in
+07.04.2001;Troyes;St Etienne;0;0;Ligue 1;Partly Cloudy;W;12 mph;48 °F;87 %;29.31 in
+11.04.2001;Strasbourg;Metz;0;1;Ligue 1;Mostly Cloudy;SSW;3 mph;46 °F;87 %;29.37 in
+12.04.2001;Strasbourg;Metz;0;1;Ligue 1;Mostly Cloudy;NNW;6 mph;48 °F;82 %;29.63 in
+14.04.2001;Nantes;Bastia;1;0;Ligue 1;Mostly Cloudy;NE;2 mph;48 °F;87 %;30.05 in
+14.04.2001;Monaco;St Etienne;5;3;Ligue 1;Fair;NW;5 mph;54 °F;72 %;29.79 in
+14.04.2001;Bordeaux;Strasbourg;2;1;Ligue 1;Fair;NNW;9 mph;46 °F;66 %;29.69 in
+14.04.2001;Guingamp;Metz;1;3;Ligue 1;Fair;NNE;10 mph;39 °F;65 %;30.04 in
+14.04.2001;Marsilya;Sedan;2;1;Ligue 1;Fair / Windy;N;31 mph;50 °F;37 %;29.86 in
+14.04.2001;AJ Auxerre;Lille;1;1;Ligue 1;Mostly Cloudy;N;9 mph;56 °F;76%;29.93 in
+14.04.2001;Toulouse;Rennes;2;0;Ligue 1;Fair;NNW;9 mph;46 °F;66 %;29.69 in
+15.04.2001;Lyon;PSG;2;0;Ligue 1;Fair;VAR;1 mph;37 °F;70 %;29.39 in
+28.04.2001;Metz;Marsilya;1;0;Ligue 1;Mostly Cloudy;WSW;9 mph;54 °F;77 %;29.64 in
+28.04.2001;PSG;Monaco;1;1;Ligue 1;Mostly Cloudy;SW;8 mph;54 °F;82 %;29.60 in
+28.04.2001;Rennes;Bordeaux;1;2;Ligue 1;Mostly Cloudy;W;8 mph;54 °F;72 %;29.87 in
+28.04.2001;Sedan;Toulouse;2;3;Ligue 1;Mostly Cloudy;SW;8 mph;54 °F;82 %;29.60 in
+28.04.2001;Bastia;Guingamp;2;0;Ligue 1;Fair;WNW;6 mph;55 °F;82 %;30.00 in
+28.04.2001;Strasbourg;AJ Auxerre;1;0;Ligue 1;Fair;S;3 mph;52 °F;76 %;29.43 in
+28.04.2001;St Etienne;Lens;1;1;Ligue 1;Mostly Cloudy;SW;6 mph;50 °F;100 %;29.67 in
+28.04.2001;Lille;Lyon;1;2;Ligue 1;Mostly Cloudy;SW;6 mph;50 °F;100 %;29.67 in
+29.04.2001;Troyes;Nantes;0;1;Ligue 1;Mostly Cloudy;SW;15 mph;52 °F;94 %;29.46 in
+04.05.2001;Lens;Troyes;1;1;Ligue 1;Cloudy;NNW;10 mph;48 °F;87 %;29.55 in
+12.05.2001;Toulouse;Metz;2;1;Ligue 1;Fair;SSW;3 mph;59 °F;88 %;29.52 in
+12.05.2001;PSG;Lille;2;2;Ligue 1;Fair;N;1 mph;61 °F;63 %;29.72 in
+12.05.2001;AJ Auxerre;Rennes;0;1;Ligue 1;Mostly Cloudy;N;7 mph;41 °F;95%;29.93 in
+12.05.2001;Marsilya;Bastia;2;1;Ligue 1;Partly Cloudy;ENE;6 mph;57 °F;88 %;29.94 in
+12.05.2001;Nantes;St Etienne;1;0;Ligue 1;Cloudy;ENE;3 mph;52 °F;100 %;29.73 in
+12.05.2001;Bordeaux;Sedan;2;2;Ligue 1;Fair;SSW;3 mph;59 °F;88 %;29.52 in
+12.05.2001;Guingamp;Troyes;1;1;Ligue 1;Fair;N;1 mph;61 °F;63 %;29.72 in
+12.05.2001;Lyon;Strasbourg;5;0;Ligue 1;Fair;NNW;3 mph;61 °F;63 %;29.13 in
+12.05.2001;Monaco;Lens;0;0;Ligue 1;Fair;NNW;12 mph;63 °F;63 %;29.94 in
+19.05.2001;Monaco;Lille;1;2;Ligue 1;Fair;NW;9 mph;57 °F;88 %;29.88 in
+19.05.2001;Metz;Bordeaux;2;0;Ligue 1;Fair;W;9 mph;52 °F;82 %;29.66 in
+19.05.2001;Bastia;Toulouse;5;1;Ligue 1;Fair;NW;9 mph;57 °F;88 %;29.88 in
+19.05.2001;Sedan;AJ Auxerre;1;0;Ligue 1;Fair;NNW;6 mph;52 °F;71 %;29.90 in
+19.05.2001;Strasbourg;PSG;1;2;Ligue 1;Mostly Cloudy;W;3 mph;52 °F;82 %;29.66 in
+19.05.2001;Troyes;Marsilya;1;1;Ligue 1;Fair;NNW;6 mph;52 °F;71 %;29.90 in
+19.05.2001;St Etienne;Guingamp;2;2;Ligue 1;Partly Cloudy;WSW;7 mph;48 °F;87 %;30.02 in
+19.05.2001;Lens;Nantes;1;4;Ligue 1;Partly Cloudy;WSW;7 mph;48 °F;87 %;30.02 in
+19.05.2001;Rennes;Lyon;3;4;Ligue 1;Fair;NNW;2 mph;48 °F;87 %;30.17 in
+28.07.2000;Marsilya;Troyes;3;1;Ligue 1;Fair;S;3 mph;73 °F;57 %;29.94 in
+28.07.2000;PSG;Strasbourg;3;1;Ligue 1;Fair;WSW;7 mph;61 °F;88 %;29.63 in
+29.07.2000;Lyon;Rennes;2;2;Ligue 1;Fair;VAR;1 mph;61 °F;88 %;29.27 in
+29.07.2000;Guingamp;St Etienne;2;2;Ligue 1;Mostly Cloudy;W;8 mph;63 °F;88 %;29.72 in
+29.07.2000;Bordeaux;Metz;1;1;Ligue 1;Fair;W;8 mph;66 °F;68 %;29.66 in
+29.07.2000;AJ Auxerre;Sedan;0;1;Ligue 1;Mostly Cloudy;N;9 mph;56 °F;83%;29.93 in
+29.07.2000;Lille;Monaco;1;1;Ligue 1;Fair;SW;5 mph;59 °F;88 %;29.82 in
+29.07.2000;Nantes;Lens;0;2;Ligue 1;Mostly Cloudy;WSW;5 mph;59 °F;94 %;29.75 in
+29.07.2000;Toulouse;Bastia;0;1;Ligue 1;Fair;W;8 mph;66 °F;68 %;29.66 in
+03.08.2000;Sedan;Lyon;1;1;Ligue 1;Fair;SW;5 mph;63 °F;77 %;29.78 in
+04.08.2000;Monaco;Nantes;2;5;Ligue 1;Mostly Cloudy;SW;2 mph;73 °F;83 %;29.97 in
+04.08.2000;St Etienne;Marsilya;3;0;Ligue 1;Mostly Cloudy;SSW;5 mph;59 °F;94 %;29.85 in
+05.08.2000;Rennes;PSG;1;1;Ligue 1;Fair;NE;1 mph;57 °F;94 %;30.17 in
+05.08.2000;Bastia;Bordeaux;2;0;Ligue 1;Fair;NNE;5 mph;72 °F;78 %;29.94 in
+05.08.2000;Lens;Guingamp;3;2;Ligue 1;Fair;N;7 mph;59 °F;88 %;30.05 in
+05.08.2000;Troyes;Toulouse;1;1;Ligue 1;Fair;N;7 mph;63 °F;77 %;29.87 in
+05.08.2000;Metz;AJ Auxerre;1;2;Ligue 1;Mostly Cloudy;W;14 mph;61 °F;88 %;29.69 in
+05.08.2000;Strasbourg;Lille;0;4;Ligue 1;Mostly Cloudy;CALM;0 mph;57 °F;94 %;29.60 in
+12.08.2000;AJ Auxerre;Bastia;1;0;Ligue 1;Mostly Cloudy;N;10 mph;51 °F;81%;29.93 in
+12.08.2000;Strasbourg;Monaco;1;3;Ligue 1;Mostly Cloudy;N;10 mph;52 °F;96%;29.93 in
+12.08.2000;Toulouse;St Etienne;1;1;Ligue 1;Mostly Cloudy;N;10 mph;40 °F;89%;29.93 in
+12.08.2000;Guingamp;Nantes;0;1;Ligue 1;Mostly Cloudy;N;6 mph;50 °F;85%;29.93 in
+12.08.2000;Lille;Rennes;1;0;Ligue 1;Mostly Cloudy;N;10 mph;45 °F;91%;29.93 in
+12.08.2000;Lyon;Metz;0;0;Ligue 1;Mostly Cloudy;N;9 mph;50 °F;85%;29.93 in
+12.08.2000;Bordeaux;Troyes;2;2;Ligue 1;Mostly Cloudy;N;10 mph;58 °F;80%;29.93 in
+13.08.2000;PSG;Sedan;2;1;Ligue 1;Mostly Cloudy;N;5 mph;44 °F;83%;29.93 in
+13.08.2000;Marsilya;Lens;0;0;Ligue 1;Mostly Cloudy;N;5 mph;48 °F;94%;29.93 in
+18.08.2000;Bastia;Lyon;2;0;Ligue 1;Mostly Cloudy;N;10 mph;54 °F;93%;29.93 in
+19.08.2000;St Etienne;Bordeaux;1;0;Ligue 1;Mostly Cloudy;N;7 mph;56 °F;82%;29.93 in
+19.08.2000;Nantes;Marsilya;3;2;Ligue 1;Mostly Cloudy;N;10 mph;46 °F;81%;29.93 in
+19.08.2000;Sedan;Lille;1;0;Ligue 1;Mostly Cloudy;N;8 mph;43 °F;86%;29.93 in
+19.08.2000;Troyes;AJ Auxerre;1;0;Ligue 1;Mostly Cloudy;N;5 mph;44 °F;78%;29.93 in
+19.08.2000;Metz;PSG;1;0;Ligue 1;Mostly Cloudy;N;5 mph;50 °F;99%;29.93 in
+19.08.2000;Rennes;Strasbourg;3;0;Ligue 1;Mostly Cloudy;N;9 mph;57 °F;96%;29.93 in
+19.08.2000;Lens;Toulouse;2;1;Ligue 1;Mostly Cloudy;N;6 mph;46 °F;89%;29.93 in
+20.08.2000;Monaco;Guingamp;1;0;Ligue 1;Mostly Cloudy;N;9 mph;45 °F;77%;29.93 in
+26.08.2000;Lille;Metz;2;1;Ligue 1;Mostly Cloudy;N;6 mph;57 °F;93%;29.93 in
+26.08.2000;Lyon;Troyes;1;0;Ligue 1;Mostly Cloudy;N;10 mph;47 °F;97%;29.93 in
+26.08.2000;Rennes;Monaco;1;1;Ligue 1;Mostly Cloudy;N;9 mph;55 °F;98%;29.93 in
+26.08.2000;Marsilya;Guingamp;3;1;Ligue 1;Mostly Cloudy;N;8 mph;40 °F;100%;29.93 in
+26.08.2000;Strasbourg;Sedan;3;2;Ligue 1;Mostly Cloudy;N;8 mph;44 °F;96%;29.93 in
+26.08.2000;Toulouse;Nantes;1;1;Ligue 1;Mostly Cloudy;N;8 mph;40 °F;90%;29.93 in
+26.08.2000;Bordeaux;Lens;1;1;Ligue 1;Mostly Cloudy;N;10 mph;40 °F;92%;29.93 in
+27.08.2000;AJ Auxerre;St Etienne;4;3;Ligue 1;Mostly Cloudy;N;7 mph;46 °F;100%;29.93 in
+27.08.2000;PSG;Bastia;3;1;Ligue 1;Mostly Cloudy;WSW;8 mph;61 °F;94 %;29.69 in
+05.09.2000;Monaco;Marsilya;0;2;Ligue 1;Fair;NNW;8 mph;66 °F;78 %;29.94 in
+06.09.2000;St Etienne;Lyon;2;2;Ligue 1;Fair;S;6 mph;59 °F;72 %;29.91 in
+06.09.2000;Nantes;Bordeaux;0;5;Ligue 1;Cloudy;SW;10 mph;63 °F;100 %;29.75 in
+06.09.2000;Bastia;Lille;1;0;Ligue 1;Fair;NNW;7 mph;66 °F;64 %;30.06 in
+06.09.2000;Guingamp;Toulouse;2;1;Ligue 1;Fair;SSW;5 mph;57 °F;77 %;29.81 in
+06.09.2000;Lens;AJ Auxerre;1;0;Ligue 1;Fair;S;6 mph;59 °F;72 %;29.91 in
+06.09.2000;Metz;Strasbourg;1;0;Ligue 1;Fair;NW;3 mph;63 °F;52 %;29.64 in
+06.09.2000;Troyes;PSG;5;3;Ligue 1;Fair;SSW;5 mph;57 °F;77 %;29.81 in
+10.10.2000;Sedan;Rennes;2;1;Ligue 1;Mostly Cloudy;S;18 mph;52 °F;94 %;28.93 in
+09.09.2000;Sedan;Monaco;1;0;Ligue 1;Mostly Cloudy;E;3 mph;66 °F;78 %;29.87 in
+09.09.2000;PSG;St Etienne;5;1;Ligue 1;Mostly Cloudy;E;3 mph;66 °F;78 %;29.87 in
+09.09.2000;Rennes;Metz;0;1;Ligue 1;Fair;ENE;2 mph;68 °F;68 %;30.05 in
+09.09.2000;Bordeaux;Guingamp;0;2;Ligue 1;Fair;S;3 mph;68 °F;46 %;29.58 in
+09.09.2000;AJ Auxerre;Nantes;2;2;Ligue 1;Mostly Cloudy;N;10 mph;52 °F;85%;29.93 in
+09.09.2000;Strasbourg;Bastia;1;4;Ligue 1;Fair;W;1 mph;55 °F;88 %;29.66 in
+09.09.2000;Lyon;Lens;3;0;Ligue 1;Fair;WSW;2 mph;61 °F;68 %;29.33 in
+09.09.2000;Lille;Troyes;1;2;Ligue 1;Mostly Cloudy;SW;6 mph;64 °F;88 %;29.99 in
+10.09.2000;Toulouse;Marsilya;2;0;Ligue 1;Fair;SE;7 mph;68 °F;46 %;29.61 in
+16.09.2000;Lens;PSG;1;1;Ligue 1;Partly Cloudy;WSW;13 mph;59 °F;94 %;29.50 in
+16.09.2000;Troyes;Strasbourg;0;1;Ligue 1;Fair;W;15 mph;57 °F;82 %;29.49 in
+16.09.2000;Marsilya;Bordeaux;0;1;Ligue 1;Partly Cloudy;SSE;5 mph;70 °F;88 %;29.97 in
+16.09.2000;Monaco;Toulouse;3;0;Ligue 1;Mostly Cloudy;SW;6 mph;73 °F;88 %;30.00 in
+16.09.2000;Guingamp;AJ Auxerre;1;0;Ligue 1;Fair;W;15 mph;57 °F;82 %;29.49 in
+16.09.2000;Bastia;Rennes;0;2;Ligue 1;Mostly Cloudy;SW;6 mph;73 °F;88 %;30.00 in
+16.09.2000;Metz;Sedan;1;0;Ligue 1;Fair;SW;6 mph;70 °F;78 %;29.43 in
+17.09.2000;Nantes;Lyon;0;1;Ligue 1;Mostly Cloudy;WSW;1 mph;54 °F;94 %;29.70 in
+17.09.2000;St Etienne;Lille;1;1;Ligue 1;Mostly Cloudy;WNW;13 mph;59 °F;88 %;29.70 in
+23.09.2000;AJ Auxerre;Marsilya;0;1;Ligue 1;Mostly Cloudy;N;8 mph;42 °F;89%;29.93 in
+23.09.2000;Metz;Monaco;1;3;Ligue 1;Fair;SE;12 mph;70 °F;53 %;29.52 in
+23.09.2000;PSG;Nantes;2;1;Ligue 1;Fair;SE;6 mph;61 °F;88 %;29.84 in
+23.09.2000;Strasbourg;St Etienne;3;2;Ligue 1;Fair;N;6 mph;57 °F;88 %;29.69 in
+23.09.2000;Sedan;Bastia;3;3;Ligue 1;Fair;SE;6 mph;61 °F;88 %;29.84 in
+23.09.2000;Bordeaux;Toulouse;2;1;Ligue 1;Fair;SE;12 mph;70 °F;53 %;29.52 in
+23.09.2000;Lyon;Guingamp;0;1;Ligue 1;Fair;W;3 mph;59 °F;94 %;29.30 in
+23.09.2000;Rennes;Troyes;0;2;Ligue 1;Fair;ESE;6 mph;63 °F;88 %;29.93 in
+24.09.2000;Lille;Lens;2;1;Ligue 1;Fair;SE;10 mph;59 °F;82 %;29.85 in
+30.09.2000;Guingamp;PSG;1;1;Ligue 1;Mostly Cloudy;SSE;5 mph;57 °F;94 %;29.28 in
+30.09.2000;Monaco;Bordeaux;2;2;Ligue 1;Mostly Cloudy;SSE;12 mph;66 °F;94 %;29.61 in
+30.09.2000;Toulouse;AJ Auxerre;0;1;Ligue 1;Fair;WSW;9 mph;54 °F;82 %;29.23 in
+30.09.2000;Lens;Strasbourg;0;0;Ligue 1;Cloudy;S;5 mph;59 °F;100 %;29.44 in
+30.09.2000;Troyes;Sedan;1;1;Ligue 1;Mostly Cloudy;SSE;5 mph;57 °F;94 %;29.28 in
+30.09.2000;St Etienne;Rennes;0;2;Ligue 1;Cloudy;S;5 mph;59 °F;100 %;29.44 in
+30.09.2000;Bastia;Metz;1;0;Ligue 1;Mostly Cloudy;SSE;12 mph;66 °F;94 %;29.61 in
+01.10.2000;Nantes;Lille;0;0;Ligue 1;Partly Cloudy;S;3 mph;54 °F;100 %;29.38 in
+01.10.2000;Marsilya;Lyon;1;1;Ligue 1;Fair;NNW;8 mph;61 °F;77 %;29.71 in
+13.10.2000;Bastia;Monaco;0;2;Ligue 1;Cloudy;NNW;10 mph;59 °F;94 %;29.70 in
+13.10.2000;PSG;Marsilya;2;0;Ligue 1;Fair;SSW;9 mph;50 °F;94 %;29.22 in
+14.10.2000;Strasbourg;Nantes;0;5;Ligue 1;Mostly Cloudy;ENE;3 mph;48 °F;93 %;29.43 in
+14.10.2000;Metz;Troyes;2;2;Ligue 1;Mostly Cloudy;W;14 mph;50 °F;94 %;29.37 in
+14.10.2000;Lille;Guingamp;1;1;Ligue 1;Fair;SSW;5 mph;46 °F;93 %;29.79 in
+14.10.2000;Sedan;St Etienne;2;1;Ligue 1;Fair;SW;1 mph;43 °F;100 %;29.63 in
+14.10.2000;Rennes;Lens;1;0;Ligue 1;Fair;WNW;3 mph;46 °F;100 %;29.87 in
+15.10.2000;AJ Auxerre;Bordeaux;0;2;Ligue 1;Mostly Cloudy;N;8 mph;40 °F;91%;29.93 in
+13.12.2000;Lyon;Toulouse;4;1;Ligue 1;Fair / Windy;S;21 mph;55 °F;72 %;29.36 in
+13.12.2000;Bastia;Nantes;3;1;Ligue 1;Fair;NW;12 mph;50 °F;82 %;30.32 in
+13.12.2000;Lille;PSG;2;0;Ligue 1;Mostly Cloudy / Windy;SSW;26 mph;52 °F;82 %;29.50 in
+21.10.2000;Toulouse;PSG;2;3;Ligue 1;Fair;SE;20 mph;64 °F;73 %;29.37 in
+21.10.2000;Monaco;AJ Auxerre;1;1;Ligue 1;Fair;NW;7 mph;59 °F;88 %;30.17 in
+21.10.2000;Nantes;Rennes;1;0;Ligue 1;Mostly Cloudy;NNW;7 mph;50 °F;100 %;29.46 in
+21.10.2000;Guingamp;Strasbourg;2;1;Ligue 1;Mostly Cloudy;S;9 mph;61 °F;82 %;29.55 in
+21.10.2000;Troyes;Bastia;0;0;Ligue 1;Mostly Cloudy;S;9 mph;61 °F;82 %;29.55 in
+21.10.2000;Lens;Sedan;1;1;Ligue 1;Mostly Cloudy;SSE;7 mph;57 °F;94 %;29.73 in
+21.10.2000;St Etienne;Metz;2;0;Ligue 1;Mostly Cloudy;SSE;7 mph;57 °F;94 %;29.73 in
+21.10.2000;Bordeaux;Lyon;1;1;Ligue 1;Fair;SE;20 mph;64 °F;73 %;29.37 in
+22.10.2000;Marsilya;Lille;0;1;Ligue 1;Fair;S;2 mph;59 °F;77 %;30.27 in
+28.10.2000;Strasbourg;Marsilya;1;1;Ligue 1;Fair;SE;1 mph;48 °F;82 %;29.63 in
+29.10.2000;Troyes;Monaco;1;0;Ligue 1;Mostly Cloudy;WSW;17 mph;54 °F;77 %;29.52 in
+29.10.2000;Rennes;Guingamp;1;2;Ligue 1;Fair;SSW;8 mph;48 °F;87 %;29.78 in
+29.10.2000;Sedan;Nantes;2;0;Ligue 1;Mostly Cloudy;WSW;17 mph;54 °F;77 %;29.52 in
+29.10.2000;Lyon;AJ Auxerre;2;2;Ligue 1;Fair;S;16 mph;61 °F;72 %;29.22 in
+29.10.2000;Metz;Lens;2;1;Ligue 1;Mostly Cloudy;SW;7 mph;57 °F;88 %;29.61 in
+29.10.2000;Bastia;St Etienne;0;0;Ligue 1;Fair;NW;8 mph;57 °F;94 %;30.14 in
+29.10.2000;Lille;Toulouse;1;0;Ligue 1;Partly Cloudy;SW;18 mph;54 °F;88 %;29.50 in
+29.10.2000;PSG;Bordeaux;1;2;Ligue 1;Mostly Cloudy;WSW;17 mph;54 °F;77 %;29.52 in
+03.11.2000;Monaco;Lyon;0;2;Ligue 1;Mostly Cloudy;NNW;9 mph;52 °F;94 %;29.70 in
+04.11.2000;AJ Auxerre;PSG;1;0;Ligue 1;Mostly Cloudy;N;10 mph;60 °F;95%;29.93 in
+04.11.2000;Guingamp;Sedan;0;3;Ligue 1;Fair;SW;8 mph;43 °F;93 %;29.34 in
+04.11.2000;St Etienne;Troyes;4;1;Ligue 1;Fair;SSW;8 mph;41 °F;100 %;29.41 in
+04.11.2000;Toulouse;Strasbourg;0;0;Ligue 1;Fair;SW;10 mph;45 °F;87 %;29.37 in
+04.11.2000;Marsilya;Rennes;0;1;Ligue 1;Fair;NW;20 mph;50 °F;71 %;29.80 in
+04.11.2000;Lens;Bastia;4;0;Ligue 1;Fair;SSW;8 mph;41 °F;100 %;29.41 in
+04.11.2000;Nantes;Metz;2;0;Ligue 1;Partly Cloudy;W;3 mph;43 °F;100 %;29.35 in
+04.11.2000;Bordeaux;Lille;1;0;Ligue 1;Fair;SW;10 mph;45 °F;87 %;29.37 in
+10.11.2000;St Etienne;Monaco;1;0;Ligue 1;Partly Cloudy;SW;12 mph;45 °F;81 %;29.70 in
+11.11.2000;PSG;Lyon;1;1;Ligue 1;Fair;SSW;9 mph;41 °F;93 %;29.84 in
+11.11.2000;Sedan;Marsilya;2;0;Ligue 1;Fair;SSW;9 mph;41 °F;93 %;29.84 in
+11.11.2000;Troyes;Lens;1;0;Ligue 1;Fair;SSW;9 mph;41 °F;93 %;29.84 in
+11.11.2000;Rennes;Toulouse;1;1;Ligue 1;Mostly Cloudy;S;10 mph;48 °F;87 %;29.99 in
+11.11.2000;Lille;AJ Auxerre;1;1;Ligue 1;Mostly Cloudy;SSW;15 mph;45 °F;81 %;29.88 in
+11.11.2000;Metz;Guingamp;1;1;Ligue 1;Fair;S;1 mph;41 °F;93 %;29.72 in
+12.11.2000;Strasbourg;Bordeaux;0;2;Ligue 1;Fair;S;5 mph;36 °F;93 %;29.52 in
+17.11.2000;Marsilya;Metz;4;1;Ligue 1;Mostly Cloudy;NNW;16 mph;48 °F;82 %;29.71 in
+18.11.2000;Monaco;PSG;2;0;Ligue 1;Mostly Cloudy / Windy;ENE;22 mph;57 °F;72 %;29.70 in
+18.11.2000;Lens;St Etienne;0;0;Ligue 1;Mostly Cloudy;SW;10 mph;39 °F;93 %;29.73 in
+18.11.2000;Toulouse;Sedan;2;0;Ligue 1;Mostly Cloudy;W;14 mph;45 °F;87 %;29.64 in
+18.11.2000;Nantes;Troyes;4;0;Ligue 1;Mostly Cloudy;WSW;3 mph;46 °F;93 %;29.73 in
+18.11.2000;Guingamp;Bastia;1;0;Ligue 1;Fair;WSW;7 mph;41 °F;93 %;29.66 in
+18.11.2000;Lyon;Lille;0;1;Ligue 1;Mostly Cloudy;VAR;1 mph;39 °F;87 %;29.24 in
+19.11.2000;AJ Auxerre;Strasbourg;1;2;Ligue 1;Mostly Cloudy;N;7 mph;54 °F;98%;29.93 in
+19.11.2000;Bordeaux;Rennes;3;0;Ligue 1;Mostly Cloudy;SSE;6 mph;46 °F;93 %;29.46 in
+25.11.2000;Bastia;Marsilya;3;0;Ligue 1;Fair;NNW;9 mph;46 °F;93 %;29.76 in
+25.11.2000;Lens;Monaco;4;3;Ligue 1;Cloudy;S;9 mph;45 °F;87 %;29.55 in
+25.11.2000;Metz;Toulouse;1;1;Ligue 1;Mostly Cloudy;S;2 mph;46 °F;93 %;29.35 in
+25.11.2000;Strasbourg;Lyon;0;3;Ligue 1;Fair;SW;1 mph;34 °F;93 %;29.34 in
+25.11.2000;Troyes;Guingamp;0;1;Ligue 1;Mostly Cloudy;SSW;10 mph;45 °F;100 %;29.46 in
+25.11.2000;Rennes;AJ Auxerre;0;1;Ligue 1;Mostly Cloudy;S;8 mph;48 °F;100 %;29.58 in
+26.11.2000;St Etienne;Nantes;0;2;Ligue 1;Fair;S;12 mph;46 °F;87 %;29.17 in
+26.11.2000;Sedan;Bordeaux;0;0;Ligue 1;Fair;WSW;18 mph;48 °F;87 %;29.17 in
+28.11.2000;Guingamp;Lens;0;1;Ligue 1;Mostly Cloudy;WSW;9 mph;54 °F;100 %;29.60 in
+28.11.2000;PSG;Rennes;0;1;Ligue 1;Mostly Cloudy;WSW;9 mph;54 °F;100 %;29.60 in
+29.11.2000;AJ Auxerre;Metz;1;0;Ligue 1;Mostly Cloudy;N;6 mph;45 °F;86%;29.93 in
+29.11.2000;Bordeaux;Bastia;0;0;Ligue 1;Mostly Cloudy / Windy;SE;21 mph;57 °F;88 %;29.37 in
+29.11.2000;Nantes;Monaco;3;1;Ligue 1;Fair;S;14 mph;57 °F;77 %;29.17 in
+29.11.2000;Toulouse;Troyes;2;1;Ligue 1;Mostly Cloudy / Windy;SE;21 mph;57 °F;88 %;29.37 in
+29.11.2000;Lille;Strasbourg;1;1;Ligue 1;Fair;S;12 mph;54 °F;88 %;29.58 in
+29.11.2000;Lyon;Sedan;2;2;Ligue 1;Fair;SE;12 mph;55 °F;77 %;29.19 in
+29.11.2000;Marsilya;St Etienne;2;1;Ligue 1;Partly Cloudy;SE;8 mph;55 °F;72 %;30.09 in
+02.12.2000;Metz;Lyon;0;0;Ligue 1;Fair;SE;6 mph;52 °F;94 %;29.46 in
+02.12.2000;Rennes;Lille;2;0;Ligue 1;Fair;E;5 mph;48 °F;100 %;29.72 in
+02.12.2000;Bastia;AJ Auxerre;3;1;Ligue 1;Mostly Cloudy;NW;9 mph;55 °F;77 %;30.20 in
+02.12.2000;St Etienne;Toulouse;0;0;Ligue 1;Partly Cloudy;SSW;16 mph;54 °F;88 %;29.67 in
+02.12.2000;Nantes;Guingamp;2;1;Ligue 1;Fair;SSW;14 mph;50 °F;82 %;29.38 in
+02.12.2000;Troyes;Bordeaux;1;0;Ligue 1;Mostly Cloudy;SSW;9 mph;54 °F;94 %;29.60 in
+02.12.2000;Monaco;Strasbourg;1;0;Ligue 1;Mostly Cloudy;NW;9 mph;55 °F;77 %;30.20 in
+02.12.2000;Sedan;PSG;5;1;Ligue 1;Mostly Cloudy;SSW;9 mph;54 °F;94 %;29.60 in
+03.12.2000;Lens;Marsilya;1;0;Ligue 1;Cloudy;NNE;7 mph;50 °F;100 %;29.61 in
+09.12.2000;PSG;Metz;1;0;Ligue 1;Fair;SSW;13 mph;50 °F;82 %;29.43 in
+09.12.2000;Lille;Sedan;2;0;Ligue 1;Fair / Windy;S;23 mph;52 °F;76 %;29.47 in
+09.12.2000;Lyon;Bastia;1;0;Ligue 1;Mostly Cloudy;SSE;7 mph;50 °F;94 %;29.13 in
+09.12.2000;Toulouse;Lens;1;0;Ligue 1;Fair;SSW;6 mph;43 °F;100 %;29.40 in
+09.12.2000;Guingamp;Monaco;2;2;Ligue 1;Fair;SSW;13 mph;50 °F;82 %;29.43 in
+09.12.2000;AJ Auxerre;Troyes;2;2;Ligue 1;Mostly Cloudy;N;10 mph;45 °F;93%;29.93 in
+09.12.2000;Strasbourg;Rennes;1;1;Ligue 1;Fair;WSW;3 mph;46 °F;87 %;29.37 in
+10.12.2000;Marsilya;Nantes;2;0;Ligue 1;Fair;NW;5 mph;52 °F;94 %;30.15 in
+10.12.2000;Bordeaux;St Etienne;2;1;Ligue 1;Fair;S;6 mph;41 °F;93 %;29.61 in
+16.12.2000;Guingamp;Marsilya;1;0;Ligue 1;Partly Cloudy;W;5 mph;37 °F;93 %;29.60 in
+16.12.2000;Monaco;Rennes;1;2;Ligue 1;Partly Cloudy;WNW;6 mph;50 °F;37 %;29.79 in
+16.12.2000;Lens;Bordeaux;2;2;Ligue 1;Fair;W;6 mph;34 °F;93 %;29.67 in
+16.12.2000;St Etienne;AJ Auxerre;2;0;Ligue 1;Fair;W;6 mph;34 °F;93 %;29.67 in
+16.12.2000;Metz;Lille;1;1;Ligue 1;Fair;W;14 mph;43 °F;87 %;29.58 in
+16.12.2000;Sedan;Strasbourg;1;0;Ligue 1;Partly Cloudy;W;5 mph;37 °F;93 %;29.60 in
+16.12.2000;Troyes;Lyon;1;0;Ligue 1;Partly Cloudy;W;5 mph;37 °F;93 %;29.60 in
+17.12.2000;Nantes;Toulouse;3;2;Ligue 1;Fair;WSW;3 mph;41 °F;87 %;29.64 in
+17.12.2000;Bastia;PSG;1;1;Ligue 1;Fair;NNW;10 mph;45 °F;53 %;29.94 in

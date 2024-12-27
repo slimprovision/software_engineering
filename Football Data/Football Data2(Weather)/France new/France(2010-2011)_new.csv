@@ -1,0 +1,381 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+29.05.2011;Arles;Sochaux;1;3;Ligue 1;Fair;NNW;7 mph;57 °F;63 %;29.69 in
+29.05.2011;Bordeaux;Montpellier;2;0;Ligue 1;Fair;NW;5 mph;64 °F;42 %;29.52 in
+29.05.2011;Brest;Toulouse;0;2;Ligue 1;Mostly Cloudy;WSW;8 mph;55 °F;82 %;29.70 in
+29.05.2011;Caen;Marsilya;2;2;Ligue 1;Fair;NW;5 mph;64 °F;42 %;29.52 in
+29.05.2011;Lille;Rennes;3;2;Ligue 1;Mostly Cloudy;W;14 mph;55 °F;77 %;29.79 in
+29.05.2011;Lorient;AJ Auxerre;1;2;Ligue 1;Fair;VAR;2 mph;54 °F;77 %;29.93 in
+29.05.2011;Monaco;Lyon;0;2;Ligue 1;Fair;NNW;9 mph;64 °F;49 %;29.94 in
+29.05.2011;Nancy;Lens;4;0;Ligue 1;Fair;SW;6 mph;50 °F;71 %;29.40 in
+29.05.2011;St Etienne;PSG;1;1;Ligue 1;Mostly Cloudy;W;14 mph;55 °F;77 %;29.79 in
+29.05.2011;Valenciennes;Nice;2;1;Ligue 1;Fair;NNW;7 mph;57 °F;63 %;29.69 in
+21.05.2011;AJ Auxerre;Brest;0;1;Ligue 1;Fair;N;7 mph;57 °F;72 %;29.54 in
+21.05.2011;Lens;Arles;0;1;Ligue 1;Fair;W;5 mph;50 °F;82 %;29.99 in
+21.05.2011;Lyon;Caen;0;0;Ligue 1;Fair;NW;7 mph;64 °F;64 %;29.27 in
+21.05.2011;Marsilya;Valenciennes;2;2;Ligue 1;Fair;SE;6 mph;63 °F;68 %;30.06 in
+21.05.2011;Montpellier;Monaco;0;1;Ligue 1;Fair;WSW;10 mph;72 °F;53 %;29.58 in
+21.05.2011;Nice;Lorient;2;0;Ligue 1;Fair;NNW;7 mph;64 °F;59 %;30.06 in
+21.05.2011;PSG;Lille;2;2;Ligue 1;Fair;N;9 mph;59 °F;55 %;29.84 in
+21.05.2011;Rennes;Nancy;0;2;Ligue 1;Fair;N;5 mph;52 °F;71 %;30.08 in
+21.05.2011;Sochaux;St Etienne;2;1;Ligue 1;Fair;N;9 mph;59 °F;55 %;29.84 in
+21.05.2011;Toulouse;Bordeaux;2;0;Ligue 1;Fair;WSW;10 mph;72 °F;53 %;29.58 in
+15.05.2011;Arles;Toulouse;1;0;Ligue 1;Fair;WNW;8 mph;52 °F;67 %;29.87 in
+15.05.2011;Caen;Montpellier;2;0;Ligue 1;Partly Cloudy;W;15 mph;57 °F;72 %;29.72 in
+15.05.2011;Monaco;Lens;1;1;Ligue 1;Mostly Cloudy;NW;6 mph;64 °F;88 %;29.88 in
+15.05.2011;Nancy;Nice;3;0;Ligue 1;Fair;NW;10 mph;46 °F;71 %;29.54 in
+15.05.2011;St Etienne;Rennes;1;2;Ligue 1;Fair;W;7 mph;52 °F;82 %;29.96 in
+15.05.2011;Valenciennes;AJ Auxerre;1;1;Ligue 1;Fair;WNW;8 mph;52 °F;67 %;29.87 in
+15.05.2011;Lorient;Marsilya;2;2;Ligue 1;Fair;W;5 mph;46 °F;87 %;30.19 in
+16.05.2011;Brest;Lyon;1;1;Ligue 1;Partly Cloudy;WNW;3 mph;54 °F;72 %;30.08 in
+18.05.2011;Bordeaux;PSG;1;0;Ligue 1;Fair;NNW;2 mph;68 °F;46 %;29.52 in
+18.05.2011;Lille;Sochaux;1;0;Ligue 1;Fair;WSW;3 mph;52 °F;88 %;29.94 in
+10.05.2011;PSG;Nancy;2;2;Ligue 1;Fair;NE;5 mph;64 °F;56 %;29.87 in
+10.05.2011;St Etienne;Lille;1;2;Ligue 1;Fair;NE;5 mph;61 °F;63 %;30.02 in
+11.05.2011;AJ Auxerre;Lyon;4;0;Ligue 1;Mostly Cloudy;SE;3 mph;61 °F;94 %;29.60 in
+11.05.2011;Lens;Bordeaux;1;0;Ligue 1;Fair;NNW;6 mph;55 °F;77 %;30.08 in
+11.05.2011;Montpellier;Lorient;3;1;Ligue 1;Fair;SSE;8 mph;61 °F;55 %;29.69 in
+11.05.2011;Nice;Arles;3;2;Ligue 1;Fair;NNW;10 mph;63 °F;52 %;30.23 in
+11.05.2011;Rennes;Caen;1;1;Ligue 1;Fair;NNW;3 mph;54 °F;72 %;30.19 in
+11.05.2011;Sochaux;Monaco;3;0;Ligue 1;Fair;NNW;12 mph;64 °F;56 %;29.93 in
+11.05.2011;Toulouse;Valenciennes;0;0;Ligue 1;Fair;SSE;8 mph;61 °F;55 %;29.69 in
+11.05.2011;Marsilya;Brest;3;0;Ligue 1;Fair;SE;5 mph;61 °F;55 %;30.27 in
+07.05.2011;Arles;St Etienne;0;1;Ligue 1;Fair;E;5 mph;64 °F;56 %;29.60 in
+07.05.2011;AJ Auxerre;Montpellier;1;0;Ligue 1;Fair;ESE;12 mph;59 °F;63 %;29.37 in
+07.05.2011;Bordeaux;Sochaux;0;4;Ligue 1;Fair / Windy;SE;23 mph;63 °F;63 %;29.40 in
+07.05.2011;Brest;Nice;0;0;Ligue 1;Mostly Cloudy;SSE;9 mph;61 °F;88 %;29.43 in
+07.05.2011;Caen;Lens;1;1;Ligue 1;Fair / Windy;SE;23 mph;63 °F;63 %;29.40 in
+07.05.2011;Lorient;Toulouse;0;0;Ligue 1;Fair;SE;7 mph;64 °F;73 %;29.72 in
+07.05.2011;Monaco;PSG;1;1;Ligue 1;Fair;NNW;7 mph;61 °F;59 %;30.20 in
+07.05.2011;Nancy;Lille;0;1;Ligue 1;Fair;ESE;12 mph;59 °F;63 %;29.37 in
+08.05.2011;Valenciennes;Rennes;2;0;Ligue 1;Fair;SE;9 mph;68 °F;52 %;29.52 in
+08.05.2011;Lyon;Marsilya;3;2;Ligue 1;Fair;SSE;12 mph;66 °F;32 %;29.19 in
+30.04.2011;Lens;Lorient;2;3;Ligue 1;Fair;NW;5 mph;54 °F;100 %;29.58 in
+30.04.2011;Lille;Arles;5;0;Ligue 1;Fair;NW;5 mph;54 °F;100 %;29.58 in
+30.04.2011;Rennes;Bordeaux;0;0;Ligue 1;Fair;NNE;6 mph;54 °F;88 %;29.58 in
+30.04.2011;Sochaux;Nancy;1;0;Ligue 1;Partly Cloudy;CALM;0 mph;48 °F;93 %;29.37 in
+30.04.2011;PSG;Valenciennes;3;1;Ligue 1;Partly Cloudy;CALM;0 mph;48 °F;93 %;29.37 in
+01.05.2011;Marsilya;AJ Auxerre;1;1;Ligue 1;Fair;VAR;2 mph;55 °F;88 %;29.65 in
+01.05.2011;Montpellier;Brest;0;0;Ligue 1;Fair;SE;5 mph;57 °F;63 %;29.06 in
+01.05.2011;Nice;Caen;0;4;Ligue 1;Fair;NNW;9 mph;61 °F;55 %;29.61 in
+01.05.2011;Toulouse;Lyon;2;0;Ligue 1;Fair;SE;5 mph;57 °F;63 %;29.06 in
+01.05.2011;St Etienne;Monaco;1;1;Ligue 1;Fair;ESE;6 mph;57 °F;77 %;29.55 in
+24.04.2011;AJ Auxerre;Lens;1;1;Ligue 1;N/A;N;5 mph;61 °F;72 %;29.31 in
+24.04.2011;Bordeaux;St Etienne;2;0;Ligue 1;Mostly Cloudy;E;5 mph;55 °F;94 %;29.37 in
+24.04.2011;Brest;PSG;2;2;Ligue 1;Fair;N;7 mph;50 °F;100 %;29.67 in
+24.04.2011;Caen;Toulouse;1;1;Ligue 1;Mostly Cloudy;E;5 mph;55 °F;94 %;29.37 in
+24.04.2011;Monaco;Rennes;1;0;Ligue 1;Mostly Cloudy;ENE;16 mph;59 °F;82 %;29.97 in
+24.04.2011;Nancy;Arles;0;0;Ligue 1;N/A;N;5 mph;61 °F;72 %;29.31 in
+24.04.2011;Valenciennes;Sochaux;1;1;Ligue 1;Partly Cloudy;SW;10 mph;61 °F;68 %;29.55 in
+24.04.2011;Lorient;Lille;1;1;Ligue 1;Cloudy;NE;6 mph;57 °F;82 %;29.84 in
+27.04.2011;Lyon;Montpellier;3;2;Ligue 1;Fair;NNW;9 mph;57 °F;55 %;29.10 in
+27.04.2011;Marsilya;Nice;4;2;Ligue 1;Fair;N;8 mph;63 °F;63 %;29.80 in
+16.04.2011;Lens;Brest;1;1;Ligue 1;Fair;NE;7 mph;52 °F;67 %;29.96 in
+16.04.2011;Nice;Monaco;3;2;Ligue 1;Fair;NNW;7 mph;54 °F;67 %;29.97 in
+16.04.2011;Rennes;Lorient;1;2;Ligue 1;Fair;CALM;0 mph;54 °F;67 %;30.02 in
+16.04.2011;St Etienne;Nancy;2;1;Ligue 1;Fair;NE;7 mph;52 °F;67 %;29.96 in
+16.04.2011;Sochaux;Caen;3;2;Ligue 1;Fair;VAR;3 mph;50 °F;54 %;29.78 in
+16.04.2011;Toulouse;AJ Auxerre;0;1;Ligue 1;Fair;SW;7 mph;52 °F;54 %;29.46 in
+16.04.2011;Lille;Bordeaux;1;1;Ligue 1;Fair;NE;7 mph;52 °F;67 %;29.96 in
+17.04.2011;Arles;Valenciennes;0;1;Ligue 1;Fair;NNE;3 mph;50 °F;54 %;29.84 in
+17.04.2011;Montpellier;Marsilya;1;2;Ligue 1;Fair;CALM;0 mph;55 °F;47 %;29.52 in
+17.04.2011;PSG;Lyon;1;0;Ligue 1;Fair;NNE;3 mph;50 °F;54 %;29.84 in
+09.04.2011;AJ Auxerre;St Etienne;2;2;Ligue 1;Fair;N;6 mph;52 °F;76 %;29.60 in
+09.04.2011;Bordeaux;Arles;0;0;Ligue 1;Fair;S;5 mph;63 °F;63 %;29.55 in
+09.04.2011;Caen;PSG;1;2;Ligue 1;Fair;S;5 mph;63 °F;63 %;29.55 in
+09.04.2011;Lorient;Sochaux;1;1;Ligue 1;Fair;ENE;6 mph;57 °F;88 %;30.08 in
+09.04.2011;Monaco;Lille;1;0;Ligue 1;Fair;NW;3 mph;57 °F;88 %;30.00 in
+09.04.2011;Valenciennes;Nancy;1;1;Ligue 1;Fair;NE;8 mph;55 °F;72 %;29.90 in
+09.04.2011;Brest;Rennes;2;0;Ligue 1;Fair;ENE;10 mph;55 °F;88 %;29.81 in
+10.04.2011;Marsilya;Toulouse;2;2;Ligue 1;Fair;SE;6 mph;55 °F;88 %;29.94 in
+10.04.2011;Montpellier;Nice;1;1;Ligue 1;Mostly Cloudy;W;16 mph;59 °F;82 %;29.64 in
+10.04.2011;Lyon;Lens;3;0;Ligue 1;Fair;VAR;3 mph;61 °F;72 %;29.19 in
+02.04.2011;Arles;Monaco;0;2;Ligue 1;Fair;VAR;1 mph;52 °F;100 %;29.78 in
+02.04.2011;Lille;Caen;3;1;Ligue 1;Fair;S;12 mph;54 °F;100 %;29.91 in
+02.04.2011;Nancy;Bordeaux;0;0;Ligue 1;Fair;E;9 mph;50 °F;100 %;29.52 in
+02.04.2011;PSG;Lorient;0;0;Ligue 1;Fair;VAR;1 mph;52 °F;100 %;29.78 in
+02.04.2011;Rennes;AJ Auxerre;0;0;Ligue 1;Fair;SE;10 mph;59 °F;82 %;29.84 in
+02.04.2011;Sochaux;Brest;2;1;Ligue 1;Fair;VAR;1 mph;52 °F;100 %;29.78 in
+02.04.2011;Toulouse;Montpellier;0;1;Ligue 1;Fair;SE;13 mph;59 °F;63 %;29.52 in
+03.04.2011;Nice;Lyon;2;2;Ligue 1;Fair;NW;6 mph;54 °F;88 %;30.03 in
+03.04.2011;St Etienne;Valenciennes;1;1;Ligue 1;Fair;NW;10 mph;54 °F;100 %;29.73 in
+03.04.2011;Lens;Marsilya;0;1;Ligue 1;Fair;NW;10 mph;54 °F;100 %;29.73 in
+19.03.2011;AJ Auxerre;Sochaux;2;0;Ligue 1;Cloudy;SSW;8 mph;48 °F;93 %;29.52 in
+19.03.2011;Brest;Lille;1;2;Ligue 1;Mostly Cloudy;NNE;10 mph;45 °F;81 %;30.02 in
+19.03.2011;Lorient;St Etienne;0;0;Ligue 1;Cloudy;N;10 mph;46 °F;87 %;30.19 in
+19.03.2011;Montpellier;Lens;1;4;Ligue 1;Mostly Cloudy;WNW;13 mph;52 °F;82 %;29.81 in
+19.03.2011;Toulouse;Nice;1;1;Ligue 1;Mostly Cloudy;WNW;13 mph;52 °F;82 %;29.81 in
+19.03.2011;Valenciennes;Bordeaux;2;2;Ligue 1;Mostly Cloudy;WNW;10 mph;52 °F;94 %;29.84 in
+19.03.2011;Lyon;Rennes;1;1;Ligue 1;Mostly Cloudy;SW;1 mph;50 °F;71 %;29.39 in
+20.03.2011;Caen;Arles;2;0;Ligue 1;Fair;W;9 mph;48 °F;82 %;29.78 in
+20.03.2011;Monaco;Nancy;0;1;Ligue 1;Mostly Cloudy;N;9 mph;55 °F;67 %;30.06 in
+20.03.2011;Marsilya;PSG;2;1;Ligue 1;Fair / Windy;NNW;21 mph;50 °F;71 %;30.09 in
+11.03.2011;Rennes;Marsilya;0;2;Ligue 1;Fair;SSW;7 mph;46 °F;87 %;30.02 in
+12.03.2011;Arles;Lorient;3;3;Ligue 1;Fair;ESE;6 mph;45 °F;81 %;29.57 in
+12.03.2011;Lens;Toulouse;0;1;Ligue 1;Mostly Cloudy;CALM;0 mph;39 °F;93 %;29.76 in
+12.03.2011;Nancy;Caen;2;0;Ligue 1;Fair;ESE;12 mph;39 °F;87 %;29.31 in
+12.03.2011;Nice;AJ Auxerre;1;0;Ligue 1;Mostly Cloudy;E;14 mph;54 °F;82 %;30.11 in
+12.03.2011;St Etienne;Brest;2;0;Ligue 1;Mostly Cloudy;CALM;0 mph;39 °F;93 %;29.76 in
+12.03.2011;Sochaux;Lyon;0;2;Ligue 1;Fair;ESE;6 mph;45 °F;81 %;29.57 in
+13.03.2011;Bordeaux;Monaco;0;1;Ligue 1;Mostly Cloudy / Windy;SE;23 mph;52 °F;88 %;29.03 in
+13.03.2011;Lille;Valenciennes;2;1;Ligue 1;Mostly Cloudy;S;13 mph;50 °F;87 %;29.41 in
+13.03.2011;PSG;Montpellier;2;2;Ligue 1;Mostly Cloudy;S;7 mph;50 °F;82 %;29.28 in
+05.03.2011;Caen;St Etienne;1;0;Ligue 1;Fair;ESE;6 mph;45 °F;76 %;29.64 in
+05.03.2011;Lorient;Nancy;0;0;Ligue 1;Fair;NNE;5 mph;37 °F;81 %;30.22 in
+05.03.2011;Montpellier;Rennes;0;1;Ligue 1;Fair;ESE;6 mph;45 °F;76 %;29.64 in
+05.03.2011;Nice;Lens;0;0;Ligue 1;Fair;N;3 mph;48 °F;62 %;30.14 in
+05.03.2011;Toulouse;Sochaux;0;1;Ligue 1;Fair;ESE;6 mph;45 °F;76 %;29.64 in
+05.03.2011;Valenciennes;Monaco;0;0;Ligue 1;Fair;N;7 mph;39 °F;75 %;29.98 in
+05.03.2011;AJ Auxerre;PSG;1;0;Ligue 1;Fair;NNE;7 mph;34 °F;87 %;29.66 in
+06.03.2011;Brest;Bordeaux;1;3;Ligue 1;Fair;NE;14 mph;37 °F;87 %;29.93 in
+06.03.2011;Lyon;Arles;5;0;Ligue 1;Fair;N;2 mph;39 °F;75 %;29.24 in
+06.03.2011;Marsilya;Lille;1;2;Ligue 1;Fair;NNW;5 mph;46 °F;66 %;29.97 in
+26.02.2011;Arles;Brest;1;1;Ligue 1;Mostly Cloudy;SE;6 mph;48 °F;82 %;29.90 in
+26.02.2011;Monaco;Caen;2;2;Ligue 1;Mostly Cloudy;NNE;5 mph;52 °F;67 %;30.08 in
+26.02.2011;Rennes;Lens;2;0;Ligue 1;Cloudy;SSW;8 mph;50 °F;87 %;30.11 in
+26.02.2011;St Etienne;Nice;0;2;Ligue 1;Cloudy;S;8 mph;48 °F;100 %;30.02 in
+26.02.2011;Sochaux;Montpellier;0;0;Ligue 1;Mostly Cloudy;SE;6 mph;48 °F;82 %;29.90 in
+26.02.2011;Valenciennes;Lorient;0;0;Ligue 1;Mostly Cloudy;SE;6 mph;48 °F;82 %;29.90 in
+26.02.2011;Bordeaux;AJ Auxerre;3;0;Ligue 1;Fair;NW;3 mph;45 °F;81 %;29.75 in
+27.02.2011;Nancy;Marsilya;1;2;Ligue 1;Cloudy;W;10 mph;43 °F;93 %;29.31 in
+27.02.2011;PSG;Toulouse;2;1;Ligue 1;Mostly Cloudy;WNW;12 mph;45 °F;87 %;29.69 in
+27.02.2011;Lille;Lyon;1;1;Ligue 1;Mostly Cloudy;NW;12 mph;43 °F;100 %;29.76 in
+18.02.2011;Lyon;Nancy;4;0;Ligue 1;Cloudy;NW;6 mph;39 °F;100 %;28.87 in
+19.02.2011;AJ Auxerre;Arles;1;1;Ligue 1;Partly Cloudy;SSE;8 mph;37 °F;87 %;29.34 in
+19.02.2011;Brest;Monaco;2;0;Ligue 1;Cloudy;S;17 mph;50 °F;94 %;29.29 in
+19.02.2011;Caen;Valenciennes;2;2;Ligue 1;Fair;SSW;5 mph;39 °F;81 %;29.43 in
+19.02.2011;Lens;Sochaux;2;3;Ligue 1;Cloudy;ESE;5 mph;36 °F;87 %;29.79 in
+19.02.2011;Marsilya;St Etienne;2;1;Ligue 1;Fair;WSW;5 mph;46 °F;66 %;29.83 in
+19.02.2011;Lorient;Bordeaux;5;1;Ligue 1;Cloudy;SSE;10 mph;46 °F;93 %;29.69 in
+20.02.2011;Montpellier;Lille;1;0;Ligue 1;Mostly Cloudy;SW;6 mph;48 °F;93 %;29.43 in
+20.02.2011;Nice;PSG;0;3;Ligue 1;Mostly Cloudy;NNW;5 mph;52 °F;62 %;29.82 in
+20.02.2011;Toulouse;Rennes;1;2;Ligue 1;Mostly Cloudy;SW;6 mph;48 °F;93 %;29.43 in
+12.02.2011;Arles;Montpellier;0;0;Ligue 1;Fair;WSW;3 mph;43 °F;87 %;29.63 in
+12.02.2011;Bordeaux;Caen;1;2;Ligue 1;Fair;SSE;8 mph;45 °F;81 %;29.55 in
+12.02.2011;Monaco;Lorient;3;1;Ligue 1;Fair;NW;8 mph;43 °F;87 %;30.08 in
+12.02.2011;Nancy;AJ Auxerre;3;1;Ligue 1;Fair;S;7 mph;41 °F;87 %;29.37 in
+12.02.2011;PSG;Lens;0;0;Ligue 1;Fair;WSW;3 mph;43 °F;87 %;29.63 in
+12.02.2011;Sochaux;Marsilya;1;2;Ligue 1;Fair;WSW;3 mph;43 °F;87 %;29.63 in
+12.02.2011;St Etienne;Lyon;1;4;Ligue 1;Mostly Cloudy;SSW;8 mph;52 °F;82 %;29.73 in
+13.02.2011;Rennes;Nice;2;0;Ligue 1;Fair;S;6 mph;41 °F;93 %;29.78 in
+13.02.2011;Valenciennes;Brest;3;0;Ligue 1;Fair;CALM;0 mph;39 °F;93 %;29.63 in
+13.02.2011;Lille;Toulouse;2;0;Ligue 1;Fair;SSW;5 mph;39 °F;100 %;29.73 in
+05.02.2011;Brest;Nancy;2;1;Ligue 1;Mostly Cloudy;SW;18 mph;50 °F;87 %;29.96 in
+05.02.2011;Caen;Lorient;0;2;Ligue 1;Mostly Cloudy;SSW;3 mph;45 °F;93 %;30.04 in
+05.02.2011;Lens;Valenciennes;1;1;Ligue 1;Cloudy / Windy;WSW;24 mph;52 °F;71 %;29.99 in
+05.02.2011;Marsilya;Arles;1;0;Ligue 1;Fair;S;2 mph;41 °F;76 %;30.39 in
+05.02.2011;Montpellier;St Etienne;1;2;Ligue 1;Mostly Cloudy;SSW;3 mph;45 °F;93 %;30.04 in
+05.02.2011;Nice;Sochaux;1;0;Ligue 1;Fair;NNW;8 mph;48 °F;50 %;30.35 in
+05.02.2011;Rennes;PSG;1;0;Ligue 1;Cloudy;SW;15 mph;52 °F;71 %;30.25 in
+06.02.2011;AJ Auxerre;Lille;1;1;Ligue 1;Cloudy;SW;13 mph;46 °F;87 %;29.78 in
+06.02.2011;Toulouse;Monaco;2;0;Ligue 1;Fair;S;2 mph;37 °F;93 %;29.95 in
+06.02.2011;Lyon;Bordeaux;0;0;Ligue 1;Fair;SSW;2 mph;37 °F;87 %;29.65 in
+29.01.2011;Arles;PSG;1;2;Ligue 1;Fair;NE;8 mph;30 °F;86 %;29.69 in
+29.01.2011;Caen;AJ Auxerre;2;0;Ligue 1;Mostly Cloudy;SE;17 mph;46 °F;76 %;29.20 in
+29.01.2011;Lorient;Brest;2;0;Ligue 1;Cloudy;NE;12 mph;34 °F;75 %;29.84 in
+29.01.2011;St Etienne;Toulouse;2;1;Ligue 1;Mostly Cloudy;ENE;9 mph;30 °F;86 %;29.94 in
+29.01.2011;Sochaux;Rennes;5;1;Ligue 1;Fair;NE;8 mph;30 °F;86 %;29.69 in
+29.01.2011;Valenciennes;Lyon;2;1;Ligue 1;Fair;NE;8 mph;30 °F;86 %;29.69 in
+29.01.2011;Lille;Lens;1;0;Ligue 1;Mostly Cloudy;ENE;9 mph;30 °F;86 %;29.94 in
+30.01.2011;Bordeaux;Nice;2;0;Ligue 1;Mostly Cloudy;NW;2 mph;37 °F;93 %;29.32 in
+30.01.2011;Nancy;Montpellier;1;2;Ligue 1;Fair;NNE;7 mph;21 °F;100 %;29.37 in
+30.01.2011;Monaco;Marsilya;0;0;Ligue 1;Mostly Cloudy;N;13 mph;45 °F;71 %;29.79 in
+15.01.2011;AJ Auxerre;Monaco;1;1;Ligue 1;Mostly Cloudy;SW;16 mph;46 °F;93 %;29.52 in
+15.01.2011;Brest;Caen;1;3;Ligue 1;Mostly Cloudy;SW;17 mph;50 °F;94 %;29.75 in
+15.01.2011;Lens;St Etienne;2;1;Ligue 1;Mostly Cloudy;W;16 mph;50 °F;87 %;29.85 in
+15.01.2011;Lyon;Lorient;3;0;Ligue 1;Mostly Cloudy;SSE;10 mph;43 °F;93 %;29.42 in
+15.01.2011;Montpellier;Valenciennes;2;1;Ligue 1;Fair;NNE;5 mph;45 °F;93 %;29.81 in
+15.01.2011;Nice;Lille;0;2;Ligue 1;Mostly Cloudy;NNW;6 mph;52 °F;76 %;30.14 in
+15.01.2011;PSG;Sochaux;2;1;Ligue 1;Partly Cloudy;WSW;7 mph;48 °F;93 %;29.81 in
+15.01.2011;Rennes;Arles;4;0;Ligue 1;Mostly Cloudy;S;7 mph;46 °F;100 %;30.05 in
+15.01.2011;Toulouse;Nancy;1;0;Ligue 1;Fair;NNE;5 mph;45 °F;93 %;29.81 in
+16.01.2011;Marsilya;Bordeaux;2;1;Ligue 1;Fair;VAR;2 mph;43 °F;81 %;30.30 in
+21.12.2010;Lorient;Montpellier;0;0;Ligue 1;Fair;SSW;7 mph;39 °F;93 %;29.43 in
+22.12.2010;Arles;Nice;0;0;Ligue 1;Mostly Cloudy;NNE;8 mph;36 °F;93 %;29.22 in
+22.12.2010;Brest;Marsilya;0;0;Ligue 1;Fair;N;6 mph;34 °F;87 %;29.26 in
+22.12.2010;Caen;Rennes;1;0;Ligue 1;Mostly Cloudy;VAR;1 mph;45 °F;93 %;28.94 in
+22.12.2010;Lille;St Etienne;1;1;Ligue 1;Cloudy;E;5 mph;34 °F;100 %;29.44 in
+22.12.2010;Lyon;AJ Auxerre;1;1;Ligue 1;Mostly Cloudy;N;1 mph;43 °F;93 %;28.67 in
+22.12.2010;Monaco;Sochaux;2;1;Ligue 1;Cloudy;NNE;8 mph;48 °F;93 %;29.70 in
+22.12.2010;Nancy;PSG;2;0;Ligue 1;Cloudy;NNE;6 mph;34 °F;100 %;28.94 in
+22.12.2010;Valenciennes;Toulouse;2;1;Ligue 1;Mostly Cloudy;NNE;8 mph;36 °F;93 %;29.22 in
+22.12.2010;Bordeaux;Lens;2;2;Ligue 1;Mostly Cloudy;VAR;1 mph;45 °F;93 %;28.94 in
+18.12.2010;Montpellier;AJ Auxerre;1;1;Ligue 1;Fair;VAR;3 mph;27 °F;93 %;29.11 in
+18.12.2010;Nice;Brest;1;1;Ligue 1;Fair;VAR;3 mph;36 °F;52 %;29.35 in
+18.12.2010;Rennes;Valenciennes;1;0;Ligue 1;Fair;CALM;0 mph;28 °F;93 %;29.37 in
+18.12.2010;St Etienne;Arles;2;0;Ligue 1;Fair;W;1 mph;16 °F;93 %;29.20 in
+18.12.2010;Toulouse;Lorient;3;0;Ligue 1;Fair;VAR;3 mph;27 °F;93 %;29.11 in
+18.12.2010;PSG;Monaco;2;2;Ligue 1;Mostly Cloudy;VAR;3 mph;28 °F;93 %;29.11 in
+19.12.2010;Sochaux;Bordeaux;1;1;Ligue 1;Partly Cloudy;CALM;0 mph;30 °F;100 %;29.05 in
+19.12.2010;Marsilya;Lyon;1;1;Ligue 1;Mostly Cloudy;E;10 mph;37 °F;45 %;29.71 in
+19.01.2011;Lille;Nancy;3;0;Ligue 1;Fair;WNW;5 mph;36 °F;100 %;30.26 in
+22.01.2011;Lens;Caen;2;0;Ligue 1;Fair;N;9 mph;37 °F;93 %;30.40 in
+11.12.2010;Arles;Lille;0;1;Ligue 1;Mostly Cloudy;WSW;7 mph;39 °F;87 %;30.10 in
+11.12.2010;Brest;Montpellier;0;0;Ligue 1;Partly Cloudy;S;3 mph;36 °F;93 %;30.13 in
+11.12.2010;Caen;Nice;0;0;Ligue 1;Fair;S;3 mph;28 °F;93 %;29.90 in
+11.12.2010;Lorient;Lens;3;0;Ligue 1;Cloudy;CALM;0 mph;39 °F;93 %;30.37 in
+11.12.2010;Nancy;Sochaux;1;0;Ligue 1;Mostly Cloudy;SSW;9 mph;34 °F;100 %;29.78 in
+11.12.2010;Valenciennes;PSG;1;2;Ligue 1;Mostly Cloudy;WSW;7 mph;39 °F;87 %;30.10 in
+11.12.2010;AJ Auxerre;Marsilya;1;1;Ligue 1;Mostly Cloudy;SSW;9 mph;34 °F;100 %;29.78 in
+12.12.2010;Lyon;Toulouse;2;0;Ligue 1;Mostly Cloudy;N;8 mph;39 °F;87 %;29.33 in
+12.12.2010;Monaco;St Etienne;0;2;Ligue 1;Fair;NNW;13 mph;41 °F;65 %;29.94 in
+12.12.2010;Bordeaux;Rennes;0;0;Ligue 1;Fair;S;3 mph;32 °F;87 %;29.58 in
+04.12.2010;Arles;Nancy;1;1;Ligue 1;Mostly Cloudy;SSW;8 mph;28 °F;74 %;29.66 in
+04.12.2010;Lens;AJ Auxerre;1;1;Ligue 1;Cloudy;SSW;8 mph;21 °F;100 %;29.76 in
+04.12.2010;Rennes;Monaco;1;0;Ligue 1;Partly Cloudy;S;10 mph;34 °F;75 %;29.84 in
+04.12.2010;Sochaux;Valenciennes;2;1;Ligue 1;Mostly Cloudy;SSW;8 mph;28 °F;74 %;29.66 in
+04.12.2010;Toulouse;Caen;1;0;Ligue 1;Mostly Cloudy;NE;2 mph;34 °F;87 %;29.58 in
+04.12.2010;Montpellier;Lyon;1;2;Ligue 1;Mostly Cloudy;NE;2 mph;34 °F;87 %;29.58 in
+05.12.2010;Lille;Lorient;6;3;Ligue 1;Cloudy / Windy;SSW;23 mph;37 °F;100 %;29.52 in
+05.12.2010;Nice;Marsilya;1;0;Ligue 1;Fair;NNW;14 mph;37 °F;48 %;30.17 in
+05.12.2010;PSG;Brest;3;1;Ligue 1;Fair;SSW;10 mph;36 °F;81 %;29.55 in
+05.12.2010;St Etienne;Bordeaux;2;2;Ligue 1;Cloudy / Windy;SSW;23 mph;37 °F;100 %;29.52 in
+27.11.2010;Lorient;Rennes;2;0;Ligue 1;Mostly Cloudy;ESE;5 mph;0 °F;93 %;29.49 in
+27.11.2010;Marsilya;Montpellier;4;0;Ligue 1;Fair;NNE;5 mph;34 °F;70 %;29.74 in
+27.11.2010;Monaco;Nice;1;1;Ligue 1;Fair;NNW;10 mph;39 °F;36 %;29.61 in
+27.11.2010;Nancy;St Etienne;1;1;Ligue 1;Mostly Cloudy;SSW;7 mph;30 °F;93 %;29.05 in
+27.11.2010;Valenciennes;Arles;3;0;Ligue 1;Cloudy;S;8 mph;30 °F;100 %;29.34 in
+27.11.2010;Bordeaux;Lille;1;1;Ligue 1;Fair;S;3 mph;30 °F;93 %;29.17 in
+28.11.2010;AJ Auxerre;Toulouse;1;2;Ligue 1;Fair;E;6 mph;27 °F;93 %;28.97 in
+28.11.2010;Caen;Sochaux;0;3;Ligue 1;Fair;ESE;2 mph;36 °F;93 %;29.06 in
+28.11.2010;Lyon;PSG;2;2;Ligue 1;Mostly Cloudy;SSE;10 mph;37 °F;81 %;28.78 in
+30.11.2010;Brest;Lens;4;1;Ligue 1;Fair;E;14 mph;34 °F;65 %;29.43 in
+20.11.2010;Nancy;Valenciennes;2;0;Ligue 1;Fair;E;6 mph;39 °F;93 %;29.34 in
+20.11.2010;PSG;Caen;2;1;Ligue 1;Mostly Cloudy;ENE;3 mph;45 °F;93 %;29.60 in
+20.11.2010;Rennes;Brest;2;1;Ligue 1;Fair;ESE;10 mph;46 °F;93 %;29.64 in
+20.11.2010;St Etienne;AJ Auxerre;1;1;Ligue 1;Cloudy;SSW;10 mph;45 °F;87 %;29.79 in
+20.11.2010;Sochaux;Lorient;2;0;Ligue 1;Mostly Cloudy;ENE;3 mph;45 °F;93 %;29.60 in
+20.11.2010;Toulouse;Marsilya;0;1;Ligue 1;Fair;ESE;6 mph;48 °F;82 %;29.35 in
+20.11.2010;Nice;Montpellier;0;1;Ligue 1;Fair;NNW;9 mph;50 °F;71 %;30.03 in
+21.11.2010;Arles;Bordeaux;2;4;Ligue 1;Mostly Cloudy;ENE;5 mph;46 °F;81 %;29.40 in
+21.11.2010;Lille;Monaco;2;1;Ligue 1;Fair;NE;9 mph;39 °F;87 %;29.64 in
+21.11.2010;Lens;Lyon;1;3;Ligue 1;Fair;NE;9 mph;39 °F;87 %;29.64 in
+13.11.2010;Bordeaux;Nancy;2;1;Ligue 1;Fair;ESE;1 mph;50 °F;100 %;29.43 in
+13.11.2010;Brest;Sochaux;1;1;Ligue 1;Cloudy / Windy;SW;30 mph;57 °F;100 %;29.14 in
+13.11.2010;Marsilya;Lens;1;1;Ligue 1;Fair;VAR;2 mph;54 °F;88 %;29.91 in
+13.11.2010;Monaco;Arles;0;0;Ligue 1;Fair;NNW;9 mph;52 °F;88 %;29.82 in
+13.11.2010;Montpellier;Toulouse;1;0;Ligue 1;Fair;ESE;1 mph;50 °F;100 %;29.43 in
+13.11.2010;Caen;Lille;2;5;Ligue 1;Fair;ESE;1 mph;50 °F;100 %;29.43 in
+14.11.2010;AJ Auxerre;Rennes;2;1;Ligue 1;Fair;S;18 mph;57 °F;77 %;28.88 in
+14.11.2010;Lorient;PSG;1;1;Ligue 1;Mostly Cloudy;SSW;9 mph;57 °F;94 %;29.22 in
+14.11.2010;Lyon;Nice;1;0;Ligue 1;Fair / Windy;SSW;31 mph;59 °F;63 %;28.84 in
+01.12.2010;Valenciennes;St Etienne;1;1;Ligue 1;Mostly Cloudy;NE;14 mph;30 °F;80 %;29.28 in
+06.11.2010;Arles;Caen;3;2;Ligue 1;Fair;W;13 mph;57 °F;77 %;29.87 in
+06.11.2010;Bordeaux;Valenciennes;1;1;Ligue 1;Mostly Cloudy;CALM;0 mph;57 °F;88 %;29.78 in
+06.11.2010;St Etienne;Lorient;1;2;Ligue 1;Fair;WSW;16 mph;57 °F;88 %;29.88 in
+06.11.2010;Sochaux;AJ Auxerre;1;1;Ligue 1;Fair;W;13 mph;57 °F;77 %;29.87 in
+06.11.2010;Rennes;Lyon;1;1;Ligue 1;Cloudy;SSW;6 mph;54 °F;94 %;30.14 in
+07.11.2010;Lens;Montpellier;2;0;Ligue 1;Fair;WNW;6 mph;41 °F;100 %;29.61 in
+07.11.2010;Lille;Brest;3;1;Ligue 1;Fair;WNW;6 mph;41 °F;100 %;29.61 in
+07.11.2010;Nancy;Monaco;0;4;Ligue 1;Mostly Cloudy;SE;3 mph;46 °F;100 %;29.17 in
+07.11.2010;Nice;Toulouse;2;0;Ligue 1;Partly Cloudy;NNW;9 mph;55 °F;88 %;29.85 in
+07.11.2010;PSG;Marsilya;2;1;Ligue 1;Mostly Cloudy;WSW;5 mph;50 °F;94 %;29.46 in
+30.10.2010;AJ Auxerre;Nice;2;0;Ligue 1;Fair;S;12 mph;54 °F;67 %;29.00 in
+30.10.2010;Brest;St Etienne;2;0;Ligue 1;Partly Cloudy;SW;6 mph;50 °F;87 %;29.14 in
+30.10.2010;Caen;Nancy;2;3;Ligue 1;Fair;SE;15 mph;61 °F;72 %;29.11 in
+30.10.2010;Lorient;Arles;2;0;Ligue 1;Mostly Cloudy;VAR;2 mph;52 °F;94 %;29.40 in
+30.10.2010;Lyon;Sochaux;2;1;Ligue 1;Fair;S;13 mph;61 °F;29 %;28.96 in
+30.10.2010;Toulouse;Lens;1;1;Ligue 1;Fair;SE;15 mph;61 °F;72 %;29.11 in
+31.10.2010;Valenciennes;Lille;1;1;Ligue 1;Fair;VAR;1 mph;48 °F;93 %;29.17 in
+31.10.2010;Montpellier;PSG;1;1;Ligue 1;Fair;SE;8 mph;54 °F;77 %;28.94 in
+02.11.2010;Monaco;Bordeaux;2;2;Ligue 1;Mostly Cloudy;NNW;3 mph;57 °F;82 %;29.73 in
+01.12.2010;Marsilya;Rennes;0;0;Ligue 1;Mostly Cloudy;ESE;16 mph;52 °F;71 %;29.32 in
+23.10.2010;Bordeaux;Brest;0;2;Ligue 1;Fair;SE;7 mph;54 °F;82 %;29.55 in
+23.10.2010;Lens;Nice;1;0;Ligue 1;Fair;SSW;10 mph;45 °F;71 %;29.85 in
+23.10.2010;Monaco;Valenciennes;0;2;Ligue 1;Partly Cloudy;NNW;8 mph;57 °F;72 %;30.14 in
+23.10.2010;Nancy;Lorient;1;0;Ligue 1;Fair;N;2 mph;36 °F;93 %;29.43 in
+23.10.2010;Rennes;Montpellier;0;1;Ligue 1;Fair;S;3 mph;41 °F;87 %;29.93 in
+23.10.2010;St Etienne;Caen;1;1;Ligue 1;Fair;SSW;10 mph;45 °F;71 %;29.85 in
+23.10.2010;Sochaux;Toulouse;1;3;Ligue 1;Fair;CALM;0 mph;34 °F;93 %;29.72 in
+24.10.2010;Arles;Lyon;1;1;Ligue 1;Fair;SW;9 mph;46 °F;87 %;29.46 in
+24.10.2010;PSG;AJ Auxerre;2;3;Ligue 1;Fair;SW;9 mph;46 °F;87 %;29.46 in
+24.10.2010;Lille;Marsilya;1;3;Ligue 1;Fair;W;9 mph;43 °F;100 %;29.50 in
+16.10.2010;AJ Auxerre;Bordeaux;0;1;Ligue 1;Mostly Cloudy;W;10 mph;46 °F;93 %;29.28 in
+16.10.2010;Brest;Arles;0;0;Ligue 1;Cloudy;N;5 mph;52 °F;76 %;29.73 in
+16.10.2010;Caen;Monaco;0;0;Ligue 1;Fair;WSW;7 mph;48 °F;82 %;29.43 in
+16.10.2010;Marsilya;Nancy;1;0;Ligue 1;Fair;NW;14 mph;52 °F;71 %;29.74 in
+16.10.2010;Montpellier;Sochaux;2;0;Ligue 1;Fair;WSW;7 mph;48 °F;82 %;29.43 in
+16.10.2010;Toulouse;PSG;0;2;Ligue 1;Fair;WSW;7 mph;48 °F;82 %;29.43 in
+17.10.2010;Lens;Rennes;0;0;Ligue 1;Fair;NNE;12 mph;43 °F;76 %;29.96 in
+17.10.2010;Lorient;Valenciennes;2;1;Ligue 1;Fair;N;6 mph;50 °F;87 %;30.05 in
+17.10.2010;Nice;St Etienne;2;1;Ligue 1;Mostly Cloudy / Windy;E;24 mph;63 °F;72 %;29.58 in
+17.10.2010;Lyon;Lille;3;1;Ligue 1;Mostly Cloudy;NNW;8 mph;48 °F;87 %;29.07 in
+02.10.2010;Arles;AJ Auxerre;0;4;Ligue 1;Mostly Cloudy;SSW;12 mph;57 °F;94 %;29.43 in
+02.10.2010;Bordeaux;Lorient;1;0;Ligue 1;Fair;SSE;3 mph;63 °F;59 %;29.40 in
+02.10.2010;Monaco;Brest;0;1;Ligue 1;Partly Cloudy;NNW;8 mph;63 °F;72 %;29.97 in
+02.10.2010;Nancy;Lyon;2;3;Ligue 1;Cloudy;S;17 mph;55 °F;88 %;29.23 in
+02.10.2010;Sochaux;Lens;3;0;Ligue 1;Mostly Cloudy;SSW;12 mph;57 °F;94 %;29.43 in
+02.10.2010;Valenciennes;Caen;2;1;Ligue 1;Mostly Cloudy;SSW;12 mph;57 °F;94 %;29.43 in
+02.10.2010;St Etienne;Marsilya;1;1;Ligue 1;Mostly Cloudy;S;16 mph;55 °F;100 %;29.50 in
+03.10.2010;Lille;Montpellier;3;1;Ligue 1;Fair;SSE;12 mph;63 °F;94 %;29.50 in
+03.10.2010;PSG;Nice;0;0;Ligue 1;Fair;S;8 mph;64 °F;77 %;29.37 in
+03.10.2010;Rennes;Toulouse;3;1;Ligue 1;Cloudy;S;14 mph;63 °F;88 %;29.46 in
+25.09.2010;AJ Auxerre;Nancy;2;2;Ligue 1;Fair;WSW;5 mph;52 °F;94 %;29.08 in
+25.09.2010;Caen;Bordeaux;0;0;Ligue 1;Mostly Cloudy;W;12 mph;57 °F;88 %;29.35 in
+25.09.2010;Lorient;Monaco;2;1;Ligue 1;Mostly Cloudy;N;7 mph;55 °F;88 %;29.75 in
+25.09.2010;Marsilya;Sochaux;2;1;Ligue 1;Fair;NW;14 mph;63 °F;68 %;29.68 in
+25.09.2010;Montpellier;Arles;3;1;Ligue 1;Mostly Cloudy;W;12 mph;57 °F;88 %;29.35 in
+25.09.2010;Nice;Rennes;1;2;Ligue 1;Fair;N;5 mph;61 °F;88 %;29.52 in
+25.09.2010;Lyon;St Etienne;0;1;Ligue 1;Mostly Cloudy;SE;2 mph;54 °F;94 %;28.93 in
+26.09.2010;Brest;Valenciennes;1;0;Ligue 1;Fair;NNW;6 mph;48 °F;87 %;29.73 in
+26.09.2010;Toulouse;Lille;1;1;Ligue 1;Fair;NW;9 mph;55 °F;72 %;29.43 in
+26.09.2010;Lens;PSG;0;2;Ligue 1;Mostly Cloudy;NW;15 mph;52 °F;76 %;29.67 in
+18.09.2010;Lorient;Caen;0;1;Ligue 1;Fair;N;3 mph;52 °F;88 %;29.99 in
+18.09.2010;Monaco;Toulouse;0;0;Ligue 1;Mostly Cloudy;NW;3 mph;70 °F;88 %;29.82 in
+18.09.2010;Nancy;Brest;0;2;Ligue 1;Fair;NNW;2 mph;50 °F;76 %;29.46 in
+18.09.2010;St Etienne;Montpellier;3;0;Ligue 1;Fair;CALM;0 mph;45 °F;87 %;29.91 in
+18.09.2010;Sochaux;Nice;4;0;Ligue 1;Fair;VAR;1 mph;50 °F;71 %;29.75 in
+18.09.2010;Valenciennes;Lens;1;1;Ligue 1;Fair;VAR;1 mph;50 °F;71 %;29.75 in
+18.09.2010;Arles;Marsilya;0;3;Ligue 1;Fair;VAR;1 mph;50 °F;71 %;29.75 in
+19.09.2010;Lille;AJ Auxerre;1;0;Ligue 1;Fair;WNW;2 mph;50 °F;82 %;29.91 in
+19.09.2010;PSG;Rennes;0;0;Ligue 1;Fair;W;2 mph;46 °F;81 %;29.78 in
+19.09.2010;Bordeaux;Lyon;2;0;Ligue 1;Fair;W;8 mph;61 °F;55 %;29.52 in
+11.09.2010;AJ Auxerre;Caen;1;1;Ligue 1;Fair;SSE;5 mph;55 °F;82 %;29.54 in
+11.09.2010;Lyon;Valenciennes;1;1;Ligue 1;Fair;NW;5 mph;59 °F;77 %;29.30 in
+11.09.2010;Montpellier;Nancy;1;2;Ligue 1;Fair;NNW;5 mph;64 °F;64 %;29.61 in
+11.09.2010;PSG;Arles;4;0;Ligue 1;Fair;SSW;2 mph;59 °F;88 %;29.81 in
+11.09.2010;Rennes;Sochaux;2;1;Ligue 1;Fair;S;9 mph;61 °F;88 %;29.99 in
+11.09.2010;Toulouse;St Etienne;0;1;Ligue 1;Fair;NNW;5 mph;64 °F;64 %;29.61 in
+11.09.2010;Lens;Lille;1;4;Ligue 1;Fair;SW;2 mph;63 °F;82 %;29.94 in
+12.09.2010;Brest;Lorient;0;0;Ligue 1;Partly Cloudy;NNW;5 mph;55 °F;94 %;29.78 in
+12.09.2010;Nice;Bordeaux;2;1;Ligue 1;Fair;NNW;7 mph;68 °F;56 %;30.03 in
+12.09.2010;Marsilya;Monaco;2;2;Ligue 1;Fair;ESE;5 mph;66 °F;83 %;30.03 in
+28.08.2010;Arles;Rennes;0;1;Ligue 1;Mostly Cloudy;N;10 mph;61 °F;82 %;29.66 in
+28.08.2010;Lorient;Lyon;2;0;Ligue 1;Fair;VAR;2 mph;55 °F;88 %;29.99 in
+28.08.2010;Nancy;Toulouse;0;2;Ligue 1;Mostly Cloudy;NNW;13 mph;59 °F;88 %;29.31 in
+28.08.2010;St Etienne;Lens;3;1;Ligue 1;Fair;NNW;7 mph;57 °F;82 %;29.79 in
+28.08.2010;Valenciennes;Montpellier;0;1;Ligue 1;Mostly Cloudy;N;10 mph;61 °F;82 %;29.66 in
+28.08.2010;Caen;Brest;0;2;Ligue 1;Mostly Cloudy;W;13 mph;70 °F;68 %;29.58 in
+29.08.2010;Lille;Nice;1;1;Ligue 1;Mostly Cloudy;WNW;7 mph;57 °F;94 %;29.91 in
+29.08.2010;Monaco;AJ Auxerre;2;0;Ligue 1;Fair;NNW;3 mph;75 °F;78 %;29.76 in
+29.08.2010;Sochaux;PSG;3;1;Ligue 1;Fair;W;3 mph;54 °F;77 %;29.84 in
+29.08.2010;Bordeaux;Marsilya;1;1;Ligue 1;Fair;NW;8 mph;66 °F;52 %;29.64 in
+21.08.2010;Lens;Monaco;2;2;Ligue 1;Fair;S;2 mph;66 °F;78 %;29.96 in
+21.08.2010;Lyon;Brest;1;0;Ligue 1;Fair;VAR;2 mph;75 °F;69 %;29.39 in
+21.08.2010;Marsilya;Lorient;2;0;Ligue 1;Fair;NW;6 mph;73 °F;83 %;30.15 in
+21.08.2010;Nice;Nancy;1;1;Ligue 1;Fair;NW;8 mph;73 °F;83 %;30.11 in
+21.08.2010;Rennes;St Etienne;0;0;Ligue 1;Partly Cloudy;SW;6 mph;66 °F;88 %;30.05 in
+21.08.2010;Toulouse;Arles;2;1;Ligue 1;Fair;SE;5 mph;77 °F;61 %;29.66 in
+21.08.2010;AJ Auxerre;Valenciennes;1;1;Ligue 1;Fair;SSE;5 mph;68 °F;73 %;29.54 in
+22.08.2010;Montpellier;Caen;0;0;Ligue 1;Fair;S;3 mph;79 °F;54 %;29.61 in
+22.08.2010;Sochaux;Lille;0;0;Ligue 1;Fair;W;3 mph;70 °F;78 %;29.81 in
+22.08.2010;PSG;Bordeaux;1;2;Ligue 1;Fair;W;3 mph;70 °F;78 %;29.81 in
+14.08.2010;Brest;AJ Auxerre;1;1;Ligue 1;Fair;NNW;7 mph;55 °F;88 %;29.81 in
+14.08.2010;Lorient;Nice;1;2;Ligue 1;Fair;WNW;3 mph;54 °F;88 %;29.99 in
+14.08.2010;Nancy;Rennes;0;3;Ligue 1;Fair;N;3 mph;57 °F;82 %;29.43 in
+14.08.2010;St Etienne;Sochaux;3;2;Ligue 1;Fair;CALM;0 mph;55 °F;88 %;29.85 in
+14.08.2010;Valenciennes;Marsilya;3;2;Ligue 1;Fair;WNW;5 mph;55 °F;88 %;29.72 in
+14.08.2010;Arles;Lens;0;1;Ligue 1;Fair;WNW;5 mph;55 °F;88 %;29.72 in
+15.08.2010;Bordeaux;Toulouse;1;2;Ligue 1;Fair;W;9 mph;64 °F;64 %;29.46 in
+15.08.2010;Caen;Lyon;3;2;Ligue 1;Fair;W;9 mph;64 °F;64 %;29.46 in
+15.08.2010;Lille;PSG;0;0;Ligue 1;Fair;NNE;8 mph;63 °F;77 %;29.82 in
+17.08.2010;Monaco;Montpellier;0;0;Ligue 1;Fair;NW;7 mph;70 °F;73 %;29.94 in
+07.08.2010;AJ Auxerre;Lorient;2;2;Ligue 1;Fair;S;3 mph;59 °F;63 %;29.46 in
+07.08.2010;Lens;Nancy;1;2;Ligue 1;Fair;S;1 mph;66 °F;68 %;29.88 in
+07.08.2010;Lyon;Monaco;0;0;Ligue 1;Fair;NNE;6 mph;61 °F;68 %;29.24 in
+07.08.2010;Marsilya;Caen;1;2;Ligue 1;Fair;NNW;18 mph;72 °F;41 %;29.89 in
+07.08.2010;Nice;Valenciennes;0;0;Ligue 1;Fair;NW;5 mph;70 °F;64 %;29.88 in
+07.08.2010;PSG;St Etienne;3;1;Ligue 1;Fair;S;2 mph;63 °F;68 %;29.75 in
+07.08.2010;Rennes;Lille;1;1;Ligue 1;Fair;SSW;6 mph;61 °F;77 %;29.93 in
+07.08.2010;Sochaux;Arles;2;1;Ligue 1;Fair;S;2 mph;63 °F;68 %;29.75 in
+07.08.2010;Toulouse;Brest;2;0;Ligue 1;Fair;NW;5 mph;68 °F;56 %;29.55 in
+08.08.2010;Montpellier;Bordeaux;1;0;Ligue 1;Fair;NW;5 mph;73 °F;61 %;29.55 in

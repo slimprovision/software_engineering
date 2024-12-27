@@ -1,0 +1,381 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+21.05.2022;Angers;Montpellier;2;0;Ligue 1;Mostly Cloudy;E;3 mph;68 °F;88 %;30.17 in
+21.05.2022;Brest;Bordeaux;2;4;Ligue 1;Partly Cloudy;SW;8 mph;55 °F;94 %;29.87 in
+21.05.2022;Clermont;Lyon;1;2;Ligue 1;Partly Cloudy;SW;8 mph;55 °F;94 %;29.87 in
+21.05.2022;Lens;Monaco;2;2;Ligue 1;Fair;SSW;8 mph;52 °F;88 %;29.96 in
+21.05.2022;Lille;Rennes;2;2;Ligue 1;Fair;SSW;8 mph;52 °F;88 %;29.96 in
+21.05.2022;Lorient;Troyes;1;1;Ligue 1;Fair;NNE;3 mph;57 °F;67 %;30.11 in
+21.05.2022;Marsilya;Strasbourg;4;0;Ligue 1;Fair;SSE;7 mph;68 °F;56 %;30.21 in
+21.05.2022;Nantes;St Etienne;1;1;Ligue 1;Partly Cloudy;SW;8 mph;55 °F;94 %;29.87 in
+21.05.2022;PSG;Metz;5;0;Ligue 1;Fair;SSW;3 mph;55 °F;82 %;29.90 in
+21.05.2022;Reims;Nice;2;3;Ligue 1;Fair;W;5 mph;52 °F;88 %;29.60 in
+14.05.2022;Bordeaux;Lorient;0;0;Ligue 1;Fair;NW;6 mph;68 °F;68 %;29.61 in
+14.05.2022;Lyon;Nantes;3;2;Ligue 1;Fair;NNW;7 mph;64 °F;77 %;29.30 in
+14.05.2022;Metz;Angers;1;0;Ligue 1;Fair;NW;6 mph;68 °F;68 %;29.61 in
+14.05.2022;Monaco;Brest;4;2;Ligue 1;Fair;ENE;7 mph;63 °F;77 %;30.06 in
+14.05.2022;Montpellier;PSG;0;4;Ligue 1;Fair;NW;6 mph;68 °F;68 %;29.61 in
+14.05.2022;Nice;Lille;1;3;Ligue 1;Fair;ENE;7 mph;63 °F;77 %;30.06 in
+14.05.2022;Rennes;Marsilya;2;0;Ligue 1;Fair;N;7 mph;55 °F;67 %;30.08 in
+14.05.2022;St Etienne;Reims;1;2;Ligue 1;Fair;SW;7 mph;52 °F;71 %;29.99 in
+14.05.2022;Strasbourg;Clermont;1;0;Ligue 1;Fair;CALM;0 mph;57 °F;63 %;29.63 in
+14.05.2022;Troyes;Lens;1;3;Ligue 1;Fair;NW;6 mph;55 °F;67 %;29.87 in
+06.05.2022;Lille;Monaco;1;2;Ligue 1;Fair;NNW;6 mph;52 °F;88 %;30.11 in
+07.05.2022;Brest;Strasbourg;0;1;Ligue 1;Fair;NW;3 mph;48 °F;93 %;29.99 in
+08.05.2022;Metz;Lyon;3;2;Ligue 1;Fair;W;14 mph;63 °F;68 %;29.61 in
+08.05.2022;Angers;Bordeaux;4;1;Ligue 1;Partly Cloudy;NNW;8 mph;63 °F;63 %;30.00 in
+08.05.2022;Clermont;Montpellier;2;1;Ligue 1;Mostly Cloudy;NNW;6 mph;52 °F;94 %;29.96 in
+08.05.2022;Reims;Lens;1;2;Ligue 1;Fair;N;8 mph;54 °F;82 %;29.57 in
+08.05.2022;Lorient;Marsilya;0;3;Ligue 1;Fair;WNW;5 mph;50 °F;100 %;30.14 in
+08.05.2022;PSG;Troyes;2;2;Ligue 1;Fair;N;7 mph;59 °F;72 %;29.90 in
+11.05.2022;Nice;St Etienne;4;2;Ligue 1;Fair;NNW;7 mph;68 °F;52 %;30.08 in
+11.05.2022;Nantes;Rennes;2;1;Ligue 1;Fair;SSW;6 mph;50 °F;94 %;29.67 in
+29.04.2022;Strasbourg;PSG;3;3;Ligue 1;Fair;NE;1 mph;54 °F;62 %;29.78 in
+30.04.2022;Lens;Nantes;2;2;Ligue 1;Mostly Cloudy;N;13 mph;50 °F;76 %;30.17 in
+30.04.2022;Rennes;St Etienne;2;0;Ligue 1;Fair;N;7 mph;50 °F;71 %;30.22 in
+01.05.2022;Troyes;Lille;3;0;Ligue 1;Fair;NNE;10 mph;50 °F;58 %;29.93 in
+01.05.2022;Brest;Clermont;2;0;Ligue 1;Fair;NNE;6 mph;46 °F;93 %;29.93 in
+01.05.2022;Lorient;Reims;1;2;Ligue 1;Fair;VAR;3 mph;52 °F;82 %;30.14 in
+01.05.2022;Monaco;Angers;2;0;Ligue 1;Partly Cloudy;NNW;8 mph;61 °F;68 %;30.00 in
+01.05.2022;Montpellier;Metz;2;2;Ligue 1;Fair;W;16 mph;61 °F;77 %;29.61 in
+01.05.2022;Bordeaux;Nice;0;1;Ligue 1;Fair;W;16 mph;61 °F;77 %;29.61 in
+01.05.2022;Marsilya;Lyon;0;3;Ligue 1;Fair;N;10 mph;64 °F;49 %;30.00 in
+23.04.2022;Lyon;Montpellier;5;2;Ligue 1;Fair;SSW;18 mph;61 °F;52 %;28.67 in
+23.04.2022;St Etienne;Monaco;1;4;Ligue 1;Fair;NNE;10 mph;55 °F;63 %;29.41 in
+23.04.2022;PSG;Lens;1;1;Ligue 1;Fair;NNE;8 mph;55 °F;63 %;29.20 in
+24.04.2022;Rennes;Lorient;5;0;Ligue 1;Fair;NNW;7 mph;54 °F;88 %;29.34 in
+24.04.2022;Clermont;Angers;2;2;Ligue 1;Mist;N;7 mph;50 °F;94 %;29.23 in
+24.04.2022;Metz;Brest;0;1;Ligue 1;Light Rain;SSW;8 mph;48 °F;100 %;28.97 in
+24.04.2022;Nantes;Bordeaux;5;3;Ligue 1;Mist;N;7 mph;50 °F;94 %;29.23 in
+24.04.2022;Nice;Troyes;1;0;Ligue 1;Mostly Cloudy;NW;6 mph;52 °F;94 %;29.55 in
+24.04.2022;Lille;Strasbourg;1;0;Ligue 1;Fair;ENE;12 mph;61 °F;55 %;29.35 in
+24.04.2022;Reims;Marsilya;0;1;Ligue 1;Fair;NNE;8 mph;50 °F;82 %;28.85 in
+20.04.2022;Bordeaux;St Etienne;2;2;Ligue 1;Light Drizzle;WSW;9 mph;50 °F;94 %;29.32 in
+20.04.2022;Lorient;Metz;1;0;Ligue 1;Fair;NNW;7 mph;46 °F;87 %;29.87 in
+20.04.2022;Monaco;Nice;1;0;Ligue 1;Mostly Cloudy;E;2 mph;59 °F;88 %;29.79 in
+20.04.2022;Reims;Lille;2;1;Ligue 1;Fair;N;6 mph;52 °F;67 %;29.23 in
+20.04.2022;Troyes;Clermont;0;1;Ligue 1;Fair;NNW;10 mph;52 °F;71 %;29.57 in
+20.04.2022;Angers;PSG;0;3;Ligue 1;Mostly Cloudy;E;2 mph;59 °F;88 %;29.79 in
+20.04.2022;Brest;Lyon;2;1;Ligue 1;Fair;NNW;8 mph;46 °F;81 %;29.70 in
+20.04.2022;Lens;Montpellier;2;0;Ligue 1;Fair;NNE;12 mph;55 °F;58 %;29.76 in
+20.04.2022;Marsilya;Nantes;3;2;Ligue 1;Fair;SE;7 mph;55 °F;88 %;29.74 in
+20.04.2022;Strasbourg;Rennes;2;1;Ligue 1;Fair;NNE;7 mph;52 °F;50 %;29.34 in
+15.04.2022;Rennes;Monaco;2;3;Ligue 1;Fair;WNW;5 mph;57 °F;72 %;30.08 in
+16.04.2022;St Etienne;Brest;2;1;Ligue 1;Fair;NNE;10 mph;54 °F;77 %;30.17 in
+16.04.2022;Lille;Lens;1;2;Ligue 1;Fair;NNE;10 mph;54 °F;77 %;30.17 in
+17.04.2022;Nice;Lorient;2;1;Ligue 1;Fair;E;16 mph;63 °F;63 %;29.97 in
+17.04.2022;Metz;Clermont;1;1;Ligue 1;Fair;W;17 mph;63 °F;68 %;29.58 in
+17.04.2022;Montpellier;Reims;0;0;Ligue 1;Fair;W;17 mph;63 °F;68 %;29.58 in
+17.04.2022;Nantes;Angers;1;1;Ligue 1;Fair;E;8 mph;54 °F;77 %;29.90 in
+17.04.2022;Troyes;Strasbourg;1;1;Ligue 1;Fair;ENE;8 mph;55 °F;51 %;29.98 in
+17.04.2022;Lyon;Bordeaux;6;1;Ligue 1;Fair;NNW;14 mph;55 °F;58 %;29.27 in
+17.04.2022;PSG;Marsilya;2;1;Ligue 1;Fair;ENE;8 mph;55 °F;51 %;29.98 in
+08.04.2022;Lorient;St Etienne;6;2;Ligue 1;Mostly Cloudy;WSW;6 mph;50 °F;71 %;29.58 in
+09.04.2022;Reims;Rennes;2;3;Ligue 1;Light Rain;NW;12 mph;37 °F;100 %;29.05 in
+09.04.2022;Clermont;PSG;1;6;Ligue 1;Fair;WNW;5 mph;43 °F;76 %;29.55 in
+10.04.2022;Bordeaux;Metz;3;1;Ligue 1;Fair;NW;3 mph;46 °F;62 %;29.58 in
+10.04.2022;Angers;Lille;1;1;Ligue 1;Fair;N;6 mph;55 °F;18 %;29.85 in
+10.04.2022;Brest;Nantes;1;1;Ligue 1;Fair;E;7 mph;41 °F;81 %;29.75 in
+10.04.2022;Monaco;Troyes;2;1;Ligue 1;Fair;N;6 mph;55 °F;18 %;29.85 in
+10.04.2022;Lens;Nice;3;0;Ligue 1;Fair;WSW;8 mph;39 °F;81 %;29.91 in
+10.04.2022;Strasbourg;Lyon;1;1;Ligue 1;Fair;S;3 mph;39 °F;75 %;29.55 in
+10.04.2022;Marsilya;Montpellier;2;0;Ligue 1;Fair / Windy;NW;21 mph;52 °F;47 %;30.00 in
+02.04.2022;Nice;Rennes;1;1;Ligue 1;Mostly Cloudy;VAR;2 mph;48 °F;34 %;29.26 in
+02.04.2022;Lille;Bordeaux;0;0;Ligue 1;Fair;N;15 mph;37 °F;60 %;29.79 in
+03.04.2022;Strasbourg;Lens;1;0;Ligue 1;Cloudy;N;6 mph;34 °F;93 %;29.52 in
+03.04.2022;Clermont;Nantes;2;3;Ligue 1;Fair;ENE;5 mph;37 °F;75 %;29.87 in
+03.04.2022;Metz;Monaco;1;2;Ligue 1;Fair;WNW;8 mph;37 °F;70 %;29.58 in
+03.04.2022;Montpellier;Brest;1;2;Ligue 1;Fair;WNW;8 mph;37 °F;70 %;29.58 in
+03.04.2022;St Etienne;Marsilya;2;4;Ligue 1;Fair;N;7 mph;37 °F;60 %;30.02 in
+03.04.2022;Troyes;Reims;1;0;Ligue 1;Mostly Cloudy;NE;8 mph;39 °F;56 %;29.84 in
+03.04.2022;Lyon;Angers;3;2;Ligue 1;Wintry Mix;NNW;16 mph;34 °F;93 %;29.16 in
+03.04.2022;PSG;Lorient;5;1;Ligue 1;Mostly Cloudy;NE;8 mph;39 °F;56 %;29.84 in
+18.03.2022;St Etienne;Troyes;1;1;Ligue 1;Fair;E;2 mph;39 °F;75 %;30.46 in
+19.03.2022;Lens;Clermont;3;1;Ligue 1;Fair;NE;14 mph;48 °F;66 %;30.55 in
+19.03.2022;Nantes;Lille;0;1;Ligue 1;Fair;ENE;14 mph;46 °F;66 %;30.10 in
+20.03.2022;Monaco;PSG;3;0;Ligue 1;Mostly Cloudy;NNW;8 mph;50 °F;54 %;30.35 in
+20.03.2022;Angers;Brest;1;0;Ligue 1;Mostly Cloudy;NNW;8 mph;50 °F;54 %;30.35 in
+20.03.2022;Bordeaux;Montpellier;0;2;Ligue 1;Fair;SE;12 mph;50 °F;71 %;29.72 in
+20.03.2022;Lorient;Strasbourg;0;0;Ligue 1;Fair;E;2 mph;46 °F;81 %;30.16 in
+20.03.2022;Rennes;Metz;6;1;Ligue 1;Fair;E;2 mph;46 °F;81 %;30.16 in
+20.03.2022;Reims;Lyon;0;0;Ligue 1;Fair;ENE;12 mph;39 °F;56 %;29.72 in
+20.03.2022;Marsilya;Nice;2;1;Ligue 1;Fair;VAR;1 mph;46 °F;62 %;30.33 in
+11.03.2022;Lille;St Etienne;0;0;Ligue 1;Fair;ESE;7 mph;46 °F;53 %;29.79 in
+12.03.2022;Montpellier;Nice;0;0;Ligue 1;Cloudy;VAR;2 mph;52 °F;82 %;29.40 in
+12.03.2022;Troyes;Nantes;1;0;Ligue 1;Partly Cloudy;S;10 mph;48 °F;87 %;29.55 in
+13.03.2022;PSG;Bordeaux;3;0;Ligue 1;Light Rain;SSE;12 mph;46 °F;87 %;29.55 in
+13.03.2022;Angers;Reims;0;1;Ligue 1;Mostly Cloudy / Windy;E;24 mph;55 °F;51 %;30.14 in
+13.03.2022;Clermont;Lorient;0;2;Ligue 1;Fair;SSW;17 mph;46 °F;87 %;29.20 in
+13.03.2022;Metz;Lens;0;0;Ligue 1;Cloudy;ESE;18 mph;50 °F;82 %;29.37 in
+13.03.2022;Strasbourg;Monaco;1;0;Ligue 1;Fair;NW;6 mph;39 °F;65 %;29.46 in
+13.03.2022;Lyon;Rennes;2;4;Ligue 1;Fair;SE;8 mph;50 °F;62 %;29.16 in
+13.03.2022;Brest;Marsilya;1;4;Ligue 1;Fair;SSW;17 mph;46 °F;87 %;29.20 in
+04.03.2022;Lorient;Lyon;1;4;Ligue 1;Fair;NW;6 mph;46 °F;93 %;29.93 in
+05.03.2022;Lens;Brest;0;1;Ligue 1;Fair;SSW;1 mph;37 °F;81 %;29.91 in
+05.03.2022;Nice;PSG;1;0;Ligue 1;Light Rain;NNW;8 mph;48 °F;87 %;29.91 in
+06.03.2022;St Etienne;Metz;1;0;Ligue 1;Fair;NNW;8 mph;36 °F;93 %;29.99 in
+06.03.2022;Bordeaux;Troyes;0;2;Ligue 1;Fair;W;7 mph;46 °F;71 %;29.52 in
+06.03.2022;Nantes;Montpellier;2;0;Ligue 1;Fair;NNE;13 mph;45 °F;71 %;29.90 in
+06.03.2022;Reims;Strasbourg;1;1;Ligue 1;Fair;NNE;3 mph;36 °F;60 %;29.46 in
+06.03.2022;Rennes;Angers;2;0;Ligue 1;Cloudy;N;9 mph;45 °F;87 %;30.05 in
+06.03.2022;Lille;Clermont;4;0;Ligue 1;Fair;NNW;8 mph;36 °F;93 %;29.99 in
+06.03.2022;Marsilya;Monaco;0;1;Ligue 1;Fair;ESE;3 mph;39 °F;87 %;29.92 in
+25.02.2022;Montpellier;Rennes;2;4;Ligue 1;Cloudy;W;12 mph;48 °F;87 %;29.78 in
+26.02.2022;Strasbourg;Nice;0;0;Ligue 1;Mist;VAR;2 mph;32 °F;100 %;29.92 in
+26.02.2022;PSG;St Etienne;3;1;Ligue 1;Fair;N;2 mph;41 °F;76 %;30.16 in
+27.02.2022;Monaco;Reims;1;2;Ligue 1;Fair;NNW;14 mph;46 °F;40 %;30.20 in
+27.02.2022;Angers;Lens;1;2;Ligue 1;Fair;NNW;14 mph;46 °F;40 %;30.20 in
+27.02.2022;Brest;Lorient;0;1;Ligue 1;Fair;SSE;13 mph;45 °F;53 %;29.70 in
+27.02.2022;Clermont;Bordeaux;1;1;Ligue 1;Fair;SSE;13 mph;45 °F;53 %;29.70 in
+27.02.2022;Metz;Nantes;0;0;Ligue 1;Fair;S;6 mph;39 °F;70 %;29.64 in
+27.02.2022;Troyes;Marsilya;1;1;Ligue 1;Fair;ESE;9 mph;37 °F;70 %;29.98 in
+27.02.2022;Lyon;Lille;0;1;Ligue 1;Fair;SSW;6 mph;37 °F;75 %;29.42 in
+18.02.2022;Lille;Metz;0;0;Ligue 1;Fair;SSW;9 mph;48 °F;82 %;29.73 in
+19.02.2022;Lens;Lyon;1;1;Ligue 1;Fair / Windy;WSW;28 mph;43 °F;66 %;29.58 in
+19.02.2022;Nantes;PSG;3;1;Ligue 1;Fair;W;8 mph;39 °F;81 %;29.73 in
+20.02.2022;Nice;Angers;1;0;Ligue 1;Partly Cloudy;NW;7 mph;52 °F;88 %;30.00 in
+20.02.2022;Lorient;Montpellier;0;1;Ligue 1;Fair;SW;9 mph;46 °F;100 %;29.99 in
+20.02.2022;Reims;Brest;1;1;Ligue 1;Cloudy / Windy;WSW;23 mph;45 °F;76 %;29.43 in
+20.02.2022;Rennes;Troyes;4;1;Ligue 1;Fair;SW;9 mph;46 °F;100 %;29.99 in
+20.02.2022;St Etienne;Strasbourg;2;2;Ligue 1;Partly Cloudy;W;20 mph;48 °F;76 %;29.73 in
+20.02.2022;Bordeaux;Monaco;1;1;Ligue 1;Fair;WNW;10 mph;43 °F;76 %;29.84 in
+20.02.2022;Marsilya;Clermont;0;2;Ligue 1;Fair / Windy;NW;28 mph;50 °F;50 %;30.12 in
+11.02.2022;PSG;Rennes;1;0;Ligue 1;Fair;WNW;7 mph;41 °F;87 %;29.98 in
+12.02.2022;Montpellier;Lille;0;1;Ligue 1;Fair;VAR;2 mph;39 °F;93 %;29.78 in
+12.02.2022;Lyon;Nice;2;0;Ligue 1;Fair;VAR;2 mph;34 °F;81 %;29.56 in
+13.02.2022;Monaco;Lorient;0;0;Ligue 1;Mostly Cloudy;NNW;7 mph;46 °F;57 %;30.29 in
+13.02.2022;Angers;Strasbourg;0;1;Ligue 1;Mostly Cloudy;NNW;7 mph;46 °F;57 %;30.29 in
+13.02.2022;Brest;Troyes;5;1;Ligue 1;Cloudy;S;17 mph;46 °F;87 %;29.64 in
+13.02.2022;Clermont;St Etienne;1;2;Ligue 1;Cloudy;S;17 mph;46 °F;87 %;29.64 in
+13.02.2022;Nantes;Reims;1;0;Ligue 1;Cloudy;S;17 mph;46 °F;87 %;29.64 in
+13.02.2022;Lens;Bordeaux;3;2;Ligue 1;Fair;SSE;10 mph;34 °F;87 %;29.91 in
+13.02.2022;Metz;Marsilya;1;2;Ligue 1;Fair;SE;15 mph;48 °F;76 %;29.66 in
+04.02.2022;Marsilya;Angers;5;2;Ligue 1;Cloudy;CALM;0 mph;50 °F;100 %;30.09 in
+05.02.2022;St Etienne;Montpellier;3;1;Ligue 1;Fair;SW;8 mph;37 °F;87 %;29.91 in
+05.02.2022;Monaco;Lyon;2;0;Ligue 1;Partly Cloudy;NNW;6 mph;52 °F;71 %;29.94 in
+06.02.2022;Lorient;Lens;2;0;Ligue 1;Fair;SSW;12 mph;46 °F;87 %;30.16 in
+06.02.2022;Nice;Clermont;0;1;Ligue 1;Fair;NNW;9 mph;48 °F;76 %;30.17 in
+06.02.2022;Reims;Bordeaux;5;0;Ligue 1;Mostly Cloudy;SW;15 mph;39 °F;87 %;29.60 in
+06.02.2022;Strasbourg;Nantes;1;0;Ligue 1;Cloudy;SSW;13 mph;41 °F;70 %;29.72 in
+06.02.2022;Troyes;Metz;0;0;Ligue 1;Mostly Cloudy;SW;13 mph;45 °F;76 %;29.90 in
+06.02.2022;Rennes;Brest;2;0;Ligue 1;Fair;SSW;12 mph;46 °F;87 %;30.16 in
+06.02.2022;Lille;PSG;1;5;Ligue 1;Cloudy;SW;20 mph;46 °F;81 %;29.85 in
+21.01.2022;Lyon;St Etienne;1;0;Ligue 1;Mostly Cloudy;NNW;20 mph;37 °F;81 %;29.53 in
+22.01.2022;Brest;Lille;2;0;Ligue 1;Cloudy;CALM;0 mph;34 °F;93 %;30.34 in
+22.01.2022;Lens;Marsilya;0;2;Ligue 1;Cloudy;W;6 mph;41 °F;81 %;30.40 in
+23.01.2022;Metz;Nice;0;2;Ligue 1;Fair;VAR;2 mph;28 °F;93 %;29.90 in
+23.01.2022;Angers;Troyes;2;1;Ligue 1;Fair;NW;12 mph;46 °F;53 %;30.29 in
+23.01.2022;Bordeaux;Strasbourg;4;3;Ligue 1;Fair;VAR;2 mph;28 °F;93 %;29.90 in
+23.01.2022;Clermont;Rennes;2;1;Ligue 1;Cloudy;ENE;5 mph;41 °F;87 %;30.22 in
+23.01.2022;Nantes;Lorient;4;2;Ligue 1;Cloudy;ENE;5 mph;41 °F;87 %;30.22 in
+23.01.2022;Montpellier;Monaco;3;2;Ligue 1;Fair;VAR;2 mph;28 °F;93 %;29.90 in
+23.01.2022;PSG;Reims;4;0;Ligue 1;Cloudy;NNE;6 mph;39 °F;87 %;30.25 in
+14.01.2022;Nice;Nantes;2;1;Ligue 1;Fair;NNW;15 mph;43 °F;46 %;30.53 in
+15.01.2022;St Etienne;Lens;1;2;Ligue 1;Fog;NE;6 mph;36 °F;100 %;30.29 in
+15.01.2022;PSG;Brest;2;0;Ligue 1;Fair;CALM;0 mph;32 °F;93 %;30.10 in
+16.01.2022;Rennes;Bordeaux;6;0;Ligue 1;Fog;S;5 mph;36 °F;100 %;30.22 in
+16.01.2022;Lorient;Angers;0;0;Ligue 1;Fog;S;5 mph;36 °F;100 %;30.22 in
+16.01.2022;Monaco;Clermont;4;0;Ligue 1;Partly Cloudy;NNW;10 mph;45 °F;76 %;30.23 in
+16.01.2022;Reims;Metz;0;1;Ligue 1;Fog;VAR;3 mph;28 °F;100 %;29.63 in
+16.01.2022;Strasbourg;Montpellier;3;1;Ligue 1;Mist;SW;5 mph;28 °F;100 %;29.78 in
+16.01.2022;Troyes;Lyon;0;1;Ligue 1;Mist;W;7 mph;30 °F;100 %;29.95 in
+16.01.2022;Marsilya;Lille;1;1;Ligue 1;Fair;SE;3 mph;32 °F;80 %;30.27 in
+07.01.2022;Bordeaux;Marsilya;0;1;Ligue 1;Fair;S;6 mph;30 °F;86 %;29.69 in
+08.01.2022;Lens;Rennes;1;0;Ligue 1;Cloudy;WSW;6 mph;34 °F;100 %;29.67 in
+09.01.2022;Brest;Nice;0;3;Ligue 1;Cloudy;W;10 mph;45 °F;81 %;29.43 in
+09.01.2022;Clermont;Reims;0;0;Ligue 1;Cloudy;W;10 mph;45 °F;81 %;29.43 in
+09.01.2022;Metz;Strasbourg;0;2;Ligue 1;Cloudy / Windy;W;22 mph;50 °F;76 %;29.43 in
+09.01.2022;Nantes;Monaco;0;0;Ligue 1;Cloudy;W;10 mph;45 °F;81 %;29.43 in
+09.01.2022;Lyon;PSG;1;1;Ligue 1;Light Rain Shower;SSW;16 mph;45 °F;81 %;28.87 in
+19.01.2022;Lille;Lorient;3;1;Ligue 1;Mist;NNE;7 mph;37 °F;100 %;30.32 in
+19.01.2022;Montpellier;Troyes;0;1;Ligue 1;Cloudy;SSW;2 mph;34 °F;93 %;30.01 in
+26.01.2022;Angers;St Etienne;0;1;Ligue 1;Fair;NNW;8 mph;46 °F;76 %;30.38 in
+22.12.2021;Bordeaux;Lille;2;3;Ligue 1;Fair;SE;9 mph;41 °F;87 %;29.58 in
+22.12.2021;Lorient;PSG;1;1;Ligue 1;Mostly Cloudy;ESE;9 mph;32 °F;93 %;30.02 in
+22.12.2021;Lyon;Metz;1;1;Ligue 1;Mist;CALM;0 mph;28 °F;93 %;29.33 in
+22.12.2021;Marsilya;Reims;1;1;Ligue 1;Mostly Cloudy;NE;1 mph;37 °F;100 %;30.12 in
+22.12.2021;Monaco;Rennes;2;1;Ligue 1;Mostly Cloudy;NNW;12 mph;48 °F;66 %;30.11 in
+22.12.2021;Montpellier;Angers;4;1;Ligue 1;Fair;SE;9 mph;41 °F;87 %;29.58 in
+22.12.2021;Nice;Lens;2;1;Ligue 1;Mostly Cloudy;NNW;12 mph;48 °F;66 %;30.11 in
+22.12.2021;St Etienne;Nantes;0;1;Ligue 1;Fair;ESE;2 mph;28 °F;93 %;30.05 in
+22.12.2021;Troyes;Brest;1;1;Ligue 1;Mist;SE;5 mph;28 °F;100 %;29.90 in
+19.01.2022;Clermont;Strasbourg;0;2;Ligue 1;Cloudy;VAR;3 mph;34 °F;100 %;30.13 in
+10.12.2021;Nantes;Lens;3;2;Ligue 1;Mostly Cloudy;WNW;16 mph;48 °F;87 %;29.20 in
+11.12.2021;Brest;Montpellier;0;4;Ligue 1;Light Rain;WNW;9 mph;46 °F;87 %;29.64 in
+11.12.2021;Reims;St Etienne;2;0;Ligue 1;Cloudy;W;16 mph;39 °F;81 %;29.11 in
+12.12.2021;Lille;Lyon;0;0;Ligue 1;Cloudy;S;9 mph;45 °F;87 %;29.94 in
+12.12.2021;Angers;Clermont;0;1;Ligue 1;Fair;NNW;12 mph;45 °F;46 %;30.00 in
+12.12.2021;Metz;Lorient;4;1;Ligue 1;Fair;VAR;2 mph;41 °F;93 %;29.78 in
+12.12.2021;Rennes;Nice;1;2;Ligue 1;Cloudy;SSW;7 mph;50 °F;100 %;30.08 in
+12.12.2021;Troyes;Bordeaux;1;2;Ligue 1;Mostly Cloudy;S;8 mph;43 °F;87 %;29.90 in
+12.12.2021;Strasbourg;Marsilya;0;2;Ligue 1;Mist;SE;3 mph;32 °F;100 %;29.75 in
+12.12.2021;PSG;Monaco;2;0;Ligue 1;Mostly Cloudy;S;8 mph;43 °F;87 %;29.90 in
+04.12.2021;Marsilya;Brest;1;2;Ligue 1;Light Rain;ESE;1 mph;41 °F;81 %;30.00 in
+04.12.2021;Lille;Troyes;2;1;Ligue 1;Light Rain;SSE;7 mph;41 °F;93 %;29.35 in
+04.12.2021;Lens;PSG;1;1;Ligue 1;Light Rain;SSE;7 mph;41 °F;93 %;29.35 in
+05.12.2021;St Etienne;Rennes;0;5;Ligue 1;Fair;SSW;15 mph;37 °F;93 %;29.32 in
+05.12.2021;Lorient;Nantes;0;1;Ligue 1;Fair;W;12 mph;41 °F;81 %;29.61 in
+05.12.2021;Monaco;Metz;4;0;Ligue 1;Fair / Windy;W;24 mph;55 °F;51 %;29.58 in
+05.12.2021;Montpellier;Clermont;1;0;Ligue 1;Mostly Cloudy;WSW;12 mph;43 °F;93 %;29.43 in
+05.12.2021;Reims;Angers;1;2;Ligue 1;Mostly Cloudy;SW;16 mph;37 °F;93 %;29.02 in
+05.12.2021;Nice;Strasbourg;0;3;Ligue 1;Fair / Windy;W;24 mph;55 °F;51 %;29.58 in
+05.12.2021;Bordeaux;Lyon;2;2;Ligue 1;Mostly Cloudy;WSW;12 mph;43 °F;93 %;29.43 in
+01.12.2021;Angers;Monaco;1;3;Ligue 1;Fair;NNW;12 mph;43 °F;53 %;30.00 in
+01.12.2021;Brest;St Etienne;1;0;Ligue 1;Light Rain / Windy;WSW;23 mph;52 °F;100 %;29.49 in
+01.12.2021;Metz;Montpellier;1;3;Ligue 1;Mist;SSE;3 mph;37 °F;100 %;29.69 in
+01.12.2021;Strasbourg;Bordeaux;5;2;Ligue 1;Cloudy;S;18 mph;39 °F;87 %;29.43 in
+01.12.2021;Troyes;Lorient;2;0;Ligue 1;Mostly Cloudy;SW;15 mph;46 °F;93 %;29.55 in
+01.12.2021;Clermont;Lens;2;2;Ligue 1;Light Rain / Windy;WSW;23 mph;52 °F;100 %;29.49 in
+01.12.2021;Lyon;Reims;1;2;Ligue 1;Mostly Cloudy;SE;5 mph;37 °F;75 %;29.30 in
+01.12.2021;Nantes;Marsilya;0;1;Ligue 1;Light Rain / Windy;WSW;23 mph;52 °F;100 %;29.49 in
+01.12.2021;Rennes;Lille;1;2;Ligue 1;Cloudy;SW;13 mph;50 °F;82 %;29.75 in
+01.12.2021;PSG;Nice;0;0;Ligue 1;Mostly Cloudy;SW;15 mph;46 °F;93 %;29.55 in
+26.11.2021;Lens;Angers;2;2;Ligue 1;Mostly Cloudy;W;8 mph;37 °F;100 %;29.67 in
+27.11.2021;Lille;Nantes;1;1;Ligue 1;Mostly Cloudy;WSW;8 mph;37 °F;93 %;28.94 in
+27.11.2021;Nice;Metz;0;1;Ligue 1;Fair;W;10 mph;48 °F;50 %;29.23 in
+28.11.2021;St Etienne;PSG;1;3;Ligue 1;Light Rain;WNW;8 mph;39 °F;100 %;29.17 in
+28.11.2021;Bordeaux;Brest;1;2;Ligue 1;Fair;W;16 mph;39 °F;93 %;29.14 in
+28.11.2021;Lorient;Rennes;0;2;Ligue 1;Cloudy;NNW;17 mph;43 °F;70 %;29.58 in
+28.11.2021;Monaco;Strasbourg;1;1;Ligue 1;Fair;WNW;5 mph;46 °F;50 %;29.29 in
+28.11.2021;Reims;Clermont;1;0;Ligue 1;Mostly Cloudy;WSW;8 mph;36 °F;100 %;28.79 in
+28.11.2021;Montpellier;Lyon;0;1;Ligue 1;Fair;W;16 mph;39 °F;93 %;29.14 in
+28.11.2021;Marsilya;Troyes;1;0;Ligue 1;Fair;NW;13 mph;43 °F;81 %;29.47 in
+19.11.2021;Monaco;Lille;2;2;Ligue 1;Fair;NNW;8 mph;55 °F;77 %;30.29 in
+20.11.2021;PSG;Nantes;3;1;Ligue 1;Cloudy;E;8 mph;48 °F;87 %;30.10 in
+20.11.2021;Rennes;Montpellier;2;0;Ligue 1;Fair;NE;5 mph;41 °F;93 %;30.25 in
+21.11.2021;Brest;Lens;4;0;Ligue 1;Light Drizzle;NW;3 mph;46 °F;100 %;29.78 in
+21.11.2021;Angers;Lorient;1;0;Ligue 1;Fair;NNW;8 mph;52 °F;82 %;30.03 in
+21.11.2021;Metz;Bordeaux;3;3;Ligue 1;Mist;S;3 mph;43 °F;100 %;29.52 in
+21.11.2021;Strasbourg;Reims;1;1;Ligue 1;Cloudy;S;5 mph;39 °F;93 %;29.52 in
+21.11.2021;Troyes;St Etienne;0;1;Ligue 1;Mist;VAR;2 mph;43 °F;93 %;29.75 in
+21.11.2021;Clermont;Nice;1;2;Ligue 1;Light Drizzle;NW;3 mph;46 °F;100 %;29.78 in
+01.02.2022;Lyon;Marsilya;2;1;Ligue 1;Mostly Cloudy;WSW;2 mph;36 °F;87 %;29.45 in
+05.11.2021;Lens;Troyes;4;0;Ligue 1;Light Drizzle;WNW;8 mph;46 °F;93 %;29.85 in
+06.11.2021;Lille;Angers;1;1;Ligue 1;Fair;CALM;0 mph;41 °F;87 %;30.23 in
+06.11.2021;Bordeaux;PSG;2;3;Ligue 1;Fair;W;8 mph;45 °F;93 %;29.81 in
+07.11.2021;Marsilya;Metz;0;0;Ligue 1;Fair;SE;7 mph;39 °F;87 %;30.09 in
+07.11.2021;Lorient;Brest;1;2;Ligue 1;Fair;SW;7 mph;50 °F;87 %;30.22 in
+07.11.2021;Nantes;Strasbourg;2;2;Ligue 1;Cloudy;WSW;9 mph;54 °F;94 %;29.99 in
+07.11.2021;Reims;Monaco;0;0;Ligue 1;Fair;SSW;9 mph;36 °F;100 %;29.66 in
+07.11.2021;St Etienne;Clermont;3;2;Ligue 1;Cloudy;SSW;15 mph;50 °F;87 %;29.99 in
+07.11.2021;Nice;Montpellier;0;1;Ligue 1;Fog;NNW;7 mph;51 °F;97%;30.24 in
+07.11.2021;Rennes;Lyon;4;1;Ligue 1;Fog;NNW;9 mph;54 °F;93%;30.24 in
+29.10.2021;PSG;Lille;2;1;Ligue 1;Fog;NNW;8 mph;53 °F;79%;30.24 in
+30.10.2021;Metz;St Etienne;1;1;Ligue 1;Fog;NNW;10 mph;59 °F;88%;30.24 in
+30.10.2021;Lyon;Lens;2;1;Ligue 1;Fog;NNW;10 mph;48 °F;93%;30.24 in
+31.10.2021;Angers;Nice;1;2;Ligue 1;Fog;NNW;9 mph;40 °F;99%;30.24 in
+31.10.2021;Bordeaux;Reims;3;2;Ligue 1;Fog;NNW;10 mph;54 °F;96%;30.24 in
+31.10.2021;Montpellier;Nantes;2;0;Ligue 1;Fog;NNW;7 mph;51 °F;98%;30.24 in
+31.10.2021;Strasbourg;Lorient;4;0;Ligue 1;Fog;NNW;7 mph;51 °F;82%;30.24 in
+31.10.2021;Troyes;Rennes;2;2;Ligue 1;Fog;NNW;5 mph;43 °F;83%;30.24 in
+31.10.2021;Brest;Monaco;2;0;Ligue 1;Fog;NNW;9 mph;49 °F;78%;30.24 in
+31.10.2021;Clermont;Marsilya;0;1;Ligue 1;Fog;NNW;6 mph;55 °F;93%;30.24 in
+22.10.2021;St Etienne;Angers;2;2;Ligue 1;Fog;NNW;6 mph;50 °F;81%;30.24 in
+23.10.2021;Nantes;Clermont;2;1;Ligue 1;Fog;NNW;7 mph;60 °F;94%;30.24 in
+23.10.2021;Lille;Brest;1;1;Ligue 1;Fog;NNW;10 mph;43 °F;99%;30.24 in
+24.10.2021;Nice;Lyon;3;2;Ligue 1;Fog;NNW;10 mph;59 °F;93%;30.24 in
+24.10.2021;Lens;Metz;4;1;Ligue 1;Fog;NNW;10 mph;43 °F;97%;30.24 in
+24.10.2021;Lorient;Bordeaux;1;1;Ligue 1;Fog;NNW;9 mph;42 °F;77%;30.24 in
+24.10.2021;Reims;Troyes;1;2;Ligue 1;Fog;NNW;9 mph;60 °F;75%;30.24 in
+24.10.2021;Rennes;Strasbourg;1;0;Ligue 1;Fog;NNW;6 mph;55 °F;96%;30.24 in
+24.10.2021;Monaco;Montpellier;3;1;Ligue 1;Fog;NNW;8 mph;49 °F;92%;30.24 in
+24.10.2021;Marsilya;PSG;0;0;Ligue 1;Fog;NNW;9 mph;40 °F;88%;30.24 in
+15.10.2021;PSG;Angers;2;1;Ligue 1;Fog;NNW;5 mph;47 °F;76%;30.24 in
+16.10.2021;Clermont;Lille;1;0;Ligue 1;Fog;NNW;5 mph;53 °F;78%;30.24 in
+16.10.2021;Lyon;Monaco;2;0;Ligue 1;Fog;NNW;5 mph;60 °F;77%;30.24 in
+17.10.2021;Troyes;Nice;1;0;Ligue 1;Fog;NNW;8 mph;52 °F;85%;30.24 in
+17.10.2021;Bordeaux;Nantes;1;1;Ligue 1;Fog;NNW;8 mph;42 °F;95%;30.24 in
+17.10.2021;Brest;Reims;1;1;Ligue 1;Fog;NNW;9 mph;55 °F;97%;30.24 in
+17.10.2021;Metz;Rennes;0;3;Ligue 1;Fog;NNW;10 mph;60 °F;77%;30.24 in
+17.10.2021;Strasbourg;St Etienne;5;1;Ligue 1;Fog;NNW;10 mph;44 °F;96%;30.24 in
+17.10.2021;Montpellier;Lens;1;0;Ligue 1;Fog;NNW;5 mph;57 °F;76%;30.24 in
+17.10.2021;Marsilya;Lorient;4;1;Ligue 1;Fog;NNW;8 mph;42 °F;83%;30.24 in
+01.10.2021;Lens;Reims;2;0;Ligue 1;Fog;NNW;5 mph;57 °F;84%;30.24 in
+02.10.2021;Montpellier;Strasbourg;1;1;Ligue 1;Fog;NNW;6 mph;48 °F;99%;30.24 in
+02.10.2021;Nice;Brest;2;1;Ligue 1;Fog;NNW;5 mph;40 °F;91%;30.24 in
+03.10.2021;Rennes;PSG;2;0;Ligue 1;Fog;NNW;5 mph;40 °F;95%;30.24 in
+03.10.2021;Angers;Metz;3;2;Ligue 1;Fog;NNW;5 mph;58 °F;89%;30.24 in
+03.10.2021;Lorient;Clermont;1;1;Ligue 1;Fog;NNW;7 mph;40 °F;88%;30.24 in
+03.10.2021;Monaco;Bordeaux;3;0;Ligue 1;Fog;NNW;6 mph;44 °F;76%;30.24 in
+03.10.2021;Nantes;Troyes;2;0;Ligue 1;Fog;NNW;5 mph;47 °F;93%;30.24 in
+03.10.2021;Lille;Marsilya;2;0;Ligue 1;Fog;NNW;5 mph;54 °F;77%;30.24 in
+03.10.2021;St Etienne;Lyon;1;1;Ligue 1;Fog;NNW;9 mph;53 °F;94%;30.24 in
+25.09.2021;St Etienne;Nice;0;3;Ligue 1;Fog;NNW;8 mph;44 °F;82%;30.24 in
+25.09.2021;Strasbourg;Lille;1;2;Ligue 1;Fog;NNW;7 mph;46 °F;79%;30.24 in
+25.09.2021;Lyon;Lorient;1;1;Ligue 1;Fog;NNW;8 mph;42 °F;78%;30.24 in
+25.09.2021;PSG;Montpellier;2;0;Ligue 1;Fog;NNW;7 mph;59 °F;95%;30.24 in
+26.09.2021;Bordeaux;Rennes;1;1;Ligue 1;Fog;NNW;8 mph;56 °F;88%;30.24 in
+26.09.2021;Brest;Metz;1;2;Ligue 1;Fog;NNW;8 mph;45 °F;89%;30.24 in
+26.09.2021;Reims;Nantes;3;1;Ligue 1;Fog;NNW;5 mph;54 °F;82%;30.24 in
+26.09.2021;Troyes;Angers;1;1;Ligue 1;Fog;NNW;10 mph;51 °F;76%;30.24 in
+26.09.2021;Clermont;Monaco;1;3;Ligue 1;Fog;NNW;8 mph;44 °F;82%;30.24 in
+26.09.2021;Marsilya;Lens;2;3;Ligue 1;Fog;NNW;10 mph;47 °F;89%;30.24 in
+22.09.2021;Lille;Reims;2;1;Ligue 1;Fog;NNW;8 mph;46 °F;92%;30.24 in
+22.09.2021;Monaco;St Etienne;3;1;Ligue 1;Fog;NNW;6 mph;53 °F;75%;30.24 in
+22.09.2021;Montpellier;Bordeaux;3;3;Ligue 1;Fog;NNW;5 mph;48 °F;97%;30.24 in
+22.09.2021;Nantes;Brest;3;1;Ligue 1;Fog;NNW;6 mph;57 °F;94%;30.24 in
+22.09.2021;Rennes;Clermont;6;0;Ligue 1;Fog;NNW;8 mph;45 °F;77%;30.24 in
+22.09.2021;Angers;Marsilya;0;0;Ligue 1;Fog;NNW;8 mph;53 °F;100%;30.24 in
+22.09.2021;Lens;Strasbourg;0;1;Ligue 1;Fog;NNW;7 mph;54 °F;78%;30.24 in
+22.09.2021;Lorient;Nice;1;0;Ligue 1;Fog;NNW;6 mph;44 °F;100%;30.24 in
+22.09.2021;Lyon;Troyes;3;1;Ligue 1;Fog;NNW;10 mph;57 °F;78%;30.24 in
+22.09.2021;Metz;PSG;1;2;Ligue 1;Fog;NNW;5 mph;45 °F;89%;30.24 in
+17.09.2021;Strasbourg;Metz;3;0;Ligue 1;Fog;NNW;8 mph;41 °F;95%;30.24 in
+18.09.2021;Lens;Lille;1;0;Ligue 1;Fog;NNW;7 mph;52 °F;76%;30.24 in
+18.09.2021;St Etienne;Bordeaux;1;2;Ligue 1;Fog;NNW;9 mph;41 °F;100%;30.24 in
+19.09.2021;Nice;Monaco;2;2;Ligue 1;Fog;NNW;6 mph;43 °F;82%;30.24 in
+19.09.2021;Angers;Nantes;1;4;Ligue 1;Fog;NNW;6 mph;54 °F;78%;30.24 in
+19.09.2021;Clermont;Brest;1;1;Ligue 1;Fog;NNW;8 mph;55 °F;80%;30.24 in
+19.09.2021;Reims;Lorient;0;0;Ligue 1;Fog;NNW;10 mph;43 °F;77%;30.24 in
+19.09.2021;Troyes;Montpellier;1;1;Ligue 1;Fog;NNW;8 mph;56 °F;97%;30.24 in
+19.09.2021;Marsilya;Rennes;2;0;Ligue 1;Fog;NNW;9 mph;59 °F;97%;30.24 in
+19.09.2021;PSG;Lyon;2;1;Ligue 1;Fog;NNW;9 mph;60 °F;97%;30.24 in
+10.09.2021;Lorient;Lille;2;1;Ligue 1;Fog;NNW;10 mph;44 °F;100%;30.24 in
+11.09.2021;PSG;Clermont;4;0;Ligue 1;Fog;NNW;7 mph;60 °F;97%;30.24 in
+11.09.2021;Monaco;Marsilya;0;2;Ligue 1;Fog;NNW;10 mph;54 °F;99%;30.24 in
+12.09.2021;Montpellier;St Etienne;2;0;Ligue 1;Fog;NNW;7 mph;45 °F;84%;30.24 in
+12.09.2021;Bordeaux;Lens;2;3;Ligue 1;Fog;NNW;7 mph;53 °F;90%;30.24 in
+12.09.2021;Brest;Angers;1;1;Ligue 1;Fog;NNW;9 mph;59 °F;80%;30.24 in
+12.09.2021;Metz;Troyes;0;2;Ligue 1;Fog;NNW;7 mph;54 °F;91%;30.24 in
+12.09.2021;Rennes;Reims;0;2;Ligue 1;Fog;NNW;8 mph;59 °F;95%;30.24 in
+12.09.2021;Nantes;Nice;0;2;Ligue 1;Fog;NNW;8 mph;55 °F;80%;30.24 in
+12.09.2021;Lyon;Strasbourg;3;1;Ligue 1;Fog;NNW;8 mph;60 °F;100%;30.24 in
+27.08.2021;Nantes;Lyon;0;1;Ligue 1;Fog;NNW;7 mph;40 °F;78%;30.24 in
+28.08.2021;Nice;Bordeaux;4;0;Ligue 1;Fog;NNW;6 mph;47 °F;88%;30.24 in
+28.08.2021;Marsilya;St Etienne;3;1;Ligue 1;Fog;NNW;10 mph;42 °F;94%;30.24 in
+29.08.2021;Troyes;Monaco;1;2;Ligue 1;Fog;NNW;8 mph;59 °F;91%;30.24 in
+29.08.2021;Angers;Rennes;2;0;Ligue 1;Fog;NNW;6 mph;48 °F;94%;30.24 in
+29.08.2021;Clermont;Metz;2;2;Ligue 1;Fog;NNW;6 mph;60 °F;83%;30.24 in
+29.08.2021;Lens;Lorient;2;2;Ligue 1;Fog;NNW;10 mph;59 °F;98%;30.24 in
+29.08.2021;Strasbourg;Brest;3;1;Ligue 1;Fog;NNW;6 mph;57 °F;84%;30.24 in
+29.08.2021;Lille;Montpellier;2;1;Ligue 1;Fog;NNW;8 mph;48 °F;87%;30.24 in
+29.08.2021;Reims;PSG;0;2;Ligue 1;Fog;NNW;6 mph;51 °F;85%;30.24 in
+20.08.2021;Brest;PSG;2;4;Ligue 1;Fog;NNW;6 mph;52 °F;80%;30.24 in
+21.08.2021;Monaco;Lens;0;2;Ligue 1;Fog;NNW;9 mph;41 °F;79%;30.24 in
+21.08.2021;St Etienne;Lille;1;1;Ligue 1;Fog;NNW;10 mph;48 °F;98%;30.24 in
+22.08.2021;Lyon;Clermont;3;3;Ligue 1;Fog;NNW;6 mph;41 °F;91%;30.24 in
+22.08.2021;Bordeaux;Angers;1;1;Ligue 1;Fog;NNW;6 mph;42 °F;87%;30.24 in
+22.08.2021;Metz;Reims;1;1;Ligue 1;Fog;NNW;10 mph;56 °F;95%;30.24 in
+22.08.2021;Montpellier;Lorient;3;1;Ligue 1;Fog;NNW;10 mph;55 °F;77%;30.24 in
+22.08.2021;Strasbourg;Troyes;1;1;Ligue 1;Fog;NNW;8 mph;43 °F;82%;30.24 in
+22.08.2021;Rennes;Nantes;1;0;Ligue 1;Fog;NNW;8 mph;47 °F;87%;30.24 in
+27.10.2021;Nice;Marsilya;1;1;Ligue 1;Fog;NNW;9 mph;55 °F;85%;30.24 in
+13.08.2021;Lorient;Monaco;1;0;Ligue 1;Fog;NNW;5 mph;52 °F;92%;30.24 in
+14.08.2021;Lille;Nice;0;4;Ligue 1;Fog;NNW;5 mph;60 °F;85%;30.24 in
+14.08.2021;PSG;Strasbourg;4;2;Ligue 1;Fog;NNW;6 mph;49 °F;94%;30.24 in
+15.08.2021;Angers;Lyon;3;0;Ligue 1;Fog;NNW;5 mph;60 °F;91%;30.24 in
+15.08.2021;Brest;Rennes;1;1;Ligue 1;Fog;NNW;7 mph;48 °F;80%;30.24 in
+15.08.2021;Clermont;Troyes;2;0;Ligue 1;Fog;NNW;9 mph;46 °F;81%;30.24 in
+15.08.2021;Nantes;Metz;2;0;Ligue 1;Fog;NNW;7 mph;43 °F;96%;30.24 in
+15.08.2021;Reims;Montpellier;3;3;Ligue 1;Fog;NNW;5 mph;58 °F;83%;30.24 in
+15.08.2021;Lens;St Etienne;2;2;Ligue 1;Fog;NNW;5 mph;40 °F;96%;30.24 in
+15.08.2021;Marsilya;Bordeaux;2;2;Ligue 1;Fog;NNW;10 mph;57 °F;86%;30.24 in
+06.08.2021;Monaco;Nantes;1;1;Ligue 1;Fog;NNW;8 mph;57 °F;95%;30.24 in
+07.08.2021;Lyon;Brest;1;1;Ligue 1;Fog;NNW;7 mph;40 °F;83%;30.24 in
+07.08.2021;Troyes;PSG;1;2;Ligue 1;Fog;NNW;7 mph;46 °F;95%;30.24 in
+08.08.2021;Rennes;Lens;1;1;Ligue 1;Fog;NNW;6 mph;50 °F;95%;30.24 in
+08.08.2021;Bordeaux;Clermont;0;2;Ligue 1;Fog;NNW;6 mph;56 °F;91%;30.24 in
+08.08.2021;Nice;Reims;0;0;Ligue 1;Fog;NNW;5 mph;54 °F;91%;30.24 in
+08.08.2021;St Etienne;Lorient;1;1;Ligue 1;Fog;NNW;8 mph;45 °F;85%;30.24 in
+08.08.2021;Strasbourg;Angers;0;2;Ligue 1;Fog;NNW;5 mph;49 °F;83%;30.24 in
+08.08.2021;Metz;Lille;3;3;Ligue 1;Fog;NNW;9 mph;43 °F;95%;30.24 in
+08.08.2021;Montpellier;Marsilya;2;3;Ligue 1;Fog;NNW;7 mph;47 °F;93%;30.24 in

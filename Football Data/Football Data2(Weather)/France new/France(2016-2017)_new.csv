@@ -1,0 +1,381 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+20.05.2017;Nancy;St Etienne;3;1;Ligue 1;Fair;S;7 mph;45 °F;100 %;29.40 in
+20.05.2017;Lorient;Bordeaux;1;1;Ligue 1;Mostly Cloudy;S;2 mph;48 °F;100 %;29.90 in
+20.05.2017;Lille;Nantes;3;0;Ligue 1;Fair;SSE;2 mph;52 °F;76 %;29.79 in
+20.05.2017;Marsilya;Bastia;1;0;Ligue 1;Fair / Windy;W;29 mph;63 °F;48 %;30.03 in
+20.05.2017;Lyon;Nice;3;3;Ligue 1;Fair;WNW;6 mph;52 °F;82 %;29.27 in
+20.05.2017;PSG;Caen;1;1;Ligue 1;Fair;SSW;5 mph;50 °F;82 %;29.69 in
+20.05.2017;Toulouse;Dijon;0;0;Ligue 1;Fair;SSW;5 mph;52 °F;71 %;29.66 in
+20.05.2017;Angers;Montpellier;2;0;Ligue 1;Fair;WNW;3 mph;64 °F;56 %;29.88 in
+20.05.2017;Rennes;Monaco;2;3;Ligue 1;Mostly Cloudy;S;2 mph;48 °F;100 %;29.90 in
+20.05.2017;Guingamp;Metz;1;0;Ligue 1;Fair;SSW;5 mph;50 °F;82 %;29.69 in
+14.05.2017;St Etienne;PSG;0;5;Ligue 1;Fair;CALM;0 mph;54 °F;82 %;29.79 in
+14.05.2017;Bordeaux;Marsilya;1;1;Ligue 1;Fair;VAR;2 mph;61 °F;59 %;29.55 in
+14.05.2017;Montpellier;Lyon;1;3;Ligue 1;Fair;VAR;2 mph;61 °F;59 %;29.55 in
+14.05.2017;Nice;Angers;0;2;Ligue 1;Mostly Cloudy;CALM;0 mph;63 °F;100 %;30.03 in
+14.05.2017;Bastia;Lorient;2;0;Ligue 1;Mostly Cloudy;CALM;0 mph;63 °F;100 %;30.03 in
+14.05.2017;Dijon;Nancy;2;0;Ligue 1;Rain;WSW;14 mph;54 °F;100 %;29.52 in
+14.05.2017;Monaco;Lille;4;0;Ligue 1;Mostly Cloudy;CALM;0 mph;63 °F;100 %;30.03 in
+14.05.2017;Nantes;Guingamp;4;1;Ligue 1;Rain;WSW;14 mph;54 °F;100 %;29.52 in
+14.05.2017;Caen;Rennes;0;1;Ligue 1;Fair;VAR;2 mph;61 °F;59 %;29.55 in
+14.05.2017;Metz;Toulouse;1;1;Ligue 1;Fair;VAR;2 mph;61 °F;59 %;29.55 in
+05.05.2017;St Etienne;Bordeaux;2;2;Ligue 1;Fair;NE;7 mph;52 °F;82 %;29.94 in
+06.05.2017;PSG;Bastia;5;0;Ligue 1;Fair;ENE;15 mph;55 °F;72 %;29.49 in
+06.05.2017;Nancy;Monaco;0;3;Ligue 1;Fair;ENE;14 mph;54 °F;72 %;29.26 in
+06.05.2017;Lorient;Angers;1;1;Ligue 1;Light Rain;VAR;3 mph;55 °F;94 %;29.64 in
+06.05.2017;Lille;Metz;0;2;Ligue 1;Fair;ENE;10 mph;48 °F;82 %;29.79 in
+06.05.2017;Toulouse;Caen;0;1;Ligue 1;Fair;S;12 mph;57 °F;72 %;29.26 in
+06.05.2017;Guingamp;Dijon;4;0;Ligue 1;Fair;ENE;15 mph;55 °F;72 %;29.49 in
+07.05.2017;Rennes;Montpellier;1;0;Ligue 1;Cloudy;WSW;5 mph;54 °F;94 %;29.87 in
+07.05.2017;Lyon;Nantes;3;2;Ligue 1;Mostly Cloudy;S;7 mph;52 °F;88 %;29.19 in
+07.05.2017;Marsilya;Nice;2;1;Ligue 1;Fair;WNW;7 mph;55 °F;72 %;30.00 in
+28.04.2017;Angers;Lyon;1;2;Ligue 1;Fair;W;8 mph;52 °F;62 %;29.64 in
+29.04.2017;Monaco;Toulouse;3;1;Ligue 1;Fair;N;6 mph;54 °F;58 %;29.88 in
+29.04.2017;Montpellier;Lille;0;3;Ligue 1;Fair;CALM;0 mph;48 °F;50 %;29.52 in
+29.04.2017;Bastia;Rennes;1;0;Ligue 1;Fair;N;6 mph;54 °F;58 %;29.88 in
+29.04.2017;Nantes;Lorient;1;0;Ligue 1;Fair;ENE;2 mph;46 °F;81 %;29.70 in
+29.04.2017;Guingamp;St Etienne;0;2;Ligue 1;Fair;CALM;0 mph;50 °F;71 %;29.72 in
+29.04.2017;Metz;Nancy;2;1;Ligue 1;Fair;CALM;0 mph;48 °F;50 %;29.52 in
+30.04.2017;Caen;Marsilya;1;5;Ligue 1;Fair;SE;10 mph;54 °F;72 %;29.29 in
+30.04.2017;Dijon;Bordeaux;0;0;Ligue 1;Fair;SSE;12 mph;54 °F;54 %;29.23 in
+30.04.2017;Nice;PSG;3;1;Ligue 1;Fair;NNW;7 mph;55 °F;41 %;29.94 in
+21.04.2017;Nancy;Marsilya;0;0;Ligue 1;Fair;N;5 mph;41 °F;53 %;29.86 in
+22.04.2017;PSG;Montpellier;2;0;Ligue 1;Fair;CALM;0 mph;50 °F;62 %;30.04 in
+22.04.2017;Lorient;Metz;5;1;Ligue 1;Fair;WNW;3 mph;45 °F;81 %;30.25 in
+22.04.2017;Bordeaux;Bastia;2;0;Ligue 1;Fair;SSE;9 mph;54 °F;28 %;29.75 in
+22.04.2017;Lille;Guingamp;3;0;Ligue 1;Fair;W;6 mph;52 °F;76 %;30.17 in
+22.04.2017;Dijon;Angers;3;2;Ligue 1;Fair;NE;7 mph;45 °F;81 %;30.05 in
+22.04.2017;Caen;Nantes;0;2;Ligue 1;Fair;SSE;9 mph;54 °F;28 %;29.75 in
+23.04.2017;Toulouse;Nice;1;1;Ligue 1;Fair;VAR;1 mph;57 °F;38 %;29.55 in
+23.04.2017;St Etienne;Rennes;1;1;Ligue 1;Mostly Cloudy;NNE;6 mph;45 °F;71 %;30.17 in
+23.04.2017;Lyon;Monaco;1;2;Ligue 1;Fair;NNW;12 mph;52 °F;62 %;29.33 in
+14.04.2017;Angers;PSG;0;2;Ligue 1;Mostly Cloudy;E;9 mph;61 °F;88 %;29.88 in
+15.04.2017;Nice;Nancy;3;1;Ligue 1;Mostly Cloudy;SE;3 mph;61 °F;94 %;29.91 in
+15.04.2017;Montpellier;Lorient;2;0;Ligue 1;Fair;WNW;10 mph;55 °F;63 %;29.58 in
+15.04.2017;Rennes;Lille;2;0;Ligue 1;Cloudy;NW;2 mph;50 °F;76 %;29.99 in
+15.04.2017;Guingamp;Toulouse;2;1;Ligue 1;Mostly Cloudy;NNW;6 mph;55 °F;58 %;29.72 in
+15.04.2017;Metz;Caen;2;2;Ligue 1;Fair;WNW;10 mph;55 °F;63 %;29.58 in
+15.04.2017;Monaco;Dijon;2;1;Ligue 1;Mostly Cloudy;SE;3 mph;61 °F;94 %;29.91 in
+16.04.2017;Nantes;Bordeaux;0;1;Ligue 1;Cloudy;VAR;2 mph;50 °F;87 %;29.93 in
+16.04.2017;Bastia;Lyon;0;0;Ligue 1;Mostly Cloudy;W;8 mph;61 °F;82 %;29.88 in
+16.04.2017;Marsilya;St Etienne;4;0;Ligue 1;Fair / Windy;NW;29 mph;59 °F;48 %;29.97 in
+07.04.2017;Lille;Nice;1;2;Ligue 1;Fair;SSE;3 mph;41 °F;87 %;30.20 in
+08.04.2017;Angers;Monaco;0;1;Ligue 1;Fair;VAR;1 mph;57 °F;77 %;30.06 in
+08.04.2017;Nancy;Rennes;3;0;Ligue 1;Fair;N;3 mph;48 °F;82 %;29.63 in
+08.04.2017;Bordeaux;Metz;3;0;Ligue 1;Fair;CALM;0 mph;54 °F;58 %;29.61 in
+08.04.2017;Lyon;Lorient;1;4;Ligue 1;Fair;WNW;5 mph;52 °F;67 %;29.33 in
+08.04.2017;Dijon;Bastia;1;2;Ligue 1;Fair;ESE;9 mph;52 °F;76 %;29.84 in
+08.04.2017;Caen;Montpellier;0;2;Ligue 1;Fair;CALM;0 mph;54 °F;58 %;29.61 in
+09.04.2017;Toulouse;Marsilya;0;0;Ligue 1;Fair;SE;10 mph;61 °F;45 %;29.58 in
+09.04.2017;St Etienne;Nantes;1;1;Ligue 1;Fair;ENE;3 mph;52 °F;62 %;30.02 in
+09.04.2017;PSG;Guingamp;4;0;Ligue 1;Fair;VAR;2 mph;55 °F;54 %;29.84 in
+31.03.2017;Guingamp;Nancy;1;0;Ligue 1;Fair;S;3 mph;61 °F;48 %;29.69 in
+01.04.2017;Marsilya;Dijon;1;1;Ligue 1;Fair;SE;10 mph;55 °F;63 %;30.03 in
+01.04.2017;Bastia;Lille;0;1;Ligue 1;Fair;NNW;3 mph;55 °F;82 %;30.06 in
+02.04.2017;Rennes;Lyon;1;1;Ligue 1;Cloudy;WNW;8 mph;46 °F;93 %;29.87 in
+02.04.2017;Lorient;Caen;1;0;Ligue 1;Cloudy;WNW;8 mph;46 °F;93 %;29.87 in
+02.04.2017;Montpellier;Toulouse;0;1;Ligue 1;Cloudy;W;15 mph;50 °F;82 %;29.55 in
+02.04.2017;Nantes;Angers;2;1;Ligue 1;Cloudy;NW;12 mph;50 °F;87 %;29.70 in
+02.04.2017;Nice;Bordeaux;2;1;Ligue 1;Mostly Cloudy;N;16 mph;57 °F;59 %;29.85 in
+18.04.2017;Metz;PSG;2;3;Ligue 1;Fair;NW;8 mph;57 °F;55 %;29.58 in
+17.05.2017;Monaco;St Etienne;2;0;Ligue 1;Fair;NNW;8 mph;70 °F;53 %;30.20 in
+17.03.2017;Metz;Bastia;1;0;Ligue 1;Fair;SW;1 mph;52 °F;62 %;29.61 in
+17.03.2017;Lille;Marsilya;0;0;Ligue 1;Mostly Cloudy;W;5 mph;48 °F;87 %;29.88 in
+18.03.2017;Nantes;Nice;1;1;Ligue 1;Cloudy;W;12 mph;48 °F;82 %;29.81 in
+18.03.2017;Nancy;Lorient;2;3;Ligue 1;Mostly Cloudy;SSW;12 mph;45 °F;87 %;29.40 in
+18.03.2017;Bordeaux;Montpellier;5;1;Ligue 1;Cloudy;W;12 mph;52 °F;76 %;29.69 in
+18.03.2017;Toulouse;Rennes;0;0;Ligue 1;Cloudy;W;12 mph;52 °F;76 %;29.69 in
+18.03.2017;Angers;Guingamp;3;0;Ligue 1;Fair;NW;8 mph;50 °F;87 %;29.97 in
+19.03.2017;Caen;Monaco;0;3;Ligue 1;Fair;W;6 mph;48 °F;71 %;29.69 in
+19.03.2017;Dijon;St Etienne;0;1;Ligue 1;Cloudy;W;8 mph;50 °F;100 %;29.78 in
+19.03.2017;PSG;Lyon;2;1;Ligue 1;Cloudy;W;12 mph;55 °F;82 %;29.69 in
+10.03.2017;Nice;Caen;2;2;Ligue 1;Mostly Cloudy;ENE;7 mph;55 °F;82 %;30.00 in
+10.03.2017;Marsilya;Angers;3;0;Ligue 1;Fair;NW;13 mph;57 °F;63 %;30.06 in
+11.03.2017;Monaco;Bordeaux;2;1;Ligue 1;Fair;NNW;12 mph;59 °F;45 %;30.03 in
+11.03.2017;Nancy;Lille;1;2;Ligue 1;Fair;ESE;9 mph;43 °F;70 %;29.60 in
+11.03.2017;Montpellier;Nantes;2;3;Ligue 1;Fair;SSE;1 mph;50 °F;82 %;29.58 in
+11.03.2017;Rennes;Dijon;1;1;Ligue 1;Fair;ESE;8 mph;52 °F;94 %;30.02 in
+11.03.2017;Guingamp;Bastia;5;0;Ligue 1;Shallow Fog;CALM;0 mph;37 °F;93 %;29.87 in
+12.03.2017;St Etienne;Metz;2;2;Ligue 1;Fair;E;5 mph;46 °F;71 %;29.79 in
+12.03.2017;Lyon;Toulouse;4;0;Ligue 1;Fair;SE;7 mph;54 °F;54 %;29.13 in
+12.03.2017;Lorient;PSG;1;2;Ligue 1;Fair;S;3 mph;54 °F;88 %;29.84 in
+03.03.2017;Bordeaux;Lyon;1;1;Ligue 1;Fair;SE;8 mph;52 °F;71 %;29.37 in
+04.03.2017;PSG;Nancy;1;0;Ligue 1;Mostly Cloudy;S;5 mph;54 °F;67 %;29.05 in
+04.03.2017;Montpellier;Guingamp;1;1;Ligue 1;Light Rain;S;14 mph;54 °F;82 %;28.91 in
+04.03.2017;Bastia;St Etienne;0;0;Ligue 1;Partly Cloudy / Windy;E;26 mph;57 °F;72 %;29.79 in
+04.03.2017;Dijon;Nice;0;1;Ligue 1;Fair;WSW;7 mph;43 °F;87 %;28.94 in
+04.03.2017;Caen;Angers;2;3;Ligue 1;Light Rain;S;14 mph;54 °F;82 %;28.91 in
+04.03.2017;Metz;Rennes;1;1;Ligue 1;Light Rain;S;14 mph;54 °F;82 %;28.91 in
+05.03.2017;Lorient;Marsilya;1;4;Ligue 1;Fair;SSW;7 mph;39 °F;87 %;29.43 in
+05.03.2017;Toulouse;Lille;1;1;Ligue 1;Fair;WSW;7 mph;43 °F;76 %;29.29 in
+05.03.2017;Monaco;Nantes;4;0;Ligue 1;Fair;W;6 mph;50 °F;76 %;29.73 in
+24.02.2017;Nantes;Dijon;3;1;Ligue 1;Mostly Cloudy;NNW;7 mph;43 °F;76 %;29.64 in
+24.02.2017;Nice;Montpellier;2;1;Ligue 1;Mostly Cloudy;NNW;5 mph;52 °F;88 %;29.85 in
+25.02.2017;Guingamp;Monaco;1;2;Ligue 1;Fair;SSW;2 mph;34 °F;81 %;29.84 in
+25.02.2017;Nancy;Toulouse;0;0;Ligue 1;Fair;W;3 mph;32 °F;93 %;29.54 in
+25.02.2017;Lille;Bordeaux;2;3;Ligue 1;Fair;S;3 mph;34 °F;87 %;29.96 in
+25.02.2017;Angers;Bastia;3;0;Ligue 1;Fair;N;8 mph;50 °F;82 %;29.70 in
+25.02.2017;Rennes;Lorient;1;0;Ligue 1;Fair;S;3 mph;36 °F;93 %;30.08 in
+26.02.2017;St Etienne;Caen;0;1;Ligue 1;Fair;SSW;15 mph;46 °F;71 %;29.76 in
+26.02.2017;Lyon;Metz;5;0;Ligue 1;Fair;SSE;5 mph;39 °F;70 %;29.27 in
+26.02.2017;Marsilya;PSG;1;5;Ligue 1;Fair;ESE;5 mph;39 °F;75 %;30.12 in
+17.02.2017;Bastia;Monaco;1;1;Ligue 1;Mostly Cloudy;NNW;7 mph;50 °F;87 %;30.35 in
+18.02.2017;Marsilya;Rennes;2;0;Ligue 1;Fair;NNW;8 mph;54 °F;51 %;30.12 in
+18.02.2017;Lorient;Nice;0;1;Ligue 1;Fair;ESE;5 mph;43 °F;87 %;30.16 in
+18.02.2017;Angers;Nancy;1;0;Ligue 1;Fair;NNW;7 mph;48 °F;82 %;30.11 in
+18.02.2017;Caen;Lille;0;1;Ligue 1;Fair;S;5 mph;45 °F;81 %;29.69 in
+18.02.2017;Metz;Nantes;1;1;Ligue 1;Fair;S;5 mph;45 °F;81 %;29.69 in
+19.02.2017;Bordeaux;Guingamp;3;0;Ligue 1;Fair;SE;6 mph;46 °F;76 %;29.66 in
+19.02.2017;Montpellier;St Etienne;2;1;Ligue 1;Fair;SE;6 mph;46 °F;76 %;29.66 in
+19.02.2017;Lyon;Dijon;4;2;Ligue 1;Fair;SE;6 mph;37 °F;81 %;29.39 in
+19.02.2017;PSG;Toulouse;0;0;Ligue 1;Patches of Fog;CALM;0 mph;36 °F;93 %;29.93 in
+10.02.2017;Bordeaux;PSG;0;3;Ligue 1;Fair;ESE;5 mph;37 °F;81 %;29.43 in
+11.02.2017;Guingamp;Lyon;2;1;Ligue 1;Mist;NNW;6 mph;32 °F;69 %;29.78 in
+11.02.2017;Nancy;Montpellier;0;3;Ligue 1;Mist;NNW;8 mph;32 °F;100 %;29.43 in
+11.02.2017;Lille;Angers;1;2;Ligue 1;Mist;NNE;6 mph;32 °F;87 %;29.94 in
+11.02.2017;Dijon;Caen;2;0;Ligue 1;Mostly Cloudy;NNE;10 mph;39 °F;75 %;29.84 in
+11.02.2017;Toulouse;Bastia;4;1;Ligue 1;Fair;ESE;7 mph;45 °F;81 %;29.43 in
+11.02.2017;Monaco;Metz;5;0;Ligue 1;Mostly Cloudy;NNW;8 mph;46 °F;81 %;30.08 in
+12.02.2017;Rennes;Nice;2;2;Ligue 1;Cloudy;NE;8 mph;37 °F;81 %;29.93 in
+12.02.2017;St Etienne;Lorient;4;0;Ligue 1;Mist;NE;5 mph;34 °F;87 %;29.91 in
+12.02.2017;Nantes;Marsilya;3;2;Ligue 1;Fair;E;8 mph;36 °F;93 %;29.70 in
+07.02.2017;Montpellier;Monaco;1;2;Ligue 1;Light Drizzle;CALM;0 mph;45 °F;87 %;29.61 in
+07.02.2017;Caen;Bordeaux;0;4;Ligue 1;Light Drizzle;CALM;0 mph;45 °F;87 %;29.61 in
+07.02.2017;PSG;Lille;2;1;Ligue 1;Mostly Cloudy;S;7 mph;43 °F;81 %;29.69 in
+08.02.2017;Lorient;Toulouse;1;1;Ligue 1;Fair;WNW;3 mph;37 °F;93 %;29.99 in
+08.02.2017;Nice;St Etienne;1;0;Ligue 1;Mostly Cloudy;NW;9 mph;48 °F;71 %;29.88 in
+08.02.2017;Lyon;Nancy;4;0;Ligue 1;Mist;CALM;0 mph;41 °F;100 %;29.19 in
+08.02.2017;Angers;Rennes;0;0;Ligue 1;Mostly Cloudy;NW;9 mph;48 °F;71 %;29.88 in
+08.02.2017;Metz;Dijon;2;1;Ligue 1;Mostly Cloudy;W;14 mph;45 °F;87 %;29.55 in
+08.02.2017;Marsilya;Guingamp;2;0;Ligue 1;Fair;NW;13 mph;52 °F;62 %;29.89 in
+01.03.2017;Bastia;Nantes;2;2;Ligue 1;Fair;W;16 mph;50 °F;58 %;29.64 in
+03.02.2017;Metz;Marsilya;1;0;Ligue 1;Partly Cloudy;NW;15 mph;46 °F;76 %;29.37 in
+04.02.2017;Monaco;Nice;3;0;Ligue 1;Fair;W;7 mph;48 °F;87 %;29.82 in
+04.02.2017;Bordeaux;Rennes;1;1;Ligue 1;Fair;SE;13 mph;46 °F;81 %;29.17 in
+04.02.2017;Lille;Lorient;0;1;Ligue 1;Mostly Cloudy;SW;12 mph;45 °F;87 %;29.29 in
+04.02.2017;Montpellier;Bastia;2;1;Ligue 1;Fair;SE;13 mph;46 °F;81 %;29.17 in
+04.02.2017;Dijon;PSG;1;3;Ligue 1;Fair;SE;6 mph;43 °F;87 %;28.97 in
+04.02.2017;Guingamp;Caen;0;1;Ligue 1;Fair;SSW;12 mph;45 °F;81 %;29.25 in
+05.02.2017;Toulouse;Angers;4;0;Ligue 1;Rain;SE;9 mph;48 °F;87 %;29.17 in
+05.02.2017;Nantes;Nancy;0;2;Ligue 1;Fair;SE;7 mph;41 °F;93 %;29.03 in
+05.02.2017;St Etienne;Lyon;2;0;Ligue 1;Mist;VAR;2 mph;39 °F;100 %;29.41 in
+27.01.2017;Marsilya;Montpellier;5;1;Ligue 1;Mostly Cloudy;E;20 mph;52 °F;76 %;30.12 in
+28.01.2017;Lyon;Lille;1;2;Ligue 1;Fair;SE;8 mph;37 °F;65 %;29.16 in
+28.01.2017;Nancy;Bordeaux;0;2;Ligue 1;Fair;SE;16 mph;37 °F;75 %;29.37 in
+28.01.2017;Lorient;Dijon;2;3;Ligue 1;Fair;SE;8 mph;45 °F;76 %;29.64 in
+28.01.2017;Bastia;Caen;1;1;Ligue 1;Mostly Cloudy / Windy;ENE;26 mph;55 °F;67 %;30.11 in
+28.01.2017;Angers;Metz;2;1;Ligue 1;Mostly Cloudy / Windy;ENE;26 mph;55 °F;67 %;30.11 in
+28.01.2017;Rennes;Nantes;1;1;Ligue 1;Fair;SE;8 mph;45 °F;76 %;29.64 in
+29.01.2017;Nice;Guingamp;3;1;Ligue 1;Light Rain;NNW;7 mph;50 °F;82 %;30.14 in
+29.01.2017;Toulouse;St Etienne;0;3;Ligue 1;Fair;S;5 mph;36 °F;93 %;29.69 in
+29.01.2017;PSG;Monaco;1;1;Ligue 1;Partly Cloudy;S;6 mph;37 °F;87 %;29.75 in
+20.01.2017;Bastia;Nice;1;1;Ligue 1;Fair;NNW;13 mph;39 °F;56 %;30.29 in
+21.01.2017;Nantes;PSG;0;2;Ligue 1;Fair;SE;6 mph;27 °F;86 %;29.96 in
+21.01.2017;Bordeaux;Toulouse;1;0;Ligue 1;Fair;E;5 mph;39 °F;70 %;29.69 in
+21.01.2017;Dijon;Lille;0;0;Ligue 1;Fair;SE;6 mph;27 °F;86 %;29.96 in
+21.01.2017;Guingamp;Rennes;1;1;Ligue 1;Fair;VAR;1 mph;27 °F;74 %;30.01 in
+21.01.2017;Metz;Montpellier;2;0;Ligue 1;Fair;E;5 mph;39 °F;70 %;29.69 in
+22.01.2017;Monaco;Lorient;4;0;Ligue 1;Fair / Windy;E;24 mph;57 °F;48 %;30.08 in
+22.01.2017;St Etienne;Angers;2;1;Ligue 1;Mist;CALM;0 mph;27 °F;86 %;30.14 in
+22.01.2017;Lyon;Marsilya;3;1;Ligue 1;Mist;CALM;0 mph;23 °F;93 %;29.42 in
+21.02.2017;Caen;Nancy;1;0;Ligue 1;Partly Cloudy;S;5 mph;39 °F;93 %;29.81 in
+13.01.2017;Lille;St Etienne;1;1;Ligue 1;Snow / Windy;NW;35 mph;34 °F;100 %;29.03 in
+14.01.2017;Rennes;PSG;0;1;Ligue 1;Mostly Cloudy;WNW;6 mph;36 °F;75 %;30.02 in
+14.01.2017;Nancy;Bastia;1;0;Ligue 1;Fair;WNW;16 mph;36 °F;87 %;29.26 in
+14.01.2017;Lorient;Guingamp;3;1;Ligue 1;Mostly Cloudy;WNW;6 mph;36 °F;75 %;30.02 in
+14.01.2017;Montpellier;Dijon;1;1;Ligue 1;Fair;W;13 mph;37 °F;87 %;29.64 in
+14.01.2017;Toulouse;Nantes;0;1;Ligue 1;Fair;W;13 mph;37 °F;87 %;29.64 in
+14.01.2017;Angers;Bordeaux;1;1;Ligue 1;Fair / Windy;WNW;25 mph;45 °F;34 %;29.76 in
+15.01.2017;Nice;Metz;0;0;Ligue 1;Mostly Cloudy;NW;8 mph;45 °F;53 %;29.82 in
+15.01.2017;Caen;Lyon;3;2;Ligue 1;Fair;W;12 mph;37 °F;81 %;29.72 in
+15.01.2017;Marsilya;Monaco;1;4;Ligue 1;Fair / Windy;NW;21 mph;37 °F;60 %;30.00 in
+21.12.2016;St Etienne;Nancy;0;0;Ligue 1;Fair;SSW;8 mph;37 °F;87 %;30.02 in
+21.12.2016;Bordeaux;Nice;0;0;Ligue 1;Fair;VAR;2 mph;39 °F;81 %;29.78 in
+21.12.2016;Lille;Rennes;1;1;Ligue 1;Fair;SSW;8 mph;37 °F;87 %;30.02 in
+21.12.2016;Lyon;Angers;2;0;Ligue 1;Cloudy;NNE;2 mph;36 °F;93 %;29.42 in
+21.12.2016;PSG;Lorient;5;0;Ligue 1;Fair;SW;5 mph;36 °F;87 %;29.93 in
+21.12.2016;Bastia;Marsilya;1;2;Ligue 1;Mostly Cloudy;N;13 mph;54 °F;58 %;30.06 in
+21.12.2016;Dijon;Toulouse;2;0;Ligue 1;Light Rain;SW;12 mph;46 °F;93 %;29.78 in
+21.12.2016;Monaco;Caen;2;1;Ligue 1;Mostly Cloudy;N;13 mph;54 °F;58 %;30.06 in
+21.12.2016;Nantes;Montpellier;1;0;Ligue 1;Light Rain;SW;12 mph;46 °F;93 %;29.78 in
+21.12.2016;Metz;Guingamp;2;2;Ligue 1;Fair;VAR;2 mph;39 °F;81 %;29.78 in
+16.12.2016;Angers;Nantes;0;2;Ligue 1;Mostly Cloudy;NNW;7 mph;52 °F;71 %;30.23 in
+17.12.2016;Guingamp;PSG;2;1;Ligue 1;Fair;CALM;0 mph;37 °F;93 %;30.13 in
+17.12.2016;Lorient;St Etienne;2;1;Ligue 1;Fog;W;2 mph;36 °F;100 %;30.34 in
+17.12.2016;Montpellier;Bordeaux;4;0;Ligue 1;Mostly Cloudy;ESE;15 mph;54 °F;82 %;29.84 in
+17.12.2016;Toulouse;Nancy;1;1;Ligue 1;Mostly Cloudy;ESE;15 mph;54 °F;82 %;29.84 in
+17.12.2016;Rennes;Bastia;1;2;Ligue 1;Fog;W;2 mph;36 °F;100 %;30.34 in
+18.12.2016;Caen;Metz;3;0;Ligue 1;Fair;S;5 mph;37 °F;93 %;30.04 in
+18.12.2016;Nice;Dijon;2;1;Ligue 1;Fair;NNW;15 mph;43 °F;70 %;30.53 in
+18.12.2016;Marsilya;Lille;2;0;Ligue 1;Fair;VAR;2 mph;41 °F;87 %;30.53 in
+18.12.2016;Monaco;Lyon;1;3;Ligue 1;Fair;NNW;15 mph;43 °F;70 %;30.53 in
+10.12.2016;Dijon;Marsilya;1;2;Ligue 1;Cloudy;SSW;13 mph;55 °F;82 %;29.90 in
+10.12.2016;Bordeaux;Monaco;0;4;Ligue 1;Fog;S;3 mph;43 °F;93 %;29.87 in
+10.12.2016;Nancy;Angers;2;0;Ligue 1;Fair;S;7 mph;36 °F;93 %;29.75 in
+10.12.2016;Lille;Montpellier;2;1;Ligue 1;Fair;S;5 mph;43 °F;93 %;30.11 in
+10.12.2016;Bastia;Metz;2;0;Ligue 1;Fair;NNW;10 mph;45 °F;66 %;30.38 in
+10.12.2016;Toulouse;Lorient;3;2;Ligue 1;Fog;S;3 mph;43 °F;93 %;29.87 in
+11.12.2016;Lyon;Rennes;1;0;Ligue 1;Fair;VAR;2 mph;32 °F;87 %;29.45 in
+11.12.2016;St Etienne;Guingamp;1;0;Ligue 1;Fair;SSW;13 mph;48 °F;87 %;29.91 in
+11.12.2016;PSG;Nice;2;2;Ligue 1;Patches of Fog;SW;5 mph;39 °F;100 %;29.90 in
+18.01.2017;Nantes;Caen;1;0;Ligue 1;Fair;ENE;5 mph;32 °F;80 %;30.19 in
+02.12.2016;Caen;Dijon;3;3;Ligue 1;Mist;S;2 mph;36 °F;93 %;29.66 in
+03.12.2016;Montpellier;PSG;3;0;Ligue 1;Fog;CALM;0 mph;32 °F;93 %;29.46 in
+03.12.2016;Bordeaux;Lille;0;1;Ligue 1;Fog;CALM;0 mph;32 °F;93 %;29.46 in
+03.12.2016;Angers;Lorient;2;2;Ligue 1;Mostly Cloudy;NW;9 mph;48 °F;76 %;29.94 in
+03.12.2016;Monaco;Bastia;5;0;Ligue 1;Mostly Cloudy;NW;9 mph;48 °F;76 %;29.94 in
+03.12.2016;Guingamp;Nantes;2;0;Ligue 1;Mist;NE;9 mph;43 °F;93 %;29.84 in
+04.12.2016;Rennes;St Etienne;2;0;Ligue 1;Cloudy;ESE;14 mph;39 °F;81 %;29.90 in
+04.12.2016;Marsilya;Nancy;3;0;Ligue 1;Fair;ESE;8 mph;48 °F;82 %;30.06 in
+04.12.2016;Nice;Toulouse;3;0;Ligue 1;Mostly Cloudy;NNW;8 mph;52 °F;71 %;30.11 in
+05.04.2017;Metz;Lyon;0;3;Ligue 1;Fair;W;14 mph;54 °F;62 %;29.69 in
+29.11.2016;Lorient;Rennes;2;1;Ligue 1;Fair;NE;8 mph;36 °F;65 %;30.14 in
+29.11.2016;Lille;Caen;4;2;Ligue 1;Fair;NE;9 mph;30 °F;86 %;30.29 in
+29.11.2016;Dijon;Monaco;1;1;Ligue 1;Fair;ENE;13 mph;39 °F;65 %;29.90 in
+30.11.2016;Nancy;Metz;4;0;Ligue 1;Fair;NNE;7 mph;25 °F;86 %;29.86 in
+30.11.2016;St Etienne;Marsilya;0;0;Ligue 1;Fog;NNW;5 mph;41 °F;81%;30.24 in
+30.11.2016;Bastia;Bordeaux;1;1;Ligue 1;Fog;NNW;7 mph;40 °F;78%;30.24 in
+30.11.2016;Toulouse;Montpellier;1;0;Ligue 1;Fog;NNW;9 mph;42 °F;93%;30.24 in
+30.11.2016;Nantes;Lyon;0;6;Ligue 1;Fog;NNW;9 mph;60 °F;93%;30.24 in
+30.11.2016;Guingamp;Nice;0;1;Ligue 1;Fog;NNW;8 mph;55 °F;92%;30.24 in
+30.11.2016;PSG;Angers;2;0;Ligue 1;Fog;NNW;9 mph;40 °F;82%;30.24 in
+25.11.2016;Rennes;Toulouse;1;0;Ligue 1;Fog;NNW;5 mph;57 °F;90%;30.24 in
+26.11.2016;Monaco;Marsilya;4;0;Ligue 1;Fog;NNW;9 mph;50 °F;89%;30.24 in
+26.11.2016;Bordeaux;Dijon;3;2;Ligue 1;Fog;NNW;5 mph;63 °F;92%;30.24 in
+26.11.2016;Montpellier;Nancy;0;0;Ligue 1;Fog;NNW;10 mph;50 °F;82%;30.24 in
+26.11.2016;Nantes;Lille;0;0;Ligue 1;Fog;NNW;6 mph;52 °F;78%;30.24 in
+26.11.2016;Caen;Guingamp;1;1;Ligue 1;Fog;NNW;10 mph;48 °F;78%;30.24 in
+26.11.2016;Metz;Lorient;3;3;Ligue 1;Fog;NNW;7 mph;51 °F;98%;30.24 in
+27.11.2016;Angers;St Etienne;1;2;Ligue 1;Fog;NNW;7 mph;56 °F;90%;30.24 in
+27.11.2016;Nice;Bastia;1;1;Ligue 1;Fog;NNW;5 mph;47 °F;98%;30.24 in
+27.11.2016;Lyon;PSG;1;2;Ligue 1;Fog;NNW;6 mph;45 °F;98%;30.24 in
+18.11.2016;Lorient;Monaco;0;3;Ligue 1;Fog;NNW;10 mph;52 °F;79%;30.24 in
+18.11.2016;Lille;Lyon;0;1;Ligue 1;Fog;NNW;7 mph;60 °F;84%;30.24 in
+19.11.2016;PSG;Nantes;2;0;Ligue 1;Fog;NNW;8 mph;60 °F;89%;30.24 in
+19.11.2016;Nancy;Dijon;1;0;Ligue 1;Fog;NNW;5 mph;65 °F;96%;30.24 in
+19.11.2016;Bastia;Montpellier;1;1;Ligue 1;Fog;NNW;8 mph;43 °F;82%;30.24 in
+19.11.2016;Toulouse;Metz;1;2;Ligue 1;Fog;NNW;7 mph;57 °F;94%;30.24 in
+19.11.2016;Rennes;Angers;1;1;Ligue 1;Fog;NNW;5 mph;42 °F;84%;30.24 in
+20.11.2016;Guingamp;Bordeaux;1;1;Ligue 1;Fog;NNW;5 mph;62 °F;100%;30.24 in
+20.11.2016;Marsilya;Caen;1;0;Ligue 1;Fog;NNW;7 mph;43 °F;85%;30.24 in
+20.11.2016;St Etienne;Nice;0;1;Ligue 1;Fog;NNW;5 mph;64 °F;93%;30.24 in
+04.11.2016;Montpellier;Marsilya;3;1;Ligue 1;Fog;NNW;7 mph;60 °F;88%;30.24 in
+05.11.2016;Monaco;Nancy;6;0;Ligue 1;Fog;NNW;10 mph;42 °F;76%;30.24 in
+05.11.2016;Bordeaux;Lorient;2;1;Ligue 1;Fog;NNW;7 mph;49 °F;85%;30.24 in
+05.11.2016;Lyon;Bastia;2;1;Ligue 1;Fog;NNW;10 mph;52 °F;83%;30.24 in
+05.11.2016;Dijon;Guingamp;3;3;Ligue 1;Fog;NNW;5 mph;52 °F;87%;30.24 in
+05.11.2016;Angers;Lille;1;0;Ligue 1;Fog;NNW;7 mph;48 °F;75%;30.24 in
+05.11.2016;Nantes;Toulouse;1;1;Ligue 1;Fog;NNW;9 mph;49 °F;98%;30.24 in
+06.11.2016;Caen;Nice;1;0;Ligue 1;Fog;NNW;9 mph;46 °F;91%;30.24 in
+06.11.2016;Metz;St Etienne;0;0;Ligue 1;Fog;NNW;9 mph;44 °F;99%;30.24 in
+06.11.2016;PSG;Rennes;4;0;Ligue 1;Fog;NNW;6 mph;50 °F;79%;30.24 in
+28.10.2016;Lille;PSG;0;1;Ligue 1;Fog;NNW;9 mph;63 °F;94%;30.24 in
+29.10.2016;Toulouse;Lyon;1;2;Ligue 1;Fog;NNW;7 mph;65 °F;92%;30.24 in
+29.10.2016;Nancy;Caen;2;0;Ligue 1;Fog;NNW;5 mph;52 °F;93%;30.24 in
+29.10.2016;St Etienne;Monaco;1;1;Ligue 1;Fog;NNW;7 mph;53 °F;77%;30.24 in
+29.10.2016;Lorient;Montpellier;2;2;Ligue 1;Fog;NNW;6 mph;48 °F;93%;30.24 in
+29.10.2016;Bastia;Dijon;0;0;Ligue 1;Fog;NNW;8 mph;65 °F;89%;30.24 in
+29.10.2016;Guingamp;Angers;1;0;Ligue 1;Fog;NNW;8 mph;65 °F;96%;30.24 in
+30.10.2016;Nice;Nantes;4;1;Ligue 1;Fog;NNW;6 mph;63 °F;82%;30.24 in
+30.10.2016;Rennes;Metz;1;0;Ligue 1;Fog;NNW;7 mph;60 °F;79%;30.24 in
+30.10.2016;Marsilya;Bordeaux;0;0;Ligue 1;Fog;NNW;6 mph;45 °F;87%;30.24 in
+21.10.2016;Monaco;Montpellier;6;2;Ligue 1;Fog;NNW;5 mph;55 °F;97%;30.24 in
+22.10.2016;Lyon;Guingamp;1;3;Ligue 1;Fog;NNW;9 mph;46 °F;96%;30.24 in
+22.10.2016;Bordeaux;Nancy;1;1;Ligue 1;Fog;NNW;9 mph;40 °F;96%;30.24 in
+22.10.2016;Lille;Bastia;2;1;Ligue 1;Fog;NNW;9 mph;58 °F;77%;30.24 in
+22.10.2016;Dijon;Lorient;1;0;Ligue 1;Fog;NNW;6 mph;44 °F;87%;30.24 in
+22.10.2016;Angers;Toulouse;0;0;Ligue 1;Fog;NNW;10 mph;61 °F;90%;30.24 in
+22.10.2016;Nantes;Rennes;1;2;Ligue 1;Fog;NNW;9 mph;54 °F;82%;30.24 in
+23.10.2016;Caen;St Etienne;0;2;Ligue 1;Fog;NNW;7 mph;63 °F;78%;30.24 in
+23.10.2016;Metz;Nice;2;4;Ligue 1;Fog;NNW;8 mph;52 °F;89%;30.24 in
+23.10.2016;PSG;Marsilya;0;0;Ligue 1;Fog;NNW;8 mph;58 °F;90%;30.24 in
+14.10.2016;Toulouse;Monaco;3;1;Ligue 1;Fog;NNW;7 mph;49 °F;96%;30.24 in
+14.10.2016;Nice;Lyon;2;0;Ligue 1;Fog;NNW;5 mph;45 °F;77%;30.24 in
+15.10.2016;Nancy;PSG;1;2;Ligue 1;Fog;NNW;7 mph;56 °F;100%;30.24 in
+15.10.2016;Lorient;Nantes;1;2;Ligue 1;Fog;NNW;9 mph;63 °F;87%;30.24 in
+15.10.2016;Montpellier;Caen;3;2;Ligue 1;Fog;NNW;8 mph;49 °F;93%;30.24 in
+15.10.2016;Bastia;Angers;1;2;Ligue 1;Fog;NNW;5 mph;48 °F;80%;30.24 in
+15.10.2016;Guingamp;Lille;1;0;Ligue 1;Fog;NNW;6 mph;64 °F;82%;30.24 in
+16.10.2016;Rennes;Bordeaux;1;1;Ligue 1;Fog;NNW;7 mph;45 °F;90%;30.24 in
+16.10.2016;St Etienne;Dijon;1;1;Ligue 1;Fog;NNW;7 mph;55 °F;99%;30.24 in
+16.10.2016;Marsilya;Metz;1;0;Ligue 1;Fog;NNW;6 mph;53 °F;82%;30.24 in
+30.09.2016;Rennes;Guingamp;1;0;Ligue 1;Fog;NNW;7 mph;59 °F;86%;30.24 in
+01.10.2016;PSG;Bordeaux;2;0;Ligue 1;Fog;NNW;7 mph;48 °F;76%;30.24 in
+01.10.2016;Lille;Nancy;1;0;Ligue 1;Fog;NNW;5 mph;42 °F;100%;30.24 in
+01.10.2016;Dijon;Montpellier;3;3;Ligue 1;Fog;NNW;5 mph;46 °F;83%;30.24 in
+01.10.2016;Nantes;Bastia;1;0;Ligue 1;Fog;NNW;9 mph;61 °F;95%;30.24 in
+01.10.2016;Caen;Toulouse;1;0;Ligue 1;Fog;NNW;7 mph;49 °F;93%;30.24 in
+01.10.2016;Metz;Monaco;0;7;Ligue 1;Fog;NNW;7 mph;51 °F;97%;30.24 in
+02.10.2016;Angers;Marsilya;1;1;Ligue 1;Fog;NNW;8 mph;62 °F;77%;30.24 in
+02.10.2016;Nice;Lorient;2;1;Ligue 1;Fog;NNW;10 mph;57 °F;99%;30.24 in
+02.10.2016;Lyon;St Etienne;2;0;Ligue 1;Fog;NNW;10 mph;51 °F;87%;30.24 in
+23.09.2016;Toulouse;PSG;2;0;Ligue 1;Fog;NNW;9 mph;48 °F;83%;30.24 in
+24.09.2016;Lorient;Lyon;1;0;Ligue 1;Fog;NNW;6 mph;62 °F;75%;30.24 in
+24.09.2016;Bordeaux;Caen;0;0;Ligue 1;Fog;NNW;6 mph;55 °F;96%;30.24 in
+24.09.2016;Montpellier;Metz;0;1;Ligue 1;Fog;NNW;9 mph;54 °F;99%;30.24 in
+24.09.2016;Bastia;Guingamp;1;0;Ligue 1;Fog;NNW;10 mph;63 °F;88%;30.24 in
+24.09.2016;Dijon;Rennes;3;0;Ligue 1;Fog;NNW;8 mph;46 °F;96%;30.24 in
+24.09.2016;Monaco;Angers;2;1;Ligue 1;Fog;NNW;9 mph;56 °F;78%;30.24 in
+25.09.2016;St Etienne;Lille;3;1;Ligue 1;Fog;NNW;8 mph;45 °F;82%;30.24 in
+25.09.2016;Nancy;Nice;0;1;Ligue 1;Fog;NNW;6 mph;41 °F;82%;30.24 in
+25.09.2016;Marsilya;Nantes;2;1;Ligue 1;Fog;NNW;5 mph;52 °F;92%;30.24 in
+20.09.2016;Lille;Toulouse;1;2;Ligue 1;Fog;NNW;7 mph;50 °F;81%;30.24 in
+20.09.2016;PSG;Dijon;3;0;Ligue 1;Fog;NNW;10 mph;59 °F;90%;30.24 in
+21.09.2016;Nice;Monaco;4;0;Ligue 1;Fog;NNW;6 mph;48 °F;96%;30.24 in
+21.09.2016;Lyon;Montpellier;5;1;Ligue 1;Fog;NNW;6 mph;43 °F;89%;30.24 in
+21.09.2016;Bastia;Nancy;0;0;Ligue 1;Fog;NNW;9 mph;42 °F;90%;30.24 in
+21.09.2016;Angers;Caen;2;1;Ligue 1;Fog;NNW;8 mph;53 °F;100%;30.24 in
+21.09.2016;Nantes;St Etienne;0;0;Ligue 1;Fog;NNW;5 mph;62 °F;87%;30.24 in
+21.09.2016;Guingamp;Lorient;1;0;Ligue 1;Fog;NNW;9 mph;42 °F;93%;30.24 in
+21.09.2016;Metz;Bordeaux;0;3;Ligue 1;Fog;NNW;9 mph;59 °F;95%;30.24 in
+21.09.2016;Rennes;Marsilya;3;2;Ligue 1;Fog;NNW;8 mph;54 °F;89%;30.24 in
+16.09.2016;Caen;PSG;0;6;Ligue 1;Fog;NNW;10 mph;57 °F;88%;30.24 in
+17.09.2016;Monaco;Rennes;3;0;Ligue 1;Fog;NNW;6 mph;63 °F;99%;30.24 in
+17.09.2016;Nancy;Nantes;1;1;Ligue 1;Fog;NNW;10 mph;61 °F;90%;30.24 in
+17.09.2016;Lorient;Lille;1;0;Ligue 1;Fog;NNW;5 mph;62 °F;88%;30.24 in
+17.09.2016;Bordeaux;Angers;0;1;Ligue 1;Fog;NNW;8 mph;59 °F;98%;30.24 in
+17.09.2016;Dijon;Metz;0;0;Ligue 1;Fog;NNW;8 mph;56 °F;95%;30.24 in
+17.09.2016;Toulouse;Guingamp;2;1;Ligue 1;Fog;NNW;7 mph;53 °F;92%;30.24 in
+18.09.2016;Montpellier;Nice;1;1;Ligue 1;Fog;NNW;7 mph;58 °F;82%;30.24 in
+18.09.2016;St Etienne;Bastia;1;0;Ligue 1;Fog;NNW;6 mph;63 °F;94%;30.24 in
+18.09.2016;Marsilya;Lyon;0;0;Ligue 1;Fog;NNW;10 mph;51 °F;92%;30.24 in
+09.09.2016;PSG;St Etienne;1;1;Ligue 1;Fog;NNW;8 mph;44 °F;98%;30.24 in
+10.09.2016;Lyon;Bordeaux;1;3;Ligue 1;Fog;NNW;8 mph;63 °F;89%;30.24 in
+10.09.2016;Lorient;Nancy;0;2;Ligue 1;Fog;NNW;5 mph;42 °F;79%;30.24 in
+10.09.2016;Lille;Monaco;1;4;Ligue 1;Fog;NNW;6 mph;49 °F;77%;30.24 in
+10.09.2016;Bastia;Toulouse;2;1;Ligue 1;Fog;NNW;9 mph;59 °F;99%;30.24 in
+10.09.2016;Angers;Dijon;3;1;Ligue 1;Fog;NNW;7 mph;43 °F;86%;30.24 in
+10.09.2016;Guingamp;Montpellier;1;1;Ligue 1;Fog;NNW;8 mph;52 °F;87%;30.24 in
+11.09.2016;Nantes;Metz;0;3;Ligue 1;Fog;NNW;10 mph;58 °F;100%;30.24 in
+11.09.2016;Rennes;Caen;2;0;Ligue 1;Fog;NNW;8 mph;50 °F;87%;30.24 in
+11.09.2016;Nice;Marsilya;3;2;Ligue 1;Fog;NNW;10 mph;56 °F;85%;30.24 in
+26.08.2016;Marsilya;Lorient;2;0;Ligue 1;Fog;NNW;9 mph;45 °F;78%;30.24 in
+27.08.2016;Dijon;Lyon;4;2;Ligue 1;Fog;NNW;9 mph;54 °F;90%;30.24 in
+27.08.2016;Nancy;Guingamp;0;2;Ligue 1;Fog;NNW;6 mph;65 °F;87%;30.24 in
+27.08.2016;Montpellier;Rennes;1;1;Ligue 1;Fog;NNW;10 mph;52 °F;100%;30.24 in
+27.08.2016;Nice;Lille;1;1;Ligue 1;Fog;NNW;10 mph;61 °F;100%;30.24 in
+27.08.2016;Caen;Bastia;2;0;Ligue 1;Fog;NNW;10 mph;48 °F;87%;30.24 in
+27.08.2016;Metz;Angers;2;0;Ligue 1;Fog;NNW;7 mph;55 °F;88%;30.24 in
+28.08.2016;Bordeaux;Nantes;1;0;Ligue 1;Fog;NNW;7 mph;55 °F;79%;30.24 in
+28.08.2016;St Etienne;Toulouse;0;0;Ligue 1;Fog;NNW;10 mph;51 °F;87%;30.24 in
+28.08.2016;Monaco;PSG;3;1;Ligue 1;Fog;NNW;7 mph;50 °F;81%;30.24 in
+19.08.2016;Lyon;Caen;2;0;Ligue 1;Fog;NNW;10 mph;65 °F;77%;30.24 in
+20.08.2016;Nantes;Monaco;0;1;Ligue 1;Fog;NNW;6 mph;62 °F;80%;30.24 in
+20.08.2016;Lorient;Bastia;0;3;Ligue 1;Fog;NNW;10 mph;48 °F;99%;30.24 in
+20.08.2016;Lille;Dijon;1;0;Ligue 1;Fog;NNW;7 mph;47 °F;89%;30.24 in
+20.08.2016;Toulouse;Bordeaux;4;1;Ligue 1;Fog;NNW;6 mph;65 °F;100%;30.24 in
+20.08.2016;Angers;Nice;0;1;Ligue 1;Fog;NNW;9 mph;62 °F;92%;30.24 in
+20.08.2016;Rennes;Nancy;2;0;Ligue 1;Fog;NNW;6 mph;65 °F;91%;30.24 in
+21.08.2016;Guingamp;Marsilya;2;1;Ligue 1;Fog;NNW;6 mph;42 °F;80%;30.24 in
+21.08.2016;St Etienne;Montpellier;3;1;Ligue 1;Fog;NNW;8 mph;48 °F;100%;30.24 in
+21.08.2016;PSG;Metz;3;0;Ligue 1;Fog;NNW;9 mph;48 °F;77%;30.24 in
+12.08.2016;Bastia;PSG;0;1;Ligue 1;Fog;NNW;10 mph;42 °F;79%;30.24 in
+12.08.2016;Monaco;Guingamp;2;2;Ligue 1;Fog;NNW;8 mph;56 °F;84%;30.24 in
+13.08.2016;Bordeaux;St Etienne;3;2;Ligue 1;Fog;NNW;6 mph;44 °F;100%;30.24 in
+13.08.2016;Montpellier;Angers;1;0;Ligue 1;Fog;NNW;5 mph;55 °F;80%;30.24 in
+13.08.2016;Dijon;Nantes;0;1;Ligue 1;Fog;NNW;10 mph;51 °F;77%;30.24 in
+13.08.2016;Caen;Lorient;3;2;Ligue 1;Fog;NNW;5 mph;46 °F;89%;30.24 in
+13.08.2016;Metz;Lille;3;2;Ligue 1;Fog;NNW;9 mph;54 °F;93%;30.24 in
+14.08.2016;Nancy;Lyon;0;3;Ligue 1;Fog;NNW;9 mph;53 °F;99%;30.24 in
+14.08.2016;Nice;Rennes;1;0;Ligue 1;Fog;NNW;6 mph;41 °F;84%;30.24 in
+14.08.2016;Marsilya;Toulouse;0;0;Ligue 1;Fog;NNW;8 mph;58 °F;80%;30.24 in
