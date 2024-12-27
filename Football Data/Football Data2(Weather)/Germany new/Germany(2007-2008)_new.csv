@@ -1,0 +1,307 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+17.05.2008;Nürnberg;Schalke 04;0;2;Bundesliga;Fair;NNW;9 mph;55 °F;77%;29.68 in
+17.05.2008;B. Leverkusen;Werder Bremen;0;1;Bundesliga;Fair;NNW;9 mph;55 °F;77%;29.68 in
+17.05.2008;Bayern Münih;Hertha Berlin;4;1;Bundesliga;Fair;ENE;3 mph;61 °F;72%;28.20 in
+17.05.2008;Stuttgart;A. Bielefeld;2;2;Bundesliga;Mostly Cloudy;VAR;1 mph;57 °F;77%;28.29 in
+17.05.2008;Hannover 96;E. Cottbus;4;0;Bundesliga;Fair;NNW;9 mph;55 °F;77%;29.68 in
+17.05.2008;B. Dortmund;Wolfsburg;2;4;Bundesliga;Mostly Cloudy;NE;6 mph;54 °F;100%;29.23 in
+17.05.2008;Hamburg;Karlsruher;7;0;Bundesliga;Fair;NNW;9 mph;55 °F;77%;29.68 in
+17.05.2008;Bochum;H. Rostock;1;2;Bundesliga;Mostly Cloudy;NE;6 mph;54 °F;100%;29.23 in
+17.05.2008;E. Frankfurt;Duisburg;4;2;Bundesliga;Fair;ENE;7 mph;59 °F;77%;29.31 in
+10.05.2008;Wolfsburg;Stuttgart;4;0;Bundesliga;Fair;WSW;10 mph;58 °F;84%;30.06 in
+10.05.2008;Duisburg;Bayern Münih;2;3;Bundesliga;Fair;ENE;7 mph;57 °F;72%;30.06 in
+10.05.2008;H. Rostock;B. Leverkusen;1;2;Bundesliga;Fair;ENE;7 mph;57 °F;72%;30.06 in
+10.05.2008;Hertha Berlin;Nürnberg;1;0;Bundesliga;Fair;ENE;7 mph;57 °F;72%;30.06 in
+10.05.2008;E. Cottbus;Hamburg;2;0;Bundesliga;Fair;ENE;7 mph;57 °F;72%;30.06 in
+10.05.2008;Karlsruher;Bochum;1;3;Bundesliga;Fair;ENE;7 mph;57 °F;72%;30.06 in
+10.05.2008;A. Bielefeld;B. Dortmund;2;2;Bundesliga;Fair;ENE;7 mph;57 °F;72%;30.06 in
+10.05.2008;Werder Bremen;Hannover 96;6;1;Bundesliga;Fair;E;7 mph;61 °F;52%;30.03 in
+10.05.2008;Schalke 04;E. Frankfurt;1;0;Bundesliga;Fair;ENE;7 mph;57 °F;72%;30.06 in
+6.05.2008;B. Dortmund;Stuttgart;3;2;Bundesliga;Fair;ENE;5 mph;48 °F;87%;29.87 in
+6.05.2008;Bochum;Schalke 04;0;3;Bundesliga;Fair;ENE;5 mph;48 °F;87%;29.87 in
+6.05.2008;Karlsruher;E. Cottbus;1;1;Bundesliga;Fair;NE;2 mph;50 °F;71%;30.33 in
+6.05.2008;Hannover 96;H. Rostock;3;0;Bundesliga;Fair;NE;2 mph;50 °F;71%;30.33 in
+7.05.2008;Hamburg;Werder Bremen;0;1;Bundesliga;Fair;NNW;2 mph;52 °F;76%;30.24 in
+7.05.2008;B. Leverkusen;Hertha Berlin;1;2;Bundesliga;Fair;E;7 mph;61 °F;59%;29.86 in
+7.05.2008;Bayern Münih;A. Bielefeld;2;0;Bundesliga;Fair;ENE;6 mph;48 °F;93%;28.64 in
+7.05.2008;E. Frankfurt;Wolfsburg;2;3;Bundesliga;Fair;NNE;7 mph;59 °F;63%;29.81 in
+7.05.2008;Nürnberg;Duisburg;2;0;Bundesliga;Fair;NNW;2 mph;52 °F;76%;30.24 in
+2.05.2008;B. Dortmund;Nürnberg;0;0;Bundesliga;Fair;S;9 mph;46 °F;81%;29.61 in
+3.05.2008;H. Rostock;Hamburg;1;3;Bundesliga;Fair;NW;2 mph;46 °F;87%;30.18 in
+3.05.2008;A. Bielefeld;Bochum;2;0;Bundesliga;Fair;NW;2 mph;46 °F;87%;30.18 in
+3.05.2008;Schalke 04;Hannover 96;1;1;Bundesliga;Fair;NW;2 mph;46 °F;87%;30.18 in
+3.05.2008;Werder Bremen;E. Cottbus;2;0;Bundesliga;Fair;W;2 mph;43 °F;93%;30.24 in
+3.05.2008;Stuttgart;E. Frankfurt;4;1;Bundesliga;Fair;NW;5 mph;54 °F;62%;28.77 in
+3.05.2008;Hertha Berlin;Karlsruher;3;1;Bundesliga;Fair;NW;2 mph;46 °F;87%;30.18 in
+4.05.2008;Wolfsburg;Bayern Münih;0;0;Bundesliga;Fair;WSW;6 mph;55 °F;79%;30.06 in
+4.05.2008;Duisburg;B. Leverkusen;3;2;Bundesliga;Fair;N;1 mph;48 °F;87%;30.30 in
+25.04.2008;E. Frankfurt;B. Dortmund;1;1;Bundesliga;Fair;VAR;2 mph;50 °F;71%;29.81 in
+26.04.2008;Hamburg;Schalke 04;0;1;Bundesliga;Fair;W;5 mph;48 °F;87%;30.27 in
+26.04.2008;Karlsruher;Werder Bremen;3;3;Bundesliga;Fair;W;5 mph;48 °F;87%;30.27 in
+26.04.2008;Hannover 96;Hertha Berlin;2;2;Bundesliga;Fair;W;5 mph;48 °F;87%;30.27 in
+26.04.2008;Nürnberg;A. Bielefeld;2;2;Bundesliga;Fair;W;5 mph;48 °F;87%;30.27 in
+26.04.2008;E. Cottbus;H. Rostock;2;1;Bundesliga;Fair;W;5 mph;48 °F;87%;30.27 in
+26.04.2008;Bochum;Duisburg;1;1;Bundesliga;Fair;S;9 mph;45 °F;93%;29.90 in
+27.04.2008;Bayern Münih;Stuttgart;4;1;Bundesliga;Fair;ENE;3 mph;45 °F;81%;28.76 in
+27.04.2008;B. Leverkusen;Wolfsburg;2;2;Bundesliga;Fair;ESE;6 mph;55 °F;58%;29.91 in
+15.04.2008;H. Rostock;Werder Bremen;1;2;Bundesliga;Fair;NNW;5 mph;41 °F;93%;29.92 in
+15.04.2008;Hertha Berlin;Hamburg;0;0;Bundesliga;Fair;NNW;5 mph;41 °F;93%;29.92 in
+15.04.2008;Wolfsburg;Bochum;0;1;Bundesliga;Fair;WSW;10 mph;41 °F;72%;30.06 in
+15.04.2008;Schalke 04;E. Cottbus;5;0;Bundesliga;Fair;NNW;5 mph;41 °F;93%;29.92 in
+16.04.2008;E. Frankfurt;Bayern Münih;1;3;Bundesliga;Fair;VAR;1 mph;43 °F;81%;29.75 in
+16.04.2008;A. Bielefeld;B. Leverkusen;1;0;Bundesliga;Fair;NW;3 mph;37 °F;87%;30.09 in
+16.04.2008;Stuttgart;Nürnberg;3;0;Bundesliga;Mostly Cloudy;W;7 mph;41 °F;76%;28.68 in
+16.04.2008;B. Dortmund;Hannover 96;1;3;Bundesliga;Partly Cloudy;WSW;3 mph;34 °F;100%;29.73 in
+16.04.2008;Duisburg;Karlsruher;0;1;Bundesliga;Fair;NW;3 mph;37 °F;87%;30.09 in
+12.04.2008;Werder Bremen;Schalke 04;5;1;Bundesliga;Fair;S;3 mph;37 °F;100%;29.56 in
+12.04.2008;Bochum;Hertha Berlin;1;1;Bundesliga;Fair;SW;12 mph;39 °F;81%;29.23 in
+12.04.2008;E. Cottbus;A. Bielefeld;1;0;Bundesliga;Mostly Cloudy;WSW;5 mph;41 °F;100%;29.53 in
+12.04.2008;Hannover 96;E. Frankfurt;2;1;Bundesliga;Mostly Cloudy;WSW;5 mph;41 °F;100%;29.53 in
+12.04.2008;Karlsruher;H. Rostock;1;2;Bundesliga;Mostly Cloudy;WSW;5 mph;41 °F;100%;29.53 in
+12.04.2008;Hamburg;Duisburg;0;1;Bundesliga;Mostly Cloudy;WSW;5 mph;41 °F;100%;29.53 in
+13.04.2008;B. Leverkusen;Stuttgart;3;0;Bundesliga;Fair;SSE;8 mph;43 °F;81%;29.51 in
+13.04.2008;Bayern Münih;B. Dortmund;5;0;Bundesliga;Fair;SW;3 mph;43 °F;76%;28.39 in
+20.04.2008;Nürnberg;Wolfsburg;1;0;Bundesliga;Mostly Cloudy;ENE;6 mph;41 °F;87%;29.74 in
+4.04.2008;Duisburg;E. Cottbus;0;1;Bundesliga;Mostly Cloudy;W;8 mph;45 °F;93%;30.24 in
+5.04.2008;Hertha Berlin;Werder Bremen;1;2;Bundesliga;Cloudy;WSW;8 mph;46 °F;93%;29.95 in
+5.04.2008;E. Frankfurt;Nürnberg;1;3;Bundesliga;Mostly Cloudy;ESE;2 mph;45 °F;100%;29.75 in
+5.04.2008;Stuttgart;Hamburg;1;0;Bundesliga;Fair;WSW;3 mph;43 °F;76%;28.68 in
+5.04.2008;Wolfsburg;Hannover 96;3;2;Bundesliga;Fair;WSW;6 mph;56 °F;70%;30.06 in
+5.04.2008;A. Bielefeld;Karlsruher;1;0;Bundesliga;Cloudy;WSW;8 mph;46 °F;93%;29.95 in
+5.04.2008;Schalke 04;H. Rostock;1;0;Bundesliga;Cloudy;WSW;8 mph;46 °F;93%;29.95 in
+6.04.2008;B. Dortmund;B. Leverkusen;2;1;Bundesliga;Mostly Cloudy;W;5 mph;37 °F;93%;29.15 in
+6.04.2008;Bayern Münih;Bochum;3;1;Bundesliga;Mostly Cloudy;ENE;3 mph;43 °F;81%;28.08 in
+28.03.2008;H. Rostock;Wolfsburg;0;1;Bundesliga;Fair;ESE;6 mph;37 °F;70%;29.68 in
+29.03.2008;Karlsruher;Schalke 04;0;0;Bundesliga;Mostly Cloudy;SSE;13 mph;45 °F;81%;29.53 in
+29.03.2008;Nürnberg;Bayern Münih;1;1;Bundesliga;Mostly Cloudy;SSE;13 mph;45 °F;81%;29.53 in
+29.03.2008;Bochum;B. Dortmund;3;3;Bundesliga;Mostly Cloudy / Windy;WSW;23 mph;45 °F;71%;29.35 in
+29.03.2008;Hamburg;A. Bielefeld;1;1;Bundesliga;Mostly Cloudy;SSE;13 mph;45 °F;81%;29.53 in
+29.03.2008;B. Leverkusen;E. Frankfurt;0;2;Bundesliga;Mostly Cloudy;SSW;12 mph;45 °F;81%;29.33 in
+29.03.2008;Werder Bremen;Duisburg;1;2;Bundesliga;Mostly Cloudy;SSW;17 mph;46 °F;76%;29.53 in
+30.03.2008;Hannover 96;Stuttgart;0;0;Bundesliga;Fair;SSE;10 mph;43 °F;76%;29.89 in
+30.03.2008;E. Cottbus;Hertha Berlin;2;1;Bundesliga;Fair;SSE;10 mph;43 °F;76%;29.89 in
+20.03.2008;E. Frankfurt;E. Cottbus;2;1;Bundesliga;Fair;WNW;10 mph;37 °F;75%;29.64 in
+22.03.2008;Bayern Münih;B. Leverkusen;2;1;Bundesliga;Fair;WSW;15 mph;34 °F;87%;27.61 in
+22.03.2008;Wolfsburg;Hamburg;1;1;Bundesliga;Fair;WSW;5 mph;41 °F;88%;30.06 in
+22.03.2008;Nürnberg;Bochum;1;1;Bundesliga;Mostly Cloudy;NW;3 mph;37 °F;93%;28.80 in
+22.03.2008;Duisburg;Hannover 96;1;1;Bundesliga;Mostly Cloudy;NW;3 mph;37 °F;93%;28.80 in
+22.03.2008;B. Dortmund;Karlsruher;1;1;Bundesliga;Mostly Cloudy;SW;5 mph;34 °F;100%;28.56 in
+22.03.2008;Stuttgart;H. Rostock;4;1;Bundesliga;Mostly Cloudy;SW;10 mph;34 °F;81%;27.67 in
+23.03.2008;Hertha Berlin;Schalke 04;1;2;Bundesliga;Fair;NNW;10 mph;28 °F;69%;29.42 in
+23.03.2008;A. Bielefeld;Werder Bremen;1;1;Bundesliga;Fair;NNW;10 mph;28 °F;69%;29.42 in
+14.03.2008;Schalke 04;Duisburg;2;1;Bundesliga;Partly Cloudy;WSW;8 mph;41 °F;87%;29.71 in
+15.03.2008;Bochum;Stuttgart;1;1;Bundesliga;Fair;SSE;10 mph;34 °F;87%;29.47 in
+15.03.2008;E. Cottbus;Bayern Münih;2;0;Bundesliga;Fair;W;7 mph;39 °F;93%;29.83 in
+15.03.2008;Hamburg;B. Dortmund;1;0;Bundesliga;Fair;W;7 mph;39 °F;93%;29.83 in
+15.03.2008;H. Rostock;Hertha Berlin;0;0;Bundesliga;Fair;W;7 mph;39 °F;93%;29.83 in
+15.03.2008;Hannover 96;A. Bielefeld;2;2;Bundesliga;Fair;W;7 mph;39 °F;93%;29.83 in
+15.03.2008;Karlsruher;E. Frankfurt;0;1;Bundesliga;Fair;W;7 mph;39 °F;93%;29.83 in
+16.03.2008;B. Leverkusen;Nürnberg;4;1;Bundesliga;Fair;E;6 mph;50 °F;76%;29.21 in
+16.03.2008;Werder Bremen;Wolfsburg;0;1;Bundesliga;Fair;ENE;7 mph;41 °F;87%;29.62 in
+7.03.2008;B. Dortmund;Hertha Berlin;1;1;Bundesliga;Mostly Cloudy;SSW;12 mph;43 °F;87%;29.55 in
+8.03.2008;A. Bielefeld;Schalke 04;0;2;Bundesliga;Mostly Cloudy;WSW;9 mph;45 °F;87%;29.77 in
+8.03.2008;Stuttgart;Werder Bremen;6;3;Bundesliga;Mostly Cloudy;WSW;5 mph;41 °F;76%;28.43 in
+8.03.2008;E. Frankfurt;Bochum;1;1;Bundesliga;Mostly Cloudy;SSW;3 mph;43 °F;93%;29.52 in
+8.03.2008;Wolfsburg;E. Cottbus;3;0;Bundesliga;Fair;WSW;6 mph;44 °F;67%;30.06 in
+8.03.2008;Bayern Münih;Karlsruher;2;0;Bundesliga;Fair;SW;8 mph;34 °F;70%;28.31 in
+8.03.2008;Duisburg;H. Rostock;1;1;Bundesliga;Mostly Cloudy;WSW;9 mph;45 °F;87%;29.77 in
+9.03.2008;Nürnberg;Hamburg;0;0;Bundesliga;Fair;S;10 mph;46 °F;53%;29.59 in
+9.03.2008;B. Leverkusen;Hannover 96;2;0;Bundesliga;Fair;SE;9 mph;41 °F;76%;29.42 in
+29.02.2008;Hertha Berlin;Duisburg;2;0;Bundesliga;Fair;WSW;6 mph;43 °F;81%;29.98 in
+1.03.2008;Schalke 04;Bayern Münih;0;1;Bundesliga;Mostly Cloudy;SSW;14 mph;43 °F;93%;29.12 in
+1.03.2008;Hannover 96;Nürnberg;2;1;Bundesliga;Mostly Cloudy;SSW;14 mph;43 °F;93%;29.12 in
+1.03.2008;Werder Bremen;B. Dortmund;2;0;Bundesliga;Cloudy / Windy;SW;25 mph;46 °F;87%;29.20 in
+1.03.2008;H. Rostock;A. Bielefeld;1;1;Bundesliga;Mostly Cloudy;SSW;14 mph;43 °F;93%;29.12 in
+1.03.2008;Karlsruher;Wolfsburg;3;1;Bundesliga;Mostly Cloudy;SSW;14 mph;43 °F;93%;29.12 in
+2.03.2008;Bochum;B. Leverkusen;2;0;Bundesliga;Mostly Cloudy / Windy;WSW;23 mph;46 °F;93%;29.09 in
+2.03.2008;Hamburg;E. Frankfurt;4;1;Bundesliga;Fair;W;15 mph;41 °F;81%;29.39 in
+11.03.2008;E. Cottbus;Stuttgart;0;1;Bundesliga;Fair;SSE;16 mph;48 °F;71%;29.00 in
+22.02.2008;Bochum;Hannover 96;2;1;Bundesliga;Mostly Cloudy;WSW;16 mph;46 °F;81%;29.70 in
+23.02.2008;B. Leverkusen;Schalke 04;1;0;Bundesliga;Mostly Cloudy;WSW;16 mph;50 °F;82%;29.91 in
+23.02.2008;E. Frankfurt;Werder Bremen;1;0;Bundesliga;Mostly Cloudy;W;13 mph;50 °F;76%;29.90 in
+23.02.2008;Wolfsburg;Hertha Berlin;0;0;Bundesliga;Fair;WSW;7 mph;55 °F;84%;30.06 in
+23.02.2008;Stuttgart;Karlsruher;3;1;Bundesliga;Mostly Cloudy;SW;9 mph;50 °F;66%;28.88 in
+23.02.2008;B. Dortmund;H. Rostock;1;0;Bundesliga;Fair;W;9 mph;45 °F;66%;29.84 in
+23.02.2008;A. Bielefeld;Duisburg;0;2;Bundesliga;Mostly Cloudy / Windy;W;22 mph;48 °F;66%;29.86 in
+24.02.2008;Bayern Münih;Hamburg;1;1;Bundesliga;Fair;N;1 mph;36 °F;93%;28.73 in
+24.02.2008;Nürnberg;E. Cottbus;1;1;Bundesliga;Mostly Cloudy;WSW;16 mph;50 °F;82%;30.03 in
+15.02.2008;Schalke 04;Wolfsburg;1;2;Bundesliga;Fair;N;2 mph;28 °F;93%;30.59 in
+16.02.2008;Duisburg;Stuttgart;2;3;Bundesliga;Fair;VAR;1 mph;25 °F;80%;30.77 in
+16.02.2008;Karlsruher;B. Leverkusen;2;2;Bundesliga;Fair;VAR;1 mph;25 °F;80%;30.77 in
+16.02.2008;Werder Bremen;Nürnberg;2;0;Bundesliga;Fair;NNE;2 mph;27 °F;80%;30.80 in
+16.02.2008;E. Cottbus;B. Dortmund;0;2;Bundesliga;Fair;VAR;1 mph;25 °F;80%;30.77 in
+16.02.2008;Hertha Berlin;A. Bielefeld;1;0;Bundesliga;Fair;VAR;1 mph;25 °F;80%;30.77 in
+16.02.2008;H. Rostock;E. Frankfurt;1;0;Bundesliga;Fair;VAR;1 mph;25 °F;80%;30.77 in
+17.02.2008;Hannover 96;Bayern Münih;0;3;Bundesliga;Fair;SSW;2 mph;23 °F;93%;30.74 in
+17.02.2008;Hamburg;Bochum;3;0;Bundesliga;Fair;SSW;2 mph;23 °F;93%;30.74 in
+8.02.2008;E. Frankfurt;A. Bielefeld;2;1;Bundesliga;Fair;VAR;1 mph;36 °F;81%;30.28 in
+9.02.2008;B. Leverkusen;Hamburg;1;1;Bundesliga;Fair;E;5 mph;39 °F;65%;30.21 in
+9.02.2008;Stuttgart;Hertha Berlin;1;3;Bundesliga;Fair;WSW;1 mph;36 °F;65%;29.07 in
+9.02.2008;Bochum;E. Cottbus;3;3;Bundesliga;Fair;SE;5 mph;41 °F;42%;30.11 in
+9.02.2008;Hannover 96;Karlsruher;2;2;Bundesliga;Fair;SE;3 mph;37 °F;87%;30.51 in
+9.02.2008;Nürnberg;H. Rostock;1;1;Bundesliga;Fair;SE;3 mph;37 °F;87%;30.51 in
+9.02.2008;Wolfsburg;Duisburg;2;1;Bundesliga;Fair;WSW;10 mph;44 °F;80%;30.06 in
+10.02.2008;B. Dortmund;Schalke 04;2;3;Bundesliga;Fair;SE;5 mph;34 °F;81%;30.11 in
+10.02.2008;Bayern Münih;Werder Bremen;1;1;Bundesliga;Fair;ENE;7 mph;34 °F;75%;28.95 in
+1.02.2008;H. Rostock;Bayern Münih;1;2;Bundesliga;Mostly Cloudy / Windy;SSW;23 mph;39 °F;87%;29.27 in
+2.02.2008;E. Cottbus;B. Leverkusen;2;3;Bundesliga;Fair / Windy;SW;21 mph;39 °F;75%;29.21 in
+2.02.2008;Karlsruher;Nürnberg;2;0;Bundesliga;Fair / Windy;SW;21 mph;39 °F;75%;29.21 in
+2.02.2008;Duisburg;B. Dortmund;3;3;Bundesliga;Fair / Windy;SW;21 mph;39 °F;75%;29.21 in
+2.02.2008;Hamburg;Hannover 96;1;1;Bundesliga;Fair / Windy;SW;21 mph;39 °F;75%;29.21 in
+2.02.2008;Hertha Berlin;E. Frankfurt;0;3;Bundesliga;Fair / Windy;SW;21 mph;39 °F;75%;29.21 in
+2.02.2008;A. Bielefeld;Wolfsburg;0;1;Bundesliga;Fair / Windy;SW;21 mph;39 °F;75%;29.21 in
+3.02.2008;Schalke 04;Stuttgart;4;1;Bundesliga;Fair;SW;13 mph;34 °F;87%;29.95 in
+3.02.2008;Werder Bremen;Bochum;1;2;Bundesliga;Fair;SSW;13 mph;34 °F;81%;30.00 in
+14.12.2007;E. Cottbus;Hannover 96;5;1;Bundesliga;Mostly Cloudy;NNW;3 mph;37 °F;93%;30.68 in
+15.12.2007;Schalke 04;Nürnberg;2;1;Bundesliga;Mostly Cloudy;NNW;3 mph;37 °F;81%;30.62 in
+15.12.2007;Werder Bremen;B. Leverkusen;5;2;Bundesliga;Mostly Cloudy;N;5 mph;37 °F;81%;30.65 in
+15.12.2007;Hertha Berlin;Bayern Münih;0;0;Bundesliga;Mostly Cloudy;NNW;3 mph;37 °F;81%;30.62 in
+15.12.2007;A. Bielefeld;Stuttgart;2;0;Bundesliga;Mostly Cloudy;NNW;3 mph;37 °F;81%;30.62 in
+15.12.2007;Wolfsburg;B. Dortmund;4;0;Bundesliga;Fair;WSW;7 mph;51 °F;72%;30.06 in
+15.12.2007;Karlsruher;Hamburg;1;1;Bundesliga;Mostly Cloudy;NNW;3 mph;37 °F;81%;30.62 in
+16.12.2007;H. Rostock;Bochum;2;0;Bundesliga;Fair;E;6 mph;28 °F;86%;30.68 in
+16.12.2007;Duisburg;E. Frankfurt;0;1;Bundesliga;Fair;E;6 mph;28 °F;86%;30.68 in
+7.12.2007;B. Dortmund;A. Bielefeld;6;1;Bundesliga;Mostly Cloudy / Windy;WSW;30 mph;54 °F;88%;28.86 in
+8.12.2007;Stuttgart;Wolfsburg;3;1;Bundesliga;Mostly Cloudy;SSE;3 mph;41 °F;87%;28.26 in
+8.12.2007;Bayern Münih;Duisburg;0;0;Bundesliga;Mostly Cloudy;SW;5 mph;43 °F;87%;28.14 in
+8.12.2007;Hamburg;E. Cottbus;0;0;Bundesliga;Mostly Cloudy / Windy;W;22 mph;43 °F;87%;29.27 in
+8.12.2007;Bochum;Karlsruher;2;2;Bundesliga;Mostly Cloudy;WSW;14 mph;43 °F;81%;29.26 in
+8.12.2007;Hannover 96;Werder Bremen;4;3;Bundesliga;Mostly Cloudy / Windy;W;22 mph;43 °F;87%;29.27 in
+8.12.2007;E. Frankfurt;Schalke 04;2;2;Bundesliga;Fair;SSW;7 mph;39 °F;93%;29.29 in
+9.12.2007;B. Leverkusen;H. Rostock;3;0;Bundesliga;Mostly Cloudy;S;16 mph;43 °F;81%;28.95 in
+9.12.2007;Nürnberg;Hertha Berlin;2;1;Bundesliga;Fair;SSE;17 mph;41 °F;76%;29.24 in
+30.11.2007;H. Rostock;Hannover 96;0;3;Bundesliga;Mostly Cloudy;W;10 mph;43 °F;81%;29.47 in
+1.12.2007;Stuttgart;B. Dortmund;1;2;Bundesliga;Mostly Cloudy;SSW;7 mph;43 °F;81%;28.43 in
+1.12.2007;Schalke 04;Bochum;1;0;Bundesliga;Mostly Cloudy;SSW;14 mph;46 °F;93%;29.50 in
+1.12.2007;Werder Bremen;Hamburg;2;1;Bundesliga;Cloudy;SSW;13 mph;48 °F;93%;29.53 in
+1.12.2007;Hertha Berlin;B. Leverkusen;0;3;Bundesliga;Mostly Cloudy;SSW;14 mph;46 °F;93%;29.50 in
+1.12.2007;E. Cottbus;Karlsruher;2;0;Bundesliga;Mostly Cloudy;SSW;14 mph;46 °F;93%;29.50 in
+1.12.2007;Wolfsburg;E. Frankfurt;2;2;Bundesliga;Fair;WSW;9 mph;43 °F;67%;30.06 in
+2.12.2007;A. Bielefeld;Bayern Münih;0;1;Bundesliga;Partly Cloudy;SSW;17 mph;45 °F;81%;29.50 in
+2.12.2007;Duisburg;Nürnberg;1;0;Bundesliga;Partly Cloudy;SSW;17 mph;45 °F;81%;29.50 in
+23.11.2007;Karlsruher;Hertha Berlin;2;1;Bundesliga;Fair;SW;7 mph;43 °F;93%;29.62 in
+24.11.2007;Bayern Münih;Wolfsburg;2;1;Bundesliga;Mostly Cloudy;WSW;5 mph;39 °F;93%;28.50 in
+24.11.2007;B. Leverkusen;Duisburg;4;1;Bundesliga;Fair;WNW;5 mph;34 °F;100%;29.89 in
+24.11.2007;Bochum;A. Bielefeld;3;0;Bundesliga;Partly Cloudy;SW;5 mph;36 °F;93%;29.79 in
+24.11.2007;Hannover 96;Schalke 04;2;3;Bundesliga;Mostly Cloudy;NW;14 mph;41 °F;81%;30.00 in
+24.11.2007;E. Cottbus;Werder Bremen;0;2;Bundesliga;Mostly Cloudy;NW;14 mph;41 °F;81%;30.00 in
+24.11.2007;E. Frankfurt;Stuttgart;1;4;Bundesliga;Mostly Cloudy;N;9 mph;43 °F;81%;29.78 in
+25.11.2007;Nürnberg;B. Dortmund;2;0;Bundesliga;Mostly Cloudy;SSW;17 mph;39 °F;93%;29.77 in
+25.11.2007;Hamburg;H. Rostock;2;0;Bundesliga;Mostly Cloudy;SSW;17 mph;39 °F;93%;29.77 in
+9.11.2007;Duisburg;Bochum;0;2;Bundesliga;Mostly Cloudy;W;10 mph;46 °F;81%;29.39 in
+10.11.2007;Stuttgart;Bayern Münih;3;1;Bundesliga;Mostly Cloudy;W;14 mph;37 °F;87%;28.65 in
+10.11.2007;Schalke 04;Hamburg;1;1;Bundesliga;Mostly Cloudy;WNW;13 mph;39 °F;81%;29.71 in
+10.11.2007;Werder Bremen;Karlsruher;4;0;Bundesliga;Mostly Cloudy;W;13 mph;39 °F;87%;29.82 in
+10.11.2007;B. Dortmund;E. Frankfurt;1;1;Bundesliga;Mostly Cloudy;W;14 mph;39 °F;93%;29.44 in
+10.11.2007;Hertha Berlin;Hannover 96;1;0;Bundesliga;Mostly Cloudy;WNW;13 mph;39 °F;81%;29.71 in
+10.11.2007;H. Rostock;E. Cottbus;3;2;Bundesliga;Mostly Cloudy;WNW;13 mph;39 °F;81%;29.71 in
+11.11.2007;A. Bielefeld;Nürnberg;3;1;Bundesliga;Mostly Cloudy;WSW;9 mph;39 °F;87%;29.65 in
+11.11.2007;Wolfsburg;B. Leverkusen;1;2;Bundesliga;Fair;WSW;7 mph;42 °F;81%;30.06 in
+2.11.2007;E. Cottbus;Schalke 04;1;0;Bundesliga;Mostly Cloudy;W;7 mph;54 °F;100%;30.27 in
+3.11.2007;Werder Bremen;H. Rostock;1;0;Bundesliga;Mostly Cloudy;W;8 mph;54 °F;100%;30.32 in
+3.11.2007;Bayern Münih;E. Frankfurt;0;0;Bundesliga;Cloudy;ENE;3 mph;45 °F;93%;28.84 in
+3.11.2007;B. Leverkusen;A. Bielefeld;4;0;Bundesliga;Cloudy;W;3 mph;54 °F;100%;30.09 in
+3.11.2007;Nürnberg;Stuttgart;0;1;Bundesliga;Mostly Cloudy;W;6 mph;48 °F;100%;30.30 in
+3.11.2007;Hamburg;Hertha Berlin;2;1;Bundesliga;Mostly Cloudy;W;6 mph;48 °F;100%;30.30 in
+3.11.2007;Hannover 96;B. Dortmund;2;1;Bundesliga;Mostly Cloudy;W;6 mph;48 °F;100%;30.30 in
+4.11.2007;Bochum;Wolfsburg;5;3;Bundesliga;Mostly Cloudy;WNW;3 mph;46 °F;93%;29.84 in
+4.11.2007;Karlsruher;Duisburg;1;0;Bundesliga;Mostly Cloudy;WNW;12 mph;50 °F;87%;30.12 in
+26.10.2007;E. Frankfurt;Hannover 96;0;0;Bundesliga;Mostly Cloudy;NE;9 mph;48 °F;76%;29.78 in
+27.10.2007;Stuttgart;B. Leverkusen;1;0;Bundesliga;Mostly Cloudy;W;5 mph;46 °F;71%;28.74 in
+27.10.2007;Schalke 04;Werder Bremen;1;1;Bundesliga;Mostly Cloudy;ENE;5 mph;48 °F;87%;30.18 in
+27.10.2007;Hertha Berlin;Bochum;2;0;Bundesliga;Mostly Cloudy;ENE;5 mph;48 °F;87%;30.18 in
+27.10.2007;A. Bielefeld;E. Cottbus;1;1;Bundesliga;Mostly Cloudy;ENE;5 mph;48 °F;87%;30.18 in
+27.10.2007;Wolfsburg;Nürnberg;3;1;Bundesliga;Fair;WSW;7 mph;47 °F;73%;30.06 in
+27.10.2007;H. Rostock;Karlsruher;0;0;Bundesliga;Mostly Cloudy;ENE;5 mph;48 °F;87%;30.18 in
+28.10.2007;B. Dortmund;Bayern Münih;0;0;Bundesliga;Mostly Cloudy;SSW;3 mph;45 °F;81%;29.82 in
+28.10.2007;Duisburg;Hamburg;0;1;Bundesliga;Fair;SSW;5 mph;39 °F;93%;30.27 in
+19.10.2007;E. Cottbus;Duisburg;1;2;Bundesliga;Fair;WNW;7 mph;43 °F;87%;30.27 in
+20.10.2007;Werder Bremen;Hertha Berlin;3;2;Bundesliga;Fair;N;7 mph;41 °F;65%;30.50 in
+20.10.2007;B. Leverkusen;B. Dortmund;2;2;Bundesliga;Fair;NNW;2 mph;37 °F;93%;30.18 in
+20.10.2007;Nürnberg;E. Frankfurt;5;1;Bundesliga;Fair;NNW;6 mph;41 °F;81%;30.48 in
+20.10.2007;Hamburg;Stuttgart;4;1;Bundesliga;Fair;NNW;6 mph;41 °F;81%;30.48 in
+20.10.2007;Bochum;Bayern Münih;1;2;Bundesliga;Fair;WSW;1 mph;34 °F;93%;30.11 in
+20.10.2007;H. Rostock;Schalke 04;1;1;Bundesliga;Fair;NNW;6 mph;41 °F;81%;30.48 in
+21.10.2007;Hannover 96;Wolfsburg;2;2;Bundesliga;Mostly Cloudy;W;6 mph;45 °F;87%;30.39 in
+21.10.2007;Karlsruher;A. Bielefeld;0;0;Bundesliga;Mostly Cloudy;W;6 mph;45 °F;87%;30.39 in
+5.10.2007;B. Dortmund;Bochum;2;1;Bundesliga;Fair;W;3 mph;48 °F;100%;29.76 in
+6.10.2007;Stuttgart;Hannover 96;0;2;Bundesliga;Mostly Cloudy;NE;5 mph;55 °F;77%;28.68 in
+6.10.2007;Schalke 04;Karlsruher;0;2;Bundesliga;Mostly Cloudy;NE;5 mph;52 °F;94%;30.24 in
+6.10.2007;Hertha Berlin;E. Cottbus;0;0;Bundesliga;Mostly Cloudy;NE;5 mph;52 °F;94%;30.24 in
+6.10.2007;A. Bielefeld;Hamburg;0;1;Bundesliga;Mostly Cloudy;NE;5 mph;52 °F;94%;30.24 in
+6.10.2007;Wolfsburg;H. Rostock;1;0;Bundesliga;Fair;WSW;7 mph;54 °F;79%;30.06 in
+6.10.2007;Duisburg;Werder Bremen;1;3;Bundesliga;Mostly Cloudy;NE;5 mph;52 °F;94%;30.24 in
+7.10.2007;Bayern Münih;Nürnberg;3;0;Bundesliga;Mostly Cloudy;ENE;6 mph;50 °F;82%;28.62 in
+7.10.2007;E. Frankfurt;B. Leverkusen;2;1;Bundesliga;Fair;NE;6 mph;48 °F;87%;29.81 in
+28.09.2007;Schalke 04;Hertha Berlin;1;0;Bundesliga;Mostly Cloudy;NE;16 mph;57 °F;88%;29.80 in
+29.09.2007;Werder Bremen;A. Bielefeld;8;1;Bundesliga;Mostly Cloudy;N;12 mph;55 °F;94%;29.59 in
+29.09.2007;B. Leverkusen;Bayern Münih;0;1;Bundesliga;Mostly Cloudy;SW;6 mph;54 °F;94%;29.39 in
+29.09.2007;Hamburg;Wolfsburg;2;2;Bundesliga;Mostly Cloudy;N;12 mph;55 °F;94%;29.56 in
+29.09.2007;Bochum;Nürnberg;3;3;Bundesliga;Mostly Cloudy;W;9 mph;54 °F;100%;29.23 in
+29.09.2007;Karlsruher;B. Dortmund;3;1;Bundesliga;Mostly Cloudy;N;12 mph;55 °F;94%;29.56 in
+29.09.2007;H. Rostock;Stuttgart;2;1;Bundesliga;Mostly Cloudy;N;12 mph;55 °F;94%;29.56 in
+30.09.2007;Hannover 96;Duisburg;2;1;Bundesliga;Mostly Cloudy;SSW;12 mph;55 °F;94%;29.71 in
+30.09.2007;E. Cottbus;E. Frankfurt;2;2;Bundesliga;Mostly Cloudy;SSW;12 mph;55 °F;94%;29.71 in
+25.09.2007;B. Dortmund;Hamburg;0;3;Bundesliga;Fair;SW;13 mph;50 °F;94%;29.47 in
+25.09.2007;Hertha Berlin;H. Rostock;1;3;Bundesliga;Mostly Cloudy;WSW;7 mph;57 °F;82%;29.83 in
+25.09.2007;Wolfsburg;Werder Bremen;1;1;Bundesliga;Fair;WSW;9 mph;40 °F;94%;30.06 in
+25.09.2007;Duisburg;Schalke 04;0;2;Bundesliga;Mostly Cloudy;WSW;7 mph;57 °F;82%;29.83 in
+26.09.2007;Stuttgart;Bochum;1;0;Bundesliga;Partly Cloudy;VAR;1 mph;48 °F;82%;28.57 in
+26.09.2007;Bayern Münih;E. Cottbus;5;0;Bundesliga;Mostly Cloudy;S;3 mph;46 °F;93%;28.50 in
+26.09.2007;Nürnberg;B. Leverkusen;1;2;Bundesliga;Fair;SW;8 mph;50 °F;87%;29.83 in
+26.09.2007;A. Bielefeld;Hannover 96;0;2;Bundesliga;Fair;SW;8 mph;50 °F;87%;29.83 in
+26.09.2007;E. Frankfurt;Karlsruher;0;1;Bundesliga;Fair;SW;2 mph;48 °F;93%;29.61 in
+21.09.2007;Bochum;E. Frankfurt;0;0;Bundesliga;Mostly Cloudy;S;9 mph;55 °F;67%;29.70 in
+22.09.2007;Schalke 04;A. Bielefeld;3;0;Bundesliga;Fair;SSE;7 mph;57 °F;82%;29.98 in
+22.09.2007;Werder Bremen;Stuttgart;4;1;Bundesliga;Fair;S;8 mph;54 °F;94%;30.00 in
+22.09.2007;Hamburg;Nürnberg;1;0;Bundesliga;Fair;SSE;7 mph;57 °F;82%;29.98 in
+22.09.2007;Hertha Berlin;B. Dortmund;3;2;Bundesliga;Fair;SSE;7 mph;57 °F;82%;29.98 in
+22.09.2007;E. Cottbus;Wolfsburg;1;2;Bundesliga;Fair;SSE;7 mph;57 °F;82%;29.98 in
+22.09.2007;H. Rostock;Duisburg;2;0;Bundesliga;Fair;SSE;7 mph;57 °F;82%;29.98 in
+23.09.2007;Hannover 96;B. Leverkusen;0;3;Bundesliga;Fair;E;1 mph;52 °F;94%;30.15 in
+23.09.2007;Karlsruher;Bayern Münih;1;4;Bundesliga;Fair;E;1 mph;52 °F;94%;30.15 in
+14.09.2007;B. Dortmund;Werder Bremen;3;0;Bundesliga;Partly Cloudy;;2 mph;48 °F;93%;29.64 in
+15.09.2007;Stuttgart;E. Cottbus;3;0;Bundesliga;Fair;WSW;6 mph;57 °F;77%;28.68 in
+15.09.2007;Bayern Münih;Schalke 04;1;1;Bundesliga;Fair;SW;6 mph;59 °F;88%;28.56 in
+15.09.2007;B. Leverkusen;Bochum;2;0;Bundesliga;Mostly Cloudy;NW;6 mph;57 °F;88%;29.80 in
+15.09.2007;Nürnberg;Hannover 96;2;2;Bundesliga;Partly Cloudy;W;9 mph;54 °F;88%;29.89 in
+15.09.2007;A. Bielefeld;H. Rostock;4;2;Bundesliga;Partly Cloudy;W;9 mph;54 °F;88%;29.89 in
+15.09.2007;E. Frankfurt;Hamburg;2;1;Bundesliga;Fair;SW;5 mph;64 °F;59%;29.69 in
+16.09.2007;Wolfsburg;Karlsruher;1;2;Bundesliga;Fair;WSW;5 mph;55 °F;82%;30.06 in
+16.09.2007;Duisburg;Hertha Berlin;1;2;Bundesliga;Fair;SW;7 mph;52 °F;82%;30.06 in
+31.08.2007;Schalke 04;B. Leverkusen;1;1;Bundesliga;Mostly Cloudy;W;9 mph;57 °F;94%;29.86 in
+1.09.2007;Werder Bremen;E. Frankfurt;2;1;Bundesliga;Fair;W;12 mph;55 °F;94%;29.91 in
+1.09.2007;Hertha Berlin;Wolfsburg;2;1;Bundesliga;Partly Cloudy;W;5 mph;55 °F;88%;29.83 in
+1.09.2007;Hannover 96;Bochum;3;2;Bundesliga;Partly Cloudy;W;5 mph;55 °F;88%;29.83 in
+1.09.2007;E. Cottbus;Nürnberg;1;1;Bundesliga;Partly Cloudy;W;5 mph;55 °F;88%;29.83 in
+1.09.2007;H. Rostock;B. Dortmund;0;1;Bundesliga;Partly Cloudy;W;5 mph;55 °F;88%;29.83 in
+1.09.2007;Duisburg;A. Bielefeld;3;0;Bundesliga;Partly Cloudy;W;5 mph;55 °F;88%;29.83 in
+2.09.2007;Hamburg;Bayern Münih;1;1;Bundesliga;Mostly Cloudy;W;8 mph;57 °F;88%;29.98 in
+2.09.2007;Karlsruher;Stuttgart;1;0;Bundesliga;Mostly Cloudy;W;8 mph;57 °F;88%;29.98 in
+24.08.2007;Bochum;Hamburg;2;1;Bundesliga;Fair;SSE;6 mph;59 °F;94%;29.67 in
+25.08.2007;Stuttgart;Duisburg;1;0;Bundesliga;Fair;W;5 mph;64 °F;68%;28.82 in
+25.08.2007;Bayern Münih;Hannover 96;3;0;Bundesliga;Fair;VAR;1 mph;57 °F;88%;28.73 in
+25.08.2007;B. Leverkusen;Karlsruher;3;0;Bundesliga;Fair;E;3 mph;63 °F;94%;29.91 in
+25.08.2007;Nürnberg;Werder Bremen;0;1;Bundesliga;Partly Cloudy;W;6 mph;61 °F;94%;30.18 in
+25.08.2007;B. Dortmund;E. Cottbus;3;0;Bundesliga;Fair;S;9 mph;61 °F;88%;29.84 in
+25.08.2007;A. Bielefeld;Hertha Berlin;2;0;Bundesliga;Partly Cloudy;W;6 mph;61 °F;94%;30.18 in
+26.08.2007;E. Frankfurt;H. Rostock;1;0;Bundesliga;Fair;VAR;1 mph;66 °F;83%;29.93 in
+26.08.2007;Wolfsburg;Schalke 04;1;1;Bundesliga;Fair;WSW;10 mph;41 °F;79%;30.06 in
+17.08.2007;Karlsruher;Hannover 96;1;2;Bundesliga;Fair;WSW;9 mph;57 °F;77%;29.83 in
+18.08.2007;Schalke 04;B. Dortmund;4;1;Bundesliga;Fair;SW;6 mph;54 °F;94%;29.98 in
+18.08.2007;Werder Bremen;Bayern Münih;0;4;Bundesliga;Fair;SSW;3 mph;52 °F;88%;30.00 in
+18.08.2007;Hertha Berlin;Stuttgart;3;1;Bundesliga;Fair;SW;6 mph;54 °F;94%;29.98 in
+18.08.2007;A. Bielefeld;E. Frankfurt;2;2;Bundesliga;Fair;SW;6 mph;54 °F;94%;29.98 in
+18.08.2007;H. Rostock;Nürnberg;1;2;Bundesliga;Fair;SW;6 mph;54 °F;94%;29.98 in
+18.08.2007;Duisburg;Wolfsburg;1;3;Bundesliga;Fair;SW;6 mph;54 °F;94%;29.98 in
+19.08.2007;Hamburg;B. Leverkusen;1;0;Bundesliga;Fair;NE;2 mph;57 °F;82%;29.92 in
+19.08.2007;E. Cottbus;Bochum;1;2;Bundesliga;Fair;NE;2 mph;57 °F;82%;29.92 in
+10.08.2007;Stuttgart;Schalke 04;2;2;Bundesliga;Mostly Cloudy;WSW;6 mph;57 °F;77%;28.46 in
+11.08.2007;Bayern Münih;H. Rostock;3;0;Bundesliga;Mostly Cloudy;W;8 mph;59 °F;88%;28.36 in
+11.08.2007;B. Leverkusen;E. Cottbus;0;0;Bundesliga;Mostly Cloudy;NW;9 mph;64 °F;100%;29.62 in
+11.08.2007;Bochum;Werder Bremen;2;2;Bundesliga;Mostly Cloudy;WNW;5 mph;57 °F;94%;29.50 in
+11.08.2007;Hannover 96;Hamburg;0;1;Bundesliga;Mostly Cloudy;WNW;12 mph;64 °F;100%;29.80 in
+11.08.2007;E. Frankfurt;Hertha Berlin;1;0;Bundesliga;Partly Cloudy;S;3 mph;63 °F;100%;29.52 in
+11.08.2007;Wolfsburg;A. Bielefeld;1;3;Bundesliga;Fair;WSW;8 mph;52 °F;85%;30.06 in
+12.08.2007;Nürnberg;Karlsruher;0;2;Bundesliga;Partly Cloudy;WNW;9 mph;61 °F;88%;29.77 in
+12.08.2007;B. Dortmund;Duisburg;1;3;Bundesliga;Fair;SSE;6 mph;52 °F;100%;29.44 in

@@ -1,0 +1,136 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+13.12.2024;Freiburg;Wolfsburg;3;2;Bundesliga;Fair;E;6 mph;34 °F;81 %;29.40 in
+14.12.2024;Augsburg;B. Leverkusen;0;2;Bundesliga;Fair;E;6 mph;34 °F;81 %;29.40 in
+14.12.2024;Mainz;Bayern Münih;2;1;Bundesliga;Cloudy;SSW;3 mph;36 °F;81 %;29.84 in
+14.12.2024;M'gladbach;Holstein Kiel;4;1;Bundesliga;Cloudy;S;8 mph;34 °F;81 %;30.05 in
+14.12.2024;Union Berlin;Bochum;1;1;Bundesliga;Cloudy;VAR;1 mph;30 °F;93 %;28.64 in
+14.12.2024;St. Pauli;Werder Bremen;0;2;Bundesliga;Cloudy;SSW;10 mph;32 °F;87 %;30.12 in
+15.12.2024;Heidenheim;Stuttgart;1;3;Bundesliga;Cloudy;WNW;8 mph;37 °F;75 %;28.74 in
+15.12.2024;B. Dortmund;Hoffenheim;1;1;Bundesliga;Cloudy;WSW;9 mph;41 °F;93 %;29.70 in
+15.12.2024;Leipzig;E. Frankfurt;2;1;Bundesliga;Light Rain / Windy;WSW;21 mph;36 °F;93 %;29.56 in
+06.12.2024;Stuttgart;Union Berlin;3;2;Bundesliga;Mostly Cloudy;SE;6 mph;41 °F;81 %;28.37 in
+07.12.2024;B. Leverkusen;St. Pauli;2;1;Bundesliga;Fair;S;10 mph;41 °F;76 %;29.62 in
+07.12.2024;Bayern Münih;Heidenheim;4;2;Bundesliga;Partly Cloudy;W;18 mph;41 °F;76 %;28.50 in
+07.12.2024;E. Frankfurt;Augsburg;2;2;Bundesliga;Fair;SSW;12 mph;43 °F;70 %;29.64 in
+07.12.2024;Bochum;Werder Bremen;0;1;Bundesliga;Fair;S;9 mph;41 °F;87 %;29.50 in
+07.12.2024;Holstein Kiel;Leipzig;0;2;Bundesliga;Light Drizzle;W;4 mph;40 °F;99 %;29.70 in
+07.12.2024;M'gladbach;B. Dortmund;1;1;Bundesliga;Fair;S;10 mph;41 °F;81 %;29.79 in
+08.12.2024;Wolfsburg;Mainz;4;3;Bundesliga;Cloudy;SE;9 mph;39 °F;93 %;29.24 in
+08.12.2024;Hoffenheim;Freiburg;1;1;Bundesliga;Cloudy;SSW;11 mph;45 °F;73 %;29.22 in
+29.11.2024;St. Pauli;Holstein Kiel;3;1;Bundesliga;Cloudy;WNW;6 mph;41 °F;87 %;30.33 in
+30.11.2024;Leipzig;Wolfsburg;1;5;Bundesliga;Fair;SE;7 mph;36 °F;81 %;30.06 in
+30.11.2024;Werder Bremen;Stuttgart;2;2;Bundesliga;Fair;SE;7 mph;32 °F;93 %;30.44 in
+30.11.2024;Freiburg;M'gladbach;3;1;Bundesliga;Fog;NW;3 mph;30 °F;100 %;29.45 in
+30.11.2024;Augsburg;Bochum;1;0;Bundesliga;Fair;NE;5 mph;28 °F;93 %;28.20 in
+30.11.2024;Union Berlin;B. Leverkusen;1;2;Bundesliga;Patches of Fog;NE;2 mph;27 °F;100 %;28.90 in
+30.11.2024;B. Dortmund;Bayern Münih;1;1;Bundesliga;Fair;ESE;5 mph;32 °F;93 %;29.99 in
+01.12.2024;Mainz;Hoffenheim;2;0;Bundesliga;Fair;E;3 mph;28 °F;93 %;29.98 in
+01.12.2024;Heidenheim;E. Frankfurt;0;4;Bundesliga;Fair;VAR;2 mph;27 °F;93 %;28.85 in
+22.11.2024;Bayern Münih;Augsburg;3;0;Bundesliga;Light Snow;N;6 mph;30 °F;93 %;27.78 in
+23.11.2024;B. Leverkusen;Heidenheim;5;2;Bundesliga;Mostly Cloudy;VAR;2 mph;34 °F;93 %;29.68 in
+23.11.2024;Stuttgart;Bochum;2;0;Bundesliga;Mostly Cloudy;WSW;10 mph;36 °F;75 %;28.57 in
+23.11.2024;B. Dortmund;Freiburg;4;0;Bundesliga;Fair;SW;14 mph;36 °F;93 %;29.50 in
+23.11.2024;Hoffenheim;Leipzig;4;3;Bundesliga;Cloudy;W;13 mph;40 °F;75 %;29.70 in
+23.11.2024;Wolfsburg;Union Berlin;1;0;Bundesliga;Fair;WSW;7 mph;32 °F;78 %;29.57 in
+23.11.2024;E. Frankfurt;Werder Bremen;1;0;Bundesliga;Mostly Cloudy;W;9 mph;39 °F;75 %;29.64 in
+24.11.2024;Holstein Kiel;Mainz;0;3;Bundesliga;Light Rain;S;13 mph;38 °F;93 %;29.56 in
+24.11.2024;M'gladbach;St. Pauli;2;0;Bundesliga;Cloudy;S;18 mph;46 °F;76 %;29.61 in
+08.11.2024;Union Berlin;Freiburg;0;0;Bundesliga;Cloudy;SE;6 mph;43 °F;93 %;28.84 in
+09.11.2024;Werder Bremen;Holstein Kiel;2;1;Bundesliga;Cloudy;E;9 mph;43 °F;87 %;30.32 in
+09.11.2024;Mainz;B. Dortmund;3;1;Bundesliga;Cloudy;E;10 mph;45 °F;81 %;29.90 in
+09.11.2024;Bochum;B. Leverkusen;1;1;Bundesliga;Cloudy;ENE;2 mph;43 °F;87 %;29.81 in
+09.11.2024;St. Pauli;Bayern Münih;0;1;Bundesliga;Cloudy;E;9 mph;43 °F;81 %;30.33 in
+09.11.2024;Leipzig;M'gladbach;0;0;Bundesliga;Fog;E;8 mph;39 °F;93 %;29.88 in
+10.11.2024;Augsburg;Hoffenheim;0;0;Bundesliga;Cloudy;WSW;5 mph;39 °F;93 %;28.09 in
+10.11.2024;Stuttgart;E. Frankfurt;2;3;Bundesliga;Fair;VAR;2 mph;37 °F;93 %;28.82 in
+10.11.2024;Heidenheim;Wolfsburg;1;3;Bundesliga;Fair;VAR;2 mph;37 °F;93 %;28.82 in
+01.11.2024;B. Leverkusen;Stuttgart;0;0;Bundesliga;Fair;VAR;1 mph;46 °F;100 %;29.94 in
+02.11.2024;Bayern Münih;Union Berlin;3;0;Bundesliga;Fog;CALM;0 mph;37 °F;100 %;28.70 in
+02.11.2024;E. Frankfurt;Bochum;7;2;Bundesliga;Cloudy;NW;3 mph;50 °F;87 %;29.93 in
+02.11.2024;Hoffenheim;St. Pauli;0;2;Bundesliga;Cloudy;NNW;4 mph;51 °F;81 %;29.99 in
+02.11.2024;Wolfsburg;Augsburg;1;1;Bundesliga;Mostly Cloudy;W;9 mph;52 °F;95 %;29.97 in
+02.11.2024;Holstein Kiel;Heidenheim;1;0;Bundesliga;Fair;NW;9 mph;46 °F;71 %;30.15 in
+02.11.2024;B. Dortmund;Leipzig;2;1;Bundesliga;Cloudy;WSW;3 mph;50 °F;100 %;29.84 in
+03.11.2024;Freiburg;Mainz;0;0;Bundesliga;Cloudy;ESE;8 mph;48 °F;82 %;29.45 in
+03.11.2024;M'gladbach;Werder Bremen;4;1;Bundesliga;Fair;NNE;3 mph;39 °F;100 %;30.29 in
+25.10.2024;Mainz;M'gladbach;1;1;Bundesliga;Fair;NE;6 mph;50 °F;94 %;29.78 in
+26.10.2024;Stuttgart;Holstein Kiel;2;1;Bundesliga;Fair;CALM;0 mph;46 °F;93 %;28.68 in
+26.10.2024;Leipzig;Freiburg;3;1;Bundesliga;Fair;SSE;10 mph;54 °F;88 %;29.68 in
+26.10.2024;Augsburg;B. Dortmund;2;1;Bundesliga;Cloudy;E;5 mph;50 °F;100 %;27.95 in
+26.10.2024;St. Pauli;Wolfsburg;0;0;Bundesliga;Patches of Fog;SE;1 mph;46 °F;100 %;30.06 in
+26.10.2024;Werder Bremen;B. Leverkusen;2;2;Bundesliga;Fog;VAR;1 mph;48 °F;100 %;30.09 in
+27.10.2024;Bochum;Bayern Münih;0;5;Bundesliga;Cloudy;S;12 mph;57 °F;77 %;29.50 in
+27.10.2024;Union Berlin;E. Frankfurt;1;1;Bundesliga;Cloudy;SE;3 mph;50 °F;100 %;28.50 in
+27.10.2024;Heidenheim;Hoffenheim;0;0;Bundesliga;Mist;W;5 mph;45 °F;100 %;28.57 in
+18.10.2024;B. Dortmund;St. Pauli;2;1;Bundesliga;Fair;VAR;2 mph;57 °F;94 %;29.50 in
+19.10.2024;B. Leverkusen;E. Frankfurt;2;1;Bundesliga;Fair;SE;3 mph;57 °F;94 %;29.56 in
+19.10.2024;Hoffenheim;Bochum;3;1;Bundesliga;Cloudy;NW;2 mph;57 °F;94 %;29.62 in
+19.10.2024;Freiburg;Augsburg;3;1;Bundesliga;Fair;SSE;7 mph;54 °F;94 %;29.05 in
+19.10.2024;Mainz;Leipzig;0;2;Bundesliga;Cloudy;SSE;3 mph;57 °F;94 %;29.55 in
+19.10.2024;M'gladbach;Heidenheim;3;2;Bundesliga;Mist;VAR;2 mph;59 °F;94 %;29.76 in
+19.10.2024;Bayern Münih;Stuttgart;4;0;Bundesliga;Cloudy;VAR;1 mph;55 °F;94 %;28.48 in
+20.10.2024;Holstein Kiel;Union Berlin;0;2;Bundesliga;Mostly Cloudy;WSW;9 mph;58 °F;94 %;29.96 in
+20.10.2024;Wolfsburg;Werder Bremen;2;4;Bundesliga;Cloudy;SE;2 mph;57 °F;89 %;29.84 in
+04.10.2024;Augsburg;M'gladbach;2;1;Bundesliga;Cloudy;NNE;13 mph;46 °F;93 %;27.73 in
+05.10.2024;B. Leverkusen;Holstein Kiel;2;2;Bundesliga;Fair;ENE;5 mph;41 °F;100 %;29.80 in
+05.10.2024;Werder Bremen;Freiburg;0;1;Bundesliga;Mist;WNW;2 mph;39 °F;93 %;30.15 in
+05.10.2024;Union Berlin;B. Dortmund;2;1;Bundesliga;Cloudy;N;3 mph;46 °F;93 %;28.48 in
+05.10.2024;Bochum;Wolfsburg;1;3;Bundesliga;Fair;CALM;0 mph;45 °F;93 %;29.70 in
+05.10.2024;St. Pauli;Mainz;0;3;Bundesliga;Fair;E;1 mph;39 °F;100 %;30.12 in
+06.10.2024;Heidenheim;Leipzig;0;1;Bundesliga;Patches of Fog;ENE;2 mph;45 °F;93 %;28.48 in
+06.10.2024;E. Frankfurt;Bayern Münih;3;3;Bundesliga;Fair;NE;3 mph;45 °F;93 %;29.58 in
+06.10.2024;Stuttgart;Hoffenheim;1;1;Bundesliga;Patches of Fog;ENE;2 mph;45 °F;93 %;28.48 in
+27.09.2024;B. Dortmund;Bochum;4;2;Bundesliga;Mostly Cloudy;SSW;18 mph;57 °F;88 %;28.91 in
+28.09.2024;Leipzig;Augsburg;4;0;Bundesliga;Partly Cloudy / Windy;SW;21 mph;55 °F;67 %;29.15 in
+28.09.2024;Freiburg;St. Pauli;0;3;Bundesliga;Mostly Cloudy;VAR;2 mph;48 °F;93 %;28.91 in
+28.09.2024;Wolfsburg;Stuttgart;2;2;Bundesliga;Light Rain;WSW;18 mph;53 °F;89 %;29.27 in
+28.09.2024;Mainz;Heidenheim;0;2;Bundesliga;Fair;SSW;12 mph;54 °F;77 %;29.34 in
+28.09.2024;M'gladbach;Union Berlin;1;0;Bundesliga;Fair;WNW;9 mph;52 °F;88 %;29.58 in
+28.09.2024;Bayern Münih;B. Leverkusen;1;1;Bundesliga;Fair;SSW;9 mph;52 °F;82 %;28.34 in
+29.09.2024;Holstein Kiel;E. Frankfurt;2;4;Bundesliga;Partly Cloudy;WSW;7 mph;47 °F;90 %;30.07 in
+29.09.2024;Hoffenheim;Werder Bremen;3;4;Bundesliga;Fair;CALM;0 mph;45 °F;91 %;30.00 in
+20.09.2024;Augsburg;Mainz;2;3;Bundesliga;Fair;NE;6 mph;52 °F;88 %;27.87 in
+21.09.2024;Heidenheim;Freiburg;0;3;Bundesliga;Fair;WNW;5 mph;55 °F;82 %;28.65 in
+21.09.2024;Werder Bremen;Bayern Münih;0;5;Bundesliga;Fair;E;9 mph;55 °F;72 %;30.21 in
+21.09.2024;Union Berlin;Hoffenheim;2;1;Bundesliga;Fair;NE;6 mph;50 °F;94 %;28.59 in
+21.09.2024;Bochum;Holstein Kiel;2;2;Bundesliga;Fair;NNW;3 mph;55 °F;88 %;29.70 in
+21.09.2024;E. Frankfurt;M'gladbach;2;0;Bundesliga;Fair;VAR;2 mph;57 °F;82 %;29.75 in
+22.09.2024;B. Leverkusen;Wolfsburg;4;3;Bundesliga;Fair;SE;3 mph;55 °F;94 %;29.71 in
+22.09.2024;Stuttgart;B. Dortmund;5;1;Bundesliga;Fair;VAR;2 mph;54 °F;88 %;28.60 in
+22.09.2024;St. Pauli;Leipzig;0;0;Bundesliga;Fair;NE;3 mph;55 °F;82 %;30.06 in
+13.09.2024;B. Dortmund;Heidenheim;4;2;Bundesliga;Fair;SW;5 mph;45 °F;93 %;29.55 in
+14.09.2024;Leipzig;Union Berlin;0;0;Bundesliga;Fair;NNW;16 mph;54 °F;72 %;29.68 in
+14.09.2024;Hoffenheim;B. Leverkusen;1;4;Bundesliga;Cloudy;NNE;2 mph;51 °F;88 %;29.95 in
+14.09.2024;Freiburg;Bochum;2;1;Bundesliga;Cloudy;VAR;3 mph;48 °F;100 %;29.37 in
+14.09.2024;Wolfsburg;E. Frankfurt;1;2;Bundesliga;Mostly Cloudy;NW;9 mph;50 °F;82 %;29.98 in
+14.09.2024;M'gladbach;Stuttgart;1;3;Bundesliga;Fair;NNW;6 mph;52 °F;76 %;30.20 in
+14.09.2024;Holstein Kiel;Bayern Münih;1;6;Bundesliga;Cloudy;NNW;9 mph;50 °F;79 %;30.18 in
+15.09.2024;Augsburg;St. Pauli;3;1;Bundesliga;Cloudy;SSW;7 mph;45 °F;93 %;28.15 in
+15.09.2024;Mainz;Werder Bremen;1;2;Bundesliga;Fair;NW;6 mph;52 °F;67 %;29.96 in
+30.08.2024;Union Berlin;St. Pauli;1;0;Bundesliga;Fair;VAR;1 mph;59 °F;94 %;28.56 in
+31.08.2024;Stuttgart;Mainz;3;3;Bundesliga;Fair;CALM;0 mph;72 °F;83 %;28.63 in
+31.08.2024;E. Frankfurt;Hoffenheim;3;1;Bundesliga;Fair;NNE;15 mph;68 °F;73 %;29.72 in
+31.08.2024;Werder Bremen;B. Dortmund;0;0;Bundesliga;Fair;NNE;10 mph;61 °F;77 %;30.24 in
+31.08.2024;Bochum;M'gladbach;0;2;Bundesliga;Fair;NE;5 mph;61 °F;88 %;29.76 in
+31.08.2024;Holstein Kiel;Wolfsburg;0;2;Bundesliga;Fair;NW;7 mph;56 °F;84 %;30.17 in
+31.08.2024;B. Leverkusen;Leipzig;2;3;Bundesliga;Fair;VAR;1 mph;61 °F;94 %;29.83 in
+01.09.2024;Heidenheim;Augsburg;4;0;Bundesliga;Fair;VAR;2 mph;72 °F;69 %;28.60 in
+01.09.2024;Bayern Münih;Freiburg;2;0;Bundesliga;Fair;NE;7 mph;68 °F;78 %;28.53 in
+23.08.2024;M'gladbach;B. Leverkusen;2;3;Bundesliga;Fair;S;12 mph;68 °F;60 %;29.64 in
+24.08.2024;Leipzig;Bochum;1;0;Bundesliga;Fair;SSW;7 mph;68 °F;56 %;29.44 in
+24.08.2024;Hoffenheim;Holstein Kiel;3;2;Bundesliga;Fair;E;2 mph;65 °F;76 %;29.61 in
+24.08.2024;Freiburg;Stuttgart;3;1;Bundesliga;Fair;CALM;0 mph;63 °F;88 %;29.05 in
+24.08.2024;Augsburg;Werder Bremen;2;2;Bundesliga;Fair;VAR;2 mph;59 °F;88 %;27.87 in
+24.08.2024;Mainz;Union Berlin;1;1;Bundesliga;Fair;S;5 mph;64 °F;83 %;29.55 in
+24.08.2024;B. Dortmund;E. Frankfurt;2;0;Bundesliga;Cloudy;SW;8 mph;64 °F;100 %;29.41 in
+25.08.2024;Wolfsburg;Bayern Münih;2;3;Bundesliga;Partly Cloudy;SSE;9 mph;77 °F;54 %;29.38 in
+25.08.2024;St. Pauli;Heidenheim;0;2;Bundesliga;Light Rain Shower;WSW;6 mph;64 °F;83 %;29.65 in
+23.08.2024;M'gladbach;B. Leverkusen;2;3;Bundesliga;Fair;S;12 mph;68 °F;60 %;29.64 in
+24.08.2024;Leipzig;Bochum;1;0;Bundesliga;Fair;SSW;7 mph;68 °F;56 %;29.44 in
+24.08.2024;Hoffenheim;Holstein Kiel;3;2;Bundesliga;Fair;E;2 mph;65 °F;76 %;29.61 in
+24.08.2024;Freiburg;Stuttgart;3;1;Bundesliga;Fair;CALM;0 mph;63 °F;88 %;29.05 in
+24.08.2024;Augsburg;Werder Bremen;2;2;Bundesliga;Fair;VAR;2 mph;59 °F;88 %;27.87 in
+24.08.2024;Mainz;Union Berlin;1;1;Bundesliga;Fair;S;5 mph;64 °F;83 %;29.55 in
+24.08.2024;B. Dortmund;E. Frankfurt;2;0;Bundesliga;Cloudy;SW;8 mph;64 °F;100 %;29.41 in
+25.08.2024;Wolfsburg;Bayern Münih;2;3;Bundesliga;Partly Cloudy;SSE;9 mph;77 °F;54 %;29.38 in
+25.08.2024;St. Pauli;Heidenheim;0;2;Bundesliga;Light Rain Shower;WSW;6 mph;64 °F;83 %;29.65 in

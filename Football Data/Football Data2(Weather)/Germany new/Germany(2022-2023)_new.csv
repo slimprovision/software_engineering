@@ -1,0 +1,307 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+27.05.2023;B. Dortmund;Mainz;2;2;Bundesliga;Fair;ENE;5 mph;50 °F;71 %;29.93 in
+27.05.2023;Leipzig;Schalke 04;4;2;Bundesliga;Fair;NNE;6 mph;50 °F;71 %;29.88 in
+27.05.2023;Union Berlin;Werder Bremen;1;0;Bundesliga;Fair;NE;7 mph;57 °F;72 %;28.67 in
+27.05.2023;Köln;Bayern Münih;1;2;Bundesliga;Fair;NW;5 mph;48 °F;87 %;30.33 in
+27.05.2023;M'gladbach;Augsburg;2;0;Bundesliga;Fair;NNE;7 mph;54 °F;67 %;30.20 in
+27.05.2023;E. Frankfurt;Freiburg;2;1;Bundesliga;Fair;NNE;15 mph;59 °F;48 %;29.90 in
+27.05.2023;Wolfsburg;Hertha Berlin;1;2;Bundesliga;Fair;;0 mph;50 °F;75 %;30.10 in
+27.05.2023;Bochum;B. Leverkusen;3;0;Bundesliga;Fair;ENE;5 mph;50 °F;71 %;29.93 in
+27.05.2023;Stuttgart;Hoffenheim;1;1;Bundesliga;Fair;NE;9 mph;59 °F;59 %;28.77 in
+19.05.2023;Freiburg;Wolfsburg;2;0;Bundesliga;Fair;E;5 mph;57 °F;55 %;29.20 in
+20.05.2023;Hoffenheim;Union Berlin;4;2;Bundesliga;Cloudy;N;7 mph;60 °F;54 %;29.77 in
+20.05.2023;Hertha Berlin;Bochum;1;1;Bundesliga;Fair;ENE;10 mph;52 °F;62 %;30.30 in
+20.05.2023;Schalke 04;E. Frankfurt;2;2;Bundesliga;Fair;ENE;10 mph;52 °F;62 %;30.30 in
+20.05.2023;Werder Bremen;Köln;1;1;Bundesliga;Fair;NE;12 mph;57 °F;59 %;30.27 in
+20.05.2023;Bayern Münih;Leipzig;1;3;Bundesliga;Cloudy;NE;5 mph;55 °F;82 %;28.50 in
+21.05.2023;Mainz;Stuttgart;1;4;Bundesliga;Fair;NNE;12 mph;61 °F;77 %;29.58 in
+21.05.2023;Augsburg;B. Dortmund;0;3;Bundesliga;Partly Cloudy;VAR;2 mph;52 °F;94 %;27.73 in
+21.05.2023;B. Leverkusen;M'gladbach;2;2;Bundesliga;Fair;WNW;3 mph;54 °F;88 %;29.71 in
+12.05.2023;Köln;Hertha Berlin;5;2;Bundesliga;Fair;VAR;1 mph;54 °F;88 %;29.97 in
+13.05.2023;Bayern Münih;Schalke 04;6;0;Bundesliga;Cloudy;NE;7 mph;50 °F;82 %;28.45 in
+13.05.2023;Union Berlin;Freiburg;4;2;Bundesliga;Cloudy;NE;7 mph;50 °F;82 %;28.45 in
+13.05.2023;E. Frankfurt;Mainz;3;0;Bundesliga;Fair;VAR;2 mph;50 °F;94 %;29.66 in
+13.05.2023;Wolfsburg;Hoffenheim;2;1;Bundesliga;Mostly Cloudy;ENE;4 mph;57 °F;56 %;29.83 in
+13.05.2023;Bochum;Augsburg;3;2;Bundesliga;Fair;S;3 mph;52 °F;88 %;29.64 in
+13.05.2023;B. Dortmund;M'gladbach;5;2;Bundesliga;Fair;S;3 mph;52 °F;88 %;29.64 in
+14.05.2023;Stuttgart;B. Leverkusen;1;1;Bundesliga;Mostly Cloudy;VAR;2 mph;52 °F;94 %;28.57 in
+14.05.2023;Leipzig;Werder Bremen;2;1;Bundesliga;Fair;ESE;8 mph;54 °F;82 %;29.65 in
+05.05.2023;B. Leverkusen;Köln;1;2;Bundesliga;Fair;E;5 mph;63 °F;55 %;29.62 in
+05.05.2023;Mainz;Schalke 04;2;3;Bundesliga;Fair;N;6 mph;55 °F;67 %;29.61 in
+06.05.2023;Freiburg;Leipzig;0;1;Bundesliga;Cloudy;SE;5 mph;59 °F;94 %;29.11 in
+06.05.2023;Hoffenheim;E. Frankfurt;3;1;Bundesliga;Cloudy;SSE;4 mph;58 °F;95 %;29.70 in
+06.05.2023;M'gladbach;Bochum;2;0;Bundesliga;Fog;NNE;1 mph;48 °F;100 %;29.88 in
+06.05.2023;Augsburg;Union Berlin;1;0;Bundesliga;Fair;SW;7 mph;52 °F;94 %;27.87 in
+06.05.2023;Hertha Berlin;Stuttgart;2;1;Bundesliga;Light Rain;E;17 mph;46 °F;87 %;29.97 in
+06.05.2023;Werder Bremen;Bayern Münih;1;2;Bundesliga;Cloudy;S;3 mph;54 °F;100 %;29.97 in
+07.05.2023;B. Dortmund;Wolfsburg;6;0;Bundesliga;Cloudy;CALM;0 mph;55 °F;94 %;29.58 in
+28.04.2023;Bochum;B. Dortmund;1;1;Bundesliga;Partly Cloudy;ENE;5 mph;46 °F;62 %;29.52 in
+29.04.2023;Leipzig;Hoffenheim;1;0;Bundesliga;Fair;S;6 mph;52 °F;88 %;29.36 in
+29.04.2023;Union Berlin;B. Leverkusen;0;0;Bundesliga;Mostly Cloudy;SSW;10 mph;52 °F;94 %;28.42 in
+29.04.2023;Köln;Freiburg;0;1;Bundesliga;Cloudy;NE;9 mph;48 °F;87 %;29.77 in
+29.04.2023;E. Frankfurt;Augsburg;1;1;Bundesliga;Fair;W;3 mph;52 °F;94 %;29.52 in
+29.04.2023;Stuttgart;M'gladbach;2;1;Bundesliga;Fair;W;5 mph;55 °F;94 %;28.46 in
+29.04.2023;Schalke 04;Werder Bremen;2;1;Bundesliga;Cloudy;NE;9 mph;48 °F;87 %;29.77 in
+30.04.2023;Bayern Münih;Hertha Berlin;2;0;Bundesliga;Fair;NNW;3 mph;50 °F;87 %;28.53 in
+30.04.2023;Wolfsburg;Mainz;3;0;Bundesliga;Fair;NW;7 mph;45 °F;85 %;29.89 in
+21.04.2023;Augsburg;Stuttgart;1;1;Bundesliga;Mostly Cloudy;ENE;2 mph;37 °F;100 %;27.73 in
+22.04.2023;Mainz;Bayern Münih;3;1;Bundesliga;Fair;VAR;1 mph;52 °F;82 %;29.43 in
+22.04.2023;Hoffenheim;Köln;1;3;Bundesliga;Cloudy;SSE;2 mph;54 °F;83 %;29.49 in
+22.04.2023;Bochum;Wolfsburg;1;5;Bundesliga;Mostly Cloudy;SE;3 mph;54 °F;77 %;29.35 in
+22.04.2023;Hertha Berlin;Werder Bremen;2;4;Bundesliga;Fair;E;12 mph;52 °F;58 %;29.89 in
+22.04.2023;B. Dortmund;E. Frankfurt;4;0;Bundesliga;Mostly Cloudy;SE;3 mph;54 °F;77 %;29.35 in
+23.04.2023;Freiburg;Schalke 04;4;0;Bundesliga;Mostly Cloudy;VAR;1 mph;52 °F;82 %;28.94 in
+23.04.2023;B. Leverkusen;Leipzig;2;0;Bundesliga;Light Rain;WNW;7 mph;52 °F;94 %;29.45 in
+23.04.2023;M'gladbach;Union Berlin;0;1;Bundesliga;Mostly Cloudy;SW;6 mph;52 °F;88 %;29.64 in
+14.04.2023;Schalke 04;Hertha Berlin;5;2;Bundesliga;Fog;ENE;2 mph;41 °F;100 %;29.74 in
+15.04.2023;Bayern Münih;Hoffenheim;1;1;Bundesliga;Fair;WSW;7 mph;41 °F;93 %;28.17 in
+15.04.2023;Leipzig;Augsburg;3;2;Bundesliga;Light Rain;NNW;12 mph;43 °F;100 %;29.27 in
+15.04.2023;Köln;Mainz;1;1;Bundesliga;Mostly Cloudy;NNE;7 mph;46 °F;87 %;29.77 in
+15.04.2023;Stuttgart;B. Dortmund;3;3;Bundesliga;Fair;WNW;5 mph;39 °F;75 %;28.26 in
+15.04.2023;E. Frankfurt;M'gladbach;1;1;Bundesliga;Fair;N;7 mph;45 °F;71 %;29.34 in
+16.04.2023;Werder Bremen;Freiburg;1;2;Bundesliga;Partly Cloudy;NNE;10 mph;50 °F;82 %;30.03 in
+16.04.2023;Union Berlin;Bochum;1;1;Bundesliga;Drizzle;W;8 mph;43 °F;93 %;28.39 in
+16.04.2023;Wolfsburg;B. Leverkusen;0;0;Bundesliga;Cloudy;N;7 mph;50 °F;89 %;29.70 in
+08.04.2023;B. Dortmund;Union Berlin;2;1;Bundesliga;Fair;CALM;0 mph;45 °F;93 %;29.70 in
+08.04.2023;B. Leverkusen;E. Frankfurt;3;1;Bundesliga;Mostly Cloudy;NNW;3 mph;46 °F;93 %;29.80 in
+08.04.2023;Freiburg;Bayern Münih;0;1;Bundesliga;Cloudy;CALM;0 mph;41 °F;93 %;29.17 in
+08.04.2023;Mainz;Werder Bremen;2;2;Bundesliga;Mostly Cloudy;SSW;2 mph;45 °F;87 %;29.72 in
+08.04.2023;Augsburg;Köln;1;3;Bundesliga;Cloudy;SW;8 mph;41 °F;93 %;27.87 in
+08.04.2023;Hertha Berlin;Leipzig;0;1;Bundesliga;Cloudy;ENE;9 mph;41 °F;93 %;30.15 in
+09.04.2023;M'gladbach;Wolfsburg;2;0;Bundesliga;Cloudy;NE;6 mph;48 °F;82 %;30.14 in
+09.04.2023;Bochum;Stuttgart;2;3;Bundesliga;Fair;ENE;6 mph;41 °F;93 %;29.84 in
+09.04.2023;Hoffenheim;Schalke 04;2;0;Bundesliga;Cloudy;ENE;2 mph;50 °F;70 %;29.92 in
+31.03.2023;E. Frankfurt;Bochum;1;1;Bundesliga;Partly Cloudy;SSW;9 mph;52 °F;82 %;29.43 in
+01.04.2023;Leipzig;Mainz;0;3;Bundesliga;Light Drizzle;SSW;10 mph;48 °F;87 %;28.98 in
+01.04.2023;Union Berlin;Stuttgart;3;0;Bundesliga;Fair;WSW;20 mph;46 °F;71 %;28.11 in
+01.04.2023;Freiburg;Hertha Berlin;1;1;Bundesliga;Mostly Cloudy;WSW;17 mph;52 °F;67 %;28.80 in
+01.04.2023;Wolfsburg;Augsburg;2;2;Bundesliga;Light Drizzle;S;7 mph;50 °F;86 %;29.12 in
+01.04.2023;Schalke 04;B. Leverkusen;0;3;Bundesliga;Light Rain Shower;ESE;6 mph;50 °F;94 %;29.30 in
+01.04.2023;Bayern Münih;B. Dortmund;4;2;Bundesliga;Fair;WSW;20 mph;46 °F;71 %;28.11 in
+02.04.2023;Köln;M'gladbach;0;0;Bundesliga;Fair;ENE;12 mph;36 °F;75 %;29.89 in
+02.04.2023;Werder Bremen;Hoffenheim;1;2;Bundesliga;Cloudy;ENE;18 mph;37 °F;81 %;29.85 in
+17.03.2023;M'gladbach;Werder Bremen;2;2;Bundesliga;Fair;SSE;20 mph;48 °F;57 %;29.64 in
+18.03.2023;Hoffenheim;Hertha Berlin;3;1;Bundesliga;Cloudy;SSE;7 mph;52 °F;70 %;29.52 in
+18.03.2023;Bochum;Leipzig;1;0;Bundesliga;Mostly Cloudy;S;10 mph;54 °F;72 %;29.35 in
+18.03.2023;Augsburg;Schalke 04;1;1;Bundesliga;Mostly Cloudy;SSW;10 mph;43 °F;76 %;27.73 in
+18.03.2023;Stuttgart;Wolfsburg;0;1;Bundesliga;Fair;WSW;6 mph;48 °F;62 %;28.43 in
+18.03.2023;B. Dortmund;Köln;6;1;Bundesliga;Mostly Cloudy;S;10 mph;54 °F;72 %;29.35 in
+19.03.2023;Union Berlin;E. Frankfurt;2;0;Bundesliga;Fair;N;2 mph;39 °F;93 %;28.36 in
+19.03.2023;B. Leverkusen;Bayern Münih;2;1;Bundesliga;Fair;VAR;2 mph;50 °F;82 %;29.54 in
+19.03.2023;Mainz;Freiburg;1;1;Bundesliga;Fair;VAR;1 mph;48 °F;82 %;29.52 in
+10.03.2023;Köln;Bochum;0;2;Bundesliga;Cloudy;E;8 mph;34 °F;93 %;29.30 in
+11.03.2023;Bayern Münih;Augsburg;5;3;Bundesliga;Light Snow Shower / Windy;W;28 mph;36 °F;81 %;28.06 in
+11.03.2023;Leipzig;M'gladbach;3;0;Bundesliga;Light Snow / Windy;W;29 mph;34 °F;93 %;28.78 in
+11.03.2023;E. Frankfurt;Stuttgart;1;1;Bundesliga;Light Snow Shower;WSW;17 mph;36 °F;81 %;29.29 in
+11.03.2023;Hertha Berlin;Mainz;1;1;Bundesliga;Light Snow;NW;16 mph;32 °F;100 %;29.39 in
+11.03.2023;Schalke 04;B. Dortmund;2;2;Bundesliga;Light Snow;NW;16 mph;32 °F;100 %;29.39 in
+12.03.2023;Freiburg;Hoffenheim;2;1;Bundesliga;Cloudy;SSE;5 mph;41 °F;87 %;29.00 in
+12.03.2023;Werder Bremen;B. Leverkusen;2;3;Bundesliga;Mostly Cloudy;WSW;6 mph;30 °F;86 %;29.82 in
+12.03.2023;Wolfsburg;Union Berlin;1;1;Bundesliga;Fair;WSW;7 mph;32 °F;74 %;29.59 in
+03.03.2023;B. Dortmund;Leipzig;2;1;Bundesliga;Mostly Cloudy;NE;8 mph;32 °F;93 %;29.76 in
+04.03.2023;Union Berlin;Köln;0;0;Bundesliga;Mist;SW;7 mph;32 °F;93 %;28.56 in
+04.03.2023;Mainz;Hoffenheim;1;0;Bundesliga;Fair;N;7 mph;30 °F;86 %;29.84 in
+04.03.2023;M'gladbach;Freiburg;0;0;Bundesliga;Cloudy;NNW;7 mph;41 °F;70 %;30.14 in
+04.03.2023;Bochum;Schalke 04;0;2;Bundesliga;Cloudy;WNW;3 mph;37 °F;81 %;29.81 in
+04.03.2023;Augsburg;Werder Bremen;2;1;Bundesliga;Fair;S;3 mph;30 °F;93 %;27.93 in
+04.03.2023;Stuttgart;Bayern Münih;1;2;Bundesliga;Fair;W;3 mph;32 °F;80 %;28.68 in
+05.03.2023;B. Leverkusen;Hertha Berlin;4;1;Bundesliga;Cloudy;NW;6 mph;39 °F;81 %;29.80 in
+05.03.2023;Wolfsburg;E. Frankfurt;2;2;Bundesliga;Mostly Cloudy;WNW;11 mph;36 °F;82 %;29.78 in
+24.02.2023;Mainz;M'gladbach;4;0;Bundesliga;Mostly Cloudy;W;7 mph;46 °F;81 %;29.55 in
+25.02.2023;Leipzig;E. Frankfurt;2;1;Bundesliga;Mostly Cloudy;W;18 mph;37 °F;87 %;28.98 in
+25.02.2023;Köln;Wolfsburg;0;2;Bundesliga;Mostly Cloudy;NW;17 mph;39 °F;75 %;29.39 in
+25.02.2023;Hoffenheim;B. Dortmund;0;1;Bundesliga;Cloudy;W;7 mph;43 °F;75 %;29.34 in
+25.02.2023;Hertha Berlin;Augsburg;2;0;Bundesliga;Mostly Cloudy;NW;17 mph;39 °F;75 %;29.39 in
+25.02.2023;Werder Bremen;Bochum;3;0;Bundesliga;Mostly Cloudy;NW;17 mph;39 °F;87 %;29.50 in
+25.02.2023;Schalke 04;Stuttgart;2;1;Bundesliga;Mostly Cloudy;NW;17 mph;39 °F;75 %;29.39 in
+26.02.2023;Freiburg;B. Leverkusen;1;1;Bundesliga;Cloudy;N;16 mph;37 °F;70 %;28.88 in
+26.02.2023;Bayern Münih;Union Berlin;3;0;Bundesliga;Light Snow Shower;NNW;6 mph;30 °F;93 %;28.22 in
+17.02.2023;Augsburg;Hoffenheim;1;0;Bundesliga;Cloudy;SSW;12 mph;43 °F;70 %;28.12 in
+18.02.2023;M'gladbach;Bayern Münih;3;2;Bundesliga;Cloudy;WSW;15 mph;52 °F;88 %;30.05 in
+18.02.2023;Wolfsburg;Leipzig;0;3;Bundesliga;Cloudy;W;16 mph;45 °F;66 %;29.79 in
+18.02.2023;Bochum;Freiburg;0;2;Bundesliga;Cloudy;W;6 mph;50 °F;94 %;29.73 in
+18.02.2023;Stuttgart;Köln;3;0;Bundesliga;Cloudy;SW;7 mph;52 °F;82 %;28.82 in
+18.02.2023;E. Frankfurt;Werder Bremen;2;0;Bundesliga;Mostly Cloudy;SW;8 mph;54 °F;82 %;29.84 in
+19.02.2023;Union Berlin;Schalke 04;0;0;Bundesliga;Cloudy;W;10 mph;52 °F;67 %;28.62 in
+19.02.2023;B. Dortmund;Hertha Berlin;4;1;Bundesliga;Cloudy;SW;16 mph;50 °F;94 %;29.58 in
+19.02.2023;B. Leverkusen;Mainz;2;3;Bundesliga;Light Rain;SW;12 mph;50 °F;94 %;29.74 in
+10.02.2023;Schalke 04;Wolfsburg;0;0;Bundesliga;Cloudy;WSW;10 mph;37 °F;93 %;30.39 in
+11.02.2023;Bayern Münih;Bochum;3;0;Bundesliga;Fair;VAR;1 mph;23 °F;93 %;29.04 in
+11.02.2023;Freiburg;Stuttgart;2;1;Bundesliga;Mist;WSW;1 mph;27 °F;100 %;29.71 in
+11.02.2023;Mainz;Augsburg;3;1;Bundesliga;Fair;SSW;5 mph;30 °F;93 %;30.22 in
+11.02.2023;Hoffenheim;B. Leverkusen;1;3;Bundesliga;Fair;SSE;7 mph;32 °F;82 %;30.31 in
+11.02.2023;Werder Bremen;B. Dortmund;0;2;Bundesliga;Cloudy;WSW;15 mph;43 °F;87 %;30.38 in
+11.02.2023;Leipzig;Union Berlin;1;2;Bundesliga;Fair;SSW;15 mph;34 °F;81 %;30.03 in
+12.02.2023;Hertha Berlin;M'gladbach;4;1;Bundesliga;Mist;W;10 mph;45 °F;100 %;30.48 in
+12.02.2023;Köln;E. Frankfurt;3;0;Bundesliga;Mist;W;10 mph;45 °F;100 %;30.48 in
+03.02.2023;Augsburg;B. Leverkusen;1;0;Bundesliga;Cloudy;WSW;15 mph;39 °F;81 %;28.20 in
+04.02.2023;B. Dortmund;Freiburg;5;1;Bundesliga;Mostly Cloudy;W;7 mph;43 °F;81 %;29.96 in
+04.02.2023;Union Berlin;Mainz;2;1;Bundesliga;Rain Shower;W;13 mph;41 °F;93 %;28.70 in
+04.02.2023;Köln;Leipzig;0;0;Bundesliga;Mostly Cloudy;NNW;7 mph;39 °F;75 %;30.24 in
+04.02.2023;E. Frankfurt;Hertha Berlin;3;0;Bundesliga;Partly Cloudy;WNW;16 mph;48 °F;66 %;29.98 in
+04.02.2023;Bochum;Hoffenheim;5;2;Bundesliga;Mostly Cloudy;W;7 mph;43 °F;81 %;29.96 in
+04.02.2023;M'gladbach;Schalke 04;0;0;Bundesliga;Cloudy;NW;9 mph;46 °F;81 %;30.29 in
+05.02.2023;Stuttgart;Werder Bremen;0;2;Bundesliga;Mostly Cloudy;VAR;1 mph;34 °F;93 %;29.13 in
+05.02.2023;Wolfsburg;Bayern Münih;2;4;Bundesliga;Fair;SE;4 mph;30 °F;90 %;30.38 in
+27.01.2023;Leipzig;Stuttgart;2;1;Bundesliga;Mist;N;3 mph;28 °F;100 %;29.68 in
+28.01.2023;Freiburg;Augsburg;3;1;Bundesliga;Cloudy;N;7 mph;32 °F;80 %;29.23 in
+28.01.2023;Mainz;Bochum;5;2;Bundesliga;Cloudy;NNE;16 mph;37 °F;81 %;29.87 in
+28.01.2023;Hoffenheim;M'gladbach;1;4;Bundesliga;Cloudy;N;4 mph;38 °F;79 %;29.91 in
+28.01.2023;Hertha Berlin;Union Berlin;0;2;Bundesliga;Cloudy;VAR;1 mph;34 °F;81 %;30.33 in
+28.01.2023;Werder Bremen;Wolfsburg;2;1;Bundesliga;Cloudy;VAR;2 mph;34 °F;70 %;30.35 in
+28.01.2023;Bayern Münih;E. Frankfurt;1;1;Bundesliga;Cloudy;NNE;5 mph;30 °F;86 %;28.56 in
+29.01.2023;Schalke 04;Köln;0;0;Bundesliga;Drizzle;WSW;10 mph;36 °F;100 %;30.24 in
+29.01.2023;B. Leverkusen;B. Dortmund;0;2;Bundesliga;Fair;ENE;6 mph;23 °F;93 %;30.09 in
+24.01.2023;Schalke 04;Leipzig;1;6;Bundesliga;Cloudy;E;2 mph;37 °F;87 %;30.65 in
+24.01.2023;Bayern Münih;Köln;1;1;Bundesliga;Cloudy;NE;3 mph;34 °F;93 %;28.84 in
+24.01.2023;Hoffenheim;Stuttgart;2;2;Bundesliga;Cloudy;NNW;7 mph;35 °F;84 %;30.18 in
+24.01.2023;Hertha Berlin;Wolfsburg;0;5;Bundesliga;Cloudy;E;2 mph;37 °F;87 %;30.65 in
+25.01.2023;Mainz;B. Dortmund;1;2;Bundesliga;Cloudy;E;6 mph;36 °F;81 %;30.19 in
+25.01.2023;B. Leverkusen;Bochum;2;0;Bundesliga;Cloudy;SSE;6 mph;34 °F;87 %;30.26 in
+25.01.2023;Freiburg;E. Frankfurt;1;1;Bundesliga;Cloudy;N;6 mph;36 °F;93 %;29.51 in
+25.01.2023;Augsburg;M'gladbach;1;0;Bundesliga;Cloudy;ENE;9 mph;32 °F;93 %;28.23 in
+25.01.2023;Werder Bremen;Union Berlin;1;2;Bundesliga;Cloudy;SSE;5 mph;32 °F;80 %;30.62 in
+20.01.2023;Leipzig;Bayern Münih;1;1;Bundesliga;Partly Cloudy;W;7 mph;32 °F;93 %;29.33 in
+21.01.2023;Union Berlin;Hoffenheim;3;1;Bundesliga;Light Snow;NW;7 mph;28 °F;93 %;28.53 in
+21.01.2023;E. Frankfurt;Schalke 04;3;0;Bundesliga;Light Snow;ENE;8 mph;32 °F;100 %;29.75 in
+21.01.2023;Wolfsburg;Freiburg;6;0;Bundesliga;Fair;CALM;0 mph;26 °F;96 %;29.96 in
+21.01.2023;Bochum;Hertha Berlin;3;1;Bundesliga;Fair;ENE;6 mph;27 °F;93 %;29.76 in
+21.01.2023;Stuttgart;Mainz;1;1;Bundesliga;Fair;E;1 mph;23 °F;93 %;28.63 in
+21.01.2023;Köln;Werder Bremen;7;1;Bundesliga;Cloudy;VAR;2 mph;34 °F;93 %;30.21 in
+22.01.2023;B. Dortmund;Augsburg;4;3;Bundesliga;Cloudy;N;7 mph;32 °F;87 %;29.99 in
+22.01.2023;M'gladbach;B. Leverkusen;2;3;Bundesliga;Fair;N;10 mph;32 °F;87 %;30.29 in
+11.11.2022;M'gladbach;B. Dortmund;4;2;Bundesliga;Fair;SSE;10 mph;48 °F;87 %;30.23 in
+12.11.2022;B. Leverkusen;Stuttgart;2;0;Bundesliga;Fair;ESE;6 mph;46 °F;87 %;30.12 in
+12.11.2022;Hoffenheim;Wolfsburg;1;2;Bundesliga;Fog;ENE;2 mph;45 °F;100 %;30.18 in
+12.11.2022;Augsburg;Bochum;0;1;Bundesliga;Cloudy;S;3 mph;36 °F;100 %;28.28 in
+12.11.2022;Hertha Berlin;Köln;2;0;Bundesliga;Mostly Cloudy;SW;7 mph;48 °F;93 %;30.39 in
+12.11.2022;Werder Bremen;Leipzig;1;2;Bundesliga;Fog;SE;2 mph;39 °F;93 %;30.41 in
+12.11.2022;Schalke 04;Bayern Münih;0;2;Bundesliga;Mostly Cloudy;SW;7 mph;48 °F;93 %;30.39 in
+13.11.2022;Mainz;E. Frankfurt;1;1;Bundesliga;Fog;E;6 mph;41 °F;100 %;29.98 in
+13.11.2022;Freiburg;Union Berlin;4;1;Bundesliga;Fog;NNW;5 mph;43 °F;100 %;29.37 in
+08.11.2022;Wolfsburg;B. Dortmund;2;0;Bundesliga;Mostly Cloudy;SSW;7 mph;55 °F;78 %;29.62 in
+08.11.2022;Bayern Münih;Werder Bremen;6;1;Bundesliga;Fair;SE;1 mph;36 °F;93 %;28.53 in
+08.11.2022;Bochum;M'gladbach;2;1;Bundesliga;Fair;S;10 mph;54 °F;82 %;29.44 in
+08.11.2022;Stuttgart;Hertha Berlin;2;1;Bundesliga;Fair;S;1 mph;41 °F;100 %;28.57 in
+09.11.2022;Köln;B. Leverkusen;1;2;Bundesliga;Fair;S;10 mph;57 °F;67 %;29.62 in
+09.11.2022;Leipzig;Freiburg;3;1;Bundesliga;Fair;S;12 mph;54 °F;67 %;29.39 in
+09.11.2022;Union Berlin;Augsburg;2;2;Bundesliga;Fog;CALM;0 mph;37 °F;100 %;28.42 in
+09.11.2022;E. Frankfurt;Hoffenheim;4;2;Bundesliga;Fair;S;7 mph;52 °F;88 %;29.46 in
+09.11.2022;Schalke 04;Mainz;1;0;Bundesliga;Fair;S;10 mph;57 °F;67 %;29.62 in
+04.11.2022;M'gladbach;Stuttgart;3;1;Bundesliga;Fair;WSW;10 mph;52 °F;88 %;29.41 in
+05.11.2022;B. Dortmund;Bochum;3;0;Bundesliga;Cloudy;WSW;3 mph;46 °F;93 %;29.50 in
+05.11.2022;Mainz;Wolfsburg;0;3;Bundesliga;Light Rain Shower;NW;5 mph;48 °F;93 %;29.52 in
+05.11.2022;Hoffenheim;Leipzig;1;3;Bundesliga;Cloudy;CALM;0 mph;49 °F;99 %;29.59 in
+05.11.2022;Augsburg;E. Frankfurt;1;2;Bundesliga;Cloudy;SSW;7 mph;43 °F;93 %;27.73 in
+05.11.2022;Hertha Berlin;Bayern Münih;2;3;Bundesliga;Patches of Fog;VAR;1 mph;41 °F;100 %;29.80 in
+05.11.2022;Werder Bremen;Schalke 04;2;1;Bundesliga;Fog;WSW;2 mph;41 °F;100 %;29.85 in
+06.11.2022;B. Leverkusen;Union Berlin;5;0;Bundesliga;Fair;SE;9 mph;43 °F;93 %;29.71 in
+06.11.2022;Freiburg;Köln;2;0;Bundesliga;Fair;S;6 mph;37 °F;100 %;29.20 in
+28.10.2022;Werder Bremen;Hertha Berlin;1;0;Bundesliga;Fair;SSE;3 mph;57 °F;88 %;30.06 in
+29.10.2022;Bayern Münih;Mainz;6;2;Bundesliga;Fair;NW;2 mph;55 °F;88 %;28.73 in
+29.10.2022;Leipzig;B. Leverkusen;2;0;Bundesliga;Fair;S;5 mph;61 °F;72 %;29.68 in
+29.10.2022;Wolfsburg;Bochum;4;0;Bundesliga;Fair;WSW;7 mph;64 °F;72 %;29.86 in
+29.10.2022;Stuttgart;Augsburg;2;1;Bundesliga;Fair;VAR;1 mph;54 °F;94 %;28.77 in
+29.10.2022;E. Frankfurt;B. Dortmund;1;2;Bundesliga;Fair;SW;6 mph;57 °F;94 %;29.81 in
+30.10.2022;Union Berlin;M'gladbach;2;1;Bundesliga;Fog;N;1 mph;45 °F;100 %;28.62 in
+30.10.2022;Schalke 04;Freiburg;0;2;Bundesliga;Fair;ESE;5 mph;57 °F;94 %;29.95 in
+30.10.2022;Köln;Hoffenheim;1;1;Bundesliga;Fair;ESE;5 mph;57 °F;94 %;29.95 in
+21.10.2022;Mainz;Köln;5;0;Bundesliga;Cloudy;NE;6 mph;55 °F;94 %;29.52 in
+22.10.2022;B. Dortmund;Stuttgart;5;0;Bundesliga;Fair;S;10 mph;57 °F;94 %;29.38 in
+22.10.2022;B. Leverkusen;Wolfsburg;2;2;Bundesliga;Fair;E;3 mph;57 °F;94 %;29.48 in
+22.10.2022;Freiburg;Werder Bremen;2;0;Bundesliga;Rain;WSW;6 mph;55 °F;100 %;29.03 in
+22.10.2022;Hoffenheim;Bayern Münih;0;2;Bundesliga;Cloudy;SE;4 mph;60 °F;89 %;29.55 in
+22.10.2022;Augsburg;Leipzig;3;3;Bundesliga;Light Rain;S;12 mph;52 °F;94 %;27.82 in
+22.10.2022;M'gladbach;E. Frankfurt;1;3;Bundesliga;Fair;SSE;10 mph;59 °F;88 %;29.67 in
+23.10.2022;Bochum;Union Berlin;2;1;Bundesliga;Fair;SSE;8 mph;55 °F;88 %;29.55 in
+23.10.2022;Hertha Berlin;Schalke 04;2;1;Bundesliga;Fair;SW;5 mph;54 °F;100 %;29.92 in
+14.10.2022;Schalke 04;Hoffenheim;0;3;Bundesliga;Cloudy;SW;6 mph;55 °F;94 %;29.92 in
+15.10.2022;E. Frankfurt;B. Leverkusen;5;1;Bundesliga;Light Drizzle;S;7 mph;57 °F;100 %;29.40 in
+15.10.2022;Wolfsburg;M'gladbach;2;2;Bundesliga;Mostly Cloudy;SSE;4 mph;57 °F;92 %;29.48 in
+15.10.2022;Stuttgart;Bochum;4;1;Bundesliga;Light Rain;SSE;3 mph;55 °F;100 %;28.37 in
+15.10.2022;Werder Bremen;Mainz;0;2;Bundesliga;Light Drizzle;WSW;8 mph;57 °F;100 %;29.68 in
+15.10.2022;Leipzig;Hertha Berlin;3;2;Bundesliga;Fair;S;10 mph;57 °F;88 %;29.33 in
+16.10.2022;Köln;Augsburg;3;2;Bundesliga;Fair;SW;8 mph;57 °F;88 %;29.71 in
+16.10.2022;Union Berlin;B. Dortmund;2;0;Bundesliga;Fair;VAR;2 mph;57 °F;88 %;28.48 in
+16.10.2022;Bayern Münih;Freiburg;5;0;Bundesliga;Fair;VAR;2 mph;57 °F;88 %;28.48 in
+07.10.2022;Hoffenheim;Werder Bremen;1;2;Bundesliga;Fair;NW;2 mph;47 °F;95 %;30.07 in
+08.10.2022;B. Leverkusen;Schalke 04;4;0;Bundesliga;Fair;VAR;2 mph;50 °F;82 %;29.74 in
+08.10.2022;Mainz;Leipzig;1;1;Bundesliga;Fair;SSW;3 mph;48 °F;100 %;29.69 in
+08.10.2022;Bochum;E. Frankfurt;3;0;Bundesliga;Fair;S;10 mph;50 °F;76 %;29.61 in
+08.10.2022;Augsburg;Wolfsburg;1;1;Bundesliga;Partly Cloudy;S;5 mph;46 °F;100 %;27.98 in
+08.10.2022;B. Dortmund;Bayern Münih;2;2;Bundesliga;Fair;S;10 mph;50 °F;76 %;29.61 in
+09.10.2022;M'gladbach;Köln;5;2;Bundesliga;Fair;ESE;3 mph;43 °F;100 %;30.14 in
+09.10.2022;Hertha Berlin;Freiburg;2;2;Bundesliga;Fair;WSW;7 mph;48 °F;93 %;30.15 in
+09.10.2022;Stuttgart;Union Berlin;0;1;Bundesliga;Fair;VAR;1 mph;46 °F;93 %;28.79 in
+30.09.2022;Bayern Münih;B. Leverkusen;4;0;Bundesliga;Partly Cloudy;NW;1 mph;45 °F;100 %;28.20 in
+01.10.2022;Leipzig;Bochum;4;0;Bundesliga;Fair;SSW;9 mph;46 °F;87 %;29.42 in
+01.10.2022;Freiburg;Mainz;2;1;Bundesliga;Fair;VAR;3 mph;45 °F;93 %;29.05 in
+01.10.2022;Köln;B. Dortmund;3;2;Bundesliga;Fair;SSE;9 mph;50 °F;82 %;29.68 in
+01.10.2022;E. Frankfurt;Union Berlin;2;0;Bundesliga;Fair;S;3 mph;43 °F;100 %;29.49 in
+01.10.2022;Wolfsburg;Stuttgart;3;2;Bundesliga;Partly Cloudy;SSE;4 mph;47 °F;81 %;29.53 in
+01.10.2022;Werder Bremen;M'gladbach;5;1;Bundesliga;Fair;SSE;10 mph;50 °F;76 %;29.68 in
+02.10.2022;Hertha Berlin;Hoffenheim;1;1;Bundesliga;Rain Shower;WSW;9 mph;52 °F;94 %;29.71 in
+02.10.2022;Schalke 04;Augsburg;2;3;Bundesliga;Rain Shower;WSW;9 mph;52 °F;94 %;29.71 in
+16.09.2022;Mainz;Hertha Berlin;1;1;Bundesliga;Fair;W;6 mph;59 °F;67 %;29.43 in
+17.09.2022;Augsburg;Bayern Münih;1;0;Bundesliga;Cloudy;W;5 mph;50 °F;87 %;27.73 in
+17.09.2022;B. Leverkusen;Werder Bremen;1;1;Bundesliga;Partly Cloudy;WNW;13 mph;50 °F;87 %;29.56 in
+17.09.2022;Stuttgart;E. Frankfurt;1;3;Bundesliga;Partly Cloudy;WNW;9 mph;48 °F;87 %;28.46 in
+17.09.2022;B. Dortmund;Schalke 04;1;0;Bundesliga;Cloudy;WSW;9 mph;52 °F;88 %;29.41 in
+17.09.2022;M'gladbach;Leipzig;3;0;Bundesliga;Fair;W;10 mph;52 °F;82 %;29.73 in
+18.09.2022;Union Berlin;Wolfsburg;2;0;Bundesliga;Fair;W;14 mph;46 °F;87 %;28.42 in
+18.09.2022;Bochum;Köln;1;1;Bundesliga;Partly Cloudy;WSW;8 mph;50 °F;87 %;29.50 in
+18.09.2022;Hoffenheim;Freiburg;0;0;Bundesliga;Cloudy;SW;7 mph;52 °F;79 %;29.69 in
+09.09.2022;Werder Bremen;Augsburg;0;1;Bundesliga;Fair;S;6 mph;59 °F;88 %;29.73 in
+10.09.2022;Bayern Münih;Stuttgart;2;2;Bundesliga;Light Rain;SW;7 mph;55 °F;88 %;28.48 in
+10.09.2022;Leipzig;B. Dortmund;3;0;Bundesliga;Fair;S;9 mph;59 °F;82 %;29.42 in
+10.09.2022;Hoffenheim;Mainz;4;1;Bundesliga;Cloudy;SE;7 mph;59 °F;92 %;29.60 in
+10.09.2022;E. Frankfurt;Wolfsburg;0;1;Bundesliga;Fair;S;2 mph;55 °F;94 %;29.52 in
+10.09.2022;Hertha Berlin;B. Leverkusen;2;2;Bundesliga;Fair;SSE;6 mph;59 °F;94 %;29.77 in
+10.09.2022;Schalke 04;Bochum;3;1;Bundesliga;Fair;SSE;6 mph;59 °F;94 %;29.77 in
+11.09.2022;Köln;Union Berlin;0;1;Bundesliga;Partly Cloudy;N;3 mph;59 °F;94 %;29.92 in
+11.09.2022;Freiburg;M'gladbach;0;0;Bundesliga;Mostly Cloudy;VAR;2 mph;57 °F;88 %;29.17 in
+02.09.2022;B. Dortmund;Hoffenheim;1;0;Bundesliga;Fair;NE;3 mph;59 °F;55 %;29.64 in
+03.09.2022;B. Leverkusen;Freiburg;2;3;Bundesliga;Fair;E;7 mph;63 °F;48 %;29.54 in
+03.09.2022;Union Berlin;Bayern Münih;1;1;Bundesliga;Fair;VAR;2 mph;50 °F;87 %;28.42 in
+03.09.2022;Wolfsburg;Köln;2;4;Bundesliga;Mostly Cloudy;E;7 mph;62 °F;54 %;29.76 in
+03.09.2022;Bochum;Werder Bremen;0;2;Bundesliga;Fair;ESE;9 mph;64 °F;45 %;29.50 in
+03.09.2022;Stuttgart;Schalke 04;1;1;Bundesliga;Fair;ENE;3 mph;59 °F;67 %;28.46 in
+03.09.2022;E. Frankfurt;Leipzig;4;0;Bundesliga;Fair;NE;10 mph;66 °F;43 %;29.52 in
+04.09.2022;Augsburg;Hertha Berlin;0;2;Bundesliga;Fair;S;1 mph;55 °F;94 %;27.87 in
+04.09.2022;M'gladbach;Mainz;0;1;Bundesliga;Fair;SSE;8 mph;64 °F;77 %;29.79 in
+26.08.2022;Freiburg;Bochum;1;0;Bundesliga;Fair;VAR;2 mph;64 °F;88 %;29.00 in
+27.08.2022;Leipzig;Wolfsburg;2;0;Bundesliga;Fair;N;5 mph;68 °F;94 %;29.42 in
+27.08.2022;Mainz;B. Leverkusen;0;3;Bundesliga;Partly Cloudy;NW;9 mph;72 °F;69 %;29.55 in
+27.08.2022;Hoffenheim;Augsburg;1;0;Bundesliga;Cloudy;WNW;4 mph;73 °F;65 %;29.60 in
+27.08.2022;Hertha Berlin;B. Dortmund;0;1;Bundesliga;Showers in the Vicinity;NW;9 mph;66 °F;94 %;29.86 in
+27.08.2022;Schalke 04;Union Berlin;1;6;Bundesliga;Showers in the Vicinity;NW;9 mph;66 °F;94 %;29.86 in
+27.08.2022;Bayern Münih;M'gladbach;1;1;Bundesliga;Light Rain Shower;W;3 mph;68 °F;88 %;28.39 in
+28.08.2022;Köln;Stuttgart;0;0;Bundesliga;Fair;WNW;7 mph;59 °F;82 %;29.95 in
+28.08.2022;Werder Bremen;E. Frankfurt;3;4;Bundesliga;Fair;WNW;8 mph;57 °F;82 %;30.00 in
+19.08.2022;M'gladbach;Hertha Berlin;1;0;Bundesliga;Fair;N;2 mph;64 °F;83 %;29.76 in
+20.08.2022;B. Dortmund;Werder Bremen;2;3;Bundesliga;Cloudy;W;3 mph;70 °F;78 %;29.55 in
+20.08.2022;B. Leverkusen;Hoffenheim;0;3;Bundesliga;Mostly Cloudy;W;8 mph;70 °F;78 %;29.65 in
+20.08.2022;Wolfsburg;Schalke 04;0;0;Bundesliga;Cloudy;SW;2 mph;65 °F;88 %;29.65 in
+20.08.2022;Augsburg;Mainz;1;2;Bundesliga;Cloudy;SW;10 mph;61 °F;94 %;27.82 in
+20.08.2022;Stuttgart;Freiburg;0;1;Bundesliga;Fair;W;8 mph;68 °F;73 %;28.54 in
+20.08.2022;Union Berlin;Leipzig;2;1;Bundesliga;Rain Shower;W;12 mph;63 °F;94 %;28.45 in
+21.08.2022;E. Frankfurt;Köln;1;1;Bundesliga;Fair;VAR;2 mph;63 °F;68 %;29.64 in
+21.08.2022;Bochum;Bayern Münih;0;7;Bundesliga;Fair;SW;7 mph;61 °F;82 %;29.61 in
+12.08.2022;Freiburg;B. Dortmund;1;3;Bundesliga;Fair;VAR;2 mph;68 °F;56 %;29.08 in
+13.08.2022;B. Leverkusen;Augsburg;1;2;Bundesliga;Fair;E;8 mph;73 °F;36 %;29.68 in
+13.08.2022;Leipzig;Köln;2;2;Bundesliga;Fair;NE;9 mph;70 °F;56 %;29.62 in
+13.08.2022;Hoffenheim;Bochum;3;2;Bundesliga;Fair;E;2 mph;68 °F;45 %;29.68 in
+13.08.2022;Hertha Berlin;E. Frankfurt;1;1;Bundesliga;Fair;VAR;2 mph;68 °F;64 %;30.06 in
+13.08.2022;Werder Bremen;Stuttgart;2;2;Bundesliga;Fair;ESE;5 mph;70 °F;46 %;30.06 in
+13.08.2022;Schalke 04;M'gladbach;2;2;Bundesliga;Fair;VAR;2 mph;68 °F;64 %;30.06 in
+14.08.2022;Mainz;Union Berlin;0;0;Bundesliga;Fair;NE;8 mph;75 °F;41 %;29.52 in
+14.08.2022;Bayern Münih;Wolfsburg;2;0;Bundesliga;Fair;ESE;3 mph;54 °F;94 %;28.42 in
+05.08.2022;E. Frankfurt;Bayern Münih;1;6;Bundesliga;Fair;NNW;7 mph;84 °F;42 %;29.49 in
+06.08.2022;Union Berlin;Hertha Berlin;3;1;Bundesliga;Light Rain;NW;5 mph;68 °F;83 %;28.56 in
+06.08.2022;M'gladbach;Hoffenheim;3;1;Bundesliga;Fair;NNW;6 mph;61 °F;63 %;30.08 in
+06.08.2022;Wolfsburg;Werder Bremen;2;2;Bundesliga;Fair;NW;7 mph;58 °F;68 %;29.91 in
+06.08.2022;Bochum;Mainz;1;2;Bundesliga;Mostly Cloudy;W;3 mph;57 °F;72 %;29.79 in
+06.08.2022;Augsburg;Freiburg;0;4;Bundesliga;Cloudy;SSW;10 mph;63 °F;94 %;27.95 in
+06.08.2022;B. Dortmund;B. Leverkusen;1;0;Bundesliga;Mostly Cloudy;W;3 mph;57 °F;72 %;29.79 in
+07.08.2022;Stuttgart;Leipzig;1;1;Bundesliga;Fair;NNE;3 mph;63 °F;45 %;28.74 in
+07.08.2022;Köln;Schalke 04;3;1;Bundesliga;Fair;ENE;2 mph;52 °F;88 %;30.27 in

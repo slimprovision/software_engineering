@@ -1,0 +1,307 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+12.05.2018;Bayern Münih;Stuttgart;1;4;Bundesliga;Fair;SW;1 mph;52 °F;93%;30.03 in
+12.05.2018;Hoffenheim;B. Dortmund;3;1;Bundesliga;Cloudy;NNE;2 mph;51 °F;93%;29.68 in
+12.05.2018;Hertha Berlin;Leipzig;2;6;Bundesliga;Mostly Cloudy;E;7 mph;57 °F;67%;30.03 in
+12.05.2018;Freiburg;Augsburg;2;0;Bundesliga;Fair;WSW;2 mph;55 °F;94%;29.05 in
+12.05.2018;Schalke 04;E. Frankfurt;1;0;Bundesliga;Mostly Cloudy;E;7 mph;57 °F;67%;30.03 in
+12.05.2018;B. Leverkusen;Hannover 96;3;2;Bundesliga;Fair;ESE;5 mph;59 °F;59%;29.65 in
+12.05.2018;Hamburg;M'gladbach;2;1;Bundesliga;Mostly Cloudy;E;7 mph;57 °F;67%;30.03 in
+12.05.2018;Mainz;Werder Bremen;1;2;Bundesliga;Fair;ENE;5 mph;54 °F;88%;29.64 in
+12.05.2018;Wolfsburg;Köln;4;1;Bundesliga;Mostly Cloudy;ESE;2 mph;56 °F;82%;29.81 in
+5.05.2018;B. Dortmund;Mainz;1;2;Bundesliga;Fair;ENE;5 mph;50 °F;62%;29.79 in
+5.05.2018;Leipzig;Wolfsburg;4;1;Bundesliga;Fair;NNE;8 mph;48 °F;62%;29.79 in
+5.05.2018;Köln;Bayern Münih;1;3;Bundesliga;Fair;VAR;2 mph;45 °F;71%;30.27 in
+5.05.2018;Werder Bremen;B. Leverkusen;0;0;Bundesliga;Fair;NE;7 mph;48 °F;71%;30.27 in
+5.05.2018;M'gladbach;Freiburg;3;1;Bundesliga;Fair;NNE;5 mph;52 °F;67%;30.08 in
+5.05.2018;E. Frankfurt;Hamburg;3;0;Bundesliga;Fair;NNE;13 mph;57 °F;55%;29.78 in
+5.05.2018;Augsburg;Schalke 04;1;2;Bundesliga;Cloudy;NE;13 mph;55 °F;72%;27.87 in
+5.05.2018;Hannover 96;Hertha Berlin;3;1;Bundesliga;Fair;VAR;2 mph;45 °F;71%;30.27 in
+5.05.2018;Stuttgart;Hoffenheim;2;0;Bundesliga;Fair;NE;9 mph;59 °F;55%;28.63 in
+27.04.2018;Hoffenheim;Hannover 96;3;1;Bundesliga;Cloudy;ESE;2 mph;43 °F;82%;29.74 in
+28.04.2018;Bayern Münih;E. Frankfurt;4;1;Bundesliga;Fair;VAR;2 mph;54 °F;77%;28.31 in
+28.04.2018;Hertha Berlin;Augsburg;2;2;Bundesliga;Fair;VAR;2 mph;48 °F;71%;29.74 in
+28.04.2018;Freiburg;Köln;3;2;Bundesliga;Fair;SSW;5 mph;55 °F;54%;28.94 in
+28.04.2018;Schalke 04;M'gladbach;1;1;Bundesliga;Fair;VAR;2 mph;48 °F;71%;29.74 in
+28.04.2018;Wolfsburg;Hamburg;1;3;Bundesliga;Fair;E;4 mph;49 °F;74%;29.52 in
+28.04.2018;B. Leverkusen;Stuttgart;0;1;Bundesliga;Fair;S;7 mph;54 °F;62%;29.42 in
+29.04.2018;Mainz;Leipzig;3;0;Bundesliga;Fair;SSE;5 mph;52 °F;88%;29.49 in
+29.04.2018;Werder Bremen;B. Dortmund;1;1;Bundesliga;Fair;ESE;3 mph;54 °F;82%;29.82 in
+20.04.2018;M'gladbach;Wolfsburg;3;0;Bundesliga;Fair;SE;7 mph;61 °F;55%;30.08 in
+21.04.2018;Leipzig;Hoffenheim;2;5;Bundesliga;Fair;WNW;7 mph;63 °F;68%;29.62 in
+21.04.2018;E. Frankfurt;Hertha Berlin;0;3;Bundesliga;Fair;VAR;1 mph;57 °F;77%;29.72 in
+21.04.2018;Hamburg;Freiburg;1;0;Bundesliga;Fair;VAR;1 mph;54 °F;72%;30.06 in
+21.04.2018;Hannover 96;Bayern Münih;0;3;Bundesliga;Fair;VAR;1 mph;54 °F;72%;30.06 in
+21.04.2018;Stuttgart;Werder Bremen;2;0;Bundesliga;Fair;W;6 mph;59 °F;67%;28.68 in
+21.04.2018;B. Dortmund;B. Leverkusen;4;0;Bundesliga;Fair;SSW;3 mph;61 °F;72%;29.70 in
+22.04.2018;Augsburg;Mainz;2;0;Bundesliga;Fair;S;7 mph;45 °F;87%;27.87 in
+22.04.2018;Köln;Schalke 04;2;2;Bundesliga;Fair;NW;3 mph;45 °F;87%;30.06 in
+13.04.2018;Wolfsburg;Augsburg;0;0;Bundesliga;Light Rain;E;9 mph;63 °F;65%;29.34 in
+14.04.2018;Hoffenheim;Hamburg;2;0;Bundesliga;Mostly Cloudy;E;2 mph;49 °F;100%;29.65 in
+14.04.2018;Hertha Berlin;Köln;2;1;Bundesliga;Partly Cloudy;VAR;1 mph;45 °F;87%;29.71 in
+14.04.2018;B. Leverkusen;E. Frankfurt;4;1;Bundesliga;Mostly Cloudy;ESE;7 mph;54 °F;82%;29.56 in
+14.04.2018;Stuttgart;Hannover 96;1;1;Bundesliga;Fair;VAR;2 mph;43 °F;93%;28.54 in
+14.04.2018;Bayern Münih;M'gladbach;5;1;Bundesliga;Fair;SSW;6 mph;43 °F;87%;28.48 in
+15.04.2018;Schalke 04;B. Dortmund;2;0;Bundesliga;Mist;SW;3 mph;48 °F;93%;30.00 in
+15.04.2018;Werder Bremen;Leipzig;1;1;Bundesliga;Partly Cloudy;SSE;2 mph;48 °F;93%;30.03 in
+16.04.2018;Mainz;Freiburg;2;0;Bundesliga;Mostly Cloudy;VAR;5 mph;57 °F;94%;29.46 in
+6.04.2018;Hannover 96;Werder Bremen;2;1;Bundesliga;Mostly Cloudy;W;8 mph;37 °F;87%;30.06 in
+7.04.2018;Köln;Mainz;1;1;Bundesliga;Fair;ESE;12 mph;46 °F;57%;30.03 in
+7.04.2018;Freiburg;Wolfsburg;0;2;Bundesliga;Fair;VAR;1 mph;45 °F;76%;28.99 in
+7.04.2018;M'gladbach;Hertha Berlin;2;1;Bundesliga;Fair;SSE;16 mph;54 °F;44%;29.76 in
+7.04.2018;Augsburg;Bayern Münih;1;4;Bundesliga;Fair;VAR;2 mph;30 °F;100%;27.79 in
+7.04.2018;Hamburg;Schalke 04;3;2;Bundesliga;Fair;ESE;12 mph;46 °F;57%;30.03 in
+8.04.2018;B. Dortmund;Stuttgart;3;0;Bundesliga;Fair;S;7 mph;61 °F;39%;29.35 in
+8.04.2018;E. Frankfurt;Hoffenheim;1;1;Bundesliga;Fair;NNE;5 mph;55 °F;51%;29.43 in
+9.04.2018;Leipzig;B. Leverkusen;1;4;Bundesliga;Fair;SE;5 mph;48 °F;82%;29.30 in
+31.03.2018;Hoffenheim;Köln;6;0;Bundesliga;Mostly Cloudy;SSE;4 mph;46 °F;92%;29.17 in
+31.03.2018;Schalke 04;Freiburg;2;0;Bundesliga;Fair;E;14 mph;37 °F;75%;29.59 in
+31.03.2018;B. Leverkusen;Augsburg;0;0;Bundesliga;Mostly Cloudy;SE;7 mph;45 °F;87%;29.16 in
+31.03.2018;Hannover 96;Leipzig;2;3;Bundesliga;Fair;E;14 mph;37 °F;75%;29.59 in
+31.03.2018;Stuttgart;Hamburg;1;1;Bundesliga;Mostly Cloudy;SSW;5 mph;45 °F;87%;28.06 in
+31.03.2018;Bayern Münih;B. Dortmund;6;0;Bundesliga;Fair / Windy;WSW;21 mph;45 °F;81%;27.94 in
+31.03.2018;Hertha Berlin;Wolfsburg;0;0;Bundesliga;Fair;E;14 mph;37 °F;75%;29.59 in
+1.04.2018;Werder Bremen;E. Frankfurt;2;1;Bundesliga;Partly Cloudy;NNE;3 mph;34 °F;87%;29.59 in
+1.04.2018;Mainz;M'gladbach;0;0;Bundesliga;Light Rain Shower;WSW;6 mph;48 °F;62%;29.17 in
+16.03.2018;Freiburg;Stuttgart;1;2;Bundesliga;Mostly Cloudy;SSW;6 mph;41 °F;93%;28.59 in
+17.03.2018;M'gladbach;Hoffenheim;3;3;Bundesliga;Mostly Cloudy;NE;15 mph;34 °F;81%;29.55 in
+17.03.2018;E. Frankfurt;Mainz;3;0;Bundesliga;Mostly Cloudy;NNE;20 mph;34 °F;87%;29.26 in
+17.03.2018;Augsburg;Werder Bremen;1;3;Bundesliga;Fair;NE;6 mph;32 °F;93%;27.32 in
+17.03.2018;Hamburg;Hertha Berlin;1;2;Bundesliga;Light Snow;E;20 mph;27 °F;69%;29.95 in
+17.03.2018;Wolfsburg;Schalke 04;0;1;Bundesliga;Light Snow;NE;13 mph;26 °F;90%;29.59 in
+18.03.2018;B. Dortmund;Hannover 96;1;0;Bundesliga;Cloudy / Windy;E;25 mph;27 °F;64%;29.29 in
+18.03.2018;Köln;B. Leverkusen;2;0;Bundesliga;Fair / Windy;E;22 mph;25 °F;50%;30.00 in
+18.03.2018;Leipzig;Bayern Münih;2;1;Bundesliga;Blowing Snow / Windy;ENE;24 mph;25 °F;69%;29.39 in
+9.03.2018;Mainz;Schalke 04;0;1;Bundesliga;Mostly Cloudy;SSW;8 mph;39 °F;87%;29.34 in
+10.03.2018;Bayern Münih;Hamburg;6;0;Bundesliga;Fair;ENE;3 mph;43 °F;81%;28.22 in
+10.03.2018;Hoffenheim;Wolfsburg;3;0;Bundesliga;Cloudy;ENE;2 mph;46 °F;100%;29.37 in
+10.03.2018;Hertha Berlin;Freiburg;0;0;Bundesliga;Mostly Cloudy;VAR;2 mph;36 °F;93%;29.65 in
+10.03.2018;Hannover 96;Augsburg;1;3;Bundesliga;Mostly Cloudy;VAR;2 mph;36 °F;93%;29.65 in
+10.03.2018;B. Leverkusen;M'gladbach;2;0;Bundesliga;Light Rain;ESE;6 mph;46 °F;93%;29.27 in
+11.03.2018;Stuttgart;Leipzig;0;0;Bundesliga;Fair;VAR;1 mph;46 °F;93%;28.18 in
+11.03.2018;B. Dortmund;E. Frankfurt;3;2;Bundesliga;Cloudy;S;8 mph;54 °F;77%;29.09 in
+12.03.2018;Werder Bremen;Köln;3;1;Bundesliga;Mist;ENE;1 mph;43 °F;100%;29.29 in
+2.03.2018;M'gladbach;Werder Bremen;2;2;Bundesliga;Fair;ENE;13 mph;23 °F;54%;29.43 in
+3.03.2018;Schalke 04;Hertha Berlin;1;0;Bundesliga;Fair;ENE;8 mph;12 °F;79%;29.68 in
+3.03.2018;E. Frankfurt;Hannover 96;1;0;Bundesliga;Light Snow;NE;6 mph;27 °F;93%;29.14 in
+3.03.2018;Augsburg;Hoffenheim;0;2;Bundesliga;Fog;N;5 mph;18 °F;93%;27.24 in
+3.03.2018;Hamburg;Mainz;0;0;Bundesliga;Fair;ENE;8 mph;12 °F;79%;29.68 in
+3.03.2018;Wolfsburg;B. Leverkusen;1;2;Bundesliga;Fair;E;7 mph;17 °F;63%;29.37 in
+3.03.2018;Leipzig;B. Dortmund;1;1;Bundesliga;Partly Cloudy;E;10 mph;19 °F;54%;29.15 in
+4.03.2018;Köln;Stuttgart;2;3;Bundesliga;Fair;E;12 mph;21 °F;63%;29.62 in
+4.03.2018;Freiburg;Bayern Münih;0;4;Bundesliga;Mist;VAR;3 mph;36 °F;93%;28.59 in
+23.02.2018;Mainz;Wolfsburg;1;1;Bundesliga;Fair;NNE;13 mph;30 °F;55%;29.72 in
+24.02.2018;Bayern Münih;Hertha Berlin;0;0;Bundesliga;Cloudy;ENE;13 mph;28 °F;69%;28.45 in
+24.02.2018;Hoffenheim;Freiburg;1;1;Bundesliga;Fair;NE;9 mph;30 °F;57%;29.76 in
+24.02.2018;Hannover 96;M'gladbach;0;1;Bundesliga;Fair;E;5 mph;25 °F;74%;30.33 in
+24.02.2018;Stuttgart;E. Frankfurt;1;0;Bundesliga;Cloudy;NE;13 mph;30 °F;69%;28.51 in
+24.02.2018;Werder Bremen;Hamburg;1;0;Bundesliga;Fair;ENE;9 mph;25 °F;69%;30.32 in
+25.02.2018;B. Leverkusen;Schalke 04;0;2;Bundesliga;Fair;E;8 mph;28 °F;47%;29.94 in
+25.02.2018;Leipzig;Köln;1;2;Bundesliga;Fair;NE;7 mph;19 °F;74%;29.97 in
+26.02.2018;B. Dortmund;Augsburg;1;1;Bundesliga;Partly Cloudy;ENE;6 mph;19 °F;80%;29.93 in
+16.02.2018;Hertha Berlin;Mainz;0;2;Bundesliga;Fair;WSW;8 mph;36 °F;93%;29.89 in
+17.02.2018;Köln;Hannover 96;1;1;Bundesliga;Partly Cloudy;W;6 mph;36 °F;87%;30.21 in
+17.02.2018;Freiburg;Werder Bremen;1;0;Bundesliga;Mostly Cloudy;VAR;3 mph;41 °F;87%;29.25 in
+17.02.2018;Hamburg;B. Leverkusen;1;2;Bundesliga;Partly Cloudy;W;6 mph;36 °F;87%;30.21 in
+17.02.2018;Wolfsburg;Bayern Münih;1;2;Bundesliga;Cloudy;SW;7 mph;33 °F;83%;30.03 in
+17.02.2018;Schalke 04;Hoffenheim;2;1;Bundesliga;Partly Cloudy;W;6 mph;36 °F;87%;30.21 in
+18.02.2018;Augsburg;Stuttgart;0;1;Bundesliga;Light Snow;NNE;6 mph;28 °F;100%;28.01 in
+18.02.2018;M'gladbach;B. Dortmund;0;1;Bundesliga;Fair;ESE;6 mph;27 °F;93%;30.14 in
+19.02.2018;E. Frankfurt;Leipzig;2;1;Bundesliga;Mostly Cloudy;ENE;6 mph;30 °F;86%;29.87 in
+9.02.2018;Leipzig;Augsburg;2;0;Bundesliga;Cloudy;S;7 mph;28 °F;80%;29.62 in
+10.02.2018;B. Dortmund;Hamburg;2;0;Bundesliga;Cloudy;S;9 mph;32 °F;75%;29.47 in
+10.02.2018;Hoffenheim;Mainz;4;2;Bundesliga;Cloudy;SSE;4 mph;33 °F;95%;29.64 in
+10.02.2018;E. Frankfurt;Köln;4;2;Bundesliga;Mostly Cloudy;NW;3 mph;32 °F;87%;29.58 in
+10.02.2018;B. Leverkusen;Hertha Berlin;0;2;Bundesliga;Cloudy;SSE;6 mph;34 °F;81%;29.59 in
+10.02.2018;Hannover 96;Freiburg;2;1;Bundesliga;Mist;VAR;2 mph;25 °F;86%;29.92 in
+10.02.2018;Bayern Münih;Schalke 04;2;1;Bundesliga;Cloudy;E;2 mph;30 °F;86%;28.42 in
+11.02.2018;Stuttgart;M'gladbach;1;0;Bundesliga;Mostly Cloudy;SW;6 mph;34 °F;87%;28.48 in
+11.02.2018;Werder Bremen;Wolfsburg;3;1;Bundesliga;Mist;S;12 mph;34 °F;93%;29.73 in
+2.02.2018;Köln;B. Dortmund;2;3;Bundesliga;Mostly Cloudy;SW;16 mph;37 °F;87%;29.39 in
+3.02.2018;Hertha Berlin;Hoffenheim;1;1;Bundesliga;Light Snow;NNW;8 mph;36 °F;93%;29.59 in
+3.02.2018;Freiburg;B. Leverkusen;0;0;Bundesliga;Mostly Cloudy;SSE;3 mph;32 °F;93%;28.85 in
+3.02.2018;Schalke 04;Werder Bremen;1;2;Bundesliga;Light Snow;NNW;8 mph;36 °F;93%;29.59 in
+3.02.2018;Mainz;Bayern Münih;0;2;Bundesliga;Mostly Cloudy;SSW;6 mph;36 °F;93%;29.34 in
+3.02.2018;Wolfsburg;Stuttgart;1;1;Bundesliga;Mostly Cloudy;W;11 mph;38 °F;83%;29.37 in
+3.02.2018;M'gladbach;Leipzig;0;1;Bundesliga;Mostly Cloudy;NW;8 mph;39 °F;87%;29.58 in
+4.02.2018;Augsburg;E. Frankfurt;3;0;Bundesliga;Mostly Cloudy;SSW;5 mph;25 °F;100%;27.63 in
+4.02.2018;Hamburg;Hannover 96;1;1;Bundesliga;Light Snow;NW;8 mph;30 °F;86%;29.77 in
+26.01.2018;E. Frankfurt;M'gladbach;2;0;Bundesliga;Light Rain;SSE;2 mph;46 °F;93%;29.52 in
+27.01.2018;Bayern Münih;Hoffenheim;5;2;Bundesliga;Mostly Cloudy;S;2 mph;32 °F;93%;28.64 in
+27.01.2018;B. Dortmund;Freiburg;2;2;Bundesliga;Cloudy;VAR;2 mph;41 °F;87%;29.84 in
+27.01.2018;Leipzig;Hamburg;1;1;Bundesliga;Mist;W;5 mph;41 °F;100%;29.79 in
+27.01.2018;Köln;Augsburg;1;1;Bundesliga;Mist;WSW;6 mph;39 °F;93%;30.21 in
+27.01.2018;Stuttgart;Schalke 04;0;2;Bundesliga;Light Drizzle;NNW;7 mph;41 °F;100%;28.77 in
+27.01.2018;Werder Bremen;Hertha Berlin;0;0;Bundesliga;Mist;WSW;2 mph;41 °F;93%;30.27 in
+28.01.2018;B. Leverkusen;Mainz;2;0;Bundesliga;Cloudy;S;12 mph;43 °F;76%;30.03 in
+28.01.2018;Hannover 96;Wolfsburg;0;1;Bundesliga;Mostly Cloudy / Windy;SW;22 mph;41 °F;93%;30.03 in
+19.01.2018;Hertha Berlin;B. Dortmund;1;1;Bundesliga;Mostly Cloudy;W;6 mph;34 °F;100%;29.42 in
+20.01.2018;Hoffenheim;B. Leverkusen;1;4;Bundesliga;Mostly Cloudy;SSE;7 mph;36 °F;96%;29.58 in
+20.01.2018;Freiburg;Leipzig;2;1;Bundesliga;Mostly Cloudy;W;9 mph;37 °F;81%;29.05 in
+20.01.2018;M'gladbach;Augsburg;2;0;Bundesliga;Partly Cloudy;SSW;12 mph;36 °F;87%;29.64 in
+20.01.2018;Mainz;Stuttgart;3;2;Bundesliga;Fair;WSW;5 mph;30 °F;100%;29.49 in
+20.01.2018;Wolfsburg;E. Frankfurt;1;3;Bundesliga;Cloudy;SSW;7 mph;34 °F;93%;29.48 in
+20.01.2018;Hamburg;Köln;0;2;Bundesliga;Mostly Cloudy;SW;9 mph;34 °F;93%;29.65 in
+21.01.2018;Bayern Münih;Werder Bremen;4;2;Bundesliga;Wintry Mix;W;8 mph;34 °F;93%;27.92 in
+21.01.2018;Schalke 04;Hannover 96;1;1;Bundesliga;Fair;VAR;2 mph;32 °F;100%;29.56 in
+12.01.2018;B. Leverkusen;Bayern Münih;1;3;Bundesliga;Mostly Cloudy;VAR;1 mph;43 °F;93%;29.83 in
+13.01.2018;Werder Bremen;Hoffenheim;1;1;Bundesliga;Mist;E;7 mph;36 °F;100%;30.35 in
+13.01.2018;E. Frankfurt;Freiburg;1;1;Bundesliga;Cloudy;ENE;6 mph;43 °F;87%;29.93 in
+13.01.2018;Augsburg;Hamburg;1;0;Bundesliga;Mostly Cloudy;ENE;6 mph;34 °F;87%;27.98 in
+13.01.2018;Hannover 96;Mainz;3;2;Bundesliga;Mist;E;9 mph;34 °F;93%;30.36 in
+13.01.2018;Stuttgart;Hertha Berlin;1;0;Bundesliga;Cloudy;E;6 mph;37 °F;87%;28.79 in
+13.01.2018;Leipzig;Schalke 04;3;1;Bundesliga;Mist;E;10 mph;36 °F;100%;29.91 in
+14.01.2018;Köln;M'gladbach;2;1;Bundesliga;Mostly Cloudy;ESE;14 mph;32 °F;69%;30.33 in
+14.01.2018;B. Dortmund;Wolfsburg;0;0;Bundesliga;Cloudy;E;9 mph;39 °F;70%;29.73 in
+15.12.2017;M'gladbach;Hamburg;3;1;Bundesliga;Mostly Cloudy;SW;9 mph;36 °F;93%;29.08 in
+16.12.2017;Köln;Wolfsburg;1;0;Bundesliga;Mostly Cloudy;WSW;8 mph;37 °F;81%;29.47 in
+16.12.2017;Werder Bremen;Mainz;2;2;Bundesliga;Cloudy;W;7 mph;37 °F;87%;29.53 in
+16.12.2017;E. Frankfurt;Schalke 04;2;2;Bundesliga;Light Rain;N;3 mph;36 °F;100%;29.20 in
+16.12.2017;Augsburg;Freiburg;3;3;Bundesliga;Mostly Cloudy;SW;7 mph;30 °F;93%;27.46 in
+16.12.2017;Stuttgart;Bayern Münih;0;1;Bundesliga;Fair;E;3 mph;30 °F;100%;28.12 in
+16.12.2017;B. Dortmund;Hoffenheim;2;1;Bundesliga;Cloudy;W;3 mph;36 °F;87%;29.15 in
+17.12.2017;Hannover 96;B. Leverkusen;4;4;Bundesliga;Partly Cloudy;WSW;9 mph;36 °F;87%;29.80 in
+17.12.2017;Leipzig;Hertha Berlin;2;3;Bundesliga;Light Snow Shower;WSW;13 mph;36 °F;93%;29.44 in
+12.12.2017;Wolfsburg;Leipzig;1;1;Bundesliga;Cloudy;SSW;9 mph;46 °F;74%;28.74 in
+12.12.2017;Freiburg;M'gladbach;1;0;Bundesliga;Mostly Cloudy;WSW;12 mph;46 °F;66%;28.36 in
+12.12.2017;Hamburg;E. Frankfurt;1;2;Bundesliga;Light Rain;NE;5 mph;32 °F;100%;28.97 in
+12.12.2017;Mainz;B. Dortmund;0;2;Bundesliga;Mostly Cloudy;SSW;18 mph;45 °F;76%;28.76 in
+13.12.2017;Hoffenheim;Stuttgart;1;0;Bundesliga;Fair;S;7 mph;31 °F;98%;29.71 in
+13.12.2017;Bayern Münih;Köln;1;0;Bundesliga;Fair;SSW;5 mph;32 °F;87%;28.50 in
+13.12.2017;Hertha Berlin;Hannover 96;3;1;Bundesliga;Cloudy;SW;17 mph;34 °F;100%;29.77 in
+13.12.2017;Schalke 04;Augsburg;3;2;Bundesliga;Cloudy;SW;17 mph;34 °F;100%;29.77 in
+13.12.2017;B. Leverkusen;Werder Bremen;1;0;Bundesliga;Fair;S;8 mph;32 °F;87%;29.62 in
+8.12.2017;Stuttgart;B. Leverkusen;0;2;Bundesliga;Light Rain;SW;12 mph;45 °F;61%;28.40 in
+9.12.2017;B. Dortmund;Werder Bremen;1;2;Bundesliga;Cloudy;W;14 mph;32 °F;93%;29.35 in
+9.12.2017;Leipzig;Mainz;2;2;Bundesliga;Fair;SW;12 mph;32 °F;87%;29.27 in
+9.12.2017;E. Frankfurt;Bayern Münih;0;1;Bundesliga;Mostly Cloudy;SSW;13 mph;34 °F;75%;29.49 in
+9.12.2017;Hamburg;Wolfsburg;0;0;Bundesliga;Mostly Cloudy;WSW;13 mph;34 °F;93%;29.53 in
+9.12.2017;M'gladbach;Schalke 04;1;1;Bundesliga;Mostly Cloudy;WSW;7 mph;32 °F;100%;29.70 in
+10.12.2017;Köln;Freiburg;3;4;Bundesliga;Cloudy;SW;17 mph;36 °F;87%;29.50 in
+10.12.2017;Hannover 96;Hoffenheim;2;0;Bundesliga;Cloudy;SW;17 mph;36 °F;87%;29.50 in
+10.12.2017;Augsburg;Hertha Berlin;1;1;Bundesliga;Fair;S;12 mph;21 °F;74%;27.54 in
+1.12.2017;Freiburg;Hamburg;0;0;Bundesliga;Mostly Cloudy;WSW;12 mph;34 °F;81%;28.82 in
+2.12.2017;Bayern Münih;Hannover 96;3;1;Bundesliga;Mostly Cloudy;VAR;1 mph;28 °F;100%;28.48 in
+2.12.2017;Hoffenheim;Leipzig;4;0;Bundesliga;Mostly Cloudy;NW;4 mph;30 °F;100%;29.80 in
+2.12.2017;Werder Bremen;Stuttgart;1;0;Bundesliga;Mostly Cloudy;WNW;5 mph;34 °F;100%;30.18 in
+2.12.2017;B. Leverkusen;B. Dortmund;1;1;Bundesliga;Mostly Cloudy;SSE;3 mph;30 °F;93%;29.83 in
+2.12.2017;Mainz;Augsburg;1;3;Bundesliga;Fair;VAR;2 mph;27 °F;100%;29.75 in
+2.12.2017;Schalke 04;Köln;2;2;Bundesliga;Mist;WNW;5 mph;36 °F;100%;30.12 in
+3.12.2017;Hertha Berlin;E. Frankfurt;1;2;Bundesliga;Mostly Cloudy;SSW;12 mph;32 °F;93%;30.12 in
+3.12.2017;Wolfsburg;M'gladbach;3;0;Bundesliga;Fair;SSW;4 mph;30 °F;91%;29.98 in
+24.11.2017;Hannover 96;Stuttgart;1;1;Bundesliga;Fair;SSW;12 mph;45 °F;87%;29.68 in
+25.11.2017;B. Dortmund;Schalke 04;4;4;Bundesliga;Cloudy;SSE;5 mph;43 °F;87%;29.41 in
+25.11.2017;Leipzig;Werder Bremen;2;0;Bundesliga;Mostly Cloudy;S;6 mph;45 °F;100%;29.42 in
+25.11.2017;Freiburg;Mainz;2;1;Bundesliga;Mostly Cloudy;SSE;3 mph;50 °F;94%;28.96 in
+25.11.2017;E. Frankfurt;B. Leverkusen;0;1;Bundesliga;Rain;E;5 mph;46 °F;100%;29.46 in
+25.11.2017;Augsburg;Wolfsburg;2;1;Bundesliga;Fair;SSE;3 mph;45 °F;87%;27.57 in
+25.11.2017;M'gladbach;Bayern Münih;2;1;Bundesliga;Light Rain;NNE;2 mph;45 °F;93%;29.70 in
+26.11.2017;Hamburg;Hoffenheim;3;0;Bundesliga;Fair;SW;10 mph;36 °F;93%;29.83 in
+26.11.2017;Köln;Hertha Berlin;0;2;Bundesliga;Fair;SW;10 mph;36 °F;93%;29.83 in
+17.11.2017;Stuttgart;B. Dortmund;2;1;Bundesliga;Cloudy;SSW;5 mph;32 °F;93%;28.79 in
+18.11.2017;Bayern Münih;Augsburg;3;0;Bundesliga;Cloudy;SE;1 mph;34 °F;100%;28.67 in
+18.11.2017;Hoffenheim;E. Frankfurt;1;1;Bundesliga;Cloudy;CALM;0 mph;41 °F;98%;29.93 in
+18.11.2017;B. Leverkusen;Leipzig;2;2;Bundesliga;Shallow Fog;VAR;2 mph;30 °F;100%;29.91 in
+18.11.2017;Mainz;Köln;1;0;Bundesliga;Mist;SSW;3 mph;41 °F;100%;29.87 in
+18.11.2017;Wolfsburg;Freiburg;3;1;Bundesliga;Cloudy;SSW;7 mph;36 °F;89%;29.92 in
+18.11.2017;Hertha Berlin;M'gladbach;2;4;Bundesliga;Fair;SW;12 mph;43 °F;81%;30.06 in
+19.11.2017;Schalke 04;Hamburg;2;0;Bundesliga;Light Rain Shower;SW;13 mph;39 °F;93%;29.68 in
+19.11.2017;Werder Bremen;Hannover 96;4;0;Bundesliga;Fair;WSW;14 mph;37 °F;87%;29.79 in
+3.11.2017;E. Frankfurt;Werder Bremen;2;1;Bundesliga;Shallow Fog;SSW;2 mph;45 °F;93%;29.64 in
+4.11.2017;Leipzig;Hannover 96;2;1;Bundesliga;Mostly Cloudy;SSE;7 mph;43 °F;93%;29.50 in
+4.11.2017;Freiburg;Schalke 04;0;1;Bundesliga;Mist;SW;2 mph;43 °F;93%;28.99 in
+4.11.2017;M'gladbach;Mainz;1;1;Bundesliga;Fair;SSE;8 mph;43 °F;93%;29.76 in
+4.11.2017;Augsburg;B. Leverkusen;1;1;Bundesliga;Fair;S;2 mph;37 °F;100%;27.73 in
+4.11.2017;Hamburg;Stuttgart;3;1;Bundesliga;Fair;SW;3 mph;48 °F;93%;29.86 in
+4.11.2017;B. Dortmund;Bayern Münih;1;3;Bundesliga;Partly Cloudy;SSE;8 mph;43 °F;81%;29.38 in
+5.11.2017;Köln;Hoffenheim;0;3;Bundesliga;Mostly Cloudy;SSW;17 mph;55 °F;82%;29.53 in
+5.11.2017;Wolfsburg;Hertha Berlin;3;3;Bundesliga;Cloudy;SW;9 mph;55 °F;77%;29.41 in
+27.10.2017;Mainz;E. Frankfurt;1;1;Bundesliga;Patches of Fog;SW;5 mph;54 °F;94%;29.78 in
+28.10.2017;Hoffenheim;M'gladbach;1;3;Bundesliga;Partly Cloudy;S;4 mph;45 °F;93%;30.08 in
+28.10.2017;Hertha Berlin;Hamburg;2;1;Bundesliga;Light Rain Shower;W;12 mph;50 °F;94%;30.12 in
+28.10.2017;Schalke 04;Wolfsburg;1;1;Bundesliga;Light Rain Shower;W;12 mph;50 °F;94%;30.12 in
+28.10.2017;B. Leverkusen;Köln;2;1;Bundesliga;Mostly Cloudy;W;6 mph;50 °F;82%;30.06 in
+28.10.2017;Hannover 96;B. Dortmund;4;2;Bundesliga;Light Rain Shower;W;12 mph;50 °F;94%;30.12 in
+28.10.2017;Bayern Münih;Leipzig;2;0;Bundesliga;Fair;W;9 mph;46 °F;81%;28.78 in
+29.10.2017;Werder Bremen;Augsburg;0;3;Bundesliga;Mostly Cloudy / Windy;W;25 mph;55 °F;88%;29.50 in
+29.10.2017;Stuttgart;Freiburg;3;0;Bundesliga;Mostly Cloudy;WSW;14 mph;48 °F;71%;28.57 in
+20.10.2017;Schalke 04;Mainz;2;0;Bundesliga;Mist;SE;9 mph;54 °F;100%;29.80 in
+21.10.2017;Leipzig;Stuttgart;1;0;Bundesliga;Fair;SW;9 mph;50 °F;87%;29.50 in
+21.10.2017;M'gladbach;B. Leverkusen;1;5;Bundesliga;Fair;S;12 mph;54 °F;72%;29.79 in
+21.10.2017;E. Frankfurt;B. Dortmund;2;2;Bundesliga;Partly Cloudy;ESE;5 mph;43 °F;100%;29.61 in
+21.10.2017;Augsburg;Hannover 96;1;2;Bundesliga;Mostly Cloudy;SSW;16 mph;54 °F;94%;27.87 in
+21.10.2017;Hamburg;Bayern Münih;0;1;Bundesliga;Mostly Cloudy;SSW;12 mph;54 °F;94%;29.80 in
+22.10.2017;Köln;Werder Bremen;0;0;Bundesliga;Fair;S;10 mph;54 °F;94%;29.77 in
+22.10.2017;Freiburg;Hertha Berlin;1;1;Bundesliga;Mostly Cloudy;SE;5 mph;52 °F;82%;29.16 in
+22.10.2017;Wolfsburg;Hoffenheim;1;1;Bundesliga;Cloudy;S;2 mph;55 °F;96%;29.59 in
+13.10.2017;Stuttgart;Köln;2;1;Bundesliga;Partly Cloudy;WSW;3 mph;50 °F;94%;28.85 in
+14.10.2017;Bayern Münih;Freiburg;5;0;Bundesliga;Patches of Fog;CALM;0 mph;43 °F;93%;28.81 in
+14.10.2017;Hoffenheim;Augsburg;2;2;Bundesliga;Fair;S;2 mph;52 °F;100%;30.00 in
+14.10.2017;Hertha Berlin;Schalke 04;0;2;Bundesliga;Mostly Cloudy;SW;10 mph;61 °F;88%;30.12 in
+14.10.2017;Mainz;Hamburg;3;2;Bundesliga;Mostly Cloudy;VAR;1 mph;59 °F;88%;29.93 in
+14.10.2017;Hannover 96;E. Frankfurt;1;2;Bundesliga;Mostly Cloudy;SW;10 mph;61 °F;88%;30.12 in
+14.10.2017;B. Dortmund;Leipzig;2;3;Bundesliga;Fair;SSW;13 mph;57 °F;82%;29.84 in
+15.10.2017;B. Leverkusen;Wolfsburg;2;2;Bundesliga;Shallow Fog;ENE;5 mph;59 °F;88%;29.94 in
+15.10.2017;Werder Bremen;M'gladbach;0;2;Bundesliga;Fog;VAR;2 mph;50 °F;100%;30.24 in
+29.09.2017;Schalke 04;B. Leverkusen;1;1;Bundesliga;Mist;E;8 mph;59 °F;94%;30.18 in
+30.09.2017;M'gladbach;Hannover 96;2;1;Bundesliga;Fair;VAR;7 mph;68 °F;78%;29.88 in
+30.09.2017;E. Frankfurt;Stuttgart;2;1;Bundesliga;Shallow Fog;N;6 mph;61 °F;94%;29.69 in
+30.09.2017;Augsburg;B. Dortmund;1;2;Bundesliga;Fair;SSW;1 mph;48 °F;100%;27.93 in
+30.09.2017;Wolfsburg;Mainz;1;1;Bundesliga;Cloudy;SE;7 mph;61 °F;90%;29.83 in
+30.09.2017;Hamburg;Werder Bremen;0;0;Bundesliga;Mostly Cloudy;SE;14 mph;61 °F;82%;30.03 in
+1.10.2017;Freiburg;Hoffenheim;3;2;Bundesliga;Mostly Cloudy;VAR;1 mph;52 °F;88%;29.22 in
+1.10.2017;Hertha Berlin;Bayern Münih;2;2;Bundesliga;Light Rain;W;7 mph;54 °F;100%;29.92 in
+1.10.2017;Köln;Leipzig;1;2;Bundesliga;Light Rain;W;7 mph;54 °F;100%;29.92 in
+22.09.2017;Bayern Münih;Wolfsburg;2;2;Bundesliga;Shallow Fog;VAR;1 mph;39 °F;100%;28.59 in
+23.09.2017;Leipzig;E. Frankfurt;2;1;Bundesliga;Fair;S;6 mph;54 °F;88%;29.71 in
+23.09.2017;Hoffenheim;Schalke 04;2;0;Bundesliga;Cloudy;NNE;2 mph;53 °F;97%;29.85 in
+23.09.2017;Werder Bremen;Freiburg;0;0;Bundesliga;Fair;S;1 mph;54 °F;94%;30.15 in
+23.09.2017;Mainz;Hertha Berlin;1;0;Bundesliga;Shallow Fog;VAR;2 mph;50 °F;100%;29.78 in
+23.09.2017;Stuttgart;Augsburg;0;0;Bundesliga;Fair;VAR;1 mph;52 °F;94%;28.74 in
+23.09.2017;B. Dortmund;M'gladbach;6;1;Bundesliga;Mostly Cloudy;VAR;1 mph;55 °F;88%;29.76 in
+24.09.2017;Hannover 96;Köln;0;0;Bundesliga;Fair;NE;3 mph;54 °F;94%;30.15 in
+24.09.2017;B. Leverkusen;Hamburg;3;0;Bundesliga;Fair;CALM;0 mph;50 °F;100%;29.83 in
+19.09.2017;M'gladbach;Stuttgart;2;0;Bundesliga;Rain Shower;SSW;8 mph;52 °F;94%;29.82 in
+19.09.2017;Schalke 04;Bayern Münih;0;3;Bundesliga;Fair;VAR;1 mph;48 °F;100%;29.92 in
+19.09.2017;Augsburg;Leipzig;1;0;Bundesliga;Fair;SW;7 mph;45 °F;93%;27.84 in
+19.09.2017;Wolfsburg;Werder Bremen;1;1;Bundesliga;Mostly Cloudy;S;4 mph;49 °F;94%;29.71 in
+20.09.2017;Köln;E. Frankfurt;0;1;Bundesliga;Light Rain;W;5 mph;54 °F;94%;29.97 in
+20.09.2017;Hertha Berlin;B. Leverkusen;2;1;Bundesliga;Light Rain;W;5 mph;54 °F;94%;29.97 in
+20.09.2017;Freiburg;Hannover 96;1;1;Bundesliga;Mostly Cloudy;WSW;3 mph;52 °F;88%;29.22 in
+20.09.2017;Hamburg;B. Dortmund;0;3;Bundesliga;Light Rain;W;5 mph;54 °F;94%;29.97 in
+20.09.2017;Mainz;Hoffenheim;2;3;Bundesliga;Mostly Cloudy;SW;3 mph;52 °F;94%;29.72 in
+15.09.2017;Hannover 96;Hamburg;2;0;Bundesliga;Mostly Cloudy;W;10 mph;54 °F;94%;29.53 in
+16.09.2017;Bayern Münih;Mainz;4;0;Bundesliga;Fair;ENE;1 mph;48 °F;93%;28.36 in
+16.09.2017;Werder Bremen;Schalke 04;1;2;Bundesliga;Fair;SSW;7 mph;50 °F;87%;29.76 in
+16.09.2017;E. Frankfurt;Augsburg;1;2;Bundesliga;Shallow Fog;CALM;0 mph;46 °F;93%;29.49 in
+16.09.2017;Stuttgart;Wolfsburg;1;0;Bundesliga;Fair;W;3 mph;46 °F;93%;28.46 in
+16.09.2017;Leipzig;M'gladbach;2;2;Bundesliga;Fair;S;8 mph;50 °F;82%;29.39 in
+17.09.2017;Hoffenheim;Hertha Berlin;1;1;Bundesliga;Cloudy;SSE;4 mph;49 °F;92%;29.59 in
+17.09.2017;B. Leverkusen;Freiburg;4;0;Bundesliga;Shallow Fog;E;3 mph;48 °F;93%;29.56 in
+17.09.2017;B. Dortmund;Köln;5;0;Bundesliga;Fair;SSE;9 mph;45 °F;87%;29.44 in
+8.09.2017;Hamburg;Leipzig;0;2;Bundesliga;Mostly Cloudy;SW;8 mph;57 °F;94%;29.74 in
+9.09.2017;Freiburg;B. Dortmund;0;0;Bundesliga;Fair;VAR;3 mph;54 °F;82%;28.79 in
+9.09.2017;M'gladbach;E. Frankfurt;0;1;Bundesliga;Light Rain;S;12 mph;59 °F;94%;29.32 in
+9.09.2017;Augsburg;Köln;3;0;Bundesliga;Fair;VAR;2 mph;45 °F;100%;27.46 in
+9.09.2017;Mainz;B. Leverkusen;3;1;Bundesliga;Mostly Cloudy;S;10 mph;63 °F;63%;29.20 in
+9.09.2017;Wolfsburg;Hannover 96;1;1;Bundesliga;Cloudy;WSW;2 mph;58 °F;90%;29.25 in
+9.09.2017;Hoffenheim;Bayern Münih;2;0;Bundesliga;Mostly Cloudy;SSE;9 mph;62 °F;66%;29.31 in
+10.09.2017;Hertha Berlin;Werder Bremen;1;1;Bundesliga;Shallow Fog;SW;6 mph;52 °F;100%;29.47 in
+10.09.2017;Schalke 04;Stuttgart;3;1;Bundesliga;Shallow Fog;SW;6 mph;52 °F;100%;29.47 in
+25.08.2017;Köln;Hamburg;1;3;Bundesliga;Fair;SW;5 mph;57 °F;94%;29.95 in
+26.08.2017;Werder Bremen;Bayern Münih;0;2;Bundesliga;Fair;ENE;5 mph;59 °F;88%;30.03 in
+26.08.2017;E. Frankfurt;Wolfsburg;0;1;Bundesliga;Mostly Cloudy;N;5 mph;66 °F;94%;29.61 in
+26.08.2017;B. Leverkusen;Hoffenheim;2;2;Bundesliga;Heavy T-Storm;VAR;5 mph;64 °F;94%;29.68 in
+26.08.2017;Augsburg;M'gladbach;2;2;Bundesliga;Fair;VAR;3 mph;59 °F;94%;27.90 in
+26.08.2017;Stuttgart;Mainz;1;0;Bundesliga;Fair;NW;1 mph;70 °F;83%;28.57 in
+26.08.2017;B. Dortmund;Hertha Berlin;2;0;Bundesliga;Fair;SSE;3 mph;59 °F;77%;29.52 in
+27.08.2017;Leipzig;Freiburg;4;1;Bundesliga;Fair;SW;9 mph;68 °F;94%;29.47 in
+27.08.2017;Hannover 96;Schalke 04;1;0;Bundesliga;Fair;VAR;2 mph;63 °F;88%;29.86 in
+18.08.2017;Bayern Münih;B. Leverkusen;3;1;Bundesliga;Mostly Cloudy;VAR;2 mph;66 °F;88%;28.53 in
+19.08.2017;Hoffenheim;Werder Bremen;1;0;Bundesliga;Mostly Cloudy;SSW;7 mph;63 °F;92%;29.68 in
+19.08.2017;Hertha Berlin;Stuttgart;2;0;Bundesliga;Partly Cloudy;SW;5 mph;59 °F;94%;29.74 in
+19.08.2017;Hamburg;Augsburg;1;0;Bundesliga;Partly Cloudy;SW;5 mph;59 °F;94%;29.74 in
+19.08.2017;Mainz;Hannover 96;0;1;Bundesliga;Partly Cloudy;SSW;6 mph;61 °F;94%;29.61 in
+19.08.2017;Wolfsburg;B. Dortmund;0;3;Bundesliga;Partly Cloudy;SW;4 mph;61 °F;93%;29.59 in
+19.08.2017;Schalke 04;Leipzig;2;0;Bundesliga;Partly Cloudy;SW;5 mph;59 °F;94%;29.74 in
+20.08.2017;Freiburg;E. Frankfurt;0;0;Bundesliga;Fair;WSW;7 mph;55 °F;82%;29.25 in
+20.08.2017;M'gladbach;Köln;1;0;Bundesliga;Mostly Cloudy;SSW;9 mph;57 °F;88%;29.96 in

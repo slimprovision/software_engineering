@@ -1,0 +1,307 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+10.05.2014;Bayern Münih;Stuttgart;1;0;Bundesliga;Mostly Cloudy;W;9 mph;57 °F;72%;29.62 in
+10.05.2014;Schalke 04;Nürnberg;4;1;Bundesliga;Mostly Cloudy;W;9 mph;57 °F;72%;28.48 in
+10.05.2014;B. Leverkusen;Werder Bremen;2;1;Bundesliga;Partly Cloudy;ENE;5 mph;50 °F;76%;29.62 in
+10.05.2014;Hannover 96;Freiburg;3;2;Bundesliga;Mostly Cloudy;WSW;12 mph;48 °F;93%;29.68 in
+10.05.2014;Wolfsburg;M'gladbach;3;1;Bundesliga;Mostly Cloudy;W;11 mph;48 °F;95%;29.55 in
+10.05.2014;Hoffenheim;Braunschweig;3;1;Bundesliga;Fair;NNW;4 mph;56 °F;70%;29.69 in
+10.05.2014;Mainz;Hamburg;3;2;Bundesliga;Fair;S;5 mph;52 °F;88%;29.64 in
+10.05.2014;Augsburg;E. Frankfurt;2;1;Bundesliga;Mostly Cloudy;SSW;7 mph;50 °F;94%;27.90 in
+10.05.2014;Hertha Berlin;B. Dortmund;0;4;Bundesliga;Mostly Cloudy;WSW;12 mph;48 °F;93%;29.68 in
+3.05.2014;B. Dortmund;Hoffenheim;3;2;Bundesliga;Fair;N;3 mph;36 °F;93%;29.76 in
+3.05.2014;M'gladbach;Mainz;3;1;Bundesliga;Fair;N;6 mph;46 °F;76%;30.05 in
+3.05.2014;Stuttgart;Wolfsburg;1;2;Bundesliga;Mostly Cloudy;N;9 mph;48 °F;93%;28.57 in
+3.05.2014;Werder Bremen;Hertha Berlin;2;0;Bundesliga;Fair;NNE;8 mph;43 °F;57%;30.21 in
+3.05.2014;Nürnberg;Hannover 96;0;2;Bundesliga;Fair;N;5 mph;37 °F;75%;30.18 in
+3.05.2014;Freiburg;Schalke 04;0;2;Bundesliga;Light Rain;NNW;9 mph;52 °F;94%;29.05 in
+3.05.2014;Hamburg;Bayern Münih;1;4;Bundesliga;Fair;N;5 mph;37 °F;75%;30.18 in
+3.05.2014;Braunschweig;Augsburg;0;1;Bundesliga;Fair;N;5 mph;37 °F;75%;30.18 in
+3.05.2014;E. Frankfurt;B. Leverkusen;0;2;Bundesliga;Mostly Cloudy;NNE;13 mph;48 °F;82%;29.69 in
+25.04.2014;Hannover 96;Stuttgart;0;0;Bundesliga;Fair;NE;5 mph;45 °F;100%;30.06 in
+26.04.2014;Bayern Münih;Werder Bremen;5;2;Bundesliga;Fair;E;3 mph;55 °F;67%;28.31 in
+26.04.2014;Wolfsburg;Freiburg;2;2;Bundesliga;Fair;SE;7 mph;57 °F;68%;29.62 in
+26.04.2014;Hoffenheim;E. Frankfurt;0;0;Bundesliga;Light Rain;S;7 mph;59 °F;82%;29.55 in
+26.04.2014;Mainz;Nürnberg;2;0;Bundesliga;Partly Cloudy;S;7 mph;63 °F;68%;29.46 in
+26.04.2014;Hertha Berlin;Braunschweig;2;0;Bundesliga;Fair;ENE;8 mph;57 °F;67%;29.89 in
+26.04.2014;B. Leverkusen;B. Dortmund;2;2;Bundesliga;Showers in the Vicinity;W;12 mph;61 °F;68%;29.54 in
+27.04.2014;Augsburg;Hamburg;3;1;Bundesliga;Rain;SW;10 mph;48 °F;93%;27.57 in
+27.04.2014;Schalke 04;M'gladbach;0;1;Bundesliga;Fair;E;9 mph;59 °F;77%;29.71 in
+17.04.2014;E. Frankfurt;Hannover 96;2;3;Bundesliga;Fair;E;7 mph;41 °F;65%;29.96 in
+19.04.2014;B. Dortmund;Mainz;4;2;Bundesliga;Partly Cloudy;SE;5 mph;41 °F;87%;29.55 in
+19.04.2014;Werder Bremen;Hoffenheim;3;1;Bundesliga;Light Rain;NE;7 mph;45 °F;93%;29.94 in
+19.04.2014;Freiburg;M'gladbach;4;2;Bundesliga;Fair;VAR;3 mph;36 °F;93%;28.96 in
+19.04.2014;Augsburg;Hertha Berlin;0;0;Bundesliga;Light Rain;NE;7 mph;36 °F;93%;27.65 in
+19.04.2014;Braunschweig;Bayern Münih;0;2;Bundesliga;Mostly Cloudy;NNE;5 mph;41 °F;93%;29.95 in
+19.04.2014;Hamburg;Wolfsburg;1;3;Bundesliga;Mostly Cloudy;NNE;5 mph;41 °F;93%;29.95 in
+20.04.2014;Nürnberg;B. Leverkusen;1;4;Bundesliga;Fair;NE;10 mph;50 °F;76%;30.00 in
+20.04.2014;Stuttgart;Schalke 04;3;1;Bundesliga;Fair;NNE;6 mph;50 °F;82%;28.32 in
+11.04.2014;Schalke 04;E. Frankfurt;2;0;Bundesliga;Partial Fog;SSW;3 mph;48 °F;93%;30.03 in
+12.04.2014;M'gladbach;Stuttgart;1;1;Bundesliga;Shallow Fog;ENE;2 mph;43 °F;87%;29.96 in
+12.04.2014;Hannover 96;Hamburg;2;1;Bundesliga;Shallow Fog;WNW;2 mph;41 °F;100%;30.03 in
+12.04.2014;Wolfsburg;Nürnberg;4;1;Bundesliga;Cloudy;WNW;2 mph;45 °F;97%;29.80 in
+12.04.2014;Freiburg;Braunschweig;2;0;Bundesliga;Fair;CALM;0 mph;55 °F;63%;29.02 in
+12.04.2014;Mainz;Werder Bremen;3;0;Bundesliga;Fair;NNE;13 mph;55 °F;72%;29.64 in
+12.04.2014;Bayern Münih;B. Dortmund;0;3;Bundesliga;Fair;NNE;2 mph;37 °F;93%;28.50 in
+13.04.2014;B. Leverkusen;Hertha Berlin;2;1;Bundesliga;Fair;ESE;5 mph;50 °F;71%;29.68 in
+13.04.2014;Hoffenheim;Augsburg;2;0;Bundesliga;Mostly Cloudy;NNW;7 mph;57 °F;52%;29.68 in
+4.04.2014;Hamburg;B. Leverkusen;2;1;Bundesliga;Fair;E;13 mph;45 °F;76%;29.74 in
+5.04.2014;Stuttgart;Freiburg;2;0;Bundesliga;Fair;VAR;2 mph;57 °F;63%;28.34 in
+5.04.2014;Werder Bremen;Schalke 04;1;1;Bundesliga;Light Drizzle;ESE;6 mph;48 °F;93%;29.82 in
+5.04.2014;Nürnberg;M'gladbach;0;2;Bundesliga;Light Rain;E;8 mph;45 °F;93%;29.86 in
+5.04.2014;Augsburg;Bayern Münih;1;0;Bundesliga;Fair;SW;7 mph;45 °F;87%;27.65 in
+5.04.2014;E. Frankfurt;Mainz;2;0;Bundesliga;Fair;S;2 mph;55 °F;94%;29.40 in
+5.04.2014;B. Dortmund;Wolfsburg;2;1;Bundesliga;Mist;NW;8 mph;52 °F;94%;29.44 in
+6.04.2014;Braunschweig;Hannover 96;3;0;Bundesliga;Mist;SSE;3 mph;48 °F;100%;29.97 in
+6.04.2014;Hertha Berlin;Hoffenheim;1;1;Bundesliga;Mist;SSE;3 mph;48 °F;100%;29.97 in
+28.03.2014;Schalke 04;Hertha Berlin;2;0;Bundesliga;Fair;ENE;6 mph;36 °F;93%;30.09 in
+29.03.2014;Bayern Münih;Hoffenheim;3;3;Bundesliga;Fair;E;5 mph;43 °F;76%;28.53 in
+29.03.2014;B. Leverkusen;Braunschweig;1;1;Bundesliga;Fair;ESE;5 mph;46 °F;66%;29.74 in
+29.03.2014;Stuttgart;B. Dortmund;2;3;Bundesliga;Fair;CALM;0 mph;46 °F;66%;28.63 in
+29.03.2014;Wolfsburg;E. Frankfurt;2;1;Bundesliga;Mostly Cloudy;SE;9 mph;45 °F;92%;29.91 in
+29.03.2014;Mainz;Augsburg;3;0;Bundesliga;Fair;NNE;14 mph;46 °F;71%;29.72 in
+29.03.2014;Freiburg;Nürnberg;3;2;Bundesliga;Fair;CALM;0 mph;39 °F;81%;29.08 in
+30.03.2014;M'gladbach;Hamburg;3;1;Bundesliga;Fair;E;3 mph;46 °F;71%;29.88 in
+30.03.2014;Hannover 96;Werder Bremen;1;2;Bundesliga;Mist;N;1 mph;41 °F;93%;30.09 in
+25.03.2014;B. Dortmund;Schalke 04;0;0;Bundesliga;Fair;SSE;8 mph;30 °F;93%;29.44 in
+25.03.2014;Werder Bremen;Wolfsburg;1;3;Bundesliga;Shallow Fog;W;2 mph;34 °F;100%;29.85 in
+25.03.2014;Braunschweig;Mainz;3;1;Bundesliga;Fair;NNW;3 mph;37 °F;93%;29.83 in
+25.03.2014;Hertha Berlin;Bayern Münih;1;3;Bundesliga;Fair;NNW;3 mph;37 °F;93%;29.83 in
+26.03.2014;Nürnberg;Stuttgart;2;0;Bundesliga;Mostly Cloudy;NW;6 mph;39 °F;81%;29.80 in
+26.03.2014;Hoffenheim;Hannover 96;3;1;Bundesliga;Fair;NNE;7 mph;38 °F;77%;29.49 in
+26.03.2014;Augsburg;B. Leverkusen;1;3;Bundesliga;Fog;NE;7 mph;28 °F;100%;27.60 in
+26.03.2014;Hamburg;Freiburg;1;1;Bundesliga;Mostly Cloudy;NW;6 mph;39 °F;81%;29.80 in
+26.03.2014;E. Frankfurt;M'gladbach;1;0;Bundesliga;Fair;E;5 mph;34 °F;93%;29.46 in
+21.03.2014;Freiburg;Werder Bremen;3;1;Bundesliga;Fair;S;6 mph;52 °F;62%;29.05 in
+22.03.2014;Schalke 04;Braunschweig;3;1;Bundesliga;Fair;SW;7 mph;37 °F;93%;29.71 in
+22.03.2014;Stuttgart;Hamburg;1;0;Bundesliga;Fair;WSW;3 mph;55 °F;58%;28.40 in
+22.03.2014;Hannover 96;B. Dortmund;0;3;Bundesliga;Fair;SW;7 mph;37 °F;93%;29.71 in
+22.03.2014;Wolfsburg;Augsburg;1;1;Bundesliga;Fair;SSW;7 mph;38 °F;97%;29.53 in
+22.03.2014;Mainz;Bayern Münih;0;2;Bundesliga;Light Rain;WSW;5 mph;48 °F;100%;29.43 in
+22.03.2014;M'gladbach;Hertha Berlin;3;0;Bundesliga;Fair;SSE;9 mph;43 °F;81%;29.61 in
+23.03.2014;Nürnberg;E. Frankfurt;2;5;Bundesliga;Partly Cloudy;SW;8 mph;39 °F;93%;29.50 in
+23.03.2014;B. Leverkusen;Hoffenheim;2;3;Bundesliga;Light Rain;S;7 mph;39 °F;93%;29.33 in
+14.03.2014;Augsburg;Schalke 04;1;2;Bundesliga;Mist;S;3 mph;30 °F;93%;28.09 in
+15.03.2014;B. Dortmund;M'gladbach;1;2;Bundesliga;Mostly Cloudy;W;13 mph;46 °F;81%;29.58 in
+15.03.2014;Werder Bremen;Stuttgart;1;1;Bundesliga;Mostly Cloudy / Windy;W;24 mph;46 °F;81%;29.88 in
+15.03.2014;Hoffenheim;Mainz;2;4;Bundesliga;Fair;SSE;7 mph;40 °F;80%;29.81 in
+15.03.2014;Braunschweig;Wolfsburg;1;1;Bundesliga;Mostly Cloudy;W;18 mph;46 °F;81%;29.74 in
+15.03.2014;Hertha Berlin;Hannover 96;0;3;Bundesliga;Mostly Cloudy;W;18 mph;46 °F;81%;29.74 in
+15.03.2014;Bayern Münih;B. Leverkusen;2;1;Bundesliga;Fair;WSW;10 mph;41 °F;76%;28.59 in
+16.03.2014;Hamburg;Nürnberg;2;1;Bundesliga;Drizzle / Windy;W;22 mph;46 °F;93%;29.68 in
+16.03.2014;E. Frankfurt;Freiburg;1;4;Bundesliga;Mostly Cloudy;WSW;17 mph;46 °F;87%;29.75 in
+8.03.2014;Schalke 04;Hoffenheim;4;0;Bundesliga;Mostly Cloudy;WNW;12 mph;48 °F;82%;30.24 in
+8.03.2014;M'gladbach;Augsburg;1;2;Bundesliga;Mostly Cloudy;VAR;2 mph;50 °F;71%;30.23 in
+8.03.2014;Stuttgart;Braunschweig;2;2;Bundesliga;Fair;VAR;1 mph;41 °F;76%;28.88 in
+8.03.2014;Hannover 96;B. Leverkusen;1;1;Bundesliga;Mostly Cloudy;WNW;12 mph;48 °F;82%;30.24 in
+8.03.2014;Wolfsburg;Bayern Münih;1;6;Bundesliga;Mostly Cloudy;WNW;7 mph;48 °F;69%;30.04 in
+8.03.2014;Hamburg;E. Frankfurt;1;1;Bundesliga;Mostly Cloudy;WNW;12 mph;48 °F;82%;30.24 in
+8.03.2014;Nürnberg;Werder Bremen;0;2;Bundesliga;Mostly Cloudy;WNW;12 mph;48 °F;82%;30.24 in
+9.03.2014;Freiburg;B. Dortmund;0;1;Bundesliga;Fair;ESE;5 mph;48 °F;54%;29.39 in
+9.03.2014;Mainz;Hertha Berlin;1;1;Bundesliga;Fair;N;6 mph;41 °F;76%;30.04 in
+28.02.2014;Hertha Berlin;Freiburg;0;0;Bundesliga;Fair;S;5 mph;41 °F;81%;29.71 in
+1.03.2014;B. Dortmund;Nürnberg;3;0;Bundesliga;Mostly Cloudy;S;5 mph;39 °F;87%;29.12 in
+1.03.2014;B. Leverkusen;Mainz;0;1;Bundesliga;Mostly Cloudy;SE;9 mph;43 °F;87%;29.18 in
+1.03.2014;Werder Bremen;Hamburg;1;0;Bundesliga;Fair;E;5 mph;36 °F;100%;29.59 in
+1.03.2014;Augsburg;Hannover 96;1;1;Bundesliga;Mostly Cloudy;VAR;2 mph;34 °F;93%;27.41 in
+1.03.2014;Braunschweig;M'gladbach;1;1;Bundesliga;Fair;ENE;2 mph;32 °F;93%;29.59 in
+1.03.2014;Bayern Münih;Schalke 04;5;1;Bundesliga;Fair;ENE;3 mph;32 °F;87%;28.03 in
+2.03.2014;Hoffenheim;Wolfsburg;6;2;Bundesliga;Cloudy;WNW;4 mph;44 °F;81%;29.27 in
+2.03.2014;E. Frankfurt;Stuttgart;2;1;Bundesliga;Fair;S;3 mph;39 °F;87%;29.20 in
+21.02.2014;Schalke 04;Mainz;0;0;Bundesliga;Mostly Cloudy;SSE;12 mph;46 °F;87%;29.56 in
+22.02.2014;M'gladbach;Hoffenheim;2;2;Bundesliga;Fair;S;12 mph;41 °F;76%;29.67 in
+22.02.2014;Stuttgart;Hertha Berlin;1;2;Bundesliga;Mostly Cloudy;W;2 mph;34 °F;93%;28.51 in
+22.02.2014;Nürnberg;Braunschweig;2;1;Bundesliga;Fair;SW;10 mph;37 °F;93%;29.68 in
+22.02.2014;Freiburg;Augsburg;2;4;Bundesliga;Partly Cloudy;VAR;1 mph;34 °F;93%;29.05 in
+22.02.2014;Hamburg;B. Dortmund;3;0;Bundesliga;Fair;SW;10 mph;37 °F;93%;29.68 in
+22.02.2014;Wolfsburg;B. Leverkusen;3;1;Bundesliga;Fair;SW;7 mph;38 °F;89%;29.53 in
+23.02.2014;E. Frankfurt;Werder Bremen;0;0;Bundesliga;Mostly Cloudy;S;5 mph;41 °F;100%;29.75 in
+23.02.2014;Hannover 96;Bayern Münih;0;4;Bundesliga;Fair;SW;10 mph;41 °F;81%;29.98 in
+14.02.2014;Mainz;Hannover 96;2;0;Bundesliga;Fair;SW;10 mph;39 °F;81%;29.26 in
+15.02.2014;B. Dortmund;E. Frankfurt;4;0;Bundesliga;Fair / Windy;SSW;21 mph;52 °F;67%;28.86 in
+15.02.2014;Bayern Münih;Freiburg;4;0;Bundesliga;Fair;E;7 mph;39 °F;70%;28.17 in
+15.02.2014;Werder Bremen;M'gladbach;1;1;Bundesliga;Mostly Cloudy / Windy;SE;21 mph;41 °F;93%;29.35 in
+15.02.2014;Hoffenheim;Stuttgart;4;1;Bundesliga;Cloudy;SSE;11 mph;46 °F;76%;29.23 in
+15.02.2014;Braunschweig;Hamburg;4;2;Bundesliga;Cloudy / Windy;SSE;24 mph;41 °F;81%;29.39 in
+15.02.2014;B. Leverkusen;Schalke 04;1;2;Bundesliga;Fair;SE;20 mph;46 °F;76%;29.04 in
+16.02.2014;Augsburg;Nürnberg;0;1;Bundesliga;Mostly Cloudy;SSW;10 mph;36 °F;93%;27.71 in
+16.02.2014;Hertha Berlin;Wolfsburg;1;2;Bundesliga;Partly Cloudy / Windy;SW;26 mph;46 °F;71%;29.36 in
+7.02.2014;M'gladbach;B. Leverkusen;0;1;Bundesliga;Fair;SSE;16 mph;48 °F;62%;29.17 in
+8.02.2014;Wolfsburg;Mainz;3;0;Bundesliga;Mostly Cloudy;WSW;9 mph;42 °F;78%;29.28 in
+8.02.2014;Werder Bremen;B. Dortmund;1;5;Bundesliga;Partly Cloudy;SW;13 mph;41 °F;87%;29.44 in
+8.02.2014;Nürnberg;Bayern Münih;0;2;Bundesliga;Mostly Cloudy;SW;15 mph;43 °F;87%;29.39 in
+8.02.2014;Freiburg;Hoffenheim;1;1;Bundesliga;Fair;ESE;6 mph;37 °F;75%;28.85 in
+8.02.2014;E. Frankfurt;Braunschweig;3;0;Bundesliga;Fair;S;6 mph;41 °F;76%;29.31 in
+8.02.2014;Hamburg;Hertha Berlin;0;3;Bundesliga;Mostly Cloudy;SW;15 mph;43 °F;87%;29.39 in
+9.02.2014;Stuttgart;Augsburg;1;4;Bundesliga;Fair;SSW;12 mph;43 °F;76%;28.04 in
+9.02.2014;Schalke 04;Hannover 96;2;0;Bundesliga;Fair;S;10 mph;43 °F;87%;29.12 in
+31.01.2014;Braunschweig;B. Dortmund;1;2;Bundesliga;Fair;E;10 mph;21 °F;86%;29.86 in
+1.02.2014;Schalke 04;Wolfsburg;2;1;Bundesliga;Fair;SE;8 mph;27 °F;86%;29.62 in
+1.02.2014;B. Leverkusen;Stuttgart;2;1;Bundesliga;Fair;SE;15 mph;37 °F;81%;29.27 in
+1.02.2014;Hoffenheim;Hamburg;3;0;Bundesliga;Partly Cloudy;W;4 mph;30 °F;93%;29.42 in
+1.02.2014;Mainz;Freiburg;2;0;Bundesliga;Fair;NNE;3 mph;30 °F;93%;29.37 in
+1.02.2014;Augsburg;Werder Bremen;3;1;Bundesliga;Fair;VAR;3 mph;25 °F;100%;27.52 in
+1.02.2014;Hannover 96;M'gladbach;3;1;Bundesliga;Fair;SE;8 mph;27 °F;86%;29.62 in
+2.02.2014;Hertha Berlin;Nürnberg;1;3;Bundesliga;Fair;S;9 mph;37 °F;93%;29.62 in
+2.02.2014;Bayern Münih;E. Frankfurt;5;0;Bundesliga;Fair;VAR;2 mph;30 °F;100%;28.20 in
+24.01.2014;M'gladbach;Bayern Münih;0;2;Bundesliga;Mostly Cloudy;VAR;3 mph;39 °F;87%;29.64 in
+25.01.2014;B. Dortmund;Augsburg;2;2;Bundesliga;Cloudy;NE;5 mph;32 °F;93%;29.64 in
+25.01.2014;Stuttgart;Mainz;1;2;Bundesliga;Mostly Cloudy;NNW;1 mph;36 °F;87%;28.57 in
+25.01.2014;Wolfsburg;Hannover 96;1;3;Bundesliga;Cloudy;SE;9 mph;21 °F;83%;29.91 in
+25.01.2014;Nürnberg;Hoffenheim;4;0;Bundesliga;Fair;ESE;12 mph;18 °F;73%;30.18 in
+25.01.2014;Freiburg;B. Leverkusen;3;2;Bundesliga;Fair;SE;3 mph;28 °F;93%;29.08 in
+25.01.2014;E. Frankfurt;Hertha Berlin;1;0;Bundesliga;Mostly Cloudy;ENE;3 mph;37 °F;93%;29.66 in
+26.01.2014;Werder Bremen;Braunschweig;0;0;Bundesliga;Mostly Cloudy;ESE;18 mph;18 °F;93%;29.73 in
+26.01.2014;Hamburg;Schalke 04;0;3;Bundesliga;Fair;ESE;20 mph;16 °F;73%;29.83 in
+20.12.2013;E. Frankfurt;Augsburg;1;1;Bundesliga;Fair;WSW;2 mph;41 °F;100%;29.58 in
+21.12.2013;B. Dortmund;Hertha Berlin;1;2;Bundesliga;Fair;SSW;18 mph;41 °F;70%;29.84 in
+21.12.2013;Werder Bremen;B. Leverkusen;1;0;Bundesliga;Fair;SSW;10 mph;39 °F;93%;30.21 in
+21.12.2013;Freiburg;Hannover 96;2;1;Bundesliga;Fair;S;3 mph;32 °F;100%;29.54 in
+21.12.2013;Hamburg;Mainz;2;3;Bundesliga;Fair;SW;17 mph;39 °F;87%;30.15 in
+21.12.2013;Braunschweig;Hoffenheim;1;0;Bundesliga;Fair;SW;17 mph;39 °F;87%;30.15 in
+21.12.2013;Nürnberg;Schalke 04;0;0;Bundesliga;Fair;SW;17 mph;39 °F;87%;30.15 in
+22.12.2013;M'gladbach;Wolfsburg;2;2;Bundesliga;Mostly Cloudy;S;15 mph;43 °F;66%;29.88 in
+29.01.2014;Stuttgart;Bayern Münih;1;2;Bundesliga;Fair;E;3 mph;28 °F;93%;28.06 in
+13.12.2013;Hertha Berlin;Werder Bremen;3;2;Bundesliga;N/A;WSW;10 mph;37 °F;93%;30.18 in
+14.12.2013;Bayern Münih;Hamburg;3;1;Bundesliga;Cloudy;SSW;8 mph;30 °F;100%;28.73 in
+14.12.2013;Hannover 96;Nürnberg;3;3;Bundesliga;Fair;SSW;6 mph;36 °F;93%;30.09 in
+14.12.2013;Hoffenheim;B. Dortmund;2;2;Bundesliga;Cloudy;S;7 mph;33 °F;98%;29.98 in
+14.12.2013;Mainz;M'gladbach;0;0;Bundesliga;Cloudy;S;6 mph;34 °F;100%;29.90 in
+14.12.2013;Augsburg;Braunschweig;4;1;Bundesliga;Fair;SSW;6 mph;25 °F;93%;28.09 in
+14.12.2013;Wolfsburg;Stuttgart;3;1;Bundesliga;Fair;WSW;11 mph;33 °F;93%;29.91 in
+15.12.2013;Schalke 04;Freiburg;2;0;Bundesliga;Partly Cloudy;SSW;14 mph;39 °F;93%;30.18 in
+15.12.2013;B. Leverkusen;E. Frankfurt;0;1;Bundesliga;Fair;SE;9 mph;37 °F;87%;30.03 in
+6.12.2013;Nürnberg;Mainz;1;1;Bundesliga;Mostly Cloudy / Windy;WNW;26 mph;36 °F;75%;29.44 in
+7.12.2013;M'gladbach;Schalke 04;2;1;Bundesliga;Fair;W;8 mph;37 °F;75%;30.11 in
+7.12.2013;Stuttgart;Hannover 96;4;2;Bundesliga;Mostly Cloudy;WSW;14 mph;36 °F;65%;28.79 in
+7.12.2013;Werder Bremen;Bayern Münih;0;7;Bundesliga;Mostly Cloudy;WNW;9 mph;34 °F;93%;30.03 in
+7.12.2013;Hamburg;Augsburg;0;1;Bundesliga;Fair;WNW;17 mph;34 °F;75%;29.89 in
+7.12.2013;E. Frankfurt;Hoffenheim;1;2;Bundesliga;Mostly Cloudy;W;14 mph;37 °F;70%;29.87 in
+7.12.2013;B. Dortmund;B. Leverkusen;0;1;Bundesliga;Mostly Cloudy;W;9 mph;36 °F;81%;29.79 in
+8.12.2013;Freiburg;Wolfsburg;0;3;Bundesliga;Fair;VAR;2 mph;28 °F;86%;29.42 in
+8.12.2013;Braunschweig;Hertha Berlin;0;2;Bundesliga;Mostly Cloudy;SSE;6 mph;36 °F;100%;30.06 in
+29.11.2013;Wolfsburg;Hamburg;1;1;Bundesliga;Cloudy;WNW;9 mph;44 °F;76%;30.03 in
+30.11.2013;Bayern Münih;Braunschweig;2;0;Bundesliga;Mostly Cloudy;WSW;17 mph;36 °F;87%;28.39 in
+30.11.2013;B. Leverkusen;Nürnberg;3;0;Bundesliga;Mostly Cloudy;W;10 mph;41 °F;87%;29.59 in
+30.11.2013;Hoffenheim;Werder Bremen;4;4;Bundesliga;Mostly Cloudy;SW;4 mph;39 °F;94%;29.65 in
+30.11.2013;Mainz;B. Dortmund;1;3;Bundesliga;Partly Cloudy;S;6 mph;39 °F;87%;29.55 in
+30.11.2013;Hertha Berlin;Augsburg;0;0;Bundesliga;Partly Cloudy;WSW;12 mph;39 °F;93%;29.59 in
+30.11.2013;Schalke 04;Stuttgart;3;0;Bundesliga;Partly Cloudy;WSW;12 mph;39 °F;93%;29.59 in
+1.12.2013;Hannover 96;E. Frankfurt;2;0;Bundesliga;Mostly Cloudy;WSW;7 mph;41 °F;93%;30.15 in
+1.12.2013;M'gladbach;Freiburg;1;0;Bundesliga;Fair;WSW;3 mph;39 °F;93%;30.17 in
+22.11.2013;Stuttgart;M'gladbach;0;2;Bundesliga;Mostly Cloudy;N;8 mph;37 °F;93%;28.09 in
+23.11.2013;Nürnberg;Wolfsburg;1;1;Bundesliga;Mostly Cloudy;N;6 mph;43 °F;87%;29.95 in
+23.11.2013;Augsburg;Hoffenheim;2;0;Bundesliga;Cloudy;N;2 mph;36 °F;93%;27.57 in
+23.11.2013;Braunschweig;Freiburg;0;1;Bundesliga;Mostly Cloudy;N;6 mph;43 °F;87%;29.95 in
+23.11.2013;E. Frankfurt;Schalke 04;3;3;Bundesliga;Mostly Cloudy;NNE;14 mph;41 °F;87%;29.49 in
+23.11.2013;Hertha Berlin;B. Leverkusen;0;1;Bundesliga;Mostly Cloudy;N;6 mph;43 °F;87%;29.95 in
+23.11.2013;B. Dortmund;Bayern Münih;0;3;Bundesliga;Mostly Cloudy;N;6 mph;39 °F;93%;29.55 in
+24.11.2013;Hamburg;Hannover 96;3;1;Bundesliga;Mostly Cloudy;SW;2 mph;36 °F;93%;30.03 in
+24.11.2013;Werder Bremen;Mainz;2;3;Bundesliga;Mostly Cloudy;VAR;2 mph;34 °F;100%;30.09 in
+8.11.2013;Hannover 96;Braunschweig;0;0;Bundesliga;Fair;SW;5 mph;45 °F;93%;29.71 in
+9.11.2013;Bayern Münih;Augsburg;3;0;Bundesliga;Fair;W;5 mph;50 °F;87%;28.25 in
+9.11.2013;Schalke 04;Werder Bremen;3;1;Bundesliga;Cloudy;ESE;9 mph;48 °F;87%;29.53 in
+9.11.2013;B. Leverkusen;Hamburg;5;3;Bundesliga;Mostly Cloudy;SSW;9 mph;54 °F;82%;29.30 in
+9.11.2013;Wolfsburg;B. Dortmund;2;1;Bundesliga;Fair;WSW;5 mph;43 °F;93%;30.06 in
+9.11.2013;Hoffenheim;Hertha Berlin;2;3;Bundesliga;Cloudy;SSW;9 mph;54 °F;85%;29.42 in
+9.11.2013;M'gladbach;Nürnberg;3;1;Bundesliga;Mostly Cloudy;SSW;10 mph;50 °F;94%;29.46 in
+10.11.2013;Mainz;E. Frankfurt;1;0;Bundesliga;Mostly Cloudy;S;13 mph;48 °F;71%;29.31 in
+10.11.2013;Freiburg;Stuttgart;1;3;Bundesliga;Mostly Cloudy;E;3 mph;45 °F;87%;28.91 in
+1.11.2013;B. Dortmund;Stuttgart;6;1;Bundesliga;Fair;SSW;13 mph;48 °F;82%;29.58 in
+2.11.2013;Nürnberg;Freiburg;0;3;Bundesliga;Mostly Cloudy;SSW;10 mph;52 °F;82%;29.71 in
+2.11.2013;Hoffenheim;Bayern Münih;1;2;Bundesliga;Cloudy;E;2 mph;47 °F;95%;29.53 in
+2.11.2013;Hamburg;M'gladbach;0;2;Bundesliga;Mostly Cloudy;SSW;10 mph;52 °F;82%;29.71 in
+2.11.2013;Braunschweig;B. Leverkusen;1;0;Bundesliga;Mostly Cloudy;SSW;10 mph;52 °F;82%;29.71 in
+2.11.2013;Hertha Berlin;Schalke 04;0;2;Bundesliga;Mostly Cloudy;SSW;10 mph;52 °F;82%;29.71 in
+2.11.2013;E. Frankfurt;Wolfsburg;1;2;Bundesliga;Cloudy;SE;3 mph;46 °F;100%;29.49 in
+3.11.2013;Augsburg;Mainz;2;1;Bundesliga;Mostly Cloudy;SW;16 mph;48 °F;87%;27.57 in
+3.11.2013;Werder Bremen;Hannover 96;3;2;Bundesliga;Partly Cloudy;S;9 mph;52 °F;94%;29.44 in
+25.10.2013;Stuttgart;Nürnberg;1;1;Bundesliga;Fair;WNW;3 mph;48 °F;100%;28.60 in
+26.10.2013;Bayern Münih;Hertha Berlin;3;2;Bundesliga;Fair;E;3 mph;46 °F;100%;28.48 in
+26.10.2013;Schalke 04;B. Dortmund;1;3;Bundesliga;Mostly Cloudy;SSW;10 mph;59 °F;88%;29.77 in
+26.10.2013;B. Leverkusen;Augsburg;2;1;Bundesliga;Mostly Cloudy;ESE;8 mph;59 °F;100%;29.54 in
+26.10.2013;Hannover 96;Hoffenheim;1;4;Bundesliga;Mostly Cloudy;SSW;10 mph;59 °F;88%;29.77 in
+26.10.2013;Mainz;Braunschweig;2;0;Bundesliga;Fair;CALM;0 mph;57 °F;94%;29.58 in
+26.10.2013;Wolfsburg;Werder Bremen;3;0;Bundesliga;Fair;WSW;9 mph;46 °F;65%;30.06 in
+27.10.2013;Freiburg;Hamburg;0;3;Bundesliga;Fair;SSW;6 mph;57 °F;88%;29.02 in
+27.10.2013;M'gladbach;E. Frankfurt;4;1;Bundesliga;Fair;S;9 mph;63 °F;82%;29.64 in
+18.10.2013;Hoffenheim;B. Leverkusen;1;2;Bundesliga;Cloudy;S;2 mph;55 °F;85%;29.71 in
+19.10.2013;B. Dortmund;Hannover 96;1;0;Bundesliga;Fair;E;6 mph;48 °F;82%;29.47 in
+19.10.2013;Bayern Münih;Mainz;4;1;Bundesliga;Fair;E;7 mph;45 °F;100%;28.53 in
+19.10.2013;Werder Bremen;Freiburg;0;0;Bundesliga;Fair;ESE;8 mph;45 °F;81%;30.06 in
+19.10.2013;Braunschweig;Schalke 04;2;3;Bundesliga;Fair;E;5 mph;39 °F;87%;30.09 in
+19.10.2013;E. Frankfurt;Nürnberg;1;1;Bundesliga;Fair;NE;8 mph;48 °F;93%;29.69 in
+19.10.2013;Hertha Berlin;M'gladbach;1;0;Bundesliga;Fair;E;5 mph;39 °F;87%;30.09 in
+20.10.2013;Hamburg;Stuttgart;3;3;Bundesliga;Mostly Cloudy;SSE;7 mph;52 °F;94%;29.68 in
+20.10.2013;Augsburg;Wolfsburg;1;2;Bundesliga;Fair;SSW;10 mph;55 °F;72%;27.87 in
+4.10.2013;Hannover 96;Hertha Berlin;1;1;Bundesliga;Fair / Windy;ESE;21 mph;45 °F;61%;30.09 in
+5.10.2013;Schalke 04;Augsburg;4;1;Bundesliga;Mostly Cloudy;SSE;6 mph;52 °F;76%;29.95 in
+5.10.2013;M'gladbach;B. Dortmund;2;0;Bundesliga;Cloudy;SE;15 mph;59 °F;82%;29.82 in
+5.10.2013;Stuttgart;Werder Bremen;1;1;Bundesliga;Fair;ENE;5 mph;54 °F;94%;28.57 in
+5.10.2013;Wolfsburg;Braunschweig;0;2;Bundesliga;Fair;WSW;9 mph;55 °F;88%;30.06 in
+5.10.2013;Mainz;Hoffenheim;2;2;Bundesliga;Mostly Cloudy;NE;8 mph;52 °F;82%;29.66 in
+5.10.2013;B. Leverkusen;Bayern Münih;1;1;Bundesliga;Cloudy;ESE;6 mph;57 °F;82%;29.65 in
+6.10.2013;Nürnberg;Hamburg;0;5;Bundesliga;Fair;VAR;2 mph;54 °F;94%;30.06 in
+6.10.2013;Freiburg;E. Frankfurt;1;1;Bundesliga;Mostly Cloudy;W;8 mph;57 °F;94%;29.22 in
+27.09.2013;Augsburg;M'gladbach;2;2;Bundesliga;Mostly Cloudy;NNE;5 mph;55 °F;100%;27.82 in
+28.09.2013;B. Dortmund;Freiburg;5;0;Bundesliga;Fair;E;3 mph;37 °F;93%;29.52 in
+28.09.2013;Bayern Münih;Wolfsburg;1;0;Bundesliga;Mostly Cloudy;ENE;8 mph;50 °F;100%;28.45 in
+28.09.2013;B. Leverkusen;Hannover 96;2;0;Bundesliga;Fair;E;6 mph;50 °F;71%;29.65 in
+28.09.2013;Hoffenheim;Schalke 04;3;3;Bundesliga;Partly Cloudy;NNE;4 mph;53 °F;78%;29.63 in
+28.09.2013;Hertha Berlin;Mainz;3;1;Bundesliga;Fair;NNW;2 mph;46 °F;93%;29.98 in
+28.09.2013;E. Frankfurt;Hamburg;2;2;Bundesliga;Fair;NNE;8 mph;48 °F;87%;29.61 in
+29.09.2013;Werder Bremen;Nürnberg;3;3;Bundesliga;Fair;E;9 mph;48 °F;87%;29.97 in
+29.09.2013;Braunschweig;Stuttgart;0;4;Bundesliga;Fair;ENE;6 mph;45 °F;87%;30.00 in
+20.09.2013;M'gladbach;Braunschweig;4;1;Bundesliga;Mostly Cloudy;SSW;16 mph;55 °F;77%;29.67 in
+21.09.2013;Hannover 96;Augsburg;2;1;Bundesliga;Mostly Cloudy;NW;3 mph;54 °F;94%;30.00 in
+21.09.2013;Wolfsburg;Hoffenheim;2;1;Bundesliga;Fair;WSW;9 mph;52 °F;87%;30.06 in
+21.09.2013;Nürnberg;B. Dortmund;1;1;Bundesliga;Mostly Cloudy;NW;3 mph;54 °F;94%;30.00 in
+21.09.2013;Mainz;B. Leverkusen;1;4;Bundesliga;Fair;W;7 mph;59 °F;72%;29.78 in
+21.09.2013;Hamburg;Werder Bremen;0;2;Bundesliga;Mostly Cloudy;NW;3 mph;54 °F;94%;30.00 in
+21.09.2013;Schalke 04;Bayern Münih;0;4;Bundesliga;Mostly Cloudy;NW;3 mph;54 °F;94%;30.00 in
+22.09.2013;Freiburg;Hertha Berlin;1;1;Bundesliga;Fair;VAR;1 mph;48 °F;93%;29.39 in
+22.09.2013;Stuttgart;E. Frankfurt;1;1;Bundesliga;Fair;N;2 mph;48 °F;87%;28.88 in
+13.09.2013;Hertha Berlin;Stuttgart;0;1;Bundesliga;Fair;N;2 mph;54 °F;94%;29.95 in
+14.09.2013;Bayern Münih;Hannover 96;2;0;Bundesliga;Fair;WSW;7 mph;50 °F;94%;28.62 in
+14.09.2013;B. Leverkusen;Wolfsburg;3;1;Bundesliga;Mostly Cloudy;SE;6 mph;59 °F;82%;29.68 in
+14.09.2013;Werder Bremen;E. Frankfurt;0;3;Bundesliga;Fair;SE;3 mph;55 °F;94%;30.00 in
+14.09.2013;Mainz;Schalke 04;0;1;Bundesliga;Mostly Cloudy;CALM;0 mph;55 °F;94%;29.72 in
+14.09.2013;Augsburg;Freiburg;2;1;Bundesliga;Fair;SW;8 mph;48 °F;93%;27.90 in
+14.09.2013;B. Dortmund;Hamburg;6;2;Bundesliga;Mostly Cloudy;S;8 mph;57 °F;88%;29.50 in
+15.09.2013;Hoffenheim;M'gladbach;2;1;Bundesliga;Cloudy;WNW;2 mph;60 °F;96%;29.58 in
+15.09.2013;Braunschweig;Nürnberg;1;1;Bundesliga;Mostly Cloudy;SSW;10 mph;61 °F;94%;29.71 in
+27.08.2013;Freiburg;Bayern Münih;1;1;Bundesliga;Partly Cloudy;W;3 mph;59 °F;88%;28.99 in
+31.08.2013;M'gladbach;Werder Bremen;4;1;Bundesliga;Fair;ESE;3 mph;59 °F;82%;29.93 in
+31.08.2013;Hannover 96;Mainz;4;1;Bundesliga;Fair;W;5 mph;64 °F;77%;29.98 in
+31.08.2013;Wolfsburg;Hertha Berlin;2;0;Bundesliga;Fair;WSW;9 mph;54 °F;91%;30.06 in
+31.08.2013;Nürnberg;Augsburg;0;1;Bundesliga;Fair;W;5 mph;64 °F;77%;29.98 in
+31.08.2013;Hamburg;Braunschweig;4;0;Bundesliga;Fair;W;5 mph;64 °F;77%;29.98 in
+31.08.2013;Schalke 04;B. Leverkusen;2;0;Bundesliga;Fair;W;5 mph;64 °F;77%;29.98 in
+1.09.2013;Stuttgart;Hoffenheim;6;2;Bundesliga;Mostly Cloudy;NNW;9 mph;61 °F;88%;28.77 in
+1.09.2013;E. Frankfurt;B. Dortmund;1;2;Bundesliga;Fair;WNW;6 mph;63 °F;88%;29.81 in
+23.08.2013;B. Dortmund;Werder Bremen;1;0;Bundesliga;Cloudy;ENE;6 mph;61 °F;82%;29.61 in
+24.08.2013;Bayern Münih;Nürnberg;2;0;Bundesliga;Fair;NE;3 mph;61 °F;77%;28.48 in
+24.08.2013;B. Leverkusen;M'gladbach;4;2;Bundesliga;Fair;E;6 mph;64 °F;64%;29.62 in
+24.08.2013;Hannover 96;Schalke 04;2;1;Bundesliga;Fair;E;15 mph;64 °F;64%;30.06 in
+24.08.2013;Hoffenheim;Freiburg;3;3;Bundesliga;Fair;E;4 mph;64 °F;64%;29.64 in
+24.08.2013;Mainz;Wolfsburg;2;0;Bundesliga;Fair;NNE;7 mph;64 °F;68%;29.61 in
+24.08.2013;Hertha Berlin;Hamburg;1;0;Bundesliga;Fair;E;15 mph;64 °F;64%;30.06 in
+25.08.2013;Braunschweig;E. Frankfurt;0;2;Bundesliga;Fair;E;12 mph;63 °F;68%;29.92 in
+25.08.2013;Augsburg;Stuttgart;2;1;Bundesliga;Mostly Cloudy;W;15 mph;57 °F;94%;27.68 in
+17.08.2013;Stuttgart;B. Leverkusen;0;1;Bundesliga;Fair;VAR;1 mph;64 °F;68%;28.60 in
+17.08.2013;Wolfsburg;Schalke 04;4;0;Bundesliga;Fair;WSW;9 mph;59 °F;92%;30.06 in
+17.08.2013;Werder Bremen;Augsburg;1;0;Bundesliga;Fair;NW;3 mph;66 °F;83%;29.94 in
+17.08.2013;Freiburg;Mainz;1;2;Bundesliga;Fair;CALM;0 mph;64 °F;83%;29.08 in
+17.08.2013;Hamburg;Hoffenheim;1;5;Bundesliga;Fair;NW;3 mph;66 °F;78%;29.92 in
+17.08.2013;E. Frankfurt;Bayern Münih;0;1;Bundesliga;Fair;NE;1 mph;64 °F;64%;29.61 in
+17.08.2013;M'gladbach;Hannover 96;3;0;Bundesliga;Fair;N;3 mph;68 °F;73%;29.85 in
+18.08.2013;Nürnberg;Hertha Berlin;2;2;Bundesliga;Fair;SSE;7 mph;68 °F;73%;29.83 in
+18.08.2013;B. Dortmund;Braunschweig;2;1;Bundesliga;Fair;SSW;10 mph;68 °F;64%;29.41 in
+9.08.2013;Bayern Münih;M'gladbach;3;1;Bundesliga;Fair;NNW;6 mph;66 °F;88%;28.53 in
+10.08.2013;B. Leverkusen;Freiburg;3;1;Bundesliga;Fair;ESE;3 mph;61 °F;82%;29.77 in
+10.08.2013;Hannover 96;Wolfsburg;2;0;Bundesliga;Fair;VAR;1 mph;57 °F;88%;30.03 in
+10.08.2013;Augsburg;B. Dortmund;0;4;Bundesliga;Fair;VAR;3 mph;50 °F;94%;28.01 in
+10.08.2013;Hertha Berlin;E. Frankfurt;6;1;Bundesliga;Fair;VAR;1 mph;57 °F;88%;30.03 in
+10.08.2013;Hoffenheim;Nürnberg;2;2;Bundesliga;Fair;ESE;4 mph;61 °F;87%;29.80 in
+10.08.2013;Braunschweig;Werder Bremen;0;1;Bundesliga;Fair;VAR;1 mph;57 °F;88%;30.03 in
+11.08.2013;Mainz;Stuttgart;3;2;Bundesliga;Fair;NW;6 mph;64 °F;59%;29.72 in
+11.08.2013;Schalke 04;Hamburg;3;3;Bundesliga;Fair;WSW;7 mph;59 °F;82%;29.98 in

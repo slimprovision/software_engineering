@@ -1,0 +1,307 @@
+﻿date;home_team;away_team;home_score;away_score;League;weather;wind;wind_speed;temperature;humidity;pressure
+11.08.2000;B. Dortmund;H. Rostock;1;0;Bundesliga;Mostly Cloudy;W;6 mph;63 °F;82 %;29.55 in
+12.08.2000;Werder Bremen;E. Cottbus;3;1;Bundesliga;Mostly Cloudy;W;6 mph;63 °F;82 %;29.55 in
+12.08.2000;Bayern Münih;Hertha Berlin;4;1;Bundesliga;Fair;WSW;6 mph;60 °F;93 %;30.06 in
+12.08.2000;B. Leverkusen;Wolfsburg;2;0;Bundesliga;Fair;WSW;10 mph;47 °F;78 %;30.06 in
+12.08.2000;Hamburg;1860 München;2;2;Bundesliga;Fair;WSW;6 mph;47 °F;92 %;30.06 in
+12.08.2000;Freiburg;Stuttgart;4;0;Bundesliga;Fair;WSW;7 mph;51 °F;97 %;30.06 in
+12.08.2000;Kaiserslautern;Bochum;0;1;Bundesliga;Fair;WSW;10 mph;41 °F;84 %;30.06 in
+13.08.2000;Schalke 04;Köln;2;1;Bundesliga;Fair;WSW;7 mph;50 °F;85 %;30.06 in
+13.08.2000;E. Frankfurt;Unterhaching;3;0;Bundesliga;Fair;WSW;5 mph;42 °F;76 %;30.06 in
+18.08.2000;E. Cottbus;B. Dortmund;1;4;Bundesliga;Fair;WSW;8 mph;55 °F;72 %;30.06 in
+19.08.2000;Stuttgart;B. Leverkusen;4;1;Bundesliga;Fair;WSW;7 mph;59 °F;83 %;30.06 in
+19.08.2000;Bochum;Bayern Münih;0;3;Bundesliga;Fair;WSW;10 mph;41 °F;88 %;30.06 in
+19.08.2000;Wolfsburg;Kaiserslautern;4;0;Bundesliga;Fair;WSW;7 mph;46 °F;69 %;30.06 in
+19.08.2000;Hertha Berlin;Hamburg;4;0;Bundesliga;Fair;WSW;7 mph;56 °F;97 %;30.06 in
+19.08.2000;1860 München;Werder Bremen;2;1;Bundesliga;Fair;WSW;6 mph;46 °F;75 %;30.06 in
+19.08.2000;Unterhaching;Freiburg;1;1;Bundesliga;Fair;WSW;7 mph;53 °F;93 %;30.06 in
+20.08.2000;H. Rostock;Schalke 04;0;4;Bundesliga;Fair;WSW;8 mph;56 °F;68 %;30.06 in
+20.08.2000;Köln;E. Frankfurt;4;1;Bundesliga;Fair;WSW;6 mph;55 °F;93 %;30.06 in
+05.09.2000;B. Leverkusen;Unterhaching;1;0;Bundesliga;Partly Cloudy;W;5 mph;54 °F;94 %;29.86 in
+05.09.2000;Schalke 04;E. Cottbus;3;0;Bundesliga;Fair;WNW;5 mph;55 °F;72 %;30.06 in
+05.09.2000;Freiburg;Köln;0;0;Bundesliga;Partly Cloudy;CALM;0 mph;48 °F;93 %;29.28 in
+05.09.2000;Kaiserslautern;Stuttgart;1;0;Bundesliga;Fair;WNW;5 mph;55 °F;72 %;30.06 in
+06.09.2000;Bayern Münih;Wolfsburg;3;1;Bundesliga;Cloudy;S;3 mph;54 °F;82 %;28.64 in
+06.09.2000;B. Dortmund;1860 München;2;3;Bundesliga;Fair;S;7 mph;55 °F;72 %;29.58 in
+06.09.2000;Hamburg;Werder Bremen;2;1;Bundesliga;Mostly Cloudy;SSE;2 mph;52 °F;88 %;30.00 in
+06.09.2000;Hertha Berlin;Bochum;4;0;Bundesliga;Mostly Cloudy;SSE;2 mph;52 °F;88 %;30.00 in
+06.09.2000;E. Frankfurt;H. Rostock;4;0;Bundesliga;Fair;SW;2 mph;52 °F;94 %;29.78 in
+08.09.2000;Unterhaching;Kaiserslautern;0;0;Bundesliga;Mostly Cloudy;WSW;7 mph;59 °F;88 %;29.95 in
+09.09.2000;Werder Bremen;B. Dortmund;1;2;Bundesliga;Mostly Cloudy;SW;7 mph;64 °F;100 %;30.06 in
+09.09.2000;Stuttgart;Bayern Münih;2;1;Bundesliga;Fair;ENE;1 mph;55 °F;88 %;28.77 in
+09.09.2000;Bochum;Hamburg;0;4;Bundesliga;Mostly Cloudy;SW;10 mph;64 °F;83 %;29.76 in
+09.09.2000;Wolfsburg;Hertha Berlin;2;1;Bundesliga;Fair;WSW;8 mph;58 °F;71 %;30.06 in
+09.09.2000;1860 München;Schalke 04;1;1;Bundesliga;Mostly Cloudy;NW;6 mph;61 °F;94 %;30.03 in
+09.09.2000;Köln;B. Leverkusen;1;1;Bundesliga;Mostly Cloudy;NW;6 mph;61 °F;94 %;30.03 in
+10.09.2000;H. Rostock;Freiburg;0;0;Bundesliga;Partly Cloudy;SW;1 mph;55 °F;88 %;30.18 in
+10.09.2000;E. Cottbus;E. Frankfurt;2;0;Bundesliga;Partly Cloudy;SW;1 mph;55 °F;88 %;30.18 in
+15.09.2000;Kaiserslautern;Köln;3;1;Bundesliga;Fair;E;5 mph;57 °F;94 %;29.98 in
+16.09.2000;Bayern Münih;Unterhaching;3;1;Bundesliga;Fair;E;5 mph;59 °F;88 %;28.39 in
+16.09.2000;B. Leverkusen;H. Rostock;1;2;Bundesliga;Fair;ESE;10 mph;66 °F;83 %;29.36 in
+16.09.2000;Bochum;Wolfsburg;2;1;Bundesliga;Mostly Cloudy;SSW;9 mph;59 °F;88 %;29.23 in
+16.09.2000;Hamburg;B. Dortmund;2;3;Bundesliga;Fair;SE;16 mph;59 °F;72 %;29.83 in
+16.09.2000;Freiburg;E. Cottbus;4;1;Bundesliga;Partly Cloudy;WSW;2 mph;64 °F;77 %;28.91 in
+16.09.2000;E. Frankfurt;1860 München;1;0;Bundesliga;Fair;N;5 mph;63 °F;94 %;29.40 in
+17.09.2000;Schalke 04;Werder Bremen;1;1;Bundesliga;Mostly Cloudy;E;6 mph;55 °F;94 %;29.68 in
+17.09.2000;Hertha Berlin;Stuttgart;2;0;Bundesliga;Mostly Cloudy;E;6 mph;55 °F;94 %;29.68 in
+22.09.2000;1860 München;Freiburg;3;1;Bundesliga;Fair;ENE;8 mph;52 °F;88 %;30.12 in
+23.09.2000;Werder Bremen;E. Frankfurt;1;1;Bundesliga;Fair;E;7 mph;52 °F;88 %;30.27 in
+23.09.2000;Stuttgart;Bochum;1;1;Bundesliga;Fair;ENE;2 mph;54 °F;100 %;28.79 in
+23.09.2000;B. Dortmund;Schalke 04;0;4;Bundesliga;Fair;SSE;8 mph;52 °F;88 %;29.82 in
+23.09.2000;Wolfsburg;Hamburg;4;4;Bundesliga;Fair;WSW;7 mph;47 °F;79 %;30.06 in
+23.09.2000;Köln;Bayern Münih;1;2;Bundesliga;Fair;E;5 mph;48 °F;87 %;30.27 in
+23.09.2000;E. Cottbus;B. Leverkusen;1;2;Bundesliga;Fair;E;5 mph;48 °F;87 %;30.27 in
+24.09.2000;H. Rostock;Kaiserslautern;1;0;Bundesliga;Fair;ESE;8 mph;54 °F;72 %;30.27 in
+24.09.2000;Unterhaching;Hertha Berlin;5;2;Bundesliga;Fair;ESE;8 mph;54 °F;72 %;30.27 in
+29.09.2000;E. Frankfurt;B. Dortmund;1;1;Bundesliga;Fair;ENE;5 mph;61 °F;88 %;29.34 in
+30.09.2000;Bayern Münih;H. Rostock;0;1;Bundesliga;Fair;E;5 mph;55 °F;88 %;28.14 in
+30.09.2000;B. Leverkusen;1860 München;0;0;Bundesliga;Fair;E;3 mph;57 °F;100 %;29.27 in
+30.09.2000;Bochum;Unterhaching;3;0;Bundesliga;Fair;WSW;5 mph;57 °F;88 %;29.18 in
+30.09.2000;Hamburg;Schalke 04;2;0;Bundesliga;Fair;E;12 mph;63 °F;72 %;29.65 in
+30.09.2000;Kaiserslautern;E. Cottbus;1;1;Bundesliga;Fair;E;12 mph;63 °F;72 %;29.65 in
+30.09.2000;Hertha Berlin;Köln;4;2;Bundesliga;Fair;E;12 mph;63 °F;72 %;29.65 in
+01.10.2000;Wolfsburg;Stuttgart;2;2;Bundesliga;Fair;WSW;7 mph;49 °F;98 %;30.06 in
+01.10.2000;Freiburg;Werder Bremen;0;1;Bundesliga;Mostly Cloudy;N;1 mph;55 °F;94 %;28.79 in
+13.10.2000;B. Dortmund;Freiburg;1;0;Bundesliga;Partly Cloudy;SSW;12 mph;55 °F;72 %;29.29 in
+14.10.2000;Werder Bremen;B. Leverkusen;3;3;Bundesliga;Partly Cloudy;S;2 mph;45 °F;100 %;29.91 in
+14.10.2000;Stuttgart;Hamburg;3;3;Bundesliga;Mostly Cloudy;NNW;6 mph;50 °F;100 %;28.48 in
+14.10.2000;Schalke 04;E. Frankfurt;4;0;Bundesliga;Mostly Cloudy;E;1 mph;50 °F;94 %;29.89 in
+14.10.2000;1860 München;Kaiserslautern;0;4;Bundesliga;Mostly Cloudy;E;1 mph;50 °F;94 %;29.89 in
+14.10.2000;Köln;Bochum;2;0;Bundesliga;Mostly Cloudy;E;1 mph;50 °F;94 %;29.89 in
+14.10.2000;E. Cottbus;Bayern Münih;1;0;Bundesliga;Mostly Cloudy;E;1 mph;50 °F;94 %;29.89 in
+15.10.2000;H. Rostock;Hertha Berlin;0;2;Bundesliga;Fair;ENE;2 mph;46 °F;87 %;30.03 in
+15.10.2000;Unterhaching;Wolfsburg;0;3;Bundesliga;Fair;ENE;2 mph;46 °F;87 %;30.03 in
+20.10.2000;Kaiserslautern;Werder Bremen;2;0;Bundesliga;Mostly Cloudy;S;2 mph;52 °F;94 %;30.12 in
+21.10.2000;Bayern Münih;1860 München;3;1;Bundesliga;Mostly Cloudy;E;6 mph;48 °F;100 %;28.56 in
+21.10.2000;Stuttgart;Unterhaching;2;2;Bundesliga;Fair;WNW;3 mph;46 °F;100 %;28.65 in
+21.10.2000;B. Leverkusen;B. Dortmund;2;0;Bundesliga;Partly Cloudy;ESE;12 mph;54 °F;88 %;29.68 in
+21.10.2000;Hamburg;E. Frankfurt;2;0;Bundesliga;Partly Cloudy;ESE;12 mph;52 °F;88 %;30.09 in
+21.10.2000;Wolfsburg;Köln;6;0;Bundesliga;Fair;WSW;7 mph;43 °F;89 %;30.06 in
+21.10.2000;Hertha Berlin;E. Cottbus;3;1;Bundesliga;Partly Cloudy;ESE;12 mph;52 °F;88 %;30.09 in
+22.10.2000;Bochum;H. Rostock;1;2;Bundesliga;Fair;SSE;8 mph;54 °F;82 %;29.87 in
+22.10.2000;Freiburg;Schalke 04;3;1;Bundesliga;Cloudy;SSW;2 mph;43 °F;93 %;29.39 in
+27.10.2000;E. Cottbus;Bochum;2;0;Bundesliga;Partly Cloudy;WSW;12 mph;46 °F;87 %;29.74 in
+28.10.2000;Werder Bremen;Bayern Münih;1;1;Bundesliga;Mostly Cloudy;SW;13 mph;52 °F;100 %;29.85 in
+28.10.2000;B. Dortmund;Kaiserslautern;1;2;Bundesliga;Mostly Cloudy;SSW;13 mph;52 °F;94 %;29.55 in
+28.10.2000;Schalke 04;B. Leverkusen;0;0;Bundesliga;Mostly Cloudy;SSW;13 mph;52 °F;88 %;29.80 in
+28.10.2000;H. Rostock;Wolfsburg;1;1;Bundesliga;Mostly Cloudy;SSW;13 mph;52 °F;88 %;29.80 in
+28.10.2000;E. Frankfurt;Freiburg;3;0;Bundesliga;Fair;SSW;13 mph;54 °F;77 %;29.69 in
+28.10.2000;Unterhaching;Hamburg;2;1;Bundesliga;Mostly Cloudy;SSW;13 mph;52 °F;88 %;29.80 in
+29.10.2000;1860 München;Hertha Berlin;0;1;Bundesliga;Cloudy;S;13 mph;55 °F;82 %;29.65 in
+29.10.2000;Köln;Stuttgart;3;2;Bundesliga;Cloudy;S;13 mph;55 °F;82 %;29.65 in
+03.11.2000;B. Leverkusen;E. Frankfurt;1;0;Bundesliga;Mostly Cloudy;SSE;12 mph;45 °F;87 %;29.16 in
+04.11.2000;Bayern Münih;B. Dortmund;6;2;Bundesliga;Mostly Cloudy;W;8 mph;46 °F;87 %;28.20 in
+04.11.2000;Stuttgart;H. Rostock;1;0;Bundesliga;Mostly Cloudy;SW;6 mph;45 °F;93 %;28.26 in
+04.11.2000;Bochum;1860 München;1;1;Bundesliga;Mostly Cloudy;SW;13 mph;46 °F;76 %;29.23 in
+04.11.2000;Hamburg;Freiburg;5;0;Bundesliga;Mostly Cloudy;SSE;3 mph;46 °F;87 %;29.50 in
+04.11.2000;Kaiserslautern;Schalke 04;3;2;Bundesliga;Mostly Cloudy;SSE;3 mph;46 °F;87 %;29.50 in
+04.11.2000;Hertha Berlin;Werder Bremen;4;1;Bundesliga;Mostly Cloudy;SSE;3 mph;46 °F;87 %;29.50 in
+05.11.2000;Wolfsburg;E. Cottbus;1;1;Bundesliga;Fair;WSW;5 mph;52 °F;97 %;30.06 in
+05.11.2000;Unterhaching;Köln;0;0;Bundesliga;Fair;SW;9 mph;41 °F;87 %;29.77 in
+10.11.2000;B. Dortmund;Hertha Berlin;2;0;Bundesliga;Fair;SSW;16 mph;45 °F;66 %;29.47 in
+11.11.2000;Werder Bremen;Bochum;2;0;Bundesliga;Mostly Cloudy;WSW;14 mph;45 °F;87 %;29.97 in
+11.11.2000;Schalke 04;Bayern Münih;3;2;Bundesliga;Mostly Cloudy;SW;10 mph;46 °F;81 %;29.92 in
+11.11.2000;H. Rostock;Unterhaching;2;2;Bundesliga;Mostly Cloudy;SW;10 mph;46 °F;81 %;29.92 in
+11.11.2000;Freiburg;B. Leverkusen;0;1;Bundesliga;Fair;S;3 mph;32 °F;93 %;29.31 in
+11.11.2000;1860 München;Wolfsburg;2;2;Bundesliga;Mostly Cloudy;SW;10 mph;46 °F;81 %;29.92 in
+11.11.2000;Köln;Hamburg;4;2;Bundesliga;Mostly Cloudy;SW;10 mph;46 °F;81 %;29.92 in
+12.11.2000;E. Frankfurt;Kaiserslautern;3;1;Bundesliga;Fair;ENE;1 mph;34 °F;93 %;29.64 in
+12.11.2000;E. Cottbus;Stuttgart;2;1;Bundesliga;Fair;S;14 mph;46 °F;71 %;29.86 in
+17.11.2000;Stuttgart;1860 München;2;2;Bundesliga;Fair;VAR;1 mph;37 °F;100 %;28.40 in
+18.11.2000;Bayern Münih;E. Frankfurt;1;2;Bundesliga;Mostly Cloudy;WSW;7 mph;37 °F;93 %;28.42 in
+18.11.2000;Hamburg;B. Leverkusen;1;3;Bundesliga;Mostly Cloudy;SW;8 mph;37 °F;93 %;29.74 in
+18.11.2000;Wolfsburg;Werder Bremen;1;1;Bundesliga;Fair;WSW;7 mph;42 °F;80 %;30.06 in
+18.11.2000;Kaiserslautern;Freiburg;0;2;Bundesliga;Mostly Cloudy;SW;8 mph;37 °F;93 %;29.74 in
+18.11.2000;Hertha Berlin;Schalke 04;0;4;Bundesliga;Mostly Cloudy;SW;8 mph;37 °F;93 %;29.74 in
+18.11.2000;Köln;H. Rostock;5;2;Bundesliga;Mostly Cloudy;SW;8 mph;37 °F;93 %;29.74 in
+19.11.2000;Bochum;B. Dortmund;1;1;Bundesliga;Mostly Cloudy / Windy;S;21 mph;45 °F;71 %;29.15 in
+19.11.2000;Unterhaching;E. Cottbus;2;1;Bundesliga;Fair;S;16 mph;45 °F;71 %;29.62 in
+24.11.2000;Schalke 04;Bochum;2;1;Bundesliga;Fair;ESE;10 mph;43 °F;93 %;29.53 in
+25.11.2000;B. Dortmund;Wolfsburg;2;1;Bundesliga;Fair;SSE;12 mph;37 °F;87 %;29.35 in
+25.11.2000;H. Rostock;Hamburg;1;0;Bundesliga;Fair;SW;8 mph;41 °F;81 %;29.77 in
+25.11.2000;Freiburg;Bayern Münih;1;1;Bundesliga;Fair;CALM;0 mph;32 °F;100 %;28.91 in
+25.11.2000;E. Frankfurt;Hertha Berlin;0;4;Bundesliga;Fair;S;6 mph;41 °F;87 %;29.49 in
+25.11.2000;E. Cottbus;Köln;0;2;Bundesliga;Fair;SW;8 mph;41 °F;81 %;29.77 in
+26.11.2000;Werder Bremen;Stuttgart;1;0;Bundesliga;Fair;ESE;14 mph;37 °F;87 %;29.47 in
+26.11.2000;B. Leverkusen;Kaiserslautern;4;2;Bundesliga;Mostly Cloudy;ESE;12 mph;43 °F;76 %;29.13 in
+26.11.2000;1860 München;Unterhaching;0;2;Bundesliga;Fair;ESE;13 mph;37 °F;81 %;29.50 in
+02.12.2000;Bayern Münih;B. Leverkusen;2;0;Bundesliga;Cloudy;SSW;3 mph;36 °F;100 %;28.59 in
+02.12.2000;Stuttgart;B. Dortmund;0;2;Bundesliga;Fair;NE;3 mph;39 °F;100 %;28.63 in
+02.12.2000;Bochum;E. Frankfurt;2;1;Bundesliga;Mostly Cloudy;VAR;1 mph;52 °F;82 %;29.52 in
+02.12.2000;Wolfsburg;Schalke 04;2;0;Bundesliga;Fair;WSW;10 mph;48 °F;77 %;30.06 in
+02.12.2000;Hertha Berlin;Freiburg;2;2;Bundesliga;Mostly Cloudy;S;9 mph;50 °F;82 %;29.83 in
+02.12.2000;Köln;1860 München;4;0;Bundesliga;Mostly Cloudy;S;9 mph;50 °F;82 %;29.83 in
+03.12.2000;Kaiserslautern;Hamburg;2;1;Bundesliga;Mostly Cloudy;SSE;5 mph;46 °F;93 %;29.92 in
+03.12.2000;E. Cottbus;H. Rostock;1;0;Bundesliga;Mostly Cloudy;SSE;5 mph;46 °F;93 %;29.92 in
+08.12.2000;E. Frankfurt;Wolfsburg;1;2;Bundesliga;Mostly Cloudy;ENE;8 mph;46 °F;87 %;29.29 in
+09.12.2000;B. Dortmund;Unterhaching;3;0;Bundesliga;Fair;S;13 mph;50 °F;71 %;29.35 in
+09.12.2000;Schalke 04;Stuttgart;2;1;Bundesliga;Fair;SSE;10 mph;46 °F;81 %;29.68 in
+09.12.2000;Freiburg;Bochum;5;0;Bundesliga;Mostly Cloudy;SSE;1 mph;45 °F;93 %;28.99 in
+09.12.2000;Kaiserslautern;Bayern Münih;0;0;Bundesliga;Fair;SSE;10 mph;46 °F;81 %;29.68 in
+09.12.2000;1860 München;H. Rostock;2;1;Bundesliga;Fair;SSE;10 mph;46 °F;81 %;29.68 in
+10.12.2000;Werder Bremen;Köln;2;1;Bundesliga;Partly Cloudy;S;9 mph;46 °F;87 %;29.82 in
+10.12.2000;B. Leverkusen;Hertha Berlin;4;0;Bundesliga;Partly Cloudy;SSE;12 mph;48 °F;76 %;29.59 in
+10.12.2000;Hamburg;E. Cottbus;2;1;Bundesliga;Fair;SSW;15 mph;50 °F;71 %;29.80 in
+12.12.2000;Stuttgart;E. Frankfurt;4;1;Bundesliga;Fair;VAR;1 mph;48 °F;71 %;28.79 in
+12.12.2000;Wolfsburg;Freiburg;1;2;Bundesliga;Fair;WSW;5 mph;57 °F;91 %;30.06 in
+12.12.2000;Unterhaching;Schalke 04;0;2;Bundesliga;Mostly Cloudy;SSW;12 mph;50 °F;94 %;29.86 in
+13.12.2000;Bayern Münih;Hamburg;2;1;Bundesliga;Fair;W;3 mph;46 °F;76 %;28.59 in
+13.12.2000;Bochum;B. Leverkusen;3;2;Bundesliga;Mostly Cloudy / Windy;SW;30 mph;55 °F;63 %;29.26 in
+13.12.2000;H. Rostock;Werder Bremen;5;2;Bundesliga;Mostly Cloudy;S;15 mph;54 °F;88 %;29.68 in
+13.12.2000;Hertha Berlin;Kaiserslautern;2;4;Bundesliga;Mostly Cloudy;S;15 mph;54 °F;88 %;29.68 in
+13.12.2000;Köln;B. Dortmund;0;0;Bundesliga;Mostly Cloudy;S;15 mph;54 °F;88 %;29.68 in
+13.12.2000;E. Cottbus;1860 München;2;3;Bundesliga;Mostly Cloudy;S;15 mph;54 °F;88 %;29.68 in
+15.12.2000;Unterhaching;E. Frankfurt;2;0;Bundesliga;Mostly Cloudy;SW;14 mph;43 °F;87 %;29.33 in
+16.12.2000;Stuttgart;Freiburg;0;0;Bundesliga;Partly Cloudy;SW;9 mph;37 °F;87 %;28.34 in
+16.12.2000;Bochum;Kaiserslautern;0;1;Bundesliga;Mostly Cloudy / Windy;WSW;25 mph;36 °F;81 %;29.26 in
+16.12.2000;Wolfsburg;B. Leverkusen;2;0;Bundesliga;Fair;WSW;8 mph;42 °F;82 %;30.06 in
+16.12.2000;H. Rostock;B. Dortmund;1;2;Bundesliga;Partly Cloudy;W;13 mph;37 °F;87 %;29.36 in
+16.12.2000;1860 München;Hamburg;2;1;Bundesliga;Partly Cloudy;W;13 mph;37 °F;87 %;29.36 in
+16.12.2000;Köln;Schalke 04;2;2;Bundesliga;Partly Cloudy;W;13 mph;37 °F;87 %;29.36 in
+17.12.2000;Hertha Berlin;Bayern Münih;1;3;Bundesliga;Fair;W;10 mph;37 °F;87 %;29.62 in
+17.12.2000;E. Cottbus;Werder Bremen;3;1;Bundesliga;Fair;W;10 mph;37 °F;87 %;29.62 in
+20.12.2000;Unterhaching;Werder Bremen;0;0;Bundesliga;Fair;E;8 mph;30 °F;93 %;30.33 in
+26.01.2001;Schalke 04;H. Rostock;2;0;Bundesliga;Mostly Cloudy;SW;7 mph;41 °F;93 %;29.53 in
+27.01.2001;Werder Bremen;1860 München;2;0;Bundesliga;Fair;S;7 mph;36 °F;93 %;29.47 in
+27.01.2001;Bayern Münih;Bochum;3;2;Bundesliga;Fair;E;7 mph;27 °F;100 %;28.11 in
+27.01.2001;B. Dortmund;E. Cottbus;2;0;Bundesliga;Partly Cloudy;S;6 mph;41 °F;70 %;28.83 in
+27.01.2001;Freiburg;Unterhaching;2;0;Bundesliga;Mostly Cloudy;ESE;10 mph;41 °F;81 %;28.48 in
+27.01.2001;Kaiserslautern;Wolfsburg;0;0;Bundesliga;Partly Cloudy;SSE;8 mph;37 °F;87 %;29.44 in
+27.01.2001;E. Frankfurt;Köln;1;5;Bundesliga;Partly Cloudy;SE;5 mph;41 °F;76 %;29.14 in
+28.01.2001;B. Leverkusen;Stuttgart;4;0;Bundesliga;Partly Cloudy;SW;8 mph;37 °F;81 %;29.21 in
+28.01.2001;Hamburg;Hertha Berlin;1;2;Bundesliga;Cloudy;NNW;2 mph;32 °F;93 %;29.27 in
+02.02.2001;1860 München;B. Dortmund;1;0;Bundesliga;Mostly Cloudy;NNW;6 mph;30 °F;86 %;30.15 in
+03.02.2001;Werder Bremen;Hamburg;3;1;Bundesliga;Mostly Cloudy;E;14 mph;23 °F;80 %;29.94 in
+03.02.2001;Stuttgart;Kaiserslautern;6;1;Bundesliga;Mostly Cloudy;SSE;3 mph;28 °F;100 %;28.46 in
+03.02.2001;Bochum;Hertha Berlin;1;3;Bundesliga;Mostly Cloudy;ENE;5 mph;28 °F;93 %;29.32 in
+03.02.2001;Wolfsburg;Bayern Münih;1;3;Bundesliga;Fair;WSW;8 mph;51 °F;91 %;30.06 in
+03.02.2001;Köln;Freiburg;0;1;Bundesliga;Fair;ENE;5 mph;18 °F;73 %;29.98 in
+03.02.2001;E. Cottbus;Schalke 04;4;1;Bundesliga;Fair;ENE;5 mph;18 °F;73 %;29.98 in
+04.02.2001;H. Rostock;E. Frankfurt;0;2;Bundesliga;Mostly Cloudy;E;10 mph;23 °F;80 %;29.65 in
+04.02.2001;Unterhaching;B. Leverkusen;1;2;Bundesliga;Mostly Cloudy;E;10 mph;23 °F;80 %;29.65 in
+09.02.2001;E. Frankfurt;E. Cottbus;1;0;Bundesliga;Mostly Cloudy;S;8 mph;46 °F;87 %;29.26 in
+10.02.2001;Bayern Münih;Stuttgart;1;0;Bundesliga;Mostly Cloudy;W;9 mph;39 °F;87 %;28.70 in
+10.02.2001;B. Leverkusen;Köln;4;1;Bundesliga;Fair;E;5 mph;30 °F;86 %;29.94 in
+10.02.2001;Schalke 04;1860 München;2;0;Bundesliga;Partly Cloudy;NNW;1 mph;27 °F;93 %;30.24 in
+10.02.2001;Hamburg;Bochum;3;0;Bundesliga;Partly Cloudy;NNW;1 mph;27 °F;93 %;30.24 in
+10.02.2001;Kaiserslautern;Unterhaching;4;0;Bundesliga;Partly Cloudy;NNW;1 mph;27 °F;93 %;30.24 in
+10.02.2001;Hertha Berlin;Wolfsburg;1;3;Bundesliga;Partly Cloudy;NNW;1 mph;27 °F;93 %;30.24 in
+11.02.2001;B. Dortmund;Werder Bremen;0;0;Bundesliga;Partly Cloudy;SSW;16 mph;45 °F;61 %;29.96 in
+11.02.2001;Freiburg;H. Rostock;0;0;Bundesliga;Fair;S;6 mph;32 °F;100 %;29.65 in
+16.02.2001;1860 München;E. Frankfurt;2;2;Bundesliga;Mostly Cloudy;SSE;2 mph;28 °F;100 %;30.36 in
+17.02.2001;Werder Bremen;Schalke 04;2;1;Bundesliga;Mostly Cloudy;NNE;10 mph;37 °F;100 %;30.44 in
+17.02.2001;B. Dortmund;Hamburg;4;2;Bundesliga;Mostly Cloudy;NNE;9 mph;37 °F;93 %;30.02 in
+17.02.2001;Wolfsburg;Bochum;0;0;Bundesliga;Fair;WSW;5 mph;41 °F;97 %;30.06 in
+17.02.2001;H. Rostock;B. Leverkusen;2;1;Bundesliga;Mostly Cloudy;ENE;8 mph;37 °F;93 %;30.42 in
+17.02.2001;E. Cottbus;Freiburg;0;2;Bundesliga;Mostly Cloudy;ENE;8 mph;37 °F;93 %;30.42 in
+17.02.2001;Unterhaching;Bayern Münih;1;0;Bundesliga;Mostly Cloudy;ENE;8 mph;37 °F;93 %;30.42 in
+18.02.2001;Stuttgart;Hertha Berlin;0;1;Bundesliga;Mostly Cloudy;N;9 mph;36 °F;93 %;29.02 in
+18.02.2001;Köln;Kaiserslautern;0;1;Bundesliga;Mostly Cloudy;WNW;12 mph;37 °F;87 %;30.56 in
+23.02.2001;B. Leverkusen;E. Cottbus;1;3;Bundesliga;Cloudy;W;12 mph;39 °F;87 %;29.39 in
+24.02.2001;Bayern Münih;Köln;1;1;Bundesliga;Fair;NNW;8 mph;28 °F;74 %;28.11 in
+24.02.2001;Schalke 04;B. Dortmund;0;0;Bundesliga;Fair;NW;5 mph;21 °F;80 %;29.68 in
+24.02.2001;Hamburg;Wolfsburg;3;2;Bundesliga;Fair;NW;5 mph;21 °F;80 %;29.68 in
+24.02.2001;Freiburg;1860 München;0;3;Bundesliga;Partly Cloudy;WSW;9 mph;34 °F;81 %;28.76 in
+24.02.2001;E. Frankfurt;Werder Bremen;1;2;Bundesliga;Fair;E;2 mph;27 °F;93 %;29.31 in
+25.02.2001;Bochum;Stuttgart;0;0;Bundesliga;Mostly Cloudy;SSW;12 mph;27 °F;74 %;29.38 in
+25.02.2001;Kaiserslautern;H. Rostock;0;1;Bundesliga;Mostly Cloudy;WSW;12 mph;30 °F;86 %;29.68 in
+02.03.2001;B. Dortmund;E. Frankfurt;6;1;Bundesliga;Mostly Cloudy;NNE;2 mph;0 °F;93 %;29.00 in
+03.03.2001;Werder Bremen;Freiburg;3;1;Bundesliga;Fair;NNE;7 mph;27 °F;86 %;29.44 in
+03.03.2001;Stuttgart;Wolfsburg;2;1;Bundesliga;Cloudy;E;5 mph;36 °F;93 %;27.78 in
+03.03.2001;H. Rostock;Bayern Münih;3;2;Bundesliga;Mostly Cloudy;NE;8 mph;28 °F;86 %;29.42 in
+03.03.2001;Köln;Hertha Berlin;1;0;Bundesliga;Mostly Cloudy;NE;8 mph;28 °F;86 %;29.42 in
+03.03.2001;E. Cottbus;Kaiserslautern;0;2;Bundesliga;Mostly Cloudy;NE;8 mph;28 °F;86 %;29.42 in
+03.03.2001;Unterhaching;Bochum;2;1;Bundesliga;Mostly Cloudy;NE;8 mph;28 °F;86 %;29.42 in
+04.03.2001;Schalke 04;Hamburg;0;1;Bundesliga;Mostly Cloudy;ENE;8 mph;28 °F;80 %;29.50 in
+04.03.2001;1860 München;B. Leverkusen;1;0;Bundesliga;Mostly Cloudy;ENE;8 mph;28 °F;80 %;29.50 in
+07.03.2001;Hertha Berlin;Unterhaching;2;1;Bundesliga;Fair;SE;14 mph;32 °F;75 %;30.06 in
+09.03.2001;B. Leverkusen;Werder Bremen;3;0;Bundesliga;Fair;S;7 mph;50 °F;76 %;29.24 in
+10.03.2001;Bayern Münih;E. Cottbus;2;0;Bundesliga;Fair;SSW;6 mph;43 °F;87 %;28.31 in
+10.03.2001;Bochum;Köln;2;3;Bundesliga;Partly Cloudy;S;8 mph;46 °F;87 %;29.15 in
+10.03.2001;Wolfsburg;Unterhaching;6;1;Bundesliga;Fair;WSW;6 mph;48 °F;84 %;30.06 in
+10.03.2001;Freiburg;B. Dortmund;2;2;Bundesliga;Mostly Cloudy;SSE;6 mph;46 °F;87 %;28.82 in
+10.03.2001;Hertha Berlin;H. Rostock;1;0;Bundesliga;Mostly Cloudy;SSW;12 mph;48 °F;87 %;29.50 in
+10.03.2001;E. Frankfurt;Schalke 04;0;0;Bundesliga;Mostly Cloudy;WSW;7 mph;48 °F;93 %;29.34 in
+11.03.2001;Hamburg;Stuttgart;2;2;Bundesliga;Cloudy;SSW;8 mph;50 °F;87 %;29.50 in
+11.03.2001;Kaiserslautern;1860 München;3;2;Bundesliga;Cloudy;SSW;8 mph;50 °F;87 %;29.50 in
+16.03.2001;Köln;Wolfsburg;0;0;Bundesliga;Fair;SW;8 mph;43 °F;76 %;29.77 in
+17.03.2001;B. Dortmund;B. Leverkusen;1;3;Bundesliga;Mostly Cloudy;NNE;9 mph;41 °F;76 %;29.15 in
+17.03.2001;Schalke 04;Freiburg;0;0;Bundesliga;Fair;NNW;3 mph;32 °F;87 %;29.80 in
+17.03.2001;H. Rostock;Bochum;2;0;Bundesliga;Fair;NNW;3 mph;32 °F;87 %;29.80 in
+17.03.2001;1860 München;Bayern Münih;0;2;Bundesliga;Fair;NNW;3 mph;32 °F;87 %;29.80 in
+17.03.2001;E. Frankfurt;Hamburg;1;1;Bundesliga;Fair;NNE;12 mph;50 °F;82 %;29.29 in
+17.03.2001;E. Cottbus;Hertha Berlin;3;0;Bundesliga;Fair;NNW;3 mph;32 °F;87 %;29.80 in
+18.03.2001;Werder Bremen;Kaiserslautern;1;2;Bundesliga;Mostly Cloudy;ENE;14 mph;34 °F;100 %;29.59 in
+18.03.2001;Unterhaching;Stuttgart;0;0;Bundesliga;Mostly Cloudy;E;9 mph;36 °F;87 %;29.62 in
+30.03.2001;Wolfsburg;H. Rostock;2;1;Bundesliga;Fair;WSW;10 mph;44 °F;94 %;30.06 in
+31.03.2001;Bayern Münih;Werder Bremen;2;3;Bundesliga;Mostly Cloudy;S;3 mph;43 °F;93 %;28.56 in
+31.03.2001;Stuttgart;Köln;0;3;Bundesliga;Partly Cloudy;NE;1 mph;39 °F;87 %;28.68 in
+31.03.2001;B. Leverkusen;Schalke 04;0;3;Bundesliga;Fair;E;5 mph;41 °F;93 %;29.74 in
+31.03.2001;Hamburg;Unterhaching;1;1;Bundesliga;Mostly Cloudy;WSW;5 mph;43 °F;87 %;29.98 in
+31.03.2001;Freiburg;E. Frankfurt;5;2;Bundesliga;Fair;SSE;5 mph;36 °F;93 %;29.22 in
+31.03.2001;Hertha Berlin;1860 München;3;0;Bundesliga;Mostly Cloudy;WSW;5 mph;43 °F;87 %;29.98 in
+01.04.2001;Bochum;E. Cottbus;1;0;Bundesliga;Mostly Cloudy;SSW;9 mph;50 °F;71 %;29.73 in
+01.04.2001;Kaiserslautern;B. Dortmund;1;4;Bundesliga;Mostly Cloudy;SSW;15 mph;54 °F;54 %;30.06 in
+06.04.2001;E. Cottbus;Wolfsburg;0;0;Bundesliga;Fair;SSE;10 mph;46 °F;62 %;29.68 in
+07.04.2001;Werder Bremen;Hertha Berlin;3;1;Bundesliga;Mostly Cloudy;SSE;8 mph;50 °F;100 %;29.50 in
+07.04.2001;B. Dortmund;Bayern Münih;1;1;Bundesliga;Mostly Cloudy / Windy;W;28 mph;46 °F;87 %;29.03 in
+07.04.2001;Freiburg;Hamburg;0;0;Bundesliga;Mostly Cloudy;WSW;8 mph;54 °F;82 %;28.76 in
+07.04.2001;1860 München;Bochum;2;4;Bundesliga;Mostly Cloudy;SSW;8 mph;50 °F;87 %;29.50 in
+07.04.2001;E. Frankfurt;B. Leverkusen;1;3;Bundesliga;Mostly Cloudy;S;10 mph;50 °F;94 %;29.26 in
+07.04.2001;Köln;Unterhaching;1;1;Bundesliga;Mostly Cloudy;SSW;8 mph;50 °F;87 %;29.50 in
+08.04.2001;Schalke 04;Kaiserslautern;5;1;Bundesliga;Mostly Cloudy;SSW;2 mph;45 °F;81 %;29.62 in
+08.04.2001;H. Rostock;Stuttgart;1;1;Bundesliga;Mostly Cloudy;SSW;2 mph;45 °F;81 %;29.62 in
+13.04.2001;Stuttgart;E. Cottbus;1;0;Bundesliga;Fair;WNW;10 mph;41 °F;61 %;28.77 in
+14.04.2001;Bayern Münih;Schalke 04;1;3;Bundesliga;Mostly Cloudy;N;8 mph;30 °F;80 %;28.64 in
+14.04.2001;B. Leverkusen;Freiburg;1;3;Bundesliga;Fair;N;7 mph;32 °F;60 %;30.00 in
+14.04.2001;Bochum;Werder Bremen;1;2;Bundesliga;Fair;SW;5 mph;28 °F;74 %;29.90 in
+14.04.2001;Wolfsburg;1860 München;0;1;Bundesliga;Fair;WSW;8 mph;47 °F;82 %;30.06 in
+14.04.2001;Kaiserslautern;E. Frankfurt;4;2;Bundesliga;Fair;NW;6 mph;32 °F;55 %;30.27 in
+14.04.2001;Hertha Berlin;B. Dortmund;1;0;Bundesliga;Fair;NW;6 mph;32 °F;55 %;30.27 in
+15.04.2001;Hamburg;Köln;1;1;Bundesliga;Cloudy;SSW;10 mph;34 °F;87 %;29.89 in
+15.04.2001;Unterhaching;H. Rostock;1;1;Bundesliga;Cloudy;SSW;10 mph;34 °F;87 %;29.89 in
+20.04.2001;B. Dortmund;Bochum;5;0;Bundesliga;Mostly Cloudy;SSW;8 mph;36 °F;87 %;29.23 in
+21.04.2001;Werder Bremen;Wolfsburg;2;3;Bundesliga;Mostly Cloudy;ESE;7 mph;37 °F;100 %;29.85 in
+21.04.2001;B. Leverkusen;Hamburg;1;1;Bundesliga;Fair;NE;5 mph;34 °F;93 %;29.45 in
+21.04.2001;Schalke 04;Hertha Berlin;3;1;Bundesliga;Fair;NE;6 mph;36 °F;87 %;29.83 in
+21.04.2001;H. Rostock;Köln;2;1;Bundesliga;Fair;NE;6 mph;36 °F;87 %;29.83 in
+21.04.2001;E. Frankfurt;Bayern Münih;0;2;Bundesliga;Fair;NE;2 mph;36 °F;81 %;29.37 in
+21.04.2001;E. Cottbus;Unterhaching;1;0;Bundesliga;Fair;NE;6 mph;36 °F;87 %;29.83 in
+22.04.2001;Freiburg;Kaiserslautern;5;2;Bundesliga;Mostly Cloudy;NW;10 mph;37 °F;100 %;28.79 in
+22.04.2001;1860 München;Stuttgart;2;1;Bundesliga;Fair;N;5 mph;39 °F;75 %;29.77 in
+27.04.2001;Wolfsburg;B. Dortmund;1;1;Bundesliga;Fair;WSW;10 mph;44 °F;91 %;30.06 in
+28.04.2001;Bayern Münih;Freiburg;1;0;Bundesliga;Fair;VAR;1 mph;50 °F;62 %;28.42 in
+28.04.2001;Stuttgart;Werder Bremen;2;1;Bundesliga;Fair;SSE;2 mph;48 °F;93 %;28.54 in
+28.04.2001;Bochum;Schalke 04;1;1;Bundesliga;Mostly Cloudy;S;10 mph;48 °F;82 %;29.32 in
+28.04.2001;Kaiserslautern;B. Leverkusen;0;1;Bundesliga;Mostly Cloudy;SSE;3 mph;46 °F;87 %;29.80 in
+28.04.2001;Hertha Berlin;E. Frankfurt;3;0;Bundesliga;Mostly Cloudy;SSE;3 mph;46 °F;87 %;29.80 in
+28.04.2001;Köln;E. Cottbus;4;0;Bundesliga;Mostly Cloudy;SSE;3 mph;46 °F;87 %;29.80 in
+29.04.2001;Hamburg;H. Rostock;2;1;Bundesliga;Fair;SE;2 mph;43 °F;93 %;29.71 in
+29.04.2001;Unterhaching;1860 München;3;2;Bundesliga;Fair;SE;2 mph;43 °F;93 %;29.71 in
+04.05.2001;B. Dortmund;Stuttgart;0;0;Bundesliga;Mostly Cloudy;W;10 mph;54 °F;88 %;29.20 in
+05.05.2001;B. Leverkusen;Bayern Münih;0;1;Bundesliga;Mostly Cloudy;N;8 mph;50 °F;82 %;29.51 in
+05.05.2001;Schalke 04;Wolfsburg;2;1;Bundesliga;Mostly Cloudy;NW;9 mph;48 °F;76 %;29.83 in
+05.05.2001;Hamburg;Kaiserslautern;1;1;Bundesliga;Mostly Cloudy;NW;9 mph;48 °F;76 %;29.83 in
+05.05.2001;H. Rostock;E. Cottbus;1;0;Bundesliga;Mostly Cloudy;NW;9 mph;48 °F;76 %;29.83 in
+05.05.2001;1860 München;Köln;3;1;Bundesliga;Mostly Cloudy;NW;9 mph;48 °F;76 %;29.83 in
+05.05.2001;E. Frankfurt;Bochum;3;0;Bundesliga;Fair;N;20 mph;54 °F;77 %;29.34 in
+06.05.2001;Werder Bremen;Unterhaching;0;0;Bundesliga;Fair;N;9 mph;45 °F;87 %;30.03 in
+06.05.2001;Freiburg;Hertha Berlin;1;0;Bundesliga;Cloudy;N;12 mph;46 °F;100 %;28.91 in
+12.05.2001;Bayern Münih;Kaiserslautern;2;1;Bundesliga;Fair;NE;8 mph;55 °F;72 %;28.50 in
+12.05.2001;Stuttgart;Schalke 04;1;0;Bundesliga;Fair;NNW;3 mph;59 °F;59 %;28.60 in
+12.05.2001;Bochum;Freiburg;1;3;Bundesliga;Fair;VAR;2 mph;52 °F;76 %;29.67 in
+12.05.2001;Wolfsburg;E. Frankfurt;3;0;Bundesliga;Fair;WSW;5 mph;57 °F;84 %;30.06 in
+12.05.2001;H. Rostock;1860 München;0;0;Bundesliga;Fair;ENE;5 mph;50 °F;71 %;30.15 in
+12.05.2001;Hertha Berlin;B. Leverkusen;1;1;Bundesliga;Fair;ENE;5 mph;50 °F;71 %;30.15 in
+12.05.2001;Köln;Werder Bremen;1;3;Bundesliga;Fair;ENE;5 mph;50 °F;71 %;30.15 in
+12.05.2001;E. Cottbus;Hamburg;4;2;Bundesliga;Fair;ENE;5 mph;50 °F;71 %;30.15 in
+12.05.2001;Unterhaching;B. Dortmund;1;4;Bundesliga;Fair;ENE;5 mph;50 °F;71 %;30.15 in
+19.05.2001;Werder Bremen;H. Rostock;3;0;Bundesliga;Mostly Cloudy;W;8 mph;46 °F;87 %;30.00 in
+19.05.2001;B. Leverkusen;Bochum;1;0;Bundesliga;Mostly Cloudy;W;9 mph;52 °F;88 %;29.80 in
+19.05.2001;B. Dortmund;Köln;3;3;Bundesliga;Mostly Cloudy;SW;7 mph;48 °F;93 %;29.67 in
+19.05.2001;Schalke 04;Unterhaching;5;3;Bundesliga;Partly Cloudy;W;10 mph;48 °F;71 %;29.95 in
+19.05.2001;Hamburg;Bayern Münih;1;1;Bundesliga;Partly Cloudy;W;10 mph;48 °F;71 %;29.95 in
+19.05.2001;Freiburg;Wolfsburg;4;1;Bundesliga;Fair;SSE;3 mph;43 °F;100 %;29.25 in
+19.05.2001;Kaiserslautern;Hertha Berlin;0;1;Bundesliga;Partly Cloudy;W;10 mph;48 °F;71 %;29.95 in
+19.05.2001;1860 München;E. Cottbus;0;1;Bundesliga;Partly Cloudy;W;10 mph;48 °F;71 %;29.95 in
+19.05.2001;E. Frankfurt;Stuttgart;2;1;Bundesliga;Mostly Cloudy;SW;7 mph;54 °F;82 %;29.75 in
