@@ -1,0 +1,109 @@
+import requests
+from bs4 import BeautifulSoup
+
+main_url = "https://www.arabam.com/"
+
+def veri_cek(base_url, input_deger):
+    try:
+        sayfa = 1
+        while sayfa<=5:
+            # Sayfalama için URL oluşturuluyor
+            data_scrapping_url = f"{base_url}/{input_deger}?page={sayfa}"
+            print(f"\nVeri çekilecek URL: {data_scrapping_url}")
+
+            # URL'den sayfa içeriği çekiliyor
+            response = requests.get(data_scrapping_url)
+            soup = BeautifulSoup(response.text, "html.parser")
+
+            # Tüm ilan linklerini çekmek için <a> etiketleri
+            ilanlar = soup.find_all("a", class_="link-overlay")  # class name'e göre seçim
+            ilan_linkleri = [f"{main_url}{ilan['href']}" for ilan in ilanlar if 'href' in ilan.attrs]
+
+            # Eğer sayfada ilan yoksa döngüyü bitir
+            if not ilan_linkleri:
+                print("\nDaha fazla ilan bulunamadı. Sayfalama sonlandırılıyor.")
+                break
+
+            # Tekrarlayan linkleri kaldırmak için set kullanıyoruz
+            unique_ilan_linkleri = list(set(ilan_linkleri))
+
+            print(f"\nSayfa {sayfa} - Bulunan ilan linkleri ({len(unique_ilan_linkleri)} adet):")
+            for link in unique_ilan_linkleri:
+                print(link)
+
+            # Her bir ilan linkinin içeriğini çek
+            for index, ilan_link in enumerate(unique_ilan_linkleri, start=1):
+                print(f"\n{index}. İlan verileri çekiliyor: {ilan_link}")
+                ilan_verileri_cek(ilan_link)
+
+            # Bir sonraki sayfaya geç
+            sayfa += 1
+
+    except Exception as e:
+        print(f"Hata oluştu: {e}")
+
+def ilan_verileri_cek(ilan_link):
+    try:
+        response = requests.get(ilan_link)
+        soup = BeautifulSoup(response.text, "html.parser")
+
+        # Araç özelliklerini çekme
+        property_list = soup.find("div", class_="product-properties-details")
+        property_list_location = soup.find("div", class_="product-info-container")  # Yer bilgisi burada
+        price_container = soup.find("div", class_="product-price-container")  # Fiyat bilgisi burada
+
+        # İstediğimiz kriterler
+        selected_criteria = [
+            "Marka", "Seri", "Model", "Yıl", "Kilometre", "Vites Tipi", "Yakıt Tipi", "Kasa Tipi",
+            "Renk", "Motor Hacmi", "Motor Gücü", "Çekiş", "Araç Durumu", "Yakıt Deposu",
+            "Boya-değişen", "Takasa Uygun", "Kimden", "Yer", "Fiyat"
+        ]
+        criteria_output = {}
+
+        # Araç özelliklerini yazdırma
+        if property_list:
+            property_items = property_list.find_all("div", class_="property-item")
+
+            for item in property_items:
+                key = item.find("div", class_="property-key")
+                value = item.find("div", class_="property-value")
+
+                if key and value:
+                    key_text = key.text.strip()
+                    value_text = value.text.strip()
+                    if key_text in selected_criteria:
+                        criteria_output[key_text] = value_text
+
+        # Yer bilgisi ekleme
+        if property_list_location:
+            location_span = property_list_location.find("span", class_="product-location")
+            if location_span:
+                location_text = location_span.text.strip()
+                if "Yer" in selected_criteria:
+                    criteria_output["Yer"] = location_text
+
+        # Fiyat bilgisi ekleme
+        if price_container:
+            price_value = price_container.find("div", {"data-testid": "desktop-information-price"})
+            if price_value:
+                price_text = price_value.text.strip()
+                if "Fiyat" in selected_criteria:
+                    criteria_output["Fiyat"] = price_text
+
+        # Sonuçları yazdır
+        if criteria_output:
+            print("\nAraç Özellikleri:")
+            for key, value in criteria_output.items():
+                print(f"{key}: {value}")
+        else:
+            print("Bu ilan için özellikler bulunamadı.")
+
+    except Exception as e:
+        print(f"Hata oluştu: {e}")
+
+# Kullanıcıdan giriş alma
+input_deger = input("Araba markasını girin (örnek: audi): ").strip()
+base_url = "https://www.arabam.com/ikinci-el/otomobil"  # Örnek base URL
+
+# Veri çekme işlemini başlat
+veri_cek(base_url, input_deger)
