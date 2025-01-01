@@ -1,14 +1,19 @@
 import requests
 from bs4 import BeautifulSoup
-#sa
+import time
+
 main_url = "https://www.arabam.com/"
 
-def veri_cek(base_url, input_deger):
+def veri_cek(base_url, marka, model, yil_min, yil_max, fiyat_min, fiyat_max, max_sayfa):
     try:
-        sayfa = 1
-        while sayfa<=3: #Kaç sayfa çekilecekse buradan değiştirilebilir.
-            # Sayfalama için URL oluşturuluyor
-            data_scrapping_url = f"{base_url}/{input_deger}?page={sayfa}"
+        start_time = time.time()  # İşlem süresi başlangıcı
+        sayfa = 1  # İlk sayfa
+
+        while sayfa <= max_sayfa:
+            # Filtreleme ve sayfa parametresi ile tam URL oluşturuluyor
+            data_scrapping_url = (
+                f"{base_url}/{marka}-{model}?currency=TL&minPrice={fiyat_min}&maxPrice={fiyat_max}&minYear={yil_min}&maxYear={yil_max}&page={sayfa}"
+            )
             print(f"\nVeri çekilecek URL: {data_scrapping_url}")
 
             # URL'den sayfa içeriği çekiliyor
@@ -39,6 +44,9 @@ def veri_cek(base_url, input_deger):
             # Bir sonraki sayfaya geç
             sayfa += 1
 
+        end_time = time.time()  # İşlem süresi bitişi
+        print(f"\nİşlem tamamlandı. Toplam süre: {end_time - start_time:.2f} saniye")
+
     except Exception as e:
         print(f"Hata oluştu: {e}")
 
@@ -54,9 +62,9 @@ def ilan_verileri_cek(ilan_link):
 
         # İstediğimiz kriterler
         selected_criteria = [
-            "Marka", "Seri", "Model", "Yıl", "Kilometre", "Vites Tipi", "Yakıt Tipi", "Kasa Tipi",
-            "Renk", "Motor Hacmi", "Motor Gücü", "Çekiş", "Araç Durumu", "Yakıt Deposu",
-            "Boya-değişen", "Takasa Uygun", "Kimden", "Yer", "Fiyat"
+            "Marka", "Seri", "Model", "Yıl", "Kilometre", "Vites Tipi", "Yakıt Tipi", "Kasa Tipi", "Renk",
+            "Motor Hacmi", "Motor Gücü", "Çekiş", "Araç Durumu", "Yakıt Deposu", "Boya-değişen", "Takasa Uygun",
+            "Kimden", "Yer", "Fiyat"
         ]
         criteria_output = {}
 
@@ -102,8 +110,15 @@ def ilan_verileri_cek(ilan_link):
         print(f"Hata oluştu: {e}")
 
 # Kullanıcıdan giriş alma
-input_deger = input("Araba markasını girin (örnek: audi): ").strip()
+marka = input("Araba markasını girin (örnek: audi): ").strip()
+model = input("Araba modelini girin (örnek: a3): ").strip()
+yil_min = input("Minimum yıl (örnek: 2015): ").strip()
+yil_max = input("Maksimum yıl (örnek: 2017): ").strip()
+fiyat_min = input("Minimum fiyat (örnek: 200000): ").strip()
+fiyat_max = input("Maksimum fiyat (örnek: 300000): ").strip()
+max_sayfa = int(input("Kaç sayfa çekmek istiyorsunuz? (örnek: 3): "))
+
 base_url = "https://www.arabam.com/ikinci-el/otomobil"  # Örnek base URL
 
 # Veri çekme işlemini başlat
-veri_cek(base_url, input_deger)
+veri_cek(base_url, marka, model, yil_min, yil_max, fiyat_min, fiyat_max, max_sayfa)
