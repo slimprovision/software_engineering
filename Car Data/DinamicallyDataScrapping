@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-
+#sa
 main_url = "https://www.arabam.com/"
 
 def veri_cek(base_url, input_deger):
