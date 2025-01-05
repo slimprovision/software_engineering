@@ -15,7 +15,6 @@ def run_script(league, season, date, driver_path):
     chrome_options.add_argument("--incognito")  # Gizli mod ekleniyor
     chrome_options.add_argument("--headless")  # Tarayıcı penceresi olmadan çalıştır
     chrome_options.add_argument("--disable-gpu")  # GPU kullanımını devre dışı bırak (bazı sistemlerde gerekli)
-
     # WebDriver'i başlat 
     service = Service(driver_path)
     driver = webdriver.Chrome(service=service, options=chrome_options)
@@ -104,7 +103,7 @@ def run_script(league, season, date, driver_path):
         except NoSuchElementException:
             print("Geri butonu bulunamadı.")
 
-            
+
 
     def extract_data(date):
         day, month, year = date.split(".")
@@ -212,19 +211,55 @@ def run_script(league, season, date, driver_path):
                     away_red_card_counter = len(away_red_card_elements)  # Bulunan tüm kırmızı kartları say
                     
                     #istatistik kısmına tıklandığında
-                    try:
-                        WebDriverWait(driver, 5).until(
-                            EC.presence_of_element_located((By.CLASS_NAME, 'widget-match-detail-submenu__icon--stats'))
-                        )
+                    try:  
                         statistics_button=driver.find_element(By.CLASS_NAME,"widget-match-detail-submenu__icon--stats")
-                        if statistics_button:#istatistik butonu var ise
-                            statistics_button=driver.find_element(By.CLASS_NAME,"widget-match-detail-submenu__icon--stats") 
-                            WebDriverWait(driver, 50).until(
-                                EC.element_to_be_clickable((By.CLASS_NAME, 'widget-match-detail-submenu__icon--stats'))
-                            )
+                        # Eğer "widget-gameweek__arrow--disabled" sınıfı varsa
+                        if "widget-match-detail-submenu__icon--disabled" in statistics_button.get_attribute("class"):
+                            # Belirtilen tarihin matches_on_date'te olup olmadığını kontrol et
+                            print("No statistics button")
+                            home_playing_ball_percent="No Data"
+                            away_playing_ball_percent="No Data"
+                            home_winning_Binary="No Data"
+                            away_playing_ball_percent="No Data"
+                            home_winning_Binary="No Data"
+                            away_winning_Binary="No Data"
+                            home_winning_AirBall="No Data"
+                            away_winning_AirBall="No Data"
+                            home_pass_Break="No Data"
+                            away_pass_Break="No Data"
+                            home_Offside="No Data"
+                            away_Offside="No Data"
+                            home_corner="No Data"
+                            away_corner="No Data"
+                            home_total_pass="No Data"
+                            away_total_pass="No Data"
+                            home_accurate_pass="No Data"
+                            away_accurate_pass="No Data"
+                            home_accuratepass_percent="No Data"
+                            away_accuratepass_percent="No Data"
+                            home_total_Centerthrows="No Data"
+                            away_total_Centerthrows="No Data"
+                            home_accurate_Centerthrow="No Data"
+                            away_accurate_Centerthrow="No Data"
+                            home_total_Shot="No Data"
+                            away_total_Shot="No Data"
+                            home_accurate_Shot="No Data"
+                            away_accurate_Shot="No Data"
+                            home_not_accurate_Shot="No Data"
+                            away_not_accurate_Shot="No Data"
+                            home_blocked_Shot="No Data"
+                            away_blocked_Shot="No Data"
+                            home_Goal_Expectancy="No Data"
+                            away_Goal_Expectancy="No Data"
+                            home_MeetingBallintheOpponensPenaltyArea="No Data"
+                            away_MeetingBallintheOpponensPenaltyArea="No Data"
+                            home_Suspension="No Data"
+                            away_Suspension="No Data"
+                            home_Foul="No Data"
+                            away_Foul="No Data"
+                        else:
                             wait_if_boombastic_exists(driver)
                             button_try(statistics_button)
-                            #time.sleep(27)
                             wait_if_boombastic_exists(driver)
                             driver.execute_script("window.scrollBy(0, 400);")  # 500 piksel aşağı kaydırır
                             driver.execute_script(
@@ -340,6 +375,7 @@ def run_script(league, season, date, driver_path):
                             #i=i+1
                             away_Foul=all_statistics[-3].text 
                             a=a+1#kaçıncı maç çekildiğini göstermek için
+                            
 
                         
                     except NoSuchElementException:
@@ -558,6 +594,7 @@ def run_script(league, season, date, driver_path):
                 break
             except Exception as e:
                 print("Buton bulunamadı veya tıklanamadı: Bidaha basılcak")
+                
         
 
 
@@ -867,7 +904,6 @@ def run_script(league, season, date, driver_path):
         try:
             driver.get(url)
             wait_if_boombastic_exists(driver)
-            #time.sleep(25)
             accept_cookies()
             WebDriverWait(driver, 50).until(
                 EC.element_to_be_clickable((By.CLASS_NAME, 'widget-gameweek__arrow--prev'))
@@ -889,12 +925,14 @@ def run_script(league, season, date, driver_path):
             except NoSuchElementException:
                 go_week_label(date)
             extract_data(date) 
+            return "success"
     except Exception as e:
         print(e)
             
     finally:
         # Tarayıcıyı kapat
         driver.quit()
+
 
 if __name__ == "__main__":
     print("Bu modül bir başkası tarafından çağrılmak için tasarlanmıştır.")
